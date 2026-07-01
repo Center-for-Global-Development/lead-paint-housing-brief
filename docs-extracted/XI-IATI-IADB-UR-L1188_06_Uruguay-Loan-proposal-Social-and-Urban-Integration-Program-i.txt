@@ -1,0 +1,2103 @@
+                                                                                         PUBLIC
+
+
+
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                           URUGUAY
+
+
+
+
+        SOCIAL AND URBAN INTEGRATION PROGRAM IN URUGUAY
+
+
+
+                                           (UR-L1188)
+
+
+
+
+                                       LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Luis Felipe Vera (CSD/HUD),
+Project Team Leader; José Francisco Demichelis (IFD/CMF) and Matias Lince Marino
+(CSD/HUD), Alternate Project Team Leaders; Luis Gastón Rodríguez, María Jimena
+Magrassi, Conrado Mussi, and Sofia Larralde (CSC/CUR); Guillermo Antonio Eschoyez
+(LEG/SGO); Allizon Milicich, Elisa Caballero, and Willy Bendix (VPC/FMP); Federico Brusa
+(CSD/CCS); Alexandre Bagolle (SCL/SPH); Graciana Rucci (SCL/LMK); Andrea Monje Silva
+(SCL/GDI); María Victoria Laporte de Armas and Ruth Catacoli (VPS/ESG); Maria Victoria
+del Campo (SPD/SDV); Diego Herrera Falla (IFD/CMF); Silvia Pérez, Gabriel Torres, Sofía
+del Castillo, and Dianela Ávila (CSD/HUD).
+
+
+
+Under the Access to Information Policy, this document is subject to public disclosure.
+                                                    CONTENTS
+
+
+
+PROJECT SUMMARY
+
+I.     DESCRIPTION AND RESULTS MONITORING .................................................................1
+
+       A.    Background, problem addressed, and rationale.............................................1
+       B.    Objectives, components, and cost................................................................14
+       C.    Key results indicators ...................................................................................15
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ................................................................17
+
+       A.    Financing instruments ..................................................................................17
+       B.    Environmental and social safeguard risks ....................................................19
+       C.    Fiduciary risks...............................................................................................20
+       D.    Other risks and key issues ...........................................................................20
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN..............................................................21
+
+       A.    Summary of implementation arrangements..................................................21
+       B.    Summary of arrangements for monitoring results ........................................24
+                                              - ii -
+
+
+
+
+                                            ANNEXES
+Annex I      Summary Development Effectiveness Matrix
+
+Annex II     Results Matrix
+
+Annex III    Fiduciary Agreements and Requirements
+
+
+                                      REQUIRED LINKS
+1.          Monitoring and evaluation plan
+
+2.          Environmental and social review summary
+
+
+                                          OPTIONAL LINKS
+1.          Economic evaluation
+
+2.          Gender and diversity analysis
+
+3.          Climate change analysis
+
+4.          Program Operating Regulations
+
+5.          Theory of change
+            Indicative analysis of output costs and allocation of amounts to disbursement-linked
+6.
+            indicators
+7.          Gap analysis of the environmental and social management system
+
+8.          Analysis of execution times
+
+9.          Lessons learned from neighborhood improvement programs in the region
+
+10.         Analysis of innovation opportunities
+
+11.         Bibliography
+
+12.         Evaluation of the executing agency’s procurement system
+
+13.         Disbursement-linked indicator matrix - associated targets and amounts
+
+14.         Environmental and social screening filter
+                                         - iii -
+
+
+
+
+                                    ABBREVIATIONS
+AFA             Adjacent formal areas
+CCLIP           Conditional credit line for investment projects
+CONAFIN-AFISA   Corporación Nacional Financiera—Administradora de Fondos de Inversión S.A.
+DINISU          Dirección Nacional de Integración Social y Urbana (National Office for Social
+                and Urban Integration)
+DLI             Disbursement-linked indicator
+FISU            Fideicomiso Integración Social y Urbana (Social and Urban Integration Trust)
+ICAP            Institutional Capacity Assessment Platform
+LBR             Loan based on results
+LGBTQ+          Lesbian, gay, bisexual, transgender, queer, and other
+MVOT            Ministry of Housing and Land Management
+SCAP            Specific coordinated action project
+SUIP            Social and urban integration project
+                                                                PROJECT SUMMARY
+                                                         URUGUAY
+                                     SOCIAL AND URBAN INTEGRATION PROGRAM IN URUGUAY
+                                                        (UR-L1188)
+                                                           Financial Terms and Conditions
+  Borrower:                                                                                          Flexible Financing Facility(a)
+  Fideicomiso Integración Social y Urbana, through Corporación
+  Nacional Financiera - Administradora de Fondos de Inversión                         Amortization period:                     12.5 years
+  S.A. in its capacity as fiduciary body.
+  Executing agency:                                                                   Disbursement period:                     4 years
+  Ministry of Housing and Land Management, through the Dirección
+  Nacional de Integración Social y Urbana (National Office for
+  Social and Urban Integration).                                                      Grace period:                            5.5 years(b)
+  Guarantor: Eastern Republic of Uruguay.
+                                                                                      Interest rate:                           SOFR-based
+               Source                      Amount (US$)                   %                                                    (c)
+                                                                                      Credit fee:
+                                                                                      Inspection and supervision               (c)
+  IDB (Ordinary Capital):                     60 million                 100
+                                                                                      fee:
+                                                                                      Weighted average life:                   9 years
+  Total:                                      60 million                 100
+                                                                                      Approval currency:                       U.S. dollars
+                                                                  Project at a Glance
+  Project objective/description. The general objective is to help reduce social and urban integration barriers in Uruguay’s
+  semiformal areas. The specific objectives are to: (i) strengthen DINISU’s management capacities; (ii) improve access to
+  adequate housing in informal settlements; (iii) expand access to adequate housing solutions in semiformal areas; and
+  (iv) promote the socioeconomic development of households in semiformal areas.
+  Special contractual conditions precedent to the first disbursement of the loan. The borrower, through the executing
+  agency, will submit evidence of: (i) the approval and entry into force of the program Operating Regulations under the terms
+  previously agreed with the Bank, which will include, inter alia, the environmental and social requirements set out in the
+  environmental and social management system and the environmental and social action plan; and (ii) having contracted the
+  independent verifier of program outcomes in accordance with the terms of reference previously agreed with the Bank
+  (paragraph 3.8). See other special contractual conditions in Annex B of the Environmental and Social Review Summary.
+  Exceptions to Bank policies: None.
+                                                                  Strategic Alignment
+  Objectives:(d)                                           O1 ☒                                O2 ☐                                  O3 ☐
+                                                              OF2-G ☒
+  Operational Focus Areas:(e)                   OF1 ☒                          OF3 ☒          OF4 ☒           OF5 ☐          OF6 ☐            OF7 ☐
+                                                              OF2-D ☒
+(a)   Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the amortization
+      schedule, as well as currency, interest rate, commodity, and catastrophe protection conversions. The Bank will take operational and risk
+      management considerations into account when reviewing such requests.
+(b)   Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that they do not entail
+      any extension of the original weighted average life or the last payment date as documented in the loan contract.
+(c)   The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the
+      Bank’s lending charges in accordance with applicable policies.
+(d)   O1 (Reducing Poverty and Inequality); O2 (Addressing Climate Change); and O3 (Bolstering Sustainable Regional Growth).
+(e)   OF1 (Biodiversity, natural capital, and climate action); OF2-G (Gender equality); OF2-D (Inclusion of diverse population groups); OF3 (Institutional
+      capacity, rule of law, and citizen security); OF4 (Social protection and human capital development); OF5 (Productive development and innovation
+      through the private sector); OF6 (Sustainable, resilient, and inclusive infrastructure); OF7 (Regional integration).
+                           I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+1.1       Background. Uruguay is one of the most urbanized countries in Latin America
+          and the Caribbean, with 96% of its 3.4 million inhabitants living in urban areas.
+          Economic vitality and social policies helped reduce poverty from 33% of the
+          population in 2006 to 10.4% in the first half of 2020. 1[1] Income poverty [2] affects
+                                                                           0
+
+
+
+
+          88,000 households, totaling 353,000 people. Poverty is, in turn, associated with
+          the precarious housing conditions of vulnerable households2 located mainly in
+          informal settlements.[3] Informal settlements and their adjacent formal areas (AFA)
+          experience similar problems related to poor access to services and urban
+          infrastructure, creating semiformal areas in cities. 3 There are some neighborhoods
+                                                                      1.
+
+
+
+
+          in Montevideo where 1.2% of households live in poverty, while the rate for others
+          in semiformal areas is 27.9%.[4, 5]
+1.2       Despite Uruguay’s work to control the growth of informal settlements, between
+          2011 and 2019 the number rose from 589 to 637 [6] and, with this, so did the
+          number of makeshift dwellings in the country’s informal settlements. These new
+          informal settlements took hold in less urbanized areas farther away from
+          employment opportunities, [7] heightening the barriers to social and urban
+          integration and the precariousness of the housing conditions of vulnerable
+          households residing in informal settlements and their AFAs.4[8] These informal
+          settlements have few urban basic services, [9] high quantitative and qualitative
+          housing deficits, [10] and little access to social services, [11] thus affecting social
+          and urban integration in areas such as education, work, and health care. They are
+          also exposed to greater climate risks and land tenure insecurity,[12] and these are
+          compounded by additional determinants of vulnerability related to gender and
+          diversity.[13]
+1.3       Since 1999, Uruguay has been working through the Ministry of Housing and Land
+          Management (MVOT) on programs to improve the quality of life of vulnerable
+          households in informal settlements [14] through neighborhood improvement and
+          housing programs.5 The Bank has supported the MVOT through Conditional Credit
+          Line for Investment Projects UR-X1003, which is currently executing
+          Neighborhood Improvement Program UR-L1146 (4651/OC-UR). Due partly to this
+          support, between 1999 and 2019, the following gains have been made: (i) the gaps
+          in access to urban and social services were narrowed by intervening in
+          127 informal   settlements    (more     than   15,000     households);    (ii) the
+          comprehensiveness of their investments was ensured; (iii) the management
+          capacity of the departmental governments for program physical and social
+
+1    See complete list of bibliographic references identified by the number in square brackets [#] in optional
+     link 11.
+2    “Vulnerable households” are those exposed to sudden changes in living standard due to the precarity of
+     their job or income conditions and who typically reside in semiformal areas.
+3    These areas are linked to land tenure security, overcrowding, poor quality housing materials, lack of
+     economic development opportunities, and precarious access to urban basic services, among other things.
+4    Hereinafter the term “semiformal areas” encompasses irregular settlements and adjacent formal areas,
+     because both experience common issues that the program will address.
+5    The Bank is currently supporting the Government of Uruguay with CCLIP UR-X1003, under which the
+     following programs have been financed: 1186/OC-UR; 3097/OC-UR; and 4651/OC-UR.
+                                                  -2-
+
+
+
+         investments was strengthened, as was coordination with public bodies in the
+         country; and (iv) the MVOT’s policy-making was strengthened, seeking to prevent
+         new informal settlements from being created. Progress was also made in gender
+         equity through joint titling or titling in women’s names. However, extensive barriers
+         to social and urban integration for vulnerable households in semiformal areas
+         persist, which has prompted the Government of Uruguay to seek even more
+         effective and scaled-up solutions.
+1.4      Consolidation of existing programs. In 2020, the Government of Uruguay
+         improved how it served semiformal areas by creating a new institutional
+         framework—the Dirección Nacional de Integración Social y Urbana (National
+         Office for Social and Urban Integration) (DINISU)—that consolidates programs for
+         improving neighborhoods and providing housing solutions.[15] DINISU’s remit is
+         to consolidate and coordinate the programs that address the various aspects of
+         urban informal housing within the MVOT 6 under the Avanzar (Move Forward) Plan.
+                                                          3
+
+
+
+
+         That Plan consolidates all programs addressing semiformal areas under the
+         direction of DINISU (hereinafter “the existing program”). As part of this new model,
+         to scale up improvements to the existing program, the Fideicomiso Integración
+         Social y Urbana (Social and Urban Integration Trust) (FISU)7 was set up in 2022,
+         with Corporación Nacional—Administradora de Fondos de Inversión S.A.
+         (CONAFIN-AFISA) as the fiduciary body in pursuit of more streamlined fiduciary
+         and procurement execution. The country has also strengthened the trust to scale
+         up its response. Uruguay is seeking to scale up the program through the FISU,
+         which considerably increases the resources that the country has been allocating
+         to social and urban integration (approximately US$13.5 million annually), given
+         that it receives funding through the law that created it (repurposing of rural
+         development funds) as well as a percentage of revenue from the tax on the sale
+         of rural property (approximately US$40 million annually).[16]
+1.5      MVOT [17] and Bank evaluations of the neighborhood improvement programs in
+         execution identify four areas for improvement: (i) Management. Lack of integrated
+         management systems for program design, procurement, implementation, and
+         evaluation; (ii) Timing. The project cycle is slow to formalize informal settlements
+         and generate housing solutions, with informal settlement growth outpacing
+         formalization;[18, 19] (iii) Prevention. The existing program does not preventatively
+         address the spontaneous growth of informal settlements since overcrowded
+         vulnerable households in the AFAs look for housing solutions by expanding
+         informal settlements; and (iv) Economic development. The existing program has
+         not focused on boosting household incomes to break cycles of intergenerational
+         poverty. Based on this, the Government of Uruguay has sought the Bank’s support
+         to strengthen the design of a new intervention model that, by addressing these four
+         areas for improvement, will enhance the existing program’s efficiency and
+         effectiveness. It should be noted that this program has become public policy
+
+
+6   The following programs fall under DINISU’s purview: Neighborhood Improvement Program, the National
+    Rehousing Plan, and the Juntos (Together) Plan.
+7   FISU received funds as established under Law 19.996, including resources from the reallocation of funds
+    from the National Colonization Institute and a percentage of tax collected on the transfer of rural goods,
+    which total approximately US$40 million per year. Article 238 of that law also authorizes FISU, with prior
+    authorization from the Executive Branch, to take out loans from multilateral lending agencies of which
+    Uruguay is a member.
+                                                    -3-
+
+
+
+         transcending different government administrations, ensuring the sustainability of
+         the reforms the country is pursuing.
+1.6      Problem addressed. Vulnerable households in Uruguay’s semiformal areas face
+         barriers to social and urban integration.[20] Neighborhood improvement strategies
+         and the delivery of housing solutions [21] have been partially effective, although
+         they are progressing at a slower pace than necessary to reduce the number of
+         vulnerable households in semiformal areas and lack strategies to prevent the
+         creation of new informal settlements. These barriers continue to materialize in
+         insufficient access to essential urban services in informal settlements and in the
+         precariousness of vulnerable households’ housing, which influences their
+         educational and job outlook for the future, limiting their economic and human
+         development [22] and the sustainability of their social and urban integration.
+1.7      Four determinants are identified for this problem, the first of which is cross-cutting
+         since it leads to the existing program’s lack of capacity to address the other three
+         (for more details on the determinants see optional link 5).
+1.8      Determinant I. Project management and project cycle. The existing program
+         has an intervention model that does not deliver with the effectiveness and speed
+         needed to contain and reduce the number of vulnerable households in informal
+         settlements. The slow speed is related to an inefficient project cycle stemming
+         from: interagency communication challenges between actors and agencies
+         involved in managing informal settlements; the need to improve participatory
+         processes that accelerate execution and enhance sustainability; deficient use of
+         technologies for physical and financial monitoring and evaluation of projects [23]
+         and multidimensional and granular statistical information systems on the country’s
+         informal settlements, resulting in limited, incomplete, and outdated information;
+         and limited installed capacity in terms of trained human resources, who lack the
+         necessary tools. This leads to delays, to inefficiencies in project design, execution,
+         and monitoring, and to difficulties in achieving outcomes. For example, under loan
+         4651/OC-UR the average number of years from initial census to the completion of
+         works is 7.75 years, which is high compared to the region.
+
+                        Table 1. Total years of execution of programs in the Southern Cone
+                                           (similar sized neighborhoods)8
+
+              Country              Uruguay                   Argentina                         Chile
+              Program           Neighborhood              Neighborhood             Program for the Integration
+                                 Improvement           Improvement Program                of Vulnerable
+                                   Program                Third Individual              Neighborhoods
+                                (3097/OC-UR)          Operation (3458/OC-AR)             (5313/OC-CH)
+
+                Years                  8                        6.65                             4
+
+
+1.9      Determinant II. Urban infrastructure and services. Access to decent housing
+         and urban basic services in informal settlements is deficient.[24] Some of the chief
+         barriers to integration are the lack of formal urban basic infrastructure (drinking
+         water, sanitation and storm drains, adequate road networks, electricity supply,
+
+8   The specific detail of the stages of the project cycle of the existing program in Uruguay and the transferable
+    efficiencies of programs in Argentina and Chile can be found in Annex 5 of optional link 5.
+                                          -4-
+
+
+
+       public space, and street lighting), waste management, pollution, and flooding.
+       Approximately 67% of informal settlements lack drinking water systems; 49% lack
+       street lighting networks; and 42% have partial lighting. Electricity supply is uneven,
+       with a predominance of illegal connections and, in critical cases, no grids at all.[25]
+       In Montevideo—where more than 50% of informal settlements are concentrated—
+       78.9% of households lack access to the formal sanitation network and 38.1% have
+       an illegal electricity connection.[26] In informal settlements, 50% of the population
+       is under 20 and 65% under 30, whereas these indicators drop to an average of
+       28% and 43%, respectively, nationwide.[27] This difference is significant in terms
+       of access to and use of urban and social services and the development of future
+       generations. The environment into which a person is born, the neighborhood, and
+       the conditions of material and social deprivation that characterize childhood and
+       adolescence leave their mark on life trajectories. Furthermore, they jeopardize the
+       country’s economic development and social welfare.[28]
+1.10   Determinant III. Housing solutions and lack of prevention strategies.
+       Difficulties exist in accessing adequate housing solutions in semiformal areas. The
+       population in semiformal areas, especially those in informal settlements, are
+       mainly vulnerable households with precarious and informal jobs, which prevents
+       them from purchasing on the formal market or accessing conditions to improve
+       makeshift housing. In informal settlements, housing is precarious: 32.5% of
+       dwellings are built with inadequate materials;[29] 9.9% lack a bathroom; 30.4%
+       have a bathroom but no flush toilet; and 8.3% have a shared bathroom. Only 18.6%
+       have a kitchen with a sink and tap, while 6.1% share a kitchen with another
+       household.[30] Sometimes these dwellings are at mitigable climate risk with
+       flood-prone and polluted areas. The lack of adequate housing solutions precludes
+       the development of social, cultural, and productive functions, thus limiting human
+       development.[31] Paving within these areas has a direct impact on the removal of
+       water pools, dust particles, and mud and also improves household life by enabling
+       people to move smoothly.[32] The existing program has limited mechanisms to
+       provide opportunities to access and improve the stock of housing solutions for
+       vulnerable households. The stock of available housing has risen in recent years,
+       but access to adequate housing remains a problem. In Montevideo, over the last
+       11 years, more than 600 buildings have been built (more than 25,000 housing
+       solutions), some of which are low-income housing, [33] but this has not succeeded
+       in eradicating the housing deficit for vulnerable households, since housing
+       production has not targeted them.[34] An exploratory study finds that there is a
+       flow of families who, unable to stay in the AFAs, resolve their housing situation in
+       informal settlements, [35] thereby evidencing the need to improve access to
+       adequate housing solutions both in the informal settlements and in the AFAs, to
+       alleviate the deficit and reduce the displacement of vulnerable households to
+       informal settlements.
+1.11   Determinant IV. Human development opportunities. Semiformal areas have
+       limited access to social services and opportunities for economic and human
+       development. Informal settlements reproduce intergenerational cycles of poverty
+       and exacerbate urban inequality, hindering vulnerable households’ access to the
+       city’s attributes and their ability to generate income. Overall, 60% of settlements
+       are located more than 800 meters away from a preschool and primary school, [36]
+       a pattern that is repeated with health infrastructure, early childhood care, and adult
+       education centers, among others. For example, 11.8% of heads of households
+                                         -5-
+
+
+
+       living in informal settlements have completed secondary school, [37] which is
+       worrying because level of education is the main determinant of job quality.[38]
+       Furthermore, 29.3% of the working age population is unemployed and 21%
+       inactive, [39] while the national unemployment rate is 8.6%.[40] In order to foster
+       social mobility, progress must be made toward greater spatial integration, and the
+       conditions in which children and young people develop must be strengthened. This
+       means that accessibility to urban facilities that are essential for human capital
+       accumulation must be improved for residents in the most disadvantaged
+       neighborhoods. Studies suggest that poverty in childhood has immediate effects
+       on education, health, employment opportunities, and the ability to lift the next
+       generation out of poverty.[41] The consequences of child poverty are seen in
+       physical and mental health, educational performance, and economic prospects in
+       adulthood.[42, 43].
+1.12   Gender considerations. Women’s labor force participation in Uruguay is 18%
+       lower than men’s (56% vs. 74%), and women experience higher rates of informal
+       work and unemployment.[44] This is partly due to the burden of care: women
+       spend 16 hours per week on caregiving, compared to 7.4 for men.[45] The lack of
+       integration of informal settlements (paragraph 1.11) leads to long distances to care
+       sites and services, thus increasing the caregiving burden and reducing women’s
+       time to generate income. Bringing care services closer and improving prospects
+       for formal jobs in informal settlements can expand women’s labor force
+       participation. In addition, self-employment, low income, and informal work are
+       factors that limit access to housing credit for women, especially female heads of
+       household (14% of all households in informal settlements have a woman living
+       alone with her children as the head of household [46]). Supporting the titling of
+       housing in women’s names (or jointly with partners) contributes to their economic
+       empowerment.[47]
+1.13   Diversity considerations. Afrodescendants who represent 11% of the population
+       are overrepresented among vulnerable households (20% live below the poverty
+       line—2.5 times the national poverty rate).[48] Housing conditions and quality are
+       also worse, with 67% living in dwellings considered dangerous.[49] There is scant
+       information on the living conditions, access to social services, and economic
+       development opportunities of Afrodescendants and lesbian, gay, bisexual,
+       transgender, queer, and other (LGBTQ+) people living in semiformal areas. In
+       addition, about 16.9% of the population reports having some kind of disability.[50]
+       People with severe disabilities often live in vulnerable households, and their
+       dwellings are often of lower quality and/or overcrowded.[51] The exclusion of
+       persons with disabilities also affects the other members of the household, who
+       often have lower levels of employment and education.
+1.14   Climate change considerations. An estimated 8,300 households live in areas at
+       high risk and 22,300 at medium risk of flooding, [52] mostly in semiformal areas.
+       In addition, informal settlements with problems such as waste, waterlogging, and
+       pollution were identified.[53] These issues may be exacerbated by climate change
+       and the climate vulnerability conditions of the beneficiary vulnerable households.
+       Based on the foregoing, eligibility and prioritization criteria are set for the
+       interventions (paragraphs 1.33 and 1.34).
+1.15   Bank support for improvements to the existing program. Since project profile
+       approval, the executing agency has been supported through program preparation
+                                                       -6-
+
+
+
+       resources and the work of specialists from various divisions (Housing and Urban
+       Development (HUD); Connectivity, Markets, and Finance (CMF); Labor Markets
+       (LMK); and Social Protection and Health (SPH)) in: (i) developing improvements
+       for the 20 project cycle stages, to speed up execution of interventions (optional
+       link 5); (ii) diversifying delivery mechanisms and the types of housing solutions,
+       strengthening community participation mechanisms, and improving management
+       teams’ training and tools; (iii) developing a methodology to prepare diagnostic
+       assessments and plans to enhance families’ economic development; and
+       (iv) reinforcing the use of statistical tools and digital systems for physical and
+       financial traceability to improve institutional and land management. These
+       activities have been supported during preparation because they help the operation
+       reach a higher degree of maturity. They have been prioritized because they are
+       linked to efficiency gains that scale up the new intervention model across the entire
+       existing program and prepare the executing agency to carry out the new activities
+       for boosting the income of beneficiary families.
+1.16   Theory of change. The program aims to reduce the barriers that prevent the
+       integration of vulnerable households in semiformal areas into the formal city. A
+       shift towards more efficient project cycles and strengthened executing agency
+       capacities (Component I) has the potential to expand the coverage of basic
+       services, secure land tenure, and reduce the timeframe for the design, bidding,
+       and execution of urban basic service works (Component II). In addition, the
+       program aims to efficiently provide adequate housing solutions and improve
+       housing conditions in semiformal areas (Component III) and to make vulnerable
+       households more employable (Component IV). This theory of change is based on
+       a solid body of evidence that supports the importance of addressing these issues
+       comprehensively and simultaneously to make a significant impact on beneficiaries’
+       lives. For more detail on the causal attribution that underpins the theory of change
+       see optional link 5. Table 3 below shows the vertical logic and outcome indicators.
+
+                                                    Table 2. Vertical logic
+
+                                                      Problem addressed
+
+       Vulnerable households in semiformal areas in Uruguay face barriers to social and urban integration.
+
+                                                             Causes
+
+       1. There are                2. Access to decent         3. There are difficulties in    4. Semiformal areas have
+          opportunities to            housing and urban           accessing adequate              limited access to social
+          enhance the                 basic services in           housing solutions in            services and human
+          efficiency and              informal settlements        semiformal areas.               development
+          effectiveness of the        is deficient.                                               opportunities.
+          land management
+          of the agencies in
+          charge of housing
+          policies.
+
+                                                        General objective
+
+       Help reduce social and urban integration barriers in Uruguay’s semiformal areas.
+
+                                                       Specific objectives
+                                                 -7-
+
+
+
+                                              Table 2. Vertical logic
+
+1. Strengthen               2. Improve access to        3. Expand access to             4. Promote the
+   DINISU’s                    adequate housing in         adequate housing                socioeconomic
+   management                  informal                    solutions in semiformal         development of
+   capacities.                 settlements.                areas.                          households in
+                                                                                           semiformal areas.
+
+                                                Expected outcomes
+
+1.1 Efficiency in the       2.1 Increased coverage      3.1 Efficiency of the           4.1 More employable
+    management of                of essential basic         processes to design,            economically active
+    social and urban             services in informal       execute, and monitor            population.
+    integration projects.        settlements.               works to deliver
+                                                            adequate housing
+                                                            solutions.
+
+
+
+
+                            2.2 Increased land          3.2 Improved housing
+                                 tenure security in          conditions of vulnerable
+                                 informal settlements        households in
+                                 with a gender and           semiformal areas.
+                                 diversity
+                                 perspective.
+
+                            2.3 Shorter design,
+                                bidding, and
+                                implementation
+                                timeframes for the
+                                works.
+
+                                          Disbursement-linked indicators
+
+1.1 Strategic               2.1 Prioritized informal    3.2 Households included in      4.1 Neighborhood plans for
+    interjurisdictional         settlements with a          the SCAPs with an               social and/or productive
+    coordination                social and urban            intervention project            integration aimed at
+    agreements, with            integration project         drawn up to ensure they         boosting income and
+    baseline studies            (SUIP) or specific          benefit from better             prepared within
+    conducted and               coordinated action          housing conditions.             18 months of the
+    aimed at social and         project (SCAP)                                              census being
+    urban integration,          prepared that                                               conducted.
+    signed within               incorporates climate
+    12 months of                change mitigation
+    FISU’s creation.            and adaptation
+                                measures, designed
+                                and approved within
+                                three years from the
+                                start of the
+                                operation.
+
+1.2 Informal settlements    2.2 Households in           3.3 Households that
+     targeted with works,       informal settlements        benefited from better
+     using the                  covered by at least         housing conditions in
+     management                 one new urban               semiformal areas with a
+     system adapted             basic service within        10% reduction in the
+     with the program’s         40 months of the            historical average
+     support.                   call for tenders.           execution time.
+
+                            2.3 Households in
+                                informal settlements
+                                that have seen
+                                increased land
+                                tenure security and
+                                access to the formal
+                                network of urban
+                                                     -8-
+
+
+
+                                                  Table 2. Vertical logic
+                                     basic services within
+                                     four years of the
+                                     approval of the
+                                     SCAP.
+
+                                                             Indicators
+
+       1.3 Gap between            2.4 Households in             3.1 SCAPs prepared with      4.2 People who have
+           scheduled and              targeted informal             the necessary studies        become more
+           actual time                settlements                   to prevent informality       employable.
+           between bidding            connected to                  and/or expand access
+           and end of works.          formal urban basic            to adequate housing
+                                      services.                     solutions, approved in
+                                                                    less than three years.
+
+       1.4 Informal               2.5 Households in             3.4 Households in targeted   4.3 Women who have
+            settlements               targeted informal             informal settlements         become more
+            targeted with             settlements that              with adequate                employable.
+            neighborhood              have increased                materials.
+            committees set up         land tenure security
+            to monitor the            for women or both
+            project.                  spouses in a
+                                      couple.
+
+       1.5 Agencies with
+           strengthened digital
+           technology and
+           managerial
+           capacity.
+
+                                                          Components
+
+       1. Institution-            2. Delivery of urban         3. Delivery of adequate       4. Socioeconomic
+          strengthening.             basic services and           housing solutions in          development of
+                                     tenure security in           semiformal areas.             vulnerable households
+                                     informal                                                   in semiformal areas.
+                                     settlements.
+
+
+
+1.17   Program rationale and strategy. The strategy is structured in four lines of action
+       aligned with the determinants identified above.
+1.18   First, it focuses on enhancing efficiency by strengthening capacities at DINISU and
+       other participating entities with Component I support. This includes improving the
+       existing project cycle (cutting across all components), addressing bottlenecks in
+       its 20 stages to achieve results in shorter timeframes, and improving coordination
+       with departmental governments through strategic coordination agreements
+       (paragraph 1.8). There are also plans to increase installed capacity in
+       environmental, social, fiduciary, and procurement areas and deploy a new
+       management platform [54] (see Table 3 and optional link 5).
+                                                  -9-
+
+
+
+            Table 3. Current and expected timeframes for certain key stages of the project cycle (*)
+
+                                                                          Current               Expected
+                                  Process
+                                                                        (in months)           (in months)
+
+       1.     Informal settlements prioritized in the operation with
+                                                                              42                   36
+              approved SUIPs/SCAPs
+       2.     Increased coverage of basic services for vulnerable
+                                                                              45                   40
+              households in informal settlements
+       3.     Increased land tenure security of vulnerable
+              households in informal settlements and access to                96                   60
+              the formal network of essential basic services
+       4.     Approval and design of plans and projects aimed at
+              preventing and/or expanding access to adequate                  42                   36
+              housing solutions
+                                                                        6 for housing
+       5.     Housing improvements for vulnerable households           improvements,
+              in semiformal areas that will improve their energy       36 for sites with     10% reduction
+              and water performance                                    services, 18 for
+                                                                        new housing
+        (*) The average estimates are based on the project completion report of the Neighborhood Improvement
+        Program and the reformulated project cycle and are estimates of the timeframes that could be shortened
+        through improvements in the project cycle. For more details, see [55].
+
+
+1.19   Second, to address the deficit of access to adequate housing and urban basic
+       services, comprehensive neighborhood improvement interventions will be
+       implemented to increase both access to services and land tenure security through
+       the development of basic infrastructure. This will include improvements in
+       neighborhood connectivity by facilitating solid waste collection, access to medical
+       services, and the mobilization of persons with disabilities.[56] Creating quality
+       public spaces will also enhance subjective wellbeing, social cohesion, and physical
+       activity.[57, 58]
+1.20   Third, to address insufficient access to adequate housing solutions in semiformal
+       areas and the creation of new informal settlements, the delivery of housing
+       solutions will be scaled up by diversifying the types of solutions. Depending on the
+       findings of neighborhood diagnostic assessments, financing will be provided for
+       partial or complete housing improvements made by beneficiaries themselves,
+       cooperatives, or companies, as appropriate, or sites with services. In cases of
+       rehousing, new or used housing will be provided. In addition, the processes for the
+       diagnostic assessment, design, and implementation of housing solutions will be
+       optimized.[59] In order to enhance efficiency in the delivery of housing solutions,
+       personnel will be trained and management tools developed to improve execution
+       times, quality, and environmental, social, physical, and financial monitoring.
+       Moreover, the program’s participatory methods and communication campaigns will
+       be strengthened. Improvements in housing, especially in flooring, walls, roofing,
+       and water protection, will increase the quality of life of vulnerable households.[60]
+       Measures will be taken to increase land tenure security, thus facilitating the
+       housing improvement process.
+1.21   Fourth, to overcome barriers in access to social services and human development
+       opportunities in semiformal areas, the program will foster socioeconomic
+       development by strengthening employability and access to government social
+                                                 - 10 -
+
+
+
+         services. This entails addressing the intergenerational transmission of inequality,
+         which is largely due to differences in human capital formation such as education,
+         health, and cognitive and socioemotional skills.[61, 62] Housing quality and access
+         to infrastructure are key to improving human capital accumulation and job
+         opportunities.[63, 64] Mechanisms to improve the implementation and monitoring
+         of initiatives that enhance human capital, especially for children and adolescents,
+         will be included in the training and management systems developed under the
+         program.[65] Neighborhood social and/or productive integration plans will also be
+         developed to boost the income of vulnerable households and make them more
+         employable, and monitoring boards will be set up for interagency coordination.
+1.22     Bank experience.9 The Bank has experience financing operations relating to the
+         adaptation and improvement of informal settlements in Uruguay through the
+         Informal Settlements Integration Program 1186/OC-UR, which originated a
+         Conditional Credit Line for Investment Projects in 2009: Neighborhood
+         Improvement (UR-X1003, US$390 million/in execution) under which two loans
+         were executed (2052/OC-UR and 3097/OC-UR, both with US$70 million in
+         financing), and Neighborhood Improvement Program III (4651/OC-UR approved in
+         2018 for US$70 million) currently in execution. These are loans with lessons
+         learned that will be used in the program. The Bank has experience in urban
+         informal housing programs with an emphasis shifting from basic infrastructure to a
+         perspective that complements it with social actions. Notable in Argentina are the
+         Urban Integration and Social and Educational Inclusion Program in the
+         Autonomous City of Buenos Aires (AR-O0005), the Neighborhood Improvement
+         Program (AR-X1004), and the Social and Urban Integration Program
+         (4804/OC-AR). Notable in Brazil are the Urban Resilience and Revitalization
+         Program in Socially and Environmentally Vulnerable Areas—ProMorar Recife
+         (5732/OC-BR), the Program for Integrated Urban Development of the Municipality
+         of Campo Grande (3630/OC-BR), and the Rio de Janeiro Low-income
+         Neighborhood Urban Development Program - Stage III (2482/OC-BR). Notable in
+         Paraguay are the Improvement of Housing and Habitat Program (3538/OC-PR)
+         and the Housing and Rehabilitation Program for Bañado Sur in Asunción
+         (Tacumbú Neighborhood) (4700/OC-PR).
+1.23     The Bank has implemented multiple loans based on results (LBRs) in Uruguay
+         (4290/OC-UR; 4329/OC-UR; 4658/OC-UR; 4847/OC-UR; and 5565/OC-UR), the
+         following recommendations from which were taken into consideration: (i) record
+         relevant indicator information and verification protocols and consider the feasibility
+         of their collection during the design process; and (ii) analyze administrative and
+         indicator monitoring processes. The Housing and Urban Development Division has
+         also used this tool with satisfactory results (5313/OC-CH and 5741/OC-AR).
+1.24     The main lessons learned from the LBRs are as follows: (i) the importance of a
+         rigorous cost analysis to structure and achieve outcomes (see optional link 6);
+         (ii) the inclusion of improvements identified using the Institutional Capacity
+         Assessment Platform (ICAP) and analysis of socioenvironmental gaps within
+         eligible expenditures and outcomes, together with the establishment of clear
+
+9   This operation takes into consideration the lessons learned reflected in the evaluations (midterm, final,
+    and project completion report) consolidated in Chapter IV of the Bank’s Housing and Urban Development
+    Sector Framework Document, “Lessons Learned from the IDB Group’s Experience in the Housing and
+    Urban Development Sector.”
+                                          - 11 -
+
+
+
+       implementation arrangements (e.g. audit of expenses); (iii) the definition of robust
+       intermediate outcomes to ensure the final outcomes are attained; (iv) the design
+       of institution-strengthening outputs; and (v) an emphasis in the design phase on
+       minimizing significant adjustments to matrices and indicators during the kick-off
+       workshop, reflecting progress made and technical challenges identified with Bank
+       support. LBRs have achieved satisfactory results in project completion reports.
+1.25   Lessons learned. The lessons have been included in the design, particularly the
+       lessons learned from loan 4651/OC-UR, which highlight: (i) intersectoral
+       coordination and continuous improvement of the executing agency’s institutional
+       capacity; (ii) land management teams with communities in informal settlements,
+       fostering consensus through active participation; (iii) the formation of
+       multidisciplinary teams to ensure interventions are comprehensive and
+       coordinated with other areas of government; and (iv) the development of a
+       strategic land management vision and stage-based project structuring to expand
+       program coverage. Lessons from operations in Argentina and Uruguay include:
+       (i) the inclusion of land regularization and titling as an incremental process in land
+       tenure security, defined in specific milestones; and (ii) the need for personnel
+       properly trained in housing improvements to scale up interventions and optimize
+       spending.
+1.26   Strategic alignment. The program is consistent with the IDB Group’s Institutional
+       Strategy: Transforming for Scale and Impact (CA-631) and aligned with the
+       objective of reducing poverty and inequality by reducing poverty and promoting
+       equity via lower deficits in basic infrastructure and access to social services for
+       populations with unmet basic needs. The program is also aligned with the following
+       operational focus areas: (i) biodiversity, natural capital, and climate action, through
+       the inclusion of green building criteria in housing, climate solutions in public
+       spaces, increased accessibility to public and nonmotorized transportation, LED
+       lighting, and recycling infrastructure, among other activities to be coordinated with
+       departmental governments. The mobility activities proposed for financing are
+       directly linked to expanding access to housing; (ii) gender equality and inclusion of
+       diverse population groups, by promoting: (a) land titling for women; (b) priority
+       participation of women in community initiatives to make them more employable;
+       (c) the inclusion of universal design criteria to improve the conditions of persons
+       with disabilities and their families; and (d) the collection of socioeconomic data on
+       Afrodescendants and LGBTQ+ people living in semiformal areas; (iii) institutional
+       capacity, rule of law, and citizen security, through training for enhanced efficiency
+       in project management and execution and for the development and use of digital
+       technology tools and systems to optimize processes; and (iv) social protection and
+       human capital development, since it will support the economic and human
+       development of beneficiaries, especially women. In addition, the operation is
+       aligned with the Employment Action Framework with a Gender Perspective
+       (GN-3057; OP-2289-1) (Talent pillar, Category 1) since it includes analyses,
+       interventions, and indicators to make people more employable (Component IV)
+       and also mainstreams a gender perspective in those efforts.
+1.27   IDB Group country strategy with Uruguay. The operation is aligned with the
+       IDB Group country strategy with Uruguay 2020-2025 (GN-3056) with the priority
+       areas of: (i) public resource management, since it will seek to enhance the
+       efficiency and sustainability of public policies; (ii) sustainable productive
+       development, since it supports improved infrastructure quality; and (iii) equity and
+                                         - 12 -
+
+
+
+       social inclusion, since it supports the most vulnerable populations residing in
+       informal settlements and adjacent areas. The operation is included in the Update
+       of the Annex III of the 2024 Operational Program Report. In coordination with
+       IDB Lab, lessons learned on incremental housing (ATN/ME-18930-CH and
+       GRC/ME-18931-CH) and on blockchain-based preliminary titling (ATN/ME-16653-
+       AR) are included. In coordination with the Agencia Nacional de Investigación e
+       Innovación (National Agency for Research and Innovation), in Uruguay IDB Lab is
+       also developing a program for innovation in public services, including housing and
+       the delivery of basic services, which also feeds into this program. IDB Invest will
+       help in identifying opportunities for collaboration in sustainable urbanization works
+       for informal settlements and improving the conditions to access credit for housing
+       as a result of its contribution to reducing informal housing in the housing market. It
+       will also collaborate with other multilateral development banks; during the
+       operation’s execution phase, it will work with teams from the Development Bank
+       of Latin America and the Caribbean to update the national informal settlements
+       registry, seeking an output to monitor the prevention of new informal settlements
+       and/or the growth of existing ones (paragraph 1.36).
+1.28   Bank support to the program to lock in the outcomes previously achieved.
+       The Bank has supported DINISU in developing instruments and tools to achieve
+       outcomes, focusing on two components: Component I, to enhance efficiencies in
+       all aspects of the program, and Component IV, focusing on strategies to boost the
+       income of vulnerable households in semiformal areas. For Component I, the
+       diagnostic assessment was facilitated, and a roadmap was developed to
+       accelerate the project cycle, including physical and financial traceability and
+       process digitalization. This included exchanges with similar programs in Chile and
+       Argentina, which secured significant efficiencies. In Component IV, a standardized
+       and innovative process was created to develop neighborhood-specific
+       socioeconomic development plans, improving diagnostic methodological tools and
+       mapping the supply of social services to address specific gaps, with pilot testing in
+       seven neighborhoods. These actions were complemented by various workshops
+       and meetings, expecting to recognize the outcomes previously achieved
+       (paragraphs 1.15 and 3.10). This support reflects the Bank’s value added and has
+       been possible due to the nature of the LBR instrument and the strength of existing
+       country systems.
+1.29   Paris alignment. This operation has been analyzed using the Joint Multilateral
+       Development Bank Assessment Framework for Paris Alignment and the
+       IDB Group Paris Alignment Implementation Approach (GN-3142-1). It was found
+       to be: (i) aligned with the adaptation target; and (ii) universally aligned with the
+       mitigation target of the Paris Agreement.
+1.30   According to the joint methodology of the multilateral development banks for
+       tracking climate finance, the IDB contribution for this operation is 48.60% and,
+       together with green finance, it amounts to 55.36%. These resources contribute to
+       the IDB climate finance target (30% of the annual volume of approvals) (see details
+       in optional link 3).
+1.31   Institutional capacity. As required by the policy governing the LBR instrument
+       (GN-2869-10), the institutional, financial, procurement, and integrity capacities of
+       the executing agency and CONAFIN-AFISA were assessed using the ICAP. The
+       findings confirm that it can execute on time (four years). In addition, the
+                                                    - 13 -
+
+
+
+          procurement system was assessed based on the Methodology for Assessing
+          Procurement Systems (simplified version) of the Organisation for Economic
+          Co-operation and Development.
+1.32      Beneficiaries. Approximately 15,000 households will be direct beneficiaries of the
+          improvements under this program as a result of the efficiencies of the systems
+          linked to the outcomes to be achieved under Component I. In addition, at least
+          2,500 vulnerable households in semiformal areas will be direct beneficiaries of the
+          investments linked to the outcomes of Components II and III, of which at least
+          2,067 vulnerable households in informal settlements will see increased coverage
+          of urban basic services, at least 1,740 vulnerable households will see increased
+          land tenure security and access to urban basic services, and at least
+          930 households will receive a housing solution.10 In addition, at least 2,500 families
+          will be direct beneficiaries of the investments linked to the outcomes of
+          Component IV and will benefit from the social and productive integration plans, of
+          which at least 500 people will participate in programs to make them more
+          employable, and they will have a focus on gender and diversity, particularly on
+          addressing additional determinants of vulnerability for Afrodescendants and
+          persons with disabilities.
+1.33      Eligibility criteria. The informal settlements where projects are financed will be
+          mainly composed of vulnerable households with low socioeconomic status and
+          must meet the following requirements: (i) informal settlements must be included
+          on the national informal settlements registry, and the AFAs must be linked to each
+          of these informal settlements; (ii) have a minimum of 40 sites with 75% housing
+          occupancy; (iii) be located in urban areas with more than 7,000 inhabitants; (iv) not
+          occupy areas of ecological reserve, environmental preservation, archeological
+          heritage, areas at risk of natural disasters, or areas with irreversible levels of soil,
+          water, or air pollution or other environmental liabilities; (v) they can mostly be
+          regularized on the site where they are settled and do not generate significant
+          impacts due to economic displacement; (vi) the settlements’ land is not in legal
+          dispute, and the subexecuting agencies can provide legal proof that the land can
+          be feasibly titled to the beneficiaries; (vii) informal settlements where road access
+          exists or road connections to other connecting areas can feasibly be developed;
+          and (viii) informal settlements where flood-prone and/or polluted areas do not
+          exceed 50% of the total area. Projects must have the support of at least 60% of
+          the community.
+1.34      Prioritization criteria for the informal settlements. In coordination with the
+          departmental governments, the executing agency will define the actions to be
+          implemented following the criteria described in the Guide for Social and Urban
+          Integration Actions.[66] Priority will be given to informal settlements in areas with
+          mitigable climate vulnerability and led by women, older adults, and/or run by
+
+
+
+10   This program supports the diversification of housing solutions with the following estimated breakdown:
+     (i) at least 330 dwellings in semiformal areas that do not require a complete upgrade will be improved with
+     partial intervention baskets; (ii) at least 330 houses in semiformal areas will be upgraded with full
+     intervention baskets; (iii) at least 125 houses in semiformal areas will be upgraded by companies and/or
+     cooperatives; (iv) at least 35 sites with services will be delivered; (v) at least 55 used dwellings will be
+     delivered in semiformal areas for rehousing; and (vi) at least 55 new houses will be delivered in semiformal
+     areas for rehousing.
+                                          - 14 -
+
+
+
+       persons with disabilities. Details on the prioritization criteria will be set out in the
+       program Operating Regulations (optional link 4).
+B.     Objectives, components, and cost
+1.35   The general objective is to help reduce social and urban integration barriers in
+       Uruguay’s semiformal areas. The specific objectives are to: (i) strengthen
+       DINISU’s management capacities; (ii) improve access to adequate housing in
+       informal settlements; (iii) expand access to adequate housing solutions in
+       semiformal areas; and (iv) promote the socioeconomic development of
+       households in semiformal areas.
+1.36   Component I. Institution-strengthening (IDB: US$2.4 million). This component
+       includes actions aimed at strengthening the actors involved (DINISU,
+       CONAFIN-AFISA, and departmental governments) during each stage of the
+       project cycle [67] to build their management capacity. In order to achieve the
+       outcomes, financing will be provided for the following items: (i) technical assistance
+       products to strengthen the actors in the diagnostic assessment, technical,
+       fiduciary, and evaluation processes; (ii) the contracting of consulting services for
+       outputs linked to the outcomes; (iii) studies for the design of intervention strategies
+       and monitoring tools to prevent the creation of new settlements and/or the growth
+       of existing settlements; (iv) the acquisition, development, improvement,
+       installation, and operation of tools, services, goods, and technology and/or
+       IT support to strengthen DINISU’s institutional capacity; (v) products to publicize,
+       disseminate, and raise awareness about the program; (vi) training, workshops,
+       and seminars; and (vii) a system for periodic monitoring of the growth of informal
+       settlements.
+1.37   Component II. Delivery of urban basic services and land tenure security [68]
+       in informal settlements (IDB: US$33.3 million). This component will finance the
+       design and implementation of investments to improve access to adequate housing
+       for households in informal settlements. The outcomes will be achieved through the
+       following investments: (i) architectural and engineering detailed designs and the
+       related preliminary studies; (ii) consulting products for a diagnostic assessment of
+       the baseline; (iii) public utility connections; (iv) construction of drinking water,
+       sanitation, storm drainage, electricity, and public lighting systems; (v) construction
+       of household connections; (vi) construction of mobility systems (multimodal road
+       networks); (vii) construction of safe public spaces and green areas; (viii) urban and
+       community amenities; (ix) construction and delivery of goods and services for
+       urban solid waste treatment and management; (x) strategic works to integrate
+       informal settlements into the formal city (resettlements, street openings, extension
+       of networks, etc.); (xi) early, rapid-execution works to implement projects;
+       (xii) expenses required for the property regularization process; and (xiii) technical
+       and social support. The program will promote joint titling or titling in women’s
+       names. The delivery of public services will be structured and coordinated with the
+       providers of such services to ensure their subsequent sustainability. Universal
+       accessibility criteria will be promoted to benefit persons with disabilities and
+       persons with reduced mobility.
+1.38   Component III. Delivery of adequate housing solutions in semiformal areas
+       (IDB: US$17.1 million). This component aims to improve the housing conditions
+       in semiformal areas. The outcomes will be achieved by financing: (i) architectural
+       and engineering detailed designs and the related preliminary studies;
+                                         - 15 -
+
+
+
+       (ii) consulting products for a diagnostic assessment of the baseline; (iii) urban
+       infrastructure works to deliver sites with access to urban services; (iv) the
+       consolidation, densification, and extension of existing housing to expand the stock
+       of adequate housing in semiformal areas; (v) housing improvement works; (vi) the
+       acquisition of adequate used housing [69] with access to urban services to relocate
+       families, when necessary; (vii) the construction of housing to relocate families,
+       when necessary; (viii) expenses for rehousing and transitional housing solutions
+       under the interventions (rentals, contracting of transitional modules, etc.);
+       (ix) technical and social assistance; and (x) consulting products for the design and
+       implementation of strategies to prevent the creation of new settlements.
+1.39   Component IV. Socioeconomic development of vulnerable households in
+       semiformal areas (IDB: US$5.7 million). The objective is to promote the
+       socioeconomic development of households in semiformal areas. In order to
+       achieve these outcomes, financing will be provided for: (i) participatory studies for
+       social, economic, and environmental diagnostic assessment and on gaps in
+       existing social services and vulnerable groups, ensuring data are collected on
+       Afrodescendants and LGBTQ+ people; (ii) products to aid and support residents
+       in accessing the various social service and productive development networks in
+       the country; (iii) products for the design and implementation of social, economic,
+       community, and productive development plans, prioritizing women’s participation;
+       (iv) campaigns to expand access to social services and support for productive
+       development; (v) the hiring of human resources; (vi) travel expenses and
+       logistics-related expenses for the development of interagency coordination boards;
+       (vii) the design and implementation of actions linked to the circular economy;
+       (viii) workshops and training to strengthen the human capital of semiformal areas;
+       and (ix) the delivery of goods, construction, and/or improved infrastructure for
+       training, productive, cultural, and/or community-based activities.
+1.40   Administration, supervision, evaluations, and audit (IDB: US$1.5 million).
+       This includes the expenses of the borrower and executing agency for program
+       management, including costs relating to the execution team, consulting services
+       from companies or individuals to conduct evaluations, equipment, external audits,
+       independent verification of the outcomes achieved, administration activities, and
+       program monitoring.
+C.     Key results indicators
+1.41   The impact indicator used to evaluate social and urban integration and improved
+       housing conditions will be the percentage of households in informal settlements
+       that report being more satisfied with the characteristics of the neighborhood. In
+       turn, the outcome indicators are: (i) strategic interjurisdictional coordination
+       agreements with baseline studies conducted and aimed at social and urban
+       integration, signed within 12 months of FISU’s creation; (ii) informal settlements
+       targeted with works, using the management system adapted with the program’s
+       support; (iii) prioritized informal settlements with a SUIP or SCAP [70] prepared
+       that incorporates climate change mitigation and adaptation measures, designed
+       and approved within three years from the start of the operation; (iv) households in
+       informal settlements covered by at least one new urban basic service within
+       40 months of the call for tenders; (v) households in informal settlements that have
+       seen increased land tenure security and access to the formal network of urban
+       basic services within four years of the approval of the SCAP; (vi) households in
+                                             - 16 -
+
+
+
+targeted informal settlements connected to formal basic services; (vii) households
+in targeted informal settlements that have increased tenure security for women or
+both spouses in a couple; (viii) SCAPs prepared with the necessary studies to
+prevent informal housing and/or expand access to adequate housing solutions,
+approved within three years of the start of the operation; (ix) households included
+in the SCAPs with an intervention project drawn up that ensured they benefit from
+improved housing conditions; (x) households that benefited from an improvement
+in housing conditions in semiformal areas with a 10% reduction in the historical
+average execution time; (xi) households in targeted informal settlements with
+adequate material conditions; (xii) neighborhood plans for social and/or productive
+integration aimed at boosting income and prepared within 18 months of the
+census; (xiii) people who have become more employable; and (xiv) women who
+have become more employable. For more details see required link 1.
+
+                             Table 4. Disbursement-linked indicators [71]
+
+                                     Type of          Measure-                 Target
+           Indicators                                                                             Total
+                                    indicator         ment unit   Year 1 Year 2 Year 3 Year 4
+Component I. Institution-strengthening
+
+1.1 Strategic interjurisdictional    Final            # of          9      0            0   0      9
+    coordination agreements,                      agreements
+    with baseline studies
+    conducted and aimed at
+    social and urban integration,
+    signed within 12 months of
+    FISU’s creation.
+
+1.2 Informal settlements             Final        # of informal     4      3            0   0      7
+    targeted with works, using                    settlements
+    the management system
+    adapted with program
+    support.
+
+Component II. Delivery of urban basic services and land tenure security
+
+2.1 Prioritized informal        Intermediate # of informal          6      1            0   0      7
+    settlements with a SUIP or               settlements
+    SCAP prepared that
+    incorporates climate change
+    mitigation and adaptation
+    measures, designed and
+    approved within three years
+    from the start of the
+    operation.
+
+2.2 Households in informal      Intermediate    # of               140    1,100     707     120   2,067
+    settlements covered by at                households
+    least one new urban basic
+    service within 40 months of
+    the call for tenders.
+                                                      - 17 -
+
+
+
+                                      Table 4. Disbursement-linked indicators [71]
+
+                                             Type of           Measure-                  Target
+                    Indicators                                                                              Total
+                                            indicator          ment unit    Year 1 Year 2 Year 3 Year 4
+
+         2.3 Households in informal           Final           # of           35     215       540     950   1,740
+             settlements that have seen                    households
+             increased land tenure
+             security and access to the
+             formal network of urban
+             basic services within four
+             years of the approval of the
+             SCAP.[72]
+
+         Component III. Delivery of adequate housing solutions in semiformal areas
+
+         3.2 Households included in the Intermediate    # of                 552    331       209     0     1,092
+             SCAPs with an intervention              households
+             project drawn up to ensure
+             they benefit from an
+             improvement in housing
+             conditions.
+
+         3.3 Households that benefited        Final           # of           92     305       268     265   930
+             from an improvement in                        households
+             housing conditions in
+             semiformal areas with a
+             10% reduction in the
+             historical average execution
+             time.
+         Component IV. Socioeconomic development of vulnerable households in semiformal areas
+
+         4.1 Neighborhood plans for           Final            # of plans     2      6            4   0      12
+             social and/or productive
+             integration aimed at
+             boosting income and
+             prepared within 18 months
+             of the census.
+
+
+
+                            II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       Rationale for the LBR. This LBR operation will be financed with up to US$60 million
+          from the Bank’s Ordinary Capital and will have a four-year disbursement period.11
+          The operation meets the requirements set out in the Bank’s LBR policy
+          (GN-2869-10) and its operational guidelines (GN-2869-11) by: (i) supporting an
+          existing government program in the delivery of outcomes by financing the
+          improvements and products needed to achieve them;[73] and (ii) improving
+          Uruguay’s housing and urban integration programs, beyond financing specific
+          investments, by concentrating the Bank’s technical support efforts on strengthening
+          the executing agency’s capacity for results-based management, improving and
+
+11   The disbursement period was established based on the detailed plan of outputs and outcomes. An
+     indicative analysis of the plan and the itemized, specific cost of the necessary outputs are available in
+     optional link 6.
+                                              - 18 -
+
+
+
+standardizing processes, fostering coordination among actors, and reducing
+timeframes by harnessing technology.[74] The instrument facilitates execution of the
+country’s scalability strategy by implementing an enhanced intervention model
+across the FISU-funded existing program, totaling approximately US$160 million.
+This loan will cover only 37% of this amount. Accordingly, the amount mobilized is
+three times the amount of the financing provided by the Bank, since over the years
+of program execution scaling up both the investment and the resources and impacts,
+FISU will manage approximately US$160 million, of which this loan will represent
+only 37%. In addition, the instrument will help overcome efficiency challenges by
+installing capacities at the executing agency: (i) effective institutional and
+coordination arrangements; and (ii) the application of mechanisms, tools, and
+technical instruments focused on streamlining processes, particularly in the bidding,
+procurement, execution, and monitoring phases of projects in semiformal areas, so
+as to enhance the quality and efficiency of public spending.
+
+                                  Table 5. Estimated program costs (*)
+                   Components                                     IDB                     Total           %
+Component I. Institution-strengthening                      US$2.4 million         US$2.4 million        4.0
+Component II. Delivery of urban basic services             US$33.3 million        US$33.3 million        55.5
+and land tenure security in informal
+settlements
+Component III. Delivery of adequate housing                US$17.1 million        US$17.1 million        28.5
+solutions in semiformal areas
+Component IV. Socioeconomic development of                  US$5.7 million         US$5.7 million        9.5
+households in semiformal areas
+Administration, supervision, evaluations, and               US$1.5 million         US$1.5 million        2.5
+audit
+Total                                                       US$60 million          US$60 million        100.0
+
+(*) The costs per subcomponent or main activity are indicative (see detail in optional link 6).
+
+
+Table 6. Schedule and tranches of the program’s disbursement-linked indicators (DLI) (US$)
+
+                        Year 1 +
+                       Outcomes                                                                   Cumulative at
+  DLI number                                Year 2             Year 3             Year 4
+                        prior to                                                                   project-end
+                       eligibility
+Component I
+DLI 1.1                  832,500              0                   0                   0              832,500
+DLI 1.2                 1,110,000          832,500                0                   0             1,942,500
+Total                   1,942,500          832,500                0                   0             2,775,000
+Component II
+DLI 2.1                 5,772,857          962,143               0                  0              6,735,000
+DLI 2.2                  912,337          7,168,360          4,607,300           782,003           13,470,000
+DLI 2.3                  270,948          1,664,397          4,180,345          7,354,310          13,470,000
+Total                   6,956,142         9,794,900          8,787,645          8,136,313          33,675,000
+Component III
+DLI 3.2                 2,650,055         1,589,073          1,003,372                0             5,242,500
+DLI 3.3                 1,210,097         4,011,733          3,525,065          3,485,605          12,232,500
+                                          - 19 -
+
+
+
+
+                         Year 1 +
+                        Outcomes                                                 Cumulative at
+        DLI number                      Year 2         Year 3         Year 4
+                         prior to                                                 project-end
+                        eligibility
+      Total              3,860,152     5,600,806     4,528,437      3,485,605     17,475,000
+      Component IV
+      DLI 4.1            1,012,500     3,037,500     2,025,000          0          6,075,000
+      Total              1,012,500     3,037,500     2,025,000          0          6,075,000
+      Disbursement
+      per year
+      corresponding     13,771,294    19,265,706     15,341,082     11,621,918    60,000,000
+      to outcomes
+      achieved
+
+
+
+B.    Environmental and social safeguard risks
+2.2   In accordance with the Bank’s Environmental and Social Policy Framework and
+      existing information, this is classified as a Category “B” operation, because the
+      activities to be performed will generate moderate, localized, and short-term
+      adverse environmental and social impacts. Depending on the type of program
+      work, negative impacts have been identified during the construction stage: the
+      generation of household and hazardous solid waste, the spread of pests and
+      vectors due to soil movement, land clearing, etc.; impacts on the landscape and
+      land use by the works; and potential temporary and/or permanent physical and/or
+      economic displacement of vulnerable households for dwellings located in areas of
+      environmental or physical risk or dwellings that occupying the right of way of
+      program-targeted spaces. The prioritization criteria (paragraph 1.34) seek to
+      mitigate risk.
+2.3   The environmental and social risk is rated as “Substantial” because the program
+      activities will have the potential to generate substantial direct impacts associated
+      with the resettlement of socioeconomically vulnerable households in various
+      informal settlements in Uruguay, the potential risk of increased worker and
+      community accidents, the context of socioeconomic vulnerability in the target
+      areas, and the executing agency’s limited experience implementing the IDB’s
+      Environmental and Social Policy Framework.
+2.4   The project’s exposure to flood and drought hazards is categorized as “Medium”
+      and “High,” respectively, based on the Bank’s Disaster and Climate Change Risk
+      Assessment Methodology [75] criticality cube for housing, the physical
+      characteristics criteria for the program, and the interaction with the human and
+      natural environment. The negative impact on essential services is moderate. The
+      technical design of the housing will incorporate disaster risk and climate change
+      criteria, such that no significant increases in current natural hazard conditions or
+      in the vulnerability of communities or the environment are expected as a result of
+      program interventions. Considering the identified threat levels, the estimated
+      criticality and vulnerability of the infrastructure interventions, and the levels of risk
+      exacerbation, the operation’s risk level is classified as “Moderate.”
+2.5   DINISU’s environmental and social action plan was evaluated based on the
+      structure, procedures, resources, and responsibilities through which the social and
+                                        - 20 -
+
+
+
+      environmental issues of the programs and plans under execution are managed.
+      Gaps between the environmental and social management system and the
+      applicable requirements under Environmental and Social Performance Standards
+      were identified, and the environmental and social action plan will cover the actions
+      required to adequately close the gaps. Environmental and social performance
+      criteria will be included as part of the disbursement verification protocols: (i) the
+      half-yearly reporting of environmental and social performance indicators agreed by
+      the Bank and the executing agency in the semiannual progress reports; and (ii) the
+      effective completion of corrective plans in the event of deviations from targets.
+      Category A works, works with high environmental and social risk, or actions
+      classified as high disaster and climate change risk will not be allowed.
+C.    Fiduciary risks
+2.6   During program preparation, a medium-high internal process risk was identified. If
+      DINISU and CONAFIN-AFISA do not receive training prior to and during program
+      implementation on financial fiduciary management applicable to LBRs, delays
+      could arise in preparing and presenting established fiduciary arrangements as a
+      result of the learning curve. This could delay disbursement management by
+      extending the 12-month deadline for submitting the outcomes linked to the first
+      disbursement tranche. The fiduciary team will provide training and support to
+      DINISU and CONAFIN-AFISA during the execution period, including monitoring
+      the amount of expenditures incurred versus the amount of disbursements made
+      by the Bank. The FISU team will also develop the categorization and assignment
+      of identifiers in respect of the expenditures attributable to the program’s
+      disbursement-linked and non-disbursement-linked outcomes, so as to ensure the
+      viability of issuing the annual and final report of the aforementioned expenditures
+      incurred by CONAFIN-AFISA, in its capacity as FISU fiduciary, under the orders
+      of DINISU.
+D.    Other risks and key issues
+2.7   The following potential risks were identified: (i) there is no average, but the
+      evaluation of the Neighborhood Improvement Program indicates that, in the period
+      examined (eight years), only 25% of the target was reached. Therefore, if the land
+      regularization processes are excessively delayed, the expected outcomes of
+      Component III may not be achieved. To mitigate this risk, efforts were made with the
+      DINISU team to develop a new mechanism to increase land tenure security; (ii) if
+      the departmental governments and beneficiary families do not take adequate
+      ownership of the works, then the sustainability of the interventions could be
+      compromised. To mitigate this risk, the presence of field teams will be increased;
+      and (iii) possible risks linked to procurement management as a result of relying on
+      local systems will be mitigated by placing greater emphasis on the monitoring of
+      assurance reports and preparation of the related terms of reference.
+2.8   Innovation and climate change. The national informal settlements registry will
+      be strengthened, and DINISU will be supported to implement a management
+      model based on digitalization and data centralization, which will enable efficient
+      program monitoring, improve the likelihood of achieving the objectives, and reduce
+      transaction and implementation costs. In addition, the systematization,
+      transparency, and accessibility of data on informal settlements will be improved,
+      and innovative solutions and digital tools will be evaluated to respond to the
+      development gaps in each component, as identified in optional link 10.
+                                          - 21 -
+
+
+
+       Cost-effective climate change adaptation and mitigation measures will also be
+       included in the program works, which will seek to comply with construction
+       standards, such as the Excellence in Design for Greater Efficiencies standards.
+2.9    Economic evaluation (optional link 1). The analysis was conducted on
+       Components I, II, III, and program administration (90.3% of the total amount). The
+       ex ante cost-effectiveness methodology was used for Component II. This analysis
+       calculates the cost-effectiveness ratio based on the quotient between the present
+       value of expected investment costs, expected incremental operating and
+       maintenance costs, and the number of households benefiting from the
+       interventions at the neighborhood level. The program’s economic viability is
+       observed by comparing the reasonableness of this ratio with that of other
+       precedents selected from Neighborhood Improvement Programs I and II in
+       Uruguay and recent similar programs in Chile and Argentina (5313/OC-CH and
+       5741/OC-AR), thus providing a frame of reference that justifies the use of an
+       evaluation of this type, without the need to undertake a more costly project in terms
+       of time and resources for a monetary valuation of benefits. As a result,
+       Component II exhibits a cost-effectiveness ratio expressed at social prices of
+       US$13,320 per dwelling, lower than similar programs in Uruguay that were
+       executed in the past (just over US$30,000). For Component III, the cost-
+       effectiveness methodology was used where comparisons are made at the unit cost
+       level. The analysis finds that the costs foreseen in the instruments, on the one
+       hand, for housing improvement and adaptation (compared to Argentina) and, on
+       the other, for the acquisition of used and new housing (compared to Chile) turn out
+       to be cost effective, while, in relation to the instrument for adequate housing
+       through the delivery of materials to companies and/or cooperatives, it is 24% more
+       expensive than in Chile, which falls within an acceptable margin.
+2.10   Sustainability of the interventions. The program will support the sustainability
+       of the interventions through: (i) the transfer of the methodology and generation of
+       capacities to reduce the qualitative housing deficit; (ii) the strengthening of
+       community organizations; (iii) coordination with other responsible bodies;
+       (iv) citizen participation in the definition and execution of projects; (v) the
+       maintenance of public spaces together with departmental governments;
+       (vi) studies necessary for the delivery of public services; and (vii) the strengthening
+       of the executing agency’s capacities to respond to this problem in Uruguay. These
+       seven measures will be consolidated under sustainability plans for the investments
+       made to provide follow-up and monitoring during and after execution.
+
+                     III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.     Summary of implementation arrangements
+3.1    The borrower will be FISU, through CONAFIN-AFISA in its capacity as fiduciary
+       body. The Eastern Republic of Uruguay will be the guarantor. FISU is an
+       administration trust established in accordance with Law 17,703 and Law 19,996 to
+       finance and execute social and urban integration programs for informal
+       settlements. The executive branch acts as trustor through the Ministry of Economy
+       and Finance, which is also the end beneficiary of the trust; the Ministry of Livestock,
+       Agriculture, and Fisheries; and the MVOT. The FISU governance structure
+       includes a Monitoring Committee and a Procurement Committee as set out in the
+       FISU management trust agreement. In addition, FISU provides for the participation
+                                         - 22 -
+
+
+
+      of DINISU, which acts as manager, and CONAFIN-AFISA, which acts as fiduciary
+      of the assets.
+3.2   Institutional capacity. As required by the LBR policy, DINISU was analyzed as
+      the program’s executing agency, and it was confirmed that it has sufficient
+      institutional capacity to execute the program, which will be strengthened during
+      program execution. CONAFIN-AFISA’s fiduciary execution capacity was analyzed,
+      assessing its structure, organization, and processes, and its execution capacity
+      was found to be satisfactory. CONAFIN-AFISA also has satisfactory fiduciary
+      experience as the executing agency of the Bank’s investment loan for the Global
+      Credit Program for Safeguarding the Productive Fabric and Employment
+      (5058/OC-UR, 2020 / US$80 million / 100% disbursed).
+3.3   Execution arrangements. The MVOT, through DINISU, will be the executing
+      agency responsible for the planning, coordination, management, and monitoring
+      of program activities. DINISU will be responsible, among other tasks, for:
+      (i) leading dialogue with the IDB; (ii) prioritizing program works; (iii) approving the
+      Social and Urban Integration Action Profile, SUIPs and SCAPs submitted by the
+      departmental governments; (iv) ensuring that the works have social teams to
+      support execution; (v) monitoring compliance with environmental and social
+      requirements in accordance with the loan contract and the program Operating
+      Regulations; (vi) coordinating with the departmental governments and other
+      entities involved in program execution, including CONAFIN-AFISA; (vii) following
+      up, monitoring, and evaluating the program; and (viii) submitting program reports
+      to the Bank, including progress reports, as stipulated in the loan contract and the
+      program Operating Regulations for the operation.
+3.4   In coordination with DINISU, CONAFIN-AFISA, in its capacity as fiduciary of FISU,
+      will be responsible for: (i) requesting disbursements of loan proceeds;
+      (ii) contracting and procurement; (iii) accounting and financial control and
+      monitoring, as well as the preparation and submission to the Bank of financial and
+      audit reports on the program; and (iv) administering loan proceeds through a
+      separate account. Details of the coordination between DINISU and
+      CONAFIN-AFISA will be set out in the program Operating Regulations.
+3.5   Strategic interagency coordination at FISU. FISU’s structure provides for: (i) a
+      three-member Monitoring Committee, representing the trustor ministries, the main
+      task of which will be to approve and monitor the program’s plan of works and
+      activities; (ii) a Procurement Committee, also made up of three members—two
+      appointed by DINISU and one by CONAFIN-AFISA—which will approve the
+      bidding documents, evaluate the competitive procedures, and award the contracts
+      for technical services and works; and (iii) a manager of the trust (a role assigned
+      to DINISU), which will be responsible for executing the activities pursuant to the
+      stipulations of the loan contract and the program Operating Regulations.
+3.6   Program Operating Regulations. The program Operating Regulations will outline
+      program coordination and administration responsibilities, the conditions for
+      awarding resources, social and environmental requirements, and the exclusion list,
+      among other things. Any changes will be subject to the Bank’s no objection.
+3.7   Requirements applicable to the independent verifier. The company or
+      professional hired to independently verify the outcomes must be experienced in
+      project evaluation and monitoring, the use of outcome indicators, and the
+      evaluation of the reliability of information sources and methods used to produce
+                                        - 23 -
+
+
+
+      them. The terms of reference for this contract will be agreed on beforehand with
+      the Bank, and the funds for this may be sourced from the technical-cooperation
+      resources from the Bank operation.
+3.8   The special contractual conditions precedent to the first disbursement will
+      be that the borrower has, through the executing agency, submitted evidence
+      of: (i) the approval and entry into force of the program Operating Regulations
+      [76] under the terms previously agreed with the Bank, which will include,
+      inter alia, the environmental and social requirements set out in the
+      environmental and social management system and the environmental and
+      social action plan; and (ii) having contracted the independent verifier of
+      program outcomes in accordance with the terms of reference previously
+      agreed with the Bank. See other special contractual conditions in Annex B
+      of the Environmental and Social Review Summary. Condition (i) is necessary
+      to ensure that the executing agency has a detailed regulation in place to execute
+      the program that sets out the necessary guidelines and responsibilities of each of
+      the actors involved in the program. Condition (ii) is necessary to verify the
+      outcomes in accordance with the Bank’s policy for the sovereign guaranteed loan
+      instrument based on results (GN-2869-10).
+3.9   Fiduciary agreements and requirements. Annex III contains the financial
+      management and procurement guidelines. Procurement made directly by FISU,
+      represented by CONAFIN-AFISA and in coordination with DINISU, will be
+      governed by the systems and procedures of FISU policies and the program
+      Operating Regulations. CONAFIN-AFISA’s procurement system was evaluated by
+      the Bank (optional link 12) and is considered compatible with internationally
+      accepted principles, practices, and standards for all procurement methods and
+      provides for the possibility for bidders from all countries to participate. Financial
+      management will be subject to the provisions of document OP-273-12 and the
+      Bank’s LBR guidelines. Disbursements of resources to a dedicated FISU bank
+      account under the program will be managed pursuant to the procedures set out in
+      the program Operating Regulations. The operation provides for an initial
+      disbursement and disbursements to finance previously achieved outcomes. For
+      program purposes, the borrower, through CONAFIN-AFISA, will submit to the
+      Bank annual and final assurance reports on the expenditures incurred by FISU
+      under the direction of DINISU to achieve the disbursement-linked and
+      non-disbursement-linked outcomes agreed on for the program. Assurance reports
+      will be issued by an eligible auditing firm, with terms of reference agreed with the
+      Bank. The firm auditing the FISU will be allowed to issue assurance reports
+      provided that it is an independent audit firm acceptable to the Bank.
+                                                       - 24 -
+
+
+
+                                      Table 7. Disbursement schedule (US$)
+            Item            Year 1             Year 2              Year 3           Year 4            Total
+     Advance (up to       US$10,096,806          US$ -              US$ -            US$ -        US$10,096,806
+     20%)
+     Disbursements
+     for outcomes         US$7,093,924       US$19,265,706      US$15,341,082    US$11,621,918    US$53,322,630
+     achieved after
+     eligibility
+     Outcomes
+     achieved prior       US$6,677,370           US$ -              US$ -            US$ -         US$6,677,370
+     to eligibility (up
+     to 15%)
+     Value of
+     advance                  US$ -              US$ -          US$(5,048,403)   US$(5,048,403)   US$(10,096,806)
+     discount
+     % advance                 0%                 0%                 50%              50%             100%
+     discount
+     Total                US$23,868,100      US$19,265,706      US$10,292,679    US$6,573,515     US$60,000,000
+
+
+
+3.10     Financing of previously achieved outcomes and initial disbursement. The
+         Bank may finance previously achieved outcomes and the outcomes related to DLIs
+         1.1, 2.1, and 3.2 (Tables 5 and 6) between the project profile approval date
+         (6 September 2022) and up to the date of loan eligibility, for up to US$6,677,370
+         (11.13% of the loan amount). This will be subject to an independent evaluation
+         following the corresponding verification protocol in Annex II (Results Matrix).
+         Expenditures related to the achievement of these outcomes must be eligible under
+         the program, attributable to their achievement, and incurred for this purpose up to
+         12 months prior to project profile approval. In addition, an initial disbursement of
+         up to US$10,096,806 (16.83% of the loan amount) is included once the loan has
+         been declared eligible to receive disbursements. The combined amount for initial
+         disbursement and financing of previously achieved outcomes will not exceed 30%
+         of the total loan amount, in accordance with paragraph 5.25 of the LBR guidelines
+         (GN-2869-10).
+3.11     The DLIs associated with the initial disbursement and financing of previously
+         achieved outcomes are identified in Table 6.
+B.       Summary of arrangements for monitoring results
+3.12     Progress monitoring. The monitoring system will consist of Annex II (Results
+         Matrix), progress monitoring reports, and the DLI monitoring and information
+         system, complemented by the periodically updated Risk Matrix. The executing
+         agency and the Bank have agreed on a protocol for each DLI in required link 1,
+         which contains the related definition and verification process. The executing
+         agency will submit a progress report to the Bank within 60 days of the end of each
+         calendar half-year period.
+3.13     Final evaluation. These will include: (i) the results of financial execution;
+         (ii) compliance with output and outcome targets; (iii) the degree to which the works
+         comply with social, environmental, and operation and maintenance requirements;
+         (iv) the degree of compliance with contractual commitments; (v) a summary of the
+         results of audits conducted during execution; (vi) verification of compliance with
+         investment limits; and (vii) a summary of lessons learned.
+                                           - 25 -
+
+
+
+3.14   This final evaluation will include an ex post economic evaluation using the same
+       methodology as the ex ante evaluation. Outcome indicators will be evaluated on a
+       reflexive basis. The basis for information will be the means of verification set out in
+       the Results Matrix and administrative data. The impact indicator will be measured
+       through a satisfaction survey that will be applied to a representative sample of
+       households in all the informal settlements targeted in the first half of the last year of
+       loan implementation. The arrangements and methodology for the design and
+       implementation of the evaluations will be subject to the Bank’s no objection.
+                                                                                                                                                                                       Annex I - UR-L1188
+                                                                                                                                                                                               Page 1 of 1
+
+
+
+
+                                                                         Development Effectiveness Matrix
+
+                                                                                   Summary             UR-L1188
+I. Corporate and Country Priorities
+Section 1. IDB Group Institutional Strategy Alignment
+
+                                                                                                -Gender equality and inclusion of diverse population groups
+                                                                                                -Institutional capacity, rule of law, citizen security
+                                                                                                -Social protection and human capital development
+ Operational Focus Areas
+                                                                                                -Sustainable, resilient, and inclusive infrastructure
+                                                                                                -Productive development and innovation through the private sector
+
+
+
+
+ [Space-Holder: Impact framework indicators]
+
+
+
+
+2. Country Development Objectives
+                                                                                                                         1. Support the most vulnerable populations; 2. Facilitate
+   Country Strategy Results Matrix                                                                      GN-3056          urban and housing services; 3. Improve productive and
+                                                                                                                         resilient infrastructure
+
+
+                                                                                                                         The intervention is included in the 2024 Operational
+   Country Program Results Matrix                                                                      GN-3087-2
+                                                                                                                         Program.
+
+
+
+   Relevance of this project to country development challenges (If not aligned to country
+   strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                            Evaluable
+3. Evidence-based Assessment & Solution                                                                                                  7.8
+     3.1 Program Diagnosis                                                                                                               2.5
+     3.2 Proposed Interventions or Solutions                                                                                             1.6
+     3.3 Results Matrix Quality                                                                                                          3.7
+4. Ex ante Economic Analysis                                                                                                             8.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                      2.0
+     4.2 Identified and Quantified Benefits and Costs                                                                                    3.0
+     4.3 Reasonable Assumptions                                                                                                          0.0
+     4.4 Sensitivity Analysis                                                                                                            2.0
+     4.5 Consistency with results matrix                                                                                                 1.0
+5. Monitoring and Evaluation                                                                                                             9.5
+     5.1 Monitoring Mechanisms                                                                                                           4.0
+     5.2 Evaluation Plan                                                                                                                 5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                  Medium Low
+Environmental & social risk classification                                                                                               B
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+
+                                                                                                                         Financial Management: Treasury.
+                                                                 Fiduciary (VPC/FMP Criteria)             Yes
+                                                                                                                         Procurement: Information System, Price Comparison,
+                                                                                                                         Contracting Individual Consultant, National Public Bidding.
+
+
+
+
+                                                                               Non-Fiduciary
+
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+
+
+Additional (to project preparation) technical assistance was provided to the public sector
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+
+The general objective is to contribute to the reduction of socio-urban integration barriers in precarious areas of Uruguay. The specific objectives are: (i) strengthen the
+management capabilities of the DINISU; (ii) improve access to adequate habitat in irregular settlements; (iii) improve access to adequate housing solutions in precarious areas;
+and (iv) promote the socioeconomic development of households residing in precarious areas.
+
+The project presents a complete diagnosis of the current program, shows a detailed analysis of its bottlenecks and the expectations of generating efficiencies with the proposed
+solutions. The program has 8 indicators linked to disbursements, which include three intermediate result indicators.
+
+The economic analysis of the project was carried out through cost-effectiveness and cost-efficiency analysis. The analyzes conclude that when comparing what is expected with
+this program with respect to previous experiences of the habitat improvement program in Uruguay, the budgeted costs are below previous experiences. Both programs, habitat
+improvement and housing improvement, where evaluated against similar programs in Chile and Argentina; however, the comparability of these programs is not clear since they
+have not yet been completed.
+
+The project includes a monitoring and evaluation plan that is in line with the Bank's standards. The effectiveness of the proposed intervention will be measured using a before and
+after methodology. The monitoring mechanisms for the disbursement linked indicators have a defined verification protocol and sources.
+                                                                                                                                                                     Annex II
+                                                                                                                                                                   Page 1 of 5
+
+
+
+                                                                           RESULTS MATRIX
+                                                                (SEE DISBURSEMENT INDICATORS MATRIX)
+
+Project objective:                      Help reduce social and urban integration barriers in Uruguay’s semiformal areas. The specific objectives are to: (i) strengthen DINISU’s
+                                        management capacities; (ii) improve access to adequate housing in informal settlements; (iii) improve access to adequate housing
+                                        solutions in semiformal areas; and (iv) promote the socioeconomic development of households in semiformal areas.
+
+
+
+                                                                      GENERAL DEVELOPMENT OBJECTIVE
+
+                                                                 Baseline     Baseline      Expected year
+            Indicators                    Measurement unit                                                      Target        Means of verification            Comments
+                                                                  value         year          achieved
+
+
+General development objective: Help reduce social and urban integration barriers in Uruguay’s semiformal areas.
+
+
+1. Households in informal                   % of households          0          2024             2028            60%      Ex post impact survey               Required link 1
+settlements that report being more        (*see breakdown of
+satisfied with the characteristics of       all measurement
+the neighborhood in its multiple                 units in
+dimensions.                                  required link 1)
+Annex II
+Page 2 of 5
+
+
+                                                                       SPECIFIC DEVELOPMENT OBJECTIVES
+
+                                 Measure-                                                                                            End of     DLI
+        Indicators                                   Means of verification            Baseline   Year 1   Year 2   Year 3   Year 4                       Comments
+                                 ment unit                                                                                           project   Yes/No
+
+Specific development objective 1: Strengthen DINISU’s management capacities
+
+1.1. Strategic                      # of           Strategic interjurisdictional         0         9        0        0        0        9        Yes     Required link 1
+interjurisdictional             agreements         coordination agreements
+coordination agreements,                         entered into by the MVOT and
+with baseline studies                                   the departmental
+conducted and aimed at                                   administrations.
+social and urban
+integration, signed within 12
+months of FISU’s creation.
+
+1.2. Informal settlements       # of informal       Reports produced by this             0         4        3        0        0        7        Yes
+targeted with works using       settlements         management system and
+the management system                            validated by a report signed by
+adapted with program                              the DINISU authority or such
+support.                                        area that replaces it in the future
+
+1.3. Gap between                  % gap*           Work specifications and              30         -        -        -       20        20       No      Required link 1
+scheduled and actual time                       completion of work (provisional
+between bidding and end of                         acceptance certificate)
+works.
+
+1.4. Informal settlements       % of        Report produced by the                       0         -        -        -       90        90       No      Required link 1
+targeted with neighborhood   informal   Departamento de Trabajo Social
+committees set up to       settlements*   y Ambiental (Department of
+monitor the project.                    Social and Environmental Work)
+                                           and validated in writing by
+                                          DINISU’s Social and Urban
+                                        Integration Action Planning and
+                                               Management area
+
+Specific development objective 2: Improve access to adequate housing in informal settlements
+
+2.1. Prioritized informal       # of informal    SUIP or SCAP validated in               0         6        1        0        0        7        Yes     Required link 1
+settlements with a SUIP or      settlements     writing by the DINISU authority
+SCAP prepared that
+incorporates climate
+change mitigation and
+adaptation measures,
+                                                                                                                                                              Annex II
+                                                                                                                                                            Page 3 of 5
+
+
+
+                               Measure-                                                                                          End of     DLI
+        Indicators                               Means of verification            Baseline   Year 1   Year 2   Year 3   Year 4                         Comments
+                               ment unit                                                                                         project   Yes/No
+designed and approved
+within three years from the
+start of the operation.
+
+2.2. Households in informal      # of        Technical report signed by the          0        140     1,100     707      120     2,067      Yes       Required link 1
+settlements covered by at     households      person in charge of DINISU’s
+least one new urban basic                    Projects and Works Division or
+service within 40 months of                  such area that replaces it in the
+the call for tenders.                         future, stating the increase in
+                                                         coverage
+
+2.3. Households in informal      # of         Reports from DINISU’s Social           0        35       215      540      950     1,740      Yes     Corporate Results
+settlements that have seen    households      and Urban Integration Action                                                                              Framework
+increased land tenure                          Planning and Management                                                                               indicator 2.4. and
+security and access to the                   area(a) validated by resolution of                                                                     2.5. Required link 1
+formal network of urban                            the DINISU authority
+basic services within four
+years of approval of the
+SCAP.
+
+2.4 Households in targeted       % of      Report from water, sanitation,            0         -        -        -      80%       80%       No        Required link 1
+informal settlements with     households* and electricity utilities or copy of
+connection to formal basic                 bills from the Administración
+services.                                       Nacional de Usinas y
+                                             Transmisiones Eléctricas
+                                          (national power company) and
+                                           Obras Sanitarias del Estado
+                                              (national water utility) of
+                                             participating households
+
+2.5. Households in targeted    % of               Report issued by the               0         -        -        -      100%     100%       No        Required link 1
+informal settlements that   households*       corresponding departmental
+have increased tenure                           administration or MVOT,
+security for women or both                    depending on who owns the
+spouses.                                                  land
+
+Specific development objective 3: Expand access to adequate housing solutions in semiformal areas
+
+3.1 SCAPs prepared with       # of SCAPs      (a) validated in writing by the        0         4        0        0        0        4        No        Required link 1
+the necessary studies to                      DINISU authority or such area
+prevent informal housing                       that replaces it in the future
+Annex II
+Page 4 of 5
+
+
+
+                              Measure-                                                                                           End of     DLI
+        Indicators                              Means of verification             Baseline   Year 1   Year 2   Year 3   Year 4                        Comments
+                              ment unit                                                                                          project   Yes/No
+and/or expand access to
+adequate housing solutions,
+approved in less than three
+years.
+
+3.2. Households included in      # of       (a) validated in writing by the          0        552      331      209       0      1,092      Yes      Required link 1
+the SCAPs with an             households    DINISU authority or such area
+intervention project drawn                   that replaces it in the future,
+up to ensure they benefit                      verifying the households
+from better housing                          prioritized to benefit from the
+conditions.                                            intervention
+
+3.3. Households that            # of         (a) validated in writing by the         0        92       305      268      265      930       Yes      Required link 1
+benefited from better        households     DINISU authority or such area
+housing conditions in                      that replaces it in the future with
+semiformal areas with a                        the list of beneficiaries. In
+10% reduction of the                        addition, the resolution for the
+historical average execution                   purchase of second-hand
+time.                                      housing, the loans for use of the
+                                                  dwellings, the list of
+                                           beneficiaries, and the final list of
+                                            beneficiaries awarded housing
+                                           improvements must be included
+                                                      as an annex.
+
+3.4. Households in targeted    % of         Ex ante and ex post housing              0         -        -        -        -       70%       No      Required link 1.
+informal settlements with   households*               survey
+adequate materials.                                                                                                                                  The information
+                                                                                                                                                          survey is
+                                                                                                                                                      conducted by
+                                                                                                                                                      comparing the
+                                                                                                                                                    initial and closing
+                                                                                                                                                      neighborhood
+                                                                                                                                                     census of each
+                                                                                                                                                      neighborhood.
+
+Specific development objective 4: Promote the socioeconomic development of households in semiformal areas
+
+4.1. Neighborhood plans for   # of plans       Report produced by the                0         2        6        4        0        12       Yes      Required link 1
+social and/or productive                      Department of Social and
+integration aimed at                          Environmental Work and
+                                                                                                                                                       Annex II
+                                                                                                                                                     Page 5 of 5
+
+
+
+                           Measure-                                                                                        End of     DLI
+       Indicators                             Means of verification         Baseline   Year 1   Year 2   Year 3   Year 4                        Comments
+                           ment unit                                                                                       project   Yes/No
+boosting income prepared                   validated by DINISU’s Social
+within 18 months of the                    and Urban Integration Action
+census.                                     Planning and Management
+                                         area, including the neighborhood
+                                            social and urban integration
+                                              plans aimed at boosting
+                                            incomes. The report should
+                                           include the completion times.
+
+4.2. People who have       # of people       Report produced by the            0         -        -       200      300      500       No      Corporate Results
+become more employable.                     Department of Social and                                                                             Framework
+                                             Environmental Work and                                                                             indicator 2.7
+                                           validated by DINISU’s Social                                                                        Required link 1
+                                           and Urban Integration Action
+                                         Planning and Management area
+
+4.3. Women who have        # of women        Report produced by the            0         -        -       100      275      375       No      Corporate Results
+become more employable.                     Department of Social and                                                                             Framework
+                                             Environmental Work and                                                                             indicator 2.16
+                                           validated by DINISU’s Social                                                                        Required link 1
+                                           and Urban Integration Action
+                                         Planning and Management area
+ See the output matrix in required link 1.
+                                                                                   Annex III
+                                                                                 Page 1 of 5
+
+
+
+                        FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+Country: Uruguay        Division: HUD         Operation number: UR-L1188         Year: 2024
+
+Executing agency: Ministry of Housing and Land Management (MVOT), through the
+Dirección Nacional de Integración Social y Urbana (National Office for Social and Urban
+Integration)
+Operation name: Social and Urban Integration Program in Uruguay
+
+I.   Fiduciary Context of the Executing Agency
+
+1. Use of the country system in the operation
+     Budget                    Reports               Information         National
+                                                     system              competitive
+                                                                         bidding
+
+      Treasury             Internal audit            Shopping            Other
+
+     Accounting            External control          Individual
+                                                     consultants
+
+2. Fiduciary execution mechanism
+
+       Fiduciary           The execution arrangement provides for the administration
+       execution           trust FISU, through CONAFIN-AFISA as fiduciary body, to
+       considerations      receive the loan proceeds in its capacity as borrower. No local
+                           contribution is planned.
+                           Law 19,996, under Law 17,703, created FISU to finance and
+                           execute contracts under social and urban integration
+                           programs for vulnerable neighborhoods, following the design
+                           and execution carried out by DINISU of the MVOT. FISU’s
+                           trustors are the Ministry of Economy and Finance, the Ministry
+                           of Livestock, Agriculture, and Fisheries, and the MVOT.
+                           DINISU acts as manager of FISU and CONAFIN-AFISA—a
+                           fiduciary role that is part of the National Development
+                           Corporation. FISU establishes the duties and powers of
+                           DINISU, CONAFIN-AFISA, and the governance framework,
+                           including a Monitoring Committee and a Procurement
+                           Committee, applicable to the operation. An agreement will not
+                           be necessary to execute the program following budgetary
+                           rules.
+Annex III
+Page 2 of 5
+
+
+3. Fiduciary capacity
+
+ Fiduciary capacity     The ICAP analysis of DINISU and FISU, represented by
+ of the executing       CONAFIN-AFISA, remains available and concludes that
+ agency                 financial, procurement, and coordination management is
+                        adequate for the operation with opportunities for strengthening
+                        during program execution.
+
+4. Fiduciary risks and risk response
+
+    Risk                                   Level of
+                        Risk                                       Risk response
+ taxonomy                                    risk
+ Internal     If DINISU and FISU do        Medium-       The Bank’s fiduciary team will
+ processes    not receive training prior    high         provide ongoing training on LBR
+              to and during program                      in the first year of execution and
+              implementation on                          support over the project’s lifetime,
+              fiduciary management                       including monitoring the amount
+              applicable to LBRs,                        of expenditures incurred versus
+              delays could arise in                      the amount of disbursements
+              preparing and                              made by the Bank. The FISU
+              submitting established                     team will also develop the
+              fiduciary arrangements                     categorization and assignment of
+              as a result of the                         identifiers in respect of the
+              learning curve.                            expenditures attributable to
+                                                         program outcomes for issuance
+                                                         of the annual report on
+                                                         expenditures attributable to the
+                                                         program’s disbursement-linked
+                                                         and non-disbursement-linked
+                                                         outcomes incurred by FISU,
+                                                         through its fiduciary CONAFIN-
+                                                         AFISA, under the direction of
+                                                         DINISU as the program’s
+                                                         executing agency.
+
+5. Policies and guidelines applicable to the operation
+Due to the positive results from the evaluation of DINISU’s procurement system as an
+executing agency under FISU, it is recommended that this system be used to execute this
+operation as an LBR under document GN-2869-1. Such an exception from use of the
+Bank’s procurement policy does not apply to hiring the company, agency, or individual
+expert to independently verify the attainment of the outcomes, if that hiring is done by the
+executing agency. Document OP-273-12 (financial management guidelines) and Bank
+guidelines applicable to LBR.
+
+6. Exceptions to policies and guidelines
+Pursuant to paragraphs 5.33 and 5.34 of document GN-2869-1, the Board of Executive
+Directors approved an exception to application of the Bank’s procurement policies and to
+matters relating to the origin of the goods and the nationality of the companies and
+                                                                                    Annex III
+                                                                                  Page 3 of 5
+
+
+individuals related to an IDB member country. According to LBR guidelines, Board
+approval need not be sought for each operation.
+
+II. Considerations for the Special Provisions of the Loan Contract
+
+ Exchange rate. For the purposes of Article 4.10 of the General Conditions, the parties
+ agree that the exchange rate to be used will be the rate stipulated in Article 4.10(b)(ii).
+ For such purpose, the agreed exchange rate will be the rate in effect on the date on
+ which the borrower, executing agency, or any other person or corporation with
+ delegated authority to incur expenditures is delegated makes the respective payments
+ to the contractor, vendor, or beneficiary.
+ Type of audit. The external financial audit reports and other reports that, at the date of
+ signature of the loan contract, have been identified as necessary to supervise program
+ financial management are annual and final assurance reports on the reporting of
+ expenditures incurred by FISU, represented by its fiduciary CONAFIN-AFISA under the
+ direction of DINISU to achieve the disbursement-linked and non-disbursement-linked
+ outcomes agreed on for the program. The borrower will submit assurance reports, with
+ terms of reference agreed on with the Bank, within 120 days following the program’s
+ fiscal year-end if audited by an independent, Bank-eligible audit firm or within 180 days
+ following the program’s fiscal year-end if audited by the Tribunal de Cuentas (Office of
+ the Auditor General). The last of these assurance reports will be submitted within
+ 120 days following the date of the final disbursement or any extensions thereto if audited
+ by an independent, Bank-eligible audit firm or within 180 days following the date of final
+ disbursement or any extensions thereto if audited by the Office of the Auditor General.
+ The assurance reports may be issued by the firm that audits FISU provided that it is an
+ independent, Bank-eligible audit firm.
+
+III. Agreements and Requirements for Procurement Execution
+
+      Bidding         The bidding documents to be used will be those DINISU already
+      documents       uses for the procurement of works, goods, and services, which
+                      incorporate appropriate, sufficient content. It will be recommended
+                      that these documents provide for measures regarding the
+                      appropriate use of funds and application of the principles of
+                      economy and efficiency.
+      Use of          As approved by the Board of Executive Directors for the exception
+      country         to the application of the IDB’s procurement policy (paragraph 5.34
+      systems         of document GN-2869-1) for the execution of LBRs, the fiduciary
+                      procurement systems used by the executing agency were
+                      evaluated to ensure that the loan proceeds are used to achieve the
+                      relevant outcomes for the intended purposes, guided by the
+                      principles of transparency, economy, effectiveness, and efficiency.
+                      Based on the evaluation, these systems are considered reliable
+                      and consistent with the principles of good practice and are
+                      therefore recommended for use in program procurement.
+      Financing of    The Bank may finance previously achieved outcomes and the
+      previously      outcomes related to DLIs 1.1, 2.1, and 3.2 (Tables 5 and 6)
+Annex III
+Page 4 of 5
+
+
+
+      achieved        between the project profile approval date and up to the date of loan
+      outcomes        eligibility, for up to US$6,677,370 (11.13% of the loan amount).
+                      These outcomes will be subject to an independent evaluation
+                      following the corresponding verification protocol (see Results
+                      Matrix).
+      Special         If the executing agency is tasked with hiring the independent entity
+      procurement     to verify the outcomes achieved, that entity could be a private
+      provisions      company or a public entity with the capacity and mandate to
+      applicable to   perform such evaluations; the selection procedures will be those
+      the operation   set out in document GN-2350-15.
+      Procurement     If the executing agency is charged with hiring the independent
+      supervision     entity to verify the outcomes achieved, the Bank will supervise the
+                      selection process on an ex ante basis. All other procurement and
+                      contracting will be in accordance with the executing agency’s
+                      procurement and contracting system and therefore will not be
+                      supervised.
+      Records and     Under FISU, DINISU and CONAFIN-AFISA will be responsible for
+      files           maintaining the original files on procurement and financial
+                      management within their purview under project execution.
+
+
+IV. Financial Management Agreements and Requirements
+
+    Programming       Under the law creating FISU, the trustors transfer annually to FISU the
+    and budget        resources required to meet the program’s works and activities plan
+                      drawn up by DINISU and approved by FISU’s Monitoring Committee
+                      (representatives from the Ministry of Economy and Finance, MVOT, and
+                      Ministry of Livestock, Agriculture, and Fisheries). Based on the
+                      program’s approved works and activities plan, the FISU Procurement
+                      Committee—made up of two DINISU representatives and one
+                      CONAFIN-AFISA        representative—initiates     the   corresponding
+                      processes.
+    Treasury and      For treasury, the national single treasury account will be used, for which
+    disbursement      the National Treasury will set up a special account at the Central Bank
+    management        of Uruguay in the name of FISU, represented by CONAFIN-AFISA, to
+                      receive Bank resources. No provision is made for resources to be
+                      transferred to accounts at other entities. U.S. dollars will be used to
+                      manage the operation, and the exchange rate to be used is identified in
+                      Section II. Disbursement requests will be processed via the Bank’s
+                      current platform. Initial disbursement is foreseen with a discount in the
+                      third and fourth year of the execution period, as is the financing of
+                      previously achieved outcomes.
+                      The estimated flow of funds totaling US$60 million over the life of the
+                      program is as follows:
+                                                                                Annex III
+                                                                              Page 5 of 5
+
+
+
+
+                       Year 1            Year 2           Year 3            Year 4
+                  US$23.9 million   US$19.2 million   US$10.3 million    US$6.6 million
+
+
+
+Accounting,      An ERP system applied to FISU, represented by CONAFIN-AFISA, will
+information      be used. That system, called GIA and developed by DATALOGIC,
+systems, and     integrates in a single system all the bidding, procurement, accounting,
+reporting        and finance processes, enabling reports to be issued in U.S. dollars.
+                 International Financial Reporting Standards will be used. As a
+                 complement to the policies and guidelines applicable to the operation,
+                 the program Operating Regulations will be used with the documented
+                 definition of workflows and internal controls.
+Internal control CONAFIN-AFISA has implemented corporate governance practices
+and internal     that ensure compliance with Article 184.1 et seq. of Title VII, Chapter I
+auditing         of the Central Bank of Uruguay’s Consolidated Securities Market
+                 Regulations, such as: (a) ethical and professional competence of
+                 directors, managers, and senior staff; (b) a balanced structure, with
+                 clearly defined roles and responsibilities; (c) reliable control systems
+                 (CONAFIN-AFISA is certified under quality standard ISO 9001:2015,
+                 which is renewed every three years, with all company processes
+                 reviewed every year); (d) financial statements; (e) an Audit and
+                 Supervisory Committee; (f) a code of ethics; (g) external auditors; (h) a
+                 risk rating agency; (i) reporting or suspicion of fraud and irregular
+                 activities; (j) a commission to combat money laundering, the financing
+                 of terrorism, and the financing of the proliferation of weapons of mass
+                 destruction; (k) risk management.
+External         This is expected to be carried out by an independent audit firm.
+control and      However, the Office of the Auditor General may also carry out the
+financial        external audit. The type of report, cutoff dates, and deadline for
+reporting        submission are identified in Section II. The extra time for the Office of
+                 the Auditor General arises from its internal process for approval of the
+                 reports issued before submitting them to the Bank and the executing
+                 agency.
+                 CONAFIN-AFISA has external auditors responsible for preparing and
+                 issuing audit reports and for performing a limited review of the
+                 company’s financial statements as required by the Central Bank of
+                 Uruguay’s Superintendency of Financial Services for financial
+                 fiduciaries.
+Financial        This may be adjusted to the execution of the program and audited
+supervision of   financial reports. Planned activities include monitoring of program
+the operation    progress, review of disbursement requests, and visits (in-person or
+                 virtual) to DINISU and CONAFIN-AFISA.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-___/24
+
+
+
+    Uruguay. Loan ____/OC-UR to the Fideicomiso Integración Social y Urbana, through the
+     Corporación Nacional Financiera – Administradora de Fondos de Inversión S.A., in its
+             capacity as trustee. Social and Urban Integration Program in Uruguay
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+         That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be necessary
+with the Fideicomiso Integración Social y Urbana, through the Corporación Nacional Financiera –
+Administradora de Fondos de Inversión S.A., in its capacity trustee, as borrower, and with the
+Oriental Republic of Uruguay, as guarantor, for the purpose of granting the former a financing to
+cooperate in the execution of the Social and Urban Integration Program in Uruguay. Such financing
+will be for an amount of up to US$60.000.000 from the Ordinary Capital resources of the Bank, and
+will be subject to the Financial Terms and Conditions and the Special Contractual Conditions of the
+Project Summary of the Loan Proposal.
+
+
+
+                                (Adopted on ___ __________ 2024)
+
+
+
+LEG/SGO/CSC/EZIDB0000366-1028536987-13015
+UR-L1188
+

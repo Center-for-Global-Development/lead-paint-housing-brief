@@ -1,0 +1,1140 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+Project Number: 49169-002
+August 2018
+
+
+
+
+Proposed Loans and Administration of Loan and
+Grants
+Mongolia: Ulaanbaatar Green Affordable Housing
+and Resilient Urban Renewal Sector Project
+
+
+
+
+This is the version of the document approved by ADB’s Board of Directors that excludes
+information that is subject to exceptions to disclosure set forth in ADB’s Public Communications
+Policy 2011.
+                   CURRENCY EQUIVALENTS
+                     (as of 1 August 2018)
+
+                   Currency unit       –    togrog (MNT)
+                       MNT1.00         =    $0.00041
+                          $1.00        =    MNT2,464.50
+
+
+
+                         ABBREVIATIONS
+
+ADB         –   Asian Development Bank
+AMC-DBM     –   Asset Management Company of the Development Bank of
+                Mongolia
+CPP         –   community participation plan
+DBM         –   Development Bank of Mongolia
+EDAF        –   eco-district and affordable housing fund
+ESMS        –   environmental and social management system
+FIL         –   financial intermediation loan
+GCF         –   Green Climate Fund
+ha          –   hectare
+HLTF        –   High-Level Technology Fund
+km          –   kilometer
+m2          –   square meter
+MUB         –   Municipality of Ulaanbaatar
+PAM         –   project administration manual
+SDP         –   sector development plan
+SGAP        –   social and gender action plan
+VLSP        –   voluntary land swapping plan
+
+
+
+                                NOTE
+
+          In this report, “$” refers to United States dollars.
+ Vice-President            Stephen Groff, Operations 2
+ Director General          Amy S.P. Leung, East Asia Department (EARD)
+ Director                  Sangay Penjor, Urban and Social Sectors Division, EARD
+
+ Team leader               Arnaud Heckmann, Senior Urban Development Specialist, EARD
+ Team members              Tuul Badarch, Senior Project Officer (Infrastructure), EARD
+                           Ruth Benigno, Associate Project Analyst, EARD
+                           Christian Ellermann, Climate Change Specialist, Sustainable
+                           Development and Climate Change Department (SDCC)
+                           Enerelt Enkhbold, Senior Investment Officer, EARD
+                           Seung Min Lee, Financial Sector Specialist, EARD
+                           Christina Pak, Senior Counsel, Office of the General Counsel
+                           Mailene Radstake, Senior Safeguards Specialist (Resettlement),
+                           EARD
+                           Arun Ramamurthy, Senior Public Management Specialist (ICT and
+                           e-Governance), SDCC
+                           Michael Rattinger, Senior Climate Change Specialist, SDCC
+                           Shotaro Sasaki, Senior Environment Specialist, EARD
+                           Gohar Tadevosyan, Social Development Specialist (Safeguards),
+                           EARD
+ Peer reviewers            Joris van Etten, Senior Urban Development Specialist, SDCC
+                           Biao Huang, Senior Investment Specialist, Private Sector
+                           Operations Department
+                           Sung Su Kim, Finance Sector Specialist, SDCC
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                     CONTENTS
+
+                                                                   Page
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                                   1
+II.    THE PROJECT                                                    1
+       A.   Rationale                                                 1
+       B.   Impacts and Outcome                                       3
+       C.   Outputs                                                   3
+       D.   Summary Cost Estimates and Financing Plan                 4
+       E.   Implementation Arrangements                               6
+III.   DUE DILIGENCE                                                  7
+       A.    Technical                                                7
+       B.    Economic and Financial                                   7
+       C.    Governance                                               8
+       D.    Poverty, Social, and Gender                              8
+       E.    Safeguards                                               9
+       F.    Summary of Risk Assessment and Risk Management Plan     11
+IV.    ASSURANCES AND CONDITIONS                                     12
+V.     RECOMMENDATION                                                12
+
+APPENDIXES
+1.     Design and Monitoring Framework                               13
+2.     List of Linked Documents                                      16
+                                                                                         Project Classification Information Status: Complete
+
+
+                                                     PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                        Project Number: 49169-002
+       Project Name                   Ulaanbaatar Green Affordable Housing     Department                 EARD/EASS
+                                      and Resilient Urban Renewal Sector       /Division
+                                      Project
+       Country                        Mongolia                                 Executing Agency          Ulaanbaatar Municipal
+       Borrower                       Mongolia                                                           Government
+    2. Sector                         Subsector(s)                                                        ADB Financing ($ million)
+       Water and other urban          Other urban services                                                                  20.00
+       infrastructure and services    Urban housing                                                                         25.00
+                                      Urban policy, institutional and capacity development                                  25.00
+                                      Urban slum development                                                                10.00
+                                                                                               Total                        80.00
+
+    3. Strategic Agenda               Subcomponents                            Climate Change Information
+       Inclusive economic growth      Pillar 2: Access to economic             CO2 reduction (tons per annum)                 200,000
+       (IEG)                          opportunities, including jobs, made      Climate Change impact on the                   Medium
+                                      more inclusive                           Project
+       Environmentally sustainable    Eco-efficiency
+       growth (ESG)                   Global and regional transboundary        ADB Financing
+                                      environmental concerns                   Adaptation ($ million)                            55.00
+                                      Urban environmental improvement          Mitigation ($ million)                            25.00
+
+                                                                               Cofinancing
+                                                                               Adaptation ($ million)                            91.30
+                                                                               Mitigation ($ million)                            56.70
+    4. Drivers of Change              Components                               Gender Equity and Mainstreaming
+       Governance and capacity        Anticorruption                           Effective gender mainstreaming
+       development (GCD)              Civil society participation              (EGM)
+                                      Institutional development
+                                      Organizational development
+       Knowledge solutions (KNS)      Application and use of new knowledge
+                                      solutions in key operational areas
+       Partnerships (PAR)             Commercial cofinancing
+                                      Civil society organizations
+                                      Implementation
+                                      International finance institutions (IFI)
+                                      Official cofinancing
+                                      Private Sector
+       Private sector development     Promotion of private sector investment
+       (PSD)                          Public sector goods and services
+                                      essential for private sector development
+    5. Poverty and SDG Targeting                                               Location Impact
+       Geographic Targeting           Yes                                      Urban                                              High
+       Household Targeting            No
+       SDG Targeting                  Yes
+       SDG Goals                      SDG7, SDG8, SDG11, SDG13
+    6. Risk Categorization:           Complex
+.
+
+
+    7. Safeguard Categorization            Environment: B Involuntary Resettlement: B Indigenous Peoples: C
+.
+
+
+    8. Financing
+        Modality and Sources                                                                     Amount ($ million)
+        ADB                                                                                                                     80.00
+          Sovereign Sector (Concessional Loan): Ordinary capital resources                                                      20.00
+          Sovereign Sector (Regular Loan): Ordinary capital resources                                                           60.00
+        Cofinancing                                                                                                           148.00
+          Green Climate Fund - Sector grant (Full ADB Administration)                                                          50.00
+          Green Climate Fund - Sector loan (Full ADB Administration)                                                           95.00
+          High Level Technology Fund - Sector grant (Full ADB Administration)                                                   3.00
+
+Source: Asian Development Bank
+This document must only be generated in eOps.     15062018181354190883                            Generated Date: 19-Jun-2018 15:15:15 PM
+                                                                        Project Classification Information Status: Complete
+
+
+                                                  PROJECT AT A GLANCE
+
+      Counterpart                                                                                            342.10
+        Beneficiaries                                                                                         63.90
+        Government                                                                                            35.00
+        Others                                                                                               243.20
+      Total                                                                                                  570.10
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.   15062018181354190883             Generated Date: 19-Jun-2018 15:15:15 PM
+                                           I.       THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on proposed loans to
+Mongolia for the Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector
+Project. The report also describes (i) the proposed administration of a loan to be provided by the
+Green Climate Fund (GCF), and (ii) the proposed administration of grants to be provided by the
+GCF and High-Level Technology Fund (HLTF)1 for the project, and if the Board approves the
+proposed loans, I, acting under the authority delegated to me by the Board, approve the
+administration of the GCF loan, GCF grant, and HLTF grant.
+
+2.       The project will deliver sustainable and comprehensive solutions to transform the
+substandard, climate-vulnerable, and heavily polluting ger areas (paras. 3–4) of Ulaanbaatar city
+into affordable, low carbon, climate-resilient, and livable eco-districts. It will leverage private sector
+investment to (i) deliver 10,000 affordable green housing units;2 and (ii) redevelop 100 hectares
+(ha) of ger areas into eco-districts.3
+
+                                            II.      THE PROJECT
+
+A.        Rationale
+
+3.      Following the transition from a centrally planned to a market-based economy in 1991,
+Mongolia has experienced rapid rural–urban migration, mainly caused by (i) extreme climate
+events, such as droughts and severe winter conditions (dzud), combined with poor veterinary
+services and livestock management; and (ii) adoption in 2003 of a policy giving each citizen
+access to about 700 square meters (m2) of urban land.4 Inadequate infrastructure investments,
+housing policies, and urban planning regulations to accommodate the migrant population led to
+the formation of vast peri-urban areas, named ger areas after the Mongolian yurts (gers) around
+Ulaanbaatar’s central districts.5 In 2017, the population of ger areas was estimated at 850,000
+people, that is 60% of the city’s population of 1.46 million, and 30% of the country’s population.
+
+4.      Ger areas are settlements of low- and middle-income households characterized by loosely
+aligned plots, with irregular and unpaved pathways. Dwellings in ger areas are unserved detached
+solid houses and gers, 6 poorly insulated, using inefficient coal and biomass-fired stoves
+generating large amounts of carbon dioxide emissions and air pollution, especially during winter.7
+Most households have land tenure. Poor sanitation, with most households relying on open pit
+latrines, coupled with poor solid waste collection create unsanitary living conditions. Residents
+have limited access to water, which is being supplied via water kiosks, and access to public space
+
+1
+  Financing partner: the Government of Japan.
+2 Green housing maximizes climate (i) mitigation measures through the use of resource- and energy-efficient building
+  technique and materials, renewable energy systems, and operation and maintenance to maintain building
+  performance and occupational health; and (ii) adaptation measures to reduce the vulnerability of ger area residents
+  to harsh winters, flood events, hot summers, and soil pollution.
+3 Eco-district development is a highly integrated urban planning and development process at the neighborhood level,
+
+  using local responses to build green and sustainable development throughout the city.
+4 Average land plots measure 500 m2. In January 2017, the mayor issued an order to restrict the access of rural people
+
+  without official permits to urban areas. In December 2017, the policy was extended until January 2020.
+5 The central districts of Ulaanbaatar are formed by apartment blocks with comprehensive utility services, including
+
+  dedicated district heating, piped water supply, and wastewater collection and treatment services.
+6 Of the ger area population, 56% lives in solid houses and 44% in traditional gers.
+7 Air pollution causes health problems such as cardiovascular and respiratory diseases. World Bank. 2011. Air Quality
+
+  Analysis of Ulaanbaatar: Improving Air Quality to Reduce Health Impacts. Washington DC.
+2
+
+
+and facilities, commercial areas, and economic amenities is lacking. 8 This situation (i) makes ger
+areas highly vulnerable to climate change impacts and intensifies their carbon emissions; (ii)
+increases the cost of doing business, discourages investors and developers, and inhibits both
+economic integration and urban redevelopment processes; and (iii) affects vulnerable groups—
+mostly women, children, elderly, and disadvantaged persons. Incremental growth and migration
+are increasing the population living in these poor conditions, because affordable housing options
+for low- and middle-income households are limited. A 2016 survey by the Capital City Housing
+Corporation estimated housing demand at 150,000 units, while available affordable housing stock
+is about 4,000 units; with 60% of ger areas residents willing to move to apartment units if
+acceptable and affordable solutions are proposed.9
+
+5.      In 1997, the Government of Mongolia and the Asian Development Bank (ADB) developed
+a legal and policy framework for the housing sector. Under the National Housing Strategy, housing
+policies were made demand-driven with new standards and regulations.10 In 2002, ADB approved
+the first housing finance project, which introduced long-term mortgage lending to the banking
+system.11 In 2006, the Mongolian Mortgage Corporation was set up to create a pool of long-term
+funds to stimulate a secondary mortgage market. Housing finance expanded from 2013 through
+the government’s 8% mortgage program. However, stringent mortgage access conditions and a
+lack of housing products for low-income households meant the mortgage program mainly served
+the upper middle-income households, creating an oversupply of high-end market housing
+products. The program is currently suspended. Recently, the government and the Municipality of
+Ulaanbaatar (MUB) initiated a series of programs to increase the supply of affordable housing
+units, and support ger area redevelopment.12 The objective is to deliver up to 130,000 housing
+units through the redevelopment of ger areas and the development of new areas. However, a lack
+of viable solutions, infrastructure investment, financing support to developers, and sustainable
+housing financing mechanisms have resulted in these programs not developing into
+implementable plans. The few residential blocks that were initiated focused on lowering
+construction costs, to the detriment of community well-being and sustainable urban planning, and
+lacked energy-efficient and renewable energy features.
+
+6.     Through the ADB-financed Ulaanbaatar Urban Services and Ger Areas Development
+Investment Program, MUB is extending basic urban and social services to upgrade economic
+hubs or subcenters in ger areas and provide an enabling environment for urban redevelopment
+and private and public investments.13 This provides an opportunity to implement onsite solutions
+for households to access apartments within their communities by integrating housing solutions
+
+8
+   Water consumption in ger areas is about 10 liters per capita per day, about half the minimum recommended by the
+   World Health Organization in similar contexts. The cost is 2–10 times more than for residents of other areas.
+9
+   For medium and low income households, housing costs are considered affordable if rent or mortgage payments and
+   utilities fees) is within 30% of gross monthly income. Affordability and willingness to pay of households below the
+   seventh income decile are estimated at about MNT1.2 million ($490) per m2 for a 35 m2 apartment, while average
+   market price was about MNT2.6 million ($1,070) per m2, based on the December 2017 currency exchange rate.
+10
+   In 1999, the government approved the Housing Law, National Housing Strategy, Housing Privatization Law, and
+   Condominium Law.
+11 ADB. Mongolia: Housing Finance (Sector) Project. The project allowed the establishment of a market-based housing
+
+   finance system in Mongolia and the first mortgage finance law approved by the Parliament.
+12 MUB is also known as the Governor’s Office of the Capital City Ulaanbaatar. Government initiatives included the (i)
+
+   establishment on 6 July 2013 of the State Housing Corporation, which was tasked with implementing 40,000
+   affordable housing units nationwide; and (ii) Rental Housing Program, approved by the Cabinet on 18 June 2015.
+   MUB’s main initiatives are the (i) City Housing Program, approved by Resolution 17/17 of the city council in 2014; (ii)
+   Affordable Housing Strategy for Ulaanbaatar, approved on 28 May 2015 by the city council; and (iii) Capital City
+   Housing Corporation, established in August 2015.
+13
+   ADB. Mongolia: Ulaanbaatar Urban Services and Ger Areas Development Investment Program.
+                                                                                                                       3
+
+
+into an urban renewal program. In addition, in November 2017 the government issued a resolution
+ordering the Development Bank of Mongolia (DBM) to establish the first green development fund
+to promote green urban development and economy, making DBM a key partner to leverage the
+private sector for green housing finance. 14 International housing projects and Ulaanbaatar
+housing and redevelopment experience show that a complete solution—integrating housing,
+infrastructure, urban development, and financing support to both the supply and demand sides—
+is the best way to create a paradigm shift to improve access to green affordable housing, and
+resilient and low-carbon urban development.15
+
+B.         Impacts and Outcome
+
+7.      Impacts and outcome. 16 The project is aligned with the following impacts: living
+conditions in Mongolia improved; and Ulaanbaatar is a safe, healthy, and green city that is resilient
+to climate change, and provides a livable environment for its residents.17 The project will have the
+following outcome: access to low-carbon and climate-resilient eco-districts and green affordable
+housing in Ulaanbaatar ger areas increased. The project is consistent with ADB's country
+partnership strategy for Mongolia, 2017–2020, and with the core themes of green, competitive,
+and inclusive cities of ADB’s Urban Operational Plan.18
+
+C.         Outputs
+
+8.        The project will have three outputs: (i) resilient urban infrastructure, public facilities, and
+social housing units in ger areas constructed (public sector component);19 (ii) long-term financing
+to developers for low-carbon affordable housing, market rate housing, and economic facilities in
+ger areas and to households for green mortgages increased (financial intermediation loan [FIL]
+component); and (iii) sector policy reforms implemented and capacity strengthened. Output 1 will
+deliver (i) green social housing units with climate adaptation and mitigation features; and
+(ii) resilient infrastructure, public space, and public facilities. Under output 2, up to $75.7 million
+of the GCF loan will be made available under the proposed FIL to enable an eco-district and
+affordable housing fund (EDAF) to provide long-term debt financing (denominated in local
+currency) to eligible commercial banks to support real estate developers’ participation in the low-
+carbon housing market, and produce affordable green mortgages. Output 3 will support (i) project
+implementation; (ii) eco-district feasibility and development, policy improvement on climate
+change adaptation and mitigation, and improved supply and access to affordable green housing
+units; (iii) detailed design and supervision; and (iv) sustainable green housing finance.20
+
+14
+     Based on the resolution, the Asset Management Company of the DBM (AMC-DBM) was tasked to manage the fund.
+15 Lessons were mainly derived from the following projects: (i) Mexican programs of Hipoteca Verde (green mortgage)
+
+   and EcoCasa that provided low interest loans to developers for eco-affordable housing, (ii) Singapore’s public–private
+   partnership design on a build-and-sell scheme, (iii) Thailand’s Baan Eua-Arthorn project, (iv) Hong Kong’s public
+   housing program, and (v) ADB’s sector project to develop poor communities in the Philippines. ADB. Philippines:
+   Development of Poor Urban Communities Sector Project.
+16
+   The design and monitoring framework is in Appendix 1.
+17 State Great Khural. 2016. Mongolia Sustainable Development Vision 2030. Ulaanbaatar; State Great Khural. 2013.
+
+   Priorities 1 and 2 of Adjustments to the Ulaanbaatar City Urban Development Master Plan 2020 and Development
+   Directions 2030. Ulaanbaatar.
+18 ADB. 2017. Country Partnership Strategy: Mongolia, 2017–2020—Sustaining Inclusive Growth in a Period of
+
+   Economic Difficulty. Manila; and ADB. 2013. Urban Operational Plan, 2012–2020. Manila.
+19 Social housing refers to rental housing.
+20
+   The project’s institutional and policy improvement will guide the transformational impacts and paradigm shift with
+   respect to regulations, standards, and sector capacity for (i) climate-responsive urban planning; (ii) increased
+   performance, energy efficiency, and renewable energy in buildings; (iii) improved supply and access to low-carbon
+   affordable housing; (iv) sustainable green housing finance; and (v) eco-efficient urban services.
+4
+
+
+9.      Eco-district parameters. The project eco-districts will be low-carbon, climate-resilient,
+mixed-income, and mixed-use areas with approximately 30% public space. The project’s five
+phases will deliver about 20 eco-districts or subprojects, with each covering an average of 5 ha.
+Phase 1 include two core subprojects (10 ha) in Bayankhoshuu and Selbe subcenters, phases
+2–3 will have 8 subprojects (40 ha), and phases 4–5 will have 10 subprojects (50 ha). Each
+subproject should be completed within 5 years.21 Phases 2–5 will identify and prepare a batch of
+subprojects to be appraised based on eligibility and selection criteria, including financial and
+physical parameters, formulated from the feasibility study of the two core subprojects.22 A detailed
+infrastructure and architectural design produced for each subproject will ensure (i) adequate ratio
+for social (15%), affordable (55%), and market rate (30%) housing units; (ii) balance between
+public space and amenities, commercial areas, and residential units; and (iii) financial viability
+and rentability to allow private sector participation. The redevelopment process and housing
+construction will be undertaken onsite, and will be demand-driven.
+
+10.      Sector lending with financial intermediation loan component modality. The sector
+lending modality was deemed the most appropriate modality to achieve the project objectives
+because (i) a large number of subprojects in the sector are to be financed; (ii) the government
+and MUB have sector development plans (SDPs) to ensure the priority development needs of the
+cross sectoral policy improvement plan are met, and to guide project implementation; (iii) sector
+and institutional capacity analyses23 have shown that the government and MUB have adequate
+institutional capacity to implement the SDPs and the project; and (iv) policies applicable to the
+sector are deemed appropriate and will be improved, if warranted (paras. 5–6). The project will
+support the government and MUB in translating their SDPs into implementable investments, and
+coordinated policies, actions, and institutional improvement.24
+
+11.     Financial and institutional arrangements will facilitate the application of a blended finance
+strategy using the FIL modality. The FIL modality will leverage private resources through the
+EDAF to be established and managed by the Asset Management Company of DBM (AMC-DBM)
+on behalf of the Ministry of Finance.25 The EDAF will be established as a private investment fund
+structured as a revolving fund, and will be used to onlend a portion of the GCF loan to participating
+commercial banks. Based on eligibility and selection criteria, commercial banks will use the GCF
+loan proceeds to support housing supply and demand: (i) for supply, the EDAF will provide
+medium-term loans to selected private developers, which will be combined with the developers’
+equities and additional loans by DBM and participating commercial banks to implement output 2;
+and (ii) for demand, the loan proceeds will be converted into low-cost long-term mortgages to
+home buyers for purchases of the affordable housing and market rate housing units.
+
+D.         Summary Cost Estimates and Financing Plan
+
+12.        The project is estimated to cost $570.1 million. The investment component of the project
+
+21
+     The phased approach will allow project parameters to be adjusted based on socioeconomic changes.
+22 Subproject eligibility and selection criteria are in para. 30 of the Project Administration Manual (PAM) (accessible
+
+     from the list of linked documents in Appendix 2).
+23 Financial Management Assessment (accessible from the list of linked documents in Appendix 2).
+24 The SDPs are in the Sector Assessment (Summary): Water and Other Urban Infrastructure and Services (accessible
+
+     from the list of linked documents in Appendix 2) and the sector reform plan is in the section I.G of the PAM.
+25 The     EDAF establishment requirements are in Schedule 5 of the Loan Agreement: Ordinary Operations
+     (Concessional) (accessible from the list of linked documents in Appendix 2). Based on Government Resolution 135
+     and DBM Board of Directors Resolution 66 dated 23 August 2017, DBM established AMC-DBM and acquired a
+     special license for investment management services. In accordance with Financial Regulatory Commission
+     Resolution 241 dated 15 December 2017, AMC-DBM received the right to establish and manage investment funds.
+                                                                                                                      5
+
+
+comprises outputs 1 and 3 and will cost $157.0 million (Table 1). Output 2, which will be delivered
+through an FIL component, will require an estimated $413.1 million. Detailed cost estimates by
+expenditure and by financier are included in the project administration manual (PAM). 26 The
+investment component will support civil works, with necessary equipment, design and
+construction supervision; and project management, including safeguards and due diligence.
+
+                                    Table 1: Summary Investment Plan
+                                                ($ million)
+ Item                                                                                                           Amounta
+ A. Base Costs     b
+
+     1.      Output 1: Resilient urban infrastructure, public facilities, and social housing units in ger areas    93.5
+             constructed (public sector component)
+     2.      Output 3: Sector policy reforms implemented and capacity strengthened                                 33.6
+                     Subtotal (A)                                                                                 127.1
+ B. Contingenciesc                                                                                                 23.4
+ C. Financial Charges During Implementationd                                                                        6.5
+                              Total (A+B+C)                                                                       157.0
+ a  Includes taxes and duties of $13.16 million. Such amount does not represent an excessive share of the project cost.
+    Taxes and duties will be financed by the government through exemptions, or the MUB will provide funds to pay
+    such taxes and duties, in accordance with relevant laws and regulations.
+ b
+    In mid-2017 prices as of April 2018.
+ c
+    Physical contingencies were computed at 10% for civil works. Price contingencies were computed at average of
+    1.5% on foreign exchange costs, and 7% on local currency costs, and include provisions for potential exchange
+    rate fluctuation under the assumption of a purchasing power parity exchange rate.
+ d
+    Includes service fees, and interest and commitment charges. Interest during construction has been computed (i) at
+    2% per annum for the concessional ordinary capital resources loan, and (ii) at the 5-year US dollar fixed swap rate
+    plus an effective contractual spread of 0.5%, a maturity premium of 0.1%, and a commitment charge of 0.15% per
+    year (the interest and commitment charges during construction to be capitalized in the loan) for the ordinary capital
+    resources loan. The financing charges for the Green Climate Fund loan used a service fee of 0.25% per annum
+    and a commitment fee of 0.50% of the undisbursed portion of the loan.
+ Source: Asian Development Bank estimates.
+
+13.      The summary financing plan is in Table 2. For the investment loan component, the
+government has requested (i) a concessional loan of $20 million; and (ii) a regular loan of $60
+million, both from ADB’s ordinary capital resources, to help finance the project. The concessional
+loan will have a 25-year term, including a grace period of 5 years, an interest rate of 2.0% per
+year during the grace period and thereafter, and such other terms and conditions set forth in the
+draft loan and project agreements. The regular loan will have a 25-year term, including a grace
+period of 5 years, an annual interest rate determined in accordance with ADB’s London interbank
+offered rate (LIBOR)-based lending facility, and such other terms and conditions to be set forth in
+the loan and project agreements. Based on the straight line repayment method, the average
+maturity is 15.25 years. The government will relend the proceeds of the ADB loans to MUB on
+terms and conditions satisfactory to ADB, which will be combined with a $35 million MUB
+counterpart fund to finance output 1 and a portion of output 3, i.e., project management support
+and detailed design. MUB will finance 35.5% of taxes and duties through exemptions, or will
+provide funds to pay such taxes and duties in accordance with relevant laws and regulations.
+HLTF will provide a $3 million grant to finance a smart renewable energy and building
+performance control and monitoring system. The GCF will provide grant cofinancing equivalent
+to $50 million and loan cofinancing equivalent to $95 million, to be administered by ADB as an
+accredited entity. The GCF loan will have a 40-year term, including a 10-year grace period, annual
+principal repayments from year 11 to year 20 equivalent to 2% of the initial principal, and from
+year 21 to year 40 equivalent to 4%, and such other terms and conditions set forth in the draft
+GCF loan agreement. The interest and commitment charges during implementation will be
+
+26 PAM (accessible from the list of linked documents in Appendix 2).
+ 6
+
+
+ capitalized as part of the GCF loan. Under output 1, about $19.3 million of GCF loan will be relent
+ to MUB and about $12.1 million GCF grant will be passed on to MUB to finance climate change
+ mitigation investments (such as solar panels). Under output 3, $7.6 million of the GCF grant will
+ be passed on to MUB and DBM to finance consulting services.
+
+                                        Table 2: Summary Financing Plan
+  Source                                                            Amount ($ million)      Share of Total (%)
+   A. Investment Project Components
+       1. Asian Development Bank
+          Concessional ordinary capital resources (loan)                    20.0                  12.7
+          Ordinary capital resources (loan)                                 60.0                  38.2
+               Subtotal (1)                                                 80.0                  50.9
+       2. Green Climate Fund (grant)a                                       19.7                  12.6
+       3. Green Climate Fund (loan)a                                        19.3                  12.3
+       4. High-Level Technology Fund (grant)b                                3.0                   1.9
+       5. Municipality of Ulaanbaatar                                       35.0                  22.3
+          Subtotal (A)                                                     157.0                 100.0
+   B. Financial Intermediation Loan Component
+       1. Green Climate Fund (grant)a                                       30.3                   7.3
+       2. Green Climate Fund (loan)a                                        75.7                  18.3
+       3. Development Bank of Mongolia/commercial banks                    111.4                  27.0
+       4. Developers                                                       131.8                  31.9
+       5. Beneficiaries                                                     63.9                  15.5
+          Subtotal (B)                                                     413.1                 100.0
+                   Total (A and B)                                         570.1
+a
+    Administered by the Asian Development Bank.
+b
+    Financing partner: the Government of Japan. Administered by the Asian Development Bank.
+Source: Asian Development Bank estimates.
+
+ 14.      For the FIL component, the government will invest about $75.7 million of the GCF loan
+ proceeds into the EDAF to finance output 2. AMC-DBM will manage the EDAF, which will serve
+ as the apex financial institution for the project funds to be channeled to financial intermediaries.27
+ It is estimated that GCF loan proceeds, reforms in green finance under the project, will lead to
+ DBM and other participating commercial banks to contribute $111.4 million, developers to finance
+ $131.8 million in the form of equity participation, and beneficiaries to contribute $63.9 million from
+ their own resources. Moreover, about $30.3 million of the GCF grant will be passed on to MUB to
+ provide performance-based grants through a green building facility to qualified private developers
+ for climate change mitigation and adaptation features. Climate mitigation is estimated to cost
+ $81.7 million and climate adaptation is estimated to cost $146.6 million. ADB will finance 30.6%
+ of mitigation costs and 37.5% of adaptation costs. Details are in the PAM.
+
+ E.        Implementation Arrangements
+
+ 15.   The implementation arrangements are summarized in Table 3 and described in detail in
+ the PAM (footnote 26).
+
+                                    Table 3: Implementation Arrangements
+  Aspects                           Arrangements
+  Implementation period             September 2018–December 2026
+  Estimated completion date         31 December 2026
+  Estimated loans and grants        30 June 2027
+  closing date
+  Management
+
+ 27 Apex mechanisms usually involve financial institutions through which donor-funded FILs are channeled to a second
+
+     layer of financial intermediaries, which will in turn onlend such loan proceeds to the subborrowers.
+                                                                                                                     7
+
+
+ Aspects                           Arrangements
+ (i) Oversight body                A project steering committee headed by the Municipality of Ulaanbaatar (MUB), will
+                                   comprise government officials from the Ministry of Finance, Ministry of
+                                   Environment and Tourism, MUB relevant departments and agencies, Ministry of
+                                   Construction and Urban Development, Development Bank of Mongolia (DBM), and
+                                   the Capital City Housing Corporation, will be established to oversee project
+                                   implementation and provide strategic and policy guidance.
+ (ii) Executing agency             MUB
+ (iii) Key implementing agency DBM
+ (iv) Implementation units         MUB project management office under the mayor of Ulaanbaatar for the public
+                                   sector component and project implementation unit under the Asset Management
+                                   Company of the DBM (AMC-DBM) for the financial intermediation loan component.
+ Procurement                       For the financial intermediation loan component, developers will undertake
+                                   procurement of goods and civil works in accordance with commercial practices
+                                   acceptable to the Asian Development Bank (ADB).
+                                   International competitive bidding (including             8 contracts $40.49 million
+                                   procurement in loans to financial
+                                   intermediaries for works/commercial practice)
+                                   National competitive bidding                             5 contracts $6.54 million
+                                   Community procurement package                            8 contracts $0.20 million
+ Consulting services               Quality- and cost-based selection              1,350 person-months $12.53 million
+                                   Quality-based selection                           42 person-months $0.20 million
+ Advance contractinga              Advance contracting for recruitment of consulting services has been requested by
+                                   MUB. MUB has been informed that ADB’s support for advance contracting does
+                                   not commit ADB to approve the loan project or to finance the recruitment costs.
+ Disbursement                      The loan and grant proceeds will be disbursed following ADB's Loan Disbursement
+                                   Handbook (2017, as amended from time to time) and detailed arrangements
+                                   agreed between the government and ADB.
+a Subject to the ratification of amendment of the National Procurement Law, prior to loan effectiveness.
+
+Source: Asian Development Bank.
+
+                                            III.     DUE DILIGENCE
+
+A.       Technical
+
+16.    This includes comparative analyses, technical specifications, sustainability, design
+methods, standards, and cost estimates specific to ger areas and cold climate, and in line with
+national standards. The specifications applied to eco-district design will match the principles of
+energy and resource conservation and promotion of renewable energy best practices.
+
+B.       Economic and Financial
+
+17.     The project is economically viable. The resulting base-case economic internal rates of
+return of the core subprojects are 11.26% to 15.53%, exceeding the ADB prescribed minimum
+discount rate of 9%, confirming they are economically robust, with anticipated economic and
+health benefits arising from reduced environmental pollution that exceed the estimated economic
+costs. Sensitivity analysis showed that the subprojects will remain economically viable under
+various scenarios. A financial analysis was carried out to assess the viability of the revenue-
+generating core subprojects to be financed using the GCF grant and loan proceeds under
+output 2. The financial analysis was undertaken from the developer’s perspective. Financial
+revenues were derived from the sale of affordable housing and market rate housing units, as well
+as the sale of parking spaces and commercial lots for shops and offices. Base case financial
+internal rates of return for the Bayankhoshuu core subproject is 20.75%, and for the Selbe core
+subproject is 21.61%, exceeding the estimated weighted average cost of capital of 5.49%.
+Sensitivity analysis showed that the core subprojects were vulnerable to decreases in revenues.
+Under output 1, a financial sustainability analysis of MUB was conducted in lieu of estimating the
+8
+
+
+core subprojects’ financial rates of return. It confirmed MUB has the capacity to absorb the debt
+servicing and operation and maintenance requirements of the core subprojects. Financial due
+diligence for the FIL component was carried out on XacBank as a sample representative bank in
+Mongolia. XacBank qualifies as a participating bank and meets ADB’s performance standards in
+terms of capital adequacy, asset quality, management, earnings, and liquidity. The bank was
+deemed financially viable and capable of meeting financial obligations, including debt service
+payments. A debt sustainability assessment was conducted and the bank’s financial standing was
+assessed to be sufficiently robust to absorb the related credit risks of the subprojects as well as
+the interest rate and exchange rate risks. The integrity due diligence carried out on XacBank
+showed that there are no significant integrity risks.
+
+C.      Governance
+
+18.      ADB's Anticorruption Policy (1998, as amended to date) was explained to and discussed
+with the government, MUB, and DBM. The specific policy requirements are described in the PAM.
+The financial management risk of MUB is moderate as it has established a fully functional project
+management office that is currently implementing ongoing ADB projects (footnote 13). Also, MUB
+developed and made operational a financial management system that incorporates ADB’s loan
+and grant disbursement policies and procedures. Refinements to the system to accommodate
+changes will be provided by the project capacity development support. The financial management
+assessment on AMC-DBM indicated two significant risks and corresponding mitigating measures:
+(i) as a newly established entity, AMC-DBM may lack the capability to manage the EDAF outright,
+and DBM has provided assurance that it will assign or engage qualified and experienced staff to
+AMC-DBM; and (ii) because AMC-DBM lacks prior experience in managing ADB disbursements
+and is not familiar with ADB’s Loan Disbursement Handbook (2017, as amended from time to
+time), AMC-DBM has committed to undertake the needed staff training to comply with ADB’s loan
+disbursement policies and procedures. Capacity building support, incorporating relevant financial
+management training, will complement AMC-DBM’s planned risk mitigating measures. All
+procurement financed by ADB will be carried out in accordance with ADB’s Procurement
+Guidelines (2015, as amended from time to time) and Guidelines on the Use of Consultants (2013,
+as amended from time to time).28
+
+D.      Poverty, Social, and Gender
+
+19.      The project’s direct beneficiaries include 10,000 households who will have access to
+housing units and a total of about 17,000 households that will benefit from both living and working
+in 100 ha of ger areas developed into eco-districts. A total of 229 households, living within the
+perimeter of the core subprojects located in Bayankhoshuu and Selbe subcenters, will benefit
+from onsite redevelopment through the voluntary land swapping mechanism, and about
+2,000 households will benefit from living and working in fully developed eco-districts. To ensure
+full realization of the benefits, the community participation plan (CPP) and social and gender
+action plan (SGAP) include a public awareness component, an education program, consultations,
+and participation activities.29 The CPP and SGAP will ensure continued consultation with and
+participation of the local communities and guide the community mobilization and consultation
+processes throughout implementation.
+
+
+
+28
+   Universal procurement will apply per ADB. 2013. Blanket Waiver of Member Country Procurement Eligibility
+   Restrictions in Cases of Cofinancing for Operations Financed from Asian Development Fund Resources. Manila.
+29 The CPP is in section XI of the Voluntary Land Swapping Plan (accessible from the list of linked documents in
+
+   Appendix 2).
+                                                                                                                       9
+
+
+20.       The project is categorized effective gender mainstreaming. The SGAP presents specific
+effective gender mainstreaming measures and outlines the strategies to address key gender
+concerns with respect to access to services and livelihood opportunities to be provided by the
+project, and to ensure that project components will be gender-responsive, appropriate, and
+affordable to its target users, especially vulnerable households. The CPP and SGAP also include
+measures to (i) facilitate and support the affected communities to avoid any loss of livelihood and
+business; (ii) support vulnerable households that lack the financial means to afford better houses
+through skills training and linkages with job opportunities, training, and financial institutions;
+(iii) identify and integrate beneficiary community needs in project design documents; (iv) sustain
+awareness and support for the project by different stakeholders; (v) mobilize and organize
+beneficiary community members to support the development and implementation of houses and
+infrastructure; and (vi) facilitate effective monitoring and evaluation of the different aspects of
+these components. Consulting services—185 person-months of inputs (45 international and
+140 national)—will be provided to support MUB in establishing the mechanisms, and
+implementing and monitoring the CPP and SGAP.
+
+E.       Safeguards
+
+21.    In compliance with ADB’s Safeguard Policy Statement (2009), the project’s safeguard
+categories are as follows.30
+
+22.      Environment (category B). An initial environmental examination, environmental
+management plan, and environmental assessment and review framework were prepared in
+compliance with ADB’s Safeguard Policy Statement.31 The anticipated environmental impacts
+during construction include dust and noise, temporary traffic disturbance, and risks to community
+and workers’ health and safety. The demolition of ger houses will not produce toxic waste as ger
+houses are not made from toxic materials. Demolished housing materials will be disposed at
+landfill sites approved by MUB. Affected plot owners and local communities were consulted on
+any issues or concerns they have with the project. Mitigation measures defined in the
+environmental management plan, such as construction site management and regular monitoring
+of the environmental performance during construction and operation, will minimize the anticipated
+impacts and construction-related health and safety concerns. Ensuing subprojects with similar
+components are expected to be category B for environment as no category A subproject will be
+financed under the project. The carbon emission reduction estimated for the project is 200,000
+tons of carbon dioxide equivalent per year, equal to 8 million tons of carbon dioxide equivalent
+during the project lifetime (40 years). The project will also contribute to black carbon reduction of
+about 83 tons per year.32
+
+23.      Involuntary resettlement (category B). For output 1, a resettlement framework has been
+prepared in accordance with ADB’s Safeguard Policy Statement for areas outside the project eco-
+districts’ perimeters where involuntary resettlement impacts are expected. The resettlement
+framework will serve as a guide for screening project for involuntary resettlement impacts, and for
+preparation and implementation of land acquisition and resettlement plans. Infrastructure
+construction impacts outside the perimeters of the eco-districts—such as widening of roads and
+construction of utilities to connect the eco-districts with main trunk infrastructure— will be avoided
+or mitigated to the extent possible. The selection criteria for the redevelopment blocks include
+
+30 ADB. Safeguard Categories.
+31
+   Initial Environmental Examination, and Environmental Assessment and Review Framework (accessible from the list
+   of linked documents in Appendix 2).
+32 In line with the Climate and Clean Air Coalition objectives. Black carbon particles are components of fine particulate
+
+   matter formed by the incomplete combustion of biomass or fossil fuels.
+10
+
+
+proximity to the main trunk infrastructure, so that connections can be provided with a minimum of
+involuntary resettlement impacts. Activities with category A involuntary resettlement impacts will
+be excluded.
+
+24.      Voluntary land swapping. The project will implement a demand-driven approach within
+the perimeters of the project eco-districts, based on a voluntary land swapping mechanism,
+supported by voluntary land swapping plans (VLSPs).33 The proposed resettlement is voluntary
+in nature as households will be provided with an option to participate or not.34 Each VLSP will
+cover landowners and non-landowners, with provisions for poor and vulnerable households as
+well as for affected persons under ADB’s Ulaanbaatar Urban Services and Ger Areas
+Development Investment Program (footnote 13).35 Depending on the socioeconomic situation of
+each household, an affordable housing solution will be proposed through a land and asset swap
+agreement, a rent-to-own scheme, or an affordable rental scheme.36 Meaningful consultations are
+incorporated in the three stages of project cycle (identification, feasibility, and detailed design) to
+ensure that potential beneficiaries are fully informed about the project and its implications, and to
+build a consensus among households living on a plot of land regarding whether or not to
+participate in the project. Such consultations will also help to address concerns of potential
+beneficiaries, and any adverse impacts.37 If households on a plot decide not to participate after
+undertaking consultations, the proposed eco-district will be redesigned to avoid the non-
+participating plot.38 Notwithstanding that the proposed resettlement for the project eco-districts is
+voluntary, the VLSPs will be prepared and implemented to avoid or minimize impacts during the
+transition period, and improve the standard of living of the potential beneficiaries, especially the
+poor and other vulnerable households.
+
+25.      A VLSP has been prepared for two core subprojects (Selbe and Bayankhoshuu). The
+potential beneficiaries of the two core subprojects include 78 landowners and 52 non-landowners
+in Selbe and 64 landowners and 35 non-landowners in Bayankhoshuu.39 The VLSP specifies the
+(i) principles of and procedures for voluntary land and/or asset swapping, based on transparency,
+consistency, and fairness; 40 (ii) meaningful consultation and participation during identification,
+feasibility study, detailed design, and implementation to ensure that participation of landowners
+
+33 The VLSP has been designed to maximize the project benefits to the local population by promoting an “in-situ”
+
+   mechanism that preserves the fabric of communities and improves the quality of housing and urban infrastructure at
+   an affordable cost.
+34 Specifically, a plot of land within the perimeter of an eco-district will be included in an eco-district redevelopment only
+
+   if the residents of the plot (including owners and non-owners of the plot) are willing to participate.
+35
+   Affected people under other ADB projects implemented in ger areas, including ADB’s ongoing Ulaanbaatar Urban
+   Services and Ger Areas Development Investment Program, will have priority access to affordable housing with
+   subsidized mortgages, or rent and rent-to-own housing.
+36
+   For non-landowners or renters, priority access will be given to rental or social housing based on rent-to-own or rental
+   schemes, depending on their income. For poor households (belonging to the income decile categories from 1 to 3),
+   the monthly housing costs (including rent and utility fees) will not exceed 25% of the monthly income of one
+   household. For the most vulnerable households, specific measures will be taken to ensure that they will not pay more
+   than they currently do for their rent and/or utilities services. Additionally, targeted employment and training program
+   will be implemented for poor households.
+37 Potential coercive practices are mitigated by the consultation process; verification by an independent external
+
+   monitor; and a grievance redress mechanism with documentation of consultation meetings, grievances, and actions
+   taken to address such grievances.
+38 The location, design, and shape of an eco-district is not predetermined. It will be developed and adapted based on
+
+   the willingness of households living on a plot to participate and can change until finalization of the detailed design.
+39
+   Based on the sample socioeconomic survey in Table 37 in the VLSP, it is estimated that there are 69 poor and
+   vulnerable households. The numbers will be verified during detailed design.
+40 A written record of consultations and willingness to participate surveys undertaken during the identification and
+
+   feasibility study are presented in the VLSP.
+                                                                                                                    11
+
+
+and non-landowners is based on an informed decision that is free of intimidation or coercion;
+(iii) land and asset valuation methodology, which is based on replacement cost;41 (iv) support to
+potential beneficiaries, especially the poor and vulnerable households, through access to social
+housing, cash grants, and livelihood improvement programs; (v) written record of ownership of
+the apartment unit for landowners as well as other housing arrangements (including social
+housing) for non-landowners; (vi) establishment of a grievance redress mechanism that requires
+proper documentation of grievances, and actions taken to address such grievances; (vii) budget
+requirements and availability of funds for community engagement, green economy and business
+opportunity development, provision of a training and capacity building program for livelihood
+improvement, consulting services, management and administration costs, and external
+monitoring; (viii) institutional arrangements and support from project implementation consultants,
+with clear roles and responsibilities; (ix) setting up of internal monitoring; and (x) engagement of
+an external monitor to validate the process and procedures set out in the VLSP, specifically the
+validation of the negotiation process. VLSP implementation will be closely monitored and
+supervised by ADB. The VLSP for the two core subprojects has been reviewed and cleared by
+ADB, and disclosed to potential beneficiaries (on 27 May 2018, with a revised version disclosed
+on 5 July 2018).42 Eco-district development for subsequent subprojects will have similar VLSPs.
+
+26.    Indigenous peoples (category C). No specific community of ethnic minority or ethnic
+group has been identified and no adverse impact is expected.
+
+27.    Financial intermediaries (category B). An environmental and social management
+system (ESMS) will be adopted. For core subprojects, an ESMS arrangement was prepared and,
+based on a due diligence of XacBank, it was found that XacBank has adequate institutional
+capacity to implement ADB’s Safeguard Policy Statement procedural and substantive
+requirements contained in the ESMS. An ESMS will be developed by each participating
+commercial bank prior to loan disbursement. Financial intermediaries will ensure that there will
+be no subproject classified as category A for involuntary resettlement and the environment. A
+subproject under the voluntary land swapping agreement shall be considered for financing,
+provided that a VLSP has been prepared for the subproject, disclosed to the beneficiaries, and
+cleared by ADB.
+
+F.       Summary of Risk Assessment and Risk Management Plan
+
+28.      Significant risks and mitigating measures are summarized in Table 4 and described in
+detail in the risk assessment and risk management plan.43
+
+                         Table 4: Summary of Risks and Mitigating Measures
+Risks                                                             Mitigation Measures
+Lack of availability of loans from   Due diligence and consultations will be carried with respect to banking and
+commercial banks, and equity         private sector capacity and interest at the beginning of each implementation
+contribution by the developers       phase. Eco-district designs and sizes can be modified to adjust to economic
+                                                          ,
+
+41
+   For landowners, a written record of land swap agreements will be prepared during the detailed design of each
+   subproject (i.e., each eco-district development block), and after the valuations of the land and other immovable
+   properties have been agreed upon and finalized. Beneficiaries who will not enter into such land swap agreements
+   are eligible for access to subsidized social housing, cash grants, and livelihood improvement programs. Written
+   records of housing arrangement agreements (rent or rent-to-own schemes under social housing) will be prepared.
+42
+   For site selection, the VLSP should demonstrate that less than 15% of households over a minimum of 4 ha area are
+   unwilling to participate. For eco-district implementation, the VLSP should demonstrate that 100% of households over
+   a minimum of 3 ha area are willing to participate. These two conditions have been met by the core subprojects.
+43 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+12
+
+
+Risks                                                                 Mitigation Measures
+                                    and financial challenges, and to ensure the eco-districts’ financial feasibility.
+Financial sustainability adversely  Consultants will provide training and capacity development on sustainable O&M
+affected by lack of financial       of the new facilities, tariff setting, and financial management. While tariffs will be
+management skills and insufficient adjusted over time to cover O&M costs, the government will cover any funding
+utility tariff adjustments          gap if tariff revenues are insufficient.
+Unclear and tedious screening       Well-defined parameters based on income, property, taxes, and addresses will
+and selection parameters of         be further developed during implementation and will be enforced at the
+beneficiaries                       commercial bank level through the capacity building and auditing process.
+Voluntary land swapping             Bidding documents for developers will reflect detailed design parameters and
+agreements and detailed design by specifications prepared by the PMO for each eco-district. Penalties will apply if
+selected private firms not enforced the bidding document detailed design specifications are not followed.
+ O&M = operation and maintenance, PMO = project management office.
+ Source: Asian Development Bank.
+
+                                 IV.      ASSURANCES AND CONDITIONS
+
+29.     The government, MUB, and DBM have assured ADB that implementation of the project
+shall conform to all applicable ADB policies, including those concerning anticorruption measures,
+safeguards, gender, procurement, consulting services, and disbursement as described in detail
+in the PAM and loan documents. The government, MUB, and DBM have agreed with ADB on
+certain covenants for the project, which are set forth in the draft loan, grant, and project
+agreements.44
+
+                                          V.       RECOMMENDATION
+
+30.    I am satisfied that the proposed loans would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve
+       (i)    the loan of $60,000,000 to Mongolia for the Ulaanbaatar Green Affordable Housing
+              and Resilient Urban Renewal Sector Project, from ADB’s ordinary capital
+              resources, in regular terms, with interest to be determined in accordance with
+              ADB’s London interbank offered rate (LIBOR)-based lending facility; for a term of
+              25 years, including a grace period of 5 years; and such other terms and conditions
+              as are substantially in accordance with those set forth in the draft loan and project
+              agreements presented to the Board; and
+       (ii)   the loan of $20,000,000 to Mongolia for the Ulaanbaatar Green Affordable Housing
+              and Resilient Urban Renewal Sector Project, from ADB’s ordinary capital
+              resources, in concessional terms, with an interest charge at the rate of 2% per year
+              for a term of 25 years, including a grace period of 5 years; and such other terms
+              and conditions as are substantially in accordance with those set forth in the draft
+              loan and project agreements presented to the Board.
+
+                                                                                   Takehiko Nakao
+                                                                                   President
+3 August 2018
+
+44 Nonstandard   disbursement conditions include (i) delivery of executed subsidiary loan agreement between the
+  Ministry of Finance and MUB; (ii) EDAF lending policies and guidelines acceptable to ADB; (iii) an ESMS established
+  by each qualified commercial bank acceptable to ADB; and (iv) templates acceptable to ADB for (a) participation
+  agreement between AMC-DBM and a qualified commercial bank; (b) sub-loan agreement between a qualified
+  commercial bank and qualified developer; (c) mortgage agreement for affordable housing units between a qualified
+  commercial bank and a qualified homebuyer; (d) legal agreement among MUB, DBM-AMC, and a qualified developer
+  setting out affordability parameters; (e) land and asset swap agreement; (f) housing arrangement agreement, and
+  (g) procurement template for the selection and supervision of qualified developers.
+                                                                                                  Appendix 1        13
+
+
+                              DESIGN AND MONITORING FRAMEWORK
+
+Impacts the Project is Aligned with
+Living conditions in Mongolia improved (Mongolia Sustainable Development Vision 2030)a
+Ulaanbaatar is a safe, healthy, and green city that is resilient to climate change, and provides a livable environment
+for its residents (Priorities 1 and 2 of Adjustments to the Ulaanbaatar City Urban Development Master Plan 2020 and
+Development Directions 2030)b
+                             Performance Indicators with Targets and                Data Sources and
+Results Chain                                   Baselines                        Reporting Mechanisms           Risks
+Outcome                By 2028:
+Access to low-         a. At least 7,000 households, of which 30% are            a.     MUB annual report Continued
+carbon and                   headed by women, relocated into, or have                   on urban             tight fiscal
+climate-resilient            ownership and/or rental titles for social and              construction and     conditions
+eco-districts and            affordable housing units in the 100 ha of eco-             district records     and
+green affordable             districts in ger areas (2017 baseline: 0)           b.     MUB and NOSK         changed
+housing in             b.     Energy consumption per housing unit built in              annual report on     government
+Ulaanbaatar ger              targeted areas reduced to 150 kWh/m2/year                  urban construction priorities
+areas increased              (2017 baseline: 395 kWh/m2/year)                           and social housing shift
+                       c.    200,000 tons of carbon dioxide emission per         c.–d. MUB record on         resources
+                             year avoided (2017 baseline: 0)                            urban construction, away from
+                       d.     6,000 person-months per year of employment                and eco-districts’   affordable
+                             opportunities for operation and maintenance of             records on           housing
+                             facilities and infrastructure created, of which 40%        business and         programs.
+                             are filled by women (2017 baseline: 0)                     employment
+Outputs                By 2026:
+1. Resilient urban 1a. 1,500 social housing units constructed (2017              1a.–g. MUB and eco-         Changed
+   infrastructure,           baseline: 0)                                               districts’ annual    government
+   public facilities, 1b. 13.7 km of road, 5.5 km of water supply pipes,                report on urban      and/or MUB
+   and social                6.1 km of sewerage network, 5.5 km of district             construction         leadership
+   housing units in          heating pipes, and 450 low-consumption street                                   leads to
+   ger areas                 lights constructed (2017 baselines: 0)                                          lower
+   constructed         1c. 15 ha of public space and green areas, and                                        support for
+   (public sector            36,000 m2 of public facilities constructed (2017                                the project.
+   component)                baselines: 0)
+                       1d. 72,000 m2 of photovoltaic solar panels installed                                  Rising world
+                             (2017 baseline: 0)                                                              prices of
+                       1e. 100% of constructed buildings equipped with                                       energy and
+                             energy-efficient insulation, utility metering, and                              construction
+                             heating regulation systems (2017 baseline: 0)                                   materials
+                       1f. 2,000 m2 of greenhouses in targeted areas built                                   significantly
+                             (2017 baseline: 0)                                                              increase the
+                       1g. Smart monitoring system and sensors for building                                  project’s
+                             performance and renewable energy control                                        investment
+                             installed, including energy storage pilot of 0.5-                               and
+                             megawatt capacity (2017 baseline: 0)                                            operation
+                       1h. 100,000 person-months of employment                   1h. Contractors annual and
+                             opportunities during project construction created,         employment           maintenance
+                             of which 30% are filled by women (2017                     records              costs.
+                             baseline: 0)
+2. Long-term           By 2026:
+   financing to        2a. At least 20 developer subloans approved and           2a. EDAF and
+   developers for            released by EDAF (2017 baseline: 0)                        commercial banks’
+   low-carbon                These subloans will produce:                               financial records
+   affordable                (i) 5,500 affordable housing and 3,000 market-      2a.(i)–(iv) MUB and eco-
+   housing,                        rate housing units built (2017 baseline: 0)          districts’ annual
+   market-rate               (ii) 204,000 m2 of commercial facilities, shops,           report on business
+   housing, and                    and parking; and 22 km of pedestrian and             development and
+   economic                        bike lanes built (2017 baseline: 0)                  urban construction
+   facilities in ger         (iii) 79,000 m2 of greenhouses installed (2017
+   areas and to                    baseline: 0)
+   households                (iv) 100% of constructed buildings equipped with
+14     Appendix 1
+
+
+                         Performance Indicators with Targets and                    Data Sources and
+Results Chain                               Baselines                             Reporting Mechanisms          Risks
+  for green                    energy efficient insulation, utility metering,
+  mortgages                    and heating regulation systems (2017
+  increased                    baseline: 0)
+  (financial        2b. At least 5,500 green mortgages approved and               2b.      Commercial
+  intermediation          released, with at least 30% of households                        banks’ mortgage
+  loan                    headed by women provided with access to                          records
+  component)              affordable housing units (2017 baseline: 0)
+                    2c. At least 40% of businesses located in the                 2c–2d. MUB and eco-
+                          commercial facilities in the eco-districts are led             districts’ annual
+                          by women                                                       report on
+                    2d. 200,000 person-months of employment                              business
+                          opportunities during project construction created,             development and
+                          of which 30% are filled by women (2017                         urban
+                          baseline: 0)                                                   construction
+3. Sector policy    Project implementation and management
+   reforms          3.1a. By 2019, gender-disaggregated project                   3.1a.   PMO monitoring
+   implemented            performance and management system                               report
+   and capacity           established (2017 baseline: 0)
+   strengthened     Eco-district feasibility and development
+                    3.2a. By 2020, green building and eco-district norms          3.2a.–d. Policy and
+                          and standards are in place (2017 baseline: 0)                    regulation orders
+                    3.2b. By 2021, regulations for grid-connected                          from related
+                          electricity generation from small-scale renewable                agency or
+                          sources are in place (2017 baseline: 0)                          ministry (Ministry
+                    3.2c. By 2020, regulation to enable viability gap                      of Construction
+                          funding of subprojects through eco-district utilities            and Urban
+                          tariff cross-subsidy mechanism approved                          Development,
+                    3.2d. By 2026, 40% of the overall jobs created within                  Ministry of
+                          the perimeter of each eco-district benefit local                 Energy, Energy
+                          communities, at least 40% of job-holders are                     Regulation
+                          women, and 15% vulnerable people (2017                           Commission,
+                          baseline: 0)                                                     MUB)
+                    Sustainable green housing finance
+                    3.3a. By 2020, the EDAF is established and structured         3.3a.    Policy and
+                          in accordance with the applicable Mongolian law                  regulation orders
+                          and requirements (2017 baseline: 0)                              from the MOF
+                                                                                           and the Financial
+                                                                                           Regulation
+                                                                                           Commission
+Key Activities with Milestones
+1: Resilient urban infrastructure, public facilities, and social housing units in ger areas constructed (public
+sector component)
+2: Long-term financing to developers for low-carbon affordable housing, market rate housing, and economic
+facilities in ger areas and to households for green mortgages increased (financial intermediation loan
+component)
+Phase 1 (10 ha, 2 core subprojects)
+1.1a Complete infrastructure and architectural detailed design (2019–2020)
+1.1b Update and implement the VLSP (2019–2024)
+1.1c Procure goods and works (2020–2021)
+1.1d Construct and commission infrastructure, social housing units, social facilities, and public space (2020–2022)
+2.1a Shortlist commercial banks (2020)
+2.1b Select developers (2020)
+2.1c Construct and commission affordable housing and market housing units, and commercial areas (2021–2024)
+2.1d Sell housing units and approve subloan mortgages (2021–2025)
+Phases 2 and 3 (40 ha, 8 subprojects)
+1.2a Identify and formulate eco-district feasibility studies (2019–2020)
+1.2b Complete infrastructure and architectural detailed design (2020–2021)
+1.2c Prepare, complete, and implement the VLSP or land acquisition (2019–2025)
+1.2d Procure goods and works (2021–2022)
+1.2e Construct and commission infrastructure, social housing units, social facilities, and public space (2021–2023)
+                                                                                               Appendix 1        15
+
+
+  Key Activities with Milestones
+  2.2a Shortlist commercial banks (2020–2021)
+  2.2b Select developers (2021)
+  2.2c Construct and commission affordable housing and market housing units, and commercial areas (2021–2025)
+  2.2d Sell housing units and approve subloan mortgages (2021–2026)
+  Phases 4 and 5 (50 ha, 10 subprojects)
+  1.3a Identify and formulate eco-district feasibility studies (2020–2021)
+  1.3b Complete infrastructure and architectural detailed design (2021–2022)
+  1.3c Prepare, complete, and implement the VLSP or land acquisition (2020–2026)
+  1.3d Procure goods and works (2021–2023)
+  1.3e Construct and commission infrastructure, social housing units, social facilities, and public space (2022–2024)
+  2.3a Shortlist commercial banks (2021–2022)
+  2.3b Select developers (2022)
+  2.3c Construct and commission affordable housing and market housing units, and commercial areas (2022–2026)
+  2.3d Sell housing units and approve subloan mortgages (2022–2026)
+  3: Sector policy reforms implemented and capacity strengthened
+  3.1 Project implementation and management
+  3.1a Recruit and train PMO staff (2018)
+  3.1b Hire project implementation and management support consulting services (2018)
+  3.1c Train and increase capacity of PMO staff and targeted institutions (2019–2023)
+  3.1d Prepare, implement, supervise, and monitor VLSP activities (2019–2026)
+  3.2 Eco-district feasibility, development, and policy reforms
+  3.2a Hire eco-district feasibility, development, and policy reform consulting services (2018)
+  3.2b Implement eco-district planning, green building standard, social and affordable housing, and develop guidelines
+        and regulations (2019–2020)
+  3.2c Complete feasibility study for the five phases of implementation (2019–2021)
+  3.2d Implement policy and sector reforms related to climate change adaptation and mitigation, and improved supply
+        and access to green social and affordable housing (2019–2022)
+  3.3 Detailed design and supervision
+  3.3a Hire detailed design and supervision consulting services (2018)
+  3.3b Complete detailed design and final voluntary land swapping agreement for each phase: phase 1 (2020), phases
+        2 and 3 (2021), and phases 4 and 5 (2022)
+  3.3c Supervise construction for each phase: phase 1 (2024), phases 2 and 3 (2025), and phases 4 and 5 (2026)
+  3.4. Sustainable green finance
+  3.4a Hire sustainable green finance consulting services (2018)
+  3.4b Develop standard, guidelines, and regulations for the use of the EDAF (2019–2020)
+  3.4c Implement policy and sector reforms related to green finance (2019–2021)
+  Inputs
+  Asian Development Bank (ordinary capital resources concessional loan): $20.0 million
+  Asian Development Bank (ordinary capital resources regular loan): $60.0 million
+  Green Climate Fund: $50.0 million (grant)
+  Green Climate Fund: $95.0 million (loan)
+  High-Level Technology Fund: $3.0 million (grant)
+  Municipality of Ulaanbaatar: $35.0 million
+  Development Bank of Mongolia/commercial banks: $111.4 million
+  Developers: $131.8 million
+  Beneficiaries: $63.9 million
+  Assumptions for Partner Financing
+  Not applicable
+EDAF = eco-district and affordable housing fund, ha = hectare, km = kilometer, kWh/m2/year = kilowatt hour per square
+meter per year, m2 = square meter, MUB = Municipality of Ulaanbaatar, NOSK = Capital City Housing Corporation, PMO
+= project management office, VLSP = voluntary land swapping plan.
+a State Great Khural. 2016. Mongolia Sustainable Development Vision 2030. Ulaanbaatar.
+b
+   State Great Khural. 2013. Priorities 1 and 2 of Adjustments to the Ulaanbaatar City Urban Development Master Plan
+   2020 and Development Directions 2030. Ulaanbaatar.
+Source: Asian Development Bank.
+16    Appendix 2
+
+
+                              LIST OF LINKED DOCUMENTS
+                   http://www.adb.org/Documents/RRPs/?id=49169-002-3
+
+1.    Loan Agreement: Ordinary Operations
+2.    Loan Agreement: Ordinary Operations (Concessional)
+3.    Loan Agreement: ADB Green Climate Fund
+4.    Grant Agreement: ADB Green Climate Fund
+5.    Grant Agreement: High-Level Technology Fund
+6.    Project Agreements
+7.    Sector Assessment (Summary): Water and Other Urban Infrastructure and Services
+8.    Project Administration Manual
+9.    Contribution to the ADB Results Framework
+10.   Development Coordination
+11.   Climate Change Assessment
+12.   Financial Analysis
+13.   Economic Analysis
+14.   Country Economic Indicators
+15.   Summary Poverty Reduction and Social Strategy
+16.   Social and Gender Action Plan
+17.   Environmental Assessment and Review Framework
+18.   Initial Environmental Examination
+19.   Resettlement Framework
+20.   Voluntary Land Swapping Plan
+21.   Risk Assessment and Risk Management Plan
+
+
+Supplementary Documents
+22.   Safeguards and Social Dimensions Summary
+23.   Financial Management Assessments
+

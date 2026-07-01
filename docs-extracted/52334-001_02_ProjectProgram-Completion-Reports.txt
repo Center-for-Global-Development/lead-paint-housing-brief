@@ -1,0 +1,975 @@
+ Report and Recommendation of the President to
+ the Board of Directors
+
+
+
+
+Project Number: 52334-001
+October 2019
+
+
+
+
+Proposed Loan and Technical Assistance Grant
+Housing Construction Savings Bank of Kazakhstan
+Promoting Gender Equality in Housing Finance
+Project
+(Guaranteed by the Republic of Kazakhstan)
+
+
+
+
+Distribution of this document is restricted until it has been approved by the Board of Directors.
+Following such approval, ADB will disclose the document to the public in accordance with ADB’s
+Access to Information Policy after excluding information that is subject to exceptions to disclosure
+set forth in the policy.
+                                 CURRENCY EQUIVALENTS
+                                  (as of 1 September 2019)
+
+                        Currency unit     –    tenge (T)
+                               T1.00      =    $0.0026
+                               $1.00      =    T387.46
+
+
+                                        ABBREVIATIONS
+
+              ADB            –     Asian Development Bank
+              Damu           –     Damu Entrepreneurship Development Fund
+              FIL            –     financial intermediation loan
+              GAP            –     gender action plan
+              HCSBK          –     Housing Construction Savings Bank of Kazakhstan
+              LTV            –     loan-to-value
+              m2             –     square meter
+              MSMEs          –     micro, small, and medium-sized enterprises
+              NPL            –     nonperforming loan
+              PAM            –     project administration manual
+              TA             –     technical assistance
+
+
+                                              NOTE
+
+                            In this report, "$" refers to United States dollars.
+
+ Vice-President      Shixin Chen, Operations 1
+ Director General    Werner E. Liepach, Central and West Asia Department (CWRD)
+ Director            Tariq H. Niazi, Public Management, Financial Sector, and Trade Division,
+                     CWRD
+ Team leaders        Mirzo Iskandar Gulamov, Country Specialist, Kazakhstan Resident
+                     Mission (KARM), CWRD
+                     Peter Marro, Principal Financial Sector Specialist, CWRD
+ Team members        Marian Therese Bartolome, Senior Operations Assistant, CWRD
+                     Catherine Debalucos, Associate Project Analyst, CWRD
+                     Elmira Izmaganova, Associate Project Officer, KARM, CWRD
+                     Stephanie Kamal, Public Management Specialist, CWRD
+                     Baurzhan Konysbayev, Principal Counsel, Office of the General Counsel
+                     Ruslan Kurmanbekov, Financial Sector Specialist, CWRD
+ Peer reviewer       Vivek Rao, Principal Financial Sector Specialist, Southeast Asia
+                     Department
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                         CONTENTS
+
+                                                                 Page
+
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                                1
+II.    THE PROJECT                                                 1
+       A.   Rationale                                              1
+       B.   Project Description                                    6
+       C.   Value Added by ADB                                     7
+       D.   Summary Financing Plan                                 8
+       E.   Implementation Arrangements                            8
+III.   ATTACHED TECHNICAL ASSISTANCE                               9
+IV.    DUE DILIGENCE                                               9
+       A.    Economic and Financial Viabillity                     9
+       B.    Sustainability                                       10
+       C.    Governance                                           11
+       D.    Poverty, Social, and Gender                          11
+       E.    Safeguards                                           11
+       F.    Summary of Risk Assement and Risk Management Plan    11
+V.     ASSURANCES                                                 12
+VI.    RECOMMENDATION                                             12
+
+APPENDIXES
+1.     Design and Monitoring Framework                            13
+2.     List of Linked Documents                                   15
+                                                                                                 Project Classification Information Status: Complete
+
+
+                                                         PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                             Project Number: 52334-001
+       Project Name                      Promoting Gender Equality in Housing                Department/Division CWRD/CWPF
+                                         Finance Project
+       Country                           Kazakhstan                                          Executing Agency           Housing Construction
+       Borrower                          Housing Construction Savings Bank of                                           Savings Bank of
+                                         Kazakhstan (HCSBK)                                                             Kazakhstan
+
+       Country Economic                  https://www.adb.org/Documents/LinkedDocs/
+       Indicators                        ?id=52334-001-CEI
+       Portfolio at a Glance             https://www.adb.org/Documents/LinkedDocs/
+                                         ?id=52334-001-PortAtaGlance
+
+    2. Sector                            Subsector(s)                                                             ADB Financing ($ million)
+       Finance                           Housing finance                                                                           100.00
+                                                                                                              Total                100.00
+    3. Operational Priorities                                                                Climate Change Information
+       Addressing remaining poverty and reducing inequalities                                Climate Change impact on the                        Low
+       Accelerating progress in gender equality                                              Project
+       Strengthening governance and institutional capacity
+       Sustainable Development Goals                                                         Gender Equity and Mainstreaming
+       SDG 1.4                                                                               Gender Equity (GEN)
+       SDG 8.10
+       SDG 11.1                                                                              Poverty Targeting
+                                                                                             Geographic Targeting
+    4. Risk Categorization:              Low
+.
+
+
+    5. Safeguard Categorization                      Environment: FI-C Involuntary Resettlement: FI-C Indigenous Peoples: FI-C
+.
+
+
+    6. Financing
+        Modality and Sources                                                                        Amount ($ million)
+        ADB                                                                                                                             100.00
+           Sovereign Project (Regular Loan): Ordinary capital resources                                                                 100.00
+        Cofinancing                                                                                                                       0.00
+           None                                                                                                                           0.00
+        Counterpart                                                                                                                       0.00
+           None                                                                                                                           0.00
+        Total                                                                                                                           100.00
+        Note: An attached technical assistance will be financed on a grant basis by the Technical Assistance Special Fund (TASF-OTHERS) in the
+        amount of $620,000.
+
+       Currency of ADB Financing: US Dollar
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.         02102019181402485179                                Generated Date: 02-Oct-2019 18:15:32 PM
+                                         I.       THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on a proposed loan to
+Housing Construction Savings Bank of Kazakhstan (HCSBK), to be guaranteed by the Republic
+of Kazakhstan, for the Promoting Gender Equality in Housing Finance Project. The report also
+describes the proposed technical assistance (TA) for Supporting the Promoting Gender Equality
+in Housing Finance Project, and if the Board approves the proposed loan, I, acting under the
+authority delegated to me by the Board, approve the TA.
+
+2.     The proposed financial intermediation loan (FIL) of up to $100 million equivalent will
+provide local currency credit to promote the provision of affordable residential mortgage loans to
+women borrowers in primarily rural areas of Kazakhstan. The TA will strengthen credit origination
+and product offerings of HCSBK to better serve its existing and new women borrowers.
+
+                                          II.      THE PROJECT
+
+A.      Rationale
+
+3.      Constraints in the Kazakhstan housing market. As of 1 January 2018, the total housing
+stock in Kazakhstan consisted of 5,129,743 housing units, of which 66.4% were located in urban
+areas and 33.6% in rural areas. In 2007–2018, the overall floor space per capita improved from
+17.5 square meters (m2) to 21.4 m2 (an increase of 22% per annum).1 However, despite these
+improvements, demand for housing remains high because of the following factors:
+        (i)   Rising income. Kazakhstan benefited from higher prices for its commodity exports
+              during a series of resource booms. In 2000-2019, country’s per capita income
+              has more than quintupled during the same period, from $1,349 to $8,840.2
+        (ii)  Household growth. The number of households in Kazakhstan increased from 4.6
+              million in 2013 to more than 5.0 million in 2017 as the total population grew while
+              the average household size remained unchanged. The growth was particularly
+              prominent in cities because of ongoing urbanization.
+        (iii) Ongoing urbanization. During 1996–2019, the urban population increased by 1.5
+              million, or 19.5%, to 10.7 million persons (58.1% of the total population). This
+              migration from rural to urban areas is expected to continue.
+        (iv)  Inadequate housing stock. Almost half of the current housing stock was built
+              prior to 1980 and has not been substantially upgraded or modernized. Further,
+              about 10% of all families in Kazakhstan live in one-room accommodation and there
+              is an unmet demand for larger housing units. The average floor area per capita of
+              21.4 m2 (in 2017) is well below international standards.3 In southern Kazakhstan,
+              the available housing space is even smaller, averaging 18 m2 per person.
+
+4.      Low supply of affordable housing with adequate building standards. Although most
+of the households in Kazakhstan live in their own housing units, affordable quality housing is in
+low supply, since real house prices rose almost sixfold from 2001 to 2016, for both newly built
+
+1 Government of Kazakhstan, Ministry of National Economy, Statistics Committee. 2017. Report on the housing stock
+  of Kazakhstan. Astana.
+2 Although per capita income has declined in 2016-2018 stemming from the recent financial crisis and resulting
+
+  currency devaluation, it was still relatively high at $8,840 as of 2018.
+3 Average floor area per capita is 30 m2–35 m2 per person in low-income countries and 45 m2–50 m2 per person in
+
+  upper middle-income countries. R. Anker and M. Anker. 2017. Living Wages Around the World: Manual for
+  Measurement. Cheltenham, United Kingdom: Edward Elgar Publishing. Chapter 5.
+2
+
+
+and existing dwellings.4 The 2016 economic slowdown has negatively affected the prices and
+sales volumes of large, expensive housing units, while the demand for modest housing has not
+slowed down, particularly in the regions located outside the major cities. Although the number of
+new housing units increased by 67% during 2007–2017 to cover 11.2 million m2 in 2017, this
+growth accounted for only 3.3% of the total housing stock.5 Kazakhstan’s rental market is also
+underdeveloped because of a high homeownership rate: 97% of all residents live in a housing
+unit owned by a household member (however there are cases where 2-3 families live in the same
+housing unit) and only 3% rent their current housing units.
+
+5.       Expensive housing. Prior to the 2008–2009 crisis, the real estate market in Kazakhstan
+overheated as evidenced by an extremely high housing affordability index of 28.4 years in 2007.6
+After the 2008 market crash, property prices dropped, improving affordability. Since 2011, the
+housing affordability index has stabilized at about 13 years for new real estate, but for existing
+housing it has deteriorated from 9.7 years to 10.6 years.7 As a result, the real estate market in
+Kazakhstan remains expensive by international standards: it currently ranks as the 13th most
+expensive country in the world, according to an international property prices index—well ahead
+of neighboring countries such as Azerbaijan (23rd), Georgia (25th), and the Russian Federation
+(28th).8
+
+6.     Factors for the low housing affordability in Kazakhstan. The main reasons are (i)
+sharp devaluation of the local currency in 2014 and 2015, and continued depreciation of the tenge
+as compared with the United States dollar since 2017 which has substantially increased the cost
+of house construction since much of the raw material is imported; (ii) persistent inflationary
+pressures, as evidenced by the consumer price index reaching 5.3% in May 2019; (iii) a
+concurrent increase in housing prices, which rose by 14% for primary market housing units and
+18% for secondary market housing units in 2018; (iv) declining purchasing power of consumer
+wages since 2015; and (v) inadequate supply of mortgage financing by commercial banks, which
+experienced high levels of nonperforming loans (NPLs) during the last two financial crises in
+Kazakhstan because of lending to non-creditworthy borrowers and issuing United States dollar-
+denominated mortgage loans to borrowers whose earnings were in tenge.9
+
+7.       Shallow mortgage finance sector. The mortgage finance sector in Kazakhstan is
+underdeveloped, with mortgage loans comprising 2.2% of gross domestic product in 2018.10 This
+level is substantially lower than in neighboring countries, e.g., 12.1% in Georgia and 5.6% in the
+Russian Federation. Similarly, residential mortgage loans amounted to only T1.4 billion,
+representing 11% of the total loan portfolio of Kazakhstan’s banks as of 31 December 201811—
+again, a very modest level when compared with other countries in the region such as Georgia
+
+
+
+4  W. Seitz. 2018. Urbanization in Kazakhstan. Desirable Cities, Unaffordable Housing, and the Missing Rental Market.
+   Poverty and Equity Global Practice Working Paper Series. No. 160. Washington, DC: World Bank.
+5 Government of Kazakhstan, Ministry of National Economy, Statistics Committee. 2017. Report on the housing stock
+
+   of Kazakhstan. Astana.
+6
+   The housing affordability index indicates the number of years that a family of three (two adults and one child with two
+   salaries) should work to afford the down payment for a 54 m2 apartment.
+7 Samruk-Kazyna. 2016. Kazakhstan’s Real Estate Market. Astana.
+8 Numbeo. Property Prices Index for Country 2019 (accessed 1 July 2019).
+9 Ranking.kz. 2017. Kazakhstan housing market assessment. Almaty.
+10 Government of Kazakhstan, Ministry of National Economy, Statistics Committee. Dynamics of basic socio-economic
+
+   indicators of the Republic of Kazakhstan (accessed 3 July 2019).
+11
+   National Bank of Kazakhstan. 2019. Report of current condition of the banking sector (as of 1 January 2019). Almaty.
+                                                                                                                 3
+
+
+(24.5%) or the Russian Federation (42.4%).12 In terms of loan currency, 97.2% of all outstanding
+mortgages were in tenge as of April 2019. In addition to being underdeveloped, mortgages in
+Kazakhstan are also expensive by international standards, with average mortgage payments
+comprising 203% of net disposable family income in 2019, well above the 164% in Georgia or
+150% in the Russian Federation (footnote 12).
+
+8.       Low access to mortgage finance for women, in particular in rural areas. Apart from
+government-led social housing programs, the present mortgage lending market in Kazakhstan is
+mainly geared toward higher-income groups. Although 4.4 million out of the 9.1 million women in
+Kazakhstan (51% of the total population) are considered to be economically active, they face a
+significant gender pay gap of 32%.13 Furthermore, 50.9% of all Kazakh households are headed
+by a woman and 15.1% are single mothers (over twice that of single fathers).14 However, women,
+more often than men, face lower access to affordable mortgage finance (although women’s
+educational levels in Kazakhstan are at par or higher than those of men) due to major constraints
+such as accessing bank financial services, prolonged and complicated procedures for commercial
+loan approval, and excessive paperwork and terms and conditions. In rural areas, potential female
+borrowers are even more disadvantaged in accessing mortgage financing, as the majority of rural
+women are occupied in informal self-employed activities (such as the food, agriculture, and trade
+industries). With lower income levels, they face higher collateral requirements for obtaining
+mortgage loans. Enabling such female borrowers to acquire a housing unit will help strengthen
+their access to credit given that real estate remains a preferred type of collateral for most banks.
+This is particularly relevant for homebound and small business women entrepreneurs (prevalent
+in rural areas) who face challenges in accessing finance because of the informal and/or irregular
+nature of their income and their higher credit risk categorization by banks.
+
+9.     Government’s strategy. Since 2005, the Government of Kazakhstan has initiated various
+programs to improve access to housing, including housing rental schemes, savings plans, interest
+rate subsidies, and support to private housing developers. The first such program is the 2017–
+2021 Nurly Zher housing development program, which was approved on 31 December 2016 with
+a budget of T800 billion.15 More recently, the government launched the 7-20-25 housing program,
+which aims to provide housing to 1.5 million people by the end of 2020. The program is the largest
+government housing initiative to date, with an indicative financing envelope of T1.0 trillion.16
+
+10.    Unaffordable housing for a growing number of the population. Despite the
+achievements made under these state housing programs, owning a modern and well-built housing
+unit remains unaffordable for many households, in particular young families and young
+professionals. According to the Ministry of National Economy, about 71.4% of the economically
+active population could not afford to buy a housing unit. As a consequence, about 2.5 million
+people in Kazakhstan are currently on the various wait lists for housing and the number continues
+to grow.17 The sharp local currency devaluation in 2015 severely affected the ability of households
+
+
+12 Housing        Finance      Information     Network.      Selected     comparative  country     data      2019.
+   http://hofinet.org/countries/index.aspx#visualizing (accessed 1 July 2019).
+13
+   Government of Kazakhstan, Ministry of National Economy, Statistics Committee. 2017. Economic activity indicators
+   by gender. Astana.
+14 EuroPlus Consulting and Management Report. 2017. Gender Study for Central Asia. Astana.
+15
+   Government of Kazakhstan. 2015. The State Program of Infrastructure Development Nurly Zhol for 2015–2019. Nur-
+   Sultan.
+16 Government of Kazakhstan. 2018.7-20-25 State mortgage program. Astana.
+17
+   United Nations Economic Commission for Europe. 2018. Country Profiles on the Housing Sector: Republic of
+   Kazakhstan. Geneva.
+4
+
+
+to save for a down payment to obtain a mortgage loan, and it increased the debt burden because
+of the weakened purchasing power of consumer wages.
+
+11.     Consistency with the Asian Development Bank’s Strategy 2030 and country
+strategy. The proposed intervention is aligned with the following key operational priorities of
+Strategy 2030 of the Asian Development Bank (ADB): (i) increasing support for banks to help
+improve their capacity, quality, and reach, particularly for low-income populations, to address
+remaining poverty and reduce inequalities; (ii) promoting rural development; (iii) improving
+progress in gender equality through financial inclusion; and (iv) supporting innovative financial
+products.18 The project is also consistent with ADB’s country partnership strategy for Kazakhstan,
+2017–2021, which supports inclusive economic growth through infrastructure development,
+financial inclusion, and enhanced gender equity. 19 The loan is included in ADB’s country
+operations business plan, 2019–2021.20 Finally, the ADB loan is aligned with the core objectives
+and goals of the government, in particular, with the Nurly Zher program (para. 9).
+
+12.     ADB’s sector experience and assistance program. While ADB has no previous
+experience in the housing finance sector in Kazakhstan,21 the bank has relevant experience in
+designing and implementing financial intermediary interventions with substantial gender elements
+in the country. In 2010, ADB approved the $500 million multitranche financing facility to the Damu
+Entrepreneurship Development Fund (Damu), which was categorized as effective gender
+mainstreaming.22 The project proved that gender action plans (GAPs) are an effective instrument
+to promote gender equality outcomes and influence government counterparts to build ownership
+during implementation. 23 In 2016, ADB approved an FIL of $200 million equivalent to Damu to
+support the resilience of micro, small, and medium-sized enterprises (MSMEs).24 The project,
+which is ongoing, provides local currency credit to sustain operations of, and employment by,
+MSMEs and helped strengthen the credit origination and management of selected participating
+financial institutions to better serve their MSME clients. It aims to fund at least $50 million
+equivalent to businesses owned by women, with one-third of the total number of sub-borrowers
+being women.
+
+13.    Development partner coordination. The European Bank for Reconstruction and
+Development, the International Finance Corporation, the United Nations, and the World Bank
+support the housing sector and housing finance in Kazakhstan through various initiatives and
+programs, which include (i) economic, social, and environmental assessments of the country’s
+housing policies and programs; (ii) reviews of the legal and regulatory framework and
+
+18 ADB. 2018. Strategy 2030. Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+
+    Manila.
+19 ADB. 2017. Country Partnership Strategy: Kazakhstan, 2017–2021—Promoting Economic Diversification, Inclusive
+
+    Development, and Sustainable Growth. Manila.
+20 ADB. 2018. Country Operations Business Plan: Kazakhstan, 2019–2021. Manila.
+21 However, ADB has substantial experience in implementing housing finance projects in many developing member
+
+   countries, including Armenia, India, Indonesia, Mongolia, Sri Lanka, Uzbekistan, and Viet Nam. Lessons learned
+   from these interventions include the following: (i) having a strong implementing agency with substantial lending
+   experience in the sector is crucial; (ii) targeting lower-income households can strengthen the development impact of
+   the project; (iii) having transparent and fair eligibility criteria for beneficiary selection is critical; and (iv) using
+   subsidies, in particular, interest rate subsidies, should ideally be avoided, as they crowd out the private sector.
+22
+   ADB. 2010. Report and Recommendation of the President to the Board of Directors: Proposed Multitranche
+   Financing Facility to the Republic of Kazakhstan for the Small and Medium Enterprise Investment Program. Manila.
+23
+   ADB. 2018. Kazakhstan Country Gender Assessment. Manila.
+24 ADB. 2016. Report and Recommendation of the President to the Board of Directors: Proposed Loan and
+
+   Administration of Technical Assistance Grant to the Damu Entrepreneurship Development Fund for the Supporting
+   Resilience of Micro, Small, and Medium-Sized Enterprises Finance Project (Guaranteed by the Republic of
+   Kazakhstan). Manila.
+                                                                                                                       5
+
+
+implementing agencies in the housing finance sector; (iii) business development services; and
+(iv) assistance in improving the lending technologies and loan products of some of the banks
+involved in housing finance. ADB closely coordinates with these institutions to avoid any
+duplication of efforts and build on the lessons learned and achievements made by the other
+developments partners. For instance, the proposed ADB intervention takes into account the
+recommendations made by a recent International Finance Corporation review of HCSBK’s
+operations, which suggested that HCSBK should (i) diversify its product range; (ii) introduce more
+commercially oriented mortgage lending instruments; (iii) diversify its funding sources; (iv)
+enhance its customer focus by analyzing consumer trends and preferences; and (v) expand its
+client base by focusing on self-employed persons located in rural areas, of which women account
+for more than 60%.
+
+14.     HCSBK’s mandate and market share. HCSBK is one of the major financial institutions
+supporting the development of the mortgage finance market in the country and is the main actor
+implementing government housing programs. Founded in 2003, it follows the German system of
+contractual savings for housing (the Bausparkassen model), wherein a housing loan is linked to
+a savings deposit. HCSBK typically targets the low- to middle-income borrower segment as
+evidenced by the fact that HCSBK’s average mortgage size is only T6.2 million. HCSBK provides
+services to about 12% of the economically active population, or about 1.05 million households.
+As of 31 December 2018, HCSBK had 1.30 million saving accounts, and it had issued 172,685
+loans totaling T1.14 trillion. HCSBK follows prudent onlending practices as evidenced by its
+satisfactory financial standing and an NPL ratio of less than 1%. As of the end of 2018, HCSBK
+was the market leader in mortgage lending, with 49% market share in the banking sector’s
+mortgage loan sector. Its 17 branches cover all regions of the country.25
+
+15.     Housing Construction Savings Bank of Kazakhstan’s gender focus. The bank
+maintains a strong focus on serving the needs of women, who comprised 55.5% of its borrowers
+at the end of 2018. However, women still represent a largely untapped borrower segment in
+Kazakhstan even though they have proven to be more disciplined than men in making loan
+repayments: only 0.2% of all female borrowers have overdue payments of more than 90 days,
+compared with 0.4% for men. The main obstacle for HCSBK to expand its lending business to
+women borrowers is the shortage of long-term funding.26 Further, HCSBK is constrained in its
+growth and outreach by its business model, which stipulates that sub-borrowers must first
+accumulate savings that account for at least 50% of the cost of the housing unit before they can
+qualify for a low-interest mortgage loan from the bank. The financing provided by ADB will be
+used by HCSBK to provide preliminary loans27 as an interim solution, as these loans will require
+the accumulation of savings of only 15%–20% before a mortgage loan can be granted (i.e.,
+women borrowers with a monthly household income below T200,000 will be granted lower down
+
+25 Overview of Housing Construction Savings Bank of Kazakhstan’s Operations (accessible from the list of linked
+
+   documents in Appendix 2).
+26 As  a systematically important financial institution, and given its role in the government’s mandate to provide
+   affordable housing, HCSBK has received support from the government in the form of subsidized funding and capital
+   injections. However, in view of the precarious monetary position of the government, this financial support can no
+   longer be taken for granted.
+27 The preliminary loan product is available to depositors who have either accumulated 20% savings (in relation to their
+
+   housing unit cost) or had deposited this amount up front. It has a loan ceiling of T5 million, has an interest rate of
+   7%, has a loan term of 8 years, and is secured by the related real estate and savings deposit. The mortgagor pays
+   only interest, with no amortization on the principal amount, and will continue to accumulate savings until 50% of the
+   housing unit cost is saved and the 3-year minimum savings accumulation period has passed. Upon realization of
+   these two requirements, savings will then be used to pay off half of the loan and the balance will be converted into a
+   standard housing loan with a lower interest rate of 3.5%–5.0%.
+6
+
+
+payment requirements).28 Once the sub-borrowers have accumulated the required 50% savings
+rate, the preliminary loan will be converted into a regular housing loan with a lower interest rate.
+
+16.      Demand for the proposed loan. The proposed loan from ADB to HCSBK will help the
+bank address the unmet demand among female borrowers for longer-term, fixed-rate, local
+currency-denominated mortgage credit, in particular in the rural areas. Of Kazakhstan’s
+population, 9.1 million, or 51%, are women and 4.4 million are considered economically active.
+Over 60,000 of HCSBK’s borrowers are women, of which 64% are located outside of the largest
+two cities of Nur-Sultan and Almaty. Although the government has various social support
+programs for women in place,29 HCSBK currently has 30,000 female account holders who have
+accumulated more than T2 million (qualifying them for a preliminary housing loan subject to
+meeting other underwriting criteria) who have not yet received a housing loan.30 In April 2019 as
+part of the project preparatory activities, HCSBK call centers carried out a survey, which showed
+that 53% of the female depositors contacted expressed interest in receiving more information on
+the ADB-funded mortgage product, and 40% would consider applying for a mortgage loan with
+such a reduced savings requirement.
+
+B.         Project Description
+
+17.    The project is aligned with the following impact: gender equity promotion and sustainable
+economic growth achieved. 31 The project will have the following outcome: acquisition and
+renovation of housing units by women increased.32
+
+18.     The project will deliver the following outputs: Output 1: Long-term affordable mortgage
+financing for eligible women borrowers made available. Through the ADB loan HCSBK will
+provide mortgage loans exclusively targeted at women borrowers to finance at least 3,000
+women; Output 2: Accessibility to HCSBK’s lending products for eligible women borrowers
+improved; HCSBK will adopt a gender policy and will conduct at least three nationwide public
+awareness campaigns on housing finance products for women; Output 3: Gender inclusiveness
+of the banking sector’s housing finance assessed. This output will be delivered by conducting a
+nationwide study on women’s access to housing and finance products which will have to be
+endorsed by the government.
+
+19.   ADB will provide HCSBK with an FIL of $100 million equivalent. HCSBK will use the tenge
+proceeds from ADB to offer affordable residential mortgage finance 33 exclusively to women
+
+
+28 At present, although HCSBK has ample liquidity on its balance sheet, most of these funds come from the savings
+
+   that depositors accumulate in anticipation of receiving a traditional housing loan after a period of 3–5 years. By law,
+   HCSBK is not allowed to use these funds to provide preliminary loans. Based on the HCSBK average loan size to
+   women in 2018 of T8.7 million, it is expected that the ADB loan will fund at least 3,000 loans for the acquisition of
+   housing units for a total of $80 million equivalent and 2,000 renovation loans for a total of $20 million equivalent.
+29 These include one-time maternity and birth allowances, a monthly childcare allowance, and an unemployment
+
+   allowance for nonworking mothers.
+30
+   HCSBK data. Preliminary loans, with a 20% down payment, would require deposit savings of T2.2 million and above
+   (based on the average loan size to women in 2018 [footnote 30]).
+31 Government of Kazakhstan. 2017. Strategic Plan for the Development of Kazakhstan until 2025. Nur-Sultan.
+32 The design and monitoring framework is in Appendix 1.
+33 It is expected that the preliminary loans funded under the ADB project will be offered by HCSBK at the rate of 7%.
+
+   HCSBK intends to use part of its equity capital to bring down the interest rate since the ADB loan is expected to be
+   provided to the bank at an interest rate of about 9%–9.5% (depending on market conditions). The preliminary loans
+   will have a down payment requirement as low as 15% (in the case of low-income female borrowers), which compares
+   favorably with the current market rates for commercial mortgage loans of 15%–21% with a minimum 30% down
+                                                                                                                      7
+
+
+customers, each acting as the sole borrower and bearer of the legal title to a residential housing
+unit.34 The mortgage subloans provided by HCSBK will be used for the acquisition of residential
+housing units or the renovation of existing homes.35 A minimum of 60% of the proceeds from the
+ADB loan will be allocated to provide mortgage loans to female borrowers located in rural regions,
+i.e., those outside of the four large cities with the lowest poverty rates: Aktau, Almaty, Atyrau and
+Nur-Sultan.36 While the maximum monthly income level per household has been set at T320,000,
+at least 20% of all mortgage loans financed by the ADB loan will be to low-income female
+borrowers with a monthly household income of less than T200,000.37 A price ceiling of T30 million
+will apply for housing units that can be financed under the ADB project, as well as a ceiling of
+T3.7 million for renovation loans.
+
+C.       Value Added by ADB
+
+20.      There will be five ADB value additions associated with this project:
+         (i)    The ADB funding will provide HCSBK with much-needed liquidity to expand its
+                lending to women, particularly in rural areas.
+         (ii)   The loan will be the first external borrowing that HCSBK undertakes, as it has relied
+                solely on government funding as well as customer saving deposits.38 While the
+                ADB loan will be more expensive for HCSBK compared to its existing funding, as
+                it will be based on market pricing principles, it will enable HCSBK to diversify its
+                funding sources, develop new loan products, and enhance its standing and
+                reputation in the mortgage finance sector of Kazakhstan as the premier housing
+                finance institution. To this end, the loan will help HCSBK eventually graduate from
+                relying on government support after it has undergone thorough due diligence from
+                ADB. This will help prepare the bank for accessing pure commercial funding from
+                private sector institutions and private sector arms of bilateral or multilateral banks,
+                and raising financing from the international capital markets in the near future.
+         (iii)  This will be one of ADB’s first sovereign local currency interventions where funding
+                has been raised through bonds issued by ADB in the domestic capital market. The
+                ADB bonds will have a highly tailored structure adopted to mirror the terms of the
+                underlying loan that is to be funded with the proceeds. It is expected that this
+                innovative structure will have a substantial developmental impact on the promotion
+                of the domestic bond market as it will enable some of the institutional investors, in
+                particular the state-owned pension funds, to use part of their excess liquidity to
+                invest in bond instruments with long tenors. It will also provide a new currency risk
+                mitigation solution for ADB’s future sovereign and quasi-sovereign borrowers in
+                Kazakhstan.
+
+   payment. Further, the preliminary loans will be converted to standard housing loans priced at 3.5%–5% once the
+   mortgagor has accumulated sufficient savings.
+34 HCSBK will provide an option for prospective women borrowers who do not fully meet the 55% monthly installment-
+
+   to-monthly income ratio by allowing the addition of a co-borrower. This measure will expand the outreach of the
+   program without compromising its financial soundness. Co-borrowers will have joint responsibility for the fulfillment
+   of obligations under the mortgage contract. At the same time, the ownership of the housing unit will remain with the
+   woman borrower.
+35
+   A housing unit can be a house or an apartment in a single-story or multistory building that provides living space for
+   occupants making up a single household.
+36 World Bank. 2018. A New Growth Model for Building a Secure Middle Class: Kazakhstan Systematic Country
+
+   Diagnostic. Washington, DC.
+37
+   54% of HCSBK’s borrowers are in the low-income segment with a monthly household income of less than T200,000.
+38 On 28 December 2018, HCSBK placed bonds for T57.7 billion through the Astana International Financial Center in
+
+   Nur-Sultan. The maturity date of these bonds is 28 December 2033 and the coupon rate is 9.6% per annum, paid
+   semiannually. However, these bonds did not really represent market-based fund-raising efforts, as they were fully
+   placed with HCSBK’s parent company, Baiterek.
+8
+
+
+         (iv)     The accompanying TA will strengthen the operational capacity, quality, and reach
+                  of HCSBK in relation to the low- to middle-income female population in Kazakhstan.
+                  Financial inclusion is closely correlated with reduced poverty, and HCSBK plays a
+                  unique role in the banking system in Kazakhstan by promoting financial inclusion
+                  in the housing finance sector among rural low-income female populations that no
+                  other bank or nonbank financial institution can match.
+         (v)      ADB played a key role in the project design. In April 2017, ADB identified HCSBK
+                  as a potential partner for expanding access to finance for women and entered into
+                  initial discussions with the bank to address its funding shortage for preliminary
+                  loans. After consulting with HCSBK and the government, ADB prepared a detailed
+                  feasibility study on the concept and structure of possible ADB assistance and
+                  identified the need for TA support. This analytical work has led HCSBK and the
+                  Government of Kazakhstan to request a sovereign loan from ADB and serves as
+                  the foundation for the project.
+
+D.       Summary Financing Plan
+
+21.     HCSBK has requested a regular loan of up to T38,000,000,000 ($100 million equivalent)
+from ADB’s ordinary capital resources to help finance the project. The loan, to be guaranteed by
+the Republic of Kazakhstan, will have (i) a term of up to 11 years, (ii) an interest rate equal to the
+sum of ADB’s cost of funding and the contractual spread for sovereign guaranteed loans, (iii) a
+commitment charge of 0.15% per year on the undisbursed loan amount, and (iv) such other
+terms and conditions set forth in the draft loan and guarantee agreements. Subject to market
+conditions, ADB will provide local currency financing to fund the loan by issuing disbursement-
+linked bullet bonds of up to 10-year maturity, not exceeding the final loan maturity of 31
+December 2030. Otherwise, ADB will also be able to provide financing in United States dollars.
+The loan is expected to be disbursed in two tranches, each of $20 million minimum in tenge
+equivalent with a bullet repayment structure. This will provide HCSBK with a more stable source
+of funding as it will match the ADB bond issuance in maturity. This structure would be a new and
+innovative feature for an ADB public sector loan. No maturity premium is payable to ADB
+because the average loan maturity will not exceed 13 years. Based on the requirement that
+female sub-borrowers will contribute either 15% or 20% (depending on the income level) of the
+individual housing unit cost in the form of equity, the contribution of the mortgagors amounts to
+a total of $24 million.
+
+                                         Table 1: Summary Financing Plan
+                                                                             Amount              Share of Total
+ Source                                                                     ($ million)               (%)
+ Asian Development Bank
+     Ordinary capital resources (regular loan)                                100.0                 100.0%
+                            Total                                             100.0                 100.0%
+ Source: Asian Development Bank estimates.
+
+E.       Implementation Arrangements
+
+22.    The implementation arrangements are summarized in Table 2 and described in detail in
+the project administration manual (PAM). 39 HCSBK will onlend to female sub-borrowers at a
+market-determined interest rate.
+
+
+
+39 Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+                                                                                                                 9
+
+
+                                       Table 2: Implementation Arrangements
+ Aspects                                                          Arrangements
+ Implementation period              January 2020–December 2022
+ Estimated completion date          31 December 2022
+ Loan closing date                  30 June 2023
+ Management
+ (i) Executing agency         HCSBK
+ (ii) Implementing agency     HCSBK
+ (iii) Implementation unit    HCSBK
+ Procurement                  Procurement of goods, works, and non-consultancy services will follow the ADB
+                              Procurement Policy and the Procurement Regulations for ADB Borrowers (2017,
+                              as amended from time to time). Procurement will be undertaken by the individual
+                              beneficiary; fitness for purpose can be achieved by using established private sector
+                              and commercial practices.
+ Retroactive financing        Retroactive financing will be allowed for up to 20% of the loan amount for eligible
+                              mortgage subloans, incurred prior to loan effectiveness but no earlier than 12
+                              months before the signing of the loan agreement.
+ Disbursement                 The loan proceeds will be disbursed following ADB’s Loan Disbursement Handbook
+                              (2017, as amended from time to time) and detailed arrangements agreed between
+                              the government and ADB. The ADB loan will be disbursed in two tranches, each of
+                              $20 million minimum, in tenge equivalent during the implementation period, which
+                              have to be liquidated within 12 months from the date of receipt of funds. ADB will
+                              disburse these advances to a dedicated HCSBK bank account.
+ADB = Asian Development Bank, HCSBK = Housing Construction Savings Bank of Kazakhstan.
+Source: ADB.
+
+                             III.      ATTACHED TECHNICAL ASSISTANCE
+
+23.     The ADB loan will be accompanied by a $620,000 transaction TA funded on a grant basis
+by ADB’s Technical Assistance Special Fund (TASF–other resources). 40 The TA will provide
+capacity building services primarily involving the following actions: (i) improve financial literacy
+among potential women borrowers in Kazakhstan, (ii) raise awareness for gender-related lending
+aspects in HCSBK’s operations by hiring and training employees to become experts in gender
+related financing aspects in its head office and some of its larger branches, (iii) assist in the
+implementation of a comprehensive GAP in HCSBK, 41 and (iv) enhance HCSBK’s customer
+targeting by designing lending programs and products specific to women. ADB will engage
+consultants in accordance with the ADB Procurement Policy (2017, as amended from time to
+time) and the associated staff instructions. Disbursements under the TA will be done in
+accordance with ADB's Technical Assistance Disbursement Handbook (2010, as amended from
+time to time).
+
+                                           IV.     DUE DILIGENCE
+
+A.      Economic and Financial Viability
+
+24.    HCSBK’s housing savings model presents a viable model to address higher-risk market
+segments as demonstrated by the bank’s low rate of NPLs compared with its peers (i.e., 0.2%
+versus a market average of 7.4% in 2018 in the mortgage sector).42 HCSBK’s preliminary lending
+product is well suited to the lending profile of lower-income earners with less access to collateral,
+
+40
+   The Government of Kazakhstan has contributed $120,000 to ADB’s Technical Assistance Special Fund in part to
+   finance the transaction TA.
+41 Gender Action Plan (accessible from the list of linked documents in Appendix 2).
+42 The average monthly income of women borrowers financed by HCSBK under the existing government housing
+
+   program is T170,000.
+10
+
+
+but this product requires diversification of the bank’s funding base to expand its product offering
+and developmental impact.43 The ADB funding will provide HCSBK with the liquidity required to
+develop a new product line (under the preliminary lending segment) targeting underserved women
+borrowers, who face higher requirements (on average) for obtaining mortgage loans. 44 The
+project will thereby help the bank to adjust its operating model and help it prepare for its eventual
+transition to commercial financing. Such a transition will enhance the sustainability of its housing
+finance business.
+
+25.     The financial viability derives from HCSBK’s strong financial performance and profitable
+operations. From 2015 to 2018, HCSBK experienced strong organic growth in assets, loans,
+deposits, and equity, with compound annual growth rates of 28% in 2015, 34% in 2016, 30% in
+2017, and 23% in 2018. It also has high profitability, with a return on equity of 15.0% and a return
+on assets of 3.0% as of the end of 2018. HCSBK has good portfolio quality, with a 90 days overdue
+ratio of less than 1%, because of the following factors: (i) adequate policies, procedures, and
+controls in relation to loan portfolio management, including protocols on instances of default; (ii)
+a good management information system that promptly provides information regarding the status
+of lending operations and the financial performance of the bank; (iii) good payment discipline
+among borrowers given the savings accumulation-based business model; and (iv) a prudent
+collateral policy with 90% of the loan portfolio having a loan-to-value (LTV) ratio of not more than
+75% (36% of loans outstanding have a LTV ratio of less than 50%). In addition to these factors,
+the timely payment of mortgage amortizations is considered a top priority for any home owner
+given the motivation of a person to eventually own their housing unit. Likewise, mortgagors have
+much more to lose in case of a default considering the collateral (housing unit and savings) and
+the low LTV ratio. HCSBK has sufficient liquidity given its long-term deposit base and low volatility
+brought by the peculiarity of the business model, as well as an ample capital buffer.
+
+26.      Per statistics from the National Bank of Kazakhstan as of the end of 2018, of the 28 banks
+regulated and supervised by the national bank, HCSBK was ranked 9th in terms of assets (T998
+billion) and deposits (T665 billion), 8th in terms of loan portfolio size (T664 billion), 10th in terms
+of interest spread (5.3%), 13th in terms of net interest margin (5.9%), 9th in terms of capital (with
+a capital adequacy ratio of 54.6%), 4th in terms of liquidity (with a liquidity coefficient of 5.0), and
+1st in terms of having the lowest 90 days overdue loan ratio (0.18% compared with the industry
+average of 7.38%).45 The bank’s good industry rankings are further corroborated by its rating from
+Moody’s Investors Service of Baa3 stable, similar with that of its parent, National Management
+Holding Baiterek JSC, and the sovereign rating of Kazakhstan.
+
+B.      Sustainability
+
+27.    The ADB project is sustainable, as it will expand the number of women in Kazakhstan with
+lower to middle-income levels who become homeowners through the acquisition of residential
+properties by accessing mortgage finance on reasonable, predictable, and transparent lending
+terms. The intervention will also reduce HCSBK’s overreliance on government funding and will
+therefore contribute to fiscal sustainability. Finally, the TA attached to the project will demonstrate
+to HCSBK (and other banks in Kazakhstan) that women represent a promising and creditworthy
+borrower segment that can be targeted through tailor-made financial instruments and programs.
+
+
+43
+   The law governing HCSBK prohibits the use of its deposit funds to finance its preliminary lending business, which
+   carries more risk. To date, the bank has relied on government funding to expand this business line.
+44 These higher requirements are because of a significant gender pay gap of 69% and the higher proportion of women
+
+   relying on self-employment (particularly in rural areas).
+45 PWC. 2019. HCSBK JSC Financial Statements and Independent Auditor’s Report. (as of 31 December 2018).
+                                                                                                            11
+
+
+C.      Governance
+
+28.    The overall integrity risk is low and the assessed pre-mitigation financial management risk
+is moderate mainly because the bank has extensive experience in housing finance and has
+successfully implemented many government housing programs. Integrity due diligence was
+conducted. No significant integrity risks were identified. HCSBK’s capabilities are considered
+adequate. ADB’s Anticorruption Policy (1998, as amended to date) was explained to and
+discussed with the government and HCSBK. The specific policy requirements and supplementary
+measures are described in the PAM (footnote 38).
+
+D.      Poverty, Social, and Gender
+
+29.      The project is anticipated to have a strong development impact in supporting broader
+poverty reduction and welfare objectives prioritized by the government. Homeownership
+complements the country’s welfare system by strengthening household security and financial
+stability. Further, it eases access to credit, given that real estate remains a preferred type of
+collateral in banking sector lending. Lastly, housing standards have a direct impact on human
+welfare and help attain better health and education outcomes for occupants. It is also shown to
+enhance maintenance of properties to a higher standard. The GAP describes the steps that will
+be taken under the project to ensure that it fosters women’s economic empowerment and
+supports gender equity objectives as described in the design and monitoring framework
+(Appendix 1).
+
+E.      Safeguards
+
+30.      The project is categorized FI-C for environment, involuntary resettlement, and indigenous
+peoples. Given the nature of the intervention, the project will have minimal or no adverse
+environmental impacts and no impacts on involuntary resettlement and indigenous peoples.
+HCSBK’s loans will not finance real estate development or mass housing construction, but will be
+used to provide residential mortgage loans to women borrowers to purchase existing or
+constructed residential housing units that meet standard requirements and/or to make renovations
+to such housing units. ADB has assessed the borrower’s commitment and capacity for
+environmental and social management. HCSBK has adequate staff capacity to effectively carry
+out the assessment and oversight of the progress of the environmental (including climate change)
+and social risks screening and monitoring. HCSBK will (i) apply ADB's prohibited investment
+activities list; (ii) exclude funding by ADB of activities falling under categories A and B for
+environment and social safeguard impacts; (iii) ensure that investments using ADB funds comply
+with ADB’s Safeguard Policy Statement (2009) and abide by applicable national laws and
+regulations, including labor laws, pursuant to ADB’s Social Protection Strategy; and (iv) take
+measures to comply with internationally recognized core labor standards. HCSBK will confirm this
+in its periodic reports to ADB and does not need to apply any other specific safeguard or social
+requirements.46
+
+F.      Summary of Risk Assessment and Risk Management Plan
+
+31.      Significant risks and mitigating measures are summarized in Table 3 and described in
+detail in the risk assessment and risk management plan.47 Some significant risks are related to
+
+46 Summary Poverty Reduction and Social Strategy, and Safeguards and Social Dimensions Summary (accessible
+
+  from the list of linked documents in Appendix 2.)
+47 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+12
+
+
+the volatile economic operating environment and can only be partly mitigated through the project
+as described. However, ADB’s position is protected by the strong credit of the sovereign, which
+guarantees the loan. The project is categorized low risk because (i) the size of the ADB loan
+amount does not exceed $200 million; (ii) ADB has relevant experience in the banking sector as
+it has been lending to various banks in Kazakhstan in 2011-2018 (iii) HCSBK has adequate
+mechanisms to administer and monitor the disbursement of the mortgage loans to women
+borrowers; (iv) HCSBK has extensive experience in housing finance in Kazakhstan; and (v)
+HCSBK has substantial experience in implementing this type of intervention.48
+
+                         Table 3: Summary of Risks and Mitigating Measures
+ Risks                                                             Mitigation Measures
+ The demand for preliminary loans
+                                        The ADB team carried out detailed analysis as part of its due diligence to
+ offered by HCSBK is substantially less
+                                        ensure that the interest shown by prospective female borrowers in the loan
+ than anticipated, which might lead to
+                                        product offered by HCSBK reflects actual demand.
+ slow disbursements.
+ADB = Asian Development Bank, HCSBK = Housing Construction Savings Bank of Kazakhstan.
+Source: ADB.
+
+                                               V.      ASSURANCES
+
+32.     The government and HCSBK have assured ADB that implementation of the project shall
+conform to all applicable ADB requirements, including those concerning anticorruption measures,
+safeguards, gender, procurement, consulting services, and disbursement as described in detail
+in the PAM and loan documents. The government and HCSBK have agreed with ADB on certain
+covenants for the project, which are set forth in the draft loan and guarantee agreements.
+
+                                         VI.        RECOMMENDATION
+
+33.     I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve the loan of up to
+T38,000,000,000 to Housing Construction Savings Bank of Kazakhstan, to be guaranteed by the
+Republic of Kazakhstan, for the Promoting Gender Equality in Housing Finance Project, from
+ADB’s ordinary capital resources, in regular terms, with an annual interest rate equal to the sum
+of ADB’s cost of tenge funding and the contractual spread for sovereign guaranteed loans; for a
+term of up to 11 years; and such other terms and conditions as are substantially in accordance
+with those set forth in the draft loan and guarantee agreements presented to the Board.
+
+
+                                                                          Takehiko Nakao
+                                                                          President
+
+2 October 2019
+
+
+
+
+48 To ensure full compliance with all ADB policies and safeguard requirements, ADB will closely supervise HCSBK in
+
+  its operations and will require it to provide ADB with a quarterly monitoring report and compliance letter.
+                                                                                             Appendix 1          13
+
+
+                               DESIGN AND MONITORING FRAMEWORK
+Impact the Project is Aligned with
+Gender equity promotion and sustainable economic growth achieveda
+                            Performance Indicators with            Data Sources and
+Results Chain                   Targets and Baselines            Reporting Mechanisms              Risks
+Outcome                  By the end of 2022:
+Acquisition and           a. 8% annual growth rate in the        a–b. HCSBK monitoring    HCBSK’s ability to
+renovation of                 lending portfolio to women         reports                  develop affordable
+housing units by              (2019–2022), reaching at least                              mortgage finance for
+women increased               28,000 mortgage loans issued                                women is not
+                              by HCSBK to women                                           sustained
+                              borrowers (2018 baseline:
+                              20,622)                                                     National Bank of
+                          b. 1% annual growth rate in the                                 Kazakhstan’s
+                              size of the lending portfolio to                            unsuccessful
+                              women as a proportion of the                                macroprudential policy
+                              overall portfolio (2019–2022),                              framework to manage
+                              reaching at least 59% (2018                                 potential housing crisis
+                              baseline: 55%)                                              in 2020-2031
+
+Outputs                  By the end of 2022:
+1. Long-term             1a. Number of housing units owned       1a–d. HCSBK monitoring   Insufficient demand for
+affordable mortgage      by women funded by the ADB loan         reports                  mortgage loans from
+financing for eligible   increased to at least 3,000 (2019                                female customers
+women borrowers          baseline: NA)
+made available                                                                            Deterioration of
+                         1b. Number of renovations of                                     HCSBK’s credit
+                         housing units owned by women                                     standing and,
+                         funded by the ADB loan increased                                 therefore, adverse
+                         to 2,000 (2019 baseline: NA)                                     impact on the bank’s
+                                                                                          financial standing as
+                         1c. At least 60% of the mortgage                                 result of the additional
+                         loans funded by the ADB loan                                     mortgage lending
+                         disbursed by HCSBK for the                                       under the ADB project
+                         acquisition and/or renovation of
+                         housing units owned by women in
+                         rural areas, i.e., outside of Aktau,
+                         Almaty, Atyrau and Nur-Sultan
+                         (2019 baseline: NA)
+
+                         1d. At least 20% of all mortgage
+                         loans financed by the ADB loan
+                         disbursed to low-income women
+                         borrowers with a monthly household
+                         income of less than T200,000
+                         (about $530) (2019 baseline: NA)
+
+2. Accessibility to      2a. HCSBK develops at least one         2a–c. HCSBK’s internal
+HCSBK’s lending          financial product exclusively           and monitoring reports
+products for eligible    targeted at women borrowers
+women borrowers          (2019 baseline:NA)
+improved
+                         2b. HCSBK adopts a gender policy
+                         (2019 baseline: NA)
+
+                         2c. HCSBK conducts at least three
+                         nationwide public awareness
+                         campaigns on housing finance
+                         products for women (2019
+                         baseline: NA)
+14       Appendix 1
+
+
+ 3. Gender               3. Results of a nationwide study on     3. Study report, seminar      Declining buy-in and
+ inclusiveness of the    women’s access to housing and           agenda, and seminar           interest from HCSBK
+ banking sector’s        finance products disseminated and       report                        and the government to
+ housing finance         endorsed by the government (2019                                      carry out the study
+ assessed                baseline: NA)                                                         with presentation on
+                                                                                               the subsequent
+                                                                                               seminar
+ Key Activities with Milestones
+ Output 1: Long-term affordable mortgage financing for eligible women borrowers made available.
+ 1.1 ADB provides up to $100 million for qualified subloans issued by HCSBK (2019: $0 million; 2020: $30 million;
+ and 2021: $70 million)
+ Output 2: Greater accessibility to HCSBK’s lending products for eligible women borrowers.
+ 2.1 HCSBK develops at least one lending product exclusively targeted at women borrowers (by March 2020)
+ 2.2 HCSBK adopts a gender policy (by March 2020)
+ 2.3 HCSBK conducts at least three nationwide public awareness campaigns on housing finance products for
+ women (by March 2020)
+ Output 3: Gender inclusiveness of the banking sector’s housing finance assessed.
+ 3.1 HCSBK’s financial skills training program focused on women becomes fully operational (by December 2020)
+
+ Inputs
+ ADB: $100 million equivalent (loan), $500,000 Technical Assistance Special Fund (TASF–other sources)
+ Assumptions for Partner Financing
+ Contribution of $120,000 to the technical assistance funded by the Government of Kazakhstan from its Knowledge
+ and Experience Exchange Programb with ADB
+ADB = Asian Development Bank, HCSBK = Housing Construction Savings Bank of Kazakhstan.
+a Government of Kazakhstan. 2017. Strategic Plan for the Development of Kazakhstan until 2025. Nur-Sultan.
+b Already transferred to TASF–other sources.
+
+Contribution to ADB Results Framework:
+RFI A: HCSBK estimates an 8% compound annual growth rate on its loan portfolio for women borrowers during
+        2019–2022.
+RFI B: 1% annual growth in the size of the lending portfolio to women as a proportion of the overall portfolio (i.e., men
+        and women borrowers combined), projected based on recent historical performance (2016–2018).
+Source: ADB.
+                                                                        Appendix 2   15
+
+
+                             LIST OF LINKED DOCUMENTS
+                  http://www.adb.org/Documents/RRPs/?id=52334-001-3
+
+1.    Loan Agreement
+2.    Guarantee Agreement
+3.    Sector Assessment (Summary): Finance (Housing Finance)
+4.    Project Administration Manual
+5.    Financial Analysis
+6.    Economic Analysis
+7.    Summary Poverty Reduction and Social Strategy
+8.    Risk Assessment and Risk Management Plan
+9.    Attached Technical Assistance Report
+10.   Gender Action Plan
+
+Supplementary Documents
+
+11.   Country Economic Indicators
+12.   Overview of Housing Construction Savings Bank of Kazakhstan’s Operations
+13.   Financial Management Assessment of Housing Construction Savings Bank of
+      Kazakhstan
+14.   Development Coordination
+

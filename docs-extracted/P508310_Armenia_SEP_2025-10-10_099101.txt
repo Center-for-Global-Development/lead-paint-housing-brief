@@ -1,0 +1,1292 @@
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                Stakeholder Engagement Plan
+
+
+
+
+                               Housing Response and Mortgage Market Enhancement (HOME) Project
+                                                             (P508310)
+
+
+
+
+Public Disclosure Authorized
+                                                               Draft
+
+
+
+
+Public Disclosure Authorized
+                                                         September 2025
+
+
+
+
+                                   Prepared by the Ministry of Labor and Social Affairs of the Republic of Armenia
+                                Complemented by inputs from the National Mortgage Company Refinancing Credit
+                                                                                                 Organization CJSC
+Contents
+
+
+
+List of Acronyms ............................................................................................................................................ 3
+Executive Summary ....................................................................................................................................... 5
+1. Introduction .............................................................................................................................................. 7
+    1.1 Project context .................................................................................................................................... 7
+    1.2 Project Description ............................................................................................................................. 7
+    1.4 Purpose of the SEP.............................................................................................................................. 9
+2. Objective of SEP and Methodology......................................................................................................... 10
+    2.1 SEP Objectives and Principles ........................................................................................................... 10
+    2.2 Key Definitions .................................................................................................................................. 11
+3. Stakeholder Identification, Analysis and Engagement Methods............................................................. 12
+    3.1 Stakeholder Identification and Analysis............................................................................................ 12
+        3.1.1 Affected Parties and Other Interested Parties........................................................................... 12
+        3.1.2. Disadvantaged/vulnerable Individuals or Groups .................................................................... 12
+    3.2 Stakeholder Engagement Program ................................................................................................... 13
+        3.2.1 Summary of Stakeholder Engagement done During Project Preparation ................................. 13
+        3.2.2 Stakeholder Engagement Methods and Approach ................................................................... 14
+        3.2.3 Information Disclosure .............................................................................................................. 20
+4. Resources and Responsibilities for Implementing Stakeholder Engagement Activities ......................... 22
+    4.1 Management Functions and Responsibilities ................................................................................... 22
+    4.2 Resources .......................................................................................................................................... 23
+5. Feedback and Grievance Redress Mechanism ........................................................................................ 26
+    5.1 Government Systems on Grievance Resolution................................................................................ 26
+    5.1. Key Elements of FGRM under the Project ....................................................................................... 28
+6. Monitoring and Reporting....................................................................................................................... 30
+    6.1. Monitoring of SEP ............................................................................................................................ 30
+    6.2. Reporting back to stakeholder groups ............................................................................................. 30
+Annex 1: Key Stakeholder Groups ............................................................................................................... 32
+Annex 2. Roles and Responsibilities of the Key Actors involved in SE Implementation .............................. 34
+Annex 3. Sample Grievance Log Template .................................................................................................. 35
+Annex 4. Sample Consultation Record Template ........................................................................................ 36
+List of Acronyms
+ADB                Asian Development Bank
+AFD                Agence Française de Développement
+CA                 Commission on Appeals
+CBA                Central Bank of Armenia
+CSO                Civil Society Organization
+COP                Communication and Outreach Plan
+CoUD               Committee of Urban Development
+DPM                Deputy Prime Minister
+e-request.am       Unified government e-request platform
+ESCP               Environmental and Social Commitment Plan
+ESF                Environmental and Social Framework
+ESS                Environmental and Social Standard
+FGRM               Feedback and Grievance Redress Mechanism
+                   Deutsche Gesellschaft für Internationale
+GIZ
+                   Zusammenarbeit
+GoA                Government of Armenia
+GRS                Grievance Redress Service (WB)
+ISC                Inter-ministerial Steering Committee
+HH                 Household
+HPC                Housing Purchase Certificate
+HSP                Housing Support Program
+                   Kreditanstalt für Wiederaufbau (German
+KfW
+                   Development Bank)
+LOC                Line of Credit
+MCS                Migration and Citizenship Service
+M&E                Monitoring and Evaluation
+MLSA               Ministry of Labor and Social Affairs
+MoF                Ministry of Finance
+NMC                National Mortgage Company
+NGO                Non-Governmental Organization
+NSS                National Security Service
+PBL                Program-Based Lending
+PFI                Participating Financial Institution
+PIT                Project Implementation Team
+PSSA               Program Safeguards System Assessment
+SAP                Social Assistance Program
+SE                 Stakeholder Engagement
+SEP                Stakeholder Engagement Plan
+                   Stakeholder Engagement and Communications
+SECS
+                   Specialist
+UNDP     United Nations Development Programme
+UNICEF   United Nations Children’s Fund
+UNHCR    United Nations High Commissioner for Refugees
+USS      Unified Social Services
+WB       World Bank
+Executive Summary
+
+
+Context: Armenia faces pressing challenges in providing adequate and affordable housing, with the influx
+of refugees adding further strain to an already limited housing market and underdeveloped mortgage
+sector. The Housing Response and Mortgage Market Enhancement (HOME) Project seeks to address these
+challenges by improving access to housing for refugee households, while also strengthening the long-term
+sustainability of the mortgage finance market.
+Introduction to HOME Project: The HOME Project, implemented by the Ministry of Labor and Social Affairs
+(MLSA) with support from the World Bank (WB) and other partners, provides a combination of immediate
+assistance and institutional capacity-building. It supports upfront payments and mortgage installments for
+eligible households, cash support to cover rent and utilities, and liquidity to the National Mortgage
+Company (NMC) to ensure the continued availability of affordable housing finance. The HOME project is
+comprised of three components as follows: (i) Housing subsidies and support for institutional
+development, (ii) Housing finance market development, and (iii) Project management, monitoring, and
+evaluation.
+Purpose and Objectives of the Stakeholder Engagement Plan (SEP): This SEP has been prepared in line
+with the WB Environmental and Social Standard 10 (ESS10) to guide meaningful, inclusive, and transparent
+engagement with stakeholders throughout the Project cycle. Its objectives are to ensure that information
+on the Project is accessible, that stakeholder feedback is considered in decision-making, and that effective
+feedback and grievance redress mechanism (FGRM) is in place.
+Stakeholder Identification, Analysis and Engagement Methods: This SEP identifies refugee households,
+host communities, government institutions, financial intermediaries, CSOs, and development partners as
+key stakeholders. Beneficiaries will be engaged primarily through the Unified Social Services (USS)
+network, CSOs, and mass/digital media, with special measures to reach vulnerable groups such as female-
+headed households, persons with disabilities, elderly refugees, and those in rural areas. Engagement will
+be continuous, combining consultations, outreach campaigns, and perception surveys.
+The SEP outlines methods for both stakeholder engagement and beneficiary outreach and communication.
+Beneficiary-facing activities include outreach through USS offices and CSOs, mass media and digital
+campaigns, targeted support for vulnerable groups, and periodic perception surveys. Engagement with
+other stakeholders will involve interagency coordination meetings, collaboration with partner banks and
+NMC, roundtables with CSOs and development partners, and structured media engagement.
+Information disclosure: Information on the Government Housing Support Program (HSP) is already
+available on the MLSA website, including eligibility criteria and application procedures, complemented by
+video explainers to guide beneficiaries. Throughout implementation, MLSA will continue to disclose key
+project documents, updates, and guidance materials through digital, print, media, and community-level
+channels, ensuring tailored formats for women-headed households, persons with disabilities, elderly
+beneficiaries, and refugees in rural areas.
+Feedback and Grievance Redress Mechanisms: For Component 1, the Project will build on the MLSA’s
+existing 114 hotline and USS offices to ensure accessible grievance channels, with the newly established
+Interagency Commission on Appeals serving as an additional mechanism for rejected applicants. Grievance
+handling will follow the Law on Freedom of Information (2003), ensuring fairness, transparency, and
+accountability, while sensitive cases such as SEA/SH will be managed under survivor-centered protocols.
+For Component 2, NMC will rely on its internal grievance redress mechanism (GRM) as outlined in the
+organizations’ Environmental and Social Management Systems (ESMS) manual1.
+Management resources and responsibilities for SEP implementation: The MLSA is responsible for
+implementing this SEP related to Component 1 and NMC will be responsible for stakeholder engagement
+(SE) activities under Component 2. MLSA will establish a project Implementing team (PIT) comprised of
+civil servants and non-civil servants assigned from within the MLSA. The Project Coordinator is responsible
+for managing and overseeing the implementation of stakeholder engagement activities, monitoring, and
+reporting, as well as ensuring the quality of the SEP activities delegated to respective departments of the
+MLSA. For SEP implementation, MLSA will hire or assign a Stakeholder Engagement and Communications
+Specialist (SECS). As for Component 2, NMC will use in-house capacities to implement SE activities.
+Monitoring and Reporting on the SEP: Monitoring and reporting will be carried out through biannual
+progress reports, mid-term and end-of-project perception surveys, and regular updates to stakeholders.
+Feedback will be incorporated into adaptive engagement strategies, ensuring that the SEP remains
+responsive to community needs and program realities.
+Final Notes: This SEP will be disclosed and open to feedback and consultation. Feedback from stakeholders
+will be incorporated in the final version of SEP.
+Communities and individuals who believe that they are adversely affected by a project supported by the
+World Bank may submit complaints to existing project-level grievance mechanisms or the Bank’s Grievance
+Redress Service (GRS). The GRS ensures that complaints received are promptly reviewed in order to
+address project-related concerns. Project affected communities and individuals may submit their
+complaint to the Bank’s independent Accountability Mechanism (AM). The AM houses the Inspection
+Panel, which determines whether harm occurred, or could occur, as a result of Bank non-compliance with
+its policies and procedures, and the Dispute Resolution Service, which provides communities and
+borrowers with the opportunity to address complaints through dispute resolution. Complaints may be
+submitted to the AM at any time after concerns have been brought directly to the attention of Bank
+Management and after Management has been given an opportunity to respond. For information on how
+to submit complaints to the Bank’s Grievance Redress Service (GRS), visit http://www.worldbank.org/GRS.
+For information on how to submit complaints to the Bank’s Accountability Mechanism, visit
+https://accountability.worldbank.org.
+
+
+
+
+1 In the SEP, Feedback and Grievance Redress Mechanism (FGRM) will be used to refer to Project grievance mechanism
+
+established and operated by MLSA while Grievance and Redress Mechanism (GRM) will be used to refer to internal grievance
+mechanism of the NMC
+1. Introduction
+1.1 Project context
+Housing is one of the most pressing challenges in Armenia, with the recent influx of refugees adding
+further strain to an already limited housing supply, while also putting pressure on labor markets and social
+services. The country’s housing stock is largely aging and privately owned, with low vacant rates and
+limited availability outside Yerevan. An estimated 20,000 households remain without long-term housing,
+including families affected by the 1988 Spitak earthquake and successive refugee waves, while many
+others live in overcrowded or inadequate conditions. Existing housing programs are fragmented, narrowly
+targeted, and often costly, limiting both their reach and long-term impact.
+To address these challenges, the Government of Armenia (GoA), with support from the WB and other
+development partners, is implementing the Housing Response and Mortgage Market Enhancement
+(HOME) Project. The Project provides immediate and medium-term support to refugee and vulnerable
+households through cash assistance, housing solutions, and improved access to financial services.
+1.2 Project Description
+Project Development Objective is to improve access of refugee families to adequate long-term housing
+solutions and improve sustainability of the housing and mortgage market.
+The HOME project is comprised of three components as follows: (i) Housing subsidies and support for
+institutional development, (ii) Housing finance market development, and (iii) Project management,
+monitoring, and evaluation.
+Component 1: Housing Subsidies and Support for Institutional Development
+This component will focus on the provision of short- and long-term housing solutions to eligible refugees.
+Short-term housing (rental) support will be provided in the form of direct cash transfers to about 103,000
+eligible refugees to cover rent, utilities, and other living costs. Subsidies will be provided to eligible refugee
+households for the acquisition of adequate long-term housing solutions using commercial banks. The
+component will also seek to enhance the institutional capacities for designing, establishing, implementing,
+and managing future national housing sector policy and programs.
+Subcomponent 1.1: Temporary rental subsidies through cash assistance
+ This subcomponent will finance the provision of cash assistance to eligible refugees supported by the
+ ongoing refugee SAP. In accordance with Government Decree N 1833-L and subsequent amendments,
+ eligible beneficiaries receive up to AMD 50,000 (about US$ 125) per person per month for rent subsidies
+ and utilities, as well as other household-related expenses and consumption needs. The sub-component
+ will support already incurred expenditures in 2025 under the ongoing refugee SAP. The rental subsidy
+ assistance plays a critical role in enabling the freedom of mobility of refugee households to locate and
+ settle in suitable areas for jobs and for acquiring long-term housing financed under sub-component 1.2.
+
+
+Subcomponent 1.2: Subsidies for the acquisition of Long-term housing solutions
+ This subcomponent will finance direct subsidies to eligible refugee households for the acquisition of
+ housing solutions through participating financial institutions. In accordance with Government Decree N
+ 710-L, this subcomponent will support the provision of: (a) up-front downpayment assistance of up to 30
+ percent of the housing purchase price, and (b) assistance for full monthly mortgage payments for up to
+    the first five years of 10-year mortgage loans. The subcomponent will support eligible households to: (a)
+    acquire a new or existing individual residential house or apartment; (b) acquire the right to purchase an
+    apartment in a building under construction; and (c) construct an individual residential house. The
+    subcomponent will also provide subsidy assistance for the repayment of an existing mortgage loan for
+    refugee households who already had property in Armenia. As part of the mortgage origination process,
+    participating banks will assess the technical condition of housing units, their suitability for occupation,
+    and will screen for seismic risks. Additionally, all new construction of apartments and individual
+    residential homes will be performed by licensed contractors, will be screened for exposure to seismic and
+    climate-related risks,2 and will adhere to relevant energy efficiency norms.
+Subcomponent 1.3: Institutional Development in Housing
+The subcomponent will finance procurement of goods, consulting, and non-consulting services for
+technical assistance, advisory, and capacity building to support institutional strengthening and policy
+reforms in the housing sector as well as improvements to the refugee HSP’s management information
+system managed by the MLSA.
+Component 2: Housing Finance Market Development
+
+This component aims to support the National Mortgage Company (NMC) operations by enhancing
+long-term liquidity for mortgage-originating financial institutions. A line of credit (LOC) of US$ 10
+million to NMC seeks to increase access to mortgage loans by providing refinancing for
+participating financial institutions (PFIs) i.e., commercial banks with signed agreements with the
+GoA to provide mortgage loans under the refugee HSP.
+Component 3: Project Management, Monitoring and Evaluation
+
+This component will finance the procurement of consulting and non-consulting services, goods,
+training, and overall operating costs to support the implementing entity in project management,
+communications, and implementation activities, including for, but not limited to, monitoring and
+evaluation, reporting, audits, procurement, financial management, environmental and social
+management, feedback and grievance redress mechanism, citizen engagement activities
+including beneficiary surveys, and project communication outreach services. The component will
+also finance the operating costs for maintaining a fully staffed and equipped project implementing
+team housed within the MLSA.
+
+1.3 Implementing Agency
+The Project will have two implementing agencies: MLSA will be in charge of implementing Component 1
+and Component 3 activities3 and NMC will be in charge of implementing Component 2. The PIT under
+MLSA will utilize project management, monitoring and evaluation support provided under Component 3
+for its activities.
+
+
+
+
+2
+ For single family homes, the CoUD makes freely available standardized template designs that are code compliant and can be customized
+for specific site conditions by a licensed technical design firm and subsequently approved by an independent expert review.
+3
+  The MLSA is responsible for the implementation of the both the Government Decree N 1763-L, December
+2023 governing the implementation of the cash assistance program and the State Assistance Program for Housing
+for Displaced Families (N 710-L, 16 May 2024) and its subsequent regulation (N 989-L, 14 June 2024).
+An inter-ministerial steering committee (ISC) will be established by Decision of the Deputy Prime Minister
+(DPM) prior to loan effectiveness. The ISC will be chaired by the DPM. It will comprise relevant ministries
+and agencies that are directly involved, or with delegated responsibilities, in the implementation of the
+refugee HSP and housing sector activities overall including the Ministry of Finance (MoF), MLSA, Central
+Bank of Armenia (CBA), NMC, and Committee of Urban Development (CoUD), among others. The ISC’s
+main purpose will be to provide strategic oversight over project implementation, provide high-level
+decision-making and guidance, and facilitate inter-ministerial and interagency cooperation considering the
+complex nature of the refugee HSP and housing sector in general. The SC will also be expected to serve as
+the platform for obtaining decisions on setting housing and finance policy priorities, and providing overall
+guidance to the MLSA and other stakeholders on the future development of appropriate institutional
+arrangements for the formulation and administration of future national housing sector policy.
+The MLSA will establish a PIT by Ministerial Decree prior to loan effectiveness. The PIT will be responsible
+for the implementation of Components 1 and 3 of the Project. The PIT will be comprised of civil servants
+and non-civil servants assigned from within the MLSA. The MLSA staff will undertake project activities
+alongside their regular responsibilities, including financial management, procurement, and environmental
+and social risk management. The coordinator of the Project, who will serve as the focal point for activities
+during implementation, will be a high-level staff member of the MLSA, and will be part of the PIT. The PIT
+will be maintained with technical specialists with adequate capacity in project management, FM,
+procurement, and E&S risk management. The capacities of the PIT will be supplemented with additional
+technical expertise (e.g., in housing sector policy) through the competitive hiring of consultants, as
+needed. Finally, the PIT will coordinate and work closely with relevant staff of the USS in charge of
+processing and channeling the refugee HSP funds.
+
+The NMC will assign a dedicated team in support of Component 2 activities prior to loan effectiveness.
+The team will comprise of assigned NMC senior staff with appropriate technical expertise in financial
+management, environmental and social risk management, and monitoring and evaluation. The team will
+be responsible for implementing Component 2 project activities and ensuring effective coordination with
+the PIT at MLSA in support of overall project supervision, reporting and evaluation activities. The team will
+also participate in implementation support missions to be held every six months.
+1.4 Purpose of the SEP
+The HOME Project is being prepared under the WB’s Environment and Social Framework (ESF). Per ESS10
+on Stakeholder Engagement and Information Disclosure, the implementing agencies should provide
+stakeholders with timely, relevant, understandable, and accessible information, and consult with them in
+a culturally appropriate manner, which is free of manipulation, interference, coercion, discrimination, or
+intimidation.
+
+This SEP prepared under the Project will be consulted on and disclosed. This SEP will be periodically
+reviewed, updated and improved to ensure that the information presented herein is consistent and is the
+most recent, as well as to ensure that the identified methods of stakeholder engagement are efficient and
+appropriate to the existing situation and context. The SEP will be updated to reflect on any major changes
+to the project-related activities and to its schedule, if any.
+2. Objective of SEP and Methodology
+
+
+2.1 SEP Objectives and Principles
+The overall objective of this SEP is to define a program for stakeholder engagement, including public
+information disclosure and consultation throughout the entire project cycle. The SEP outlines the ways in
+which the project team will communicate with stakeholders and includes a mechanism by which people
+can raise concerns, provide feedback, or make complaints about project activities.
+
+SEP serves the following objectives:
+
+
+    (i)         identify and analyze project stakeholders, including disadvantaged and vulnerable groups;
+    (ii)        design inclusive engagement processes that allow their views to be considered in project
+                decision-making;
+    (iii)       (iii) ensure timely and accessible disclosure of project information;
+    (iv)        (iv) define clear roles and responsibilities for implementing stakeholder engagement activities;
+                (v) establish a robust FGRM; and
+    (v)         (vi) monitor, evaluate, and report on the effectiveness of engagement throughout the project
+                cycle.
+
+To meet best practice approaches, the project will apply the following principles for stakeholder
+engagement:
+
+    ▪       Openness and life-cycle approach: Public consultations for the Project will be arranged during the
+            whole life cycle, carried out in an open manner, free of external manipulation, interference,
+            coercion, or intimidation.
+    ▪       Informed participation and feedback: Information will be provided to and widely distributed
+            among all stakeholders in an appropriate format; opportunities are provided for communicating
+            stakeholder feedback, and for analyzing and addressing comments and concerns.
+    ▪       Inclusiveness and sensitivity: Stakeholder identification is undertaken to support better
+            communications and build effective relationships. The participation process for the projects is
+            inclusive. All stakeholders always are encouraged to be involved in the consultation process. Equal
+            access to information is provided to all stakeholders. Sensitivity to stakeholders’ needs is the key
+            principle underlying the selection of engagement methods. Special attention is given to vulnerable
+            groups that may be at risk of being left out of project benefits, particularly women, the elderly,
+            persons with disabilities, low income HHs.
+    ▪       Closing the Loop - Providing Feedback to Stakeholders: As the Project will use the time and
+            knowledge of its stakeholders, providing meaningful feedback to stakeholders on how their
+            participation and feedback contributed to Project evolvement is crucial. The provision of feedback
+            will help the stakeholders to understand how they influenced the Project decisions and outputs
+            and will encourage their future participation in its activities. The record of all questions and
+            feedback provided will be properly maintained.
+2.2 Key Definitions
+Project stakeholders are defined as individuals, formal or informal groups and organizations, governmental
+entities whose interests or rights will be affected, directly or indirectly, by the HOME project, both
+positively and negatively, and/or who may have an interest in Project implementation and who have the
+potential to influence the Project outcomes in any way.
+For the purposes of effective and tailored engagement, stakeholders of the proposed project can be
+divided into the following core categories:
+
+      ▪   Affected Parties: Persons, groups, and other entities within the Project Area of Influence (PAI)
+          that are directly influenced (actually or potentially) by the project and/or have been identified
+          as most susceptible to change associated with the project, and who need to be closely engaged
+          in identifying impacts and their significance, as well as in decision-making on mitigation and
+          management measures.
+      ▪   Other Interested Parties: Individuals/groups/entities that may not experience direct impacts
+          from the Project but who consider or perceive their interests as being affected by the project
+          and/or who could affect the project and the process of its implementation in some way.
+      ▪   Vulnerable Groups: Persons or groups who may be disproportionately impacted or further
+          disadvantaged by the project(s) compared with any other groups due to their vulnerable status,
+          and that may require special engagement efforts to ensure their equal representation in the
+          consultation and decision-making process associated with the project.
+3. Stakeholder Identification, Analysis and Engagement Methods
+
+
+3.1 Stakeholder Identification and Analysis
+The Project engages multiple stakeholders from government institutions, the private sector, civil society,
+international development partners, and the public. As presented in the above section, stakeholders are
+grouped into three categories: affected parties, other interested parties, and disadvantaged/vulnerable
+groups (see Table 1).
+
+
+3.1.1 Affected Parties and Other Interested Parties
+
+Affected Parties are those directly impacted by the Project and actively involved in its implementation.
+This group includes the GoA, the MLSA and its Unified Social Services (USS), refugee households eligible
+for cash assistance and/or HSP, current beneficiaries of such assistance, partner banks, the NMC, and the
+ADB. The direct beneficiaries of the Project are the estimated 115,000 refugees who were displaced after
+2020 and in September 2023, whose information was included in the official list of residents as of
+September 19, 2023. The estimated number of households is about 30,000 (using an average family size
+of 3.8), out of which approximately 13,000 – 15,000 households are estimated to be eligible for the refugee
+state housing support program. About 103,000 refugees have benefitted from temporary cash assistance.
+The Government of Armenia and its agencies directly or indirectly involved in housing will also benefit
+from the institutional development activities of the proposed project. Other Interested Parties are
+individuals, groups, or entities who may not be directly affected but whose interests could be influenced
+by the Project, or who may influence its implementation. These include other government agencies
+engaged in policy or oversight roles, civil society organizations (CSOs) active in refugee response,
+international organizations and development partners, the media, and the wider public.
+
+
+3.1.2. Disadvantaged/vulnerable Individuals or Groups
+The existing government cash assistance and housing programs, including HSP targeting refugees,
+primarily support housing ownership solutions for vulnerable groups. Currently cash assistance targets
+children under 18 years of age or people over 18 years of age receiving compulsory education, people 63
+years of age and older, those families who have lost their breadwinner, or people with certain disabilities.
+The current cycle of the refugee Social Assistance Program (SAP) support is expected to end by December
+2025, after which beneficiaries who qualify for needs-based assistance, such as the poor and vulnerable,
+will be transitioned to the relevant national social income-based assistance programs. HSP targets refugee
+households in need of housing, who do not own real estate in Armenia, have not received benefits under
+the 2020 housing program (N 169-L), and hold Armenian citizenship.
+Under HOME Project, disadvantaged and vulnerable groups are those who may face barriers to
+participation and therefore require special support or additional engagement channels to ensure their
+voices are heard and their needs addressed. This category includes, among others, low-income
+households, single-headed households (especially female-headed), persons with disabilities or chronic
+illness, elderly refugees without support networks, and refugees living in remote or rural areas with limited
+access to information and services.
+Table 1. Key Stakeholder Groups
+ Stakeholder Group              Interest & Description
+ Affected parties
+ GoA, MLSA & Unified Social     Responsible for cash assistance, government HSP and project design and
+ Services USS                   implementation. MLSA oversees policy, while USS (49 local offices) manages
+                                beneficiary registration, eligibility and disbursement.
+ Refugee Households             Primary beneficiaries of monthly cash assistance to cover rent, utilities, and
+                                basic consumption and government HSP.
+ Partner Banks & NMC            Provide financial products and services linked to housing programs. NMC
+                                manages mortgage financing.
+ ADB                            Co-financier of the Project through Program-Based Lending (PBL). Supports
+                                implementation and safeguards alignment alongside the WB.
+ Interested parties
+ Other Government Agencies      Contribute through policy alignment, data provision, and oversight. Includes
+                                ministries of Finance, Territorial Administration and Infrastructure, Migration
+                                and Citizenship Services (MCS) of the Ministry of Internal Affairs, and Urban
+                                Development Committee.
+ Civil Society &                Complement government support by offering housing repair, livelihoods, social
+ Humanitarian/Diaspora          services, and advocacy. Includes NGOs (e.g., UNHCR, Caritas, AGBU, Red Cross).
+ Organizations
+ Media                          Disseminates program information and shapes public awareness on eligibility,
+                                processes, and outcomes.
+ International Organizations    Provide funding, technical support, and complementary refugee response
+                                initiatives. Includes UNDP, UNICEF, UNHCR, GIZ, KfW, and others, as well as the
+                                Agence Française de Développement (AFD), that is preparing to provide
+                                additional credit financing to NMC in support of the refugee housing program.
+ Local Governments & Host       Facilitate local implementation and act as interface with refugees and host
+ Communities                    households at municipal level.
+ Construction & Valuation       Deliver technical services such as housing assessments, valuation, and
+ Companies                      renovations linked to housing support measures.
+ Vulnerable and disadvantaged groups
+ Disadvantaged & Vulnerable     At risk of exclusion and requiring tailored engagement: low-income
+ Groups                         households, persons with disabilities/elderly, single-headed households (esp.
+                                female-headed), those with limited financial literacy, and refugees in remote
+                                areas.
+
+
+A more detailed stakeholder analysis, including specific roles and characteristics of each group, is provided
+in Annex 1.
+3.2 Stakeholder Engagement Program
+
+3.2.1 Summary of Stakeholder Engagement done During Project Preparation
+During project preparation, consultations were carried out with a range of stakeholders to inform the
+design of the HSP and to ensure that both institutional perspectives and beneficiary needs were reflected
+in the Project design. MLSA and the WB conducted meetings with the International Organization for
+Migration (IOM), United Nations Development Programme (UNDP), United Nations High Commissioner
+for Refugees (UNHCR), Armenian General Benevolent Union (AGBU), Ameria Management Advisory, NGO
+Forum Armenia on Social Integration, as well as discussions with commercial banks on their participation
+in the refugee HSP.. Consultations have included alignment on targeting, assistance modalities, and
+protection considerations. Feedback highlighted gaps in refugee documentation, concerns about exclusion
+of rural households, and the need for clear communication on eligibility. The World Bank also coordinated
+with the AFD on the potential for additional external financing to NMC in support of the refugee housing
+program.
+In April-May 2025, A large-scale household survey was implemented among refugees and host
+communities by WB, providing an opportunity to systematically capture their views on housing, tenure
+security, access to services, and social cohesion. In parallel, focus group discussions and in-depth
+interviews were organized in selected communities including diverse stakeholders, including refugees,
+host community members, local government representatives, and civil society actors. The results of this
+engagement directly informed the housing project’s design, shaping interventions to be more responsive
+to refugee needs and priorities. Data revealed limited awareness of the HSP and difficulties in application
+processes
+Initial public information on the HSP has been also shared through USS offices. Several CSOs (e.g., Mission
+Armenia, Armenian Red Cross) have played a role in relaying information to refugees, especially those in
+shelters or outside Yerevan. Some NGOs have also collected feedback on barriers to access, such as lack
+of documentation or unclear eligibility rules.
+3.2.2 Stakeholder Engagement Methods and Approach
+
+Two general vectors of stakeholder engagement under the project will be carried out as follows:
+     ▪    Consultations with stakeholders and feedback collection throughout the entire project cycle
+     ▪    Awareness-raising activities on the HSP
+
+Communication and Outreach of HSP: The Government Housing Program targets refugees with housing
+needs, with government estimates indicating between 13,000–15,000 households requiring assistance.
+General eligibility criteria include: (i) not owning real estate in Armenia, (ii) not having received benefits
+under the 2020 housing program (N 169-L), (iii) not having two or more working-age family members
+residing abroad, and (iv) holding Armenian citizenship.
+
+A survey of 1,062 refugee households conducted in April–May 2025 found that while just over half of
+refugees report a functional understanding of the HSP, nearly half remain underinformed or unaware,
+limiting their ability to benefit from available support. Around 20% had little or no knowledge of the
+program, and 28% were only superficially informed. Awareness levels vary by household type and socio-
+demographic characteristics: female-headed households, older individuals (55+), those with lower
+education, and refugees living in rural areas are significantly less familiar with the program compared to
+male-headed, middle-aged, more educated, and urban-based households. These gaps highlight the need
+for targeted outreach to ensure equitable access and understanding across all refugee groups.
+
+Engagement with beneficiaries will combine multiple channels to ensure inclusive, accessible, and two-
+way communication (Table 2):
+
+    ▪    Outreach through USS offices and CSOs: Outreach will be carried out through the 49 branches of
+         the Unified Social Services (USS) network via face-to-face consultations, awareness raising
+         sessions and information boards. Printed materials (posters, flyers, leaflets) will be distributed in
+         refugee-populated communities through USS offices, municipalities, and CSOs.
+    ▪    Targeted outreach to vulnerable groups: CSOs, social workers, and community volunteers will
+         provide direct contact with vulnerable and harder-to-reach groups, such as women-headed
+         households, the elderly, and rural residents.
+    ▪    Mass media campaigns: TV, radio, and social media will be used to expand the program’s reach
+         and visibility.
+    ▪    Digital engagement: Regular updates will be provided on MLSA’s website and dedicated social
+         media pages, using accessible formats such as infographics and video explainers. Some
+         information is already available on the MLSA website and will be further expanded.
+    ▪    Information sessions: USS offices and partner CSOs will host regular sessions where applicants
+         can ask questions and receive tailored guidance.
+    ▪    Grievance redress and appeals: Beneficiaries will be able to submit grievances or appeals through
+         the Government’s 114 hotline, USS offices, and governmental e-request portal, as well as other
+         grievance submission channels specified in Chapter 5 of this SEP.
+
+To complement these ongoing engagement methods, two perception surveys will be carried out among
+beneficiaries:
+
+    ▪    Mid-project perception survey: Conducted midway through implementation to assess awareness
+         of eligibility and procedures, satisfaction with transparency and fairness, adequacy of
+         communication channels, and accessibility of grievance redress. Findings will inform adjustments
+         in outreach and grievance handling during implementation.
+    ▪    End-of-project perception survey: Conducted at completion to evaluate overall satisfaction with
+         housing support, perceptions of fairness and timeliness, and effectiveness of engagement and
+         communication activities. The results will generate lessons for strengthening future housing and
+         social protection programs.
+
+MLSA, through its 49 USS offices, will lead communication and outreach efforts. Within the first three
+months of project implementation, MLSA will prepare a Communication and Outreach Plan (COP) that
+will ensure:
+     ▪ 114 hotline operators are trained to respond effectively to refugee housing queries.
+     ▪ Awareness campaigns are implemented via TV, radio and social media.
+     ▪ Dedicated outreach to vulnerable groups (female-headed households, elderly, persons with
+        disabilities, rural communities, etc.) through partnerships with CSOs and training of USS of social
+        workers.
+     ▪ Regular monitoring of outreach effectiveness, with adjustments informed by survey findings,
+        consultations, and feedback through the FGRM.
+
+Table 2. Beneficiary engagement methods
+                                                                               Frequency /
+        Engagement Method                        Target Group(s)                             Responsible Party
+                                                                                  Timing
+ Face-to-face         consultations,    Refugee households, applicants        Continuous     MLSA, USS offices
+ individual outreach, info boards
+ at USS offices
+ Printed     outreach       materials   Refugee households in urban & rural   Annual / as    MLSA PR Dept. /
+ (posters, flyers, leaflets)            areas                                 updated        USS / CSOs
+ Targeted outreach by CSOs, social      Vulnerable groups (women-headed       Continuous     CSOs / Social
+ workers, volunteers                    HHs,      elderly,    persons with                   workers / USS
+                                        disabilities, rural HHs)
+ Mass media campaigns (TV,           General      public,     refugee    Semi-annual /     MLSA PR Dept. /
+ radio, social media)                communities                         as needed         PIT
+ Digital engagement (website,        Tech-connected refugees, younger    Continuous        MLSA PR Dept.
+ social       media       updates,   groups
+ infographics, videos)
+ Information sessions at USS         Applicants, community members       Quarterly or as   USS     /     Local
+ offices & municipalities                                                needed            authorities
+ FGRM & appeal mechanisms            All beneficiaries and applicants    Continuous        MLSA, USS
+ (hotline 114, USS reporting
+ channels)
+ Mid-project perception survey       Beneficiaries of housing program    Year 2            Independent
+                                                                                           consultant / MLSA
+ End-of-project perception survey    Beneficiaries of housing program    Final year        Independent
+                                                                                           consultant / MLSA
+
+
+
+
+Engagement with Host Communities: While the Project primarily targets newly arrived refugees, it is
+important to recognize that housing shortages and substandard living conditions are also critical issues for
+host communities. Approximately 20,000 households in Armenia remain in temporary or inadequate
+housing, many of whom are long-standing vulnerable groups, including families displaced by the 1988
+Spitak earthquake, earlier refugee flows from Azerbaijan, Syria, Lebanon, and those affected by the 2020
+war.
+
+At the same time, existing housing programs in Armenia (about 14 in total) primarily support ownership
+solutions for specific groups. Eligibility criteria are defined by law and often target professional categories
+(e.g., sportsmen, artists, civil servants) or specific vulnerable groups (families with children, persons with
+disabilities, conflict-displaced households). However, these programs are heavily concentrated in Yerevan,
+omit large segments of underhoused populations (such as the elderly and people in need), and are limited
+in scale due to high subsidy costs and ad-hoc funding availability.
+
+As a result, host communities facing long-standing housing shortages may feel excluded or disadvantaged
+compared to newly arrived refugee households. To address this risk and maintain social cohesion, the SEP
+will:
+
+    ▪   Engage host communities in consultations to ensure their concerns about fairness, inclusion, and
+        access to housing support are heard and considered.
+    ▪   Communicate transparently about the scope and limitations of the Project, clarifying eligibility
+        and highlighting that refugee-targeted measures are complementary to, not replacements for,
+        national housing programs.
+    ▪   Strengthen awareness of existing government housing support schemes for vulnerable host
+        groups, while acknowledging their limitations and the need for more inclusive approaches.
+    ▪   Provide feedback mechanisms (via the FGRM) that host communities can use to voice grievances
+        or propose improvements to ensure equitable access to information and services.
+    ▪   Promote dialogue on how lessons learned from the Project can inform the Government’s efforts
+        to move from fragmented, ad-hoc housing schemes toward a more comprehensive, harmonized
+        Housing Strategy.
+Project SE activities with other stakeholders: Beyond beneficiary engagement, the Project will maintain
+continuous dialogue and coordination with institutional stakeholders, civil society, and development
+partners to ensure effective program implementation, alignment of activities, and transparency.
+Engagement will include:
+   ▪   Interagency coordination meetings: Regular consultations with the MoF, Urban Development
+       Committee, MCS, Cadastre Committee, and other relevant agencies to harmonize housing support
+       measures and address policy and technical gaps.
+   ▪   Financial sector engagement: Ongoing collaboration with the NMC and participating banks to
+       align program eligibility, streamline application procedures, and ensure fair treatment of
+       applicants. These meetings will also serve to monitor bank-level grievance handling and appeals
+       procedures.
+   ▪   CSO and humanitarian partner coordination: Periodic roundtables with NGOs, diaspora
+       organizations, and international agencies (e.g., UNHCR, UNICEF, GIZ, KfW) to avoid duplication,
+       exchange lessons, and strengthen outreach to vulnerable groups.
+   ▪   Media engagement: Proactive engagement with national and local media outlets to ensure
+       accurate reporting on eligibility, procedures, and program achievements, including press briefings
+       and provision of media kits.
+   ▪   Local government collaboration: Municipalities and community councils will be engaged through
+       working meetings to facilitate local outreach and information dissemination.
+   ▪   Knowledge-sharing with development partners: Regular technical meetings with the WB, ADB,
+       and other partners to share progress, safeguard monitoring findings, and lessons learned for
+       future housing programs.
+Table 3. Stakeholder Engagement Plan
+                            Estimated            Topic of Consultation /
+    Project Stage                                                                      Method Used                 Target Stakeholders          Responsibilities
+                        Date/Time Period                Message
+ Project Preparation    Prior          to   Project objectives, eligibility     National       consultation      GoA (MLSA, MoF, Urban         MLSA / PIT, WB
+                        effectiveness       criteria for HSP, roles of          meetings,      inter-agency      Development                   team
+                                            MLSA/USS, scope of refugee          coordination    workshops,       Committee,     Cadastre),
+                                            support                             information       disclosure     CSOs,       development
+                                                                                (MLSA website)                   partners, media
+
+ Early                  First 3 months of   Launch of Communication &           Training          workshops,     Refugee households, host      MLSA PR Dept.,
+ Implementation         implementation      Outreach Plan; training of          TV/radio spots, social media     communities, USS staff,       USS, CSOs
+                                            hotline     114      operators;     posts, printed flyers, posters   CSOs, media outlets
+                                            dissemination of eligibility and    at USS offices
+                                            application        procedures;
+                                            awareness campaigns
+
+ Continuous             Throughout          Ongoing      awareness-raising,     Face-to-face consultations,      Refugee       households,     MLSA, USS, CSOs,
+ Implementation         project     cycle   updates on eligibility, grievance   outreach via 49 USS offices,     vulnerable         groups     local authorities
+                        (2025–2029)         channels, status of housing         CSO & volunteer outreach,        (female-headed       HHs,
+                                            applications                        community info sessions,         elderly,   rural),   host
+                                                                                media campaigns, digital         communities,
+                                                                                platforms                        municipalities
+
+ Mid-project Review     Year 2 (2027)       Perception     survey        on     Household survey, focus          Refugee   beneficiaries,      Independent
+                                            awareness,         satisfaction,    groups,         targeted         host communities              consultant   with
+                                            fairness,  effectiveness      of    consultations                                                  MLSA oversight
+                                            communication and grievance
+                                            handling
+
+ Ongoing                Semi-annual / as    Policy alignment, technical         Interagency         meetings,    MoF,       Urban      Dev.    MLSA / PIT
+ Coordination with      needed              gaps,     financial   sector        financial sector roundtables,    Committee,           NMC,
+ Institutions   &                           cooperation, monitoring of          CSO & humanitarian partner       participating banks, CSOs,
+ Partners                                   bank-level GRM, knowledge-          roundtables,        technical    UNHCR, UNICEF, GIZ,
+                                            sharing                             meetings with WB/ADB             diaspora              orgs,
+                                                                                                                 development partners
+
+ Late                   Final year (2029)   Evaluation     of      outreach     End-of-project perception        Refugee households, host      Independent
+ Implementation                             effectiveness,       beneficiary    survey,       consultations,     communities, GoA, CSOs,       consultant, MLSA /
+                                                                                                                                               PIT
+                                      satisfaction,   lessons     for   dissemination of survey         media,     development
+                                      Housing Strategy                  results, press briefing         partners
+
+Project Completion   End of project   Results achieved, lessons         Public        consultations,    Refugees,          host   MLSA,   PIT,   WB
+/ Closure            (2029–2030)      learned, transition to national   dissemination    of     final   communities,       GoA    team
+                                      housing strategy                  reports, knowledge-sharing      institutions,    media,
+                                                                        events                          development partners
+3.2.3 Information Disclosure
+The MLSA is committed to ensuring that all stakeholders, particularly refugee households and other
+vulnerable groups, have timely, accurate, and accessible information about the Government HSP and
+related project activities.
+Information on the HSP is already publicly available on the MLSA’s official website, including eligibility
+criteria, application procedures, and relevant policy documents. To complement this, MLSA has also
+prepared and disseminated video materials that provide step-by-step guidance to beneficiaries on how to
+apply for housing support, ensuring that the process is understandable and accessible for diverse
+audiences.
+Throughout the Project lifecycle, MLSA will continue to disclose key documents and updates, including but
+not limited to:
+    ▪   The SEP, Environmental and Social Commitment Plan (ESCP), Environmental and Social (E&S) risk
+        screening and management procedures, and other Project documents.
+    ▪   Updates on program implementation, including progress reports and monitoring results.
+    ▪   Guidance materials for beneficiaries, including visual, audio, and written formats.
+    ▪   Summaries of grievance and appeals procedures, including the role of the Interagency
+        Commission on Appeals (see Chapter 5).
+Information will be disclosed using multiple channels to maximize outreach and inclusivity:
+    ▪   Digital platforms: MLSA’s official website and social media pages will be regularly updated with
+        program information, infographics, and video explainers;
+    ▪   Mass media: TV, radio, and press releases will disseminate key messages on program eligibility
+        and procedures;
+    ▪   Local outreach: Posters, flyers, and leaflets will be distributed through USS offices, municipalities,
+        and CSO partners;
+    ▪   Community engagement: Information sessions and public meetings will be organized at the
+        municipal level to provide opportunities for direct interaction, questions, and feedback.
+Special attention will be given to tailoring information disclosure for vulnerable groups and their
+engagement, such as women-headed households, persons with disabilities, elderly beneficiaries, and
+refugees in rural areas, to ensure equitable access to information and program benefits, as follows:
+    ▪   Women-headed households: Targeted outreach through women’s NGOs and community groups,
+        as well as distribution of simplified written materials and video explainers in accessible formats.
+    ▪   Persons with disabilities: Information will be made available in accessible formats (large print,
+        easy-to-read, and audio-visual materials with captions and sign-language interpretation where
+        possible). Physical accessibility of information boards and USS offices will be ensured.
+    ▪   Elderly beneficiaries: Outreach through community meetings, local social workers, and
+        volunteers, complemented by printed leaflets and guidance provided directly at USS offices and
+        municipalities.
+    ▪   Refugees in rural or remote areas: Outreach through USS field visits, partnerships with CSOs, and
+        use of local TV, radio and community centers to disseminate program updates and application
+        guidance.
+MLSA commits to updating its website and social media platforms at least quarterly with program
+updates, including data on beneficiaries reached, grievance resolution trends, and any changes to
+eligibility rules. Information boards at USS offices will be updated monthly, and printed outreach materials
+will be refreshed annually or when eligibility criteria are modified. Media briefings will be held semi-
+annually to ensure consistent, accurate coverage.
+4. Resources and Responsibilities for Implementing Stakeholder Engagement Activities
+4.1 Management Functions and Responsibilities
+The MLSA, through the PIT and support of the Public Relations Department and USS, will implement
+and oversee stakeholder engagement activities. The MLSA is responsible for implementing this SEP
+related to Component 1 and NMC will be responsible for SE activities under Component 2. MLSA will
+establish a PIT comprised of civil servants and non-civil servants assigned from within the MLSA. The
+Project Coordinator, engaged under PIT, will be responsible for managing and overseeing the
+implementation of SE activities, monitoring, and reporting, as well as ensuring the quality of the SEP
+activities delegated to respective departments of the MLSA. For SEP implementation, MLSA will hire or
+assign a Stakeholder Engagement and Communications Specialist (SECS). As for Component 2, NMC will
+use in-house capacities to implement SE activities.
+The USS offices will serve as the primary local-level interface with beneficiaries and will ensure consistent
+communication, information dissemination, and grievance intake.
+Key roles and responsibilities are as follows:
+
+    ▪   MLSA, through PIT– oversees SEP implementation, ensures compliance with ESS10, and
+        coordinates with the WB.
+    ▪   Stakeholder Engagement and Communications Specialist – plans, manages, and monitors SE
+        activities, prepares reports, and maintains records of engagement.
+    ▪   Public Relations Department – leads mass media campaigns, digital engagement, and production
+        of outreach materials.
+    ▪   USS offices – manage day-to-day engagement with beneficiaries, including information
+        dissemination, consultations, grievance handling, and outreach to vulnerable groups.
+    ▪   Partner Banks and National NMC – engage with beneficiaries on financial services, inform
+        applicants of grievance/appeal options, and report grievances to MLSA.
+    ▪   CSOs and NGOs – support outreach to vulnerable groups and provide feedback from the
+        community to MLSA and USS.
+Detailed roles and responsibilities of the key actors involved in SE implementation is presented in Annex
+2.
+
+The Project Coordinator, based within the PIT of MLSA, will:
+    •   Lead and oversee SEP and COP implementation under Component 1, ensuring alignment with
+        project objectives and ESS10 requirements.
+    •   Manage and coordinate the stakeholder engagement activities carried out by MLSA departments,
+        the Public Relations Department, and the USS.
+    •   Ensure quality and consistency of all SEP activities, providing guidance to responsible units and
+        resolving implementation challenges.
+    •   Monitor progress and results, including timely collection of stakeholder feedback and its
+        integration into project implementation.
+    •   Prepare and submit reports on stakeholder engagement to the WB and other oversight bodies.
+    •   Facilitate coordination with NMC, to ensure SEP activities under Component 2 complement and
+        align with those under Component 1.
+    •   Supervise and support SECS, providing strategic direction and ensuring adequate resources for
+        effective communication and engagement.
+The SECS, either hired or assigned by MLSA, will:
+    •   Operationalize the SEP and COP, ensuring timely planning and implementation of outreach,
+        consultation, and communication activities under Component 1.
+    •   Develop communication materials (press releases, brochures, website content, social media
+        updates) in collaboration with the Public Relations Department.
+    •   Organize and facilitate consultations with stakeholders, including vulnerable groups.
+    •   Coordinate with USS offices to disseminate project information and collect feedback at the local
+        level.
+    •   Maintain and update the FGRM communication channels, ensuring visibility and accessibility to
+        beneficiaries.
+    •   Document and report on consultations, grievances received, and stakeholder feedback, feeding
+        results into the project’s monitoring system.
+    •   Support capacity building of MLSA staff and USS representatives on stakeholder engagement
+        practices.
+    •   Work closely with the Project Coordinator to ensure consistency, quality, and responsiveness of
+        all SE activities.
+The SE activities will be documented through standardized templates and tools, including:
+
+    ▪   Consultation records (meeting notes, attendance sheets, feedback forms) (See Annex 4).
+    ▪   Grievance logs and resolution tracking within the MLSA FGRM database (See Annex 3).
+    ▪   Biannual SE progress reports prepared by the PIU.
+    ▪   Public updates disclosed through MLSA’s website, social media, and information boards at USS
+        offices.
+
+
+4.2 Resources
+The budget for the SEP and COP will be covered under Component 3: Project Management, Monitoring
+and Evaluation, which finances overall project management costs, including communications, outreach,
+training, and expenditures related to meeting WB E&S requirements.
+
+Indicative SE budget is presented below and is indicative. The actual costs may be adjusted during
+implementation based on project needs, scale of outreach, and evolving priorities. This budget covers
+salaries of key staff (Project Coordinator and SECS), communication and outreach campaigns, beneficiary
+perception surveys, trainings, and consultation events. Adjustments may also be made to reflect additional
+engagement with vulnerable groups, unforeseen outreach requirements, or expanded use of digital
+platforms. The overall budget for SEP activities is estimated of USD 300,000.
+Table 4. Indicative Stakeholder Engagement Budget
+Budget Category                            Quantity     Unit Costs      Times/Years Total Costs      Remarks
+                                *
+1. Estimated staff salaries and related expenses
+                                                                                                Estimated at
+1a. Stakeholder Engagement &                                                                      mid-level
+                                               1       $12,000/year       5 years     $60,000
+Communications Specialist                                                                          national
+                                                                                               consultant rate
+                                                                                                   Share of
+                                                       $24,000/year                              salary/time
+1b. Project Coordinator – % time on SEP     0.3 FTE                       5 years     $36,000
+                                                        (pro-rata)                            dedicated to SEP
+                                                                                                  oversight
+                                                                                              Travel to regions
+1c. Travel costs for staff (Coordinator,
+                                           Lump sum    $3,000/year        5 years     $15,000 for consultations
+SECS, USS outreach)
+                                                                                                & monitoring
+2. Communication campaigns
+                                                                                              Printed outreach
+2a. Posters, flyers, leaflets              Lump sum       $5,000          1 year       $5,000
+                                                                                                  materials
+                                                                                                 Awareness-
+                                                                                              raising, eligibility
+2b. Social media & media campaigns         Lump sum      $10,000          2 years     $20,000
+                                                                                                 info, FGRM
+                                                                                                 promotion
+                                                                                                 Awareness-
+2c. TV and Radio campaigns                 Lump sum      $40,000          1 year      $40,000 raising, eligibility
+                                                                                                     info
+3. Trainings
+                                                                                                  Strengthen USS
+3a. Training of USS staff                      2      $2,000/training     1 year       $4,000        outreach
+                                                                                                     capacities
+                                                                                                    Specialized
+                                                                                                    training for
+                                                                                                     providing
+                                                                                                  information on
+3b. Training of 144 hotline staff              2      $1,000/training     1 year       $2,000
+                                                                                                   HSP, handling
+                                                                                                      sensitive
+                                                                                                  grievances and
+                                                                                                      inquiries
+                                                                                                    Delivered to
+3c. Training on SEA/SH-sensitive                                                                    MLSA, USS,
+                                               2          $1,000          1 year       $2,000
+grievance handling                                                                                     hotline
+                                                                                                     operators
+4. Beneficiary surveys
+                                                                                                  Capture
+                                                                                                 beneficiary
+                                                                                                satisfaction|
+4a. Mid-project perception survey              1         $30,000          Year 2      $30,000
+                                                                                              Conducted by an
+                                                                                                independent
+                                                                                                 consultant
+                                                                                          Assess outcomes
+                                                                                           of engagement
+                                                                                          and information
+4b. End-of-project perception survey      1          $30,000         Year 5       $30,000   campaigns |
+                                                                                          Conducted by an
+                                                                                            independent
+                                                                                             consultant
+7. Other expenses
+                                                                                             National and
+7a. Consultation workshops /                                                                    regional
+                                        2/year   $2,500/workshop     4 years      $20,000
+roundtables with CSOs & partners                                                              stakeholder
+                                                                                             consultations
+                                                                                              Includes hall
+7b. Public information sessions                                                                  rental,
+                                        5/year    $500/session       5 years      $12,500
+(municipal/community level)                                                                  refreshments,
+                                                                                                materials
+                                                                                            Dissemination of
+7c. Knowledge-sharing/lessons learned
+                                          2          $3,000        Years 3 & 5     $6,000   results and best
+events
+                                                                                                 practices
+                                                                                 ≈$280,000-     Indicative
+                    TOTAL STAKEHOLDER ENGAGEMENT BUDGET
+                                                                                  $300,000        budget
+*indicative and subject to revision during implementation
+5. Feedback and Grievance Redress Mechanism
+5.1 Government Systems on Grievance Resolution
+The primary objective of the FGRM is to facilitate the timely, effective, and efficient resolution of
+complaints and grievances in a manner that is fair, transparent, and satisfactory to all parties involved. The
+project will build on the existing 114-hotline of the MLSA, the network of local offices of the USSs to ensure
+accessible channels for grievance intake and response, as well as through unified platform for electronic
+inquiries (e-request.am) that allows citizens to send electronic requests to state bodies through a one-
+window format. The Interagency Commission on Appeals for Housing Support Program Beneficiaries,
+established by Government Decree N901-Լ (July 3, 2025) will also act as a key grievance redress
+mechanism for refugees and vulnerable groups denied housing assistance.
+
+All grievance resolution procedures will be implemented in line with the Law on Freedom of Information
+(2003), which guarantees individuals the right to request and access information from public authorities.
+In accordance with the law:
+     • Complaints and requests must be registered, classified, and responded to within set timelines (5
+         days for standard requests; up to 30 days if additional processing is required, with written notice
+         of the delay provided within 5 days).
+     • Rejections must be justified in writing, citing the legal basis, and must inform complainants of their
+         right to appeal the decision.
+     • Authorities are obliged to ensure accessibility, transparency, accuracy, and completeness of
+         information provided, while safeguarding confidentiality and personal data.
+
+The Interagency Commission on Appeals for Housing Support Program Beneficiaries provides an
+additional grievance redress channel for families whose applications for the Government’s HSP were
+rejected, as specified below:
+    • Mandate: Review individual appeals, verify supporting documents, and address gaps or
+        inaccuracies that may have led to unjust rejections.
+    • Composition: Chaired by the Deputy Minister of Labor and Social Affairs, with participation from
+        deputy heads or advisors of:
+             o MLSA
+             o Ministry of Territorial Administration and Infrastructure
+             o MCS (Ministry of Internal Affairs)
+             o National Security Service
+             o Cadastre Committee
+
+    •   Functions and Procedures:
+           o Appeals must be submitted within two months of rejection.
+           o Sessions are held at least every two months, or more frequently if needed.
+           o The Commission may request data from relevant state bodies and invite experts for case
+               assessments.
+           o Decisions granting or denying beneficiary status are issued in writing and delivered to
+               applicants within three working days after the session.
+
+Participating banks: All five participating banks have established internal procedures for managing
+customer grievances. Under the Project, these procedures will be aligned with the overall FGRM to ensure
+consistency and fairness. In cases where applicants are not satisfied with the information or decisions
+provided, the banks will be required to:
+
+    •   Inform beneficiaries of their right to appeal through the FGRM or Interagency Commission on
+        Appeals;
+    •   Provide clear guidance on the steps, timelines, and documentation required for filing an appeal
+        both internally and through FGRM;
+    •   Refer beneficiaries to the relevant USS office or MLSA for further assistance, including support in
+        preparing and submitting appeals.
+
+The Participating Bank will be required to report to MLSA on the number, type, and status of grievances
+received and handled, including the number of cases referred to the USS or the Appeals Commission.
+
+National Mortgage Company: As an implementing agency for Component 2, the NMC will follow its
+internal Grievance Redress Mechanism (GRM) to be established under its ESMS. This includes registering
+and addressing grievances in line with the ESMS manual, that has been developed and is pending internal
+approval. According to the ESMS manual, within the scope of its activities, NMC will establish and
+implement a transparent, fair and accessible GRM for the resolution of complaints submitted by
+beneficiaries of programs jointly implemented with the PFIs. NMC receives grievances through multiple
+channels, including an e-mail address or other official written means of communication. NMC will establish
+a Grievance Redress Committee (GRC) to respond proactively and promptly to Stakeholder Complaints.
+GRC meetings are convened within 15 working days of receiving a Complaint, in accordance with the
+procedure established by NMC. GRC decisions are made by a simple majority of votes.
+
+The GRM includes the following stages:
+    •   In case of receiving a Complaint via NMC's e-mail or any other written communication channel
+        NMC registers the relevant Complaint in the "Electronic Complaint Register" and submits it for
+        review by the GRC.
+    •   Receiving the Complaint, the GRC examines the factual and legal circumstances underlying it,
+        contacting the Beneficiary and the PFI, if necessary, to clarify them.
+    •   Within 15 days of receiving the complaint, the Chairman of the GRC convenes a GRC meeting,
+        during which, because of the decision made, the GRC makes a proposal for resolving the
+        Complaint, which is presented to the Executive Director of NMC.
+    •   If the proposal is accepted by NMC's executive director, a response letter is prepared, which is sent
+        to the Beneficiary via e-mail.
+
+Though NMC’s GRM is mostly oriented to PFIs, Project beneficiaries may also apply to NMC for loan-
+related issues that are beyond NMCs mandate or jurisdiction to address. For such cases NMC will register
+the grievances in their GRM log and provide beneficiaries with information on Project FGRM, including
+their rights to appeal. NMC will report data on grievances to MLSA on a quarterly basis for MLSA to
+consolidate all grievance in a single log.
+
+NMC’s GRM will be equipped to receive, register, and facilitate the resolution of SEA/SH complaints,
+including through the referral of survivors to relevant gender-based violence service providers, all in a safe,
+confidential, and survivor-centered manner.
+5.1. Key Elements of FGRM under the Project
+The table below outlines the key elements of the FGRM that will be applied under the Project.
+
+Table 5. FGRM Elements
+                                                                                      Time
+        Step                            Description of Process                                    Responsibility
+                                                                                     Frame
+ FGRM                    The FGRM will function at national and local levels.      Continuous   MLSA and USSs
+ implementation          Designated focal points in USS local offices will serve
+ structure               as the first point of contact, with oversight and
+                         coordination at the MLSA level.
+                         Complaints may be submitted through:                      Continuous   MLSA and USSs
+                              ▪ 114 toll-free hotline / SMS
+                              ▪ www.e-request portal
+                              ▪ Email: info@mlsa.am
+                              ▪ Written letter to the Ministry or USSs:
+ Grievance uptake
+                                   Government Bld. 3
+                              ▪ Walk-ins recorded in logbooks or
+                                   suggestion boxes at MLSA and USS local
+                                   offices
+                              ▪ MLSA social media pages
+ Sorting and             Complaints are forwarded to the relevant                  Upon         MLSA and USSs
+ processing              departments, logged into the central database, and        receipt
+                         categorized by type (eligibility, exclusion, service
+                         quality, SEA/SH, etc.).
+ Acknowledgment          Receipt of the grievance is acknowledged in writing       Within 5     MLSA and USSs
+ and follow-up           or verbally to the complainant. In line with the Law      days
+                         on Freedom of Information (2003), acknowledgment
+                         and/or response are provided within 5 days.
+ Verification,           Complaints are investigated by the responsible unit       5–30 days    MLSA/USSs and
+ investigation,          or Interagency Commission on Appeals, depending                        other relevant
+ action                  on the nature of the complaint. Proposed                               agencies,
+                         resolutions are formulated and communicated to                         Interagency
+                         the complainant. If additional processing is required,                 Commission on
+                         the complainant is notified within 5 days, and                         Appeals, PFIs, NMC
+                         resolution is provided within 30 days as per the Law
+                         on Freedom of Information (2003).
+ Monitoring and          Data on grievances are consolidated in a central          Quarterly    MLSA, Project
+ evaluation              database and reported quarterly to MLSA higher                         Coordinator, SECS
+                         management and the WB. Trends are analyzed to
+                         improve responsiveness and service delivery.
+ Provision of            Complainants’ feedback on satisfaction with               After        MLSA, Project
+ feedback                complaint resolution is systematically collected to       resolution   Coordinator, SECS /
+                         strengthen accountability.                                             USSs focal points
+ Training                Regular capacity-building for USS staff, call center      Annual,      MLSA and USSs
+                         staff on grievance management, with emphasis on           upon need    Project Coordinator,
+                         handling SEA/SH cases.                                                 SECS
+
+Handling of Sensitive Complaints: Grievances related to Sexual Exploitation and Abuse/Harassment
+(SEA/SH) will be registered, tracked, and addressed with due attention to confidentiality and sensitivity.
+While grievance resolution procedures generally follow the Law on Freedom of Information (2003) to
+ensure transparency and accountability, complaints related to SEA/SH will be managed under a survivor-
+centered and confidential protocol. Such cases will not be disclosed through public reporting mechanisms
+and will instead be referred to specialized service providers in line with WB’s Good Practice Note on
+SEA/SH.
+
+The MLSA is responsible for managing SEA/SH cases and will ensure coordination with specialized local
+NGOs that provide survivor support services. One of the key referral partners is the Women’s Support
+Center (WSC), which operates Armenia’s first confidential domestic violence shelter. WSC offers 24/7
+emergency shelter, psychological counseling, legal support, and reintegration assistance to women and
+children at risk, accessible via hotline 099 88 78 08. The shelter maintains strict confidentiality of its
+location and provides a safe environment managed by trained female staff. Referrals from the Project
+FGRM to WSC and other specialized providers will always respect survivor consent and confidentiality
+protocols, ensuring protection, dignity, and access to appropriate services.
+Appeals and Legal Recourse: If a complainant is not satisfied with the resolution provided through the
+FGRM, they may file an appeal. Once all possible project-level solutions are exhausted, complainants will
+be informed of their right to legal recourse under Armenian legislation.
+
+Non-Retaliation Commitment: The WB and the Borrower maintain a strict zero-tolerance policy for
+reprisals or retaliation against individuals or groups who raise grievances, provide feedback, or express
+their views about Bank-financed projects.
+
+Communicating FGRM and appeal procedures to beneficiaries: The MLSA 114 hotline and the e-request
+portal are already well publicized and will be further strengthened under the Project. In addition, the
+beneficiary outreach and awareness-raising campaign will ensure that affected populations are informed
+of their right to appeal in cases of rejection from the HSP. Information on the role and procedures of the
+Interagency Commission on Appeals will be integrated into the broader project communication and
+outreach activities, including public information materials, information sessions, and the MLSA/USS
+communication channels.
+    • Coordination: Communication efforts will be closely coordinated with the grievance mechanisms
+         of MLSA and USS to avoid duplication, ensure consistency of messages, and provide beneficiaries
+         with clear and reliable information.
+    • Unified Social Services (USS): Local USS office staff working directly with beneficiaries will also
+         disseminate information on appeal procedures during their interactions, ensuring that
+         beneficiaries are aware of available redress channels and receive assistance in preparing and
+         submitting appeals where needed.
+6. Monitoring and Reporting
+
+6.1. Monitoring of SEP
+Implementation of the SEP will be systematically monitored to ensure that stakeholder engagement
+activities are inclusive, effective, and responsive to community needs. Monitoring will focus on both the
+quantity and quality of engagement, as well as the accessibility and performance of the FGRM.
+Key indicators to be monitored during the SEP implementation will include:
+    •   Stakeholder engagement activities: number of consultations and outreach campaigns carried out
+        through USS offices, municipalities, CSOs, MLSA and digital platforms.
+    •   Information dissemination: number of outreach materials distributed (posters, leaflets, social
+        media posts), media campaigns implemented, and information sessions held.
+    •   FGRM performance: number of grievances and appeals submitted to USS offices, the 114 hotline,
+        the Interagency Commission and other channels; proportion of grievances accepted, resolved, and
+        addressed within agreed timelines.
+    •   Beneficiary feedback: results of mid-project and end-of-project perception surveys, capturing
+        satisfaction with transparency, fairness, access to information, and responsiveness of grievance
+        mechanisms.
+    •   Inclusion of vulnerable groups: proportion of engagement activities specifically targeting women-
+        headed households, elderly beneficiaries, and refugees in rural areas.
+Sampe of indicators to be tracked in biannual progress reports on SE implementation are listed below.
+MLSA will elaborate the list of indicators to be reported aligned with Project Result Framework and
+incorporate into Communication and Outreach Plan:
+
+    ▪   Number of consultations and outreach campaigns carried out annually.
+    ▪   Percentage of grievances resolved within 30 days.
+    ▪   Percentage of women-headed households participating in consultations.
+    ▪   Number of outreach materials distributed (posters, leaflets, videos).
+    ▪   Frequency of website and social media updates (minimum quarterly).
+    ▪   Beneficiary satisfaction levels from mid-term and end-of-project perception surveys.
+
+Biannual progress reports will be prepared by the MLSA, summarizing engagement activities, grievance
+trends, and key lessons learned. These reports will be shared with WB and disclosed publicly through
+MLSA’s website.
+6.2. Reporting back to stakeholder groups
+Stakeholders will be regularly informed about the progress of the HSP, including updates on E&S
+performance, implementation of the SEP and FGRM, as well as overall program achievements.
+
+Quarterly summaries on grievances, enquiries, and feedback received through the 114 hotline, USS offices,
+and other channels will be prepared by the MLSA and shared with the public. These reports will track both
+the number and type of complaints, as well as the timeliness and effectiveness of responses, enabling
+management to monitor trends and identify areas requiring corrective or preventive measures.
+
+To ensure transparency and accountability, results of engagement activities and grievance management
+will be reported back to stakeholders through multiple channels, including:
+     • Public updates on MLSA’s website and social media platforms, summarizing key progress,
+         outreach activities, and frequently asked questions.
+     • Information boards at USS offices and municipalities, displaying summaries of program updates,
+         common enquiries, and grievance redress outcomes.
+     • Annual public meetings and community information sessions in selected municipalities,
+         providing opportunities for beneficiaries to hear updates and directly raise questions.
+     • Targeted communication to vulnerable groups (via CSOs and social workers), ensuring that
+         underinformed or harder-to-reach households also receive feedback on program progress and
+         grievance outcomes.
+     • Inclusion of survey results (mid-project and end-of-project perception surveys) in public reporting
+         to demonstrate how beneficiary feedback has shaped program implementation.
+Annex 1: Key Stakeholder Groups
+  Name of Stakeholder                         Interest                             Details / Estimated Number
+
+Affected Parties
+
+Government of Armenia      GoA is the main beneficiary of the Project.          49 territorial USS offices across
+(GoA), MLSA and USS        MLSA oversees policy and program design and          Armenia; central MLSA and
+                           has overall responsibility for implementation.       interagency bodies
+                           USS      manages      registration,  eligibility
+                           verification, disbursement, and acts as local
+                           interface.
+
+Refugee Households         Primary beneficiaries of cash assistance and/or      ~13,000–15,000             refugee
+                           housing support.                                     households eligible; currently
+                                                                                receiving cash assistance for rent,
+                                                                                utilities, and consumption
+
+Partner Banks              Administer housing-related loans and financial       5 participating commercial banks
+                           services.
+
+National   Mortgage        Ensures availability and refinancing of housing      CBA-owned financial institution
+Company (NMC)                           finance instruments.                    managing mortgage finance
+
+Asian    Development       Co-financier of the Project; supports                Partner agency, uses PBL and PSSA
+Bank (ADB)                 safeguards and financing modalities.                 instruments
+
+Other Interested Parties
+
+Other    Governmental      Provide policy alignment, oversight, and             Ministries of Finance, Territorial
+Agencies                   technical data.                                      Administration and Infrastructure,
+                                                                                Urban Development Committee
+
+Civil         Society      Complement government efforts with service           Mission Armenia, Armenian Red
+Organizations (CSOs),      delivery, advocacy, outreach, and feedback           Cross, Caritas, AGBU, Tufenkian
+NGOs, and Diaspora         collection.                                          Foundation, Fund for Armenian
+Organizations                                                                   Relief, etc.
+
+International              Provide funding, technical support, and              UNDP, UNICEF, UNHCR, GIZ, KfW,
+Organizations         &    complementary refugee response activities.           IOM,             and            other
+Programs                                                                        bilateral/multilateral agencies
+
+Media                      Disseminate information         on    eligibility,   National and local media outlets,
+                           procedures, and outcomes.                            TV, radio, and online channels
+
+Local Governments &        Facilitate local-level implementation        and     Municipalities and community
+Host Communities           engagement with refugee households.                  councils in affected regions
+
+Construction        &      Provide technical services for housing               Private sector actors contracted
+Valuation Companies        assessments, valuation, and renovations.             under HSP
+
+Disadvantaged and Vulnerable Groups
+
+Low-income                 May face affordability gaps despite assistance,      Particularly large households and
+households, households     at risk of exclusion, may struggle with              those with unstable incomes, risk of
+                           mortgage-related processes and requirements.
+with limited financial                                                          exclusion due to banking and
+literacy                                                                        documentation barriers
+
+Female-headed               At higher risk of economic vulnerability and        Significant share of refugee HHs,
+households,     single-     exclusion; especially in geographically             includes widowed or single mothers
+headed      households      challenging regions, require targeted outreach.
+with children (esp.
+women)
+
+Persons with disabilities   Face barriers to access due to medical, mobility,   Includes households requiring
+/ chronic illness           or care needs.                                      special assistance and accessible
+                                                                                communication
+
+Elderly refugees without    At risk of being left out due to isolation or       Especially older refugees in rural
+support networks            mobility limitations.                               areas
+
+Refugees in     rural   /   Have limited access to information and              Households      in     isolated
+remote areas                services.                                           communities      with     weak
+                                                                                connectivity and fewer service
+                                                                                points
+Annex 2. Roles and Responsibilities of the Key Actors involved in SE Implementation
+ Actor                                       Roles and Responsibilities
+ MLSA (overall)                              - Oversight of SEP implementation under Component 1.
+                                             - Ensure compliance with ESS10 and WB requirements.
+                                             - Coordinate across departments (PIT, PR Department, USS).
+                                             - Consolidate and report stakeholder engagement results to WB.
+ Project Implementation Team (PIT)           - Manage day-to-day implementation of SEP activities.
+                                             - Coordinate inputs from PR Department, USS, and CSOs.
+                                             - Supervise SECS and ensure adequate resources for engagement.
+                                             - Integrate feedback from SEP into project management.
+ Project Coordinator                         - Lead and oversee SEP implementation within MLSA.
+                                             - Monitor and ensure quality of SEP activities.
+                                             - Supervise SECS and provide guidance. - Coordinate with NMC to
+                                             align SEP under Component 1 and 2.
+                                             - Prepare periodic SEP reports for WB.
+ Stakeholder      Engagement           and   - Operationalize SEP activities (planning, outreach, consultations,
+ Communications Specialist (SECS)            disclosure).
+                                             - Develop communication materials (print, media, digital).
+                                             - Organize and facilitate consultations, including with vulnerable
+                                             groups.
+                                             - Manage FGRM communication and visibility.
+                                             - Document engagement and report to PIT.
+ Public Relations Department (MLSA)          - Lead mass media, TV/radio, and digital campaigns.
+                                             - Support design of brochures, flyers, infographics, and video
+                                             explainers.
+                                             - Coordinate with SECS on consistent messaging.
+ Unified Social Services (USS)               - Act as primary local interface with beneficiaries.
+                                             - Disseminate information, conduct consultations, and collect
+                                             feedback.
+                                             - Manage grievance intake at community level and refer cases to
+                                             MLSA.
+                                             - Ensure outreach to vulnerable groups through 49 offices.
+ NMC (Component 2)                           - Implement SEP activities under Component 2.
+                                              - Disclose information on financial services.
+                                             - Operate internal GRM per ESMS manual.
+                                             - Report grievance data to MLSA for consolidation.
+ PFIs                                        - Inform applicants of loan eligibility and grievance/appeal
+                                             procedures.
+                                             - Maintain internal GRM and report to MLSA/NMC.
+                                             - Provide data on grievances received and resolved.
+ Civil Society Organizations (CSOs)/NGOs     - Support outreach to vulnerable groups (women-headed HHs,
+                                             elderly, disabled, rural refugees).
+                                             - Relay beneficiary feedback to MLSA/USS.
+                                             - Partner on community-level consultations and awareness
+                                             campaigns.
+Annex 3. Sample Grievance Log Template
+
+
+ ID  Date     Name &              Location /    Type of       Description Responsible Date          Action     Date                 Status Remarks
+ No. Received Contact (if         Channel of    Grievance of              Unit / Focal Acknowledged Taken /    Resolved             (Open
+              not                 Submission    (Eligibility, Complaint Point                       Resolution                      /
+              anonymous)          (Hotline,     Exclusion,                                                                          Closed)
+                                  USS, Email,   Service
+                                  etc.)         Quality,
+                                                SEA/SH,
+                                                Other)
+
+
+
+
+Notes:
+
+   •     SEA/SH-related complaints must be recorded using codes only, without personal identifiers, and handled under confidential, survivor-
+         centered protocols.
+
+   •     The log will be maintained by the SECS at MLSA and consolidated quarterly for reporting to WB.
+Annex 4. Sample Consultation Record Template
+
+
+ Consultation       Date &      Stakeholder        Number of Participants        Key        Feedback /       Response / How   Follow-up
+ Title / Topic      Location    Group(s)           (disaggregated by sex,        Issues     Suggestions      Feedback Was     Actions &
+                                Engaged            age, other relevant           Raised                      Addressed        Responsible
+                                                   categories)                                                                Party
+
+
+
+
+Notes:
+
+   •     This template should be used for all public meetings, focus groups, and workshops.
+
+   •     Attendance sheets and photos (if consent is given) should be attached to the record (not subject to disclosure).
+
+   •     Results will be summarized in biannual SEP progress reports and disclosed on MLSA’s website (no personal data disclosed).
+

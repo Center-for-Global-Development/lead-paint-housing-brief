@@ -1,0 +1,1153 @@
+Public Disclosure Authorized
+
+
+
+
+                                              Republic of Serbia
+
+
+
+
+Public Disclosure Authorized
+                                         Republic Geodetic Authority
+
+                                    Second Real Estate Management Project
+                                                  (P500611)
+
+
+
+
+Public Disclosure Authorized
+                               Stakeholder Engagement Plan (SEP)
+                                              for
+                               Real Estate Management Project – 2
+
+
+
+
+Public Disclosure Authorized
+                                                  Final
+                                                June 2024
+
+
+
+
+                                                                            1
+Table of Contents
+List of Tables: ........................................................................................................................ 3
+List of Abbreviations .............................................................................................................. 3
+1.      Introduction ................................................................................................................... 4
+     1.1.       Project Description ............................................................................................................4
+     1.2.       National Legislation and ESS Requirements ........................................................................6
+        1.2.1 National Legislation for Stakeholder Engagement ......................................................................................6
+        1.2.2. International Legislation for Stakeholder Engagement Human rights .......................................................7
+        1.2.3. World Bank Requirements .........................................................................................................................7
+
+2.      Objective/Description of SEP .......................................................................................... 8
+3.      Stakeholder engagement process ................................................................................... 8
+     3.1. Stakeholder identification and analysis ....................................................................................8
+     3.2.       Methodology .....................................................................................................................9
+     3.3.       Affected parties and other interested parties .....................................................................9
+     3.4.       Disadvantaged/vulnerable individuals or groups .............................................................. 10
+4.      Stakeholder Engagement Program ............................................................................... 10
+     4.1.       Summary of stakeholder engagement done during project preparation ............................ 10
+     4.2.  Summary of project stakeholder needs and methods, tools, and techniques for stakeholder
+     engagement................................................................................................................................. 11
+     4.3.       Reporting back to stakeholders ........................................................................................ 17
+5.      Resources and Responsibilities for implementing stakeholder engagement activities .... 17
+     5.1.       Resources ........................................................................................................................ 17
+     5.2.       Management functions and responsibilities...................................................................... 18
+6.      Grievance Mechanism .................................................................................................. 18
+     6.1.       GRM on Project Level ....................................................................................................... 19
+     6.2.       GRM on RGA Level ........................................................................................................... 19
+     6.3.       World Bank Grievance Redress System ............................................................................. 20
+     6.4.       Description of GM on Project Level ................................................................................... 20
+     6.5.       Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH) ............................................ 22
+7.      Monitoring and Reporting ............................................................................................ 22
+     7.1.       Summary of how SEP implementation will be monitored and reported ............................. 22
+     7.2.       Reporting back to stakeholder groups .............................................................................. 22
+        Endnotes ............................................................................................................... Error! Bookmark not defined.
+
+
+
+
+                                                                                                                                                               2
+List of Tables:
+
+Table 1 - Level of interest and impact for the stakeholder Groups for Project ......................... 11
+Table 2 - An Overview of Stakeholder Programme .................................................................... 16
+Table 3 – SEP budget breakdown ................................................................................................ 17
+Table 4 – Grievance Mechanism Processes ................................................................................. 20
+
+
+
+List of Abbreviations
+
+E&S          Environmental and Social
+ESCP         The Environmental and Social Commitment Plan
+ESF          Environmental and Social Framework
+ESF          World Bank’s Environment and Social Framework
+ESSs         Environmental and Social Standards
+GM           Grievance (redress) Mechanism
+GRS          Grievance Redress Service
+ISREC        RGA Cadastral information system
+MASPRO       Information system for property mass valuation
+M&E          Monitoring and evaluation
+NALED        National Alliance for Local Development
+NGO          Non-Governmental Organization
+NSDI         National Geospatial Infrastructure
+OIP          Other Involved Parties
+PAPs         Project-affected persons
+PIU          Project Implementation Unit
+REMP         Real Estate Management Project
+REMP2 Real Estate Management Project 2
+REMPAF       Real Estate Management Project Additional Financing
+RGA          Republic Geodetic Authority
+SKGO         Standing Conference of Towns and Municipalities
+WB           The World Bank
+
+
+
+
+                                                                                                                                3
+   1. Introduction
+   1.1. Project Description
+The Real Estate Management Project – 2 aims to improve the efficiency, transparency,
+accessibility and reliability of Serbia’s real property management systems.
+
+The Real Estate Management Project – (REMP 2) is continuation of already ongoing REMP 1
+which has been implemented under WB safeguard policy. The REMP 2 comprises the following
+components:
+Component A: Implementation of the Property Mass Valuation System. This component will
+finance the rollout of mass valuation models for residential properties for the majority of Serbia’s
+population. The models will improve the efficiency and transparency of the property market by
+providing guidance to market participants, valuers, and banks on the prices likely to be achieved
+when properties are offered for sale. They will also be made available for municipalities to use
+should they decide to adopt them for levying the annual property tax. Additionally, Component
+A will finance the development of an information system for mass valuation that will be
+interoperable with other key information systems maintained by RGA (i.e., the Building Register
+and other systems as described in Component B), as well as the creation of a residential property
+index that includes all types of residential property. Furthermore, a Building Register module will
+be developed for integration with ISREC through the use of very high-resolution satellite imagery.
+Support will also be provided for quality assurance and quality control for all data produced under
+Component A.
+Component B: Integration of Information Systems and NSDI Services Development. This
+component will finance the further digital transformation of RGA and the advancement of
+Serbia’s NSDI in line with national and international best practice and standards. The component
+will support (i) ISREC’s upgrade and the completion of national implementation; (ii) the
+establishment of an infrastructure cadaster; (iii) the upgrade and further development of the
+Digital Archive System; (iv) the implementation of a system for land consolidation; (v) a study for
+the development of a 3D cadaster; (vi) further development of Serbia’s Risk Register; (vii)
+development of mobile applications; (viii) improvement of data quality and completeness; (ix)
+expansion of GeoSrbija via the development of additional data layers; and (x) integration of all
+services under one distribution platform. The component’s NSDI activities will be implemented
+based on the Action Plan and Business Models produced during REMP in line with the UN-
+endorsed Integrated Geospatial Information Framework (IGIF). The development of new
+applications and e-services to increase the usability and the benefits of Serbia’s NSDI will also
+leverage new technologies such as Artificial Intelligence (AI), as well as the supply of hardware
+and other equipment and the hiring of consultants.
+Component C: Institutional Improvement, RGA Sustainability, and Project Management. This
+component will support continued policy dialogue at RGA concerning its adoption of, and
+transition to, a self-financing institutional model to ensure the long-term sustainability of project
+investments, particularly for those concerning the development and national implementation of
+ISREC. Under REMP, several business models were developed for RGA’s consideration, and the
+
+                                                                                                   4
+component will provide technical advice to RGA as it considers the implications of a sustainable
+transformation model for the existing legal framework overseeing RGA’s current operational
+model, and whether any amendments to the legal framework would need to be made. Support
+to the development of a roadmap for RGA’s institutional transition will also be provided as well
+as its implementation. This includes the implementation of a Portfolio Management Plan
+developed in 2024 in cooperation with the Swedish International Development Cooperation
+Agency (Sida) and the further implementation of several International Organization for
+Standardization (ISO) standards to ensure RGA’s full compliance with international standards for
+land administration and associated IT systems. The component will also support Project
+Implementation Unit (PIU) operations and Monitoring and Evaluation (M&E) activities. It will also
+finance capacity building programs and the implementation of public awareness campaigns and
+customer satisfaction surveys. The PIU for REMP will be maintained for the implementation of
+REMP 2, with adjustments to staffing as needed. Specialized training will also be organized under
+this component for RGA management and technical staff, as well as other NSDI stakeholders
+including government institutions, local authorities, and other relevant entities. Similarly, the
+capacity building programs will be designed and implemented for real estate registration and
+valuation institutions, including RGA, municipal authorities and Serbia’s Tax Administration.
+
+The environmental risk of the project is assessed as low, while the social risk is moderate.
+Moderate risk rate for social aspect of the project is primarily driven by potential privacy and
+data security concerns and digital divide arising from the introduction of E-Gov to real estate
+information.
+The platform for property valuation will manage sensitive data pertaining to properties and their
+owners, thereby raising concerns regarding privacy and cybersecurity. However, robust data
+privacy and security measures will be incorporated into the project design in compliance with
+national regulations and industry best practices.
+
+To prevent potential didgital divide concerns , the project will adopt best practices from the
+previous REMP. This includes; i) implementing comprehensive data collection on digital access
+and use, ii) providing support adapted to different age groups and iii) ensuring accessibility for
+people with disabilities. In this context, the SEP will serve as an instrument for ongoing
+communication and engagement of all interested or affected parties, thus preventing potential
+concerns. The SEP will be conducted throughout the duration of the project to ensure
+transparency and encourage active stakeholder engagement.
+
+The Real Estate Management Project – 2is being prepared under the World Bank’s Environment
+and Social Framework (ESF). Per Environmental and Social Standard ESS10 on Stakeholder
+Engagement and Information Disclosure, the implementing agencies should provide
+stakeholders with timely, relevant, understandable, and accessible information, and consult with
+them in a culturally appropriate manner, which is free of manipulation, interference, coercion,
+discrimination, or intimidation.
+
+
+
+
+                                                                                                 5
+   1.2. National Legislation and ESS Requirements
+
+The national legislation and World Bank Environmental and Social Standards (ESS) requirements that
+apply to stakeholder engagement shall be reviewed in this section.
+
+       1.2.1 National Legislation for Stakeholder Engagement
+The commitments and requirements of the of Serbia to citizen engagement are not residing under a single
+self-standing law or regulation. However, the recognition of importance of citizen engagement is infused
+in the legal system and clearly recognized by mandatory procedures provided under individual laws.
+
+Some of the key laws governing the stakeholder and citizen engagement activities include but are not
+limited to:
+   •   The Constitution of the Republic of Serbia (2006) proclaims the rule of law and social
+       justice, principles of civil democracy, human and minority rights and freedoms, and
+       commitment to European principles and values. The Article 74 proclaims the right to
+       healthy environment and grants the right to timely and comprehensive information on
+       the state of the environment.
+   •   The Law on free access to information of public interest (2004) states that governmental
+       agencies, social associations and officials are required to provide each person with the
+       possibility of receiving and becoming acquainted with documents of public interest,
+       except in cases anticipated by law. The Law shall govern the rights of access to
+       information of public importance held by public authorities, with a view to exercising and
+       protecting the public interest to know and attaining a free democratic order and an open
+       society. By virtue of this Law access to information shall be granted to all stakeholders,
+       including every natural person or legal entity upon written request unless otherwise
+       regulated by the Law. Within 15 days of receipt of a request at the latest, the authority
+       shall inform the applicant whether the requested information is held, and grant him/her
+       access to the document containing the requested information or issue or send to the
+       applicant a copy of the document, as the case may be.
+   •   Law on Public Information and Media (2014) stipulates that public information is free and
+       is not subject to censorship, that the public has the right and the interest to be informed
+       on issues of public interest, that monopoly in the media is not allowed, that information
+       on the media is public.
+   •   The Law on Environmental Impact Assessment (2004 as amended in 2009) provides
+       categorization of industries and projects and identifies types of environmental
+       assessment required against respective categories of industries or projects and provides
+       procedures for disclosure, presentation and consultation requirements, and sets these as
+       mandatory with a disclosure of a minimum of 20 days.
+   •   The Republic of Serbia ratified the Aarhus Convention on Access to information, public
+       participation in decision making and access to justice in environmental matters and it links
+       environmental and human rights and is based on the belief that it is a basic right of
+       present and future generations to live in an environment adequate to health and
+       wellbeing. The convention is focused on achieving this through the implementation of
+
+
+                                                                                                      6
+        three pillars: rights of access to information, access to decision-making, and access to
+        justice.
+    •   Planning and Building Act (2009 as amended in 2020) proclaims two types of engagement
+        and disclosure instruments for all spatial and urban plans. Early public insight and Public
+        Insight are mechanisms through which interested stakeholders may acquire information
+        on the basic concept and the proposition of the planning document. Documents are made
+        available to the public during a disclosure window of 15-30 days followed by public
+        consultations.
+
+        1.2.2. International Legislation for Stakeholder Engagement Human rights
+
+The Universal Declaration of Human Rights is a declaration that defines and guarantees the fundamental
+rights and freedoms of women, men, and children. The Declaration also provides general definitions of
+economic, social, and cultural rights, as well as civil and political rights. Article 1 of the Declaration states
+that "All human beings are born free and equal in dignity and rights. They are endowed with reason and
+conscience and should act towards one another in a spirit of brotherhood." and all articles address the
+fundamental, cultural, economic, political, and social rights of people all over the world. The Declaration,
+together with the International Covenant on Economic, Social and Cultural Rights, the International
+Covenant on Civil and Political Rights and the Optional Protocols, constitute International Human Rights
+Law.
+
+        1.2.3. World Bank Requirements
+
+Environmental and Social Standard (ESS) 10 of the WB's Environmental and Social Framework (ESF)
+recognizes 'the importance of open and transparent engagement between the borrower and project
+stakeholders as an essential element of good international practice'. The general requirements set by the
+ESS are summarized below:
+
+    •   "Borrowers shall engage with stakeholders throughout the project life cycle by initiating
+        engagement as early as possible in the project development process and within a timeframe that
+        allows for meaningful consultation with stakeholders on project design. The nature, scope and
+        frequency of stakeholder engagement shall be proportionate to the nature and scale of the
+        project and its potential risks and impacts."
+    •   "The borrowers shall engage in meaningful consultations with all stakeholders. The Borrowers
+        shall provide stakeholders with timely, relevant, understandable and accessible information and
+        consult with them in a culturally appropriate manner, free from manipulation, interference,
+        coercion, discrimination and intimidation."
+    •   "The stakeholder engagement process shall, as set out in more detail in this ESS, include the
+        following: (i) stakeholder identification and analysis; (ii) planning how engagement with
+        stakeholders shall take place; (iii) disclosure of information; (iv) consultation with stakeholders;
+        (v) handling and responding to grievances; and (vi) reporting to stakeholders."
+    •   "As part of the environmental and social assessment, the borrower shall maintain and disclose a
+        documented record of stakeholder engagement, including a description of stakeholders
+        consulted, a summary of feedback received, and a brief explanation of how the feedback was
+        taken into account or why it was not (World Bank, 2017: 98)".
+
+
+
+                                                                                                               7
+According to ESS10, the Borrower should propose and implement a grievance redress mechanism (GRM)
+to receive and resolve in a timely manner the concerns and grievances of project affected parties
+regarding the environmental and social performance of the project. The scope, scale and type of the GRM
+shall be proportionate to the nature and scale of the potential risks and impacts of the project.
+
+
+   2. Objective/Description of SEP
+
+The main goal of this Stakeholder Engagement Plan (SEP) is to establish a structured approach
+for involving stakeholders in the project. This involves sharing information with the public,
+seeking their input, and ensuring their concerns are addressed. The SEP lays out how the project
+team will communicate with stakeholders and provides a platform for them to express their
+opinions, give feedback, or voice any complaints related to the project. By creating this plan as
+part of the World Bank Environment and Social Framework commitments, the project aims to
+engage relevant stakeholders effectively throughout the project lifecycle, ensuring their
+feedback, suggestions, and priorities are considered in decision-making and project activities. In
+particular SEP willcontribute to the achievement of the following objectives:
+(i) Establishing a structured approach to stakeholder engagement,
+(ii) Assessing stakeholder interest, impact, and support for the project, and ensuring that
+stakeholder perspectives are integrated into project design and environmental and social
+performance considerations.
+(iii) Facilitating timely dissemination of technically and culturally appropriate project information
+regarding environmental and social risks in a comprehensible and accessible format.
+(iv) Coordinating tailored communication, outreach, and engagement initiatives to identify
+disadvantaged and vulnerable individuals or groups, thereby ensuring their involvement in the
+project.
+(v) Establishing an accessible and inclusive mechanism for the communication of suggestions and
+grievances to project-affected persons (PAPs) and enabling implementing agencies to promptly
+address and manage them.
+
+   3. Stakeholder engagement process
+
+   3.1. Stakeholder identification and analysis
+
+
+The process of stakeholder identification is crucial in effectively managing stakeholder
+engagement in a project, aiming to prevent any single stakeholder group from dominating the
+consultation process. It should commence early in the project life cycle, considering the dynamics
+between stakeholders and the associated risks and opportunities. In ESS 10, stakeholders are
+categorized into three groups:
+    • Project Affected Parties: These are individuals or groups directly impacted or likely to be
+       impacted by the project, encompassing factors such as physical surroundings, health,
+       safety, cultural practices, well-being, or income sources.
+    • Other Relevant Parties (ORP): This group includes individuals or groups associated with
+       the project due to public interest or factors such as location, characteristics, and impacts.
+                                                                                                     8
+        Examples include legislators, government officials, private sector entities, scientific
+        community, academics, trade unions, women's organizations, NGOs, and cultural groups.
+    • Vulnerable/Disadvantaged Persons/Groups: This category consists of individuals or
+        groups facing special circumstances that increase their susceptibility to adverse project
+        impacts or limit their ability to benefit from the project. They may require special
+        measures or assistance for inclusion in the consultation process.
+The frequency and engagement methods for each stakeholder group are determined based on
+the extent of the project's impact on them, their impact on the project, and culturally acceptable
+participation methods. Generally, deeper engagement is warranted for stakeholder groups with
+greater impact or interest in the project.
+Furthermore, citizens currently utilizing unregistered buildings or residences within the project
+scope are not directly or indirectly affected by the project initially. However, they may be
+influenced by actions taken by central and local governments based on project outputs.
+
+   3.2. Methodology
+In order to meet best practice approaches, the project will apply the following principles for
+stakeholder engagement:
+• Openness and life-cycle approach:Public consultations for the project(s) will be arranged during
+  the whole life cycle, carried out in an open manner, free of external manipulation, interference,
+  coercion, or intimidation.
+• Informed participation and feedback:Information will be provided to and widely distributed
+  among all stakeholders in an appropriate format; opportunities are provided for
+  communicating stakeholder feedback, and for analyzing and addressing comments and
+  concerns
+• Inclusiveness and sensitivity:Stakeholder identification is undertaken to support better
+  communications and build effective relationships. The participation process for the projects is
+  inclusive. All stakeholders at all times are encouraged to be involved in the consultation
+  process. Equal access to information is provided to all stakeholders. Sensitivity to stakeholders’
+  needs is the key principle underlying the selection of engagement methods. Special attention
+  is given to vulnerable groups that may be at risk of being left out of project benefits, particularly
+  women, the elderly, persons with disabilities, displaced persons, and migrant workers and
+  communities, and the cultural sensitivities of diverse ethnic groups.
+
+   3.3. Affected parties and other interested parties1
+Affected parties include local communities, community members, and other parties that may be
+subject to direct impacts from the Project. Specifically, the following individuals and groups fall
+within this category:
+    • Real estate owners-Citizens,
+    • Real estate owners- Public and Private Institutions and Organizations,
+    • Financial Institutions (Banks, Insurance companies and their associations),
+    • Real estate agencies
+    • Licensed Surveying and Cadastral Engineers
+    • Courts, Notaries and Lawyers owing to project outputs,
+                                                                                                     9
+   •   Administration of Cities and Municipalities
+   •   Communal companies
+   •   Government of Republic of Serbia (Ministry of Finance, Ministry of Construction, Ministry
+       of Labor, Ministry of Justice, Ministry of Environment, and other ministries to the lesser
+       extent)
+
+The projects’ stakeholders also include parties other than the directly affected communities, who
+may be interested in project outcome including:
+   • NGOs that are supporting local development (SKGO and NALED)
+   • NGOs that are protecting economic and legal interest of the population and economy in
+       the area related to immovable property ownership.
+   • Public Institutions and Organizations that are involved in NSDI,
+   • Investors and Investment brokers
+   • Architecture offices and urban planners
+   • UN agencies (UNDP, WFO, UN Women)
+   • Coordination body for Gender Equality
+   • Office for information technologies and eGovernment
+
+   3.4. Disadvantaged/vulnerable individuals or groups2
+Of particular importance is to understand whether adverse project impacts may
+disproportionately fall on disadvantaged or vulnerable individuals or groups, or they are likely to
+be excluded/unable to access Project benefits. Although the project mainly focuses on increase
+of efficiency and support to professional users of the information vulnerable individuals or groups
+could indirectly receive benefits if project outputs are designed to promote adequate response
+of direct beneficiaries. Stakeholders that represent indirect beneficiaries e.g. vulnerable groups
+and individuals include:
+    • People with disabilities
+    • People receiving (or in need but not receiving) social support;
+    • People that live in remote technologically and economically deprived areas;
+    • Nonintegrated Roma people;
+    • Women living in extreme patriarchal environment;
+    • Single-headed households;
+    • Displaced people occupying others property (migrants, squatters, other displaced people)
+    • People digitally excluded or at risk from digital exclusion (mostly elderly people);
+
+   4. Stakeholder Engagement Program
+
+       4.1. Summary of stakeholder engagement done during project preparation
+
+
+During project preparation, meetings with World Bank staff and consultants were made in order
+to establish relevance of the project to population and national economy. During the same period
+separate meetings with purpose to better define project activities and their impact were held
+
+                                                                                                10
+with banks, insurance companies, Office for information technologies and eGovernment, Real
+estate agencies.
+
+        4.2. Summary of project stakeholder needs and methods, tools, and techniques for
+             stakeholder engagement
+
+Engagement will be directly proportional to the level of interest and impact, and the greater the
+scope of a project's impact on a stakeholder group, or the greater the scope of a particular
+stakeholder's impact on a project increment, the greater the need to engage with that
+stakeholder group. Engagement with such stakeholder groups should be deepened in terms of
+the frequency and intensity of the engagement method used. In the table below key project
+activities are scrutinised for the level of interest and expected impact on the stakeholder
+groupsidentified in the chapter 3 of this document.
+
+Table 1 - Level of interest and impact for the stakeholder Groups for Project
+
+                                                                                       Level of   Level of
+Components               Stakeholder Category       Stakeholders
+                                                                                       Interest   Impact
+                                                   Real estate owners-Citizens,
+                                                   Real estate owners- Public and
+                                                   Private Institutions and
+                                                   Organizations, Financial Institutions
+                                                   (Banks, Insurance companies and
+                          Project-Affected Parties their associations), Real estate      High     High
+                                                   agencies
+Component A:                                       Administration of Cities and
+Implementation of the                              Municipalities Government of
+Property Mass Valuation                            Republic of Serbia (Ministry of
+System                                             Finance)
+                                                   NGOs that are supporting local
+Expected topics:                                   development (SKGO and NALED)
+ -   Integration of                                NGOs that are protecting economic
+     Business Register in                          and legal interest of the population
+     the system, Creation                          and economy in the area related to
+     of TAX related                                immovable property ownership.
+     services and their   Other Involved Parties   Public Institutions and Organizations Moderate Low
+     implementation                                that are involved in NSDI, Investors
+ -   Creation of TAX                               and Investment brokers, Architecture
+     related services                              offices and urban planners, UN
+                                                   agencies (UNDP, WFO, UN Women),
+                                                   NGOs that are supporting vulnerable
+                                                   groups
+                                                   People with disabilities, People
+                                                   receiving social support, People that
+                                                   live in remote technologically and
+                          Vulnerable/Disadvantaged
+                                                   economically deprived areas; Non- Moderate High
+                          Persons/Groups
+                                                   integrated Roma people; People
+                                                   digitally excluded or at risk from
+                                                   digital exclusion, single-household
+
+                                                                                                         11
+                                                      owners, migrants, squatters and
+                                                      other displaced people, Women
+                                                      living in extreme patriarchal
+                                                      environment;
+                                                      Real estate owners-Citizens,
+                                                      Real estate owners- Public and
+                                                      Private Institutions and
+                                                      Organizations, Financial Institutions
+                                                      (Banks, Insurance companies and
+                                                      their associations),
+                                                      Real estate agencies, Licensed
+                                                      Surveying and Cadastral Engineers
+                                                      Courts, Notaries and Lawyers owing
+                             Project-Affected Parties                                       Moderate Moderate
+                                                      to project outputs,
+                                                      Administration of Cities and
+                                                      Municipalities, Communal companies
+                                                      Government of Republic of Serbia
+                                                      (Ministry of Finance, Ministry of
+                                                      Construction, Ministry of Labour,
+                                                      Ministry of Justice, Ministry of
+                                                      Environment, and other ministries to
+Component B: Integration                              the lesser extent)
+of Information Systems
+                                                      NGOs that are supporting local
+and the NSDI Services
+                                                      development (SKGO and NALED);
+Development
+                                                      NGOs that are protecting economic
+                                                      and legal interest of the population
+Expected topics:
+                                                      and economy in the area related to
+-    Accessibility to the e-
+                                                      immovable property ownership;
+     services
+                             Other Involved Parties   Public Institutions and Organizations Moderate Moderate
+-    Service relevance
+                                                      that are involved in NSDI; Investors
+                                                      and Investment brokers; Architecture
+                                                      offices and urban planners; UN
+                                                      agencies (UNDP, WFO, UN Women),
+                                                      NGOs that are supporting vulnerable
+                                                      groups)
+                                                      People with disabilities, People
+                                                      receiving social support, People that
+                                                      live in remote technologically and
+                                                      economically deprived areas; Non-
+                                                      integrated Roma people; People
+                             Vulnerable/Disadvantaged
+                                                      digitally excluded or at risk from    Low      Moderate
+                             Persons/Groups
+                                                      digital exclusion, single-household
+                                                      owners, migrants, squatters and
+                                                      other displaced people, Women
+                                                      living in extreme patriarchal
+                                                      environment;
+                                                      Real estate owners-Citizens,
+Component B: Integration                              Real estate owners- Public and
+                             Project-Affected Parties                                       Moderate Moderate
+of Information Systems                                Private Institutions and
+                                                      Organizations, Financial Institutions
+
+
+
+                                                                                                          12
+and the NSDI Services                                (Banks, Insurance companies and
+Development                                          their associations),
+                                                     Real estate agencies, Licensed
+Expected topics:                                     Surveying and Cadastral Engineers
+- Implementation of the                              Courts, Notaries and Lawyers owing
+developed information                                to project outputs,
+system (ISREC)                                       Administration of Cities and
+- Impact of the land                                 Municipalities, Communal companies
+consolidation system                                 Government of Republic of Serbia
+improvements                                         (Ministry of Finance, Ministry of
+                                                     Construction, Ministry of Labour,
+                                                     Ministry of Justice, Ministry of
+                                                     Environment, Ministry of Agriculture)
+                                                     NGOs that are supporting local
+                                                     development (SKGO and NALED)
+                            Other Involved Parties   Public Institutions, Investors and    Moderate Moderate
+                                                     Investment brokers, NGOs that are
+                                                     supporting vulnerable groups
+                                                     People with disabilities, People
+                                                     receiving social support, People that
+                                                     live in remote technologically and
+                                                     economically deprived areas; Non-
+                                                     integrated Roma people; People
+                            Vulnerable/Disadvantaged
+                                                     digitally excluded or at risk from    Moderate Moderate
+                            Persons/Groups
+                                                     digital exclusion, single-household
+                                                     owners, migrants, squatters and
+                                                     other displaced people, Women
+                                                     living in extreme patriarchal
+                                                     environment;
+                                                     Real estate owners-Citizens,
+                                                     Real estate owners- Public and
+                                                     Private Institutions and
+                                                     Organizations, Financial Institutions
+Component C:                                         (Banks, Insurance companies and
+                            Project-Affected Parties                                       High     High
+Institutional                                        their associations),
+Improvement, RGA                                     Real estate agencies, Administration
+Sustainability, and Project                          of Cities and Municipalities,
+Management                                           Government of Republic of Serbia
+                                                     (Ministry of Finance)
+Expected topics:                                     NGOs that are supporting local
+- How RGA can improve                                development (SKGO and NALED)
+service delivery to better                           NGOs that are protecting economic
+serve professional users                             and legal interest of the population
+and citizens (with                                   and economy in the area related to
+emphasis on reducing        Other Involved Parties   immovable property ownership,         Moderate Moderate
+inequality)                                          Public Institutions and Organizations
+                                                     that are involved in NSDI, Investors
+                                                     and Investment brokers, Architecture
+                                                     offices and urban planners, UN
+                                                     agencies (UNDP, WFO, UN Women),
+
+
+
+                                                                                                         13
+                                                NGOs that are supporting vulnerable
+                                                groups)
+                                                People with disabilities, People
+                                                receiving social support, People that
+                                                live in remote technologically and
+                                                economically deprived areas; Non-
+                                                integrated Roma people; People
+                       Vulnerable/Disadvantaged
+                                                digitally excluded or at risk from    Low   Low
+                       Persons/Groups
+                                                digital exclusion, single-household
+                                                owners, migrants, squatters and
+                                                other displaced people, Women
+                                                living in extreme patriarchal
+                                                environment;
+
+Some of the stakeholder engagement methods to be used during the implementation phase of
+the project, which aim to ensure that project stakeholders maintain their engagement with the
+project and increase the positive social impact of the project, are described below.
+
+Since situation regarding Covid-19, it became obvious that large scale face-to-face meetings
+could be more efficiently organised via online meetings. During the online meetings, participants
+shall be given the opportunity to share their opinions/problems and ask questions. Following the
+meetings, presentations and any other material used during the meeting shall be shared on the
+official website of the Project.
+
+Depending on the PIU and RGA shall organize online meetings to engage and inform
+stakeholders. If epidemiological situation allows a face-to-face meetings with stakeholders could
+be organised especially if the important consultation meetings are needed.
+
+• Official Meetings: Official meetings shall consist of internal meetings to be held within RGA and
+meetings with different governmental institutions, relevant NGOs, and organizations that will
+participate in the preparation and implementation phases of the project. Most of these meetings
+shall be conducted through digital platforms.
+
+• Opening and Closing Meetings: Multi-stakeholder meetings shall be organized at both the
+beginning and end of the project lifecycle to announce and disseminate project activities and
+results. In order to engage more people and make meetings more efficient meetings could be
+held on digital platforms.
+
+• Disclosure Meetings: Disclosure meetings shall be organized to share with stakeholders the ESF
+documents developed for the Project (SEP, Environmental and Social Commitment Plan (ESCP)
+and other relevant implementation documents). Most of these meetings shall be conducted via
+digital platforms. Announcements of these meetings shall be made via emails, official websites
+of the relevant government authorities, social media, and newspapers. Feedback on shared
+documents shall be collected through official correspondence, online feedback forms and email
+to enhance the effectiveness of the digital meetings. RGA documents shall be prepared
+
+
+                                                                                                  14
+specifically for the project and updated accordingly if there are any changes in the project or sub-
+projects.
+
+• Consultation Meetings: Consultation meetings shall be organized to inform project
+stakeholders about the scope and timeline of sub-project activities. These meetings shall be
+organized in coordination with RGA. Consultation meetings with most affected stakeholders
+should include representatives of Non-governmental Organizations (NGOs) for individuals with
+disabilities or any other stakeholders identified for the duration of the Project. In addition, the
+meetings shall be carried out to inform building residents, local population (including vulnerable
+individuals), representatives of the local administration, etc. Minutes ofthe meeting and a list of
+participants shall be recorded.
+
+• Digital Communication Tools: RGAand Project website, social media accounts, national/local
+television channels and radio stations shall be used to inform stakeholders about important
+developments related to the Project. Press releases shall also be shared with the press.
+
+• Grievance Redress Mechanism: According to the World Bank's ESS10 requirements, an
+appropriate grievance redress mechanism (GM) shall be established and implemented for the
+Project. Chapter 6 of this document describes the mechanism in detail. In order for this
+mechanism to function properly and in a timely manner, a GM contact person shall be assigned
+as part of the project team to manage the whole process. This contact person shall also be
+responsible for reporting on the grievance redressing process of the project for monitoring
+purposes. He/she shall also be responsible for coordinating the grievance mechanism, ensuring
+its smooth functioning within the project and providing channels for project stakeholders to
+provide feedback and/or raise concerns regarding project activities.
+
+All information on the project shall be made available on the websites of the Project and WB and
+through RGA social media accounts that will serve as a media tool/channel for communication
+with stakeholders. Within the scope of the project, brochures, booklets and/or posters to inform
+stakeholders about project activities shall be prepared.
+
+The PIU shall be responsible for the sharing, delivery and announcement of project/sub-project
+documents, communication materials, and GM.
+
+Dynamics of the stakeholder engagement and utilisation of proposed tools is provided in the
+table below.
+
+
+
+
+                                                                                                 15
+Table 2 - An Overview of Stakeholder Programme
+
+                Subject of        List of
+                                                                                                         Respo-
+  Project      Consultation information
+                                                   Method used        Target Stakeholder Frequency nsible
+   stage     /Message to be       to be
+                                                                                                          party
+                delivered       disclosed
+            • Informing
+            stakeholders
+            about the scope                • Opening meeting
+            and the needs of               • Public announcements
+            the project                    • Non-technical project
+            • Consulting                   abstracts/presentations • • Project-Affected
+                              • Project
+            stakeholders on                Electronic publications   Parties
+                              concept, E&S                                              Before the start
+            the following                  • Social media
+                              principles                                                of component
+            matters                        • Printed media           • Other Involved
+                              and                                                       activities
+            • project design,              • Consultation meetings Parties
+Preparation                   obligations                                                                • PIU
+            • environmental                (online/face-to-face)
+                                                                                        For the
+            and social                      • Digital communication •
+                              • ESF                                                     duration of the
+            risksand                       tools                     Disadvantaged/Vul
+                              documents                                                 project
+            impacts,                       • Grievance Redress       nerableGroups/
+                              (ESCP, SEP)
+            • recommended                  Mechanism                 Individuals
+            mitigation                     • Posters, brochures,
+            measures,                      leaflets, etc.
+            • GRMs                         • SMS
+            • Requesting
+            feedback
+                                           • Public announcements
+            • Informing                    • Non-technical project
+            stakeholders on                abstracts/presentations • • Project-Affected
+            the scope of the • SEPs        Electronic publications   Parties
+            project and                    • Social media                               Before the
+            ongoing           • GRM        • Printed media                              start of the
+                                                                     • Other Involved
+Implement activities          procedure • Consultation meetings                         project
+                                                                     Parties
+ation &     • ESF                          (online/face-to-face) •                      implementation • PIU
+Structure documents           • Regular    Digital communication                        and as needed
+            (ESMF, ESMPs, updates on tools                           •                  for the duration • RGA
+            SEPs, etc.)                    • Grievance    Redress    Disadvantaged/Vul of the project
+                              project
+            • GRMs                                                   nerable Groups/
+                              development Mechanism
+            • Requesting                   • Posters, brochures,     Individuals
+            feedback                       leaflets, etc.
+                                           • SMS
+                                           • Closing meeting
+                                                                     • Project-Affected
+                                           • Consultation meetings
+                                                                     Parties
+                              • Project    • Informative meetings                       After the
+            • GRMs                                                   • Other Involved
+                              outputs      • Digital Communication                      project
+Operation • Receiving                                                Parties                             • PIU
+                              •Grievance Tools/Social media •                           activities are
+            feedback                                                 •Disadvantaged/Vul
+                              redressal    Posters, brochures,                          completed
+                                                                     nerableGroups/
+                                           leaflets, etc.
+                                                                     Individuals
+                                           • SMS
+
+
+
+
+                                                                                                            16
+        4.3. Reporting back to stakeholders
+Stakeholders will be kept informed as the project develops, including reporting on project environmental
+and social performance and implementation and possible revisions of the stakeholder engagement plan
+and Grievance Mechanism, and on the project’s overall implementation progress.Flow of the information
+in will be in accordance with the Chapter 7 Monitoring and reporting.
+
+To close the feedback loop the Project has adopted and incorporated into the project activities perception
+surveys. These will provide the Project with actionable information gap and will enhance the data
+informed decision-making. The perceptions survey will be take a community-based protection approach
+identifying challenges and solutions. To effectively manage stakeholder relationships and expected
+outcomes of Project activities both positive and negative feedback will be taken into account.
+
+Comments and feedback received from participants received in any form shall be taken into account
+during the design and implementation of project activities. In the case that stakeholders made direct
+influence on the project activities, special section will be created in the Project yearly report.
+
+
+5. Resources and Responsibilities for implementing stakeholder engagement activities
+
+        5.1. Resources
+The PIUwill be in charge of stakeholder engagement activities.
+
+The budget for the SEP is 129,200€ and is included in component Cof the project.
+
+Table 3 – SEP budget breakdown
+
+                                                      Unit                  Total
+Budget Category                         Quantity      Costs     Times       Costs            Remarks
+
+1. Estimated staff salaries* and related expenses
+                                                                                   Included into M&E
+                                                                                    consultant salary.
+1a. Portion of the M&E consultant       2 days per
+                                                      180€    60 months 21,600€ + 2 part time employees
+salary                                    month
+                                                                                from RGA – salaries not
+                                                                                        included
+2. Events
+                                                                                        included into the
+2a. organization of focus groups              1      1500€         3        4,500€
+                                                                                      communication budget
+3. Communication campaigns
+                                                                                        included into the
+3a. posters, flyers                           1       500€        10        5,000€
+                                                                                      communication budget
+                                            10
+                                                                                        included into the
+3b. social media campaign                  Post       250€        10        2,500€
+                                                                                      communication budget
+                                          boosts
+
+                                                                                                       17
+4. Trainings
+4a. training onsocial/environmental                                              included into the
+                                          1        300€      2        600€
+issues for PIU and RGA staff                                                   communication budget
+5. Beneficiary surveys
+5a. beginning perception survey           1       30,000€    1       30,000€
+5b. mid-project perception survey         1       30,000€    1       30,000€
+5c. end-of-project perception survey      1       30,000€    1       30,000€
+6. Grievance Mechanism
+                                                                                 included into the
+6c. GM communication materials            1        500€      10      5,000€
+                                                                               communication budget
+TOTAL STAKEHOLDER ENGAGEMENT BUDGET:                                129,200€
+Note:*Salary costs can be indicative.
+
+        5.2. Management functions and responsibilities
+The entities responsible for carrying out stakeholder engagement activities are PIU and RGA
+Sector for Development and Innovation (Communication department). Stakeholder engagement
+activities will be carried by the team organized for that purpose. For administrative and
+organizational purposes PIU will delegate portion of the M&E consultant time. RGA will delegate
+one member of the Communication department and the employee nominated by the RGA
+Director for Gender equality issues.
+
+The stakeholder engagement activities will be documented twice per year as a part of the project
+Monitoring & Еvaluation reports. The stakeholder activities section report will be supported
+trough: minutes of the meeting from relevant events, list of communication activities, list of
+relevant trainings and when applicable findings from the focus groups and surveys as described
+chapter 7 Monitoring & Reporting.
+
+6. Grievance Mechanism
+
+Grievance Mechanism (GM) is a mechanism that provides channels for stakeholders to provide
+feedback and raise grievances about project activities and ensures that issues affecting the
+project are identified and resolved. By increasing transparency and accountability, GM aims to
+reduce the risk of project impact on citizens/beneficiaries and acts as an important feedback and
+learning mechanism to improve project impact.
+
+The project shall be managed by the PIU, like the Real estate Management Project Additional
+Financing (REMPAF) currently financed by the World Bank. The Project shall use the same
+communication channels and grievance mechanism as the REMPAF, ensuring transparency and
+accountability and meeting the requirements of ESS-10 and WB ESF. GM shall also serve the
+project staff, including the PIU.
+
+
+                                                                                              18
+       6.1. GRM on Project Level
+
+REMPAF has a website where all relevant information for the Project is shared for consultation
+and information. In addition, REMPAF is able to collect project-specific concerns and grievances
+through this website and an e-mail address. Within the scope of the GM REMPAF grievance
+submission form will be improved to allow anonymity.Following improvements. stakeholders
+shall be provided with the right to make suggestions and share grievances anonymously in
+accordance with the principle of confidentiality. Information on the communication channels of
+the Project is given below:
+
+Website:to be redesigned – address will be provided at the beginning of implementation
+
+Mail address: address will be provided at the beginning of implementation.
+
+Grievance form: to be redesigned – address will be provided at the beginning of implementation.
+
+Tel: 0700 500 500
+
+The GM shall be accessible to a wide range of project stakeholders who are likely to be directly
+or indirectly affected by the project. The GM to be established in this project can be used to
+communicate grievances, feedback, questions, suggestions or satisfaction with the overall
+management and implementation of the project, as well as issues related to the sub- projects
+funded and supported by the project.
+
+       6.2. GRM on RGA Level
+
+Republic Geodetic Authority (RGA) as a key implementing agency for the REMP2 and supervisor
+of the PIU work, has its own communication center, which also addresses land registry and
+cadastre activities. Applicants can submit their requests (suggestions, grievances, satisfaction,
+information requests or notifications and questions related to environment, urban planning, land
+registry, cadaster and housing). Communication channels are provided below.
+
+Website: https://www.rgz.gov.rs/
+
+Contact
+form:https://www.rgz.gov.rs/%D0%BA%D0%BE%D0%BD%D1%82%D0%B0%D0%BA%D1%82
+
+Mail address: info.centar@rgz.gov.rs
+
+Tel: 0700 500 500
+
+
+
+
+                                                                                              19
+        6.3. World Bank Grievance Redress System
+
+Communities and individuals who believe they have been adversely affected by a World Bank
+(WB)-supported project can submit their grievances to existing project-level grievance
+mechanisms or to the World Bank's Grievance Redress Service (GRS). The GRS ensures that
+grievances received are promptly reviewed to address concerns about the project. Project-
+affected communities and persons may submit grievances to the independent Inspection Panel
+of WB, which determines whether damage has occurred or may occur as a result of the WB's
+failure to comply with its policies and procedures. Grievances may be submitted at any time after
+concerns have been brought directly to the attention of the World Bank and Bank Management
+has been given an opportunity to respond. For information on how to submit grievances to the
+World Bank's institutional Grievance Redress Service (GRS), please visit
+ (http://www.worldbank.org/en/projects-operations/products-and-services/grievance-redress-
+service).
+
+Project-affected communities or individuals can also submit their grievances to the World Bank's
+Independent Inspection Panel (IIP). This panel determines whether the individuals or
+communities submitting the grievance have suffered damages as a result of violations of one or
+more of the World Bank's performance criteria. The Panel can communicate its concerns about
+the grievances received directly to the World Bank. At this stage, the World Bank shall have the
+opportunity to respond to grievances.
+
+        6.4. Description of GM on Project Level
+
+
+Table 4 – Grievance Mechanism Processes
+
+ Step                       Description of Process           TimeFrame         Responsibility
+ GM                  GM structure is based on the central    Throughout      RGA Management
+ implementation      electronic point of submitting and      the project
+ structure           handling grievances.                      lifecycle
+ Grievance uptake    Grievances can be submitted via the     Throughout    RGA Information Center
+                     following channels:                     the project            PIU
+                     • RGA Information center                  lifecycle
+                     • PIU Greavance Form
+                     • e-mail to PIU
+                     • e-mail to RGA
+                     • Complaint form to be lodged via
+                          any of the above channels.
+ Sorting,            Any complaint received is forwarded    Upon receipt            PIU
+ processing          toPIU,loggedon the Project server,     of complaint
+                     and categorized according to the
+                     following complaint types:
+                          - Complaint on the service
+
+                                                                                                20
+ Step                     Description of Process          TimeFrame           Responsibility
+                      -   Complaint on the project
+                          activity (with subfolders
+                          based on the Project
+                          Components)
+                      -   Complaint on the lack of
+                          information
+                      -   Other Complaints
+ Acknowledgment   Receipt of the grievance is            Within 2 days    Local grievance focal
+ and follow-up    acknowledged to the complainant by     of receipt       points or,
+                      - Written confirmation of the                       PIU or
+                          receipt on the copy of the                      RGA Information Center
+                          grievance form
+                      - e-mail
+ Verification,    A proposed resolution is formulated Within 10           Complaint Committee
+ investigation,   byPIU and RGA Legal department and working days         composed of
+ action           communicated to the complainant by                      representatives from
+                  mail or email.                                          the PIU, RGA Legal
+                                                                          Department. Depending
+                                                                          on the type of
+                                                                          complaint the
+                                                                          Complaint Committee
+                                                                          can be enlarged with
+                                                                          the representative of
+                                                                          the other relevant RGA
+                                                                          Department
+ Monitoring and   Data on complaints are collected        30 days after            PIU
+ evaluation       inby PIU and reported to RGA           the end of the
+                  Management and WB every6 months           half year
+                                                             period
+ Provision of     Feedback from complainants              15 days after            PIU
+ feedback         regarding their satisfaction with      the complaint
+                  complaint resolution is collected by     resolution
+                  PIU
+ Training         Training will be organised for the:    One month                 PIU
+                      - RGA Information Center           after the
+                      - Local grievance focal points     project start-
+                                                         up
+
+
+
+The GM will provide an appeal process if the complainant is not satisfied with the proposed
+resolution of the complaint. Once all possible means to resolve the complaint have been
+
+
+                                                                                               21
+proposed and if the complainant is still not satisfied, then they should be advised of their right to
+legal recourse.
+
+       6.5. Sexual Exploitation and Abuse/Sexual Harassment (SEA/SH)
+
+While the risk from project activities and in the context of Serbia is low, the GM for workers shall
+include addressing disclosures of sexual exploitation and abuse (SEA) and sexual harassment (SH).
+A SEA/SH referral pathway shall be established and updated in line with the country's existing
+procedures. The GM for project staff shall also be used to address SEA/SH related issues and shall
+have mechanisms in place for safe and ethical documentation of SEA/SH issues and confidential
+reporting. In addition, the GM shall have processes in place to promptly inform both the PIU and
+the World Bank of any SEA/SH grievance with the consent of the aggrieved.
+
+The World Bank and the RGA do not tolerate reprisals and retaliation against project stakeholders
+who share their views about Bank-financed projects.
+
+7. Monitoring and Reporting
+
+       7.1. Summary of how SEP implementation will be monitored and reported.
+
+
+The SEP will be periodically revised and updated as necessary in the course of project
+implementation.
+
+Stakeholder engagement activities shall be monitored periodically and reported on twice per
+year within project Monitoring&Еvaluation reports. The documentation on stakeholder
+participation activities shall be kept within Project archives. The monitoring report will consist of:
+
+   1. Information on consultation activities shall be reported to the Bank within the scope of
+      Project Progress Reports including the following elements:
+      • Numbers, type of consultation,
+      • Number of participants, type of participants
+      • Critical issues on the agenda discussed during the meetings,
+      • Number of grievances received (disaggregated data: gender, grievance category,
+          status)
+   2. summaries and internal reports on public grievances, enquiries, and related incidents,
+      together with the status of implementation of associated corrective/preventive actions
+
+       7.2.    Reporting back to stakeholder groups
+Information on public engagement activities undertaken by the Project during the year will be
+conveyed to the stakeholder’s trough the project website where SEP and/or revised SEP will be
+published together with the semi-annual summaries and public reports on public grievances,
+enquiries, and related incidents.
+
+
+                                                                                                   22
+Exceptionally summaries and public reports on public grievances, enquiries, and related incidents
+may be conveyed to the stakeholders directly in writing if particular stakeholder group is
+influenced in any manner by the corrective/preventive actions carried by the Project.
+1For the purposes of effective and tailored engagement, stakeholders of the proposed project(s) can be divided into the following
+
+core categories:
+• Affected Parties:Persons, groups, and other entities within the Project Area of Influence (PAI) that are directly influenced
+   (actually or potentially) by the project and/or have been identified as most susceptible to change associated with the project,
+   and who need to be closely engaged in identifying impacts and their significance, as well as in decision-making on mitigation
+   and management measures.
+• Other Interested Parties:Individuals/groups/entities that may not experience direct impacts from the Project but who consider
+   or perceive their interests as being affected by the project and/or who could affect the project and the process of its
+   implementation in some way.
+• Vulnerable Groups: Persons who may be disproportionately impacted or further disadvantaged by the project(s) compared
+   with any other groups due to their vulnerable status, and that may require special engagement efforts to ensure their equal
+   representation in the consultation and decision-making process associated with the project.
+2It is particularly important to understand whether project impacts may disproportionately fall on disadvantaged or vulnerable
+
+individuals or groups, who often do not have a voice to express their concerns or understand the impacts of a project, and to
+ensure that awareness raising and stakeholder engagement be adapted to take into account such groups’ or individuals’ particular
+sensitivities, concerns, and cultural sensitivities and to ensure a full understanding of project activities and benefits.Engagement
+with vulnerable groups and individuals often requires the application of specific measures and assistance aimed at the facilitation
+of their participation in the project-related decision making so that their awareness of and input into the overall process are
+commensurate with those of other stakeholders.
+
+
+
+
+                                                         ANNEX 1
+
+
+                                 REPORT ON PUBLIC CONSULTATIONS
+
+
+
+
+                                             The Republic Geodetic Authority
+                                        Bulevar vojovde Mišića, 11000 Belgrade
+
+
+
+As required by the World Bank (WB) Environmental and Social Standard 10 (ESS10) – Stakeholder
+Engagement and Information disclosure, during the preparation of draft ESMF and SEP documents for the
+
+
+
+
+                                                                                                                                23
+Real Estate Management Project – 2 (REMP2) the Borrower carried out public consultations with relevant
+stakeholders.
+The Republic Geodetic Authority (RGA) disclosed the draft SEP document on their website on April 10 th
+2024 and announced invitation for public consultations for the public, bodies and organizations interested
+in the subject documents prepared for REMP2. The announcement was published in “Informer” daily,
+newspaper with national coverage, on April 11th 2024. The public and all interested parties and
+organizations were invited to participate in process of public consultation on draft SEP document.
+
+
+
+
+Picture 1: Announcement was published in “Informer”, on April 11 th 2024
+
+The invitation to the public consultations and draft documents in Serbian were also available on the RGA website:
+https://www.rgz.gov.rs/%D0%BE%D0%B1%D0%B0%D0%B2%D0%B5%D1%88%D1%82%D0%B5%D1%9A%
+D0%B0 and
+https://www.rgz.gov.rs/%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0-
+%D0%BE%D1%81%D1%82%D0%B0%D0%BB%D0%B0-
+%D0%B4%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0 .
+The documents in English were available on the: https://www.rgz.gov.rs/news
+On April 24th 2024, at 1:00 PM (local time), public consultations and presentation of the draft SEP document were
+organized at the premises of the RGA, Bulevar vojvode Mišića 39, Belgrade.
+No one attended the meeting, no one requested to join online, and no written comments were received by the RGA
+or Project Implementation Unit (PIU).
+The meeting started according to schedule – at 1:00 PM and ended at 1:15 PM.
+The attendees were:
+Mr. Darko Vučetić, RGA Assistant Director for Development and Innovation
+Mr. Dragan Pavlović, PIU Director
+Mr. Saša Rikanović, PIU M&E expert
+
+
+
+
+                                                                                                              24
+Picture 2: Public consultation in Belgrade, April 24th 2024.
+
+Two Power Point presentations are prepared to support discussion:
+
+
+Comments, Questions and Answers during public presentation and consultations:
+No comments and questions were raised during public presentation and consultations.
+Opinions and remarks provided in written form:
+Written opinions and remarks related to SEP documents were not received during the 15 days intended
+for consultations with interested citizens and organizations.
+
+
+
+
+                                                                                                      25
+

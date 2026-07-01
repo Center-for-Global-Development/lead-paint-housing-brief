@@ -1,0 +1,1448 @@
+Land Acquisition and Resettlement Due Diligence
+Report
+
+
+PUBLIC
+
+Document Stage: Draft for Consultation
+Project Number: 55201-001
+October 2025.
+
+
+
+
+Bangladesh: Coastal Towns Climate Resilience
+Sector Project
+
+Construction and Improvement of Reinforced Cement
+Concrete Drain-01(Length 3.701km.) in Kuakata
+Pourashava (Package: e-GP/CTCRP/KUAK/DR-01)
+
+
+
+
+Prepared by Local Government Engineering Department, Government of Bangladesh for the
+Asian Development Bank (ADB).
+             CURRENCY EQUIVALENTS
+                (As of October 2025)
+
+             Currency unit   –   taka (Tk)
+                   Tk1.00    =   $0.00824
+                    $1.00    =   Tk121.29
+
+
+                 ABBREVIATIONS
+
+ADB      -     Asian Development Bank
+AIDS     -     acquired immunodeficiency syndrome
+BAN      -     Bangladesh
+CDTA     -     Capacity Development Technical Assistance
+CTCRP    -     Coastal Towns Climate Resilience Project
+DDR      -     Due Diligence Report
+DDS      -     Detailed Design services
+DPHE     -     Department of Public Health Engineering
+FGD      -     Focus Group Discussion
+GRM      -     Grievance Redress Mechanism
+GRC      -     Grievance Redress Committee
+IEE      -     Initial Environmental Examination
+LGED     -     Local Government Engineering Department
+PAM      -     Project Administrative Management
+PIU      -     Project Implementation Unit
+PMSC     -     Project Monitoring and Supervision Consultants
+PPTA     -     Project Preparatory Technical Assistance
+SCF      -     Strategic Climate Fund
+TLCC     -     Town Level Co-ordination Committee
+TMRESC   -     Tribes, Minor Races, Ethnic Sects and Communities
+SPS      -     Safeguard Policy Statement
+
+
+             WEIGHTS AND MEASURES
+
+°C       -     Degree Celsius
+cm       -     centimeters
+km       -     kilometer
+m        -     meter
+mm       -     millimeter
+m2       -     micrograms per cubic meter
+                                                  NOTES
+
+(i) The fiscal year (FY) of the Government of Bangladesh and its agencies ends on 30 June. “FY”
+before a calendar year denotes the year in which the fiscal year ends, e.g., FY 2025 ends on 30
+June 2025.
+
+(ii) In this report, "$" refers to United States dollar.
+
+
+
+
+This land acquisition and resettlement due diligence report is a document of the borrower. The
+views expressed herein do not necessarily represent those of ADB's Board of Directors,
+Management, or Staff, and may be preliminary in nature. Your attention is directed to the
+“terms of use” section of ADB’s website.
+
+In preparing any country program or strategy, financing any project, or by making any
+designation of or reference to a particular territory or geographic area in this document, ADB
+does not intend to make any judgments as to the legal or other status of any territory or area.
+                                                CONTENTS
+ I.       INTRODUCTION                                                         1
+          A.      Background                                                   1
+          B       Project Description                                          1
+          C.      Scope of Due Diligence Report                                4
+ II.      PROJECT DESCRIPTION                                                  4
+          A.   About the Project Area                                          4
+          B.   Location of the Site                                            5
+ III.     LAND AVAILABILITY AND RESETTLEMENT IMPACTS                          17
+          A.      Land Acquisition and Involuntary Resettlement               17
+          B.      Impact on Indigenous Peoples                                19
+ IV.      FIELD WORK AND PUBLIC CONSULTATION                                  20
+          A.      Outline of Field Work                                       20
+          B.      Public Consultations                                        20
+          C.      Focus Groups Discussions (FGD)                              22
+          D.      Summary of Discussions                                      22
+          E.      Future Consultation and Disclosure                          28
+          F.      Findings                                                    29
+ V.       GRIEVANCE REDRESS MECHANISM                                         29
+ VI.      BUDGET TO IMPLEMENT SUBPROJECT COMPONENT                            32
+ VII.     CONCLUSIONS                                                         32
+          A.      Summary and Conclusion                                      32
+          B.      Next Steps                                                  33
+LIST OF TABLES:
+
+Table 1: District-wise Pourashavas where Project will be implemented          02
+Table 2: Details of proposed drains                                           03
+Table 3: Details of Land Acquisition and Involuntary Resettlement Impacts      17
+Table 4: Summary of Public Consultation                                       21
+ Table 5: Budgetary Provision for Implementation of DDR                       32
+
+  LIST OF FIGURES:
+
+  Figure 1: Google Earth Map of Kuakata Pourashava                             06
+  Figure 2: Location of DR 1-1 in Kuakata Pourashava                           07
+
+  Figure 3: Location of DR 1-2 in Kuakata Pourashava                           08
+
+  Figure 4: Topographic Site Plan of Drain                                     09
+  Figure 5: Photographs of FGD meeting and existing condition of the Drains    23
+  Figure 6: Grievance Redress Process                                          31
+  APPENDIXES:
+  Appendix 1: Involuntary Resettlement Impacts Screening Checklist             34
+
+ Appendix 2: Indigenous Peoples Impact Screening Checklist                     35
+
+ Appendix 3: Minutes of Focus Group Discussion                                37
+
+ Appendix 4: Sample Grievance Registration Format                              44
+Appendix 5: Specific Action Plan of TMRESC/IP Households                       45
+ Appendix 6: Ownership Certificate (NOC) from Pourashava                       48
+1
+
+
+
+
+                                       I. INTRODUCTION
+
+A. Background
+
+1.       The Asian Development Bank (ADB) supported Coastal Towns Infrastructure
+Environmental Infrastructure Project (CTEIP) in 10 coastal towns effectively commenced in
+September 2014 which will be completed in June 2022. As a continuity of the project ADB
+extended his support to Coastal Towns Climate Resilience Project (CTCRP) which will
+strengthen climate resilience and disaster preparedness in 22 (twenty-two) vulnerable coastal
+Pourashavas (secondary towns) of Bangladesh. The towns were selected based on their
+vulnerability, population size, density, and level of past investments. The project takes a holistic
+and integrated approach to urban development and will (i) provide climate-resilient municipal
+infrastructure, and (ii) strengthen institutional capacity, local governance, and knowledge-
+based public awareness, for improved urban planning and service delivery considering climate
+change and disaster risks. Key infrastructure investments include (i) drainage, (ii) water supply,
+(iii) sanitation, (iv) cyclone shelters, and (v) other municipal infrastructure including emergency
+access roads and bridges, solid waste management, bus terminals, slum improvements, boat
+landings, and markets. Investments will benefit the poor and women. The Ministry of Local
+Government, Rural Development and Cooperatives (MLGRDC) acting through its Local
+Government Engineering Department (LGED) will be the Executing Agency. Pourashavas are
+the implementing agencies of the project.
+
+2.      Coastal towns are particularly at risk from the impacts of climate change due to high
+levels of poverty and limited capacity of Pourashavas (urban local governments) to invest in
+resilience. The Pourashavas lack resilient infrastructure, clubbed with haphazard urbanization,
+lack of storm water drains, poor solid waste management system further worsens the condition
+of these towns. Most of the coastal towns are situated on the riverbanks of low-lying tidal zones
+at an average elevation of 1.0–1.5 meters (m) from the sea level1 and coastal flooding is a key
+hazard faced by these towns. Inadequate basic municipal infrastructure to respond to
+increasing climate risk threatens both quality of life and the economic growth of coastal towns.
+This calls for an integrated approach for coastal town development that promotes risk-
+informed planning and investment for building resilience.
+
+B. Project Description
+
+3.      The project will be aligned with the following impacts: higher and sustainable growth
+trajectories achieved in the face of the various weather-related natural hazards and risk and
+improved livability of coastal towns. The outcome of the project will be climate and disaster
+resilience of coastal towns strengthened including benefiting the poor and women. The project
+directly supports to achieve project outcomes through three outputs.
+
+4.       Output 1: Municipal infrastructure for resilience improved. Municipal infrastructure
+will include (i) elderly people, women, children, and persons with disability friendly cyclone
+shelters; (ii) 240 kms emergency access roads including bridges and culverts which are critical
+for accessing emergency services; (iii) 272 kms of storm water drains constructed for improved
+flood control; (iv) water supply and sanitation services for unserved (or underserved) core
+urban areas and slum areas; (v) seven integrated solid waste management facilities; and (vi)
+slum improvement programs for basic service improvement implemented in each Pourashava
+following poverty reduction action plan.
+
+
+
+1 Sowmen   Rahman and Mohammed Ataur Rahman. Climate Extremes and Challenges to Infrastructure
+  Development in Coastal Cities in Bangladesh. Volume 7, March 2015, Pages 96–1
+2 Government of Bangladesh, General Economics Division, Bangladesh Planning Commission Ministry of
+
+  Planning. 2020. Making Vision 2041 a Reality – Perspective Plan of Bangladesh, 2021–2041. Dhaka.
+2
+
+
+5.     Output 2: Resilient livelihood improved. Output 2 includes (i) livelihood training
+programs for diversifying the skills of poor households including women, (ii) strengthening
+market linkages for local economic development, (iii) inventory of productive assets of each
+household maintained and insured, and (iv) the Graduation Approach and Program will be
+adopted to ensure livelihood resilience.3
+
+6.       Output 3: Institutional capacity, governance, and climate-awareness strengthened.
+Output 3 includes (i) capacity of LGED and Pourashavas strengthened to undertake climate
+and disaster risk assessment to inform the formulation and update urban development plans;
+and enforcement of development control regulations that factor in natural hazards
+considerations; (ii) knowledge and capacity of LGED and Pourashavas on NbS and green
+solution application developed; (iii) municipal governance, and sustainable service delivery
+improved; and (iv) public awareness, behavior change, and community mobilization enhanced
+in light of coronavirus disease (COVID-19) and recent severe cyclones.
+
+7.     The proposed CTCRP is to be implemented in 22 Pourashavas or urban local bodies
+(ULBs). District-wise location of the towns is summarized in Table 1.
+
+          Table 1: District-wise Pourashavas where Project will be Implemented
+       District        Town (Pourashava)              District       Town (Pourashava)
+    1. Barisal        1. Bakerganj               5.   Bhola          1. Charfassion
+                      2. Mehendiganj                                 2. Lalmohan
+                      3. Banaripara                                  3. Borhanuddin
+                      4. Muladi                  6. Jhalokathi       4. Jhalokathi
+                      5. Gouranadi                                   5. Nalchity
+    2. Bagerhat       6. Bagerhat                7. Satkhira         6. Kalaroa
+                      7. Morelganj               8. Khulna           7. Paikgacha
+    3. Patuakhali     8. Patuakhali                                  8. Chalna (Dacope)
+                      9. Kuakata                 9. Pirojpur         9. Swarupkathi
+    4. Shariatpur     10. Zanjira                10. Barguna         10. Patharghata
+                      11. Bhedarganj                                 11. Betagi
+
+
+8.      This land acquisition and resettlement due diligence report is prepared for the
+construction of RCC drains in Kuakata Pourashava of Patuakhali district. The drains will be
+constructed on the existing right-of- way of the pourashava own land. The subprojects will be
+implemented under CTCRP, LGED. Improvement of drains is expected to bring various
+quantifiable benefits for the citizens of the area. The components of the subproject, shown in
+Table 2.
+                                                                                                  3
+
+                                Table 02: Details of Proposed Drains
+Sl.                                                            Details of Land Ownership and          Rem
+No                                                      Type      Involuntary Resettlement            arks
+      Name of Drains                         Length     of                 Impacts
+                                             (km)       Drai      Land           Involuntary
+                                                        ns     Ownership        Resettlement
+                                                                                   Impacts
+1.    Construction     of   RCC      Drain   3.195 km   RCC    Kuakata       No land acquisition
+      Nilanjana Hotel to Paurashava End                        Pourashava and involuntary
+      via Sikder Resort (CH. 0+0.00Km to                                     resettlement Issues
+      CH. 2+0.100km) with 3 (Three) Link                                     (refer to Table 3 for
+      drain, Link-1. Farajibari to WAPDA                                     the detailed
+      Baribandth Sarak (CH. 0+0.00km to                                      assessment).
+      CH. 0+0.258km). Link-2. Farajibari
+      to Mahbubur Rahman Sarak (CH.
+      0+0.00km to CH. 0+0.382km). Link-
+      3. Hotel Seacrown to Mahbubur
+      Rahman Sarak (CH. 0+0.00km to
+      CH. 0+0.455km), Total Length of
+      Road, L=0.908km, Ward No: 07, 08
+      & 09.
+
+2.    Construction of RCC Drain Eshakh       0.506km    RCC    Kuakata        No land acquisition
+      Hawlader House to Dopashi Para                           Pourashava     and involuntary
+      Bridge via Minhaz Mawlana House                                         resettlement Issues
+      (CH.0+0.00km to CH. 0+0.506km),                                         (refer to Table 3 for
+      Total Length of drain L=0.506km,                                        the detailed
+      Ward No.08.                                                             assessment).
+
+                  Total                      3.701km
+4
+
+                             C. Scope of Due Diligence Report
+
+9.      This due diligence report (DDR) is prepared for the proposed construction work of DR-
+01 in Kuakata Pourashava. The report is prepared based on the available preliminary design
+and the Sub Project Appraisal Report (SPAR) prepared for this project and relevant sections
+of the Capacity Development Technical Assistance (CDTA) Report; discussions with related
+stakeholders and PIU/Pourashava authorities and consultation with the Department of Public
+Health Engineering (DPHE) personnel.
+
+10.    Social safeguards due diligence has been conducted to examine the land acquisition
+and resettlement issues in detail based on the preliminary design and information, aligned with
+Asian Development Bank’s Safeguard Policy Statement (ADB SPS), 2009. All construction
+work will use Pourashava land, no land acquisition or involuntary resettlement impacts have
+been identified as the proposed land is free from any encumbrances.
+
+11.    Any adverse impact in terms of permanent or temporary such as land acquisition,
+physical displacement, economic displacement, adverse impact on livelihood, community
+properties or any other impact is not anticipated due to the proposed project. This report
+describes the findings and provides copies of relevant documents, community consultations
+and photographs.
+
+12.      The DDR will be updated during design verification by the contractor, in case of any
+design or alignment change. The updated document will be submitted to ADB for clearance,
+prior to start of construction. The Executive Engineer of the concerned Pourashava will be the
+focal person for all social safeguard related issues. The draft DDR will be reviewed and
+disclosed on MLGRDC, LGED and ADB websites.
+
+
+                                 II. PROJECT DESCRIPTION
+A. About the Project Area
+
+13.    Kuakata is a town in southern Bangladesh known for its panoramic sea beach. Kuakata
+beach is a sandy expanse 18 km. long and 3 km wide. From the beach, one can have an
+unobstructed view of both sunrise and sunset over the Bay of Bengal. Kuakata is situated in
+Kalapara Upazila, Patuakhali District. It is about 320 km south of Dhaka, the capital, and about
+70 km from the district headquarters.
+
+14.      The town Kuakata has sea beach named Kuakata Beach. Many tourists visit the place
+to see the beach although it hasn’t received international recognition like Cox’s Bazar Beach
+but it remains to be popular in Bangladesh. There are many places tourist visit such as: (a)
+Kuakata National Park; (b) Kuakata Ecopark; (c) Forest of Fatra (The protected mangrove
+forest on the western side of the beach is known as the ‘second Sundarban’); (d) Well of
+Kuakata; for the Shima Buddhist Monastery; (f) Rakhaine settlement of Keranipara; (g) Alipur
+Port; (h) Mishripara Buddhist Monastery; and (i) Forest of Gangamati.
+
+
+15.      Being situated adjacent to the Bay of Bengal, Kuakata Pourashava have experience
+frequent natural disasters every year, leading to increase suffering among its inhabitants.
+Adding to this, climate change effect has speed up the frequency of natural disaster like,
+cyclone, tidal, storm surge, thunderstorm, excessive rainfall, rising temperature, increase
+salinity, land slide, erosion of riverbanks, etc. and these are the major disaster for Kuakata in
+Potuakhali district. The Pourashava is more susceptible to floods, cyclonic surges and heavy
+rainfalls. There are no sufficient cyclone shelters in Kuakata Pourashava that would provide
+refuge to the affected vulnerable population during the hazard situation.
+                                                                                             5
+
+
+16.     The area of Kuakata Pourashava is 12.75 km spread over 3 mouzas, 9 mahallas in
+Kalapara Upazila of Potuakhali District under Barisal Division. Kuakata Pourashava is
+bounded by 7 No. Latachapli Union to the North, East and Weast and Bay of Bengal to the
+south. About 6,000 households with 49,900 population (male 25,100 and female 24,800)4 are
+currently living in the town. The Pourashava consists of 9 wards.
+
+17.    The Pourashava has a total of 40 km pucca road, 2 km semi pucca road, 30km kancha
+road. There are 1 government hospital, 4 private clinics, 1 post office and 11 public toilets in
+Kuakata Pourashava. The Pourashava also 1 non-government, secondary schools, 7
+government, primary schools, 3 kindergarten, 10 madrasah, 2 pagoda, 32 mosques, and 102
+ponds
+
+18.     The Pourashava has plans to strengthen the provision of citizen services by increasing
+collection of revenue by taking up income generating activities. Kuakata Pourashava also has
+plans to develop as a tourist centre with roads, sewerage modernization, construction of
+children’s park, installation of cable cars, modernization of entertainment spots.
+
+B. Location of the Site
+
+19.    The proposed drains are at Kuakata Pourashava. Kuakata Pourashava is located
+under Kalapara Upazila in Patuakhali District of Barishal Division on the southern part of
+Bengal Basin. It is situated at 21°48′55.98″ north latitude and 90°07′18.62″ east longitude by
+its municipal central zero point. Nationally, it is a newly declared municipality (proposed on
+15th December 2010 and implemented in May 2011) area under the Latachapli Union,
+Kalapara Upazila. It is 350 km away from the capital city Dhaka. Kuakata, locally known as
+Sagar Kannya (Daughter of the Sea). Kuakata Pourashava is bounded to the north by the
+Upazila headquarters of Kalapara Upazila, to the south by the Bay of Bengal, and
+Andharmanik, Galachipa and Khaprabhanga rivers to the east, west and north respectively.
+
+20.     Kuakata is known for its panoramic sea beach. Being situated adjacent to the Bay of
+Bengal, Kuakata Pourashava have experience frequent natural disasters every year, leading
+to increase suffering among its inhabitants in many aspects. Due to inadequate and non-
+functional drains lead the sufferings especially during rainy season.
+
+21.    The project consists of three components i) improved climate-resilient infrastructure ii)
+strengthening institutional capacity, governance, and awareness, and iii) project management
+and administrative support. The outcome of the project will be improved access to climate
+disaster resilience municipal services including i) municipal infrastructure such as drainage,
+cyclone shelters, urban roads, bridges, culverts, solid waste management, bus terminals, slum
+improvement, boat landing and markets; ii) water supply and iii) sanitation.
+
+22.     The proposed alignments for the drains under Kuakata Pourashava, District:
+Patuakhali are located within the Pourashava area, which are mostly within urban areas. Total
+length of the proposed drains is 3.701 km. Refer to Figure 1 Google earth map, Figure 2 & 3
+location map and Figure 4 Topographic Site Plan of the Kuakata pourashava where the
+proposed drains will constructed/improved.
+6
+
+
+                     Figure 1: Google Earth Map of Kuakata Pourashava
+
+
+
+
+    Source: Google Earth Pro, Image 2024.
+                                                      7
+
+Figure 02: Location of DR 1-1 in Kuakata Pourashava
+8
+
+    Figure 03: Location of DR 1-2 in Kuakata Pourashava
+                                            9
+
+Figure 04: Topographic Site Plan of DR-01
+10
+11
+12
+13
+14
+15
+16
+                                                                                                17
+
+                III. LAND AVAILABILITY AND RESETTLEMENT IMPACTS
+
+A. Land Acquisition and Involuntary Resettlement
+
+23.    The social safeguard study for the proposed package, e-GP/CTCRP/KUAK/DR-01, of
+the Kuakata Pourashava indicates that there is no need for land acquisition as drains will be
+constructed on the existing available land of Kuakata Pourashava.
+
+24.    The scope of the land acquisition and involuntary resettlement has been assessed
+during field visits and data collection. The project will not result into any permanent or
+temporary land acquisition and no involuntary resettlement impact is envisaged, as the
+proposed site and development activities are within the vacant land of existing drains. All the
+construction works will be undertaken to implement the proposed drains within the right-of-
+way. The DDC engineering team has made efforts to avoid any resettlement impacts by careful
+design and verification.
+
+25.      It was revealed through a physical investigation that the subproject will not impact any
+privately owned land for undertaking civil works. As such, no land acquisition and resettlement
+will be required. There will also be no loss of livelihood, either permanent or temporary to
+titleholders or non-titled persons.
+
+26.    The detail of land acquisition and involuntary resettlement impacts, which has been
+assessed using a standard involuntary resettlement checklist, undertaking a complete transect
+walk for the subproject, is shown in Table 3.
+
+       Table 3: Details of Land Acquisition and Involuntary Resettlement Impacts
+
+              Component                  Length      Land                       IR Impact
+                                          (km)     Ownership
+  1.Construction of RCC Drain           3.195 km   Kuakata      The drain will be constructed on the
+  Nilanjana Hotel to Paurashava End                Pourashav    existing available land of the Kuakata
+  via Sikder Resort (CH. 0+000Km to                a            Pourashava. Implementing the RCC drain
+  CH. 2+100km) with 3 (Three) Link                              will not cause temporary or permanent
+  drain, Link-1. Farajibari to WAPDA                            income loss or impact structures. There
+  Baribandth Sarak (CH. 0+000km to                              are no issues related to land acquisition or
+  CH. 0+258km). Link-2. Farajibari to                           involuntary resettlement.
+  Mahbubur Rahman Sarak (CH.
+  0+000km to CH. 0+382km). Link-3.
+  Hotel Seacrown to Mahbubur
+  Rahman Sarak (CH. 0+000km to
+  CH. 0+455km), Total Length of
+  Road, L=908m, Ward No: 07, 08 &
+  09.
+
+  2. Construction of RCC Drain          0.506 km   Kuakata      The drain will be constructed on the
+  Eshakh Hawlader House to Dopashi                 Pourashav    existing available land of the Kuakata
+  Para Bridge via Minhaz Mawlana                   a            Pourashava. Implementing the RCC drain
+  House (CH.0+000km to CH.                                      will not cause temporary or permanent
+  0+506km), Total Length of drain                               income loss or impact structures. There
+  L=506m, Ward No.08.                                           are no issues related to land acquisition or
+                                                                involuntary resettlement.
+18
+
+27.     The contract is planned to be implemented over a period of 12 months. Detailed
+designs have been prepared; the DDR will be updated during design verification by the
+contractor, in case of any change in design or alignment. The package for the construction of
+the proposed drain is to be implemented by post-qualified contractors under a single envelope
+single stage bidding process through National Competitive Bidding (NCB) procedures.
+
+28.     The stated time period will depend on the resources put in place by the contractor. Pre-
+construction activities include detailed design, bidding process (Notice inviting Bids, Bid
+submission, evaluation and award of work to the contractor). The pre- construction activities
+will be completed within a 6-month period. The summarized construction schedule is given in
+the Initial Environmental Examination (IEE) report. The general arrangement drawings
+including typical details, plans, cross-sectional details and long sections are also given.
+
+29.      The construction schedule of drain depends on the methodology adopted for
+construction. The stated time period will depend on the resources put in place by the
+contractor. Pre-construction activities include detailed design, bidding process (Notice inviting
+Bids, Bid submission, evaluation and award of work to the contractor). The pre- construction
+activities will be completed within a 6-month period. The summarized construction schedule is
+given in the Initial Environmental Examination (IEE) report. The general arrangement drawings
+including typical details, plans, cross-sectional details and long sections are also given.
+
+30.     The project is not likely to have any adverse social impact on the project area, other
+than the short-term impacts during the construction phase. The baseline data for this Due
+Diligence Report was collected from primary and secondary sources. The primary sources
+include site visits and visual inspection. The secondary sources include reports, books, maps
+and legal documents from various government and non-government organizations on subject
+matter.
+
+31.     The impacts are assessed based on preliminary design and standard methodology for
+the review, field visit data collection and impact assessment. The Bangladesh National Acts,
+Legislation and Laws were consulted with a view to ensuring compliance with the relevant
+requirements.
+
+32.     The outcome of the CTCRP interventions will be to improve access to, and availability
+of, climate-disaster resilient municipal services, including (i) municipal infrastructure such as
+roads, drainage, cyclone shelters, urban drains, bridges, culverts, solid waste management, bus
+terminals, slum improvements, boat landings, and markets, (ii) water supply, and (iii)
+sanitation.
+
+33.     Detailed designs were prepared; the DDR will be updated during design verification by
+the contractor, in case of any alignment or design change. The updated document will be
+submitted to ADB for clearance, prior to start of construction. The subprojects will avoid land
+acquisition. There are no anticipated adverse impacts in terms of Involuntary Resettlement or
+Indigenous People for the selected drain projects. In case of temporary physical or economic
+impacts are identified during construction, negotiated settlement or voluntary land donation
+can be also used as an alternate to land acquisition as guided in the Resettlement Framework.
+The project will ensure social safeguards mitigation measures according to the guidance of
+the Resettlement Framework of the project adhered to ADB SPS, 2009.
+
+
+
+
+B. Impacts on Indigenous Peoples/TMRESC
+                                                                                                  19
+
+34.    According to ADB Safeguard Categories, Projects are classified into the following four
+categories in terms of indigenous people:
+
+(i) Category A. A proposed project is likely to have significant impacts on indigenous peoples.
+An indigenous people’s plan (IPP), including assessment of social impacts, is required.
+
+(ii) Category B. A proposed project is likely to have limited impacts on indigenous peoples.
+An IPP, including assessment of social impacts, is required.
+
+(iii) Category C. A proposed project is not expected to have impacts on indigenous peoples.
+No further action is required.
+
+(iv) Category FI. A proposed project involves the investment of ADB funds to or through a
+financial intermediary. The financial intermediary must apply and maintain an environmental
+and social management system, unless all of the financial intermediary's business activities
+unlikely to have impacts on indigenous peoples.
+
+35.    As per Bangladesh Population and Housing Census 2011, 154 or 1.67% out of the
+9,177 pourashava’s total population are from the Rakhain community. Majority of Rakhain
+people living in Bangladesh are concentrated in the rehabilitation area: Cox’s Bazar
+municipality, Khuruskul, Chowfaldandi, Ramu sadar, Panerchhara, Ashkor Kata, Teknaf
+sadar, Kharangkhali, Hneela, Harbang of Chokoria, Gorokhghata of Maheskhali and
+Khepupara and Kuakata of Patuakhali.
+
+36.      Rakhain is a small ethnic community/TMRESC in Kuakata, migrated from Arakan of
+Myanmar some 200 years back. Rakhain Palli consists of several villages including Monthey
+Para, Kerani Para, and Amkholapara. Notably, Kerani Para and Monthey Para are situated
+within the Kuakata Pourashava. There are 26 households with 125 population are currently
+living in Kerani Para and 10 households with 45 population in Monthey Para. The proposed
+drain will not pass through/traverse the Rakhain community. No assets such as
+homesteads, structures, trees or any kind of immovable property nor livelihood activities will
+be affected due to improvement of the drain from the Rakhain community. The
+construction/improvement of drains will benefit the rakhain households by providing improved
+access and connectivity to markets, jobs, schools and health centers. All the proposed
+construction activities will be done within the right of way and along the existing drains routes
+on government land owned by Kuakata pourashava. No direct or indirect impacts on the
+dignity, human rights, livelihood systems, or natural or cultural resources or territories of
+TMRESC are anticipated
+
+37.      Specific Action Plan. Further, to enhance project benefits to SEC, ensure culturally
+appropriate project implementation, address any potential safeguards issues and ensure
+inclusion, a specific action plan for indigenous peoples/small ethnic community is proposed
+for this subproject. The action plan will carry out the following specific activities: (i) a baseline
+survey10 will be conducted to enable tracking of benefits to small ethnic households within the
+project influence area; (ii) proposed benefits (e.g. access to roads) to SEC households will be
+shared and monitored; (iii) IEC materials, information sharing, consultations and other
+activities stated in the CAPP will be culturally sensitive and appropriate when implemented;
+(iv) the chief of the tribe or a member of the tribal council as traditional arbitrator (to ensure
+that traditional grievance redress systems are integrated) and an NGO/CSO working with SEC
+will be special invitees, when required. GRC will also ensure that grievance redress
+established is gender inclusive in receiving and facilitating resolution of the SEC concerns; (v)
+consultations with SEC households will be conducted in all subproject stages which shall help
+in identifying any culture-specific requirements and traditions like avoidance of any specific
+festival days, and/or other activities with cultural significance to the SEC communities during
+civil work; and any other SEC related issues and concerns that may be of importance to the
+community. An end-line sample survey will be conducted to document the views of SEC
+households about subproject benefits. Such survey is in line with subproject internal
+monitoring. The proposed action plan with activities, timelines and responsibilities is attached
+in Appendix 5. This action plan will be used for project monitoring to ensure that SEC/IP
+activities are undertaken on a timely basis and reported semi-annually and to determine
+20
+
+whether project objectives have been achieved.
+
+                      IV. FIELD WORK AND PUBLIC CONSULTATION
+
+A. Outline of the Field Work
+
+38.     The DDR was prepared in consultation with the stakeholders. Meetings and individual
+interviews were held by involving related stakeholders. Consultations have been made with
+the people of the locality along with the Pourashava personnel and related authorities. Public
+consultation with the stakeholders has been conducted to understand the local issues and
+public views including the possible impact of the project. The issues like, awareness and extent
+of the project and development components, benefits of project as well as community, labor
+availability in the project area or requirement of outside labour involvement, local disturbances
+due to project construction work, any drainage problem, drinking water problem, and any
+sensitive area nearby the project road sites.
+
+39.      During subproject preparation, consultations were held with the official representatives
+of the line agencies, and also the communities from the selected drains sites and the nearby
+project areas. None of the community members opposed the sub-project.
+
+B. Public Consultation
+
+40.     Public participation and community consultation has been taken up as an integral part
+of the social assessment process of the project. Consultation was used as a tool to inform and
+educate stakeholders about the proposed action both before and after the development
+decisions were made. It assisted in the identification of the impact’s problems associated with
+the project as well as the needs of the community.
+
+41.    This participatory process helped in reducing the public resistance to change and
+enabled the participation of the local people in the decision-making process. Initial Public
+consultation has been carried out in the project areas with the objectives of minimizing
+probable adverse impacts of the project and to achieve speedy implementation of the project
+through bringing in awareness among the community on the benefits of the project.
+
+42.    As part of the project consultations, efforts were made to consult with the public as well
+as a number of local authorities, to determine their thoughts, opinions and feedback on the
+impact of the proposed construction/improvement of the selected drains. Information and
+comments collected from the public early in the study process were of use.
+
+43.     Different stakeholders were consulted to give them the opportunity to express their
+views and concerns. As part of the process, they were also provided with relevant and
+sufficient information on the project prior to its start - up. These stakeholders include the central
+and local authorities, as well as the population so as to determine their thoughts, opinions and
+feedback on the impact of the project. The main groups of stakeholders met are: Local
+authorities, community people and potential shelter users; and Schools, Colleges, Mosque,
+Madrassa and cooperative leaders. During the consultative process, beside the local
+authorities and ordinary population (potential road users), other related drain side users cum
+organizations were also invited to attend the consultation meetings.
+
+44.     During these consultations, the project explained to the communities about the project,
+its benefits, social and environmental impacts. The participants were encouraged to be open
+and make known their concerns and claims. The presentation highlighted the project
+background, objectives, expected upcoming activities, social economic information, and
+environmental information. The salient features of the meetings are presented below:(i) create
+awareness of the project; and to obtain stakeholders responses, feedback and concerns on
+the project. After the presentations, the community was given opportunity to give their views,
+comments, and queries. The concerns of the communities were addressed during the meeting
+in which the local participants expressed repeatedly their main concerns as follows drains
+connectivity and access issues, prospects of jobs and income generating activities; and
+potential disruption to road users and public access during construction phase.
+                                                                                           21
+
+45.    Comments or questions raised by stakeholders were responded to. The consultant
+explained that positive and negative impacts of the project on people and the environment will
+be analyzed such as air pollution, dust, influx of people, employment. All the participants
+confirmed that they appreciate the Project. The project received high degree of acceptability,
+which will boost local economy due to improved climate change resilient designs, road access
+and assured durability.
+
+46.    The data obtained from public consultation and views as well as concerns from different
+stakeholders are given is details in Table 4.
+
+                        Table 4: Summary of Public Consultations
+
+ 01    Question     What is the construction plan of the proposed drains?
+       Answer       Proposed drains will be 3.701 km length.
+
+ 02    Question     Who is responsible for construction and operations?
+       Answer       Pourashava will play role as implementing agency in construction,
+                    operation, and maintenance of the proposed drains in the Pourashava
+                    area
+ 03    Question     Who will Pourashava support cost for major maintenance?
+       Answer       This is the responsibility of the Pourashava to manage required fund for
+                    repair and maintenance, as well as logistics during disaster period for
+                    realizing development objective of this project
+ 04    Question     What will be the criteria for labour recruitment during construction?
+       Answer       This largely depends on the types of job and will be assessed on a case-
+                    to-case basis by the contractor according to needs.
+ 05    Question     Priority for jobs should also consider women; women can do the same
+                    work.
+       Answer       Priority will include women and there will not be any discrimination.
+ 06    Question     Raised the issue of employment, he suggested that the local people
+                    should be the first ones to be employed in the project.
+       Answer       The consultant team explained that local people will be employed
+                    accordingly to job requirement.
+ 07    Question     Wishes to speed up the project?
+       Answer       It was explained that implementation will take place immediately after
+                    the rainy season.
+ 08    Question     The construction creates lot of dust and noise, is there any increase
+                    anticipated.
+       Answer       The increase in dust and noise will be at construction site and all
+                    mitigation measures will be taken in place by the contractor.
+
+
+
+
+C. Focus Group Discussions
+
+47.    As part of the impact assessment, the project consultants also conducted focus group
+22
+
+discussions. Focus groups are useful in obtaining a particular kind of information that would
+be difficult to obtain using other methodologies.
+
+48.     Focus Group Discussions (FGD) were conducted for the proposed drains on 02
+September, 2025 at the existing drains with 41 local people. The objective of the FGDs was
+to further appraise the stakeholders about the current progress of the subproject and to
+reiterate the environmental and social impacts of the proposed subproject and safeguards
+to mitigate the same. Comments or questions raised by the group were discussed until they
+were satisfied with the level of information provided.
+
+49.    Key concerns raised by the participants during consultation meetings are as
+follows:
+
+(i) The participants were happy to have improved drainage conditions and proper drainage
+system as they often face water logging situation during rainy season.
+
+(ii) The community mentioned that they will cooperate during project implementation.
+
+(iii) The participants opined to be happy to have improved drains facility in the near future by
+the Pourashava.
+
+(iv) Engage local people to construction works by their capacity, if possible.
+
+(v) Construction works should be completed in dry season.
+
+(vii) For any complaints/grievances, the participants were informed that there would be a
+project specific grievance redress mechanism and the contact numbers of the point person
+will be shared with affected persons and community people.
+
+D. Summary of Discussions
+
+50.     The existing condition of the drains are poor and needs development for a smooth
+network. Local people expressed their deep interest for development of the selected drains
+under the Project. The Pourashava officials assured the people that they will provide them with
+any help they need. The Rakhain community will be benefited. The people appreciated ADB’s
+Resettlement Policy for eligibility criteria, entitlement for compensation and resettlement
+assistance, as well as the provisions of the approved Resettlement Framework for the project.
+The roads schemes will improve socioeconomic conditions of the local people through creating
+more opportunity of income and employment, as well as exploiting local resources for boosting
+local productions.
+
+51.    Refer to Figure 5 for the photographs taken during the consultation meetings held at
+the respective drain sites and photographs of depict existing condition of the drains of the
+Pourashava. In addition, Appendix 3 shows the meeting, s details and attendances.
+
+
+
+
+     Figure 05: Photograph of FGD meeting and Existing Condition of the Drains
+23
+24
+                                                                                                                  25
+
+                                 Existing Condition of the Drains
+
+
+
+
+Construction of RCC Drain Nilangona Hotel to Pourashava      Construction of RCC Drain Nilangona Hotel to
+End Vaia Sikder Resort, (Photo-01) Ward no-07,08,09, Under   Pourashava (Photo-02) Ward no-07,08,09, Under
+Kuakata Pourashava, Kalapara, Patuakhali. CH 0.0m(main).     Kuakata Pourashava, Kalapara, Patuakhali
+
+
+
+
+Construction of RCC Drain Nilangona Hotel to Pourashava      Construction of RCC Drain Nilangona Hotel to
+End Vaia Sikder Resort, (Photo-03) Ward no-07,08,09, Under   Pourashava End Vaia Sikder Resort, (Photo-04) Ward
+Kuakata Pourashava, Kalapara, Patuakhali.ch 1200m (main)     no-07,08,09, Under Kuakata Pourashava,
+26
+
+
+
+
+     Construction of RCC Drain Nilangona Hotel to Pourashava      Construction of RCC Drain Nilangona Hotel to Pourashava
+                                                                  End Vaia Sikder Resort, (Photo-06) Ward no-07,08,09, Under
+     End Vaia Sikder Resort, (Photo-05) Ward no-07,08,09, Under
+                                                                  Kuakata Pourashava, Kalapara, Patuakhali.ch 1850.0m (main)
+     Kuakata Pourashava, Kalapara, Patuakhali. Ch.1900m (main)
+
+
+
+
+      link 01: Faraji Bari to Wapda very Bandth Sarok ch 5.0m     Link-2: Faraji Bari to Mahabobur Rahaman sarok ch0.0
+     (Photo-01).                                                  (Photo-01)
+                                                                                                           27
+
+
+
+
+                                                        Link-03, Hotel Seacrown to mahabur Rahman Sarok ch0.0 m
+Link-2 Faraji Bari to Mahabobur Rahaman sarok ch 382m   Start (Photo-01).
+out fall other drain (Photo-02).
+
+
+
+
+Link-03,Hotel Seacrown to mahabur Rahman Sarok ch 455   Link-03, Hotel Seacrown to mahabur Rahman Sarok ch0.0
+m out fall other drain (Photo-02)                       m Start (Photo-01).
+28
+
+
+
+
+     Link-03, Hotel Seacrown to mahabur Rahman Sarok ch 455   Construction of RCC Drain Eshakh Hawlader House to
+     m out fall other drain.                                  Dopashi Para Bridge Under Kuakata Pourashava.
+
+
+
+E. Future Consultation and Disclosure
+
+52.    This DDR and other relevant documents will be made available at public locations in
+the Pourashava and posted on the websites of executing agencies and ADB. The consultation
+process will be continued and expanded during the project implementation, to ensure
+stakeholders participate fully in project execution, as well as to implement comprehensive
+information, education, and communication plan.
+
+53.     The public consultation and disclosure program, with all interested stakeholders and
+affected parties, will remain a continuous process throughout the project implementation, and
+shall include the following:
+
+(i) Consultations during construction phase: (a) public meetings with affected communities to
+discuss and plan work programs and allow issues to be raised and addressed once
+construction has started; and (b) smaller scale meetings to discuss and plan construction work
+with individual communities to reduce disturbance and other impacts, and to provide a
+mechanism through which stakeholders can participate in project monitoring and evaluation.
+
+(ii) Project information disclosure: (a) public information campaigns (via newspaper, flyers, and
+media) to explain the project to the wider city population and prepare them for disruptions they
+may experience once construction is underway; (b) public disclosure meetings at key project
+stages to inform the public of progress and future plans, and to provide copies of summary
+documents in local language; (c) formal disclosure of completed project reports by making
+copies available at convenient locations in the study areas, and informing the public of their
+availability; and (d) providing a mechanism through which comments can be made.
+                                                                                               29
+
+F. Findings
+
+54.    In this subproject intervention, no impacts including full or partial, permanent or
+temporary, physical and economic displacements are assessed. No direct or indirect impacts
+on the dignity, human rights, livelihood systems, or natural or cultural resources or territories
+of TMRESC are anticipated for this subproject.
+
+55.    The construction will be carried out in a systematic manner following the contractor’s
+work plan during the whole implementation period.
+
+56.  The proposed project is not assessed to have any adverse impact on the status of
+women and/or girls to widen gender inequality.
+
+                          V. GRIEVANCE REDRESS MECHANISM
+
+57.      A project-specific grievance redress mechanism (GRM) has been established to
+receive, evaluate, and facilitate the resolution of AP’s concerns, complaints, and grievances
+about the social and environmental performance at the level of the project. The GRM will aim
+to provide a time-bound and transparent mechanism to voice and resolve social and
+environmental concerns linked to the project. Assessment of the GRM designed and
+implemented for Coastal Towns Climate Resilience Project (CTCRP) shows that the system
+is effective in timely resolution of grievances in a transparent manner. The arrangements under
+CTCRP are appropriately adjusted to accommodate the change in institutional arrangements
+under CTCRP.
+
+58.    Common GRM. A common GRM is in place for social, environmental, or any other
+grievances related to the project; the RPs, RSECPs and IEEs will follow the GRM described
+below, which is developed in consultation with key stakeholders. The GRM will provide an
+accessible and trusted platform for receiving and facilitating resolution of affected persons‟
+grievances related to the project. The multi-tier GRM for the project is outlined below, each tier
+having time-bound schedules and with responsible persons identified to address grievances
+and seek appropriate persons‟ advice at each stage, as required.
+
+59.     Across the Pourashava, public awareness campaigns will ensure that awareness on
+grievance redress procedures is generated through the campaign. The project implementation
+unit (PIU) under the guidance of Assistant Director RPMU will conduct Pourashava-wide
+awareness campaigns to ensure that poor and vulnerable households are 13 made aware of
+grievance redress procedures and entitlements and will work with the PIU safeguards
+assistant to help ensure that their grievances are addressed.
+
+60.     Affected persons (APs) will have the flexibility of conveying grievances/suggestions by
+dropping grievance redress/suggestion forms in complaints/suggestion boxes that will be
+installed by project Pourashavas or through telephone hotlines at accessible locations, by e-
+mail, by post, WhatsApp or by writing in complaints register that will be kept in pourashava
+offices. Appendix 5 has the sample grievance registration form. Careful documentation of the
+name of the complainant, date of receipt of the complaint, address/contact details of the
+person, location of the problem area, and how the problem was resolved will be undertaken.
+The Assistant Directors from project management unit (PMU), RPMU and Project
+Implementation Unit (PIU) will have the overall responsibility for timely grievance redressed
+on environmental and social safeguards issues and for registration of grievances, related
+disclosure, and communication with the aggrieved party.
+
+61.     Grievance redress process. In case of grievances that are immediate and urgent in the
+perception of the complainant, the Social Coordinator, Contractor and Social Safeguard and
+Environment Specialist from the project management and supervision consultants (PMSC) on-
+site will provide the most easily accessible or first level of contact for quick resolution of
+grievances. The contact phone numbers and names of the concerned PIU safeguards
+assistant, contractors, PMU safeguards officer, PMSC environmental and social safeguards
+specialists will be posted at all construction sites at visible locations.
+30
+
+62.    1st Level Grievance, Pourashava Level PIU. The contractors, PIU Safeguard and
+Gender Focal person can immediately resolve issues on-site or at pourashava level in
+consultation with each other with the support of Administrative Officer of Pourashava,
+designated municipal ward councillor and will be required to do so within 7 days of receipt of
+a complaint/grievance. Assistance of ward level coordination committees (WLCC) will be
+sought if required for resolution of the issue, by any one or all of them jointly. The first level
+grievance redress team will comprise of the following members:
+         (i)     Chief Executive Officer or in his absence Pourashava Secretary
+         (ii)    Executive Engineer, Pourashava (Safeguard and Gender Focal person)
+         (iii)   Administrative Officer, Pourashava
+         (iv)    Municipal Ward Councilor (designated)
+         (v)     EHS Supervisor/Social Coordinator, Contractor
+
+63.     The town-level grievance redress team shall have at least one women member. In
+addition, for project-related grievances, representatives of affected persons, community-
+based organizations (CBOs), and eminent citizens must be invited as observers in GRC
+meetings. In case of any impacts on Tribes, Minor Races, Ethnic Sects and Communities’
+(TMRESC)), in subproject towns (example: Kuakata), the grievance redress team must have
+representation of the affected MRESC, the chief of the TMRESC group as traditional arbitrator
+(to ensure that traditional grievance redress systems are integrated) and/or an NGO working
+with TMRESC.
+
+64.     2nd Level Grievance, RPMU, Division Level. All grievances that cannot be
+redressed within 7 days at PIU level will be brought up to the RPMU level. Second level
+grievance redress team headed by the Deputy Project Director, RPMU supported by the
+Assistant Directors (environment, social safeguard and gender) and Construction Supervision
+and Safeguards Engineers /Asst. Supervision and Safeguards Engineers, PMSC will attempt
+to resolve the grievance /complaint within 7 days. At the RPMU level, the composition of 2nd
+level grievance redress team will be as follows:
+
+         (i)   Deputy Project Director
+         (ii)  Assistant Director (Environmental Safeguards)
+         (iii) Assistant Director (Social Safeguards)
+         (iv)  Assistant Director (Gender) supported by Construction Supervision
+         and Safeguards Engineers /Asst. Supervision and Safeguards Engineers,
+         PMSC.
+
+65.    3rd Level Grievance, PMU Level. All grievances that cannot be redressed within 7
+days at RPMU level will be brought up to the PMU level. The RPMU safeguards team will refer
+any unresolved or major issues to the PMU level grievance redress team, that will be headed
+by the Project Director and will have Deputy Project Director, social safeguard, environment
+safeguards and gender Assistant Directors and PMSC, who will resolve the
+complaints/grievances within 15 days. The PMU level grievance team will comprise of:
+         (i)     Project Director, PMU
+         (ii)    Deputy Project Director (Safeguards)
+         (iii)   Assistant Director (Environment)
+         (iv)    Assistant Director (Social Safeguards)
+         (v)     Assistant Director (Gender) supported by Social, Environment and Gender
+                 Specialist, PMSC
+
+66.    The grievance redress process is represented in Figure 6.
+
+67.   Despite the project GRM, an aggrieved person shall have access to the country's legal
+system at any stage and accessing the country's legal system can run parallel to accessing
+the GRM and is not dependent on the negative outcome of the GRM.
+                                                                                                    31
+
+68.      In the event that the established GRM is not in a position to resolve the issue, the
+affected person also can use the ADB Accountability Mechanism (AM) through directly
+contacting (in writing) the Complaint Receiving Officer (CRO) at ADB headquarters or the ADB
+Bangladesh Resident Mission (BRM). Before submitting a complaint to the Accountability
+Mechanism, it is necessary that an affected person makes a good faith effort to solve the
+problem by working with the concerned ADB operations department and/or BRM. Only after
+doing that, and if they are still dissatisfied, will the Accountability Mechanism consider the
+compliant eligible for review. The complaint can be submitted in any of the official languages
+of ADB’s developing member countries. The ADB Accountability Mechanism information will
+be included in the project-relevant information to be distributed to the affected communities, as
+part of the project GRM.
+
+
+
+
+                            Figure 6: Grievance Redress Process
+ GRC = grievance redressal committee; PIU = project implementation unit; PMSC = project management and
+ supervision consultants; PMU = project management unit.
+ Note: In case of project towns where impacts to TMRESC are assessed, the PIU-level grievance redress
+ committee/team will have representation of the affected TMRESC.
+
+69.     Record keeping. Records will be kept by PIU of all grievances received, including
+contact details of complainant, date the complaint was received, nature of grievance, agreed
+corrective actions and the date of the incident and final outcome. The number of grievances
+recorded and resolved and the outcomes will be displayed/disclosed in the PMU office,
+municipal office, and on the web, as well as reported in the safeguards monitoring reports
+submitted to ADB on a semi-annual basis.
+
+70.     Periodic review and documentation of lessons learned. The PMU safeguard officer will
+periodically review the functioning of the GRM in each town and record information on the
+effectiveness of the mechanism, especially on the project’s ability to prevent and address
+grievances.
+
+71.    Costs. All costs involved in resolving the complaints (meetings, consultations,
+communication and reporting/information dissemination) will be borne by the concerned PIU at
+town-level; while costs related to escalated grievances will be met by the PMU. Any
+transportation costs incurred by affected persons or their representatives (e.g., CBOs,
+TMRESC representative/NGOs) to attend GRC meetings will be reimbursed by the concerned
+PIU. Cost estimates for grievance redress are included in resettlement cost estimates.
+
+               VI. BUDGET TO IMPLEMENT SUBPROJECT COMPONENT
+32
+
+72.     A budget is included in this due diligence for implementation of the subproject
+component, ‘Construction of Drain under Kuakata Pourashava. The budget will include (i)
+conducting detailed measurement survey in case of design or alignment changes at design
+verification stage, (ii) consultation and grievance redress cost, and (iii) contingency provision.
+The budget is outlined in Table 4.
+
+                  Table 5: Budgetary Provision for Implementation of DDR
+               Item Description                  Unit      Rate          Total Amount
+                                                           (BDT)             (BDT)
+ DMS Survey for DDR updating (In case of          LS                          1,50,000.00
+ design or alignment changes at design
+ verification stage)
+ Consultation                                     LS                          1.50,000.00
+ Grievance Redress                                                            1.50,000.00
+                                                          Sub-total           4,50,000.00
+ Contingency (20%)                                LS                            90,000.00
+                                                          Grand total         5,40,000.00
+
+
+                                      VII. CONCLUSIONS
+
+A. Summary and Conclusion
+
+ 3.      It is concluded from the due diligence exercise that the proposed infrastructure
+ improvements which include construction/improvement of the drains 7.140 km in Kuakata
+ Pourashava, District Patuakhali will not require private land acquisition nor will incur
+ involuntary resettlement impacts. An effective and efficient Grievance Redress Mechanism
+ has been established and mitigation measures will be adopted as per the approved EMP.
+ The GRM will enhance the provision of timely and sensible hearings and facilitate solutions,
+ in the event of any complaints or concerns.
+
+73.      This information has been disseminated during the public consultations with
+stakeholders including local personnel who have attended the Public Consultation sessions.
+During public consultation, recommendations were drawn including: i) involve local
+communities in all stages of project planning and development, ii) establish permanent
+communication between project initiators and local authorities, iii) setup a grievance redress
+mechanism which will publicized through Pourashava level coordination committee and
+monitoring register and iv) during construction, local people including women shall be given
+first priority in the employment of skilled and unskilled labour.
+
+74.     Construction of drains at Kuakata Pourashava will result in significant benefits by
+reducing the water logging problem There is no involuntary resettlement involved in this sub-
+project; therefore, preparation of a resettlement plan is not required with respect to the
+involuntary resettlement impact. Hence, this due diligence report has been prepared for
+documentation and official record. This report summarizes the assessment of project impact
+and outcome with reference to the relevant maps, drawings and related documents. Hence, the
+screening checklist is prepared and submitted in Appendix 1.
+                                                                                                  33
+
+
+B. Next Steps
+
+75.    The DDR will be updated during design verification by the contractor; in case of any
+design or alignment change. Any change in site or design at design verification stage will be
+assessed afresh for land acquisition, involuntary resettlement impacts. The following
+information will be included in the updated social safeguards document:
+
+(i) During design verification, if there is any design or alignment change and any involuntary
+resettlement impact is identified for such change, a resettlement plan will be prepared in
+accordance with the project Resettlement Framework and submitted to ADB for approval prior
+to contract award and/or civil works contract.
+
+(ii) Formal and informal consultations will be carried out including, but not limited to: focus group
+discussions (FGDs), public meetings, community discussions, and in-depth and key informant
+interviews. An intensive information dissemination campaign will be conducted. Emphasis
+should be given to more consultations with female members of the community and appraise
+them about the proposed drains. The updated DDR will include details of such consultations.
+34
+
+            Appendix 1: Involuntary Resettlement Impact Screening Checklist
+ Probable Involuntary Resettlement             Yes     No    Not                      Remarks
+                Effects                                      Known
+
+ Involuntary Acquisition of Land
+ 1. Will there be land acquisition?                   No                All the construction works will be
+                                                                        undertaken for the implementation
+                                                                        of the proposed drains within the
+                                                                        existing road rights-of way under the
+                                                                        ownership of Kuakata Pourashava.
+ 2. Is the site for land acquisition known?                              Not applicable
+ 3. Is the ownership status and current                                  Not applicable
+ usage of land
+ to be acquired known?
+ 4. Will easement be utilized within an                                  Not applicable
+ existing Right of Way (RoW)?
+
+ 5. Will there be loss of shelter and                                    Not applicable
+ residential land due to land acquisition?
+
+ 6. Will there be loss of agricultural                                   Not applicable
+ and other
+ productive assets due to land acquisition?
+ 7. Will there be losses of crops, trees,                                Not applicable
+ and fixed assets due to land acquisition?
+
+ 8. Will there be loss of businesses or                                  Not applicable
+ enterprises due to land acquisition?
+
+ 9. Will there be loss of income sources and                              Not applicable
+ means of livelihoods due to land
+ acquisition?
+ Involuntary restrictions on land use or on access to legally designated parks and protected areas
+ 10. Will people lose access to natural               No
+ resources, communal facilities and
+ services?
+ 11. If land use is changed, will it have an          No
+ adverse impact on social and economic
+ activities?
+ 12. Will access to land and                          No
+ resources owned communally or by
+ the state be restricted?
+ Information on Displaced Persons:                                                  Not Applicable
+
+
+ Any estimate of the likely number of persons that will be displaced by the Project?            [--] No
+                                                           [--] Yes, If yes, approximately how many?
+
+ Not applicable.
+ Are any of them poor, female-heads of households, or vulnerable to poverty risks?             [--]
+ No                                                                                            [--] Yes
+ Not applicable.
+ Are any displaced persons from indigenous or ethnic minority groups?            [--] No       [-
+ -] Yes Not applicable.
+                                                                                                    35
+
+               Appendix 2: Indigenous Peoples Impact Screening Checklist
+               KEY CONCENS
+(Please provide elaborations                         YES   NO    NOT
+  on the Remarks column)                                        KNOWN      Remarks
+
+ A. Indigenous Peoples Identification
+ 1. Are there socio-cultural groups present in        √                 In Kuakata, there is a
+ or use the project area who may be                                     population of 1.6%
+ considered as "tribes" (hill tribes, schedules                         SEC belonging to
+ tribes, tribal peoples), "minorities" (ethnic or                       Rakhain community,
+ national      minorities)   or     "indigenous                         a     TMRESC           in
+ communities" in the project area?                                      Bangladesh.
+                                                                        Improvement            of
+                                                                        drains will traverse
+                                                                        only by the side of
+                                                                        Nilanjana road and
+                                                                        no Rakhain will be
+                                                                        adversely affected
+                                                                        due        to        the
+                                                                        improvement of the
+                                                                        proposed drains.
+                                                                        No direct or indirect
+                                                                        impacts      on      the
+                                                                        dignity,        human
+                                                                        rights,      livelihood
+                                                                        systems, or natural
+                                                                        or cultural resources
+                                                                        or    territories      of
+                                                                        TMRESC are
+                                                                        anticipated.
+
+
+
+
+ 2. Are there national or local laws or               √
+ policies as well as anthropological
+ researches/studies that consider these
+ groups present in or using the project area
+ as belonging to "ethnic
+ minorities",    scheduled      tribes,     tribal
+ peoples, national minorities, or cultural
+ communities?
+ 3. Do such groups self-identify as being part of     √
+ a distinct social and cultural group?
+ 4. Do such groups maintain collective                     √
+ attachments to
+ distinct habitats or ancestral territories and/or
+ to the natural resources in these habitats and
+ territories?
+ 5. Do such groups maintain cultural,                      √
+ economic,       social,    and       political
+ institutions distinct from the dominant
+ society and culture?
+ 6. Do such groups speak a distinct language or            √
+ dialect?
+ 7. Has such groups been historically,                     √
+ socially and economically marginalized,
+ disempowered, excluded, and/or
+ discriminated
+ against?
+ 8. Are such groups represented as                         √
+ "Indigenous Peoples" or as "ethnic
+ minorities" or "scheduled tribes" or "tribal
+ populations" in
+36
+
+  any formal decision-making bodies at the
+  national or local levels?
+
+
+  B. Identification of Potential Impacts
+  9. Will the project directly or indirectly benefit   √       The          Rakhain
+  or target Indigenous Peoples?                                community will be
+                                                               benefited. A specific
+                                                               action    plan   for
+                                                               enhancement        of
+                                                               project benefits to
+                                                               the TMRESC is
+                                                               prepared.
+
+  10. Will the project directly or indirectly affect       √
+  Indigenous Peoples' traditional socio-cultural
+  and belief practices? (e.g. child-rearing, health,
+  education, arts, and governance)
+
+  11. Will the project affect the livelihood               √
+  systems of Indigenous Peoples? (e.g., food
+  production      system,       natural    resource
+  management, crafts and trade, employment
+  status)
+  12. Will the project be in an area (land or              √
+  territory) occupied, owned, or used by
+  Indigenous Peoples, and/or claimed as
+  ancestral domain?
+  C. Identification of Special Requirements
+  Will the project activities include:
+  13. Commercial development of the cultural               √
+  resources and knowledge of Indigenous
+  Peoples?
+  14. Physical displacement from traditional or            √
+  customary lands?
+  15. Commercial development of natural                    √
+  resources (such as
+  minerals, hydrocarbons, forests, water,
+  hunting or fishing grounds) within customary
+  lands under use that would impact the
+  livelihoods or the cultural, ceremonial,
+  spiritual uses that define the identity and
+  community of Indigenous Peoples?
+  16. Establishing legal recognition of rights to          √
+  lands and territories that are traditionally
+  owned or customarily
+  used, occupied or claimed by indigenous
+  peoples?
+  17. Acquisition of lands that are traditionally          √
+ owned or customarily used, occupied or
+ claimed by indigenous peoples?
+                                                                                           37
+
+ Appendix 3: Minutes of Focus Group Discussion FGD for: Contract Package
+                               No. e-GP//KUAT/ DR-01.
+                                                                      Date: 02.09.2025
+ FGD for: Contract Package No. e-GP//KUAK/ DR-01
+ Place: Panjupara, Kuakata Pourashava.
+ District: Patuakhali.
+ Number of Participants: 41
+ Time: 11.30 a.m.
+ Conducted by: Md. Mizanur Rahman
+ Designation: Social Safeguard Expert
+Discussion Made on FGD: CTCRP Social Safeguard Expert conducted a FGD session on
+02 September, 2025. Participants including the surveyor of Kuakata Pourashava, local
+leaders, people of various occupations from different locations of the proposed project area
+were attended in the FGD session and express views, concerns and suggestions on the
+proposed drains to be constructed.
+The CTCRP Consultant discussed on the following Points of during the FGDs and requested
+the opinions of the participants. Social Safeguard Issues:
+
+       (i)     Position of land and trees and its ownership
+       (ii)    Construction of roads and culvert, cyclone shelter and other municipal
+               infrastructures which includes access roads, solid waste management plant,
+               bus terminal, slum improvements, boat landing/ ferry ghats, markets/growth
+               centres, etc.
+       (iii)   Community support for constructing these proposed works.
+       (iv)    Benefits from these infrastructures’ establishments by the community workers
+               health and safety.
+       (v)     Disseminate information about project implementation to the local stakeholders.
+B.     Emergency and Gender Development Issues:
+
+       (i)     Instructions for the Contractors to employ women workers with same wage
+               scale and safeguard facilities (gloves, apron, sanitation, tube well, workers’
+               shed equal and separate facility for men and women at work site).
+       (ii)    Orientation/Training Program for women groups/ workers/ women headed
+               family heads to promote understanding of women about interrelationship
+               between environment, sanitation, solid waste management, health and hygiene
+               (facility) and its use.
+       (iii)   Advance Emergency Warning System
+       (iv)    PIU safeguards and gender focal must monitor contractors’ assignments for
+               gender development issues. Proper documentation as per LGED reporting
+               format will be prepared.
+38
+
+A total number of 41 local people attended the short time meeting. During the questions and
+answers session, the local people were informed that implementation of the subproject
+components will not require land acquisition and involuntary resettlement impact is not
+assessed. The local participants also conveyed that in case project implementation will cause
+unanticipated involuntary resettlement impact during implementation, they must be properly
+compensated and/or assisted as per the policy of the project. The CTCRP consultant with the
+PIU reiterated the entitlements and other provisions in the resettlement framework and ensure
+that affected persons, if any, will be compensated and assisted by the project. However, based
+on assessment, the subproject will not involve structure or income loss to community people.
+
+ The recommendations and suggestions of local stakeholders are as follows:
+
+            •   The local stakeholder will be happy if the project is implemented within a
+                short time.
+
+            •   The project will contribute to the improvement of the roads and
+                communication.
+
+            •   In case of land acquisition and involuntary resettlement they will receive
+                compensation as per ARIPA 2017 as well as ADB’s SPS 2009.
+
+            •   The local people expect that local labor will be engaged in construction
+                works.
+
+            •   Requested to complete the construction works in the dry season.
+
+
+The photo on FGD and attendance are attached separately.
+                        39
+
+FGD Session Pictures:
+40
+                         41
+
+FGDs Attendance Sheets
+42
+
+     FGDs Attendance Sheets
+                         43
+
+FGDs Attendance Sheets
+44
+
+     Appendix 4: Sample Grievance Registration Format
+                                                                                               45
+
+     Appendix 5: Specific Action Plan for Project Benefit Enhancement of TMRESC/IP
+                                     Households
+ S    Specific Activities   Means of       Responsibility   Timeline    Status/Remark s
+ l                          Verification
+ N
+ o
+ .
+1.    Identify and          Baseline       Contractor/P      Year 1
+      include in project    data           MSC/Tow n
+      benefits,             generated      level PIU
+      IP/TMRESC             from primary
+      households in         data
+      project coverage      analysis*
+      area
+
+2.    Proposed benefits     Project        Contractor/P                 IEC      materials,
+      to IP/ TMRESC         documents      MSC/Tow n                    information
+      households (from      (subproject    level PIU/                   sharing,
+      the subproject        scope/DMF      Divisional/Re                consultations
+      scope/DMF             indicators     gional Level                 and           other
+      indicators and        and GAP                                     activities stated
+      GAP                   indicators)                                 in the CAPP will
+      indicators if                                         1. Year 5   be        culturally
+      applicable)                                           onwards     sensitive      and
+      Number of IP/                                                     appropriate
+      TMRESC                                                            when
+      Households using                                      2. Year 5   implemented;
+      improved roads;
+      Participation of
+      IP/ TMRESC in
+      awareness
+      campaigns
+      Priority for
+      employment to
+      TMRESC
+      in project
+      construction jobs,
+      if interested and
+      available.
+
+
+
+
+3.    Type of               Detailed       PMSC/Town        Year 1      Consultations
+      consultations and     report on      level PIU/       onwards     with TMRESC
+      other                 consultation   Divisional/Re                households will
+                            in MPR/QPR     gional Level
+46
+
+ Sl.                           Means of           Responsibility      Timeline
+         Specific Activities                                                     Status/Remarks
+ No                            Verification
+
+       participatory           (as                                               be conducted in all
+       activities planned      submitted                                         subproject stages
+       with IP/ TMRESC         by the                                            which shall help in
+       households (stage of    project                                           identifying any
+       project cycle)          consultants)                                      culture-specific
+       1. Pre-Construction     / Semi-                                           requirements and
+       2. Construction         annual                                            traditions like
+       3. Post Construction    social                                            avoidance of any
+       4. Other                monitoring                                        specific festival
+                               reports with                                      days, and/or other
+                               photograph                                        activities with
+                               s                                                 cultural significance
+                                                                                 to the TMRESC
+                                                                                 communities during
+                                                                                 civil work; and any
+                                                                                 other TMRESC
+                                                                                 related      issues
+                                                                                 and      concerns
+                                                                                 that may be of
+                                                                                 importance to the
+                                                                                 community.
+
+
+
+
+ 4.    Grievance Redress       Government          PMU/              Year 1      The chief of the
+       Mechanism               order/notice/lit    Divisional/Regi               tribe or a member
+       established at          tle specifying      onal Level                    of the tribal council
+       different levels        inclusion IP/                                     as traditional
+                               TMRESC                                            arbitrator (to
+                               representation                                    ensure that
+                               in first and                                      traditional
+                               third Level                                       grievance redress
+                               Grievance                                         systems are
+                               redress team                                      integrated) and an
+                               as described                                      NGO/CSO
+                               in the project                                    working with
+                               GRM                                               TMRESC will be
+                                                                                 special invitees,
+                               Report                                            when required.
+                               related to                                        GRC will also
+                               project                                           ensure that
+                               grievance                                         grievance redress
+                               reflected in                                      established is
+                               the                                               gender inclusive in
+                               monitoring                                        receiving and
+                               reports of the                                    facilitating
+                               Project                                           resolution of the
+                                                                                 TMRESC
+                                                                                 concerns;
+
+
+
+ Monitoring – Project completion stage
+ 5.   End-line               End-line survey PMSC/Town               Year 6-7
+      Survey including       report          level PIU
+                             and
+                             project
+                                                                                          47
+
+
+
+
+S.                              Means of                      Timeline
+        Specific Activities                                              Status/Remarks
+No                              Verificati   Responsibility
+ .                              on
+     assessment of            completi
+     coverage and             on report
+     satisfaction levels of   (PCR)
+     IP/ TMRESC
+     households with
+     subproject work
+     completed/ subproject
+     intended benefits vs
+     actual benefits to the
+     IP/ TMRESC
+     community.
+48
+
+     Appendix 6 : Land Ownership Certificate of Kuakata Pourashava
+

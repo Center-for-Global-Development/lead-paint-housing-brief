@@ -1,0 +1,1411 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+Project Number: 53067-004
+August 2021
+
+
+
+
+Proposed Loan and Technical Assistance Grant
+India: Inclusive, Resilient, and Sustainable Housing
+for Urban Poor Sector Project in Tamil Nadu
+
+
+
+
+Distribution of this document is restricted until it has been approved by the Board of Directors.
+Following such approval, ADB will disclose the document to the public in accordance with ADB's
+Access to Information Policy.
+                          CURRENCY EQUIVALENTS
+                             (as of 22 July 2021)
+
+                       Currency unit     –     Indian rupee/s (₹)
+                             ₹1.00       =     $0.01343
+                             $1.00       =     ₹74.4460
+
+
+
+
+                               ABBREVIATIONS
+
+ADB              –   Asian Development Bank
+COVID-19         –   coronavirus disease
+DTCP             –   Directorate of Town and Country Planning
+EMP              –   environmental management plan
+ESMS             –   environmental and social management system
+EWS              –   economically weaker section
+GESI             –   gender equality and social inclusion
+GOTN             –   Government of Tamil Nadu
+IEE              –   initial environmental examination
+LIG              –   lower-income group
+O&M              –   operation and maintenance
+PAM              –   project administration manual
+PMAY-HFA         –   Pradhan Mantri Awas Yojana-Housing for All
+PMU              –   project management unit
+TA               –   technical assistance
+TNIFMC           –   Tamil Nadu Infrastructure Fund Management Corporation
+TNSCB            –   Tamil Nadu Slum Clearance Board
+TNSF             –   Tamil Nadu Shelter Fund
+WWH              –   working women’s hostel
+
+
+
+
+                                       NOTES
+
+ (i)    The fiscal year (FY) of the Government of India, Government of Tamil Nadu,
+        and its agencies ends on 31 March. “FY” before a calendar year denotes
+        the year in which the fiscal year ends, e.g., FY2021 ends on 31 March 2021.
+ (ii)   In this report, "$" refers to United States dollars.
+Vice-President             Shixin Chen, Operations 1
+Director General           Kenichi Yokoyama, South Asia Department (SARD)
+Deputy Director General    Manmohan Parkash, SARD
+Director                   Norio Saito, Urban Development and Water Division (SAUW), SARD
+
+Team leaders               Ricardo Carlos Barba, Principal Safeguards Specialist, Office of the
+                              Director General (SAOD), SARD
+                           Sourav Majumder, Senior Project Officer (Urban), India Resident
+                              Mission, SARD
+Team members               Mikael Andersson, Financial Management Specialist, SAOD, SARD
+                           Saswati Belliappa, Safeguards Specialist, SAUW, SARD
+                           Rose Buenaventura, Senior Operations Assistant, SAOD, SARD
+                           Dharmesh Mahendra Dawda; Procurement Specialist; Procurement
+                              Division 1; Procurement, Portfolio, and Financial Management
+                              Department
+                           Takuya Hoshino; Financial Sector Specialist; Public Management,
+                              Financial Sector, and Trade Division; SARD
+                           Charlene Liau, Urban Development Specialist, SAUW, SARD
+                           Irina Novikova, Senior Social Development Specialist (Safeguards),
+                              Safeguards Division, Sustainable Development and Climate
+                              Change Department (SDCC)
+                           Douglas Perkins, Principal Counsel, Office of the General Counsel
+                           Santosh Pokharel, Urban Economist, SAUW, SARD
+                           Srinivas Sampath, Chief of Public–Private Partnership Thematic
+                              Group, Office of Public–Private Partnership
+Peer reviewer              Hong Soo Lee, Senior Urban Specialist (Smart Cities), Sector
+                              Advisory Service Cluster Urban Sector Group, SDCC
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                     CONTENTS
+
+                                                                   Page
+PROJECT AT A GLANCE
+MAP
+I.     THE PROPOSAL                                                   1
+II.    THE PROJECT                                                    1
+       A.   Rationale                                                 1
+       B.   Project Description                                       4
+       C.   Value Added by ADB                                        5
+       D.   Summary Cost Estimates and Financing Plan                 6
+       E.   Implementation Arrangements                               7
+III.   ATTACHED TECHNICAL ASSISTANCE                                  8
+IV.    DUE DILIGENCE                                                  8
+       A.    Technical                                                9
+       B.    Economic and Financial Viability                         9
+       C.    Sustainability                                          10
+       D.    Governance                                              11
+       E.    Poverty, Social, and Gender                             12
+       F.    Safeguards                                              12
+       G.    Summary of Risk Assessment and Risk Management Plan     14
+V.     ASSURANCES                                                    15
+VI.    RECOMMENDATION                                                15
+
+APPENDIXES
+       1. Design and Monitoring Framework                            16
+       2. List of Linked Documents                                   20
+                                                                                                      Project Classification Information Status: Complete
+
+
+                                                            PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                                  Project Number: 53067-004
+       Project Name                       Inclusive, Resilient, and Sustainable Housing           Department/Division SARD/SAUW
+                                          for Urban Poor Sector Project in Tamil Nadu
+       Country                            India                                                   Executing Agency            Housing and Urban
+       Borrower                           India                                                                               Development
+                                                                                                                              Department, Government
+       Country Economic                   https://www.adb.org/Documents/LinkedDocs/                                           of Tamil Nadu
+       Indicators                         ?id=53067-004-CEI
+       Portfolio at a Glance              https://www.adb.org/Documents/LinkedDocs/
+                                          ?id=53067-004-PortAtaGlance
+
+    2. Sector                             Subsector(s)                                                                    ADB Financing ($ million)
+       Water and other urban              Urban housing                                                                                    150.00
+       infrastructure and services
+                                                                                                                    Total                        150.00
+    3. Operational Priorities                                                                     Climate Change Information1
+       Addressing remaining poverty and reducing inequalities                                     GHG reductions (tons per annum)                 0.208
+       Accelerating progress in gender equality                                                   Climate Change impact on the                   Medium
+       Tackling climate change, building climate and disaster resilience, and                     Project
+       enhancing environmental sustainability
+       Making cities more livable                                                                 ADB Financing
+       Strengthening governance and institutional capacity                                        Adaptation ($ million)                            48.87
+                                                                                                  Mitigation ($ million)                             1.30
+
+                                                                                                  Cofinancing
+                                                                                                  Adaptation ($ million)                             0.00
+                                                                                                  Mitigation ($ million)                             0.00
+       Sustainable Development Goals                                                              Gender Equity and Mainstreaming
+       SDG 1.5                                                                                    Effective gender mainstreaming (EGM)
+       SDG 10.2
+       SDG 11.1                                                                                   Poverty Targeting
+       SDG 13.a                                                                                   Household Targeting
+
+    4. Risk Categorization:               Complex
+.
+
+
+    5. Safeguard Categorization                        Environment: B Involuntary Resettlement: A Indigenous Peoples: C
+.
+
+
+    6. Financing
+        Modality and Sources                                                                             Amount ($ million)
+        ADB                                                                                                                                     150.00
+           Sovereign Sector (Regular Loan): Ordinary capital resources                                                                          150.00
+        Cofinancing                                                                                                                               0.00
+           None                                                                                                                                   0.00
+        Counterpart                                                                                                                              65.00
+           Government                                                                                                                            65.00
+        Total                                                                                                                                   215.00
+        Note: An attached technical assistance will be financed on a grant basis by the Technical Assistance Special Fund (TASF-OTHERS) in the
+        amount of $1,500,000.
+
+       Currency of ADB Financing: US Dollar
+
+1 The project reduces greenhouse gas emissions. However, it does not fall under the eligibility criteria for climate mitigation finance as defined by the
+
+joint multilateral development bank methodology on tracking climate finance, which notes that not all activities that reduce greenhouse gases in the short
+term are eligible to be counted towards climate mitigation finance. Accordingly, greenfield fossil fuel projects are excluded, and climate mitigation finance
+is considered zero.
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.           06082021151421618427                                   Generated Date: 06-Aug-2021 15:16:00 PM
+                                                ° ′E                                                                                                    ° ′E
+                                                                                    INDIA
+                                         INCLUSIVE, RESILIENT, AND SUSTAINABLE HOUSING
+                                                FOR URBAN POOR SECTOR PROJECT
+                                                          IN TAMIL NADU
+                                                                                                            ANDHRA
+                                                                                                            PRADESH
+
+
+
+
+° ′N
+                                                                                                                                                                       Chennai               ° ′N
+                        KARNATAKA
+
+
+
+
+                                                                             Mettur
+                                                                                                                                                       PUDUCHERRY
+
+                                                                                       Salem
+
+
+                                                       Pallipalayam
+                                                                                     Namakkal
+
+
+
+
+                                                                                        TAMIL NADU                                                      Karaikkal
+                                                                                                                                                      (Puducherry)
+                                                                                                                               Vallam
+
+                                                                         Odukkam
+                                                                  Dindigul                                               Thanjavur
+                                                                                                        Kalanivasal
+
+
+                                             Thappukundu                          Uchappatti
+
+                                                                        Madurai                 Sivaganga
+                                                          Theni
+
+
+                                  KERALA
+
+
+
+                                           Kadayanallur
+° ′N                                                                                                                                                                                        ° ’N
+
+
+
+                                                          Tirunelveli
+                                                                                  Reddiarpatti
+
+
+
+                                                                                                                                            Project Location
+                                                                                                                                            State Capital
+                                                                                                                                            District Boundary
+                                                                                                                                            State or Union Territory Boundary
+
+                   N                                                                                                            Boundaries are not necessarily authoritative.
+
+                                                                                                             This map was produced by the cartography unit of the Asian Development Bank.
+       0   25      50        75    100                                                                       The boundaries, colors, denominations, and any other information shown on this
+                                                                                                             map do not imply, on the part of the Asian Development Bank, any judgment on the
+                                                                                                             legal status of any territory, or any endorsement or acceptance of such boundaries,
+                Kilometers                                                                                   colors, denominations, or information.
+                                                ° ′E                                                                                                       ° ′E
+
+                                                                                                                                                                                      201125 ABV
+                                         I.       THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on a proposed loan to
+India for the Inclusive, Resilient, and Sustainable Housing for Urban Poor Sector Project in Tamil
+Nadu. The report also describes proposed technical assistance (TA) for Supporting Capacity for
+Affordable Housing Delivery, and if the Board approves the proposed loan, I, acting under the
+authority delegated to me by the Board, approve the TA.
+
+2.      The project will promote access to inclusive, resilient, and sustainable housing and urban
+development in Tamil Nadu by supporting the state in (i) relocating vulnerable communities living
+in areas exposed to natural hazards to newly constructed housing units in safe locations, which
+will be implemented using a sector loan approach; (ii) mobilizing private sector financing to
+construct affordable housing units for poor urban households, migrant workers from the
+economically weaker section (EWS), lower-income group (LIG), and other populations that are
+underserved by the housing market, which will be implemented following an approach similar to
+a financial intermediation loan; and (iii) supporting the state in regional development planning.1
+
+                                          II.      THE PROJECT
+A.      Rationale
+
+3.      Urban sector challenges. Tamil Nadu is the sixth most populous state in India with a
+population of more than 72 million. The state contributes 8.54% of India’s gross domestic product,
+with strong economic growth accompanied by increased rural–urban migration.2 Tamil Nadu has
+one of the highest rates of urbanization in India, with 48% of the population living in urban areas.
+Sharp increases in urban populations and rapid urbanization have not been well-managed, and
+the supply of urban infrastructure and services does not meet the high and increasing demand.
+
+4.        Housing shortage in urban Tamil Nadu. Tamil Nadu is among India’s large states with
+an acute housing shortage. Issues affecting the demand for housing include (i) the poor lacks
+access to existing housing programs because these are unaffordable, and have stringent
+qualification requirements; (ii) designs are not culturally and gender-sensitive; and (iii) housing
+projects experience low demand and occupancy because they are located far from city centers.
+Factors affecting the housing supply include (i) inadequate public resources for urban housing,
+(ii) difficulty in attracting private investment because of low investment returns and lack of
+incentives, (iii) mismatch between housing policies and procedures of central and state
+government and capacity of the poor, and (iv) weaknesses in regional planning resulting in areas
+that are strong economically but lacking a supply of affordable housing. The state’s housing deficit
+accounts for 6.66% of the national housing shortfall.3 National data shows that, when the housing
+shortage is mapped against income levels, EWS households account for 56% of the total shortage,
+and LIG households for 39%. Only 4% of the national housing shortage is borne by households
+in the middle-income group or those with higher income, as current housing stocks cater to
+middle- and higher-income groups.
+
+1 The Government of India defines EWS as those households with annual household income of ₹300,000 ($4,050),
+  and LIG as households with an annual household income of ₹600,000 ($8,100); Government of India, Ministry of
+  Housing and Urban Poverty Alleviation (MHUPA). 2016. Pradhan Mantri Awas Yojana – Housing for All (Urban)
+  Scheme Guidelines (PMAY-HFA). Delhi.
+2 Reserve Bank of India. 2020. Handbook of Statistics on Indian States. Mumbai (Table
+                                                                                       17. Gross State Domestic
+  Product, Current Prices).
+3 Government of India, Ministry of Housing and Urban Poverty Alleviation, National Buildings Organization. 2012.
+
+  Report of the Technical Group on Urban Housing Shortage (TG-12) (2012-2017). Delhi. The figure is based on 2011
+  census data. New census scheduled in 2021 but was postponed due to COVID-19 outbreak.
+2
+
+
+
+5.        In Tamil Nadu, the large shortage of housing for EWS and LIG households results in
+limited housing options for the urban poor. Where housing is available, it fails to meet the needs
+of the urban poor including access to jobs and urban services. Unplanned urbanization and
+housing deficits have contributed to informal settlements and intensification of slums. Tamil Nadu
+is among five states that host 62% of the India’s slum population. The state has 5.8 million slum
+residents, accounting for 17% of the urban population, and 8.9% of India’s total slum population.4
+The incomes of most slum residents place them in the EWS and LIG. Informal settlements and
+slums are often situated in hazard-exposed areas, are congested, and lack appropriate services
+(i.e., electricity, piped water supply, and sanitation or waste facilities). Slum areas are exposed to
+natural hazards with impacts that are exacerbated by climate change, environmental degradation,
+and health risks.
+
+6.       Providing housing for the urban poor is critical to ensure that growth in cities is sustainable
+and not accompanied by increased inequity. Many housing units built to relocate slum households
+were not planned with beneficiary input; in addition to being located far from economic
+opportunities and infrastructure, they also suffer from inadequate operation and maintenance
+(O&M). The result is that limited resources are wasted on units that are unoccupied. These failures
+result from a combination of designs that did not adequately consider the environmental, social,
+and economic context, and inadequate urban and regional planning, which is central to sustained
+growth and equitable cities.
+
+7.       Government housing strategy. Housing programs have long been a fundamental
+component of central government development plans and priorities, but their impact has been
+diluted by shifting perspectives, divergent approaches, and lack of clear policies.5 In 2007, the
+National Urban Housing and Habitat Policy6 was created to set a clear direction for the housing
+sector. The policy acknowledged the nexus between urbanization, poverty, and slums, and is
+centered on integrating the needs of disadvantaged EWS and LIG communities who struggle to
+afford proper shelter. In line with the National Urban Housing and Habitat Policy, several
+comprehensive urban initiatives have been undertaken. The most recent initiative is the Pradhan
+Mantri Awas Yojana-Housing for All (PMAY-HFA). 7 This mission targets rural areas through
+PMAY (Gramin), and urban areas through PMAY (Urban). It aims to provide every family with
+permanent shelter that comes with electricity, water supply, and sanitation facilities by 2022. It is
+partially funded by the central government and implemented through state-level nodal agencies.
+
+8.      In Tamil Nadu, TNSCB is the entity responsible for implementing PMAY (Urban). In its
+demand survey presented at the 51st Central Sanctioning and Monitoring Committee meeting,
+TNSCB estimated the total demand for affordable housing at 1.4 million units. However, only 0.76
+million (54.76%) have been approved to date. Addressing this gap should prioritize slum
+communities at risk of hazards that require relocation. Affordable housing also needs to be made
+accessible to low-income migrant workers, working women, and low-income households headed
+by women to ensure sustainable urban development. The state government is constrained to
+
+4 Government of India, MHUPA, National Buildings Organisation. 2015. Slums in India: A Statistical Compendium
+  2015. Delhi. The figure is based on 2011 census data. New census scheduled in 2021 but was postponed due to
+  COVID-19 outbreak.
+5 The central and state government sector strategy, and overview of the sector are discussed in the Sector Assessment
+
+  (Summary): Water and Other Urban Infrastructure and Services (Urban Housing) (accessible from the list of linked
+  documents in Appendix 2).
+6 Government of India, MHUPA. 2007. National Urban Housing and Habitat Policy.
+7 Government of India, MHUPA. 2016. Pradhan Mantri Awas Yojana – Housing for All (Urban) Scheme Guidelines
+
+  (PMAY-HFA). Delhi.
+                                                                                                                           3
+
+
+provide the needed affordable housing, and thus the private sector should be enabled to
+increasingly take on this role.
+
+9.       Alignment with government and ADB priorities and strategies. The project aligns with
+pillar 2 of the Asian Development Bank (ADB) country partnership strategy for India, 2018–2022,
+which promotes inclusive access to infrastructure networks and services; it is also included in
+ADB’s country operations business plan for India, 2021–2023.8 It is aligned with the Government
+of India’s development priorities and policies on urban sector development, ADB Strategy 2030,9
+and the United Nations Sustainable Development Goals that focus on making cities more
+inclusive, resilient, and livable. 10 It directly supports the current comprehensive urban
+development mission, PMAY-HFA.
+
+10.    Lessons. The project builds on lessons from previous urban development projects and
+housing finance programs of ADB and the Government of India. In designing affordable housing,
+there is a need to (i) balance socioeconomic priorities, (ii) integrate regional and spatial
+perspectives in development and economic planning, (iii) craft and implement appropriate policies
+and strategies, and (iv) ensure inclusivity.11
+
+11.     Project design. The Government of Tamil Nadu (GOTN) has plans to meet the housing
+sector’s needs and institutional capacity to implement such plans. For output 1, which will
+construct affordable and improved housing for vulnerable communities, GOTN has identified nine
+separate affordable housing subprojects in different locations throughout the state. However,
+because of differences in risk profiles, variations in relocation sites vis-à-vis original household
+locations, unique design requirements based on beneficiary needs and site conditions, and other
+factors, the preparation status of these subprojects differ. Therefore, the sector lending approach
+is considered suitable as it will enable GOTN to carry out affordable housing projects under output
+1 based on their readiness. 12 The approach will also allow successive subprojects to adopt
+successful changes from previous subprojects as well as introduce incremental changes and
+redesign less-successful elements.
+
+12.     For output 2, which will increase affordable housing for the urban poor and migrant
+workers, ADB will follow an approach similar to a financial intermediation loan. ADB loan proceeds
+for output 2 will be invested as GOTN’s equity into the Tamil Nadu Shelter Fund (TNSF), an
+alternative investment fund established by GOTN to make investments in affordable housing
+
+
+
+8  ADB. 2017. Country Partnership Strategy: India, 2018–2022—Accelerating Inclusive Economic Transformation.
+   Manila; and ADB. 2020. Country Operations Business Plan: India, 2021–2023. Manila.
+9 ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+
+   Manila. Affordable housing for the EWS and LIG contributes to key operational priorities (OPs) of ADB Strategy 2030,
+   including addressing remaining poverty and reducing inequalities (OP 1); accelerating progress in gender equality
+   (OP2); tackling climate change, building climate and disaster resilience, and enhancing environmental sustainability
+   (OP 3); making cities more livable (OP 4); and strengthening governance and institutional capacity (OP 6).
+10 United Nations. 2015. A/RES/70/1 – Transforming Our World: The 2030 Agenda for Sustainable Development.
+11 ADB’s previous urban development and housing finance programs are discussed in Sector Assessment Summary
+
+   (accessible from the list of linked documents in Appendix 2).
+12 In addition to the existence of a large number of subprojects, output 1 of the project meets the other sector loan
+
+   modality criteria: (i) GOTN has a sector development plan; (ii) institutional capacity is sufficient to implement the
+   sector development plan; the executing agency has a long history of planning and implementing affordable housing
+   projects, and further support will be provided under the project; and (iii) supporting policies are in place and are being
+   strengthened through a World Bank project and this project.; World Bank. 2020. First Tamil Nadu Housing Sector
+   Strengthening Program Development Policy Loan.; World Bank. 2020. Tamil Nadu Housing and Habitat
+   Development Project.
+4
+
+
+infrastructure.13 It is expected that the GOTN’s investment of equity into TNSF will help catalyze
+private sector financing for TNSF. The combined proceeds of the GOTN and private sector
+financing will be channeled by TNSF, as the financial intermediary, to support multiple affordable
+housing subprojects currently under development, including those to be carried out under public–
+private partnership deal structures.
+
+13.      Coronavirus disease. The rationale for the project is stronger in view of the coronavirus
+disease (COVID-19) pandemic, which is more difficult to address in slum areas, given the
+deficiencies in water, sanitation, drainage, and waste collection, and the space constraints that
+make social distancing and self-quarantine almost impossible. A Mumbai case study has shown
+that slums are being disproportionally impacted by COVID-19 pandemic. 14 Slum conditions
+exacerbate existing health issues in slum populations, and efforts to contain the pandemic
+prevents slum dwellers from earning income. Providing affordable housing and urban services to
+the urban poor and migrant workers will increase their resilience to pandemics. The graduation
+program to be implemented in project housing sites will increase the resilience of beneficiaries’
+livelihoods, and promote behavioral change to maximize benefits from sanitation and other urban
+services. 15 The project will build in required health and safety procedures in project design,
+particularly because it involves extensive consultation and engagement with beneficiaries. The
+project is aligned with the recently announced special economic and comprehensive package,
+which includes support for housing for migrant workers and the urban poor affected by the
+pandemic.16
+
+B.       Project Description
+
+14.     The project is aligned with the following impact: permanent shelter with appropriate
+housing infrastructures and services provided for every affected household (footnote 7). The
+project will have the following outcome: access to inclusive, safe, and affordable housing
+infrastructure and services for vulnerable and disadvantaged communities in Tamil Nadu
+increased.17
+
+15.     Output 1: Affordable and improved housing for vulnerable communities
+constructed. The output will construct housing units in nine separate locations throughout the
+state, and relocate an estimated 6,000 slum households vulnerable to natural hazards to safer
+locations. Subprojects under this output will be prepared based on location, and the selection
+criteria will include technical, economic, financial, safeguards, and sustainability criteria as
+
+13 TNSF is registered with the Securities Exchange Board of India as a social venture fund; consequently, it has a
+
+   socially responsible investment mandate to increase the supply of affordable housing through planned financial
+   approaches, including the promotion of public–private partnership deal structures. TNSF is managed by the GOTN-
+   promoted TNIFMC. In 2017, ADB’s Private Sector Operations Department provided TA to the TNIFMC (the fund
+   manager of the Tamil Nadu Shelter Fund) for its Tamil Nadu Infrastructure Fund.; ADB. India: Tamil Nadu
+   Infrastructure Fund Management Company Limited.
+14 Patranbis, Ghandi, and Tandel. 2020. Are slums more vulnerable to the COVID-19 pandemic: Evidence from
+
+   Mumbai. Brookings Institute. 16 April.
+15 The graduation program is a holistic, time-bound, and carefully sequenced set of interventions to lift households from
+
+   poverty through (i) social assistance to support immediate needs, such as subsistence and health services during
+   transition in the relocation site; (ii) livelihood promotion through localized market assessment and household-level
+   enterprise and/or employment matching; (iii) financial inclusion through financial literacy and improved access to
+   savings and financial services to promote economic resilience; and (iv) social empowerment by improving social
+   dynamics, including gender relations, in families and communities.
+16 Press Information Bureau, Government of India. 2020. Finance Minister announces short-term and long-term
+
+   measures for supporting the poor, including migrants, farmers, tiny businesses and street vendors. Press Information
+   Bureau’s Daily Bulletin on COVID-19. 15 May.
+17 The design and monitoring framework is in Appendix 1.
+                                                                                                                      5
+
+
+detailed in the project administration manual (PAM).18 The project will introduce gradual changes
+in the delivery of affordable housing to the urban poor by (i) improving design and implementation
+with robust O&M mechanisms, ensuring housing infrastructures are climate resilient, and
+increasing consultation and participation of beneficiaries (including women) in design; (ii)
+implementing a graduation program to lift vulnerable relocated households from poverty (footnote
+15); and (iii) building the capacity of TNSCB, HUDD, and urban local bodies in affordable,
+inclusive and sustainable urban housing. The output will include protection of cleared waterways
+to prevent re-encroachment, and restoration of ecological functions in two pilot sites.
+
+16.     Output 2: Affordable housing for urban poor and migrant workers increased. ADB
+financing for this output will be deployed as GOTN’s equity into the TNSF, which in turn will be
+leveraged to catalyze private sector investment in TNSF.19 Utilizing such financing, TNSF will
+provide risk capital, such as in the form of equity investment or participating instruments
+investment, to specific special purpose vehicles or other entities undertaking affordable housing
+subprojects that benefit populations underserved by the housing market. Examples of such
+subprojects include industrial housing and working women’s hostels (WWHs) for low-income and
+migrant workers, resulting in an anticipated additional 500 beds for working women and 5,000
+beds for industrial workers. To be eligible for financing, subprojects must be financially and
+economically viable affordable housing projects that increase the supply of housing for
+households within EWS and LIG segments and other segments of the population that are
+currently underserved by the housing market. Additional eligibility criteria cover safeguards,
+gender, and sustainability, as detailed in the PAM (footnote 18). Output 2 will also be
+complemented by capacity development of TNIFMC and the private sector.
+
+17.     Output 3: Regional plan development supported. The project will support DTCP in
+regional planning that integrates existing and proposed development plans.20 It will develop one
+model integrated regional plan from which subsequent plans will be developed to cover the state’s
+30 districts. It will include provisions for economic development and affordable housing to balance
+growth throughout Tamil Nadu with regard to infrastructure development, environmental
+protection, disaster risk management, and gender.21
+
+C.         Value Added by ADB
+
+18.     The project incorporates improvements in the current process of affordable housing
+delivery as a result of ADB’s dialogue with implementing agencies and other stakeholders. It will
+improve TNSCB’s delivery process through design changes that address O&M and beneficiary
+needs, ensuring social protection, livelihood promotion, financial inclusion, and social
+empowerment. The project will also improve TNSCB’s financial sustainability by introducing
+maintenance planning and asset management, piloting long-term maintenance contracts and
+
+18   Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+19 GOTN’s equity investment in TNSF will take the form of a first loss capital instrument (class B shares). GOTN plans
+
+   to mobilize a total of $300 million private sector funding to TNSF by leveraging the issuance of $92 million class B
+   shares, out of which ADB will finance $35 million and the World Bank will finance $35 million, both through GOTN.
+   The balance of $22 million will be borne by GOTN.
+20 Through the Tamil Nadu Urban Land (Ceiling and Regulation) Act, 1978, agencies—including DTCP and Chennai
+
+   Metropolitan Development Authority—regulate urban land development. Although master plans and new town
+   development plans were prepared for most of the urban centers in Tamil Nadu, integrated regional plans for the eight
+   regions in Tamil Nadu have not been prepared by DTCP.
+21 Land use regulation plays an important part in determining the pattern of service, land, and housing occupation in
+
+   urban areas. Ensuring that housing is provided where it is needed, rather than supporting segregation (for example
+   at the periphery of cities) is a critical aspect of policy, which should provide housing diversity in terms of scale,
+   typology, and price.
+6
+
+
+schemes, and involving beneficiaries in O&M. Because affordable housing demand cannot be
+solely supplied by TNSCB, ADB’s financial support to TNSF will catalyze private sector financing
+for affordable housing projects by bringing estate management expertise at the subproject level.
+From a regional development perspective, ADB’s assistance will result in the preparation of
+functional regional plans; these will support regional economic development with resource
+mobilization, and through a development framework, make provisions for affordable housing
+taking into account regional disparities, infrastructure development, environmental protection, and
+disaster risk management.22 Two World Bank loans were approved in May 2020: a development
+policy loan to strengthen the housing sector, and investment project financing to enable private
+sector participation in affordable housing (footnote 12). To maximize complementarity with the
+World Bank loans, the project will expand investments in housing, with a focus on addressing
+vulnerability and promoting resilience.
+
+19.     Replication strategy. The GOTN has indicated its intention to approach ADB for
+additional financing to further expand affordable housing, based on satisfactory performance and
+lessons from project implementation. Successful approaches for improved affordable housing
+delivery will be replicated in other cities in Tamil Nadu where TNSCB will provide affordable
+housing, and further equity can be provided to TNSF to increase the supply of affordable housing
+projects. The attached TA will document O&M and asset management approaches, and
+methodologies for improved affordable housing delivery such as the graduation program for
+vulnerable relocated beneficiaries. These, including improved regional planning, will be widely
+disseminated within Tamil Nadu and to other states in India (through the Capacity Development
+Resource Center of the India Resident Mission). There is also potential to replicate this model to
+other countries.
+
+D.        Summary Cost Estimates and Financing Plan
+
+20.    The project is estimated to cost $215 million (Table 1). Detailed cost estimates by
+expenditure category and by financier are included in the PAM (footnote 18). The contingency will
+cover possible cost increases because of COVID-19 pandemic. For output 2, ADB loan
+assistance would be invested as GOTN’s equity contribution in TNSF.
+
+                                    Table 1: Summary Cost Estimates
+                                                ($ million)
+ Item                                                                                                     Amounta
+                  b
+ A. Base Cost
+      1. Affordable and improved housing for vulnerable communities constructed                                 157.2
+      2. Affordable housing for urban poor and migrant workers increased c                                        35.0
+      3. Regional plan development supported                                                                       2.7
+                                               Subtotal (A)                                                     194.9
+ B. Contingenciesd                                                                                                17.2
+ C. Financing Chargese                                                                                             2.9
+                                           Total (A+B+C)                                                        215.0
+a In end-2020 prices using an exchange rate of $1 = ₹74.0.
+b Includes taxes and duties of $15.4 million to be financed from government resources by cash contribution.
+c The affordable housing for urban poor and migrant workers component is proposed to be implemented through the
+
+  Tamil Nadu Shelter Fund, through a modality similar to financial intermediation. Hence, contingencies and financing
+  charges are not included in the cost estimate. Under output 2, the Asian Development Bank (ADB) contribution of
+  $35 million is intended to mobilize additional investment of $300 million to the Tamil Nadu Shelter Fund for a total
+  fund size of $392 million, which is expected to leverage additional financing to support affordable housing projects.
+
+
+22 With respect to affordable housing for migrant workers and working women in the Madurai and Thoothukudi district
+
+    nodes, the regional plans will be informed by ADB’s ongoing master planning study (ADB. India: Supporting the
+    Preparation of a Comprehensive Master Plan for the Chennai–Kanyakumari Industrial Corridor).
+                                                                                                                        7
+
+d Physical contingencies are computed at 5.0% for civil works and equipment. Price contingencies are computed at
+  0.5%–1.8% on foreign exchange costs and at 3.0%–4.0% on local currency costs; includes provision for potential
+  exchange rate fluctuation under the assumption of a purchasing power parity exchange rate.
+e Includes interest and commitment charges. Interest during construction for the ADB loan has been computed at the
+
+  5-year United States dollar fixed-swap rate plus a spread of 0.5%. Commitment charges for an ADB loan are 0.15%
+  per year to be charged on the undisbursed loan amount.
+Source: Asian Development Bank estimates.
+
+21.     The government has requested a regular loan of $150 million from ADB’s ordinary capital
+resources to help finance the project. The loan will have a 25-year term, including a grace period
+of 5 years; an annual interest rate determined in accordance with ADB’s London interbank offered
+rate (LIBOR)-based lending facility; a commitment charge of 0.15% per year; and such other
+terms and conditions set forth in the loan and project agreements. Based on the custom-tailored
+repayment method, the average maturity is 12.96 years, and there is no maturity premium payable
+to ADB.
+
+22.       The summary financing plan is in Table 2. ADB will finance the expenditures in relation to
+(i) civil works, (ii) consulting services, (iii) O&M, and (iv) incremental recurrent costs. The GOTN
+will provide $65 million to the investment costs of the project to finance (i) taxes and duties;
+(ii) financing charges during implementation; (iii) part of the civil works; (iv) O&M; (v) incremental
+recurrent costs; (vi) resettlement costs; and (vii) contingencies; and will provide the loan and
+counterpart funds to the project as a grant for outputs 1 and 3, and as equity for output 2.
+
+                                      Table 2: Summary Financing Plan
+                                                                                   Amount              Share of Total
+Source                                                                            ($ million)               (%)
+Asian Development Bank
+    Ordinary capital resources (regular loan)                                        150.0                   69.8
+Government                                                                            65.0                   30.2
+                                 Total                                               215.0                  100.0
+Source: Asian Development Banks estimates.
+
+23.     Climate mitigation is estimated to cost $1.3 million and climate adaptation is estimated to
+cost $48.9 million. ADB will finance 100% of both mitigation and adaptation costs. A climate risk
+and vulnerability assessment was undertaken with the estimated adaptation and mitigation costs
+calculated through a review of the project’s climate adaptation and mitigation activities.23
+
+E.         Implementation Arrangements
+
+24.   The implementation arrangements are summarized in Table 3 and described in detail in
+the PAM (footnote 18).
+
+                                   Table 3: Implementation Arrangements
+    Aspects                                                            Arrangements
+    Implementation period                      September 2021–August 2028
+    Estimated completion date                  31 August 2028
+    Estimated loan closing date                28 February 2029
+    Management
+      (i) Oversight body                       Steering Committee
+                                               Principal Secretary, HUDD (chair)
+
+23 Adaptation measures are introduced in sustainable building features to reduce climate risk, slum clearance (which
+
+    will clear waterways to reduce flood risks), and regional planning (which can enable improved spatial planning and
+    climate-resilient guidelines). Mitigation includes reducing energy use through daylighting and solar lights, LEDs for
+    reduced energy use, and public transport-accessible locations to reduce vehicle use. Details are in Climate Change
+    Assessment (accessible from the list of linked documents in Appendix 2).
+8
+
+
+ Aspects                                                                      Arrangements
+                                               CMDA, HUDD, Finance Department, TNSCB, DTCP, TNHB, TNIFMC,
+                                               TNSF, Industries Department, Social Welfare and Nutritious Meals
+                                               Programme Department (members)
+   (ii) Executing agencies                     GOTN’s Housing and Urban Development Department acting through
+                                               TNSCB (output 1), TNIFMC (output 2) and DTCP (output 3)
+   (iii) Key implementing agencies             TNSCB (output 1), TNIFMC (output 2), and DTCP (output 3)
+   (iv) Implementation unit                    PMU within TNSCB for overall project management, comprising 29
+                                               staff; and separate PIUs within each implementing agency, comprising
+                                               87 total staff. Qualified staff have been assigned to the respective
+                                               PIUs to ensure compliance with ADB requirements, including
+                                               procurement and financial management.
+ Procurement                                   Open competitive           13 contracts               $142.63 million
+                                               bidding (nationally
+                                               advertised)
+ Consulting services                           QCBS (90:10)               241 person-months          $3.32 million
+                                               CQS
+ Retroactive financing and/or advance          Retroactive financing will be up to 20% of the ADB loan amount for
+ contracting                                   eligible expenditures incurred no more than 12 months before signing
+                                               of the loan agreement.
+ Disbursement                                  Disbursement of the loan and grant proceeds will follow ADB's Loan
+                                               Disbursement Handbook (2017, as amended from time to time) and
+                                               detailed arrangements agreed between the government and ADB.
+ADB = Asian Development Bank, CMDA = Chennai Metropolitan Development Authority, CQS = consultants’
+qualification selection, DTCP = Directorate of Town and Country Planning, GOTN = Government of Tamil Nadu, HUDD
+= Housing and Urban Development Department, PIU = project implementation unit, PMU = project management unit,
+QCBS = quality- and cost-based selection, TNHB = Tamil Nadu Housing Board, TNIFMC = Tamil Nadu Infrastructure
+Fund Management Corporation, TNSCB = Tamil Nadu Slum Clearance Board, TNSF = Tamil Nadu Shelter Fund.
+Source: Asian Development Bank.
+
+                             III.     ATTACHED TECHNICAL ASSISTANCE
+
+25.     The TA attached to the project will build capacity in the three implementing agencies to
+deliver affordable housing and undertake regional planning. 24 The TA aims to support
+sustainability by assisting in the development of O&M contracts and modalities, an asset
+management system, and pipeline development for TNSF; and building regional planning and
+financial management capacity. In addition, specific support will be provided (i) to build capacity
+in survey and data management, (ii) for graduation program implementation, and (iii) to plan for
+different models for restoration of cleared waterways, which are key value additions in the delivery
+of affordable housing. Documentation of methodologies and processes will be important in the
+planned replication of affordable housing in Tamil Nadu and in other states.
+
+26.    The TA is estimated to cost $1.65 million, of which $1.50 million will be financed on a grant
+basis by ADB’s Technical Assistance Special Fund (TASF-other sources). The TA will provide
+advisory services of loan-funded outputs, and the government will also provide counterpart
+support in the form of staff, office space, and other in-kind contributions. GOTN, through the
+Housing and Urban Development Department, will be the executing agency and TNSCB, TNIFMC,
+and DTCP will be the implementing agencies for the TA, which will be implemented over 4 years.
+The TA will be administered by ADB.
+
+                                           IV.      DUE DILIGENCE
+
+27.     Appraisal of subprojects. Output 1 has nine proposed subprojects. ADB supported the
+concept design for five subprojects of which the detailed designs of three were reviewed. Of these,
+two affordable housing subprojects in Kalanivasal and Reddiarpatti were fully appraised by ADB
+24 Attached TA Report (accessible from the list of linked documents in Appendix 2).
+                                                                                                                       9
+
+
+and found to meet all the agreed criteria. For output 2, TNIFMC will propose subprojects for ADB
+financing following the subproject eligibility criteria. 25 The executing agencies for outputs 1 and 2
+are primarily responsible for finalizing appraisal reports and sharing these with ADB for review.
+ADB will review the appraisal reports for all subprojects. ADB clearance of all safeguards
+documents is required.
+
+A.       Technical
+
+28.      For output 1, technical due diligence included a comprehensive review of how TNSCB’s
+detailed engineering designs were developed from the concept design, cost estimates, and site
+investigations. The housing unit design and site layout adopt improvements to the current housing
+units constructed by TNSCB. The design minimized the carbon footprint by prioritizing pedestrian
+networks over vehicular circulation in layout design; ensuring appropriate orientation of buildings
+to maximize natural ventilation, sunlight, and enhanced privacy; promoting landscapes that
+prioritize native vegetation and green spaces; improving visual quality and amenity through
+convenient access of onsite social infrastructure, such as ration shops and community hall
+livelihood centers; promoting diversity through design elevations and creation of nodes;
+incorporating safety by adopting the principles of crime prevention through environmental design;
+and enhancing the functionality of housing design for occupants, including by incorporating
+storage lofts and maximizing living areas within space constraints. For output 2, TNIFMC will carry
+out technical due diligence with individual project sponsors of affordable housing subprojects and
+confirm their validity through its internal appraisal process. The climate change risk and
+vulnerability assessment analyzed current and future climate impacts on the project, which were
+the basis for planning appropriate adaptation and mitigation measures.26
+
+B.       Economic and Financial Viability
+
+29.     Economic analysis. The economic rationale for the government’s intervention is sound,
+as the project aims to provide inclusive, resilient, and sustainable housing in Tamil Nadu by
+supporting relocation of vulnerable communities living in areas exposed to natural hazards to safe
+shelter; providing affordable, proper housing for migrant workers from the EWS and LIG; and
+supporting the state in regional development planning. The project is a sector project with output
+2 structured to follow an approach similar to a financial intermediation loan (para. 12). The
+estimated economic internal rates of return of the sample subprojects are 8.4%–11.7%, 27
+exceeding the minimum required economic opportunity cost of capital of 6% 28 indicating
+significant economic returns. The sensitivity analysis has revealed that the results are satisfactory
+except for the combined worst-case scenarios for all sample subprojects. At completion, the
+sample subprojects will address (i) affordable and improved housing for vulnerable communities
+in Reddiarpatti and Kalanivasal from 2025; and (ii) affordable housing for urban poor and migrant
+workers in Vallam industrial housing and four WWHs from 2023. The estimated poverty impact
+
+
+
+
+25 The subproject selection and eligibility criteria are in the PAM (footnote 18). For the economic analysis, four sample
+
+   subprojects (Kalanivasal, Reddiarpatti, industrial housing at Vallam, and WWHs at four locations) were appraised.
+   The appraisal methodology will be followed by the executing agency for the selection of the remaining subprojects
+   under the program; these will need to have an economic internal rate of return of at least 6%. Safeguards due
+   diligence considered three sample subprojects (Kalanivasal, Reddiarpatti, and Vallam).
+26 Climate Change Risk and Vulnerability Assessment (accessible from the list of linked documents in Appendix 2).
+27 Economic Analysis and Financial Analysis (accessible from the list of linked documents in Appendix 2).
+28 ADB. 2017.
+                Guidelines for the Economic Analysis of Projects. Manila. For social sector projects, the minimum
+   required economic opportunity cost of capital is 6%.
+10
+
+
+ratio of the sample subprojects is 23.0%–55.8%. Given Tamil Nadu’s overall urban poverty
+headcount ratio (20.3%), the project is expected to benefit the poor considerably.29
+
+30.     Financial analysis. For output 1, financial analysis was conducted for the sample
+subprojects for which detailed engineering designs and cost estimates are available. Maintenance
+charges from households and rental income from allied commercial activities are the main
+sources of income for the subprojects. The income generated from the subprojects covers only
+about 15%–33% of the O&M expenses. A review of TNSCB’s financial performance shows that
+TNSCB has been generating an operating surplus in the past 5 years. However, when the impact
+of the subprojects is taken into account, TNSCB is likely to have an operating deficit. To address
+these challenges, measures to address sustainability (para. 32) have been agreed. Over the
+medium- to long-term, TNSCB will (i) regularly revise maintenance charges until full O&M
+recovery, (ii) shift responsibility for municipal charges from TNSCB to the households,30 and (iii)
+improve collection efficiency to 90% during the early years of the operation period. Overall, the
+financial sustainability risk is categorized substantial.
+
+31.     For output 2, financial due diligence in accordance with financial intermediation loans was
+conducted. TNIFMC has a well-defined institutional governance structure and investment process
+based on the Securities and Exchange Board of India’s Alternative Investment Funds regulations
+for alternative investment funds, which are considered to ensure sound risk management
+practices. Both TNSF and TNIFMC are new and lack an investment track record; measuring
+performance based on assessment of a financial intermediary is thus not possible.31 However,
+TNSF is in the advanced stages of getting investment committee approval for two subprojects.
+The subprojects include WWHs and industrial housing. Financial analyses of these two
+subprojects were conducted as samples. Financial internal rates of return for these subprojects
+are 13.0% for the WWH and 12.9% for industrial housing and exceed the TNSF hurdle rate of 6%
+and target rate of 12%. Key risks identified in the analysis are (i) exit risk: TNSF is planning to
+invest in WWH and industrial housing via non-convertible debenture with tenor of 25 years, while
+the fund life is 10 years (which can be extended by 2 more years); and (ii) lack of track record:
+TNSF is a new fund established in 2018 and the fund manager, TNIFMC, also lacks a long track
+record (it was established in 2015 and is currently managing another fund, the Tamil Nadu
+Infrastructure Fund).
+
+C.       Sustainability
+
+32.     Ensuring appropriate O&M for the affordable housing units that are constructed is
+essential. GOTN and ADB agreed that (i) O&M is required beyond project completion to ensure
+long-term sustainability of subproject facilities; (ii) ADB and the project will finance O&M during
+the loan implementation period (until 2028); (iii) TNSCB, which will remain the asset owner, is
+party to the O&M contracts with O&M service providers in the first 5 years and arranges O&M for
+the succeeding 5-year period, and adequate funds towards O&M are provided to TNSCB after
+
+
+29 The poverty data is based on state-level figures, which constitute the most recent reliable poverty data (Government
+
+   of India, Planning Commission. Report of the Expert Group to Review the Methodology for Measurement of Poverty.
+   June 2014). The poverty level among beneficiaries is from a primary survey of beneficiary households conducted in
+   2020, presented in the Poverty and Social Analysis (accessible from the list of linked documents in Appendix 2).
+30 In addition to the O&M expenses incurred for maintaining common facilities, TNSCB is also making payment to the
+
+   urban local bodies and utilities towards the municipal charges, such as property tax, solid waste management
+   charges, and water and sewer charges.
+31 Financial performance of a financial intermediary will be assessed based on capital adequacy, asset quality, earnings
+
+   quality, and liquidity. These parameters are assessed based on historical data of the financial intermediary.
+                                                                                                                    11
+
+
+the project completion;32 (iv) loan covenants will cover (i) and (iii); and (v) for medium- to long-
+term sustainability and to improve financials, TNSCB will increase maintenance charges, shift
+municipal charges to residents, and improve collection efficiency early.
+
+33.      GOTN and ADB will agree on O&M arrangements for the second 5-year period (years 6–
+10) after the first 3 years O&M implementation.33 The O&M model will be informed by data on
+collection of maintenance charges and other key financial information. It will also be informed by
+studies undertaken through the TA on O&M modalities. As the asset owner, TNSCB needs to
+play a key role (including, at a minimum, supervision and monitoring) in O&M, ensuring that there
+is sufficient financing for O&M to achieve sustainability. To mitigate the sustainability risk after the
+first 5-year O&M period, TNSCB will, by the end of the third year of implementation, develop a
+time-bound action plan to ensure an efficient handover of the O&M responsibilities.
+
+D.       Governance
+
+34.     A financial management assessment has been conducted for the respective implementing
+agencies, in accordance with ADB’s guidelines. 34 The assessed pre-mitigation financial
+management risk is substantial mainly because of (i) the complex financial management
+arrangements involving three implementing agencies; (ii) some accounts staff positions in TNSCB
+are vacant; (iii) the implementing agencies lack experience in ADB’s financial management
+requirements and disbursement procedures; (iv) TNSF and TNIFMC have been only recently
+established, and have a limited financial track record; and (v) TNSCB and DTCP have no internal
+audit function in place and use manual accounting systems. These risks will be mitigated by (i)
+setting up a nodal project management unit (PMU) in TNSCB to coordinate and consolidate the
+financial information, (ii) filling the vacant accounts officer positions, (iii) providing ongoing training
+in ADB’s financial management requirements and disbursement procedures, (iv) including
+comprehensive financial information in the quarterly project progress reports submitted to ADB,
+and (v) adopting the use of accounting software to record project transactions in TNSCB.
+Moreover, the project financial statements will be audited annually by an auditor acceptable to
+ADB, following auditing standards acceptable to ADB. The achievement of value for money will
+be based on noncomplex works packages that do not require innovative technical solutions. The
+construction contract modality with conformance-based specification will provide a high degree of
+cost certainty by adopting least-cost evaluation criteria. The O&M contracts are proposed to be
+procured separately to target specialized O&M companies operating in this market segment.
+
+35.      Integrity due diligence was conducted for TNIFMC. No significant integrity risks were
+identified. ADB’s Anticorruption Policy (1998, as amended to date) was explained to and
+
+
+32 TNSCB will collect from beneficiaries upon their relocation to the housing sites, and funds collected while ADB and
+
+   the project finance O&M can be used to finance subsequent O&M by placing these in a fund (e.g., a sinking fund) to
+   be used for O&M after the initial 5-year period. To strengthen reporting and monitoring of the collection of
+   maintenance charges from allottees and/or residents, TNSCB will ensure that (i) its financial statements include a
+   detailed breakdown of the maintenance charges billed and collected during the fiscal year as a notes disclosure, (ii)
+   financial statement audits are completed within the timelines prescribed in the statutory requirements, and (iii) the
+   audited financial statements are submitted to ADB within 1 month after the approval by the relevant authority.
+33 ADB recommends retendering the contract to continue implementation of the O&M arrangements that apply during
+
+   the initial 5 years. However, on the basis of financial information and TA outcomes, ADB and the government can
+   agree, in year 3, to a system of piloting alternative O&M arrangements in year 6. This can include O&M management
+   through housing societies, provided (i) ownership of the units has been transferred to beneficiaries before the
+   alternative O&M system is piloted, (ii) TNSCB and the O&M contractor have undertaken sufficient capacity building
+   of the housing society, and (iii) TNSCB and/or GOTN commits to ensure sustainability for O&M payments.
+34 ADB. 2015.
+                 Financial Due Diligence: A Methodology Note. Manila.
+12
+
+
+discussed with GOTN. The specific policy requirements and supplementary measures are
+described in the PAM (footnote 18).
+
+E.       Poverty, Social, and Gender
+
+36.     The proportion of poor among targeted beneficiaries is 31.1% in 2020, compared to the
+overall urban poverty headcount ratio of 20.3% for Tamil Nadu (footnote 29). The latest census
+data (2011) indicates that 16.6% of the state’s urban population lives in slums. 35 The lack of
+affordable housing has resulted in (i) a lack of tenure security for many of the urban poor who
+have no option but to live in slums that are vulnerable to flooding or other hazards, and have
+limited or no urban services; and (ii) increasing numbers of poor migrant workers in cities and
+industrial estates who live in substandard housing, or commute considerable distances. The
+project directly targets urban poor households in flood-prone and high-risk areas who lack security
+of tenure, and industrial and migrant workers, as beneficiaries. Sustainable livelihoods for the
+relocated households is a key focus area. A graduation program will be piloted to ensure that
+vulnerable beneficiaries will thrive in their new location.
+
+37.     The project is classified effective gender mainstreaming. The project design addresses
+problems faced by women and vulnerable groups, including housing unit design that is gender-
+insensitive and culturally inadequate, a non-participatory and non-transparent relocation process,
+loss of employment and of access to basic services and government schemes, and inadequate
+housing for low-income female migrant workers. A gender equality and social inclusion (GESI)
+action plan has been agreed and developed with GOTN. The GESI action plan ensures (i) gender
+responsive design features are used for housing units, common areas, and sites;36 features to
+prevent crime through environmental design will benefit the elderly, women, children, and
+disabled; (ii) there is increased discussion and sharing of designs with beneficiaries (including
+40% women); (iii) the use of a sensitive and participatory relocation process that ensures women’s
+participation in pre-relocation meetings and visits to the site; (iv) women’s property rights are
+upheld by ensuring that at least 70% of titles of housing units are awarded to households headed
+by women or jointly to spouses; (v) the participation of women, transgenders, and men in the
+graduation program, with at least 50% women beneficiaries; (vi) 50% of those recruited as paid
+animators are women; (vii) the adoption of a monitoring and evaluation framework that includes
+GESI indicators and data disaggregated by gender identity; and (viii) the construction and
+maintenance of WWHs for low-income female migrant workers and industrial housing for low-
+income migrant workers. The GESI action plan also provides for gender mainstreaming training
+for implementing agency project staff, targeting training 80% of women staff.
+
+F.       Safeguards
+
+38.    In compliance with ADB’s Safeguard Policy Statement (2009), the project’s safeguard
+categories are as follows.37
+
+
+35 Ministry of Home Affairs.    Census of India. Slum Census 2011. The figure is based on 2011 census data; the next
+   census is in March 2021. Due to COVID-19 outbreak, the 2021 census survey has been postponed.
+36 Gender-responsive housing units include the following design features: (i) rooms that provide privacy to women and
+
+   girls, instead of one multipurpose hall; (ii) individual bath and toilet room with water supply; (iii) kitchen with adequate
+   ventilation; (iv) piped water connection; (v) dedicated spaces for laundry washing and drying; (vi) community gardens;
+   (vii) community halls; (viii) livelihood centers; and (ix) adequate street lights and key elements of Crime Prevention
+   Through Environmental Design in design of resettlement sites. International Crime Prevention Through
+   Environmental Design Association. CPTED in Brief. https://www.cpted.net/Primer-in-CPTED.
+37 ADB. Safeguards Categories.
+                                                                                                                          13
+
+
+39.      Environment (category B). For output 1, an environmental assessment and review
+framework has been prepared in accordance with ADB’s Safeguard Policy Statement and
+applicable laws and regulations that will guide subproject selection, screening, and categorization;
+environmental assessment; and the implementation of potential subprojects. Subprojects
+classified as category A will not be considered under the project. Results of the initial
+environmental examinations (IEEs) conducted in accordance with ADB’s Safeguard Policy
+Statement adequately identify project impacts and risks for the three sample subprojects (footnote
+25), and indicate that the project is unlikely to have any significant adverse environmental impacts
+that are irreversible, diverse, or unprecedented.38 Potential impacts are site-specific, and localized
+in nature (such as increased noise and dust levels, vibration, traffic congestion, potential
+interruption to existing utilities, and waste generation) with the exception of the land use change
+that will result in direct and irreversible impact because of the conversion of unused land to
+residential use. IEEs and environmental management plans (EMPs) have been prepared for the
+initial subprojects and are included in bid and contract documents. Further consultations will be
+held along with the completion of the social census survey, and the environment safeguards
+documentation will be updated prior to contract award. Grievances will be handled following the
+project grievance redress mechanism. The PMU will prepare environmental monitoring reports
+(quarterly during construction and annually during operation) and submit these to ADB. TNSCB
+will be supported by loan consultants and the TA for environment safeguard implementation,
+monitoring, and required capacity building. All IEEs and EMPs will be disclosed on ADB’s website
+and TNSCB’s website.
+
+40.     For output 2, the TNIFMC environmental and social management system (ESMS) outlines
+the screening, categorization, and due diligence (including identification of environmental impacts
+and mitigation) for potential investments under TNSF. Category A subprojects will not be
+considered for investment.39 In addition to the ESMS, an action plan, contained in the PAM, has
+been agreed with TNIFMC that applies to ADB-funded investments under the TNSF to ensure
+compliance with ADB’s Safeguard Policy Statement. Reporting on the ESMS and the agreed
+action plan implementation will be submitted to ADB on a semiannual basis during project
+implementation, and will also be publicly disclosed. Screening and categorization will be reflected
+in the subproject appraisal reports prepared by TNIFMC for the TNSF and submitted to ADB for
+clearing subprojects.40 TNIFMC capacity will be supported by hiring a senior environment expert
+under the TA. The TA will support further capacity building on environment safeguards
+compliance and implementation.
+
+41.     Involuntary resettlement (category A). For output 1, a resettlement framework has been
+prepared in accordance with ADB’s Safeguard Policy Statement and applicable laws and
+regulations that will guide subproject selection, screening, and categorization; resettlement
+planning; and the implementation of future subprojects. Draft resettlement plans prepared for
+three sample subprojects indicate physical displacement of 2,745 families, loss of income-
+generating assets and/or businesses, potential loss of employment, and temporary economic
+
+38 There are no internationally or nationally important biodiversity areas in the project area of influence. Physical cultural
+
+   resources were identified near the Vallam encroachment sites but no significant adverse impact is envisioned.
+   Appropriate mitigation measures will be adopted including manual demolition and a heritage impact assessment to
+   be undertaken in consultation with Archaeological Survey of India (ASI) prior to commencement of any works. Any
+   ASI mitigation recommendations will be incorporated into the IEE and EMP and adopted by the respective contractor.
+39 The action plan requires the ESMS categorization definitions to be in line with ADB’s Safeguard Policy Statement.
+40 For ADB-funded subprojects, screening and categorization shall be undertaken using ADB screening categorization
+
+   forms for involuntary settlement, indigenous peoples, and environment, including the Environment Social and
+   Governance screening checklist. These will be appended to the subproject appraisal report submitted to ADB, which
+   will also include due diligence as per the ESMS, including the agreed action plan, on environment and land
+   procurement.
+14
+
+
+impacts to businesses and its employees as well as loss of common property resources and trees
+for some families due to pipelaying.41 The proposed mitigation measures and safeguard planning
+documents are adequate to address the assessed impacts. The involuntary resettlement impacts
+will be further assessed during the census survey, and the resettlement plans will be updated
+prior to contract award. TNSCB will disclose the draft resettlement plans by bid invitation stage
+and the updated resettlement plans prior to contract award on its official website; the documents
+will be available in the local language (Tamil) to be disclosed to affected persons.42 The PMU will
+prepare quarterly social safeguards monitoring reports for ADB review and disclosure, and an
+external monitor will undertake independent monitoring. The grievance redress mechanism is
+adequate and commensurate to the project risks and impacts. This will be the first externally aided
+project to be implemented by TNSCB, although it has prior experience in supporting the
+Commissionerate of Revenue Administration of Tamil Nadu in the screening, categorization, and
+preparation of social safeguards documents for the World Bank-funded Emergency Tsunami
+Reconstruction Project. TNSCB staff, including its Community Development Wing, will require
+capacity building on ADB’s Safeguard Policy Statement requirements. ADB has conducted
+training workshops on ADB’s Safeguard Policy Statement requirements and ADB accountability
+mechanism for TNSCB staff. The TA will support capacity building and on-the-job training of
+TNSCB staff on resettlement planning, implementation and monitoring, livelihood restoration, and
+the graduation program on an ongoing basis.
+
+42.     For output 2, an ESMS is in place for TNIFMC (para. 40). Category A projects will not be
+considered for investment (footnote 37). The action plan contained in the PAM has been agreed
+to with TNFMIC for ADB-funded investments to comply with ADB’s Safeguard Policy Statement,
+screening, reporting, and disclosure (para. 40). The TA will support further capacity building on
+involuntary resettlement.
+
+43.    Indigenous peoples (category C). The project will have no impacts on indigenous
+peoples within the definition of ADB’s Safeguard Policy Statement.43
+
+G.        Summary of Risk Assessment and Risk Management Plan
+
+44.      Substantial risks and mitigating measures are summarized in Table 4 and described in
+detail in the risk assessment and risk management plan.44
+
+                          Table 4: Summary of Risks and Mitigating Measures
+
+                Risks                                            Mitigation Measures
+     Sustainability risk: O&M and     For output 1, O&M will be contracted to the private sector to ensure adequate
+
+41 The draft resettlement plans for Reddiarpatti and Kalanivasal are based on sample surveys; sample size varies (29%
+
+   for Reddiarpatti and 79% for Kalanivasal), depending on survey permissions received from GOTN. The draft
+   resettlement plan for Vallam is based on the census survey. Consultations during project preparation were conducted
+   with individual households; consultations with groups of affected persons could not be undertaken because of
+   COVID-19 restrictions. The consultations began early and will continue throughout the project cycle. Information was
+   shared in Tamil; the one-on-one consultations were undertaken in an atmosphere free of intimidation or coercion,
+   and were gender inclusive and participatory, including participation of the vulnerable. The need for intensive,
+   continued consultations is recognized and addressed through the detailed consultation and participation plan
+   prepared for the project. ADB’s Safeguard Policy Statement requirements on meaningful consultations will be
+   followed.
+42 In accordance with Safeguards Requirements 2 (para. 15) of ADB’s Safeguard Policy Statement, updated
+
+   resettlement plans will be prepared based on a census of displaced persons and the detailed measurement survey.
+43 The three sample subprojects under output 1 do not involve impacts to any person belonging to a scheduled tribe.
+
+   There are no particularly vulnerable tribal groups in the settlements proposed for relocation.
+44 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                                                         15
+
+
+  Risks                                                                Mitigation Measures
+ asset     management          are    O&M from the time of commissioning, and the project will provide financing for
+ inadequate.                          the initial years of operation. For outputs 1 and 2, TA will be provided to assist in
+                                      developing O&M contracts and O&M models for the different housing products.
+                                      The TA will also support the development of an e-asset registry for TNSCB.
+ Sustainability risk: Government      If it is unable to attract private sector investment directly into the project SPVs,
+ of Tamil Nadu’s equity in class B    under the SPV structure that TNIFMC is developing, the private sector can be
+ shares may not leverage private      involved in other ways—for example through O&M operators, who are critical to
+ sector investments.                  the long-term sustainability of the assets being developed. Even where TNSF is
+                                      unable to deliver privately promoted projects, the funds will promote affordable
+                                      housing executed in partnership with private parties.
+ Financial management risk: The       The mitigation measures include (i) setting up a nodal project management unit
+ complex financial management         in TNSCB to coordinate and consolidate the financial information, (ii) filling the
+ arrangements       with   several    vacant accounts officer positions, (iii) providing continuous training in ADB’s
+ implementing agencies and lack       financial management requirements and disbursement procedures, (iv) including
+ of past experience with ADB          comprehensive financial information in the quarterly project progress reports
+ financed projects may result in      submitted to ADB, and (v) adopting an accounting software to record project
+ fragmented and incomplete            transactions in TNSCB.
+ financial      reports,      non-
+ compliance with ADB’s financial
+ requirements, as well as delays
+ in disbursements.
+ Resettlement risk: Resettled   The required services are ensured at the housing sites. The project is piloting the
+ families may not be able to thrive
+                                graduation program (footnote 15) within resettlement implementation to ensure
+ at the housing sites and return to
+                                properly sequenced livelihood promotion, social protection, financial inclusion,
+ informal settlements.          and social empowerment. Key graduation interventions will be tailored to the
+                                needs of households and the local context. The development of the graduation
+                                program was initiated in the early stages of the project design, and further capacity
+                                will be built in the implementing agency through TA. Hazard-prone locations that
+                                were previously occupied by resettled families will be secured to prevent re-
+                                encroachment, and restore the previous ecological functions.
+ADB = Asian Development Bank, O&M = operation and maintenance, SPV = special purpose vehicle, TA = technical
+assistance, TNIFMC = Tamil Nadu Infrastructure Fund Management Corporation, TNSCB = Tamil Nadu Slum
+Clearance Board, TNSF = Tamil Nadu Shelter Fund.
+Source: Asian Development Bank.
+
+                                                 V.     ASSURANCES
+
+45.     The Government of India, GOTN, TNSCB, and TNIFMC have assured ADB that
+implementation of the project shall conform to all applicable ADB requirements, including those
+concerning anticorruption measures, safeguards, gender, procurement, consulting services,
+financial management, and disbursement as described in detail in the PAM and loan documents.
+The Government of India and GOTN have agreed with ADB on certain covenants for the project,
+which are set forth in the draft loan agreement and project agreement.
+
+                                           VI.        RECOMMENDATION
+
+46.     I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+Asian Development Bank and recommend that the Board approve the loan of $150,000,000 to
+India for the Inclusive, Resilient, and Sustainable Housing for Urban Poor Sector Project in Tamil
+Nadu from ADB’s ordinary capital resources, in regular terms, with interest to be determined in
+accordance with ADB’s London interbank offered rate (LIBOR)-based lending facility; for a term
+of 25 years, including a grace period of 5 years; and such other terms and conditions as are
+substantially in accordance with those set forth in the draft loan and project agreements presented
+to the Board.
+                                                                Masatsugu Asakawa
+                                                                President
+12 August 2021
+16    Appendix 1
+
+
+
+                              DESIGN AND MONITORING FRAMEWORK
+
+Impact the Project is Aligned with
+Permanent shelter with appropriate housing infrastructures and services provided for every affected
+household (Pradhan Mantri Awas Yojana – Housing for All (Urban) Scheme Guidelines)a
+                                                             Data Sources and
+                                                                  Reporting                  Risks and
+Results Chain                Performance Indicators             Mechanisms             Critical Assumptions
+Outcome                 By 2029:
+Access to inclusive,    a. At least 6,000 EWS and LIG       a. Signed allotment      R: Economic activities in
+safe, and affordable    households allotted affordable      documents provided       relocation sites and
+housing infrastructure housing units (2020 baseline: 0)     to EWS and LIG           industrial zones in the
+and services for        (OP1.1, OP1.3, OP2.1.4)             households (TNSCB, state are below
+vulnerable and                                              TNIFMC, and DTCP         projected level, resulting
+disadvantaged                                               records)                 in the target
+communities in Tamil                                                                 beneficiaries working
+Nadu increased                                                                       outside the project sites
+                        b. Housing unit occupancy rate of b. Beneficiary MIS         and, consequently, low
+                        at least 60% in project-built       annual report of         housing occupancy.
+                        affordable housing for EWS and      TNSCB
+                        LIG households achieved (2020
+                        baseline: 0%) (OP1.1, OP1.3)
+
+                        c. Total occupancy of project-built   c. TNIFMC annual
+                        or renovated industrial housing       report
+                        and women’s hostels for low-
+                        income migrant women and
+                        industrial workers increased by at
+                        least 4,400 (including 400
+                        occupied by women) (2020
+                        baseline: 0) (OP1.1, OP1.3,
+                        OP2.1.4)
+Outputs                 By 2028:
+1. Affordable and       1a. At least 6,000 affordable         1a. TNSCB housing       R: Extended impact of
+improved housing for    housing units constructed in nine     unit inventory,         the global pandemic on
+vulnerable              project sites with climate- and       geographic              movement of people,
+communities             disaster-resilient and gender-        information system,     goods, and services
+constructed             responsive features,b and             and survey (annual      could delay project
+                        provisions for basic urban            reports)                completion.
+                        services and amenities
+                        (2020 baseline: 0)
+                        (OP1.1.3, OP1.3.1, OP 2.4.1, OP
+                        3.2.5, OP 4.1.2, OP4.3)
+
+                        1b. 60% of relocated vulnerable       1b. Beneficiary MIS
+                        households registered in the          annual reports of
+                        graduation program in pilot           TNSCB
+                        locations (including 50% female
+                        registrants and all transgenders)
+                        (2020 baseline: 0) (OP1.1,
+                        OP1.1.3, OP1.3.2, OP2.1.1)
+                                                                                             Appendix 1     17
+
+
+                                                                Data Sources and
+                                                                    Reporting                 Risks and
+Results Chain                Performance Indicators                Mechanisms           Critical Assumptions
+                        1c. Improved O&M schemes for           1c. Shelter design
+                        safe gender-responsive shelter         plans and asset
+                        piloted in five housing sites (2020    maintenance system
+                        baseline: 0)                           (annual reports)
+
+                        1d. Cleared waterways protected        1d. List of protected
+                        and ecological restoration piloted     and rehabilitated
+                        in two sitesc (2020 baseline: 0)       waterways
+                        (OP3.3.3, OP 3.3.4, OP4.3)
+
+                        To be funded by the TA:
+                        By 2025:
+                        1e. Housing delivery                   1e. TA progress and
+                        methodologies and systems for          final reports
+                        the urban poor, including O&M
+                        modalities, asset management,
+                        beneficiary survey and data
+                        management, and ecological
+                        restoration alternatives,
+                        developed.
+                        (2020 baseline: 0) (OP4.3.1)
+
+                        1f. At least 100 eligible staff from   1f. Participants’
+                        HUDD, TNSCB, and urban local           feedback survey
+                        bodies (including at least 80% of
+                        eligible women staff) reported
+                        awareness on good practices and
+                        lessons on urban poor housing
+                        O&M modalities, asset
+                        management, beneficiary data
+                        management, and ecological
+                        restoration (2020 baseline: NA)
+                        (OP6.1.1)
+
+2. Affordable housing   By 2028:                                                       R: The global pandemic
+for urban poor and      2a. Tamil Nadu Shelter Fund total      2a.–c. TNIFMC           and resulting economic
+migrant workers         fund size increased to at least        annual report           slowdown could
+increased               $200 million (2020 baseline: $57                               discourage private
+                        million) (OP 6.1.2)                                            sector participation.
+
+                        2b. Total bed capacity of
+                        women’s hostel for low-income
+                        female migrant workers increased
+                        by 500 (2020 baseline: 0)
+                        (OP1.1.3, OP 1.3.1, OP2.4.1)
+
+                        2c. Total bed capacity of
+                        industrial housing for low-income
+                        migrant workers increased by
+                        5,000 (2020 baseline: 0)
+                        (OP 1.1.3, OP1.3.1)
+18    Appendix 1
+
+
+                                                          Data Sources and
+                                                             Reporting             Risks and
+Results Chain          Performance Indicators               Mechanisms       Critical Assumptions
+                   To be funded by the TA:
+                   By 2025:
+                   2d. O&M modalities and model          2d.–e. TA final
+                   contracts developed (2020             reports
+                   baseline: NA) (OP6.1.2)
+
+                   2e. Future pipeline of affordable
+                   housing projects with private
+                   sector involvement for migrant
+                   EWS, LIG, and other vulnerable
+                   groups developed (2020 baseline:
+                   NA)
+
+                   2f. At least 50 eligible TNIFMC       2f. Participants’
+                   staff, investee special purpose       feedback survey
+                   vehicle staff, and O&M staff of
+                   private sector projects (including
+                   at least 80% of eligible women
+                   staff) reported awareness on
+                   good practices and lessons on
+                   O&M modalities, private sector
+                   engagement, and delivery of
+                   affordable housing for migrant
+                   EWS, LIG, and other vulnerable
+                   groups (2020 baseline: NA)
+                   (OP6.1.1)
+
+3. Regional plan   By 2028:                              3a.–b. DTCP
+development        3a. One model integrated              regional plans
+supported          regional plan for Tamil Nadu’s
+                   industrial corridor (i.e., Chennai–
+                   Kanyakumari Industrial Corridor)
+                   that includes affordable housing,
+                   environmental management and
+                   disaster resilience, and gender
+                   mainstreaming formulated and
+                   submitted to the government for
+                   approval (2020 baseline: No
+                   regional plan)
+
+                   3b. Subsequent integrated
+                   regional plans for 30 Districts
+                   following the model in 3a
+                   completed (2020 baseline: No
+                   regional plan)
+                                                                                                     Appendix 1        19
+
+
+ Key Activities with Milestones
+ 1. Affordable and improved housing for vulnerable communities constructed
+ 1.1 Prepare detailed design and cost estimates for five subproject sites (June 2021).
+ 1.2 Conduct procurement process for five subprojects (ongoing until December 2021).
+ 1.3 Construct five subprojects (September 2021–February 2024).
+ 1.4 Conduct relocation to five subproject sites (February 2024–February 2025).
+ 1.5 Implement graduation program pilots (February 2024–February 2025).
+ 1.6 Conduct protection of five vacated sites and ecological restoration of two sites (June 2025–February
+      2026).
+ 1.7 Develop process for remaining subprojects sites (January 2021–2028).
+ 1.8 Implement consultation and participation plan (January 2021–2028).
+ 2. Affordable housing for urban poor and migrant workers increased
+ 2.1 Establish an environmental and social management system and adopt an action plan (September
+      2021).
+ 2.2 Process disbursement of equity to the Tamil Nadu Shelter Fund (September 2021–2028).
+ 3. Regional plan development supported
+ 3.1 Prepare plan for one region (September 2021–August 2022).
+ 3.2 Review of the first plan by stakeholders (August 2022–February 2023).
+ 3.3 Finalize the first plan (March 2023).
+ 3.4 Develop remaining regional plans on the basis of the refined methodology for the first plan (March
+      2023–March 2024).
+ Project Management Activities
+ Baseline information survey, MIS establishment
+ Monitoring, reporting, and evaluation
+ Coordination meetings with TNSCB, TNIFMC, DTCP
+ Review missions
+ Inputs
+ Asian Development Bank: $150 million (regular OCR loan)
+ Government: $65 million
+ TA (TASF-Others): $1.5 million
+DTCP = Directorate of Town and Country Planning, EWS = economically weaker section, HUDD = Housing and Urban
+Development Department, LIG = lower-income group, MIS = management information system, NA = not applicable,
+O&M = operation and maintenance, OCR = ordinary capital resources, OP = operational priority, R = risk, TA = technical
+assistance, TASF = Technical Assistance Special Fund, TNIFMC = Tamil Nadu Infrastructure Fund Management
+Corporation, TNSCB = Tamil Nadu Slum Clearance Board.
+a Government of India, Ministry of Housing and Urban Poverty Alleviation. 2016. Pradhan Mantri Awas Yojana–Housing
+
+  for All (Urban) Scheme Guidelines (PMAY-HFA). Delhi.
+b Gender-responsive housing units include the following design features: (i) elderly, women, children, and disabled
+
+  friendly (e.g. rooms that provide privacy to women and girls, instead of one multipurpose hall); (ii) individual bath and
+  toilet room with water supply; (iii) kitchen with adequate ventilation; (iv) piped water connection; (v) dedicated spaces
+  for laundry washing and drying; (vi) community gardens; (vii) community halls; (viii) livelihood centers, and (ix)
+  adequate street lights and key elements of Crime Prevention Through Environmental Design (CPTED) in design of
+  resettlement sites (footnote d in GESI action plan).
+c Cleared areas will be fenced to prevent re-encroachment. Examples of ecological restoration include revegetation,
+
+  erosion control, and waterway embankment.
+ Contribution to Strategy 2030 Operational Priorities
+ Expected values and methodological details for all OP indicators to which this operation will contribute results are
+ detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in Appendix
+ 2 of the report and recommendation of the President).
+Source: Asian Development Bank.
+20     Appendix 2
+
+
+                               LIST OF LINKED DOCUMENTS
+                    http://www.adb.org/Documents/RRPs/?id=53067-004-3
+
+ 1.     Loan Agreement
+ 2.     Project Agreement
+ 3.     Sector Assessment (Summary): Water and Other Urban
+        Infrastructure and Services (Urban Housing)
+ 4.     Project Administration Manual
+ 5.     Financial Analysis
+ 6.     Economic Analysis
+ 7.     Summary Poverty Reduction and Social Strategy
+ 8.     Risk Assessment and Risk Management Plan
+ 9.     Contribution to Strategy 2030 Operational Priorities
+ 10.    Attached Technical Assistance Report
+ 11.    Climate Change Assessment
+ 12.    Gender Equality and Social Inclusion Action Plan
+ 13.    Initial Environmental Examination: Kalanivasal
+ 14.    Initial Environmental Examination: Reddiarpatti
+ 15.    Initial Environmental Examination: Vallam
+ 16.    Environmental Assessment and Review Framework
+ 17.    Resettlement Plan: Kalanivasal
+ 18.    Resettlement Plan: Reddiarpatti
+ 19.    Resettlement Plan: Vallam
+ 20.    Resettlement Framework
+ 21.    Financial Intermediary: Environmental and Social
+        Management System Arrangement
+
+Supplementary Documents
+ 22.  Supplementary Financial Analysis
+ 23.  Supplementary Economic Analysis
+ 24.  Financial Management Assessment
+ 25.  Climate Risk and Vulnerability Assessment
+ 26.  Consultation and Participation Plan
+ 27.  Graduation Program
+ 28.  Poverty and Social Analysis
+

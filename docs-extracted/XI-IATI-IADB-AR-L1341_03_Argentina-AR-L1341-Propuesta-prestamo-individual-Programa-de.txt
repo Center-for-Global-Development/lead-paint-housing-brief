@@ -1,0 +1,2211 @@
+                                                                                      PÚBLICO
+
+
+
+
+                DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                      ARGENTINA
+
+
+
+
+                   PROGRAMA DE MEJORAMIENTO DE BARRIOS
+                                         (AR-L1341)
+
+
+      CUARTA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA DE CRÉDITO
+ CONDICIONAL PARA PROYECTOS DE INVERSIÓN (CCLIP) – PROGRAMA DE
+             MEJORAMIENTO DE BARRIOS (PROMEBA II)
+                                         (AR-X1004)
+
+
+
+
+                                PROPUESTA DE PRÉSTAMO
+
+
+
+Este documento fue preparado por el equipo de proyecto integrado por: Felipe Vera (HUD/CAR),
+Jefe de Equipo; Julieta Abad (TSP/CAR) y Dalve Alves (HUD/CAR) Jefes de Equipo Alternos;
+Verónica Adler (HUD/CUR); Martin Soulier (HUD/CAR); Oyamada, Jorge (WSA/CAR); Carolina
+Sepúlveda (HUD/CCH); Juliana Almeida y Hector Cordero (CSD/CCS) Cecilia Ares (CSC/CAR);
+Ana Nuibó; Sofía García Bailón y Natalia Pérez Fontela (FMP/CAR); Alejandra Catacoli y Julia
+Miguez Morais (VPS/ESG); Viviana Maya, y Alonso Chaverri (LEG/SGO); Ana Cuesta, Laisa
+Rachter y Gabriel Filc (SPD/SDV); Ana Cristina García, Dianela Avila, Maria Alejandra Villota y
+Silvia Perez (CSD/HUD).
+
+
+De conformidad con la Política de Acceso a Información, el presente documento está sujeto a
+divulgación pública.
+                                                       ÍNDICE
+
+
+
+RESUMEN DEL PROYECTO ................................................................................................. 1
+
+I.     DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS ........................... 2
+
+       A.      Antecedentes, problemática y justificación .......................................... 2
+       B.      Objetivos, componentes y costo ........................................................ 16
+       C.      Indicadores clave de resultados ........................................................ 18
+
+II.    ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS .................................... 19
+
+       A.      Instrumentos de financiamiento ......................................................... 19
+       B.      Riesgos ambientales y sociales ......................................................... 20
+       C.      Riesgos fiduciarios............................................................................. 21
+       D.      Otros riesgos y temas claves ............................................................. 21
+
+III.   PLAN DE IMPLEMENTACIÓN Y GESTIÓN.................................................................... 23
+
+       A.      Resumen de los arreglos de implementación .................................... 23
+       B.      Resumen de los arreglos para el monitoreo de resultados................ 25
+                                          - ii -
+
+
+
+                                        ANEXOS
+Anexo I     Matriz de Efectividad en el Desarrollo (DEM)
+Anexo II    Matriz de Resultados
+Anexo III   Acuerdos y Requisitos Fiduciarios
+
+
+                    ENLACES ELECTRÓNICOS REQUERIDOS (EER)
+EER#1       Plan de Ejecución Plurianual (PEP) y Plan Operativo Anual (POA)
+EER#2       Plan de Monitoreo y Evaluación
+EER#3       Resumen de la Revisión Ambiental y Social (ESRS)
+EER#4       Plan de Adquisiciones
+
+
+                     ENLACES ELECTRÓNICOS OPCIONALES (EEO)
+EEO#1       Evaluación Económica
+EEO#2       Informe de Terminación de Proyecto CLP-2 (2662/OC-AR)
+EEO#3       Evaluación Intermedia del Programa de Mejoramiento de Barrios - CLP-3
+            (3458/OC-AR)
+EEO#4       Evaluación del Programa de Mejoramiento de Barrios—CLP-1 (1842/OC-AR)
+EEO#5       Evaluación de Impacto del Programa de Mejoramiento de Barrios CLP-2
+EEO#6       Análisis de Cumplimiento con la Política de Servicios Públicos Domiciliarios
+EEO#7       Análisis de Género y Diversidad
+EEO#8       Atlas de Riesgo y Cambio Climático – Argentina
+EEO#9       Lecciones Aprendidas de los Programas de Mejoramiento de Barrios de la
+            Región
+EEO#10      Lógica Vertical
+EEO#11      Reglamento Operativo del Programa (ROP)
+EEO#12      Análisis Sectorial de la Vivienda en Argentina. Actualización a 2021
+EEO#13      Informe de Transporte Público en la Región Metropolitana de Buenos Aires 2022
+EEO#14      Informe Técnico de Infraestructura Social
+EEO#15      Análisis Ambiental y Social de Proyectos de la Muestra
+EEO#16      Marco de Gestión Ambiental y Social del Programa
+EEO#17      Anexo del Atlas de Riesgo de Villas, Asentamientos y Áreas Degradadas en
+            Argentina
+EEO#18      Filtro de Política de Salvaguardias (SPF) y Formulario de Evaluación de
+            Salvaguardia para la Clasificación de Proyectos (SSF)
+EEO#19      Caracterización de la problemática urbano-habitacional de los Grandes
+            Conjuntos de Vivienda Social en Argentina
+EEO#20      Referencias Bibliográficas
+                                         - iii -
+
+
+
+                                   ABREVIATURAS
+BP            Barrios Populares
+CCLIP         Línea de Crédito Condicional para Proyectos de Inversión
+CLP-1         Primera Operación Individual bajo la CCLIP
+CLP-2         Segunda Operación Individual bajo la CCLIP
+CLP-3         Tercera Operación Individual bajo la CCLIP
+CLP-4         Cuarta Operación Individual bajo la CCLIP
+CMA           Convenio Marco de Adhesión
+CO            Capital Ordinario
+CTO           Convenio de Transferencia de Obras
+DGPPSE        Dirección General de Programas y Proyectos Sectoriales y Especiales
+EAS           Evaluación Ambiental y Social
+EEO           Enlace Electrónico Opcional
+EER           Enlace Electrónico Requerido
+ERSR          Resumen de la Revisión Ambiental y Social
+EPH           Encuesta Permanente de Hogares
+FUP           Ficha Única del Proyecto
+IGAS          Informe de Gestión Ambiental y Social
+MDTYH         Ministerio de Desarrollo Territorial y Hábitat
+MGAS          Marcos de Gestión Ambiental y Social
+MPAS          Marco de Política Ambiental y Social
+MIOPV         Ministerio del Interior, Obras Públicas y Vivienda
+NBI           Necesidades Básicas Insatisfechas
+ONU-Hábitat   Organización de las Naciones Unidas para Asentamientos Humanos
+PCR           Informe de Terminación del Proyecto (por sus siglas en inglés)
+PEI           Proyectos Ejecutivos Integrales
+PEP           Plan de Ejecución Plurianual
+PIC           Proyecto de Iniciativa Comunitaria
+POA           Planes Operativos Anuales
+PROMEBA       Programa de Mejoramiento de Barrios
+PRONUREE      Programa Nacional de Uso Racional y Eficiente de la Energía
+RENABAP       Registro Nacional de Barrios Populares
+ROP           Reglamento Operativo del Programa
+SC            Secretaría de Coordinación
+SAE           Secretaría de Asuntos Estratégicos
+SEPA          Sistema de Ejecución de Planes de Adquisición
+SH            Secretaría de Hábitat
+SUM           Sala de Usos Múltiples
+TIRE          Tasa Interna de Retorno Económico
+UEM           Unidades Ejecutoras Municipales
+UEP           Unidades Ejecutoras Provinciales
+UEPEX         Unidades Ejecutoras de Préstamos Externos
+VAA           Villas, Asentamientos y Áreas Degradadas
+VAN           Valor Actual Neto
+                                       RESUMEN DEL PROYECTO
+                                              ARGENTINA
+                                 PROGRAMA MEJORAMIENTO DE BARRIOS
+                                             (AR-L1341)
+         CUARTA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA DE CRÉDITO CONDICIONAL PARA PROYECTOS DE
+               INVERSIÓN (CCLIP) - PROGRAMA DE MEJORAMIENTO DE BARRIOS (PROMEBA II)
+                                             (AR-X1004)
+                                             Términos y Condiciones Financieras
+                                                                      Facilidad de Financiamiento Flexible(a)
+  Prestatario: República Argentina                      Plazo de amortización:               25 años
+  Organismo Ejecutor (OE): Ministerio de Desarrollo     Período de desembolso:               5 años
+  Territorial y Hábitat (MDTYH)                         Período de gracia:                   5,5 años (b)
+                                Monto (US$)             Tasa de interés:                     Basada en SOFR
+              Fuente                            %
+                                 millones               Comisión de crédito:                 (c)
+
+  BID (Capital Ordinario) :(d)        150,00     90,91 Comisión de inspección y vigilancia: (c)
+  Local:                                   15,00         9,09     Vida Promedio Ponderada (VPP):                15,25 años
+  Total:                                  165,00       100,00     Moneda de aprobación:                         Dólares de los Estados
+                                                                                                                Unidos de América
+                                                            Esquema del Proyecto
+  Objetivo/descripción del proyecto: Mejorar de modo sustentable el hábitat de los hogares residentes en villas, asentamientos
+  y áreas degradadas del país a través de acciones que contribuyan al aumento en la seguridad de la tenencia de la tierra, la
+  provisión de infraestructura básica y el desarrollo comunitario. Los objetivos específicos son: (i) aumentar la seguridad en la
+  tenencia de la tierra de los hogares beneficiarios; (ii) incrementar la calidad de vida de los habitantes de cada área intervenida y
+  en su zona de influencia a partir de distintas obras de mejora del hábitat; (iii) fortalecer las organizaciones comunitarias de base
+  y garantizar la participación de los residentes de los barrios en todas las fases del proyecto integral; y (iv) mejorar el desempeño
+  de los equipos del Organismo Ejecutor, las Unidades Ejecutoras Provinciales y las Unidades Ejecutoras Municipales. Esta cuarta
+  operación individual (CLP-4) se enmarca dentro de la Línea de Crédito Condicional para Proyectos de Inversión (CCLIP)
+  AR-X1004, cuya finalidad es mejorar la calidad de vida y contribuir a la inclusión urbana y social de los hogares argentinos de
+  los segmentos más pobres de la población que residen en villas y asentamientos irregulares.
+  Condiciones contractuales especiales previas al primer desembolso del financiamiento: que el Prestatario, a través del
+  Organismo Ejecutor (OE), haya presentado evidencia de: (i) la entrada en vigencia del Reglamento Operativo del Programa
+  (ROP), de conformidad con los términos acordados con el Banco (¶3.3); y (ii) la conformación del equipo de implementación del
+  Programa, la cual deberá incluir, cuando menos, el responsable técnico y los especialistas ambientales y sociales para la gestión
+  socioambiental (¶2.6).
+  Condición contractual especial de ejecución: Previa a la primera transferencia de recursos a cada organismo subejecutor,
+  que el OE suscriba con cada uno el Convenio Marco de Adhesión (CMA) o acuerdo equivalente, en los términos previamente
+  acordados con el Banco (¶3.5). El OE deberá cumplir con los requisitos ambientales y sociales legales establecidos en el Anexo B
+  del ESRS.
+  Excepciones a las políticas del Banco: Ninguna
+                                                         Alineación Estratégica
+  Desafíos(e):                                           SI ☒                       PI ☒                           EI ☒
+  Temas Transversales(f):                      GE ☒        y     DI ☒            CC ☒        y    ES ☒                    IC    ☒
+(a)
+      Bajo los términos de la Facilidad de Financiamiento Flexible (documento FN-655-1) el Prestatario tiene la opción de solicitar modificaciones
+      en el cronograma de amortización, así como conversiones de moneda, de tasa de interés, de productos básicos y de protección contra
+      catástrofes. En la consideración de dichas solicitudes, el Banco tomará en cuenta aspectos operacionales y de manejo de riesgos.
+(b)
+      Bajo las opciones de reembolso flexible de la Facilidad de Financiamiento Flexible (FFF), cambios en el periodo de gracia son posibles
+      siempre que la Vida Promedio Ponderada (VPP) Original del préstamo y la última fecha de pago, documentadas en el contrato de préstamo,
+      no sean excedidas.
+(c)
+      La comisión de crédito y la comisión de inspección y vigilancia serán establecidas periódicamente por el Directorio Ejecutivo como parte de
+      su revisión de los cargos financieros del Banco, de conformidad con las políticas correspondientes.
+(d)
+      En virtud del documento AB-2990, el desembolso de los recursos del Préstamo estará sujeto a los siguientes límites máximos: (i) hasta un
+      15% durante los primeros 12 meses; (ii) hasta un 30% durante los primeros 24 meses; y (iii) hasta un 50%, durante los primeros 36 meses,
+      todos los cuales serán contados a partir de la fecha de aprobación del Préstamo por el Directorio Ejecutivo del Banco (¶2.3).
+(e)
+      SI (Inclusión Social e Igualdad); PI (Productividad e Innovación); y EI (Integración Económica).
+(f)
+      GE (Igualdad de Género) y DI (Diversidad); CC (Cambio Climático) y ES (Sostenibilidad Ambiental); y IC (Capacidad Institucional y Estado
+      de Derecho).
+                                                        -2-
+
+
+
+
+             I.        DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS
+
+A.         Antecedentes, problemática y justificación
+1.1        Antecedentes. Argentina es uno de los países más urbanizados de América
+           Latina, con el 92% de sus habitantes residiendo en zonas urbanas 1. A su vez,
+           existe una alta concentración de habitantes en grandes ciudades: sobre un total
+           estimado de 45 millones de personas 2, el 51% 3 residen en 10 aglomerados
+           urbanos 4 de más de 500.000 habitantes 5. La presión por suelo urbanizado para
+           atender al crecimiento expansivo de las ciudades, combinado con una dificultad
+           para proveer servicios básicos e infraestructura urbana ha generado que cada vez
+           más personas construyan sus residencias en Villas, Asentamientos 6 y Áreas
+           Degradadas 7 (VAA) sin acceso adecuado a dichos servicios y atributos de la
+           ciudad.
+1.2        El déficit habitacional del país equivale a 3,62 millones 8 de hogares (2020),
+           representando el 38,8% del total 9, donde las VAA concentran un 61,6%
+           (2.230.147 hogares) correspondiente a déficit cualitativo caracterizado por:
+           (i) problemas de calidad en la vivienda (63%) (1.405.547 hogares); y (ii) hogares
+           en situación de hacinamiento (3,5%) (79.000 hogares) o falta de acceso a
+           servicios básicos (33,4%). Las VAA se caracterizan por: (i) bajo acceso a servicios
+           básicos; (ii) problemas de calidad en las viviendas; (iii) tenencia irregular de la
+           propiedad; (iv) ausencia o baja calidad de equipamiento comunitario; (v) baja
+
+
+
+1     Referencias bibliográficas. Enlace Electrónico Opcional - EEO#20EEO#20- [1]
+2     EEO#20- [2]
+3     EEO#20- [3]
+4     “Un aglomerado, técnicamente denominado localidad compuesta, es un caso particular de localidad. La
+      definición de localidad se construye a partir de un criterio físico que establece que la misma “es una
+      porción de la superficie de la tierra caracterizada por la forma, cantidad, tamaño y proximidad entre sí de
+      ciertos objetos físicos artificiales fijos (edificios) y por ciertas modificaciones artificiales del suelo (calles),
+      necesarias para conectar aquellos entre sí”; es decir que “la localidad se concibe como concentración
+      espacial de edificios conectados entre sí́ por una red de calles.” Si la localidad se extiende sobre un
+      territorio de dos o más provincias, involucrando dos o más departamentos y áreas de gobierno local; o
+      se extiende sobre una sola provincia involucrando a dos o más departamentos, o sobre dos o más áreas
+      de gobierno local dentro de una misma provincia y dentro de un mismo departamento, estamos en
+      presencia de una localidad compuesta o aglomerado” [3].
+5     Gran Buenos Aires, Gran Córdoba, Gran Rosario, Gran Mendoza, Gran La Plata, Gran Tucumán-Tají
+      Viejo, Mar del Plata, Gran Santa Fe, Gran Salta y Gran San Juan. A su vez, el aglomerado Gran Buenos
+      Aires, concentra el 34% de la población [3].
+6     Las villas, son barrios con una trama urbana irregular, no cuentan con suficiente infraestructura, ni
+      espacios verdes o de recreación. Se accede por medio de pasillos y presentan una alta densidad
+      poblacional”. Los asentamientos irregulares son barrios que buscan mantener la trama urbana como
+      continuidad del tejido de la ciudad formal. Los terrenos, aunque subdivididos respetan el trazado de las
+      calles. Techo Argentina (2016) Relevamiento de Asentamientos Informales. Para efectos de este
+      programa se tratará la unidad Villa, Asentamiento y Área Degradada (VAA) como una zona de
+      intervención integral que incluye la zona de contacto entre las áreas formales e informales de la ciudad.
+7     Se entiende por área degradada la definición de ONU Hábitat para área precaria, donde un hogar de
+      área precaria representa a un grupo de personas viviendo en común en un área urbana y a quienes les
+      hace falta al menos una de las siguientes condiciones: (i) acceso a agua potable: suficiente cantidad de
+      ella a un precio accesible y de fácil acceso; (ii) acceso a adecuadas condiciones de salubridad: acceso
+      a mecanismos de recolección de residuos sólidos; (iii) suficiente espacio habitable; (iv) calidad y
+      durabilidad de la residencia; y (v) seguridad en la tenencia de la tierra.
+8     EEO#20- [4]
+9     38,4% son déficit cuantitativo donde 81,4% son viviendas irrecuperables y 18,6% cohabitación.
+                                                  -3-
+
+
+
+          conectividad física (con la ciudad formal) y digital 10; y (vi) baja calidad o ausencia
+          de espacios públicos.
+1.3       De acuerdo con el Registro Nacional de Barrios Populares (RENABAP) 11, en
+          Argentina hay 4.561 Barrios Populares 12, en donde viven 961.128 familias. Del
+          total de estos barrios, el 24% son villas y el 76% son asentamientos. En general,
+          estas urbanizaciones se han desarrollado en zonas periféricas, sobre suelos
+          residuales contaminados, expuestos a riesgos ambientales y eventos climáticos
+          extremos como inundaciones, que se han intensificado durante los últimos años
+          como consecuencia del cambio climático. Además, los hogares residentes en las
+          VAA presentan mayores brechas de acceso a la economía formal, teniendo
+          mayores restricciones para generar ingresos. En las VAA un 44,5% de la
+          población adulta está económicamente inactiva 13, en tanto que el 39,4% se
+          encuentra en situación de vulnerabilidad laboral: el 22% tiene un trabajo sin
+          aportes previsionales, el 9,4% tiene un trabajo por cuenta propia precarizado, el
+          8% se encuentra desocupado y solamente el 16,1% de los adultos tiene un
+          empleo registrado.
+                                 Mapa 1. Familias en VAA por Provincias
+
+
+
+
+       Fuente: BID, en base a los datos del RENABAP.
+
+
+10    Sólo el 27% de los hogares residentes en VAA cuentan con servicio de internet (ENES, 2019).
+11    El RENABAP se creó por medio del Decreto 358/2017 del Poder Ejecutivo Nacional. El RENABAP define
+      a los barrios populares como: “aquellos donde viven al menos 8 familias agrupadas o contiguas, con más
+      de la mitad de la población sin título de propiedad del suelo, ni acceso regular a dos –o más– de los
+      servicios básicos (red de agua corriente, red de energía eléctrica con medidor domiciliario y/o red
+      cloacal”.
+12    Este dato incluye los barrios populares registrados en el RENABAP, que son villas y asentamientos
+      conformados con anterioridad al 31/12/2016.
+13    La población inactiva no posee trabajo ni lo busca. Pueden ser: trabajadores/as del hogar, estudiantes
+      de dedicación exclusiva, jubilados y pensionados; o lo que se conoce como inactivos marginales o
+      desocupados desalentados. EEO#20- [5].
+                                                   -4-
+
+
+
+1.4       Con apoyo del Banco, mediante la línea CCLIP AR-X1004, el gobierno ha
+          desarrollado un exitoso modelo de intervención integral y transversal en el
+          territorio que ha apoyado a las ciudades argentinas a mejorar las VAA y contener
+          crecientes brechas de acceso a un hábitat adecuado y a servicios urbanos de
+          calidad. Este modelo de intervención ha mejorado la calidad de vida de más de
+          180,000 familias de manera sostenible e instalado capacidades para el
+          mejoramiento del hábitat en la gran mayoría de los gobiernos subnacionales del
+          país. Las fases anteriores de este programa han demostrado ser efectivas
+          presentando resultados e impactos que han contribuido a contener y disminuir el
+          déficit cualitativo de vivienda que ha ido perfeccionándose con cada tramo de la
+          operación.
+1.5       El programa ha reflejado resultados positivos en términos de seguridad en la
+          tenencia de la tierra y acceso a servicios básicos, en especial para mujeres. El
+          porcentaje de hogares que reportó tener seguridad jurídica predial aumenta un
+          18% y un 33% para las viviendas con Mujeres Jefes de Hogar (MJH) 14. Con
+          respecto a los servicios básicos, existe un aumento de la conexión intradomiciliaria
+          con la red de agua y cloacal (27%), así como una disminución de rebalses de
+          pozos ciegos o cámaras sépticas (25%). Con relación a la infraestructura y el
+          equipamiento comunitario, la satisfacción de los hogares mejora con respecto a la
+          calidad de las plazas (53%), las calles post lluvia (62%), el alumbrado público
+          (26%) y los espacios deportivos (33%). A su vez, ha mejorado la percepción de
+          seguridad de las mujeres, aumentando en plazas (35%), calles transitadas (22%)
+          y en las menos transitadas (43%) 15. En especial, los dos tramos anteriores han
+          presentado resultados positivos en esta línea: (i) la operación 2662/OC-AR
+          regularizó 81 barrios y 64.809 viviendas con conexiones de agua potable, cloaca,
+          gas y electricidad (117% de la meta final). Las UEP y UEM han producido
+          256 documentos de Proyectos Ejecutivos Integrales (PEI), generando planos
+          detallados y especificaciones técnicas, para licitar las obras de los Proyectos
+          Integrales (222% de la meta final). Los equipos de campo han realizado
+          2.600 talleres, cursos de capacitación, etc; (ii) los avances a la fecha en la
+          operación 3458/OC-AR, evidencian que será posible regularizar 33 barrios y
+          17.000 lotes, así como desarrollar 33 PEI 16.
+1.6       Por otra parte, los tramos anteriores presentan impactos positivos de desarrollo
+          humano y en la reducción del déficit cualitativo de vivienda. El programa logra
+          reducir el ausentismo a la escuela por causa de inundaciones en el barrio (33%)
+          y aumenta la participación en actividades comunitarias de las mujeres jefas de
+          hogar (17%) 17. Asimismo, impactó en la reducción del déficit cualitativo de
+          vivienda, fomentando inversiones intradomiciliarias: (i) incrementó el porcentaje
+          de viviendas con materiales más resistentes, incorporando elementos de aislación
+          y terminación (45%); (ii) redujo el índice de hacinamiento (16%); aumentando el
+          porcentaje de hogares con baño dentro de la vivienda (8%); y (iii) mejoró el
+          porcentaje de hogares con agua caliente en el baño (9%), dato que se duplicó
+          para viviendas con MJH (18%). Asimismo, la satisfacción residencial aumentó
+
+
+
+14    Este resultado es consistente con la literatura que señala que los programas de formalización de tenencia
+      de la vivienda tienen mayores efectos para los hogares donde la jefa de hogar es mujer. EEO#20- [6].
+15    Universidad Torcuato Di Tella (2019) Evaluación del Programa de Mejoramiento de Barrios.
+16    Último PMR 1° semestre de 2021.
+17    Ibidem.
+                                                 -5-
+
+
+
+          (65%), –un indicador comprehensivo sobre la incidencia positiva de la mejora de
+          la calidad de vida y su contribución a la inclusión socio-urbana de los hogares 18.
+1.7       Este cuarto tramo del programa bajo la CCLIP es estratégico para el
+          perfeccionamiento del modelo de intervención ya que actuando en 39 VAA y
+          beneficiando a 50.000 familias buscarán incrementar la efectividad de las
+          intervenciones en aspectos de resiliencia climática, género y diversidad, e
+          instalando capacidades de prevención de conformación de nuevas VAA en el
+          gobierno. Dentro de estas 39 VAA se encuentran casos con y sin atención previa,
+          bajo la CLIPP y/o PROMEBA I.
+1.8       Problema. La inclusión social y urbana de los hogares residentes en VAA se ve
+          limitada por su restringido acceso a los atributos de la ciudad formal. Para este
+          problema, se han identificado cuatro causas principales y condicionantes
+          transversales de vulnerabilidad por género, diversidad y exposición a los efectos
+          del cambio climático.
+1.9       Causa 1. Inseguridad en la tenencia. En Argentina, de acuerdo con el último
+          censo, el 14,4% de los hogares urbanos carecen de propiedad sobre el predio en
+          que habitan, y ocupan la vivienda a manera de préstamo o por trabajo. Además,
+          en promedio, el 17% de la población reside en viviendas con tenencia irregular,
+          situación que se acrecienta en VAA, en donde más del 50% carece de título de
+          propiedad 19. La inseguridad en la tenencia desincentiva a los hogares a realizar
+          mejoras en sus viviendas 20, aumenta la inseguridad social de sus moradores 21 y
+          dificulta el acceso al crédito 22.
+1.10      Causa 2. Acceso a servicios urbanos deficitario e inequitativo. En las VAA sólo el
+          14,7% 23 de los hogares están conectados a la red cloacal y únicamente el 3,3%
+          tiene conexión formal a la red 24. Con respecto al acceso a gas natural, esta cifra
+          es de 1,7% 25. Mientras que sólo el 30,8% cuenta con calles pavimentadas y el
+          51,8% de los hogares vive en zonas cercanas a basurales 26. Finalmente, el 64%
+          de las VAA se inundan 27 por lo menos una vez al año, situación que se
+          incrementará progresivamente debido a los efectos del cambio climático (Enlace
+          Electrónico Opcional - EEO#8) 28.
+                            Cuadro 1. Ciudad Formal vs. Villas y Asentamientos
+             Servicios y características urbanas              Argentina       Villas y asentamientos
+           Conexión a la red cloacal formal                     70%                        3,3%
+
+
+18    Ibidem.
+19    Para estar registrado en el RENABAP un barrio debe tener al menos un 50% de familias con tenencia
+      insegura. Los microdatos desagregados no existen.
+20    Tener seguridad en la tenencia no solo incrementa las inversiones que los residentes hacen en sus
+      casas, sino que también el precio de las propiedades entre 25% y 31%, en comparación a un grupo
+      control. EEO#20- [7].
+21    EEO#20- [8].
+22    EEO#20- [9].
+23    EEO#20- [10].
+24    RENABAP.
+25    RENABAP.
+26    EEO#20- [10].
+27    Las inundaciones recurrentes condicionan el desarrollo humano de las personas. La evaluación de
+      impacto del PROMEBA, encontró efectos significativos en la reducción de la cantidad de hogares donde
+      algún miembro debía ausentarse a clases a causa de inundaciones.
+28    EEO#20- [11]
+                                                 -6-
+
+
+
+            Servicios y características urbanas               Argentina      Villas y asentamientos
+          Conexión gas natural                                 71,2%                      1,7%
+          Recolección de residuos sólidos urbanos               93,9%                      68,9%
+          Calles pavimentadas                                   79,4%                      30,8%
+          Cercanía a basurales                                  22,1%                      51,8%
+          Fuente: BID, en base a datos proporcionados por SISU. [10].
+
+
+1.11     En términos de infraestructura social, los barrios tienen carencias de equipamiento
+         comunitario tales como salas de usos múltiples y polideportivos (existiendo en el
+         50% de las VAA) 29, y únicamente un 12,24% cuentan con una plaza o parque
+         dentro del barrio, lo que dificulta la asociatividad y convivencia entre vecinos 30.
+1.12     Dado que en gran parte de las VAA el transporte público no presta sus servicios,
+         la caminata promedio a una parada de bus es superior a la media. Por ejemplo,
+         mientras que en el AMBA la distancia promedio es de 600m, la mayoría de los
+         barrios de la muestra tienen valores de 700m o más 31. Además, según los datos
+         del Sistema Único de Boleto Electrónico (SUBE) para transporte público, los
+         usuarios de los barrios ubicados lejos del centro del área metropolitana deben
+         hacer mayor cantidad de transferencias para llegar a su destino, aumentando sus
+         tiempos de viaje 32.
+1.13     Causa 3. Barreras de inclusión socio-urbanas que restringen el capital social y el
+         desarrollo comunitario y de la economía local. Estas áreas presentan una serie de
+         limitaciones de acceso a servicios sociales: (i) baja cobertura efectiva de los
+         servicios básicos de salud (únicamente el 5,6% de las VAA cuenta con salas de
+         salud 33 y sólo un 30% de la población recibió al menos una prestación básica de
+         salud en los últimos 12 meses en comparación con el 73% en el resto del país) 34;
+         (ii) bajo acceso a servicios de desarrollo infantil y estimulación temprana (el 80%
+         de los niños de 0 a 4 años no asiste a centros de cuidado infantil versus el 68%
+         en la ciudad formal) 35; y (iii) bajo acceso a servicios educativos (sólo el 3,5% de
+         las VAA cuenta con guardería; el 6,6% con jardín de infantes; el 5,8% con
+         escuelas primarias dentro del barrio; y el 4% con escuelas secundarias 36). A su
+         vez experimentan algunas brechas de desarrollo: sólo el 15,5% de los jóvenes de
+         18 a 24 años en las VAA llegan al nivel de superior de escolarización, comparado
+         con el 29,7% a nivel nacional 37; únicamente el 26% de los jefes y jefas de hogar
+         residentes en VAA terminaron el secundario; valor que asciende levemente para
+         los residentes en viviendas sociales (38%), a comparación del 51% de los
+         residentes en barrios con trazado urbano regular, y/o barrios privados cerrados 38.
+         También se observan resultados inferiores en términos laborales: en VAA un
+         44,5% de la población adulta está económicamente inactiva, en tanto que el
+29   idem.
+30   Diagnóstico realizado sobre un total de 4.233 del RENABAP.
+31   EEO#20- [12].
+32   EEO#20- [13].
+33   RENABAP.
+34   Estimaciones realizadas por estudio de brecha de género en barrios populares aplica la definición de
+     barrios populares a datos de ENES (2015). La información se estimó en base a los datos del plan SUMAR
+     para la población de las áreas incluidas en la muestra representativa de proyectos.
+35   EEO#20- [14].
+36   RENABAP.
+37   La edad promedio de deserción es a los 15 años. EEO#20- [14].
+38   EEO#20- [14].
+                                                  -7-
+
+
+
+         39,4% se encuentra en situación de vulnerabilidad laboral: el 22% tiene un trabajo
+         sin aportes jubilatorios, el 9,4% tiene un trabajo por cuenta propia precarizado, el
+         8% se encuentra desocupado y solamente el 16,1% de los adultos tiene un
+         empleo registrado 39.
+1.14     Causa 4. Limitaciones técnico-administrativas de los gobiernos locales en la
+         gestión territorial. Estas limitaciones afectan la capacidad de garantizar a la
+         población un hábitat adecuado. Los municipios son el nivel gubernamental
+         responsable de la regulación territorial. Sin embargo, sus capacidades en términos
+         de recursos humanos, financieros y tecnológicos se encuentran limitadas, lo que
+         dificulta la implementación de políticas habitacionales de inclusión social y
+         urbana 40. Las evaluaciones de PROMEBA indican dificultades de planificación
+         territorial, ejecución, supervisión, gestión administrativa de coordinación y
+         articulación entre los distintos niveles de gobierno 41. A su vez, las VAA presentan
+         grandes desafíos en términos de información oportuna y confiable 42 lo que
+         impacta en el ciclo de la política pública, y dificulta el desarrollo de diagnósticos
+         precisos, limitando la planificación del desarrollo urbano. Lo anterior también
+         incide en la falta de herramientas para el seguimiento y evaluación de los
+         proyectos 43.
+1.15     Condicionantes de vulnerabilidad por género. La falta de acceso a un hábitat
+         adecuado y las brechas de género son desigualdades interconectadas que limitan
+         la integración socio-urbana de las mujeres. Las largas distancias que deben
+         realizar a sitios de cuidado o servicios también restringen su empoderamiento y
+         autonomía económica 44. Las mujeres y niñas que viven en las VAA experimentan
+         una mayor carga de cuidados 45. A nivel nacional, las mujeres dedican en promedio
+         44,8 horas semanales al trabajo no remunerado vinculado con actividades
+         domésticas, versus las 23,8 horas de los hombres 46. El 82,8% de los menores de
+         2 años no asisten a centros de cuidado infantil; y quienes los cuidan son
+         mayoritariamente mujeres (61,5%) 47. El 46,2% de los hogares de Buenos Aires
+         son de MJH48. El índice de pobreza para las MJH es 68%, comparado con el 60%
+         de sus contrapartes 49. Además, más del 50% de los hogares con MJH en las VAA
+         se encuentran en situación de hacinamiento, y de ellas, el 10% es crítico. De los
+         hogares con MJH, sólo el 12% son propietarias de la vivienda, pero no del
+         terreno 50 y el 80% reciben ingresos de hasta 2 Salario Mínimo Vital y Móvil
+         (SMVM). Por último, la violencia basada en género es un tema que precisa ser
+
+
+39   EEO#20- [5].
+40   EEO#20- [15].
+41   BID. Informe de Terminación del Proyecto 2662/OC-AR. PROMEBA III.
+42   EEO#20- [16].
+43   Ibidem.
+44   El tiempo de trabajo no remunerado de las mujeres es mucho mayor que el tiempo que dedican los
+     varones a estas mismas actividades. En Argentina, las mujeres dedican en promedio 15,2 horas al
+     trabajo remunerado y 42,4 horas al trabajo no remunerado a la semana, mientras que los varones ocupan
+     33,2 y 17,3 horas respectivamente). EEO#20- [17].
+45   Se entienden, por cuidado, a las actividades de reproducción material e inmaterial de la vida que
+     mantienen el tejido social. Generalmente relegadas al espacio doméstico, estas prácticas van desde
+     labores alimenticias y de limpieza hasta la contención física y emocional de las personas. EEO#20- [18].
+46   EEO#20- [19].
+47   EEO#20- [20].
+48   EEO#20- [21].
+49   EEO#20- [22].
+50   EEO#20- [23].
+                                              -8-
+
+
+
+         abordado. Las llamadas a la línea 137 aumentaron 34% en abril 2020 respecto al
+         año anterior 51 (EEO#7).
+1.16     Condicionantes de vulnerabilidad por diversidad. Las poblaciones
+         consideradas diversas, tales como Personas con Discapacidad (PcD), población
+         migrante, personas LGBTQ+, entre otras, que residen en las VAA, tienen mayores
+         barreras de integración socio-urbana. La prevalencia de PcD a nivel nacional es
+         de 10,2%, en la CABA es 21,3% y en las VAA 35% 52,53. Además, el 26,5% de los
+         hogares con PcD consideran necesario realizar adecuaciones en sus viviendas a
+         causa de la discapacidad 54. Con respecto a la población LGBTQ+, de
+         117 crímenes a personas LGBTQ+ ocurridos a nivel nacional en 2019, 113 fueron
+         mujeres trans. Asimismo, las personas LGBTQ+ experimentan una tasa de
+         desempleo de 14% (8,2% nacional) 55 (EEO#7).
+1.17     Condicionantes de vulnerabilidad por efectos del cambio climático. Se
+         estima que un 45% de las VAA se localizan en áreas expuestas a riesgo ambiental
+         y a los efectos del cambio climático. Por ejemplo, casi un 50% de las VAA se
+         encuentran en zonas de riesgo de inundación 56. Adicionalmente tienen una mayor
+         exposición a tormentas y olas térmicas 57, las que han aumentado
+         considerablemente en Argentina, duplicándose en la ciudad de Buenos Aires entre
+         1960 y 2010 58. La precariedad de los materiales de construcción de las viviendas
+         y edificaciones las hace más vulnerables a este tipo eventos. Incluso, las sequías
+         y olas de calor también afectan en mayor medida a estos barrios. Por ejemplo,
+         sólo en Buenos Aires 483.000 familias y en CABA, Córdoba y Santa Fe cerca del
+         100% de las áreas degradadas han sido identificadas como áreas de riesgo por
+         sequías. Por último, al no estar incluidas en la planificación urbana, las VAA no
+         incorporan medidas de adaptación a impactos climáticos y a la vez poseen riesgos
+         medioambientales significativos por su la localización en suelos de cultivos, más
+         propensos a erosión de la tierra y contaminación.
+
+
+
+
+51   Línea 137 - Llamados recibidos por violencia familiar - enero 2017 a enero de 2022.
+52   EEO#20- [24].
+53   EEO#20- [25].
+54   Ibidem.
+55   EEO#20- [26].
+56   Datos de Acueducto.
+57   EEO#20- [27].Durante 1960-2010, se observó un aumento de la temperatura media en la mayor parte
+     del país.
+58   Tercera Comunicación Nacional, 2015.
+                                               -9-
+
+
+
+                        Mapa 2. Familias en VAA Expuestas a Sequías
+
+
+
+
+Fuente: BID, en base a los datos del RENABAP
+
+
+                     Mapa 3. Familias en VAA Expuestas a Inundaciones
+
+
+
+
+Fuente: BID, en base a los datos del RENABAP
+                                             - 10 -
+
+
+
+   Mapa 4. Familias en VAA Localizadas en Espacios Suburbanos y Según Uso de Suelo
+
+
+
+
+ Fuente: Elaboración propia en base a los datos del RENABAP
+
+1.18    Lógica vertical. Como marco de diseño para avanzar en el logro del objetivo
+        general y los objetivos específicos, se presenta a continuación la lógica vertical
+        del Programa (Figura 1). En esta, se identifican los principales problemas, y
+        representa la manera en la que esta nueva operación alcanzará los impactos
+        deseados mediante los productos y resultados esperados.
+                                       Figura 1. Lógica Vertical
+                                         - 11 -
+
+
+
+
+1.19   De acuerdo con la teoría de cambio, el proyecto actuará mediante intervenciones
+       integrales que aumentarán la seguridad en la tenencia de la tierra, el acceso a
+       servicios básicos y un hábitat adecuado, el fortalecimiento de las organizaciones
+       comunitarias y la participación de los hogares residentes en VAA.
+1.20   Las principales características del modelo de intervención incluyen: (i) gestión
+       multisectorial e interinstitucional, coordinada a nivel territorial, con equipos de
+       campo y mesas de gestión barriales para la articulación intergubernamental;
+       (ii) participación de gobiernos subnacionales en la selección de los barrios, diseño,
+       ejecución y seguimiento de las inversiones; (iii) coordinación con los prestadores
+                                                  - 12 -
+
+
+
+         de servicios provinciales y municipales para asegurar la buena operación y
+         mantenimiento de los servicios públicos realizados; (iv) desarrollo de Proyectos
+         de Iniciativa Comunitaria (PIC) 59, para abordar temas críticos y articularlos con los
+         programas sociales existentes, de bajo acceso para la población de VAA; y
+         (v) promoción de la equidad de género y la sustentabilidad ambiental.
+1.21     En 2007, el gobierno argentino y el BID firmaron un contrato de préstamo para el
+         desarrollo de una Línea de Crédito Condicional para Proyectos de Inversión
+         CCLIP (AR-X1004) 60 destinada a mejorar la calidad de vida y contribuir a la
+         inclusión urbana y social de los hogares argentinos de los segmentos de la
+         población que residen en villas y asentamientos 61. Con la CCLIP se espera
+         beneficiar a 250.000 familias en un período de 25 años. Hasta el momento se han
+         financiado tres operaciones de crédito bajo dicha línea (1842/OC-AR,
+         2662/OC-AR y 3458/OC-AR) por US$950 millones, las que han beneficiado a
+         aproximadamente 165 mil familias. Antes de la CCLIP, el Banco financió el
+         PROMEBA I (940/OC-CAR) por US$102 millones.
+
+                          Cuadro 2. Recursos y Beneficiados de PROMEBA I y II
+                                                                                 Monto en millones de
+                 Numero de Préstamo                Familias atendidas
+                                                                                 US$ (externa + local)
+          PROMEBA I (940/OC-AR)                            57.194                        170
+          PROMEBA II (AR-X0004)
+           CLP-1 (1842/OC-AR)                             71.888                          395
+           CLP-2 (2662/OC-AR)                             68.317                          445
+           CLP-3 (3458/OC-AR)                             24.533                          222
+1.22     Experiencia en el sector. El Banco tiene una amplia experiencia en
+         intervenciones en las VAA. Estos programas han pasado por una curva de
+         aprendizaje, de enfatizar aspectos de infraestructura básica hacia perspectivas
+         que complementan lo anterior con acciones de carácter social. Se destacan: en
+         Argentina, el Programa de Integración Urbana e Inclusión Social y Educativa de
+         la Ciudad Autónoma de Buenos Aires (AR-O0005) y el Programa de Eficiencia
+         Energética y Energía Renovable en la Vivienda Social Argentina
+         (GRT/FM-15083-AR). En Uruguay, el Programa de Asentamientos Irregulares
+         (CCLIP UR-X1009). En Brasil, el Programa Nova Baixada (1037/OC-BR) y el
+         Programa de Rehabilitación Ambiental y Urbana de Joinville (1909/OC-BR). En
+         Bolivia, el Programa Multifase de Barrios de Verdad (2082/BL-BO). En Paraguay,
+         el Programa de Mejoramiento de Vivienda y del Hábitat (3538/OC-PR) y el
+         Programa de Rehabilitación y Vivienda del Bañado Sur en Asunción (Barrio -
+         Tucumbú) (4700/OC-PR). En Chile el Programa para la Integración de
+         Campamentos (5313/OC-CH). En Colombia, el Programa de Desarrollo Urbano
+         Zona Oriental de Bogotá (238/OC-CO; 344/SF-CO), el Programa Distrito de
+         Barranquilla, Mejoramiento Integral de Barrios (ATN/JC-11973-CO y
+         ATN/JF-11972-CO); y el Programa de Integración Socio-urbana de Migrantes en
+         Ciudades Colombianas (GRT/ER-17925-CO), entre otros. En Ecuador, el
+
+59   Los Proyectos de Iniciativa Comunitaria (PIC) son: actividades participativas de apoyo técnico y social a
+     grupos y organizaciones comunitarias definidas según las necesidades específicas de cada barrio en
+     base a un diagnóstico.
+60   La CCLIP fue aprobada en 2007 por un monto total de US$1.500 millones con vigencia de 25 años.
+61   La CCLIP contempla componentes de: (i) legalización de tenencia de la tierra; (ii) provisión de
+     infraestructura, equipamiento y saneamiento ambiental; (iii) incremento de capital social y humano; y
+     (iv) fortalecimiento institucional.
+                                                  - 13 -
+
+
+
+         Programa de Modernización Municipal y Mejoramiento de Barrios Fase I
+         (1740/OC-EC). Además, esta operación se nutre de las lecciones aprendidas de
+         los tramos anteriores del PROMEBA 62.
+1.23     Lecciones aprendidas de la CCLIP. Las evaluaciones de los tramos anteriores
+         de la CCLIP demuestran que: (i) las intervenciones deben ser abordadas de
+         manera integral 63; (ii) la participación de la comunidad en las decisiones
+         contribuye a fortalecer la organización local, la apropiación de los proyectos y su
+         sostenibilidad posterior; (iii) el trabajo de los equipos multidisciplinarios de campo
+         garantiza la integralidad del abordaje en el territorio y genera un ámbito eficaz de
+         coordinación y articulación con las comunidades y con los distintos niveles de
+         gobierno en la provisión de servicios; (iv) es imprescindible el fortalecimiento de
+         los mecanismos de coordinación entre los diferentes niveles de la administración
+         gubernamental y hacia el interior de cada nivel para lograr la complementariedad
+         con el resto de las políticas públicas; (v) el correcto diseño de los programas
+         depende de un sistema de información amplio basado en datos rigurosos que
+         permita realizar análisis integrales e implementar sistemas de monitoreo y
+         evaluación; (vi) los plazos de los programas de regularización predial requieren
+         de la existencia de documentos intermedios 64, que garanticen la seguridad en la
+         tenencia de la tierra y movilicen de forma temprana el impacto que esta genera;
+         (vii) la perspectiva de género y diversidad y las consideraciones frente al riesgo
+         ambiental y los efectos del cambio climático deben ser incluidas de forma
+         transversal en cada proyecto; y (viii) el promedio de desvío de los tres tramos
+         anteriores fue de 32% con respecto a los tiempos de ejecución programados. La
+         presente operación fortalecerá estos aspectos, enfocados en la modernización de
+         los mecanismos de monitoreo y planificación, y en el desarrollo de ajustes al ciclo
+         de proyecto para asegurar la identificación temprana de propuestas de
+         intervenciones que requieren financiamiento.
+1.24     Desafíos de eficiencia. El Informe de Terminación del Proyecto (PCR) del
+         CLP-3 finalizado identificó (3) tres desafíos de implementación 65: (i) demoras en
+         la etapa de licitación por la presencia de diversas instancias intervinientes en los
+         procesos y con baja articulación; (ii) demoras y sobrecostos en la etapa de
+         ejecución a causa de estimaciones de plazo de obras poco realistas, que dan lugar
+         a ampliaciones y/o ajustes que repercuten en los montos y fechas de pagos; y
+         (iii) escasa capacidad de reacción de la gestión administrativa debido a la limitada
+         efectividad de los instrumentos de monitoreo. También, se señaló que se debe
+         seguir invirtiendo en la capacitación y la mejora del desempeño de las unidades
+62   EEO#20- [28].La experiencia de 25 años en mejoramiento de barrios, a través del PROMEBA y otros
+     como Rosario Hábitat (1307/OC-AR), es reconocida en las publicaciones del Banco y en la literatura
+     externa.
+63   La evaluación de impacto del PROMEBA (CLP-3) concluye que las intervenciones integrales afectan la
+     función de utilidad de los hogares, en términos de bienestar habitacional y satisfacción, integración a la
+     ciudad y desarrollo humano. Los resultados evidencian que las mejoras en las condiciones del barrio,
+     incluyendo infraestructura sanitaria y de espacio público, plazas, equipamiento comunitario, alumbrado
+     y asfaltado y mejoras en la accesibilidad, juntamente con acciones de participación comunitaria como
+     eje de las intervenciones, inducen mejoras en la satisfacción con el barrio, y en la seguridad ciudadana.
+     Además de la seguridad de la tenencia, sirven para movilizan mayor inversión en la vivienda, con efectos
+     claramente positivos en la satisfacción y el bienestar de los habitantes de los barrios en los cuales se
+     implementó el programa.
+64   Se trata de instrumentos jurídicos que reconocen posesión legítima a los miembros del hogar sin ser
+     títulos de dominio perfecto, tales como certificados de vivienda y actas de posesión u otros de similares
+     características.
+65   Programa de Mejoramiento de Barrios (PROMEBA III). Informe de Terminación del Proyecto.
+                                                - 14 -
+
+
+
+         subejecutoras para incrementar la eficiencia en la ejecución de los proyectos y
+         asegurar su sostenibilidad 66.
+1.25     Justificación. La cuarta operación individual (CLP-4) bajo la CCLIP se justifica
+         por los resultados positivos del PROMEBA en mejorar las condiciones de
+         habitabilidad en las VAA y por los crecientes desafíos a los que se enfrenta el país
+         en materia habitacional. La decisión del Gobierno de Argentina en darle prioridad
+         a este programa se sustenta en los resultados y los impactos alcanzados, los que
+         han contribuido a disminuir el déficit cualitativo de vivienda a partir de sus
+         intervenciones integrales y transversales en el territorio. El Programa,
+         complementario de otras acciones del gobierno para la provisión de vivienda, es
+         considerado un ejemplo de focalización del gasto público, ya que actúa en las
+         áreas urbanas más carentes del país, atendiendo a la población más vulnerable.
+1.26     El Organismo Ejecutor (OE) ha demostrado su capacidad institucional a través de
+         la efectiva ejecución de la CLP-1, CLP-2 y CLP-3. Desde el 2020, el OE es el
+         Ministerio de Desarrollo Territorial y Hábitat (MDTyH), entidad que asumió las
+         funciones y equipos técnicos para su implementación del Ministerio del Interior,
+         Obras Públicas y Vivienda.
+1.27     Consistencia con las políticas del Banco. La CLP-3 ha cumplido con los
+         requisitos establecidos 67 para procesar una nueva operación individual, a saber:
+         (i) la presente operación individual de préstamo está contemplada en los sectores
+         y componentes de la CCLIP; (ii) la operación está incluida en el programa de país,
+         (iii) el OE del proyecto es el mismo que del proyecto anterior, y el nivel de
+         desempeño que mantiene en lo referente a lo que financia la línea CCLIP no se
+         ha deteriorado. En cuanto al proyecto anterior: (i) en términos de ejecución, el
+         desempeño fue satisfactorio y es probable que alcance los objetivos de desarrollo;
+         (ii)los desembolsos a la fecha equivalen al 66,1% del financiamiento
+         (US$132,2 millones) y se cuenta con la totalidad de los recursos comprometidos
+         para iniciar el procesamiento de una nueva operación bajo la línea CCLIP; (iii) el
+         prestatario y el Organismo Ejecutor han cumplido las condiciones contractuales
+         del Contrato de Préstamo y las políticas fiduciarias del Banco aplicables; y (iv) los
+         estados financieros auditados son actualizados y sin reservas.
+1.28     El Programa cumple con las condiciones de sostenibilidad financiera y evaluación
+         económica de la Política de Servicios Públicos Domiciliarios (GN-2716-9)
+         (EEO#6). Las obras de infraestructura básica son viables socioeconómicamente.
+         Los costos de inversión se cubren con transferencias del Estado cuya asignación
+         es transparente y su propósito es la expansión en la capacidad para proveer
+         mayor acceso. Para realizar la expansión de servicios públicos a los barrios
+         elegibles, las Unidades Ejecutoras Provinciales (UEP) y las Unidades Ejecutoras
+         Municipales (UEM) obtienen las aprobaciones y licencias necesarias de las
+         empresas prestadoras de servicios en cada provincia y municipio. Una vez
+         concluidas las obras, los subejecutores suscriben un Convenio de Transferencia
+         de Obras (CTO) con las empresas prestadoras de servicios, que tienen el
+         compromiso de operar y mantener las inversiones de acuerdo con el marco
+         regulatorio vigente en cada provincia o municipio y en términos consistentes con
+
+66   Vera, Felipe y Rodriguez, Sol (2021) En: Acevedo, P. et al (Eds), Informando lo Informal. Estrategias
+     para generar información en asentamientos precarios. BID.
+67   La presente operación ha sido preparada de conformidad con los criterios de elegibilidad establecidos
+     en el documento GN-2246-1. Propuesta de un Nuevo Instrumento Financiero. Línea de Crédito
+     Condicional para Proyectos de Inversión (CCLIP).
+                                         - 15 -
+
+
+
+       las políticas del Banco que se detallan en el EEO#11-Reglamento Operativo del
+       Programa (ROP).
+1.29   Alineación estratégica. El Programa es consistente con la Segunda
+       Actualización de la Estrategia Institucional (UIS) (AB-3190-2) y con el Marco de
+       Resultados Corporativos del Grupos BID 2020-2023 (GN-2727-12) dado que se
+       alinea con los desafíos de desarrollo de: (i) Inclusión Social e Igualdad, al asistir
+       la reducción de la pobreza y promoción de la equidad, atendiendo los déficits de
+       infraestructura básica y al acceso a servicios sociales para poblaciones con
+       Necesidades Básicas Insatisfechas (NBI); (ii) Productividad e Innovación,
+       mediante acciones orientadas a empleo; y (iii) Integración Económica, mediante
+       inversiones en mejoramiento de redes viales que permiten una mayor
+       conectividad con el entorno. También se alinea con los temas transversales de:
+       (i) Equidad de Género y Diversidad, mediante: (a) la titularización de las
+       propiedades en favor de las mujeres, (b) la participación prioritaria de mujeres,
+       PcD y personas LGBTQ+ en los PIC, (c) los Proyectos de Fortalecimiento del
+       Capital Social Humano (PFCSyH) y líneas de acción, y (d) la incorporación de
+       criterios de diseño urbano que permitan mejorar las condiciones de movilidad
+       universal y poblaciones diversas; (ii) Cambio Climático (CC) y Sostenibilidad
+       Ambiental, a través de las siguientes medidas de mitigación y adaptación:
+       (a) titularización de asentamientos y de tierra fuera de las zonas de alta
+       vulnerabilidad climática, (b) equipamientos comunitarios que cumplen con criterios
+       de edificación verde detallados en el ROP, (c) intervenciones urbanas en plazas,
+       espacios públicos y/u otros que incorporan al menos 3 (tres) soluciones climáticas
+       integrales (listadas en el ROP), y (d) alumbrado público LED, construcción de
+       ciclovías y redes peatonales; y (iii) Capacidad Institucional y Estado de Derecho,
+       incluyendo talleres, cursos y capacitaciones en temas de eficiencia en la gestión
+       y ejecución de proyectos, y el desarrollo y utilización de herramientas y sistemas
+       de tecnología digital para optimizar procesos. El 56,66% de los recursos de los
+       recursos de la operación se invierten en actividades de mitigación y adaptación al
+       cambio climático por las actividades citadas, según la metodología conjunta de los
+       Bancos Multilaterales de Desarrollo. (EEO#8).
+1.30   La operación es consistente con la Visión 2025 (AB-3266) del Grupo BID dado
+       que se alinea con su enfoques de trabajar por un crecimiento económico
+       sostenible e incluyente al tener actividades orientadas a: (i) promover el progreso
+       social por fomentar el acceso y la calidad de los servicios públicos y la cobertura
+       de las necesidades básicas, especialmente de la vivienda; (ii) fortalecer la buena
+       gobernanza y las instituciones, al promover la eficiencia y eficacia en el gasto y
+       gestión públicos y la digitalización del gobierno; y (iii) reforzar las intervenciones
+       que incluyen consideraciones de igualdad de género, diversidad y cambio
+       climático. Adicionalmente, es consistente con la Estrategia de País con Argentina
+       2021-2023 (GN-3051), la que se focaliza en la reducción de la pobreza y
+       protección social de los más vulnerables. Allí, se destacan las acciones del Banco
+       en desarrollo urbano, enfocadas en apoyar programas de mejoramiento de barrios
+       que benefician a la población de más bajos ingresos que viven en VAA.
+1.31   Esta operación está incluida en el Informe sobre el Programa de Operaciones de
+       2022 (GN-3087). Adicionalmente, es consistente con los siguientes documentos
+       del Marco Sectorial de: (i) Desarrollo Urbano y Vivienda (GN-2732-11), al
+       identificar las intervenciones urbanas integrales con participación de los
+       ciudadanos como una de las líneas de acción operativas del Banco; (ii) Cambio
+                                               - 16 -
+
+
+
+         Climático (GN-2835-8) 68, al implementar medidas específicas de mitigación y
+         adaptación a través de la planificación y diseño, y (iii) Género y Diversidad (GN-
+         2800-8), al mejorar la calidad de los servicios públicos y oportunidades
+         económicas de las mujeres, PcD y personas LGBTQ+. Adicionalmente, el
+         programa está alineado con la Estrategia de Infraestructura Sostenible para la
+         Competitividad y el Crecimiento Inclusivo (GN-2710-5), particularmente con el
+         área prioritaria de “Apoyar la construcción y el mantenimiento de una
+         infraestructura social y ambientalmente sostenible para que contribuya a
+         aumentar la calidad de vida”.
+
+B.       Objetivos, componentes y costo
+
+1.32     Esta operación tiene como objetivo mejorar de modo sustentable el hábitat de los
+         hogares residentes en villas, asentamientos y áreas degradadas del país a través
+         de acciones que contribuyan al aumento en la seguridad de la tenencia de la tierra,
+         la provisión de infraestructura básica y el desarrollo comunitario. Esta CLP-4 se
+         enmarca en la CCLIP AR-X1004, cuya finalidad es mejorar la calidad de vida y
+         contribuir a la inclusión urbana y social de los hogares argentinos de los
+         segmentos más pobres de la población que residen en villas y asentamientos
+         irregulares.
+1.33     El programa cuenta con cuatro objetivos específicos (i) aumentar la seguridad en
+         la tenencia de la tierra de los hogares beneficiarios; (ii) incrementar la calidad de
+         vida de los habitantes de cada área intervenida y en su zona de influencia a partir
+         de distintas obras de mejora del hábitat; (iii) fortalecer las organizaciones
+         comunitarias de base y garantizar la participación de los residentes de los barrios
+         en todas las fases del proyecto integral; y (iv) mejorar el desempeño de los
+         equipos del OE, las UEP y las UEM.
+1.34     Componente I. Aumento de la seguridad en la tenencia de la tierra.
+         (BID: US$1,16. Local: US$0,12. Total:US$1,28 millones). Este componente
+         financiará actividades de asistencia técnica y otros servicios que permitan: (i) la
+         regularización física del área a intervenir a través de trámites y estudios legales,
+         planos de mensura, demarcación e incorporación catastral de nuevas parcelas;
+         (ii) la regularización legal de lotes (adjudicación, venta o inscripción registral)
+         necesaria para realizar la transferencia de la titularidad del dominio de las tierras
+         donde se realice el proyecto a favor de los beneficiarios; (iii) la adquisición de lotes
+         para realojo que cuenten con servicios básicos o con factibilidad de tenerlos y que
+         estén ubicados en zonas de bajo riesgo climático o cuyos riesgos puedan ser
+         mitigados según evaluación de riesgo a ser incluida en los diagnósticos barriales;
+         y (iv) la entrega de instrumentos jurídicos a los habitantes que garanticen la
+         seguridad en la tenencia de la tierra y su ubicación fuera de zonas de alta
+         vulnerabilidad climática, mediante la adopción de distintas estrategias de
+         regularización según las particularidades de cada territorio. Se priorizará la
+         titulación a nombre de las diversidades 69 y de mujeres para casos de MJH o
+         compartida para casos de parejas.
+
+
+
+
+68   Promover la innovación para la implementación de acciones climáticas a nivel de desarrollo urbano y
+     vivienda.
+69   Personas con Discapacidad y población LGBTQ+.
+                                                 - 17 -
+
+
+
+1.35     Componente II. Intervenciones urbanas integradoras, provisión de
+         infraestructura urbana, saneamiento ambiental y equipamiento social
+         (BID: US$126,73. Local: US$12,67. Total:US$139,40 millones). Este
+         componente financiará obras, asistencia técnica y otros servicios que permitan:
+         (i) la ejecución de redes y nexos de infraestructura urbana básica de agua potable,
+         cloacas, drenaje pluvial, desagües de alcantarillado (o solución alternativa),
+         distribución de gas, conectividad, electrificación con sus conexiones
+         intradomiciliarias; 70 (ii) la ejecución de espacios peatonales e infraestructura y
+         equipamiento que promuevan el transporte público y la movilidad no motorizada,
+         aspectos que ayudan a reducir emisiones de GEI, y que sean inclusivos para PcD;
+         (iii) las obras de mitigación ambiental; (iv) la construcción de parques y desarrollo
+         de espacios verdes y recreativos que incorporen criterios de género y diversidad 71,
+         mitigación y adaptación al cambio climático a partir del uso de materiales
+         reciclables, luminarias LED, flora autóctona, superficie absorbente, soluciones
+         basadas en la naturaleza o similares; (v) la construcción y/o mejoramiento del
+         equipamiento urbano y comunitario con criterios de eficiencia energética
+         diseñados de acuerdo con las condiciones bioclimáticas de cada región y la
+         incorporación de energías renovables; (vi) las intervenciones que den respuesta
+         ante contingencias y/o emergencias climáticas, sanitarias y sociales, entre otras,
+         tales como reparación y/o construcción de viviendas, equipamiento comunitario y
+         otros similares; (vii) obras de mejoramiento de inmuebles degradados; (viii) las
+         obras de infraestructura e intervenciones sobre la red vial y de transportes que
+         mejoren la conectividad con la ciudad y fomenten el mayor uso del transporte
+         público masivo y no motorizado; (ix) la generación de lotes con servicios que
+         cuenten con infraestructura mínima garantizada, adecuada localización en zonas
+         con baja vulnerabilidad climática y que sean aptos para programas habitacionales
+         para realojos; (x) los estudios orientados a la construcción de escenarios
+         climáticos que permitan analizar la viabilidad de ocupación y consolidación de los
+         terrenos a largo plazo; y (xi) la formulación de proyectos ejecutivos para definir la
+         estrategia y diseño de las intervenciones de proyecto integral, incluyendo una
+         serie de consideraciones mínimas de cambio climático. Las condiciones de
+         elegibilidad de los gastos y sus mecanismos de ejecución serán detalladas en el
+         ROP.
+1.36     Componente III. Fortalecimiento de las organizaciones comunitarias de base
+         y      desarrollo      comunitario       (BID:US$18,28.       Local:      US$1,83.
+         Total: US$20,11 millones). Este componente financiará: (i) la formulación y
+         ejecución de los PIC, promoviendo aquellos orientados a la empleabilidad de
+         mujeres, PcD y personas LGBTQ+; (ii) la formulación y/o ejecución de PFCSyH
+         vinculados a problemáticas de salud, estimulación temprana, adicciones, violencia
+         familiar, a través de actividades deportivas recreativas y culturales de inclusión
+         social, capacitación para mejorar la empleabilidad y acompañamiento para la
+         creación de redes de organizaciones que contribuyan al desarrollo local y en
+         materia ambiental, recolección y tratamiento de residuos, manutención de áreas
+         verdes, soluciones basadas en naturaleza, entre otras equivalentes; (iii) las
+         acciones para el fortalecimiento de las economías locales; (iv) actividades que den
+         respuesta ante contingencias y/o emergencias climáticas, sanitarias y sociales;
+
+70   Desde 2013 en la ejecución del préstamo 2662/OC-AR se utilizan elementos que garanticen la eficiencia
+     energética en el alumbrado público, consistentes con el Programa Nacional de Uso Racional y Eficiente
+     de la Energía (PRONUREE) establecido por Decreto 0140/2007.
+71   Accesibilidad universal, iluminación, cabinas de lactancia y espacios de recreación inclusivos para PcD.
+                                          - 18 -
+
+
+
+       (v) la asistencia técnica para brindar acompañamiento y fortalecer los lazos
+       comunitarios de las familias que deban ser reasentadas; y (vi) planificación y
+       ejecución de líneas de acción básicas, vinculadas a temáticas, tales como, la
+       promoción de la salud y prevención de enfermedades, el acceso y desarrollo de
+       Tecnología de Información y Comunicación (TIC) y otras similares. Para este
+       componente, distintos equipos de campo interdisciplinarios trabajarán en el
+       territorio realizando talleres participativos y capacitaciones en las comunidades,
+       facilitando la articulación con organismos del Estado para promover el acceso a
+       los servicios sociales. Las condiciones de elegibilidad de los gastos y sus
+       mecanismos de ejecución serán detalladas en el ROP.
+1.37   Componente IV. Fortalecimiento de la capacidad de gestión (BID: US$1,78.
+       Local: US$0,18. Total:US$1,96 millones). Este componente financiará: (i) la
+       asistencia técnica para capacitar y fortalecer las unidades en los procesos
+       técnicos y fiduciarios relacionados a la programación y ejecución de los proyectos
+       integrales; (ii) la realización de talleres y/o capacitaciones de fortalecimiento para
+       las organizaciones y actores sociales involucrados en los proyectos enfocados en
+       temáticas de violencia de género y diversidad sexual y funcional, acción climática
+       y atención a población migrante, entre otras equivalentes; (iii) la contratación de
+       recursos humanos calificados y adquisición de equipamiento para las UEP y UEM;
+       (iv) la planificación, acciones y estrategias de intervención para minimizar la
+       conformación de nuevos asentamientos y el crecimiento de los existentes; (v) la
+       adquisición, desarrollo, mejoramiento, instalación y operación de herramientas y
+       soportes tecnológicos y/o informáticos; (vi) el desarrollo de sistemas de
+       procesamiento y gestión de la información climática; y (vii) los diagnósticos
+       barriales de riesgo climático.
+1.38   Administración, supervisión, evaluaciones y auditoría (BID: US$2,05.
+       Local: US$0,20. Total: US$2,25 millones). El Programa financiará, entre otros
+       equivalentes: (i) los gastos de funcionamiento, equipamiento y gestión del OE;
+       (ii) servicios de consultoría de firmas o individuos para llevar a cabo evaluaciones,
+       auditorías, actividades de administración y supervisión del programa; y (iii) la
+       evaluación estratégica del programa.
+
+C.     Indicadores clave de resultados
+
+1.39   Este programa atenderá a 50.000 hogares que residen en 39 VAA. Los
+       indicadores de impacto para evaluar la mejora de su habitabilidad serán: (i) el
+       aumento en el valor promedio de las propiedades en los barrios intervenidos; (ii) la
+       disminución del porcentaje de viviendas con déficit cualitativo; (iii) la satisfacción
+       con los atributos del barrio; y (iv) el porcentaje de grupos poblacionales de mayor
+       vulnerabilidad que se sienten seguros transitando en el barrio. A su vez, los
+       resultados esperados son los siguientes: (i) aumentar la seguridad de la tenencia
+       en la tierra para los hogares beneficiarios; (ii) incrementar la calidad de vida de los
+       habitantes de cada área intervenida y de su zona de influencia a partir de distintas
+       obras de mejora del hábitat; (iii) fortalecer a las organizaciones comunitarias de
+       base y garantizar la participación de los residentes de los barrios en todas las
+       fases del proyecto integral; y (iv) mejorar el desempeño de los equipos del OE, las
+       UEP y las UEM. Los indicadores para medir los resultados de la intervención y
+       sus metas se presentan en el Anexo II - Matriz de Resultados.
+                                                  - 19 -
+
+
+
+1.40      Viabilidad económica. Para la evaluación económica del Programa (EEO#1) se
+          realizó un análisis costo-beneficio para los proyectos de una muestra
+          representativa (¶2.1). Esta evaluación se basa en una comparación de costos y
+          beneficios incrementales, a precios económicos, en las situaciones con y sin
+          proyecto. La estimación de los beneficios se apoyó en la teoría que una mejora
+          en las condiciones de infraestructura y equipamiento urbano de los barrios
+          redundará en un incremento en el precio de las viviendas y que esta mejora es un
+          proxi de los beneficios generados, en términos de mejora de la calidad de vida de
+          las familias, por las inversiones integrales. Sobre esta base se estimó el aumento
+          en el valor de las viviendas producto de las intervenciones.
+1.41      El análisis realizado sobre la muestra, utilizando una tasa de descuento del 12%
+          y un horizonte de evaluación de 20 años, arrojó un Valor Actual Neto (VAN)
+          positivo, equivalente a US$21,5 millones, sobre una inversión de
+          US$45,6 millones (US$33,7 millones a costos económicos) y una Tasa Interna de
+          Retorno Económico (TIRE) del 38,2%. Adicionalmente, el análisis de sensibilidad
+          mostró que ante incrementos de costos de hasta el 40% y disminuciones en el
+          impacto de la valorización de las viviendas de hasta un 30%, la TIRE de la muestra
+          se mantiene igual o superior a la tasa de descuento utilizada del 12%, permitiendo
+          verificar la robustez de estos frente a escenarios más desfavorables.
+
+              II.      ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS
+
+A.        Instrumentos de financiamiento
+2.1       Esta cuarta operación bajo la CCLIP AR-X1004 será estructurada como un
+          Programa de Obras Múltiples, dado que financiará varios proyectos físicamente
+          similares pero independientes entre sí, aplicando los criterios de elegibilidad y
+          priorización detallados en los párrafos ¶2.11 y ¶2.12. La muestra analizada cuenta
+          con 13 proyectos que representan inversiones por US$49,78 millones, equivalente
+          a 30% del financiamiento (¶2.10), verificando que el Programa se ha
+          dimensionado adecuadamente a la demanda de inversiones en las 39 áreas que
+          serán intervenidas. Considerando el tiempo de los procesos de regularización
+          dominial y trabajo de campo en los barrios; y el tiempo de preparación de los PEI
+          y procesos licitatorios, se prevé un plazo planeado para el inicio material de las
+          obras de (cuatro) 4 años.
+2.2       Costo y financiamiento. La presente operación de préstamo se otorgará a la
+          República Argentina con recursos del Capital Ordinario (CO). El Programa
+          corresponde a la cuarta operación individual de la CCLIP, por un monto total de
+          US$165 millones, de los cuales US$150 millones corresponden al financiamiento
+          del Banco y US$15 millones a la contraparte local (ver Cuadro 3).
+                            Cuadro 3. Costo y Financiamiento (en US$ millones)
+          Componentes                                           Banco             Local   Total    %
+          Componente I. Aumento de la seguridad en la tenencia
+                                                                  1,16             0,12     1,28    0,78
+          de la tierra
+          Componente II. Intervenciones urbanas integradoras,
+          provisión de infraestructura urbana, saneamiento      126,73            12,67   139,40   84,48
+          ambiental y equipamiento social 72
+             Mejora de inmuebles degradados y actividades de
+                                                                  6,57             0,65     7,23   5,2%
+             prevención de conformación de nuevos asentamientos
+
+72    Los costos definidos para cada actividad son estimativos y pueden variar.
+                                            - 20 -
+
+
+
+      Componentes                                                 Banco       Local         Total       %
+          Provisión de equipamiento comunitario y espacio
+                                                                   40,45       4,04          44,48    31,9%
+          público
+          Construcción y mejoramiento de redes viales y
+                                                                   37,70       3,77          41,47    29,8%
+          peatonales
+      Obras de infraestructura y provisión de servicios
+                                                                   42,05       4,20          46,20    33,1%
+      (cloacal, sanitaria, pluvial, eléctrica y de gas)
+      Componente III. Fortalecimiento de las organizaciones
+                                                                   18,28       1,83          20,11     12,19
+      comunitarias de base y desarrollo comunitario
+      Componente IV. Fortalecimiento de la capacidad de
+                                                                    1,78       0,18           1,96      1,19
+      gestión
+      Administración, supervisión, evaluaciones y auditoría         2,05        0,20          2,25      1,36
+      Total                                                       150,00       15,00        165,00    100,00
+      Porcentaje                                                  90,91%      9,09%         100%
+
+2.3   Restricción al ritmo de desembolsos. En virtud del documento Mejora de las
+      Salvaguardias Macroeconómicas (GN-2753-11; AB-2990), el desembolso de los
+      recursos del préstamo estará sujeto a los siguientes límites máximos: (i) hasta un
+      15% durante los primeros 12 meses; (ii) hasta un 30% durante los primeros
+      24 meses; y (iii) hasta un 50% durante los primeros 36 meses, todos los cuales
+      serán contados a partir de la fecha de aprobación del Préstamo por el Directorio
+      Ejecutivo del Banco. Estos límites pueden resultar no aplicables en la medida en
+      que se hayan cumplido los requisitos establecidos en la política del Banco,
+      siempre que el Prestatario haya sido notificado por escrito. El periodo de
+      desembolso será de cinco años a partir de la vigencia del contrato de préstamo
+      (Cuadro 4).
+                      Cuadro 4. Cronograma de desembolsos (US$ millones)
+        Financiamiento/Año           1           2            3           4            5             TOTAL
+        BID                         22,5       22,5      30,0         37,5            37,5           150,0
+        %                            15         15        20           25              25             100
+
+B.    Riesgos ambientales y sociales
+2.4   De acuerdo con el Marco de Política Ambiental y Social (MPAS) del Banco
+      (GN-2965-23), y con base en los análisis socioambientales de los proyectos de la
+      muestra, el Programa se clasifica como “Categoría B”, ya que se prevén impactos
+      negativos moderados, localizados y acotados principalmente a la fase de
+      construcción de las obras (polvo, ruido, contaminación del suelo, erosión y
+      sedimentación por movimientos de tierras, anegamientos temporales,
+      interrupciones al tráfico vehicular y peatonal y riesgo de accidentes). Ninguno de
+      los proyectos de la muestra generará impactos negativos sobre hábitats naturales
+      o sitios culturales, ni se desarrollará en comunidades indígenas.
+2.5   Tres (3) proyectos de la muestra implican el reasentamiento de población, para
+      un total de 27 familias, para lo cual se cuenta con los respectivos Planes de
+      Reasentamiento conformes con los requisitos del MPAS. Todos los proyectos de
+      la muestra han sido significativamente consultados con las partes interesadas. La
+      clasificación de riesgo de desastres es “Moderada”, debido principalmente al
+      riesgo de inundaciones. En la página web del Banco está disponible el análisis
+      ambiental y social de los proyectos de la muestra y sus respectivos planes de
+      gestión socioambiental, así como el Marco de Gestión Ambiental y Social (MGAS)
+      del Programa.
+                                             - 21 -
+
+
+
+2.6      Se está elaborando el Sistema de Gestión Ambiental y Social (SGAS) del OE.
+         Serán condiciones contractuales especiales previa al primer desembolso
+         del financiamiento: (i) la conformación del equipo de implementación del
+         Programa, la cual deberá incluir, cuando menos, el responsable técnico y
+         los especialistas ambientales y sociales para la gestión socioambiental del
+         Programa.
+2.7      Las obras del programa se diseñarán, construirán, operarán, mantendrán y
+         monitorearán de acuerdo con el SGAS, MGAS, Plan de Acción Ambiental y Social
+         (PAAS) y cualquier otro plan ambiental, social, de salud y seguridad laboral que
+         haya sido preparado y/o que deba ser elaborado durante la ejecución.
+C.       Riesgos fiduciarios
+2.8      Durante la preparación del programa se identificaron dos riesgos fiduciarios de
+         nivel medio alto: (i) si en la evaluación de capacidad institucional se identificaran
+         debilidades por parte de los subejecutores, se podrían generar desvíos en la
+         planificación del Programa. Este riesgo se mitigará: (a) estableciendo una
+         metodología para el análisis de la capacidad institucional de los subejecutores en
+         el ROP, y (b) elaborando un plan de fortalecimiento para los organismos
+         subejecutores que lo necesiten (capacitación y contratación de recursos
+         humanos, entre otras actividades); y (ii) si hubiera demoras en la rendición de
+         gastos debido al esquema de ejecución altamente descentralizado, podrían
+         generarse retrasos en la ejecución del programa, este riesgo se mitigará:
+         (a) definiendo y formalizando las actividades de monitoreo por parte del OE a los
+         subejecutores en el ROP, y (b) realizando actividades de fortalecimiento a los
+         subejecutores en el uso de UEPEX, sobre los procedimientos y la documentación
+         requerida para la rendición de gastos a la OE. Las medidas de mitigación de
+         riesgos se basan en las experiencias identificadas como debilidad y oportunidad
+         en las operaciones anteriores de la CLIPP.
+D.       Otros riesgos y temas claves
+2.9      Riesgos del programa. Adicionalmente a los riesgos fiduciarios (¶2.7), se han
+         identificados dos riesgos adicionales: (i) los cambios de autoridades a nivel
+         nacional, provincial o municipal; y (ii) posibles dificultades en la coordinación entre
+         los distintos actores del programa. Para cada uno de estos riesgos se prevén las
+         medidas de mitigación.
+2.10     Aspectos técnicos. La muestra representativa de los proyectos analizada está
+         compuesta por 13 proyectos con diseños técnicos completos por un monto de
+         US$49,78 millones, lo que representa el 30% del financiamiento previsto. Parte
+         de estos proyectos dan continuidad a las intervenciones integrales realizadas bajo
+         los tramos anteriores de la CLIPP, avanzando con etapas subsiguientes de obras
+         de infraestructura, saneamiento ambiental, equipamiento comunitario, y acciones
+         de regularización predial. Otros proyectos de la muestra inician sus intervenciones
+         en el marco de esta nueva operación. Los valores promedio de intervención por
+         lote 73 y por región se presentan en el Anexo II del ROP, alineándose con la
+         experiencia de etapas anteriores y los mecanismos de actualización de estos
+         valores son adecuados. Adicionalmente, todas las obras de la muestra cumplen
+         con los criterios de elegibilidad definidos para el programa.
+
+73    El valor promedio por lote y por región a 2021 equivale a: (i) Bs. As./Centro-Cuyo/NEA/NOA:
+      US$8.181,79; (ii) Patagonia Norte: US$9.161,93; y (iii) Patagonia Sur: US$10.702,87.
+                                                 - 22 -
+
+
+
+2.11     Criterios de elegibilidad. Para ser elegibles, los proyectos realizados en VAA
+         deben ser viables en términos: (i) técnicos, al combinar intervenciones físicas y
+         sociales en el territorio; (ii) socio económicos, al tener al menos un 40% de la
+         población con NBI 74 o con condiciones de salubridad 75 insuficientes;
+         (iii) económicos, al tener costos de inversión por lote que no excedan el valor fijado
+         como máximo, que equivale al costo de infraestructura pública promedio por lote
+         y por región; (iv) legales, al contar con viabilidad para la legalización de la tenencia
+         de la tierra 76; y (v) ambientales, al no encontrarse en áreas con alta vulnerabilidad
+         climática y al afectar a la menor cantidad de residentes de las VAA, en caso de
+         existir reasentamientos. Serán elegibles aquellos proyectos ubicados en
+         complejos habitacionales que presenten déficit cualitativo, definido por: (i) falta de
+         acceso o acceso precario a servicios básicos; y/o (ii) calidad constructiva
+         recuperable (mal estado de techos y/o pisos, falta de impermeabilización de la
+         envolvente 77 daño de los ascensores u otros similares). El detalle sobre los
+         criterios de elegibilidad y de las distintas viabilidades mencionadas, se encuentran
+         desarrollados en el ROP. Adicionalmente, no serán elegibles los proyectos que
+         pudieran tener una clasificación ambiental y social “A”.
+2.12     Criterios de priorización. Se priorizarán los proyectos que: (i) se realicen en
+         áreas con mayores déficits de infraestructura; (ii) generen impactos positivos de
+         la intervención en el entorno urbano y social; y (iii) se encuentren en zonas con
+         vulnerabilidad climática 78. El Banco verificará el cumplimiento de los criterios de
+         elegibilidad y priorización. El detalle de los criterios priorización se encuentra
+         desarrollado en el ROP, con énfasis en aspectos de criterios de complejidad
+         urbana, e impacto social y urbano.
+2.13     Viabilidad financiera e institucional. El análisis realizado por el sector fiduciario
+         del Banco ha concluido que la DGPPSE no tiene debilidades institucionales,
+         técnicas y financieras significativas; sus recursos humanos están bien calificados
+         y cuentan con experiencia necesaria para administrar la operación con las UE. El
+         análisis realizado de los recursos financieros actuales y su proyección muestran
+         que la ejecución del Programa y el aporte de la contrapartida es viable ya que los
+         recursos de contrapartida provendrán del gobierno nacional y de las
+         provincias/municipios participantes.
+2.14     Capacidad institucional. Se utilizó la Plataforma de Análisis de Capacidad
+         Institucional (PACI) para el análisis de la capacidad institucional del OE y se
+         confirmó que cuenta con una capacidad institucional suficiente para la ejecución
+         del Programa y para alcanzar los objetivos del CLP-4. Sin embargo, entre los
+         hallazgos de la PACI, se identificaron las siguientes acciones de mejora:
+         (i) incorporar en el ROP: un diagrama de relaciones institucionales con la
+         descripción del mecanismo de coordinación intraministerial, con otras
+         dependencias nacionales y los subejecutores, la descripción de los roles y
+         responsabilidades de cada actor relativos a la planificación operativa, ejecución
+
+74   Se utiliza la definición metodológica del INDEC.
+75   Condiciones de salubridad: (i) vivienda sin conexión interna de agua a la red pública por cañería; y
+     (ii) vivienda con retrete sin sistema de eliminación de excretas con arrastre de agua conectado a cámara
+     séptica y pozo, o a red cloacal. Fuente: Indicador de elaboración propia MDTYH.
+76   Lo que implica contar con la posesión legal de los terrenos donde se ejecuten obras y que no debe haber
+     restricciones que impidan la transferencia de la titularidad a favor de la población beneficiaria.
+77   El dato se obtiene por medio de un diagnóstico implementado por las unidades ejecutoras provinciales
+     y/o municipales.
+78   Por riesgo de inundaciones y/o deslizamientos.
+                                         - 23 -
+
+
+
+       por componentes, procesos de adquisiciones y contrataciones, reportes
+       financieros, seguimiento y monitoreo; (ii) diseñar e implementar una metodología
+       de seguimiento y monitoreo del desempeño del Programa con foco en los
+       subejecutores, que incluya tempranamente la evaluación de su capacidad
+       institucional, de manera que permita implementar planes de acción y capacitación
+       para mitigar desvíos en la ejecución; (iii) documentar los procedimientos
+       administrativos para gestionar los proyectos con financiamiento externo; y
+       (iv) fortalecer el equipo del OE en lo referente a los aspectos fiduciarios para una
+       correcta ejecución del Programa. Asimismo, el Banco brindará apoyo para la
+       capacitación del equipo del OE y de los subejecutores.
+2.15   Sostenibilidad de las intervenciones. El Programa apoya la sostenibilidad de
+       las intervenciones a través de: (i) la transferencia de la metodología y generación
+       de capacidades para abordar intervenciones en las VAA, que posteriormente las
+       provincias y municipios replicarán con recursos propios para otros barrios
+       informales; (ii) el fortalecimiento de las organizaciones comunitarias en los barrios,
+       promoviendo su articulación con otros organismos responsables de brindar
+       servicios sociales; (iii) los convenios con las autoridades provinciales, municipales
+       y las empresas prestadoras de servicios que garantizan la operación y
+       mantenimiento posterior de las obras a través del traspaso de las obras a las
+       empresas prestadoras de servicios, la obligación de mantenimiento y de remisión
+       de informes anuales, entre otros y (iv) la participación ciudadana de vecinos en el
+       proceso de definición de los proyectos y la ejecución de los PIC y PFCSyH.
+
+                     III.    PLAN DE IMPLEMENTACIÓN Y GESTIÓN
+
+A.     Resumen de los arreglos de implementación
+3.1    El prestatario será la República Argentina. El OE será el MDTyH a través de la
+       Secretaría de Hábitat, la cual será el área con responsabilidad primaria en los
+       aspectos técnicos, y la Secretaría de Coordinación, responsable de los aspectos
+       administrativos y fiduciarios de la operación. El OE actuará como interlocutor
+       directo ante el Banco en el marco de la operación.
+3.2    La ejecución se realizará de forma descentralizada a través de las provincias y
+       municipios como organismos subejecutores del programa. Las provincias y
+       municipios propondrán los posibles proyectos a ser financiados por el Programa,
+       ateniéndose a los criterios y condiciones descritos en el ROP, el cual recogerá las
+       lecciones aprendidas en la ejecución del préstamo 3458/OC-AR, el cual se trata
+       de la Tercera Operación Individual en el marco debajo la CCLIP (AR-X-1004).
+3.3    Será condición contractual especial previa al primer desembolso del
+       financiamiento: que el Prestatario haya presentado evidencia de la entrada
+       en vigencia del ROP, de conformidad con los términos acordados con el
+       Banco. Dicho ROP define las responsabilidades de los subejecutores a ser
+       incluidas en un Convenio Marco de Adhesión (CMA). A través de estos acuerdos,
+       los subejecutores aceptarán las condiciones del programa, incluyendo las
+       establecidas en el contrato a ser suscrito entre el prestatario y el Banco y las
+       previstas en el ROP.
+3.4    En el caso de los subejecutores, la gestión de los proyectos estará a cargo de las
+       UEP, como entidades de gestión de las provincias, o UEM, para ejecutores
+                                                   - 24 -
+
+
+
+          municipales, en la medida que posean capacidad institucional y técnica según la
+          evaluación del OE.
+3.5       Condición contractual especial de ejecución. Será condición contractual
+          especial de ejecución previa a la primera transferencia de recursos a cada
+          organismo subejecutor, que el OE suscriba con cada uno el Convenio Marco de
+          Adhesión (CMA) o acuerdo equivalente, en los términos previamente acordados
+          con el Banco. De conformidad con el ROP, los subejecutores suscribirán, en la
+          etapa correspondiente, un Acta Acuerdo con la Secretaría de Hábitat (SH) para la
+          ejecución de cada obra y un CTO con las empresas prestadoras de servicios
+          incluyendo el compromiso de operar y mantener las inversiones en términos
+          consistentes con las políticas del Banco (¶1.17) 79. El OE deberá cumplir con los
+          requisitos ambientales y sociales legales establecidos en el Anexo B del ESRS.
+          Las UEP y UEM podrán ser fortalecidas con recursos del programa.
+3.6       Gestión financiera. Los recursos del préstamo podrán desembolsarse mediante
+          las modalidades de anticipos, reembolso y/o pagos directos 80. Para el anticipo de
+          fondos, se realizarán desembolsos basados en un plan financiero 81 a fin de cubrir
+          las necesidades del Programa de hasta seis meses. El porcentaje mínimo que se
+          requerirá para la reposición de anticipos de fondo será del 70% debido a que es
+          una ejecución descentralizada y compleja. Se utilizará el sistema para Unidades
+          Ejecutoras de Préstamos Externos (UEPEX) a nivel de la Dirección de
+          Contabilidad y Finanzas, dependiente de la Secretaría de Coordinación (SC), y de
+          los subejecutores lo cual mejorará la eficiencia y eficacia de la administración
+          financiera. El sistema UEPEX ya se encuentra en funcionamiento.
+3.7       Adquisiciones. Las adquisiciones financiadas, total o parcialmente, con recursos
+          del préstamo se realizarán de conformidad con la Política para la Adquisición de
+          Obras y Bienes Financiados por el BID (GN-2349-15) y la Política para la
+          Selección y Contratación de Consultores Financiados por el BID (GN-2350-15).
+3.8       Auditorías. Durante la ejecución, el OE presentará anualmente los estados
+          financieros auditados del programa, en los términos requeridos por el Banco en
+          sus políticas. Dichos estados financieros auditados serán presentados a los
+          120 días posteriores a la finalización del año fiscal. Los informes de auditoría de
+          cierre del programa serán presentados dentro de los 120 días posteriores al último
+          desembolso. La auditoría para este programa y para los programas anteriores
+          bajo la CCLIP podrá ser realizada por una firma auditora independiente bajo los
+          términos de referencia elaborados por el Banco o por la Auditoría General de la
+          Nación (AGN).
+3.9       Financiamiento retroactivo. El Banco podrá financiar retroactivamente con
+          cargo a los recursos del préstamo, gastos elegibles efectuados por el Prestatario
+          antes de la fecha de aprobación del préstamo, hasta por la suma de
+          US$22,5 millones (15% del monto propuesto del préstamo) incurridos en acciones
+          relacionadas con obras para el programa (Componente II) y contrataciones de
+          personal técnico de apoyo para el OE (Componente IV y administración,
+          supervisión, evaluaciones y auditoría), siempre que se hayan cumplido requisitos
+
+79    Ver ROP, Anexo IV.5.
+80    Guía para Desembolsos BID, marzo 2015. Anexo III Métodos de Desembolsos (Páginas 1 y 2).
+81    Para el financiamiento del Banco, todos los costos/gastos estimados por categoría de inversión, mes por
+      mes, que correspondan al periodo de la solicitud de desembolso. Para la contrapartida local y otras
+      fuentes, los recursos que estas aportarán al proyecto, por categoría de inversión, para el mismo período.
+                                                - 25 -
+
+
+
+         sustancialmente análogos a los establecidos en el contrato de préstamo. Dichos
+         gastos deberán haberse efectuado a partir del 15 de noviembre de 2021 82, pero
+         en ningún caso se incluirán gastos efectuados más allá de 18 meses antes de la
+         fecha de aprobación del préstamo. El monto del financiamiento retroactivo estará
+         sujeto a las limitaciones aplicables a los desembolsos Estos gastos podrán ser
+         financiados con cargo a los fondos BID y al Aporte Local.
+B.       Resumen de los arreglos para el monitoreo de resultados 83
+3.10     El OE cuenta con instrumentos de seguimiento y monitoreo de ejecución que
+         permite definir a nivel de proyecto los indicadores de producto y resultado
+         acordados y las metas asociadas en cada período. La página web del PROMEBA
+         permite acceder a las Fichas Únicas de Proyecto (FUP) de todos los proyectos.
+3.11     El Programa será monitoreado a través de los siguientes instrumentos: Plan de
+         Ejecución Plurianual (PEP), Planes Operativos Anuales (POA), informes de
+         ejecución y planificación anuales, y planes de supervisión en terreno. Para el
+         seguimiento de los aspectos fiduciarios, el OE utilizará los sistemas nacionales ya
+         implementados en etapas anteriores y satisfactorias para el Banco. Todas las
+         transacciones del proyecto se realizarán utilizando el sistema UEPEX. Los
+         informes financieros requeridos serán: (i) plan de ejecución financiera para los
+         seis meses posteriores a la solicitud de anticipos; (ii) estados financieros anuales
+         auditados; y (iii) otros informes a ser requeridos por el Banco. La gestión y el
+         seguimiento de adquisiciones se basará en el sistema SEPA, que deberá
+         mantenerse actualizado.
+3.12     Las evaluaciones de medio término y final constituyen hitos claves del
+         seguimiento. Estos incluirán: (i) los resultados de la ejecución financiera; (ii) el
+         cumplimiento de metas de los productos y resultados; (iii) el grado de
+         cumplimiento de los requisitos ambientales y de operación y mantenimiento de las
+         obras; (iv) el grado de cumplimiento de los compromisos contractuales; (v) una
+         síntesis de los resultados de las auditorías realizadas durante la ejecución;
+         (vi) verificación del cumplimiento de los límites de inversión por lote; y (vii) un
+         resumen de las lecciones aprendidas.
+3.13     La Evaluación Final incluirá una evaluación económica ex post usando la misma
+         metodología que la evaluación ex ante. Los indicadores de resultado se evaluarán
+         de forma reflexiva. La base de información serán las Fichas Línea de Base, y las
+         EIP2, que son preparadas para cada barrio y hacen el seguimiento de todas las
+         intervenciones desarrolladas a lo largo de la ejecución del proyecto a través de
+         encuestas barriales. Una vez hayan sido aceptados por el Banco, estos informes
+         serán puestos a disposición del público a través de la página web del PROMEBA.
+3.14     Para evaluar los resultados Programa, se medirán los indicadores de impacto a
+         través de una metodología antes y después (diferencias simples pre y post). Se
+         contratará un equipo especializado realizar las evaluaciones Intermedia y Final
+         del Programa. Adicionalmente, las actividades de evaluación estratégica tendrán
+         al OE como responsable de la ejecución fiduciaria y a la Secretaría de Asuntos
+         Estratégicos (SAE) como responsable de la ejecución técnica-metodológica. Los
+         arreglos y metodología del diseño e implementación de las evaluaciones deberán
+         contar con la no objeción del Banco.
+
+82   Fecha de registro de la operación en Convergencia.
+83   Para mayor detalle ver el Enlace Electrónico Requerido #2 Plan de Monitoreo y Evaluación.
+                                                                                                                                                                                           Anexo I - [AR-L1341; AR-X1004]
+                                                                                                                                                                                                             Página 1 de 1
+
+
+
+
+                                                                        Matriz de Efectividad en el Desarrollo
+
+                                                                                 Resumen             AR-L1341
+I. Prioridades corporativas y del país
+1. Prioridades Estratégicas del Grupo BID e Indicadores del CRF
+                                                                                              -Inclusión Social e Igualdad
+                                                                                              -Productividad e Innovación
+                                                                                              -Integración Económica
+   Retos Regionales y Temas Transversales                                                     -Equidad de Género y Diversidad
+                                                                                              -Cambio Climático
+                                                                                              -Capacidad Institucional y Estado de Derecho
+
+
+
+
+                                                                                              -Beneficiarios de programas destinados a combatir la pobreza (#)
+                                                                                              -Hogares con acceso nuevo o mejorado a agua y saneamiento (#)
+                                                                                              -Hogares con acceso mejorado a servicios de energía (#)
+                                                                                              -Beneficiarios de iniciativas de apoyo al empleo (#)
+                                                                                              -Empresas que reciben asistencia técnica (#)
+                                                                                              -Vías construidas o mejoradas (km)
+                                                                                              -Mujeres beneficiarias de iniciativas de empoderamiento económico (#)
+   Nivel 2 del CRF: Contribuciones del Grupo BID a los Resultados de Desarrollo
+                                                                                              -Países con marcos reforzados de políticas de igualdad de género y diversidad (#)
+                                                                                              -Beneficiarios designados de servicios públicos que han sido adaptados para grupos
+                                                                                              diversos (#)
+                                                                                              -Emisiones evitadas (toneladas anuales de CO2 equivalente)
+                                                                                              -Beneficiarios de una mayor resiliencia a desastres y efectos del cambio climático (#)
+                                                                                              -Instituciones con capacidades gerenciales y de tecnología digital reforzadas (#)
+
+
+
+2. Objetivos de desarrollo del país
+
+                                                                                                                        Reducción de la pobreza y protección social de los más
+   Matriz de resultados de la estrategia de país                                                      GN-3051
+                                                                                                                        vulnerables
+
+
+
+                                                                                                                        La intervención está incluida en el Programa de Operaciones
+   Matriz de resultados del programa de país                                                          GN-3087
+                                                                                                                        de 2022.
+
+
+
+
+   Relevancia del proyecto a los retos de desarrollo del país (si no se encuadra
+dentro de la estrategia de país o el programa de país)
+
+
+
+
+II. Development Outcomes - Evaluability                                                                                            Evaluable
+3. Evaluación basada en pruebas y solución                                                                                              10.0
+   3.1 Diagnóstico del Programa                                                                                                         2.5
+   3.2 Intervenciones o Soluciones Propuestas                                                                                           3.5
+   3.3 Calidad de la Matriz de Resultados                                                                                               4.0
+4. Análisis económico ex ante                                                                                                           10.0
+
+   4.1 El programa tiene una TIR/VPN, o resultados clave identificados para ACE                                                         1.5
+
+     4.2 Beneficios Identificados y Cuantificados                                                                                       3.0
+     4.3 Supuestos Razonables                                                                                                           2.5
+     4.4 Análisis de Sensibilidad                                                                                                       2.0
+     4.5 Consistencia con la matriz de resultados                                                                                       1.0
+5. Evaluación y seguimiento                                                                                                             9.5
+     5.1 Mecanismos de Monitoreo                                                                                                        4.0
+     5.2 Plan de Evaluación                                                                                                             5.5
+III. Matriz de seguimiento de riesgos y mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                                 Medio Alto
+Clasificación de los riesgos ambientales y sociales                                                                                      B
+IV. Función del BID - Adicionalidad
+El proyecto se basa en el uso de los sistemas nacionales
+
+                                                                                                                        Administración financiera: Presupuesto, Tesorería,
+                                                                                                                        Contabilidad y emisión de informes.
+                                                         Fiduciarios (criterios de VPC/FMP)              Si
+                                                                                                                        Adquisiciones y contrataciones: Sistema de información,
+                                                                                                                        Licitación pública nacional.
+
+
+                                                                            No-Fiduciarios               Sí             Sistema Nacional de Monitoreo y Evaluación.
+
+
+La participación del BID promueve mejoras adicionales en los presuntos beneficiarios
+o la entidad del sector público en las siguientes dimensiones:
+
+
+   Antes de la aprobación se brindó a la entidad del sector público asistencia técnica
+adicional (por encima de la preparación de proyecto) para aumentar las                                   Sí             AR-T1264
+probabilidades de éxito del proyecto
+
+
+
+
+El objetivo del programa es mejorar de modo sustentable el hábitat de los hogares residentes en villas, asentamientos y áreas degradadas del país a través de acciones que
+contribuyan al aumento en la seguridad de la tenencia de la tierra, la provisión de infraestructura básica y el desarrollo comunitario. Los objetivos específicos son: (i) aumentar la
+seguridad en la tenencia de la tierra de los hogares beneficiarios; (ii) incrementar la calidad de vida de los habitantes de cada área intervenida y en su zona de influencia a partir
+de distintas obras de mejora del hábitat; (iii) fortalecer las organizaciones comunitarias de base y garantizar la participación de los residentes de los barrios en todas las fases del
+proyecto integral; y (iv) mejorar el desempeño de los equipos del OE, las UEP y las UEM. El logro de estos objetivos contribuirá al objetivo general de mejorar de modo
+sustentable el hábitat de los hogares residentes en villas, asentamientos irregulares y áreas degradadas del país a través de acciones que contribuyan a la seguridad en la
+tenencia de la tierra, la provisión de estructura básica y el desarrollo comunitario.
+
+El proyecto presenta un diagnóstico completo; con una descripción precisa de la situación actual de las brechas de acceso a un hábitat adecuado y a servicios urbanos de
+calidad en Argentina. Todos los objetivos específicos tienen indicadores de resultados y estos indicadores de resultados incluidos en la matriz de resultados son SMART. Todos
+los indicadores cuentan con medios de verificación.
+
+El análisis económico del proyecto se llevó a cabo mediante un análisis de costo-beneficio (ACB), en que los beneficios son estimados a partir de la valorización de los inmuebles
+en los barrios de una muestra representativa. El ACB cuenta con supuestos razonables, utiliza una metodología rigurosa (precios hedónicos) y cuenta con un análisis de
+sensibilidad adecuado. El análisis concluye que el proyecto es económicamente viable, con una TIR de 38.2%, utilizando una tasa de descuento del 12% y un horizonte de
+evaluación de 20 años.
+El proyecto incluye un plan de monitoreo y evaluación que va acorde los estándares del Banco. La efectividad de la intervención propuesta se medirá siguiendo varios enfoques:
+un enfoque de análisis de costo-beneficio ex post y una comparación antes-después.
+                                                                                                                                                                                                               Anexo II – AR-L1341; AR-X1004
+                                                                                                                                                                                                                                Página 1 de 6
+
+
+                                                                                                            Anexo II. Matriz de Resultados
+
+                                                          Mejorar de modo sustentable el hábitat de los hogares residentes en villas, asentamientos y áreas degradadas del país a través de acciones que contribuyan al aumento en la
+                                                          seguridad de la tenencia de la tierra, la provisión de infraestructura básica y el desarrollo comunitario. Los objetivos específicos son: (i) aumentar la seguridad en la tenencia de la
+                                                          tierra de los hogares beneficiarios; (ii) incrementar la calidad de vida de los habitantes de cada área intervenida y en su zona de influencia a partir de distintas obras de mejora del
+                Objetivo del Proyecto:                    hábitat; (iii) fortalecer las organizaciones comunitarias de base y garantizar la participación de los residentes de los barrios en todas las fases del proyecto integral; y (iv) mejorar el
+                                                          desempeño de los equipos del OE, las UEP y las UEM. El logro de estos objetivos contribuirá al objetivo general de mejorar de modo sustentable el hábitat de los hogares residentes
+                                                          en villas, asentamientos irregulares y áreas degradadas del país a través de acciones que contribuyan a la seguridad en la tenencia de la tierra, la provisión de estructura básica y
+                                                          el desarrollo comunitario.
+
+                                                                                                               Objetivo General de Desarrollo
+                                                                            Valor de Línea de    Año Línea de    Año esperado para
+                      Indicadores                           Unidad de Medida                                                              Meta               Medios de Verificación                  Comentarios
+                                                                                   Base              Base        el Logro de la meta
+    Objetivo general de desarrollo: Mejorar de modo sustentable el hábitat de los hogares residentes en villas, asentamientos irregulares y áreas degradadas del país a través de acciones que contribuyan a la
+    seguridad en la tenencia de la tierra, la provisión de estructura básica y el desarrollo comunitario.
+                                                               %                     0                2022              2027              20%       Ficha de línea de base y Evaluación     (*) Definiciones y fórmulas de
+    Indicador 1. Aumento en el valor promedio de                                                                                                    Integral de Proyecto 2 (EIP2)           cálculo ver EER#2 1
+    las propiedades en las áreas intervenidas
+
+    Indicador 2. Hogares con déficit cualitativo de            % de hogares             A definir por la            2022                     2027           ADLB        Ficha de línea de base y EIP2                 (*)
+    viviendas                                                                           Línea de Base 2
+    Indicador 3. Hogares satisfechos con los                   % de hogares                  ADLB                   2022                     2027           ADLB        Ficha de línea de base y EIP2                 (*)
+    atributos del barrio
+    Indicador 4. Mujeres y personas mayores que               % de mujeres y                 ADLB                   2022                     2027           ADLB        Ficha de línea de base y EIP2                 (*)
+    se perciben seguras al transitar en el barrio            personas mayores
+
+
+
+                                                                                                            Objetivos de Desarrollo Específicos
+
+Objetivo específico de desarrollo 1: Aumentar la seguridad en la tenencia de la tierra.
+
+
+                      Indicadores                           Unidad de Medida           Valor Línea     Año Línea        Año 1         Año 2         Año 3   Año 4        Año 5        Fin del        Medios de                 Comentarios
+                                                                                        de Base         de Base                                                                      Proyecto       Verificación
+Indicador 1.1. Hogares residentes en las áreas                 % de hogares                0%              2022          0%            10%          15%      40%          50%           50%       Ficha de línea de                 (*)
+intervenidas que estén fuera de las zonas de                                                                                                                                                         base - EIP2
+alta vulnerabilidad climática y que cuentan con
+el aumento de seguridad de la tenencia debido
+al apoyo del Programa
+Indicador 1.2. Hogares residentes en las áreas             % hogares con MJH               0%              2022          60%           60%          60%      60%          60%           60%             EIP2                        (*)
+intervenidas que estén fuera de las zonas de               LGBTQ+ y/o parejas
+alta vulnerabilidad climática y que cuentan con             que aumentan la
+el aumento de seguridad de la tenencia debido                seguridad en la
+al apoyo del Programa contemplando la                           tenencia.
+perspectiva de género y diversidad.
+Indicador 1.3. Lotes nuevos efectivamente                    % de lotes nuevos             0%              2022          0%             0%          25%      25%          25%          100%             EIP2                          (*)
+asignados localizados fuera de zonas de alta                  efectivamente                                                                                                                                                          (**)
+vulnerabilidad climática.                                       asignados                                                                                                                                             • Contribuye al CRF Nivel 2.
+                                                                                                                                                                                                                      • 2.20 Beneficiarios de una
+                                                                                                                                                                                                                        mayor resiliencia a desastres
+                                                                                                                                                                                                                        y efectos del cambio climático
+                                                                                                                                                                                                                        (#)
+
+
+1      (*) Para ver las definiciones y/o fórmulas de cálculo consultar el Plan de Monitoreo y Evaluación (Enlace Electrónico Requerido - EER#2.)
+2      (**) a Definir por la Línea de Base (ADLB). La misma será construida al inicio de las intervenciones dentro de cada VAA.
+                                                                                                                                                                                        Anexo II – AR-L1341; AR-X1004
+                                                                                                                                                                                                         Página 2 de 6
+
+
+                  Indicadores                       Unidad de Medida          Valor Línea    Año Línea   Año 1   Año 2      Año 3        Año 4       Año 5       Fin del      Medios de              Comentarios
+                                                                               de Base        de Base                                                           Proyecto     Verificación
+Indicador 1.4. Lotes nuevos efectivamente               % de mujeres,          Fichas de       2022      60%     60%         60%          60%         60%         60%            EIP2                     (*)
+asignados a poblaciones diversas y mujeres.         LGBTQ+ y/o parejas       Línea de Base
+                                                    titulares de los lotes
+
+
+
+Objetivo específico de desarrollo 2: Incrementar la calidad de vida de los habitantes de cada área intervenida y en su zona de influencia a partir de distintas obras de mejora del hábitat
+
+                  Indicadores                       Unidad de Medida          Valor Línea    Año Línea   Año 1   Año 2      Año 3        Año 4       Año 5       Fin del      Medios de              Comentarios
+                                                                               de Base        de Base                                                           Proyecto     Verificación
+Indicador 2.1. Hogares con acceso efectivo a los % de hogares en áreas            0%           2022      10%     25%         45%          60%         75%         90%            EIP2                         (*)
+servicios básicos                                     intervenidas                                                                                                                                           (**)
+                                                                                                                                                                                              • 2.4 Hogares con acceso
+                                                                                                                                                                                                mejorado a agua y
+                                                                                                                                                                                                saneamiento (#)
+                                                                                                                                                                                              • 2.5. Hogares con acceso
+                                                                                                                                                                                                mejorado a servicio de
+                                                                                                                                                                                                energía (#)
+Indicador 2.2. Equipamientos comunitarios            % equipamientos              0%           2022      25%     35%         50%          50%         50%         50%           Proyecto                      (*)
+construidos con mecanismos de ahorro de               comunitarios                                                                                                         Ejecutivo Integral                (**)
+consumo de energía y agua con apoyo del                construidos                                                                                                               (PEI) -      • 2.19 Emisiones evitadas
+Programa.                                                                                                                                                                      Recepción        (toneladas anuales de CO2
+                                                                                                                                                                               provisoria       equivalente)
+Indicador 2.3. Áreas intervenidas que cuentan            % de áreas               0%           2022       0%      5%         10%          15%         30%         60%       Convenios con                     (*)
+con la infraestructura necesaria para fomentar el       intervenidas                                                                                                        los organismos
+uso del transporte público y transporte no                                                                                                                                    (CcO), PEI,
+motorizado debido al apoyo del Programa                                                                                                                                       Informe de
+                                                                                                                                                                            Mantenimiento
+                                                                                                                                                                                  (IdM)
+Indicador 2.4. Áreas intervenidas que cuentan            % de áreas               0%           2022       0%      5%         10%          15%         30%         60%      CcO - PEI - IdM                    (*)
+con infraestructura necesaria para el acceso a          intervenidas
+un sistema de recolección de residuos, residuos
+diferenciado o reciclaje debido al apoyo del
+Programa
+Indicador 2.5. Áreas intervenidas cuyas redes            % de áreas               0%           2022       0%      5%         10%          25%         30%         70%      PEI - EIP2 - IdM                 (*)
+viales principales son transitables y estén             intervenidas                                                                                                                                       (**).
+conectadas al sistema de transporte público                                                                                                                                                 • 2.20 Beneficiarios de una
+masivo y no motorizado                                                                                                                                                                        mayor resiliencia a desastres
+                                                                                                                                                                                              y efectos del cambio climático
+                                                                                                                                                                                              (#)
+                                                                                                                                                                                            • 2.19 Emisiones evitadas
+                                                                                                                                                                                              (toneladas anuales de CO2
+                                                                                                                                                                                              equivalente)
+Indicador 2.6. Áreas intervenidas con                    % de áreas               0%           2022       0%      5%         10%          25%         30%         70%      PEI - Recepción                  (*)
+caminabilidad de las redes peatonales                   intervenidas                                                                                                       Provisoria - IdM                (**)
+principales con diseño de accesibilidad universal                                                                                                                                           • 2.18 Beneficiarios designados
+para personas con discapacidad.                                                                                                                                                               de servicios públicos que han
+                                                                                                                                                                                              sido adaptados para grupos
+                                                                                                                                                                                              diversos (#)
+                                                                                                                                                                                            • 2.19 Emisiones evitadas
+                                                                                                                                                                                              (toneladas anuales de CO2
+                                                                                                                                                                                              equivalente).
+                                                                                                                                                                                      Anexo II – AR-L1341; AR-X1004
+                                                                                                                                                                                                       Página 3 de 6
+
+
+                 Indicadores                        Unidad de Medida       Valor Línea   Año Línea   Año 1     Año 2       Año 3        Año 4       Año 5      Fin del       Medios de                Comentarios
+                                                                            de Base       de Base                                                             Proyecto      Verificación
+Indicador 2.7. Hogares con acceso a                    # de hogares            0           2022        0        5.000      10.000      20.000       35.000      35.000    Informe Final de                   (*)
+equipamiento comunitario y/o espacios públicos                                                                                                                                Ejecución                     (**)
+construidos en la operación con criterios de                                                                                                                                                 • 2.20 Beneficiarios de una
+adaptación y mitigación al cambio climático                                                                                                                                                    mayor resiliencia a desastres
+                                                                                                                                                                                               y efectos del cambio climático
+                                                                                                                                                                                               (#)
+                                                                                                                                                                                             • 2.19 Emisiones evitadas
+                                                                                                                                                                                               (toneladas anuales de CO2
+                                                                                                                                                                                               equivalente)
+                                                                                                                                                                                             •
+Indicador 2.8. Hogares con acceso a                    # de hogares            0           2022        0        5.000       5.000       5.000       10.000      25.000          PEI                          (*)
+equipamiento comunitario y/o espacios públicos                                                                                                                                                              (**)
+construidos en la operación con enfoque de                                                                                                                                                   • 2.18 Beneficiarios designados
+género y/o diversidad.                                                                                                                                                                         de servicios públicos que han
+                                                                                                                                                                                               sido adaptados para grupos
+                                                                                                                                                                                               diversos (#)
+
+Objetivo específico de desarrollo 3: Fortalecer las organizaciones comunitarias de base y garantizar la participación de los residentes de los barrios en todas las fases del proyecto integral
+
+                                                                           Valor Línea   Año Línea                                                           Fin del         Medios de
+                 Indicadores                       Unidad de Medida                                  Año 1     Año 2       Año 3       Año 4        Año 5                                             Comentarios
+                                                                            de Base      de Base                                                             Proyecto      Verificación
+Indicador 3.1. Líneas de acción básicas y         % de PIC y PFCSyH            0%          2022       0%        30%         45%         60%          60%        60%         Informes de                     (*)
+Proyectos de Iniciativa Comunitaria (PIC) y de                                                                                                                            monitoreo (ficha
+Fortalecimiento del Capital Social y Humano                                                                                                                                   de metas
+(PFCSyH) realizados satisfactoriamente.                                                                                                                                      anuales e
+                                                                                                                                                                          informe anual)
+Indicador 3.2 PIC y PFCSyH realizados             % de PIC y PFCSyH            0%          2022       0%        15%         30%         30%          30%         30%        Informes de                     (*)
+satisfactoriamente que están orientados a         que están orientados a                                                                                                  monitoreo (ficha                 (**)
+empleo para personas LGBTQ+, personas con         empleo de mujeres y                                                                                                         de metas     • 2.7 Beneficiarios de iniciativas
+discapacidad y/o mujeres.                         diversidades                                                                                                               anuales e       de apoyo al empleo (#)
+                                                                                                                                                                          informe anual) • 2.16 Mujeres beneficiarias de
+                                                                                                                                                                                             iniciativas de
+                                                                                                                                                                                             empoderamiento económico
+                                                                                                                                                                                             (#)
+
+
+
+Objetivo específico de desarrollo 4: Mejorar el desempeño de los equipos del OE, las Unidades Ejecutoras Provinciales (UEP) y las Unidades Ejecutoras Municipales (UEM)
+
+                 Indicadores                        Unidad de Medida       Valor Línea   Año Línea   Año 1     Año 2       Año 3        Año 4       Año 5      Fin del       Medios de                Comentarios
+                                                                            de Base       de Base                                                             Proyecto      Verificación
+Indicador 4.1. Desfase entre el tiempo                      %                 30%          2022      30%        30%         27%         27%          25%        25%        POA - Informe                   (*)
+programado vs. realizado en la ejecución de las                                                                                                                               Anual de
+obras.                                                                                                                                                                       Ejecución
+Indicador 4.2. Unidades ejecutoras y/o equipos              %                  0%          2022       0%        25%         50%         75%         100%        100%      Informe Anual de                 (*)
+de campo capacitados en violencia e identidad                                                                                                                                 Ejecución -                 (**)
+de género.                                                                                                                                                                 Fichas de metas • 2.17 Países con marcos
+                                                                                                                                                                               anuales       reforzados de políticas de
+                                                                                                                                                                                             igualdad de género y
+                                                                                                                                                                                             diversidad (#)
+                                                                                                                                                                      Anexo II – AR-L1341; AR-X1004
+                                                                                                                                                                                       Página 4 de 6
+
+
+                  Indicadores                      Unidad de Medida       Valor Línea   Año Línea   Año 1    Año 2    Año 3    Año 4   Año 5    Fin del      Medios de               Comentarios
+                                                                           de Base       de Base                                               Proyecto     Verificación
+Indicador 4.3. Unidades ejecutoras y/o equipos              %                 0%          2022       0%       25%     50%      75%     100%     100%      Informe Anual de                  (*)
+de campo capacitados en la gestión y ejecución                                                                                                                Ejecución -                  (**)
+de proyectos.                                                                                                                                              Fichas de metas • 2.26 Instituciones con
+                                                                                                                                                               anuales       capacidades gerenciales y de
+                                                                                                                                                                             tecnología digital reforzadas
+                                                                                                                                                                             (#)
+Indicador 4.4. Unidades ejecutoras y/o equipos              %                 0%          2022       0%       25%     50%      75%     100%     100%      Informe Anual de                  (*)
+de campo capacitados en proyectos orientados                                                                                                                  Ejecución -
+a mitigación y adaptación de los efectos del                                                                                                               Fichas de metas
+cambio climático                                                                                                                                               anuales
+
+
+
+                                                                                                      Productos
+
+Componente 1: Aumento de la seguridad en la tenencia de la tierra
+                 Indicadores                       Unidad de Medida       Valor Línea   Año Línea   Año 1    Año 2    Año 3    Año 4   Año 5    Fin del   Medios de Verificación       Comentarios
+                                                                           de Base       de Base                                               Proyecto
+
+Indicador 1.1. Villas, asentamientos irregulares Villas, asentamientos        0           2022        0           5     5        5      10        25       Ficha Línea de Base y             (*)
+y áreas degradadas con trazado urbano            irregulares y áreas                                                                                                EIP2
+regularizado                                     degradadas
+
+Indicador 1.2. Instrumentos que contribuyan al Instrumentos relativos a       0           2022        0      1500     2.500    2.500   3.500    10.000    Informe Anual y ficha de           (*)
+aumento de la seguridad en la tenencia de la    la regularización de la                                                                                        metas anuales
+tierra sobre lotes estén fuera de las zonas más propiedad
+vulnerables a impactos climáticos entregados
+
+
+Componente 2. Intervenciones urbanas integradoras, provisión de infraestructura, saneamiento ambiental y equipamiento social
+
+                                                                          Valor Línea   Año Línea                                               Fin del
+                 Indicadores                       Unidad de Medida                                 Año 1    Año 2    Año 3    Año 4   Año 5              Medios de Verificación       Comentarios
+                                                                           de Base       de Base                                               Proyecto
+Indicador 2.1. Proyectos ejecutivos integrales         Proyectos               0          2022        6           6    12       20       6        50          Informe Anual de               (*)
+(PEI) diseñados por UEP y UEM que                                                                                                                                 Ejecución
+incorporan consideraciones de mitigación y
+adaptación al cambio climático y son
+desarrollados con enfoque de género y/o
+diversidad.
+Indicador 2.2. Proyectos ejecutivos integrales         Proyectos              0           2022        0           3     7       10      19        39        PEI - Certificados de            (*)
+de obra ejecutados que incorporan                                                                                                                            obra - Recepción
+consideraciones de mitigación y adaptación al                                                                                                                     provisoria
+cambio climático y son desarrollados con
+enfoque de género y/o diversidad.
+Indicador 2.3. Inmuebles degradados                    Inmuebles              0           2022        0           1     0        1       1        3         PEI - Certificados de            (*)
+mejorados                                                                                                                                                    obra - Recepción
+                                                                                                                                                                  provisoria
+Indicador 2.4. Conexiones domiciliarias a la red          Lotes               0           2022        0       700     1.600     700    1.600    4.600       PEI - Certificados de            (*)
+de agua potable                                                                                                                                              obra - Recepción
+                                                                                                                                                                  provisoria
+Indicador 2.5. Conexiones domiciliarias de                Lotes               0           2022        0      2.800    4.200    2.800   4.200    14.000      PEI - Certificados de            (*)
+cloacas adecuadas                                                                                                                                            obra - Recepción
+                                                                                                                                                                  provisoria
+                                                                                                                                                                  Anexo II – AR-L1341; AR-X1004
+                                                                                                                                                                                   Página 5 de 6
+
+
+                                                                         Valor Línea   Año Línea                                            Fin del
+                  Indicadores                      Unidad de Medida                                Año 1   Año 2   Año 3   Año 4   Año 5              Medios de Verificación          Comentarios
+                                                                          de Base       de Base                                            Proyecto
+Indicador 2.6. Redes de electricidad instaladas.   Red de electricidad        0          2022        0       1       2       2       3         8       PEI - Certificados de               (*)
+                                                                                                                                                        obra - Recepción
+                                                                                                                                                             provisoria
+Indicador 2.7. Red de alumbrado público LED         Red de alumbrado         0           2022        0       5       7       5       7       24        PEI - Certificados de               (*)
+instalado en accesos principales                         público                                                                                        obra - Recepción
+                                                                                                                                                             provisoria
+Indicador 2.8. Redes viales construidas o              Kilómetros            0           2022        0      10      15      15      20       60        PEI - Certificados de                 (*)
+mejoradas                                                                                                                                               obra - Recepción                    (**)
+                                                                                                                                                             provisoria           • 2.13 Vías
+                                                                                                                                                                                    construidas o
+                                                                                                                                                                                    mejoradas (km)
+Indicador 2.9. Redes peatonales construidas o          Kilómetros            0           2022        0      10      20      10      20       60        PEI - Certificados de                 (*)
+mejoradas con accesibilidad universal para                                                                                                              obra - Recepción
+personas con discapacidad                                                                                                                                    provisoria
+
+Indicador 2.10. Plazas y parques construidos        Plazas y parques         0           2022        0       5       7       5       8       25        PEI - Certificados de               (*)
+con al menos 3 soluciones climáticas                                                                                                                    obra - Recepción
+integrales.                                                                                                                                                  provisoria
+
+Indicador 2.11. Plazas y parques construidos        Plazas y parques         0           2022        0       5       7       5       8       25        PEI - Certificados de               (*)
+con al menos 3 criterios que consideran un                                                                                                              obra - Recepción
+enfoque de género y diversidad.                                                                                                                              provisoria
+
+Indicador 2.12. Equipamiento urbano que            Equipamiento urbano       0           2022        0       5       7       5       8       25        PEI - Certificados de               (*)
+contribuye a la mitigación de los efectos de                                                                                                            obra - Recepción
+cambio climático instalado en las áreas                                                                                                                      provisoria
+intervenidas
+Indicador 2.13. Equipamientos comunitarios           Equipamientos           0           2022        0       2       3       5       3       13       PEI - Certificados de fin            (*)
+diseñados y construidos que cumplen con               comunitarios                                                                                      obra - Recepción
+criterios que contribuye a la mitigación de los                                                                                                              provisoria
+efectos de cambio climático
+Indicador 2.14. Obras complementarias                    Obras               0           2022        0      10      15      10      15       50        PEI - Certificados de               (*)
+finalizadas.                                                                                                                                            obra - Recepción
+                                                                                                                                                             provisoria
+
+Indicador 2.15. Conexiones domiciliarias de               Lotes              0           2022        0     200      200    300      300     1000       PEI - Certificados de               (*)
+gas                                                                                                                                                     obra - Recepción
+                                                                                                                                                             provisoria
+
+Indicador 2.16. Sistemas de desagües                    Proyectos            0           2022        0       2       3       3       5       13        PEI - Certificados de               (*)
+pluviales finalizados que contribuyen con una                                                                                                           obra - Recepción
+gestión hídrica sostenible y que dan respuesta                                                                                                               provisoria
+a la adaptación por cambio climático.
+Indicador 2.17. Lotes adquiridos o generados              Lotes              0           2022        0      25      50      75      100      250         Informe Anual de                  (*)
+por el programa que cuentan con servicios                                                                                                                    Ejecución.
+básicos dentro de un trazado urbano
+regularizado y fuera de las zonas más
+vulnerables a impactos climáticos.
+                                                                                                                                                                Anexo II – AR-L1341; AR-X1004
+                                                                                                                                                                                 Página 6 de 6
+
+
+Componente 3: Fortalecimiento de las organizaciones comunitarias de base y desarrollo comunitario
+
+                                                                        Valor Línea   Año Línea                                            Fin del
+                 Indicadores                     Unidad de Medida                                 Año 1   Año 2   Año 3   Año 4   Año 5               Medios de Verificación       Comentarios
+                                                                         de Base       de Base                                            Proyecto
+
+Indicador 3.1. Proyectos de Iniciativa                Proyectos              0          2022       10      20      20      20      20       90       Ficha de monitoreo integral       (*)
+Comunitaria (PIC) y Proyectos de                                                                                                                      mensual - ficha de metas
+Fortalecimiento del Capital Social y Humano                                                                                                            anuales - informe anual
+(PFCSyH) ejecutados.
+Indicador 3.2. Líneas de acción básicas           Líneas de acción           0          2022       48      54      60      30      42       234      Ficha de monitoreo integral       (*)
+                                                                                                                                                      mensual - ficha de metas
+                                                                                                                                                       anuales - informe anual
+
+
+
+
+Componente 4. Fortalecimiento de la capacidad de gestión
+
+
+                 Indicadores                     Unidad de Medida       Valor Línea   Año Línea   Año 1   Año 2   Año 3   Año 4   Año 5    Fin del    Medios de Verificación       Comentarios
+                                                                         de Base       de Base                                            Proyecto
+
+Indicador 4.1. Talleres, cursos y/o               Cursos / talleres /       0           2022        5       5       5       5       5        25       Registros fotográficos de        (*)
+capacitaciones en proyectos orientados a           capacitaciones                                                                                       capacitaciones y/o
+mitigación y adaptación de los efectos del                                                                                                                   inscripción
+cambio climático orientados a unidades
+ejecutoras y/o equipos de campo del
+programa.
+Indicador 4.2. Talleres, cursos y/o               Cursos / talleres /       0           2022        5       5       5       5       5        25       Registros fotográficos de        (*)
+capacitaciones sobre violencia de género e         capacitaciones                                                                                       capacitaciones y/o
+identidad de género orientados a unidades                                                                                                                    inscripción
+ejecutoras y/o equipos de campos.
+Indicador 4.3. Talleres, cursos y/o               Cursos / talleres /       0           2022        5       5       5       5       5        25       Registros fotográficos de        (*)
+capacitaciones en temas de eficiencia en la        capacitaciones                                                                                       capacitaciones y/o
+gestión y ejecución de proyectos orientados a                                                                                                                inscripción
+unidades ejecutoras y/o equipos de campos.
+Indicador 4.4. Sistemas de monitoreo y de       Sistemas de monitoreo       0           2022        0       1       1       1       0        3       Informe Anual de Ejecución        (*)
+gestión de la información desarrollados que           y gestión                                                                                           e Informe Final de
+permiten el seguimiento social, físico y                                                                                                                      Ejecución.
+financiero de la operación.
+                                                                                    Anexo III - AR-L1341; AR-X1004
+                                                                                                      Página: 1 de 6
+
+
+
+
+                             Anexo III. Acuerdos y Requisitos Fiduciarios
+ País: Argentina       División: HUD        No. de operación: AR-L1341; AR-X1004           Año: 2022
+Organismo Ejecutor (OE): Ministerio de Desarrollo Territorial y Hábitat (MDTYH)
+Nombre de la Operación: Programa de Mejoramiento de Barrios (AR-L1341) Cuarta Operación
+Individual Bajo la Línea de Crédito Condicional para Proyectos de Inversión (AR-X1004)
+                            I. Contexto fiduciario del Organismo Ejecutor
+1. Uso de sistema de país en la operación (Cualquier sistema o subsistema que sea aprobado con
+posterioridad podría ser aplicable a la operación, de acuerdo con los términos de la validación del
+Banco).
+
+    Presupuesto         Reportes                Sistema Informativo            Licitación Pública Nacional
+                                                                            (LPN)
+    Tesorería           Auditoría Interna       Comparación de Precios         Otros
+    Contabilidad        Control Externo         Consultores Individuales       Otros
+
+2. Mecanismo de ejecución fiduciaria
+
+      Co-ejecutores        Las provincias y municipios serán los organismos subejecutores del programa. En
+      /Subejecutores       los subejecutores, la gestión de los proyectos estará a cargo de las UEP, como
+                           entidades de gestión de las provincias, o UEM, para ejecutores municipales, en la
+                           medida que posean capacidad institucional y técnica según la evaluación del OE.
+                           Las UEP y UEM podrán ser fortalecidas con recursos del programa. Será
+                           condición contractual especial de ejecución previa a la primera transferencia de
+                           recursos a cada organismo subejecutor, que el OE suscriba con cada uno el
+                           Convenio Marco de Adhesión (CMA) en los términos previamente acordados con
+                           el Banco.
+
+      Particularidades     El prestatario será la República Argentina. El OE será el MDTyH a través de la
+      de la ejecución      Secretaría de Hábitat, área con responsabilidad primaria en los aspectos técnicos,
+      fiduciaria           y la Secretaría de Coordinación, responsable de los aspectos administrativos y
+                           fiduciarios de la operación. El OE actuará como interlocutor directo ante el Banco
+                           en el marco de la operación.
+
+
+3. Capacidad fiduciaria
+ Capacidad fiduciaria     Se utilizó la Plataforma de Análisis de Capacidad Institucional (PACI) para el
+ del OE                   análisis de la capacidad institucional del OE y se confirmó que cuenta con una
+                          capacidad institucional suficiente para la ejecución del Programa y para alcanzar
+                          los objetivos del CLP-4. Sin embargo, entre los hallazgos de la PACI, se
+                          identificaron las siguientes acciones de mejora: (i) incorporar en el ROP un
+                          diagrama de relaciones institucionales que incluya las dependencias nacionales y
+                          los subejecutores que participarán en el programa, así como la descripción de los
+                          roles y responsabilidades de cada uno, relativos a: la planificación operativa,
+                          ejecución por componentes, procesos de adquisiciones y contrataciones, reportes
+                          financieros, seguimiento y monitoreo; (ii) diseñar e implementar una metodología
+                          de seguimiento y monitoreo del desempeño del Programa con foco en los
+                          subejecutores, que incluya tempranamente la evaluación de su capacidad
+                          institucional, de manera que permita implementar planes de acción y capacitación
+                          para mitigar desvíos en la ejecución; (iii) documentar los procedimientos
+                          administrativos para gestionar los proyectos con financiamiento externo; y
+                          (iv) fortalecer el equipo del OE en lo referente a los aspectos fiduciarios para una
+                          correcta ejecución del Programa. El Banco brindará apoyo para la capacitación del
+                          equipo del OE y de los subejecutores.
+                                                                                      Anexo III - AR-L1341; AR-X1004
+                                                                                                        Página: 2 de 6
+
+
+
+
+4. Riesgos fiduciarios y respuesta al riesgo
+
+   Taxonomía del                    Riesgo                  Nivel    de           Respuesta al riesgo
+      Riesgo                                                riesgo
+ Entorno Institucional   Si existieran dificultades para    Medio-Alto    Mitigar:    (i)   establecer     una
+ Organismos              evaluar       la      capacidad                  metodología para el análisis de
+ Ejecutores:             institucional       de       los                 capacidad institucional de los
+ Procesos Internos       subejecutores, no se lograría                    subejecutores del Programa en el
+                         determinar la capacidad de                       Reglamento Operativo acordada
+                         los equipos provinciales y                       con el Banco; y (ii) elaborar un plan
+                         municipales antes de delegar                     de fortalecimiento a los organismos
+                         los procesos fiduciarios del                     subejecutores que lo necesiten.
+                         Banco      (adquisiciones      y
+                         gestión financiera), lo cual
+                         podría generar desvíos en la
+                         planificación del Programa.
+ Organismo Ejecutor      Si hubiera demoras en la           Medio-Alto    Mitigar: (i) Definir y formalizar las
+ –Estructura             rendición de gastos debido al                    actividades de monitoreo por parte
+ organizativa            esquema      de    ejecución                     del OE a los subejecutores en el
+                         altamente descentralizado,                       ROP,
+                         podrían generarse retrasos                       utilizando módulos y reportes del
+                         en     la   ejecución    del                     sistema UEPEX y estableciendo
+                         programa.                                        plazos para la rendición, junto con
+                                                                          definir acciones en el caso que
+                                                                          hubiera demoras en las mismas;
+                                                                          y
+                                                                          (ii)   Realizar    actividades   de
+                                                                          fortalecimiento a los subejecutores
+                                                                          en el uso de UEPEX y sobre los
+                                                                          procedimientos y documentación
+                                                                          requerida para la rendición de
+                                                                          gastos a la OE.
+
+5. Políticas y Guías aplicables a la operación.
+Guía de Gestión Financiera para Proyectos Financiados por el BID OP-273-12, Políticas para la
+Adquisición de Bienes y Obras, GN-2349-15, y para la Selección y Contratación de Consultores,
+GN-2350-15 y Política sobre Financiamiento Retroactivo y Adquisiciones Anticipadas
+(GN-2259-1/OP-507).
+6. Excepciones a Políticas y Guías.
+No aplica
+
+  II. Aspectos a ser considerados en las Estipulaciones Especiales del Contrato de Préstamo
+
+ Tasa de cambio: Para la rendición de cuentas de los recursos del programa, y para efectos de lo estipulado
+ en el Artículo 4.10 de las Normas Generales, las Partes acuerdan que la tasa de cambio aplicable será la
+ indicada en el inciso (b)(i) de dicho Artículo. Para efectos de determinar la equivalencia de gastos incurridos
+ en Moneda Local con cargo al Aporte Local o del reembolso de gastos con cargo al Préstamo, la tasa de
+ cambio acordada será la tasa de cambio del primer día hábil del mes del pago en que el Prestatario, el
+ Organismo Ejecutor o cualquier otra persona natural o jurídica a quien se le haya delegado la facultad de
+ efectuar gastos, efectúe los pagos respectivos en favor del contratista, proveedor o beneficiario.
+ Informes Financieros Anuales Auditados: El OE presentará informes financieros anuales auditados
+ relacionados con el uso de los recursos, de acuerdo con los términos de referencia acordados con el Banco
+ dentro de los 120 días posteriores al cierre del ejercicio fiscal. Los Informes financieros finales del proyecto
+ se presentarán dentro del plazo de 120 días posteriores a la fecha de último desembolso. La auditoría
+ externa del programa será realizada por una firma auditora independiente elegible para auditar operaciones
+                                                                                   Anexo III - AR-L1341; AR-X1004
+                                                                                                     Página: 3 de 6
+
+
+
+
+financiadas por el Banco, seleccionada y contratada de acuerdo con los términos de referencia y modelo
+de contrato previamente acordados con el Banco o por la Auditoría General de la Nación.
+
+                  III. Acuerdos y Requisitos para la Ejecución de Adquisiciones
+
+    Documentos       de   Para adquisiciones de Obras, Bienes y Servicios Diferentes de Consultoría
+    Licitación            ejecutadas de acuerdo con las Políticas de Adquisiciones (documento
+                          GN-2349-15), sujetas a LPI, se utilizarán los Documentos Estándar de Licitación
+                          (DEL) del Banco o los acordados entre OE y el Banco para la adquisición
+                          particular. Así mismo, la selección y contratación de Servicios de Consultoría
+                          serán realizadas de acuerdo con las Políticas de Selección de Consultores
+                          (documento GN-2350-15) y se utilizará la Solicitud Estándar de Propuestas (SEP)
+                          emitida por el Banco o acordada entre el OE y el Banco para la selección
+                          particular. Para las Licitaciones Nacionales y Comparaciones de Precios de
+                          Bienes y Servicios Diferentes de Consultoría, se utilizarán los modelos estándar
+                          del Banco en Argentina más sus correspondientes modelos de informe de
+                          evaluación estándar. La revisión de las especificaciones técnicas, así como de
+                          los términos de referencia de las adquisiciones durante la preparación de
+                          procesos de selección, es responsabilidad del jefe de equipo del proyecto. Esta
+                          revisión técnica puede ser exante y es independiente del método de revisión de
+                          la adquisición.
+
+    Uso de Sistemas       Se usará el sistema informativo. El sistema COMPR.AR, que fue aprobado como
+    Nacionales            soporte electrónico de procesos bajo Políticas BID, será utilizado para la
+                          adquisición de bienes y servicios de no consultoría hasta la suma de
+                          US$1.5 millones.
+
+    Gastos                Los gastos recurrentes requeridos para poner en funcionamiento el proyecto
+    Recurrentes           serán aprobados por el jefe de equipo y serán realizados siguiendo los
+                          procedimientos administrativos del Ejecutor detallados en el ROP. Dichos
+                          procedimientos serán revisados y aceptados por el Banco, siempre que no
+                          vulneren los principios economía, eficiencia y competencia (GN-2331-5).
+
+    Adquisiciones         El Banco podrá financiar retroactivamente con cargo a los recursos del préstamo,
+    Anticipadas           gastos elegibles efectuados por el Prestatario antes de la fecha de aprobación
+    Financiamiento        del préstamo, hasta por la suma de US$22,5 millones (15% del monto propuesto
+    Retroactivo           del préstamo) incurridos en acciones relacionadas con obras para el programa
+                          (Componente II) y contrataciones de personal técnico de apoyo para el OE
+                          (Componente IV y administración, supervisión, evaluaciones y auditoria), siempre
+                          que se hayan cumplido requisitos de adquisiciones sustancialmente análogos a
+                          los establecidos en el contrato de préstamo. Dichos gastos deberán haberse
+                          efectuado a partir del 15 de noviembre de 2021, pero en ningún caso se incluirán
+                          gastos efectuados por más allá de 18 meses antes de la fecha de aprobación del
+                          préstamo. El monto del financiamiento retroactivo estará sujeto a las limitaciones
+                          aplicables a los desembolsos. Adicionalmente, el Banco examinará el proceso
+                          utilizado, el que el OE realiza a su propio riesgo. Estos gastos podrán ser
+                          financiados con cargo a los fondos BID y al aporte local. (Ver GN-2349-15,
+                          GN-2350-15 y GN-2259-1).
+
+    Contratación con      Para la ejecución de actividades de intervenciones urbanas integradoras del
+    participación         Componente II, podrán utilizarse procedimientos para la participación de la
+    comunitaria           comunidad en las contrataciones, con base en un relevamiento básico de
+                          necesidades, seguido de la selección de constructores o contratistas de pequeña
+                          escala a nivel barrial y presencia geográfica. Tendrán a cargo, entre otras
+                          actividades: el cómputo y presupuesto detallado de intervenciones para cada
+                          vivienda, la provisión de los materiales, la gestión mano de obra con participación
+                          de la comunidad, la certificación de funcionalidad de la infraestructura instalada
+                          y construida que promueva la transferencia de conocimientos. La selección de
+                          las constructoras y contratistas de pequeña escala se hará con base en
+                                                                                        Anexo III - AR-L1341; AR-X1004
+                                                                                                          Página: 4 de 6
+
+
+
+
+                            cotizaciones de precios unitarios/tarifas (a menor costo) y disponibilidad. Los
+                            detalles de ejecución se detallarán el ROP.
+
+      Supervisión de las    El método de supervisión será ex post, salvo en aquellos casos en que se
+      Adquisiciones         justifique una supervisión ex ante y así lo indique el Plan de Adquisiciones. Las
+                            revisiones ex post serán cada año de acuerdo con el Plan de Supervisión del
+                            proyecto, sujeto a cambios durante la ejecución. Los reportes de revisión ex-post
+                            incluirán al menos una visita de inspección física, escogida de los procesos de
+                            adquisiciones sujetos a la revisión ex post. Los montos límite para la revisión ex
+                            post son los siguientes:
+
+                                 OE                 Obras          Bienes/Servicios           Servicios de
+                                                                                              Consultoría
+
+                               MDTYH         US$5.000.000           US$5.000.000             US$200.000
+
+      Registros        y    El OE estará encargado de mantener los archivos y documentación de soporte
+      Archivos              de los procesos de adquisiciones, convocatorias, sus inversiones y los
+                            comprobantes de pagos que se realicen con recursos del proyecto. Además de
+                            archivos físicos, se llevarán registros digitales para los mismos efectos y para la
+                            supervisión del Banco atendiendo las indicaciones que para el efecto señale el
+                            ROP.
+
+
+Adquisiciones Principales
+
+  Descripción de la Adquisición         Método de               Nuevos            Fecha                Monto
+                                        Selección           Procedimientos/      Estimada          Estimado US$
+                                                             Herramientas
+ Bienes
+ Compra de equipos tecnológicos        Comparación                              octubre 2022              $100.000
+ e informáticos                        de precios
+ Obras
+
+ Obras de Infraestructura              Licitación                                     noviembre         $4.465.517
+ Almirante Brown. Rafael Calzada.      Pública                                             2022
+ B° 14 de noviembre y B° San           Nacional
+ José
+ Obras de Infraestructura La           Licitación                                     noviembre         $4.382.605
+ Matanza Rafael Castillo. B°           Pública                                             2022
+ Latinoamérica, 24 de febrero, 17      Nacional
+ de octubre, El Vivero y El Porvenir
+ Obras de Infraestructura en           Licitación                                     noviembre         $1.901.832
+ Avellaneda. Villa Dominico. Gran      Pública                                             2022
+ Corina                                Nacional
+ Obras      de     Infraestructura     Licitación                                     noviembre         $2.421.456
+ presidente   Perón.    Guernica.      Pública                                             2022
+ Numancia                              Nacional
+ Servicios de no consultoría
+ Mensura y subdivisión de barrios      Comparación                                    noviembre             $57.567
+ a intervenir (Buenos Aires)           de Precios                                          2022
+ Servicios de consultoría
+                                                                                  Anexo III - AR-L1341; AR-X1004
+                                                                                                    Página: 5 de 6
+
+
+
+
+  Descripción de la Adquisición       Método de          Nuevos              Fecha               Monto
+                                      Selección      Procedimientos/        Estimada         Estimado US$
+                                                      Herramientas
+ Proyectos de Fortalecimiento de     Selección                                  julio 2022        $1.600.000
+ Capital Social y Proyectos de       basada en la
+ Iniciativas Comunitarias (Buenos    calidad y
+ Aires)                              costo
+
+ Individuos
+ Formulación del Proyecto            3CV                                     agosto 2022              $12.500
+ Ejecutivo, según las necesidades
+ de cada barrio (Chaco)
+ Equipos de campo de los barrios     3CV                                    octubre 2022              $91.714
+ de cada jurisdicción (Buenos
+ Aires)
+Plan de Adquisiciones (EER#4)
+
+                      IV. Acuerdos y Requisitos para la Gestión Financiera
+
+     Programación     y   El Organismo Ejecutor (OE) es responsable del proceso de formulación y
+     Presupuesto          programación del presupuesto anual, quien se encarga de realizar todos los
+                          procedimientos conducentes a la consolidación del presupuesto anual para su
+                          aprobación. A medida que surgen necesidades de ampliación o reasignaciones
+                          de partidas, la unidad ejecutora solicita las modificaciones encargándose de
+                          gestionar su aprobación. Los créditos presupuestarios se ejecutan mediante
+                          cuotas de compromiso trimestrales y mensuales de devengado, las cuales son
+                          asignadas por la Oficina Nacional de Presupuesto (Ministerio de Economía).
+
+     Tesorería    y       Cuentas bancarias: El OE mantendrá una cuenta especial en dólares y una
+     Gestión     de       cuenta en pesos en el Banco Nación separadas e identificadas contable y
+     Desembolsos          operacionalmente para la gestión exclusiva de los recursos del Programa.
+                          Plan financiero: Los desembolsos se realizarán sobre la base de un plan
+                          financiero detallado basado en las necesidades reales de liquidez del programa.
+                          Método de desembolsos: El Banco desembolsará recursos bajo la modalidad de
+                          Anticipo de Fondos u otra modalidad establecida en la Guía OP-273-12. Los
+                          subsiguientes desembolsos posteriores al primer anticipo de fondos podrán
+                          tramitarse al haber justificado el 70% de los anticipos anteriores debido a que es
+                          un programa descentralizado y de ejecución compleja.
+                          Se utilizará la plataforma electrónica Online Disbursement para gestionar
+                          desembolsos.
+
+     Contabilidad,        El OE utilizará el sistema de Unidades Ejecutoras de Préstamos Externos
+     sistemas        de   (UEPEX) como sistema de administración financiera, será utilizado por la unidad
+     información      y   ejecutora central y por los subejecutores. El sistema UEPEX permite identificar
+     generación      de   los fondos del programa y también las fuentes de financiamiento. El sistema
+     reportes             UEPEX consigna, de conformidad con el catálogo de cuentas aprobado por el
+                          Banco, las inversiones del Programa por componente del cuadro de costos. El
+                          registro de la contabilidad se hará con base de caja y se seguirán las Normas
+                          Internacionales de Información Financiera cuando aplique, de acuerdo con los
+                          criterios nacionales establecidos.
+                                                                           Anexo III - AR-L1341; AR-X1004
+                                                                                             Página: 6 de 6
+
+
+
+
+Control externo e   El Control Externo es desempeñado por la Auditoría General de la Nación (AGN).
+Informes            La AGN es un órgano rector de control externo, dependiente y de asistencia del
+financieros         Congreso Nacional en el control del estado de cuentas del Sector Público. Su
+                    creación y funcionamiento se encuentran reglamentados en el Título VII, Capítulo
+                    I de la Ley 24.156 de Administración Financiera y de los Sistemas del Control
+                    Externo.
+                    Los estados financieros anuales del programa, con base en los Términos
+                    de Referencia (TDR) previamente acordados con el Banco, deberán
+                    ser auditados por un auditor independiente aceptable para el Banco, pudiendo
+                    ser tanto la AGN como una Firma de Auditoría Independiente.
+
+Supervisión         El Plan de supervisión financiera inicial surgirá a partir de las evaluaciones
+Financiera de la    de riesgo y capacidad fiduciaria de los OE, mediante visitas de supervisión in
+operación           situ y de "escritorio", así como el análisis y seguimiento de los resultados
+                    y recomendaciones de auditorías de los informes financieros anuales
+                    del programa.
+             DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                            PROYECTO DE RESOLUCIÓN DE-__/22
+
+
+
+   Argentina. Préstamo _____/OC-AR a la República Argentina. Programa de Mejoramiento
+      de Barrios. Cuarta Operación Individual Bajo la Línea de Crédito Condicional para
+                    Proyectos de Inversión (CCLIP) establecida mediante
+                       convenio de 29 de marzo de 2007 (AR-X1004)
+
+
+
+       El Directorio Ejecutivo
+
+RESUELVE:
+
+       Autorizar al Presidente del Banco, o al representante que él designe, para que, en nombre
+y representación del Banco, proceda a formalizar el contrato o contratos que sean necesarios
+con la República Argentina, como prestatario, para otorgarle un financiamiento destinado a
+cooperar en la ejecución del Programa de Mejoramiento de Barrios, que constituye la cuarta
+operación individual bajo la Línea de Crédito Condicional para Proyectos de Inversión (CCLIP)
+establecida mediante convenio de 29 de marzo de 2007 (AR-X1004), aprobada mediante
+Resolución DE-5/07 de fecha 31 de enero de 2007. Dicho financiamiento será hasta por la suma
+de US$150.000.000, que formen parte de los recursos del Capital Ordinario del Banco, y se
+sujetará a los Plazos y Condiciones Financieras y a las Condiciones Contractuales Especiales
+del Resumen de Proyecto de la Propuesta de Préstamo.
+
+
+
+                                 (Aprobada el ___ de ____ de 2022)
+
+
+LEG/SGO/CSC/EZSHARE-1044359933-19636
+AR-L1341
+

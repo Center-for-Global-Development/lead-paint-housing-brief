@@ -1,0 +1,1627 @@
+pmo
+
+
+Report and Recommendation of the President
+to the Board of Directors
+_____________________________________________________________________________________________________________
+
+
+
+
+INTERNAL
+
+
+Project Number: 49430-005
+March 2023
+
+
+
+
+Proposed Multitranche Financing Facility
+Mongolia: Aimags and Soums Green Regional
+Development Investment Program
+
+
+
+
+Distribution of this document is limited until it has been approved by the Board of Directors.
+Following such approval, this document will be reclassified as public and disclosed in accordance
+with ADB's Access to Information Policy.
+                    CURRENCY EQUIVALENTS
+                     (as of 28 February 2023)
+
+              Currency unit          –        togrog (MNT)
+                  MNT1.00            =        $0.00028
+                     $1.00           =        MNT3,517.00
+
+                        ABBREVIATIONS
+
+ADB             –     Asian Development Bank
+ADF             –     Asian Development Fund
+AMC             –     Development Bank of Mongolia Asset Management SC LLC
+COVID-19        –     coronavirus disease
+ESMS            –     environmental and social management system
+FAM             –     facility administration manual
+FFA             –     framework financing agreement
+FIL             –     financial intermediation loan
+GCF             –     Green Climate Fund
+GIRAF           –     green and inclusive regional agribusiness fund
+LARP            –     land acquisition and resettlement plan
+LCADP           –     low-carbon and climate-resilient agribusiness development
+                      plan
+LCLVC           –     low-carbon and climate-resilient livestock and agrobusiness
+                      value chain
+MCUD            –     Ministry of Construction and Urban Development
+MED             –     Ministry of Economy and Development
+MFF             –     multitranche financing facility
+MOFALI          –     Ministry of Food, Agriculture and Light Industry
+NMLP            –     National Mongolian Livestock Program
+NSO             –     National Statistics Office
+O&M             –     operation and maintenance
+PIHMP           –     participatory and inclusive herd management plan
+PIU             –     project implementation unit
+PUG             –     pasture user group
+RUA             –     rangeland use agreement
+SMEs            –     small and medium-sized enterprises
+tCO2e           –     ton of carbon dioxide equivalent
+
+                            GLOSSARY
+
+aimag           –     province
+dzud            –     succession of droughts and severe winters
+ger             –     yurt or traditional dwelling
+soum            –     subunit of an aimag
+
+                               NOTE
+
+         In this report, “$” refers to United States dollars.
+Vice-President             Ahmed M. Saeed, Operations 2
+Director General           M. Teresa Kho, East Asia Department (EARD)
+Director                   Asif Cheema, Urban and Social Sectors Division (EASS), EARD
+
+Team leaders               Arnaud Heckmann, Principal Portfolio Management Specialist, Nepal
+                               Resident Mission, South Asia Department
+                           Jie Bai, Urban Development Specialist, EASS, EARD
+Team members               Tuul Badarch, Senior Project Officer (Infrastructure), Mongolia Resident
+                               Mission (MNRM), EARD
+                           Ruth Benigno; Project Analyst; Public Management, Financial Sector, and
+                               Regional Cooperation Division; EARD
+                           Mark R. Bezuijen; Principal Environment Specialist; Environment, Natural
+                               Resources and Agriculture Division (EAER); EARD
+                           Jinqiang Chen, Urban Development Specialist (Climate Change), EASS,
+                               EARD
+                           Maria Lorena Cleto, Social Development Specialist (Resettlement), EASS
+                           Jubie Leah Mae Coles, Associate Financial Management Officer, Office
+                               of the Director General (EAOD), EARD
+                           Christian Ellermann, Senior Climate Change Specialist, Climate Change
+                               and Disaster Risk Management Division, Sustainable Development
+                               and Climate Change Department (SDCC)
+                           Enerelt Enkhbold, Senior Investment Officer, MNRM, EARD
+                           Abigail Garrovillas, Senior Operations Officer, EAOD, EARD
+                           Jan Hinrichs, Senior Natural Resources Economist, EAER, EARD
+                           Shinsuke Kawazu, Principal Counsel, Office of the General Counsel
+                           Noellé Dianne Laspiñas, Project Analyst, EASS, EARD
+                           Rosemary Ong, Senior Public–Private Partnership Specialist, Advisory
+                               Division 2, Office of Public–Private Partnership
+                           Viswanathan Ramasubramanian, Senior Safeguards Specialist
+                               (Resettlement), EASS, EARD
+                           Mark Allister Robis, Senior Financial Management Officer, EAOD, EARD
+                           Shotaro Sasaki, Senior Environment Specialist, EASS, EARD
+                           Gohar Tadevosyan, Senior Social Development Specialist, EASS, EARD
+                           Hiet T.H. Tran; Senior Procurement Specialist; Procurement Division 2;
+                               Procurement, Portfolio, and Financial Management Departmenta
+                           Rochelle Villanueva, Associate Project Analyst, EASS, EARD
+Peer reviewers             Lara Arjan; Urban Development Specialist; Urban Sector Group, Office of
+                               the Cluster Head; SDCC
+                           Takeshi Ueda; Principal Natural Resources and Agriculture Economist;
+                               Environment, Natural Resources and Agriculture Division; Southeast
+                               Asia Department
+a   Outposted to the Mongolia Resident Mission.
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                      CONTENTS
+
+                                                                    Page
+INVESTMENT PROGRAM AT A GLANCE
+MAP
+I.     THE PROPOSAL                                                    1
+II.    RATIONALE                                                       1
+III.   THE INVESTMENT PROGRAM                                          6
+       A.    Impact and Outcome                                        6
+       B.    Outputs                                                   6
+       C.    Summary Cost Estimates and Financing Plan                 9
+       D.    Implementation Arrangements                              11
+IV.    DUE DILIGENCE                                                  12
+       A.    Technical                                                12
+       B.    Economic and Financial                                   12
+       C.    Governance                                               13
+       D.    Poverty, Social, and Gender                              14
+       E.    Safeguards                                               14
+       F.    Summary of Risk Assessment and Risk Management Plan      16
+V.     ASSURANCES AND CONDITIONS                                      17
+VI.    RECOMMENDATION                                                 17
+
+APPENDIXES
+1.     Design and Monitoring Framework for the Investment Program     18
+2.     List of Linked Documents                                       23
+                                                                                          Project Classification Information Status: Complete
+
+
+                                            INVESTMENT PROGRAM AT A GLANCE
+
+    1. Basic Data                                                                                               Project Number: 49430-005
+       Project Name                     Aimags and Soums Green Regional        Department/Division                 EARD/EASS
+                                        Development Investment Program
+       Country                          Mongolia                               Executing Agency                    Ministry of Economy and
+       Borrower                         Mongolia                                                                   Development
+       Country Economic                 https://www.adb.org/Documents/Lin
+       Indicators                       kedDocs/?id=49430-005-CEI
+       Portfolio at a Glance            https://www.adb.org/Documents/Lin
+                                        kedDocs/?id=49430-005-PortAtaGl
+                                        ance
+    2. Sector                           Subsector(s)                                                           ADB Financing ($ million)
+       Water and other urban            Other urban services                                                                     50.000
+       infrastructure and services      Urban housing                                                                            44.600
+                                        Urban policy, institutional and capacity development                                     25.000
+                                        Urban slum development                                                                   20.000
+                                        Urban solid waste management                                                               6.000
+       Agriculture, natural             Agricultural policy, institutional and capacity development                              18.400
+       resources and rural              Irrigation                                                                               12.000
+       development                      Land-based natural resources management                                                  16.000
+                                        Livestock                                                                                16.000
+       Energy                           Electricity transmission and distribution                                                14.000
+                                        Energy efficiency and conservation                                                       13.000
+                                        Energy utility services                                                                  30.000
+       Finance                          Finance sector development                                                                 3.000
+       Transport                        Urban roads and traffic management                                                         5.000
+                                                                                                         Total                  273.000
+
+    3. Operational Priorities                                                  Climate Change Information
+       OP1: Addressing remaining poverty and reducing inequalities             GHG reductions (tons per annum)                    3,035,665
+       OP2: Accelerating progress in gender equality                           Climate Change impact on the                            High
+       OP3: Tackling climate change, building climate and disaster             Project
+       resilience, and enhancing environmental sustainability
+       OP4: Making cities more livable                                         ADB Financing
+       OP5: Promoting rural development and food security                      Adaptation ($ million)                                24.000
+       OP6: Strengthening governance and institutional capacity                Mitigation ($ million)                                29.000
+       OP7: Fostering regional cooperation and integration
+                                                                               Cofinancing
+                                                                               Adaptation ($ million)                                89.800
+                                                                               Mitigation ($ million)                                85.200
+       Sustainable Development Goals                                           Gender Equity and Mainstreaming
+       SDG 2.4                                                                 Effective gender mainstreaming (EGM)
+       SDG 6.a
+       SDG 7.2, 7.3, 7.a                                                       Poverty Targeting
+       SDG 8.10                                                                Geographic Targeting
+       SDG 9.1, 9.3
+       SDG 11.1, 11.3, 11.6, 11.7
+       SDG 12.2
+       SDG 13.a
+       SDG 15.1, 15.3
+    4. Risk Categorization:       Complex
+.
+
+
+    5. Safeguards Categorization       Environment: B Involuntary Resettlement: B Indigenous Peoples: C
+       [Tranche 1]
+.
+
+
+    6. Financing
+
+
+
+
+Source: Asian Development Bank                    17022023104012887927
+This document must only be generated in eOps.                                                         Generated Date: 27-Feb-2023 11:19:48 AM
+                                            INVESTMENT PROGRAM AT A GLANCE
+       Modality and Sources                                  Indicative Tranches ($million)                         Amount
+                                                     I                     II                   III                ($million)
+       ADB                                                                                                                273.000
+        Sovereign MFF-Tranche (Grant):                     3.000                0.000                   0.000               3.000
+        Asian Development Fund
+        Sovereign MFF-Tranche                             45.000              52.200                   37.800             135.000
+        (Concessional Loan): Ordinary
+        capital resources
+        Sovereign MFF-Tranche                             45.000              50.000                   40.000             135.000
+        (Regular Loan): Ordinary capital
+        resources
+       Cofinancing                                                                                                        355.000
+        European Investment Bank -                        52.900              59.400                   37.700             150.000
+        MFF-Tranche (Loan) (Not ADB
+        Administered)
+
+         European Investment Bank -                       10.500              11.400                    8.100              30.000
+         MFF-Tranche (Grant) (Not ADB
+         Administered)
+
+         Green Climate Fund -                             50.200              48.000                   31.800             130.000
+         MFF-Tranche (Loan) (Full ADB
+         Administration)
+
+         Green Climate Fund -                             25.000              12.000                    8.000              45.000
+         MFF-Tranche (Grant) (Full ADB
+         Administration)
+
+       Counterpart                                                                                                        107.000
+        Beneficiaries - Loan                               3.400                2.000                   1.300               6.700
+
+         Government - Loan                                20.700              33.500                   21.100              75.300
+
+         Others - Loan                                    14.300                7.500                   3.200              25.000
+
+                                      Total              270.000             276.000                  189.000             735.000
+
+
+     Currency of ADB Financings: US Dollar
+
+
+
+
+Source: Asian Development Bank                  17022023104012887927
+This document must only be generated in eOps.                                                 Generated Date: 27-Feb-2023 11:19:48 AM
+                                                 INVESTMENT PROGRAM AT A GLANCE
+
+  7. Country Partnership Strategy
+     CPS                                                        https://www.adb.org/documents/mongolia-country-partnership-strategy-2021-2024
+
+  8. Investment Program Summary
+     The program represents a fundamental paradigm shift in applying a transformative model to promote green territorial
+     development and urban-rural linkages, whereby livable human settlements-aimag (province) and soum (subunit of an aimag)
+     centers-become anchors of green agribusinesses that promote sustainable, resilient, and high-carbon sequestration rangeland
+     management. Initially focusing on Mongolia's western aimags, the program will promote climate finance and private sector
+     investment mechanisms that can be replicated countrywide.
+     Impact: Green development, regional development sustainability, quality of life, and human development achieved
+     Outcome: Green and inclusive agro-territorial development advanced
+     Outputs: (i)Climate-resilient, low-carbon, and attractive aimag and soum centers developed, (ii)Climate-resilient, high-carbon
+     sequestration, and sustainable rangeland and agricultural management implemented, (iii)Accessible financing for low-carbon
+     and climate-resilient livestock and agrobusiness value chains created (financial intermediation loan component), and
+     (iv)Institutional capacity and policies for low-carbon and climate-resilient agro-territorial development strengthened
+
+      Implementation Arrangements: Ministry of Economy and Development will be the executing agency.
+      Project Readiness: Facility preparatory activities are being undertaken under an ongoing transaction technical assistance.
+
+  9. Indicative Tranche Approval Plan
+     Modality                                        Estimated Approval                Estimated Completiona
+     Tranche I                                       22 March 2023                     22 March 2029
+     Tranche II                                      30 December 2025                  30 December 2032
+     Tranche III                                     3 January 2028                    22 March 2033
+
+ 10. Project Data Sheet (PDS)
+     PDS b                                           http://www.adb.org/projects/49430-005/main
+
+a For tranches, this refers to the tranche closing date.
+b Safeguard documents can be viewed by clicking the Document's hyperlink in the Project Data Sheet (PDS) page.
+
+
+
+
+Source: Asian Development Bank                             17022023104012887927
+This document must only be generated in eOps.                                                           Generated Date: 27-Feb-2023 11:19:48 AM
+210135 17 MON ABV
+                                            I.         THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on a proposed
+multitranche financing facility (MFF) to Mongolia for the Aimags and Soums Green Regional
+Development Investment Program. The report also describes the proposed tranche 1, and if the
+Board approves the proposed MFF, I, acting under the authority delegated to me by the Board,
+approve tranche 1. The program represents a fundamental paradigm shift in applying a
+transformative model to promote green territorial development and urban–rural linkages, whereby
+livable human settlements—aimag (province) and soum (subunit of an aimag) centers—become
+anchors of green agribusinesses that promote sustainable, resilient, and high-carbon
+sequestration rangeland management. Initially focusing on Mongolia’s western aimags, the
+program will promote climate finance and private sector investment mechanisms that can be
+replicated countrywide.
+
+                                                 II.    RATIONALE
+
+2.      In 1990, upon disengaging from the Soviet Union, Mongolia entered a transitional period.
+Aimag and soum centers were unable to play their role as anchors of rural economy.1 Herders
+started to migrate to urban areas in response to (i) the low value of livestock; (ii) higher exposure
+of their animals to disease because of poor livestock breeding, feed supply, and veterinary
+services; and (iii) the impact of climate change, especially the increase of extreme weather such
+as dzud (succession of droughts and severe winters) causing massive losses of livestock,
+particularly during 2000–2001 and in 2010. The loss of large quantities of livestock during the
+past dzud illustrates the vulnerability of herders and the severe impact of extreme climate events
+on national livestock assets. During the dzud of 2000–2001, 25% of Mongolia’s livestock perished.
+From 1999 to 2003, about 180,000 people migrated to Ulaanbaatar having lost their livelihoods
+to the severe winters, and started to settle on the outskirts of Ulaanbaatar and in aimag centers
+overwhelming the capacity of cities to absorb them; and formed vast substandard settlements,
+known as ger areas, which account for about 60% of Ulaanbaatar’s population and more than
+70% of the population of aimag centers.2 In 2021, the urbanization ratio in Mongolia represented
+about 69.4% of the country’s 3.4 million population. This caused urban systems, already
+exceeding their planned service life, to further deteriorate and become undersized to meet
+existing and future needs for Mongolia’s growing urban population.3 With 1.6 million population,
+Ulaanbaatar accounts for 69% of the urban population, and 63% of gross domestic product. The
+demographic and economic weight of the capital city illustrates the country’s drastic territorial
+imbalance.
+
+3.      The combination of herders expanding herd size to compensate for anticipated livestock
+losses (especially from dzud), open access to pasture, unbalanced herd composition (with a high
+proportion of goats which are particularly destructive to rangelands but can generate good income
+
+1 Aimag center refers to the aimag capital. Except for Darkhan and Erdenet (each with about 80,000 people), the
+  population of most aimag centers ranges from 15,000 to 40,000. Soum center refers to the main town in a soum.
+  Inter-soum centers refer to soum centers of strategic and economic importance within an aimag, with populations
+  ranging from 2,000 to 10,000.
+2 Ger areas are settlements characterized by loosely aligned plots, irregular and unpaved pathways, and poor access
+
+  to basic infrastructure. Poorly insulated detached solid houses and ger tents use inefficient coal stoves that produce
+  heavy carbon dioxide emissions and air pollution, especially during winter.
+3 In aimag and soum centers, gaps between supply and demand for urban services are mainly caused by
+
+  (i) underperforming urban systems with limited operation and maintenance (O&M) resources; (ii) lack of drainage
+  and flood protection infrastructure; (iii) a stagnating economic situation that constricts infrastructure investment;
+  (iv) overcrowded public buildings in poor condition (e.g., for education, government, and health services), especially
+  in soum centers; and (v) lack of provision for affordable housing.
+2
+
+
+from cashmere), and poor rangeland management practices has put Mongolia’s rangelands,
+which covers 82% of the country, under severe threat. In addition, climate change has reduced
+the productivity of rangelands, affected glacier-fed water regimes, and increased exposure of
+herders and the animal husbandry sector to climate-related natural hazards.4 Overgrazing is on
+average 22.6% above the rangeland carrying capacity, and as a result, about 70% of pastoral
+land has been degraded.5 The situation has impacted livestock productivity and made herds more
+vulnerable to climate events and disease, resulting in deteriorating quality of meat, wool, and
+other livestock products and lower incomes for herders who compensate by further increasing
+herd sizes.6 This vicious cycle has led to uncontrolled and exponential increases of livestock
+heads. While livestock numbers ranged from 20 million to 25 million heads during 1970–1990, it
+has reached 66.5 million in 2018 and 71.1 million in 2022.7 Ongoing rangeland degradation is
+also associated with considerable reduction of above- and below-ground biomass, and lessening
+the carbon storage capacity of soil. Improving rangeland management thus offers huge climate
+change mitigation prospects. It is estimated that Mongolia can avoid emissions of more than 440
+million tons of carbon dioxide equivalent (tCO2e) over the next 20-year period from soil carbon
+sequestration.8
+
+4.       During the last decade, the Government of Mongolia has set policies and objectives to
+reverse overgrazing trends and reduce overall livestock numbers to sustainable levels. However,
+those attempts failed to reverse the exponential increase of animals and overcome complex and
+interrelated barriers inherent to the livestock industry.9 The Swiss Agency for Development and
+Cooperation through the Green Gold project has established pasture user groups (PUGs) and
+rangeland use agreements (RUAs) to strengthen traditional user groups of herders for inclusive
+and improved grazing management of common seasonal rangelands. 10 Green Gold project
+activities were gradually handed over to the National Federation of Pasture User Groups and the
+Aimag Federation of Pasture User Groups. Yet, few RUAs have been officially registered and
+even fewer stocking adjustment rates have been formulated. 11 PUGs lack incentives and
+marketing opportunities to sell animals and reduce herd sizes. The lack of well-functioning
+cooperatives, certification systems, and linkage with agriculture value chain led to a dearth of
+quality livestock raw materials and failure to establish sustainable mechanisms to reduce herds
+and ensure sustainable rangeland management.
+
+
+
+
+4  Based on Mongolia’s updated National Determined Contribution, November 2019, the frequency of extreme weather
+   phenomena has doubled in the last 2 decades. This is expected to increase by 23%–60% by the middle of the century
+   as compared to present conditions.
+5 Data from the 2017 National Mongolian Livestock Program (NMLP), the National Statistical Office (NSO) of Mongolia,
+
+   and soum-level datasets of the Ministry of Food, Agriculture and Light Industry (MOFALI).
+6 NSO indicates that two-in-five herder families live in poverty. If the situation continues, more herder families will be
+
+   pushed into poverty, eroding national food security and contributing to turning rangelands into deserts.
+7 Livestock data from NSO. Mongolian Statistical Information Service (accessed January 2022).
+8 Carbon sequestration is the process of capturing and storing carbon dioxide. It reduces the amount of carbon dioxide
+
+   in the atmosphere, contributing to the mitigation of global climate change.
+9 The rapid growth of animal husbandry since 2010 has caused numbers to exceed the NMLP targets. The NMLP
+
+   target for sheep heads unit for 2021 is 79.7 million while the actual number for 2021 was 117.6 million, exceeding
+   the target by 48%. Sheep head unit is commonly used to convert the grazing impact of animals to a sheep equivalent.
+10 Swiss Agency for Development and Cooperation. 2021. Sustainably Managed Pastures and Healthy Animals:
+
+   Mongolia’s ‘Green Gold’. RUA is a collective and voluntary agreement between a group of herders and the soum
+   government that is (i) legally recognized and registered by the Agency for Land Management and Administration,
+   Geodesy and Cartography and the Ministry of Justice and Home Affairs; and (ii) socially and politically accepted by
+   all parties. To be legally registered and binding, it must include five annexes with information such as herd size,
+   composition, pasture use, state of rangeland, and carrying capacity.
+11 Stocking adjustment rate is the number of animal units set at or below the carrying capacity of a certain land area.
+                                                                                                                      3
+
+
+5.      Weak small and medium-sized enterprise development. Development of small and
+medium-sized enterprises (SMEs) in Mongolia is constrained by unaffordable interest rates and
+short-term loans; high and rigid collateral requirements, especially for immovable assets; overly
+complicated administrative procedures; and low financial literacy of SME borrowers.12 In remote
+aimags, SMEs lack access to appropriate urban and economic services. Local agricultural
+enterprises and value chains suffer from weak finance ecosystems; dominance of large
+agribusiness companies based in Ulaanbaatar; low entrepreneurial skills; and lack of start-up
+capital and support to access available financing, affordable financing products, and supportive
+national program and policies. These challenges impede agribusiness investments at the
+point-of-need, preventing job creation and local development, which are required to promote
+economic diversification, counterbalance Mongolian’s overdependence on mining, and reverse
+the flow of migration to Ulaanbaatar.
+
+6.       The weak agribusiness SMEs development and the lack of quality and sustainably
+certified agricultural product both prevent capturing the (i) growing domestic demand in higher-
+quality and greener meat product mainly in urban areas and especially in Ulaanbaatar; (ii) large
+export potential for green and sustainably certified agricultural products coming from sizable
+markets demand such as the People’s Republic of China, the Russian Federation, Central Asia
+countries, Japan, Iran, and Viet Nam; and (iii) growing demand from developed country markets
+for sustainably certified cashmere and wool products.
+
+7.      Western aimags. The three western aimags of Bayan-Ulgii, Khovd, and Uvs have fragile
+ecosystems and rely heavily on mountain pastureland, high mountain water flow, and oases. The
+population and environment of these three aimags are particularly vulnerable to climate change.
+Melting permafrost and glaciers, rising temperatures, and changing precipitation patterns are
+severely affecting the composition and distribution of water resources. The overgrazing rate in
+the western aimags, estimated at 27.4% more than the carrying capacity, is five percentage points
+higher than the national average. The lack of investment in the three western aimags has left
+them isolated and underequipped, despite (i) being a strategically important trade and western
+development link along Central Asia Regional Economic Cooperation corridor 4a, (ii) the
+importance of the area in balancing Mongolia’s territorial development and boosting regional
+trade, and (iii) the prominence of animal husbandry in employment (it accounts for about 38%–
+51% of total employment).
+
+8.     Government road map. The government is fully aware of the severity of the situation and
+has formulated Vision 2050, a two-stage framework supported by the Asian Development Bank
+(ADB), to guide long-term development and promote human development, quality of life, green
+development, and sustainable regional development. 13 The New Recovery Policy of the
+government aims to create the conditions to reach the objectives of the first implementation stage
+(2021–2030) of Vision 2050. 14 It promotes Recovery of Operations of Border Ports, Energy
+Recovery, Industrial Recovery (especially through supporting agrobusiness industry development
+and increased value-added of local agro-processing industry for domestic and export markets),
+Urban Rural Recovery (especially through supporting the development of regional clusters,
+reversing migration to Ulaanbaatar, and decreasing the Capital City congestion); and Recovery
+
+12 As of December 2022, the average interest rate for SME business loans was 17.3%—much higher than the Bank of
+
+   Mongolia’s policy rate of 13.0%. Banks require collateral to guarantee a loan in 99.7% of cases, and collateral value
+   required is about 200.0% of the loan’s value on average.
+13 State Great Khural. 2020. Vision 2050: Long-Term Development Policy of Mongolia. Ulaanbaatar. The plan was
+
+   formed with the support of ADB. Mongolia: Human Settlements Development Program; and the Japan International
+   Cooperation Agency’s Regional Development Policy.
+14 Enacted by the Act of Parliament No.106 dated 30 December 2021.
+4
+
+
+through Green Development (especially through sustainable rangeland management and green
+urban development), and Recovery of Public Productivity. Finally, following the food security and
+promoting food supply resolution of the Parliament,15 the government, through the Ministry of
+Economy and Development (MED), has developed a national food safety and sustainable food
+supply strategy based on Mongolia’s specific climatic, geographical, and local resources
+conditions using an integrated planning approach aiming to upgrade agricultural production,
+supply, and logistic clusters in selected soums.16 Ministries have developed sector plans and
+policies to support and guide the implementation of the road map. The Ministry of Construction
+and Urban Development (MCUD) and the MED are implementing territorial and regional
+development studies that formulate key strategic directions for aimag development and priority
+public and private investments. The Ministry of Food, Agriculture and Light Industry (MOFALI)
+formulated the State Policy on the Food and Agriculture Sector (2016–2025), 2015; the Mongolian
+Herders National Program, 2020; and the Mongolia Livestock II Program (2022–2024).17 Finally,
+Mongolia’s Third National Communication drives the national climate action plan.18 The program
+is included in the public investments plan of Mongolia’s Five-Year Development Guidelines
+(2021–2025).19
+
+9.      Program priorities and approach. Implementing the comprehensive government road
+map in aimags and soums will help arrest the vicious cycle of interrelated and mutually reinforcing
+sector bottlenecks (para. 3), further aggravated by the coronavirus disease (COVID-19) crisis and
+the Russian invasion of Ukraine, which generated exogenous shocks that adversely impact
+Mongolian economy. In this context, a piecemeal, short-term, or single sector-oriented approach
+would be unsustainable and insufficient. For example, investing solely in infrastructure in a
+stagnating economic context would be inefficient and would not promote a functional and dynamic
+urban development process. Providing financial support for agriculture and livestock husbandry
+while failing to address lagging infrastructure, complicated SME administrative services and the
+problem of poor animal value would not be enough. Supporting better management of natural
+resources would be unsustainable and less effective without parallel provision of services for
+herders and support for market links to promote inclusive and green value chains. Finally,
+promoting agricultural trade and ensuring sustainable food supply implies improving livestock
+health and promoting transboundary sanitary and phytosanitary measures, such as veterinary
+regulated quarantine zones. Through its comprehensive and multisector long-term approach, the
+MFF program of ADB will ensure that real transformation takes place within rural communities,
+motivated and sustained by low-carbon and climate-resilient livestock and agrobusiness value
+chains (LCLVCs), with livable aimag and soum centers acting as anchors for private sector
+investment. 20 The MFF program will incorporate this approach into a regional development
+
+
+15 On 17 June 2022, the parliament ratified a resolution on ensuring food security and promoting food supply, which
+
+   includes the following key measures: (i) promote export-oriented food production and increase food production to
+   reduce dependency on imported food; (ii) improve standards, quality controls, innovation, and M&E mechanism in
+   food production, storage, transportation, and trade; (iii) increase domestic supply of fodder and forage; (iv) promote
+   irrigated agriculture production; (v) develop agro-industrial parks for establishing cluster-based agriculture value
+   chains; (vi) improve livestock sanitary condition and improve pastureland management; and (vii) support domestic
+   food processing.
+16 This includes 10 soums located in the western region.
+17 MOFALI Minister Order No. A/177, June 2022, following the Mongolian National Livestock Program.
+18 Ministry of Environment and Tourism. 2018. Mongolia Third National Communication under the United Nations
+
+   Framework Convention on Climate Change. Ulaanbaatar.
+19 State Great Khural. 2020. Public Investment Program 2021–2025 (Attachment 2). Ulaanbaatar.
+20 LCLVC means that the full range of herders, herder groups, agrobusinesses, cooperatives, and firms and their
+
+   successive coordinated value-adding activities that transform, sell, and dispose after use agricultural raw material,
+   especially livestock derived materials in a manner that is profitable throughout the value chains, promotes rangeland
+   regenerative practices, is water efficient, reduces GHG emissions, and increases soil carbon sequestration.
+                                                                                                                     5
+
+
+strategy and develop a green agro-territorial21 model supported by policy reforms and institutional
+strengthening at both the local and national levels and building on agricultural production, supply,
+and logistic clusters model formulated by MED.
+
+10.      Policy framework. Aligning with the long-term strategic development objectives of the
+road map, the program will follow integrated and synergetic guiding principles for its policy
+framework,22 capacity development, and investment outputs: (i) inclusive and green urban–rural
+transformation, through improved living conditions and performance of priority urban settlements
+as anchors for local economic development, to attract LCLVC investments at the point-of-need
+and reconnect urban and rural economies; (ii) sustainable, climate-resilient, and low-carbon
+rangeland management, driven by incentives to encourage better rangeland management
+practices, grassroots organization, and transitional support for herders; improve animal feed,
+breeding, and health to support more productive and quality animals; reverse ecosystem
+degradation and increase its capacity for carbon sequestration; enhance rangeland and herder
+communities’ resilience to climate change; and, by improving resource efficiency and food
+production, improve food security despite the adverse impacts of climate change; (iii) well-
+functioning and inclusive LCLVCs (that provides stakeholders with services to sustain their
+activities while minimizing their carbon footprint, supporting sustainable management of natural
+capital, and promoting climate adaptation), hinged on accessible and responsive financial and
+nonfinancial support for herders, SMEs, and other stakeholders involved in the agriculture sector
+operating in the aimag and inter-soum centers; and (iv) improved planning, capacity, knowledge,
+and institutions, especially for all the stakeholders of the agriculture sector, to support
+transformational low-carbon, climate-resilient, and inclusive territorial development plans and
+policies.
+
+11.      Strategic context. The strategic context and long-term support of the road map (i) is
+consistent with ADB’s country partnership strategy for Mongolia, 2021–2024,23 especially with its
+post–COVID-19 recovery action plan, and will contribute to overcoming economic contraction and
+exacerbated inequalities to promote sustainable economic growth, diversification, and
+inclusiveness; (ii) is aligned with the seven operational priority plans of ADB’s Strategy 2030;24
+and (iii) supports Central Asia Regional Economic Cooperation 2030 and its Common Agenda for
+Modernization of Sanitary and Phytosanitary Measures for Trade by contributing to agricultural
+trade and regional public goods, mitigating desertification and climate change, and containing
+transboundary animal health problems.25
+
+
+
+
+21 A territorial approach aims to realize the potential of a territory through strategic management of the relationship
+
+   between economic development, social inclusion, and environmental sustainability. The goal of agro-territorial
+   development is to link smaller cities and towns with their rural “catchment areas” and improve access to food and
+   income opportunities for the urban and rural poor. Food and Agriculture Organization of the United Nations. 2017.
+   Development Economics Policy Brief: Strong Rural–Urban Linkages are Essential for Poverty Reduction. Rome.
+22 The policy framework is outlined in the Framework Financing Agreement (FFA) (accessible from the list of linked
+
+   documents in Appendix 2), and details are in Appendix 8 of the Facility Administration Manual (FAM) (accessible
+   from the list of linked documents in Appendix 2).
+23 ADB. 2021. Country Partnership Strategy: Mongolia, 2021–2024—Laying Resilient Foundations for Inclusive and
+
+   Sustainable Growth. Manila.
+24 ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+
+   Manila.
+25 ADB. 2017. CAREC 2030: Connecting the Region for Shared and Sustainable Development. Manila.
+6
+
+
+                                   III.      THE INVESTMENT PROGRAM
+
+A.       Impact and Outcome
+
+12.    The investment program is aligned with the following impact: green development, regional
+development sustainability, quality of life, and human development achieved (footnote 13). The
+investment program will have the following outcome: green and inclusive agro-territorial
+development advanced.26
+
+B.       Outputs
+
+13.     Output 1: Climate-resilient, low-carbon, and attractive aimag and soum centers
+developed. This output will target development of priority infrastructure and services to support
+the transition of targeted aimag and inter-soum centers into anchors for LCLVC investments. It
+will address aimags and soums infrastructure gaps to support green agri-business development
+and the agriculture sector based on the locations for agricultural logistics and supply centers,
+industries, and clusters identified by MED. It will employ a comprehensive and integrated
+approach to address urban service deficiencies (such as district heating, drainage and flood
+protection, power, roads, social facilities, waste collection and treatment, wastewater treatment,
+and water supply) and improve the living conditions in aimag and inter-soum centers. The output
+will promote low-carbon solutions through the use of renewable energy and energy efficient urban
+services and buildings. In each targeted aimag and soum center, an agro-industrial park
+dedicated to LCLVCs will be developed, including utilities to attract processing activities and an
+incubator center. 27 Finally, a smart land management center will improve land and urban
+management; and monitor rangeland health (rangeland health refers to the set of environmental
+conditions that sustain rangeland productivity and biodiversity), water availability, and soil carbon
+sequestration.
+
+14.      Output 2: Climate-resilient, high-carbon sequestration, and sustainable rangeland
+and agricultural management implemented. This output will support climate vulnerable herder
+groups and empower them with sustainable livestock and agricultural management practices
+(e.g., improved grazing practices, balanced herd composition, reduced herd size, and improved
+animal breeding) to reverse rangeland degradation while producing high-value agricultural
+products. It will (i) support the implementation of community-based investment projects for
+participating herder groups belonging to PUGs that have signed RUAs and are included in the
+participatory and inclusive herd management plan (PIHMP); (ii) provide financial support to
+cooperatives of participating PUGs; (iii) establish a certification system and process; and (iv)
+provide incentives to reduce herd sizes, improve livestock commercialization, create an adequate
+herd structure, improve livestock breeding, and increase fodder production.28 Primary works for
+irrigated perimeters and water conservancy solutions will enable the expansion of fodder
+production and increase herders’ capacity to cope with water shortages induced by climate
+change. Animal health and veterinary services will be strengthened at each level of the
+agribusiness value chain to develop a reliable animal health control and traceability system. This
+includes supporting the construction of veterinary laboratories in the location identified by MED to
+
+26 The design and monitoring framework is in Appendix 1.
+27 Agro-industrial parks will boost food exports and local economies by bringing processing facilities to the point-of-
+
+   need (thereby shortening processing circuits, decreasing the carbon footprint of livestock value chains, and tightening
+   geographic and economic integration between herders, rangeland management, and the food industry). Agricultural
+   production, supply, and logistic clusters identified by MED will be prioritized.
+28 The PIHMP identifies and prioritizes short- to medium-term investments and activities to improve rangeland
+
+   management, herd quality, and the livelihoods of PUG members. The RUA is one of its components.
+                                                                                                                        7
+
+
+support agricultural production, supply, and logistic clusters.29 Critically, the certification system
+and improved animal quality and health will attract LCLVC investments; link certified herders,
+cooperatives, and PUGs; and herders’ livelihoods will be improved on a sustainable basis through
+share of profits from processing activities which will compensate them for maintaining lower herd
+size.
+
+15.       Output 3: Accessible financing for low-carbon and climate-resilient livestock and
+agrobusiness value chains created (financial intermediation loan component). This output
+will establish a green and inclusive regional agribusiness fund (GIRAF) to provide climate-smart
+financial mechanisms and institutions to overcome the financial bottlenecks of agribusiness SMEs
+in the targeted areas, especially in the agricultural production, supply, and logistic clusters defined
+by MED 30 by (i) loans with affordable interest rates, longer grace periods and tenors, and a
+customized repayment plan that take into account the production cycle and its seasonality to help
+SMEs overcome the financial barriers described in para. 5;31 (ii) credit guarantees that could be
+used as a substitute for collateral in lending and will reduce the risks of financiers, thereby
+contributing to more affordable interest rates and facilitating access to the GIRAF loans; and
+(iii) reimbursable innovation grants to stimulate pioneering agribusiness enterprises to advance
+innovative green products, processes, and business models such as (a) precision livestock
+farming that uses biosensors; (b) smartphone applications that synchronize with farm
+management software; (c) green and intelligent packaging; (d) digital systems in livestock
+marketing and distribution; or (e) renewable energy solutions. The GIRAF will support investments
+that demonstrate clear supply linkages and/or profit-sharing mechanisms with herders, PUGs,
+and cooperatives that are certified in sustainable rangeland management, and preferably located
+in agro-industrial parks that support local development and exports.
+
+16.      Output 4: Institutional capacity and policies for low-carbon and climate-resilient
+agro-territorial development strengthened. The output will focus on building the government
+and main stakeholders’ capacity (including professional associations of the agriculture sector,
+academics, herders, farmers, the private sector, and SMEs), especially in the priority locations
+identified by MED, to ensure efficient program management and implementation. Output 4 will
+(i) establish soft tools and plans necessary for the implementation of other program outputs such
+as the PIHMP, the low-carbon and climate-resilient agribusiness development plan (LCADP)—
+based on a participatory and consensus-building process with all local stakeholders the LCADP
+29 The program will (i) appoint a community-based animal health worker in each PUG to provide preliminary veterinary
+
+   services and raise herders’ awareness on animal health; (ii) establish a unified database for livestock breeding
+   services and registration and supply equipment for veterinary services and a traceability system; (iii) construct
+   laboratories in the aimag and inter-soum centers, including one regional research development center; and
+   (iv) construct disease-free establishments to facilitate animal health control.
+30 The GIRAF will be established following the Law of Mongolia and the eligibility criteria for financial intermediation
+
+   loans (FILs) as per ADB. 2003. Financial Intermediation Loans. Operations Manual. OM D6/BP. Manila. GIRAF will
+   be managed by a “GIRAF Manager” which (i) satisfies the eligibility criteria set forth in para. 37 of Schedule 4 of the
+   Loan Agreement, (ii) manages GIRAF and is responsible for implementing output 3 of the project, and (iii) may be
+   the Development Bank of Mongolia Asset Management SC LLC (AMC) or any other party agreed upon between the
+   Borrower and ADB and acceptable to GCF.
+31 The GIRAF will have three lending windows. Window 1 will provide three categories of loans to support SMEs
+
+   engaged in livestock processing, commercial and logistic investments for retail and exports, and other forms of
+   economic diversification. To be eligible, subprojects should be implemented by SMEs in partnership and profit-
+   sharing agreements with certified herders’ cooperatives and should be included in the LCADP. Window 2 will provide
+   loans to qualified medium and large enterprises involved in livestock production, processing, distribution and
+   marketing, and international trade. The proposed agribusinesses should demonstrate congruence and consistency
+   with the LCADP. Window 3 will be piloted for potential expansion for microfinance that will be channeled through
+   savings and credit cooperatives to certified herders engaged in microenterprises. Details of financing terms and
+   conditions are in Boxes 4, 5, and 6 and Appendix 3 of the FAM (accessible from the list of linked documents in
+   Appendix 2).
+8
+
+
+will prioritize investments and activities necessary to develop LCLVCs—or the green urban
+development and certification, and traceability systems; (ii) support the design, installation, and
+operationalization of the program’s measurement, reporting, verification, and monitoring and
+evaluation systems; and (iii) explore public–private partnership arrangements especially related
+to agro-industrial park management. It will implement the program policy framework to strengthen
+the government’s capacity to formulate, implement, and enforce policies and plans that are
+conducive to integrated green agro-territorial development, as well as climate-smart livestock
+husbandry, rangeland management, and urban development. The output will conduct policy
+dialogues and advocacy for the program’s green agro-territorial model replication inside and
+outside of Mongolia, and explore a partnership for low-carbon and climate-resilient rangeland
+management in Central Asia.32
+
+17.     The multitranche financing facility. The program will be implemented using an MFF
+modality with a financial intermediation loan (FIL) component, over a 10-year period with three
+tranches. Lessons from similar ADB sector interventions indicate that a comprehensive urban–
+rural development program requires close coordination among multiple government agencies and
+strong government capacity to carry out policy reforms, sustain the program outcome, and
+replicate outputs to other regions of the country.33 This is built into the program’s detailed policy
+framework, its capacity development component, and the stakeholder engagement plan, which
+are linked to the outputs and tranche structure of the MFF. The MFF structure will enhance ADB’s
+value addition in carrying out the necessary transformations, remove barriers and implement
+replicable mechanisms over its successive tranches, and drive the paradigm shift promoted by
+the program and its road map. Subsequent tranche investments will fall within the framework of
+the overall MFF and its output structure, conditional upon the MFF undertakings, subproject
+readiness, selection criteria, and decision filters.34 The FIL component will be implemented in
+close coordination with the Private Sector Operations Department of ADB for lending window 2
+of the GIRAF that will provide entry points and opportunities for the Private Sector Operations
+Department’s parallel investment support to qualified medium- and large-scale enterprises.
+
+18.      Modality advantage. Compared with other modalities, only an MFF could generate the
+critical mass, continuity, predictability, and replicable mechanisms to support communities, the
+government, and the private sector to transform the status quo of the animal husbandry industry
+and the urban economy in a sustainable manner.35 The MFF’s well-defined and phased shifts will
+allow the government to upscale, mainstream, and maintain the green agro-territorial model,
+focusing in priority locations for agricultural production, supply, and logistic clusters identified by
+MED, to achieve the objectives of the road map. Specifically, the MFF will (i) allow effective
+implementation of processes and plans (para. 16) that require sustained long-term engagement
+and phasing; (ii) pilot innovations in project 1 (para. 20) and phase their upscaling and replication
+without losing momentum, capacity, and knowledge; (iii) deploy in a timely manner lessons from
+earlier tranches to subsequent tranches, and ensure necessary adjustments to accommodate the
+local context; (iv) build cross-agency institutional coordination and cooperation mechanisms
+through a large upfront capacity-building component, sustained over the subsequent tranches;
+(v) provide stakeholders and development partners with multiple entry points for policy dialogue
+and apply lessons from tranche-to-tranche; and (vi) replicate the green agro-territorial
+
+32 Box 8 of the FAM (accessible from the list of linked documents in Appendix 2).
+33 Lessons in urban development, rangeland and livestock management, and financial intermediation and support for
+
+   SMEs and agribusinesses are in Sector Assessment (Summary): Water and Other Urban Infrastructure and Services;
+   and Agriculture, Natural Resources, and Rural Development; and in Development Coordination (accessible from the
+   list of linked documents in Appendix 2).
+34 Schedule 4 of the FFA (accessible from the list of linked documents in Appendix 2).
+35 Comparison of Financing Modality (accessible from the list of linked documents in Appendix 2).
+                                                                                                                            9
+
+
+development model by capturing achievements from complementary sector-focused initiatives
+using a set of well-defined readiness and selection criteria, and focusing in priority locations for
+agricultural production, supply, and logistic clusters identified by MED.
+
+19.    Eligibility of financial intermediary.36 An apex financial institution will be established to
+channel the funds to participating banks. Selection of financial intermediaries is based on eligibility
+and selection criteria that include the following: (i) duly registered bank in Mongolia under the
+applicable laws of Mongolia; (ii) adequate capacity to conduct retail banking for agriculture and
+agribusiness in the targeted aimags and soums; (iii) meet ADB’s reporting, governance,
+safeguard, and financial due diligence policies and standards; (iv) have no past-due obligations
+with the Bank of Mongolia or adverse audit findings; and (v) have agriculture sector and
+multisector financing experience in the targeted aimags.
+
+20.     Scope of projects 1–3 under tranches 1–3. The program will cover up to 17 aimags, for
+targeted investments from outputs 1 and 2.37 Outputs 3 and 4 will cover the above mentioned
+aimags, but can also be implemented over the entire country based on selection criteria and
+beneficiaries' conditions and requirements as provided in Boxes 4, 5, and 6 of the Facility
+Administration Manual (FAM).38 Tranche 1 (Project 1) will focus on up to 11 aimags. This includes
+Bayan-Ulgii aimag, Khovd aimag, and Uvs aimag for targeted investments; plus up to eight other
+additional aimags for outputs 1 and 2 initial activities and project preparation, to be identified
+during tranche 1 based on selection criteria in Schedule 4 of the FFA and agricultural cluster
+location identified by the MED. Output 2 will cover all affiliated soums that are under the area of
+influence of the targeted aimag or inter-soum centers under output 1.39 Tranche 2 (Project 2) will
+cover project 1 locations to complement project 1 activities and will cover additional aimags based
+on selection criteria in Schedule 4 of the FFA and based on priority locations for agricultural
+development identified by MED (footnote 37). Project 2 will build on ongoing ADB, United Nations
+Development Programme, or other initiatives wherein some of the program outputs are already
+in place and are compatible with the program’s green agro-territorial model.40 Similarly, tranche 3
+(Project 3) will assess local achievement in other aimags and provide complementary investments
+to replicate the program’s green agro-territorial model, using its resources more strategically to
+cover a wider geographical scope based on the 17 aimags identified for priority implementation
+(footnote 37).
+
+C.       Summary Cost Estimates and Financing Plan
+
+21.     The program is estimated to cost $735.0 million. The investment component of the
+program, comprising outputs 1, 2, and 4, will cost $617.4 million (Table 1). Output 3, which will be
+delivered through the FIL component, will require an estimated $117.6 million. Detailed cost
+
+36 The detailed eligibility and selection criteria are discussed in FAM (accessible from the list of linked documents in
+
+  Appendix 2).
+37 Based on priority locations for agricultural production, supply and logistic clusters identified by MED, and other criteria
+
+   such as socioeconomic development level, urban hierarchy and urban development, rangeland degradation and
+   overgrazing, vulnerability to climate change, livestock agribusiness development potential criteria, up to 17 aimags
+   have been identified for priority implementation: Khovd, Uvs, Bayan Ulgii, Arkhangai, Dornod, Tuv, Khentii, Bulgan,
+   Selenge, Dundgovi, Darkhan-Uul, Khuvsgul, Ovorkhangai, Bayankhongor, Zavkhan, Dornogovi, and Govi-Altai.
+38 FAM (accessible from the list of linked documents in Appendix 2).
+39 Output 1 activities will focus on (i) Ulgii aimag center and Deluun inter-soum center in Bayan-Ulgii, (ii) Khovd aimag
+
+   center, and (iii) Ulaangom aimag center and Umnogovi inter-soum center.
+40 In southern Khovd aimag or in other aimags, United Nations Development Programme Mongolia. 2021. Improving
+
+   Adaptive Capacity and Risk Management of Rural Communities in Mongolia. Ulaanbaatar; ADB. Mongolia: Climate-
+   Resilient and Sustainable Livestock Development Project; and ADB. Mongolia: Vegetable Production and Irrigated
+   Agriculture Project.
+    10
+
+
+    estimates by expenditure accounts and by financiers are included in the FAM. The investment
+    component will cover civil works, equipment, support to PUGs and cooperatives, design and
+    construction supervision, project implementation and management support, safeguards and due
+    diligence, and consulting services.
+
+                                  Table 1: Summary Cost Estimates ($ million)
+   Item                                                                                                          Amounta
+A. A. Base Costsb
+          1. Output 1: Climate-resilient, low-carbon, and attractive aimag and soum centers developed              395.7
+          2. Output 2: Climate-resilient, high-carbon sequestration, and sustainable rangeland and                  99.2
+                agricultural management implemented
+          3. Output 4: Institutional capacity and policies for low-carbon and climate-resilient agro-territorial    38.5
+                development strengthened
+              Subtotal (A)                                                                                         533.4
+B. B. Contingenciesc                                                                                                59.3
+C. C. Financial Charges During Implementationd                                                                      24.7
+                              Total (A+B+C)                                                                        617.4
+   a Includes taxes and duties estimated at $48.0 million for the investment program and $16.2 million for tranche 1. Such
+
+     amount does not represent an excessive share of the investment program cost. The government will finance taxes
+     and duties through tax exemptions.
+   b In 2023 prices as of 17 January 2023.
+   c Physical and price contingencies, and a provision for exchange rate fluctuation are included.
+   d Includes service fees, interest, commitment, and other charges on all sources of financing.
+
+   Source: Asian Development Bank estimates.
+
+    22.     Financing plan. The government has requested an MFF in an amount of up to
+    $448 million from a blend of regular loans ($135 million) and concessional loans ($135 million)
+    from ADB’s ordinary capital resources, a grant ($3 million) from ADB’s Special Funds resources
+    (Asian Development Fund [ADF]), and cofinanced loan ($130 million) and grant ($45 million) from
+    the Green Climate Fund (GCF) to be administered by ADB, to help finance a part of the investment
+    program. The European Investment Bank will provide cofinancing (non-ADB-administered)
+    comprising a loan of up to $150 million equivalent and a grant of up to $30 million equivalent from
+    the Asia Investment Facility of the European Union (administered by the European Investment
+    Bank). The government will finance $75.3 million, including taxes and duties, resettlement, civil
+    works, equipment, consulting services, project management, and other miscellaneous costs. The
+    investment project component comprises outputs 1, 2, and 4 and will cost $617.4 million. Output 3
+    will be delivered through an FIL component for which the government will invest $87.6 million of
+    the GCF loan proceeds into the GIRAF. In addition, the $5.0 million GCF grant will be passed on
+    to the government’s green innovation grants facility as reimbursable grants to qualified investors
+    to promote innovations in green and inclusive agribusiness. The GIRAF will serve as the apex
+    financial institution for the program funds to be channeled through financial intermediaries based
+    on eligibility and selection criteria.41 The GCF loan proceeds will leverage financial contributions
+    from private entrepreneurs, and other participating commercial banks estimated at $25.0 million.
+    The contribution from beneficiary households is estimated at $6.7 million. The MFF will consist of
+    three tranches, subject to the government’s submission of related periodic financing requests,
+    execution of the related loan and project agreements for each tranche, and fulfillment of terms
+    and conditions and undertakings set forth in the framework financing agreement.
+
+
+
+
+    41 Apexmechanisms usually involve financial institutions through which development partner-funded FILs are
+      channeled to a second layer of financial intermediaries, which in turn onlend such loan proceeds to subborrowers.
+                                                                                                                11
+
+
+                              Table 2: Summary Financing Plan ($ million)
+                                                Tranche (estimated year of PFR submission)            Share of
+Source                                            1 (2023)      2 (2025)        3 (2028)    Amount Total (%)
+A. Investment Project Component
+   1. Asian Development Bank
+      (i) OCR (regular loan)                          45.0          50.0           40.0       135.0     18.4
+      (ii) OCR (concessional loan)                    45.0          52.2           37.8       135.0     18.4
+      (iii) Special Funds resources (ADF grant)        3.0           0.0            0.0           3.0    0.4
+   2. Green Climate Fund (loan)a                      11.8          18.4           12.2        42.4      5.8
+   3. Green Climate Fund (grant)a                     22.0          10.8            7.2        40.0      5.4
+   4. European Investment Bank (loan)b                52.9          59.4           37.7       150.0     20.4
+   5. European Investment Bank (grant)b               10.5          11.4            8.1        30.0      4.1
+   6. Government of Mongolia                          20.7          33.5           21.1        75.3     10.2
+   7. Beneficiaries                                    3.4           2.0            1.3           6.7    0.9
+      Subtotal (A)                                  214.3          237.7          165.4       617.4     84.0
+B. Financial Intermediation Loan Component
+   1. Green Climate Fund (loan)a                      38.4          29.6           19.6        87.6     11.9
+   2. Green Climate Fund (grant)a                      3.0           1.2            0.8           5.0    0.7
+   3. Commercial banks/Private sectorc                14.3           7.5            3.2        25.0      3.4
+      Subtotal (B)                                    55.7          38.3           23.6       117.6     16.0
+                    Total (A+B)                     270.0          276.0          189.0       735.0    100.0
+ADF = Asian Development Fund, OCR = ordinary capital resources, PFR = periodic financing request.
+a Administered by the Asian Development Bank.
+b Parallel cofinancing, not administered by the Asian Development Bank.
+c Equity from private sector investors and agribusiness small and medium-sized enterprises.
+
+Source: Asian Development Bank estimates.
+
+23.     Climate mitigation is estimated to cost $114.2 million and climate adaptation is estimated
+to cost $113.8 million under the MFF from ADB and ADB-administered funds. Based on the
+comprehensive program climate risk assessment, the extra grant from the ADF 13 thematic pool
+will be used to strengthen capacity, raise awareness, improve the regulatory and institutional
+framework, build resilience focusing on vulnerable populations and ecosystems, and design
+innovative solutions such as green agro-territorial models or ecosystem-based solutions. Details
+are in the FAM (footnote 38).
+
+D.       Implementation Arrangements
+
+24.    Implementation arrangements of the investment program are summarized in Table 3 and
+described in detail, including specific arrangements for project 1, in the FAM (footnote 38).
+
+                                  Table 3: Implementation Arrangements
+Aspects                                                           Arrangements
+MFF availability period           22 March 2023–22 March 2033
+Estimated completion date         MFF: 22 September 2032; Project 1: 22 September 2028
+Estimated closing date            MFF: 22 March 2033; Project 1: 22 March 2029
+Management
+(i) Oversight bodies              The projects steering committee is comprised of representatives from the MED
+                                  (chair), MCUD (vice-chair), MOFALI (vice-chair), Ministry of Finance, Ministry of
+                                  Environment and Tourism, targeted aimag governments, and the European Union.
+(ii) Executing agency             MED
+(iii) Key implementing agencies   MCUD, MOF, and MOFALI
+(iv) Implementation unit          Under MED, an integrated PIU that will closely coordinate and be guided by MCUD,
+                                  MOFALI, and MOF and includes aimag-level PIUs that will coordinate with their
+                                  respective aimag and soum government offices will be established. The GIRAF
+                                  manager will manage the financial intermediation loan component.
+Procurement                       For the financial intermediation loan component, developers will undertake
+(Project 1)                       procurement of goods and civil works in accordance with commercial practices
+                                  acceptable to ADB.
+12
+
+
+Aspects                                                            Arrangements
+                                 OCB international             Works (1 contract)                     $2.2 million
+                                 advertisement
+                                 OCB national advertisement Works (22 contracts)                      $40.9 million
+                                                               Goods (3 contracts)                    $2.5 million
+                                 Request for quotations        Works (multiple contracts)             $0.4 million
+                                                               Goods (multiple contracts)             $1.2 million
+                                 Community participation in    Multiple contracts                     $12.6 million
+                                 procurement
+Consulting services              Quality- and cost-based       4,124 person-months                    $30.1 million
+(Project 1)                      selection                     International: 817 person-months
+                                                               National: 3,307 person-months
+                                 Quality-based selection       National: 63 person-months             $0.3 million
+Advance contracting              For project 1, advance procurement will apply to recruit consultants and PIU staff.
+Disbursement                     Disbursement of ADB and Green Climate Fund loan and grant proceeds will follow
+                                 ADB’s Loan Disbursement Handbook (2022, as amended from time to time) and
+                                 detailed arrangements agreed between the government and ADB.
+ADB = Asian Development Bank; GIRAF = green and inclusive regional agribusiness fund; MCUD = Ministry of
+Construction and Urban Development; MED = Ministry of Economy and Development; MFF = multitranche financing
+facility; MOFALI = Ministry of Food, Agriculture and Light Industry; OCB = open competitive bidding; PIU = project
+implementation unit.
+Source: ADB.
+
+                                          IV.      DUE DILIGENCE
+
+A.        Technical
+
+25.     Technical due diligence has been carried out on each proposed component for the first
+tranche of the program. Infrastructure designs are in line with Mongolian norms and standards
+and are compatible with existing urban systems. Operation and maintenance (O&M) cost and
+training for the new systems will be provided under the program to ensure sufficient capacity at
+the aimag and soum levels for sustainable asset management. Solutions to improve rangeland
+management are compatible with local ecological, economic, and sociocultural context.
+
+B.        Economic and Financial
+
+26.        The economic and financial analysis focused on project 1. 42 The base case results
+confirmed the economic viability of the project, with economic internal rates of return of 10.57%
+to 28.81%, exceeding ADB’s minimum prescribed discount rate of 9.0%. A sensitivity analysis,
+undertaken to further test the economic viability of project 1, determined that the project will
+remain economically robust under several scenarios, including (i) a 10% increase in capital cost;
+(ii) a 10% increase in O&M costs; (iii) a 10% decline in benefits; (iv) a combination of scenarios
+(i), (ii), and (iii); and (v) a 1-year delay in anticipated benefits. For the sustainable rangeland
+management component (output 2) and access to green and inclusive agribusiness finance
+(output 3), both of which will be financed by the GCF, the estimated economic internal rate of
+return reached 28.81%, reflecting sizable global warming damages avoided through an estimated
+net reduction in greenhouse gas emissions. In addition to the quantified economic benefits, the
+project will generate cross-border spillovers, mainly in the form of increased trade in Mongolia’s
+western region LCLVCs.
+
+
+
+42 ADB. 2017. Guidelines for the Economic Analysis of Projects. Manila; ADB. 1994. Framework for the Economic and
+
+  Financial Appraisal of Urban Development Sector Projects. Manila; and ADB. 2002. Handbook for Integrating Risk
+  Analysis in the Economic Analysis of Projects. Manila.
+                                                                                                           13
+
+
+27.      The financial analysis confirmed the viability of the revenue-generating components of the
+project, particularly the water, wastewater, and heating components. The resulting base case
+financial internal rates of return ranged from 2.07% to 8.04%, above the estimated weighted
+average cost of capital of 0.38%. A sensitivity analysis undertaken to further test the financial
+viability of project 1 under varying scenarios showed that the financial internal rates of return were
+highly vulnerable to increases in capital costs, decreases in tariff revenues, or a combination of
+both. The assumed tariffs were found to be affordable. They were within the target households’
+willingness to pay in the participating aimags, except for wastewater treatment and heating in
+Khovd and Uvs, where there is a need to better communicate the benefits of the improved
+services to the communities involved. The financial sustainability analysis concluded that utility
+operators could meet the project’s debt servicing and O&M requirements through tariff
+adjustments and continuous subsidy provision.
+
+C.      Governance
+
+28.      For project 1, financial management assessments were conducted on the executing and
+implementing agencies following relevant ADB guidelines.43 The overall pre-mitigation financial
+management risk rating for the program is substantial. Although the risk rating for MCUD, MOF,
+and MOFALI is moderate, the risk rating for MED and the Development Bank of Mongolia Asset
+Management SC LLC (AMC), which has been identified as executing and implementing agencies
+for the FIL component of the program, is substantial because of their relatively weak financial
+management capacity and limited experience with ADB’s loan and grant disbursement
+procedures and policies. However, their risk rating is expected to become moderate as their staff
+acquire sufficient training and experience under an ongoing ADB-funded project. 44 Financial
+management risks identified will be mitigated with support from financial management consultants
+and appropriate capacity development, as outlined in the action plan for the executing and
+implementing agencies. A project procurement risk assessment was carried out for the project in
+Q4 2019 and updated in Q2 2021 and Q1 2023 using a four-level risk scale: extreme, high,
+medium, and low. Procurement risk was considered high because of the (i) complexities of the
+financing arrangements and project activities; (ii) large number of stakeholders involved in the
+implementation of the project; (iii) large number of contracts to be procured; (iv) wide geographic
+spread of project sites; (v) limited experience of MED as executing agency; and (vi) unknown
+capacity of the project implementation unit (PIU), which has yet to be established. To mitigate
+these risks, (i) a full-time procurement specialist will be recruited for the PIU; (ii) the project
+implementation management support consulting firm will provide capacity-building support in
+procurement and project implementation to the executing and implementing agencies and the
+PIU; (iii) ADB will provide procurement training to the executing and implementing agencies and
+the PIU at the start of the project and on a regular basis; and (iv) manuals will be developed to
+guide the implementation of community-based investment projects and the FIL component. ADB’s
+Anticorruption Policy (1998, as amended to date) was explained to and discussed with the
+government, MED, MOF, AMC, MCUD, MOFALI, and National Federation of Pasture User
+Groups. The specific policy requirements and supplementary measures are described in the FAM
+(footnote 38).
+
+
+
+
+43 ADB. 2019. Financial Analysis and Evaluation: Technical Guidance Note. Manila; and ADB. 2018. Financial Due
+
+  Diligence for Financial Intermediaries: Technical Guidance Note. Manila.
+44 ADB. Mongolia: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project.
+14
+
+
+D.       Poverty, Social, and Gender
+
+29.     Social impacts. For project 1, the ger area redevelopment component under output 1 will
+improve the quality of life and health of about 30% of the total ger area population in the aimag
+centers of Bayan-Ulgii, Khovd, and Uvs—or 8,500 of the 17,000 herder households suffering from
+the lack of public services and amenities, and access to affordable housing. Urban interventions
+in the inter-soum centers will produce additional positive social impacts, including (i) improved
+dormitory environment and learning conditions for all children, leading to improved enrollment of
+herders’ children and prevention of family separation during the school year; and (ii) development
+of sports and other social activities. Outputs 2 and 3 will (i) reduce land disputes and social
+conflicts through improved rangeland management and signing of long-term RUAs; (ii) improve
+herders’ participation in local governance; 45 (iii) provide herder households access to basic
+community needs and improve their resilience to extreme events by financing facilities and
+equipment to support their engagement in sustainable rangeland management; (iv) improve
+herders’ livelihoods through support to herder cooperatives, and improve product quality and
+marketing so their products fetch higher prices;46 and (v) create job opportunities in agro-industrial
+parks and irrigated perimeters, and support SME development. Outputs 2 and 3 will benefit
+17,600 herder households of Bayan-Ulgii, Khovd, and Uvs; two-thirds of which earn incomes that
+are below the subsistence level.47 The program will support the creation of 11,400 green jobs,
+which in turn will create more than 155,000 indirect jobs, addressing the high unemployment in
+the targeted areas.
+
+30.     Gender. Project 1 is classified as effective gender mainstreaming. The project will have
+significant benefits for women by enhancing women’s access to basic rural and urban
+infrastructure and services, affordable housing, and economic and financial resources; and
+enhancing women’s voices and rights through their participation in PUGs and savings and credit
+cooperatives. Women strongly support the project as it will improve women’s quality of life and
+create an affordable, eco-friendly, and healthy living environment; safe and improved public
+infrastructure for education and work; and business, employment, and income opportunities for
+them and for their family members. A combined social and gender action plan has been developed
+and includes among others, the following gender targets: (i) equal gender participation in street
+development council management; (ii) 50% of State Housing Corporation’s housing units with
+female ownership; (iii) public buildings in inter-soum centers are equipped with gender-sensitive
+water, sanitation, and hygiene facilities; (iv) 100% of signed RUAs under the project include an
+annex that both spouses sign; (v) 20% female leadership in PUGs and 40% female participation
+in cooperatives; and (vi) GIRAF participating enterprises’ proposals include gender elements.
+
+E.       Safeguards
+
+31.     In compliance with ADB’s Safeguard Policy Statement (2009), the safeguard categories
+of project 1 are as follows.48
+
+32.  Environment (category B). The initial environmental examination and environmental
+management plans for project 1 were prepared along with the domestic general environmental
+
+45 The Green Gold project (footnote 10) showed that the PUG system serves as an institutional platform that enables
+
+   herders to influence local governments’ decision-making, resulting in improved herders’ representation in the citizens’
+   assembly, improved access to local and soum development funds, and land access for rangeland management.
+46 Increased value of agricultural products will compensate for the loss of revenue from reduced herd size.
+47 NSO. 2018. Mongolian Statistical Yearbook 2017. Ulaanbaatar.
+48 ADB. Safeguard Categories. https://www.adb.org/site/safeguards/safeguard-categories. Safeguards documents
+
+   mentioned in this section have been disclosed on the ADB website.
+                                                                                                        15
+
+
+impact assessment pursuant to the Safeguard Policy Statement and the Mongolian Law on
+Environmental Impact Assessment (2012). An environmental assessment and review framework
+was prepared for the program that will guide the screening and categorization, environmental
+assessment, and preparation and implementation of environmental safeguards for projects 2 and
+3, pursuant to the Safeguard Policy Statement and the Mongolian Law on Environmental Impact
+Assessment. The initial environmental examination and comprehensive aimag environmental
+management plans were prepared based on the feasibility design of project 1 and will be updated
+as required during detailed design. A detailed hydrological assessment will be undertaken during
+project 1 under the detailed design to confirm that extraction and use of surface and groundwater
+resources are carried out sustainably. Potential environmental impacts will be site-specific.
+Short-term disturbances that will arise from the construction of project subcomponents are
+insignificant and reversible. Construction-related disturbances such as noise, dust, soil erosion,
+surface water sedimentation, solid and liquid waste pollution, worker camp disturbances, reduced
+local access, traffic safety issues, and worker and public safety issues can be managed with
+standard construction practices and guidelines. To ensure effective environmental safeguards
+implementation, a capacity-building program for government implementing agencies, the PIU,
+and aimag-level PIUs, will be implemented.
+
+33.      The program will contribute to the government’s adaptation and mitigation agenda by
+(i) achieving a 121.4 million tCO2e reduction in total greenhouse gas emissions 49 (including
+94.0 million tCO2e from carbon sequestered in the soil, the rest will come from reduced methane
+and nitrous oxide from livestock, and carbon dioxide emissions in urban areas); (ii) improving the
+climate resilience of 550,000 people, including 54,000 vulnerable herder households; and
+(iii) restoring an estimated 28.8 million hectares of rangeland ecosystem.
+
+34.     Involuntary resettlement (category B). A resettlement framework was prepared for the
+program to guide screening and categorization, assessment of impacts, and preparation and
+implementation of land acquisition and resettlement plans (LARPs) pursuant to the Safeguard
+Policy Statement and Mongolia’s national requirements on land acquisition and resettlement. A
+LARP for project 1 was prepared based on the feasibility designs and in line with the resettlement
+framework. The LARP will be updated upon completion of the detailed design of the project.
+Project 1 will impact 26 residential households and three business entities. The total affected land
+area is 2,181 square meters in 21 land parcels, of which 20 would be partially affected and 1 fully
+affected. The institutional arrangements and grievance redress mechanism for resettlement
+implementation established under project 1 will remain effective for the subsequent projects.
+Consultants will support the PIU and aimag-level PIUs in preparing and implementing the LARPs.
+
+35.     Framework for voluntary participation in ger area development. Project 1 will provide
+access to urban services and better neighborhood living conditions through improved household
+connections to urban infrastructure and street development. Importantly, participation of
+beneficiary households in ger area development will be purely voluntary, without forced
+participation. A framework for voluntary participation has been prepared consistent with the
+Safeguard Policy Statement requirements on negotiated land acquisition and national
+requirements. Voluntary participation plans will be prepared and implemented for each of the
+street development subprojects to be taken up in the aimag centers.
+
+36.    Indigenous peoples (category C). The analysis of ethnic minority issues, focusing on
+the cases of Kazakh, Khoton, Tuva, and other ethnic groups, found that no differentiated impact
+
+49 Totalemission reduction over the program lifetime, excluding emission leakages (such as emissions during
+  construction) estimated at about 4 million tCO2e.
+16
+
+
+is expected on ethnic groups under project 1. An indigenous peoples planning framework was
+prepared for the MFF to guide the preparation of projects 2 and 3.
+
+37.     Financial intermediaries (category B). An environmental and social management
+system (ESMS) compliant with the Safeguard Policy Statement and the national requirements of
+Mongolia will be adopted, prior to loan disbursement, by each participating bank.50 The ESMS
+arrangement, prepared based on due diligence of the financial intermediaries, outlines
+(i) procedures to screen, assess, and address environment and social impacts from the FIL
+component, including provisions for adherence to core labor standards; (ii) institutional capacities
+required for implementing ESMS provisions; (iii) capacity-building and training requirements; and
+(iv) monitoring and reporting requirements to ensure effective implementation of the ESMS. The
+participating financial intermediaries will ensure that the FIL component will exclude any
+subproject classified as category A for environment safeguards, and any subproject classified as
+category A or B for involuntary resettlement and indigenous peoples safeguards.
+
+F.        Summary of Risk Assessment and Risk Management Plan
+
+38.      Significant risks and mitigating measures are summarized in Table 4 and described in
+detail in the risk assessment and risk management plan.51
+
+                           Table 4: Summary of Risks and Mitigating Measures
+Risks                                                            Mitigation Measures
+Lack of coordination among        To facilitate coordination between government agencies, an integrated PIU
+government agencies, especially   including aimag-level PIUs will be set up directly under MED and the projects
+between MOFALI and land           steering committee, comprised of representatives from aimag governments, the
+departments of selected aimags    European Union, MCUD, MED, Ministry of Environment and Tourism, Ministry of
+and soums                         Finance, and MOFALI.
+Financial sustainability adverselyConsultants will be engaged to provide capacity development and training on
+affected by lack of service       sustainable O&M of the new facilities, tariff setting, and financial management.
+providers’ financial management   Tariffs will be adjusted to cover O&M costs, and the government will cover any
+skills and insufficient utility tariff
+                                  funding gap if revenues from tariffs are insufficient to maintain compliance with
+adjustments                       the utilities' covenanted financial ratios.
+Insufficient financial management The PICS hired will work with MED, MCUD, MOFALI, and GIRAF manager to
+capacity of executing and         develop and fully operationalize an efficient financial management system for the
+implementing agencies             program.
+Insufficient capacity (and lack ofTraining programs (business planning, marketing, strategy, and technology) will
+technical capacity) of the privatebe delivered to targeted agribusinesses to strengthen their capacities. The
+sector (agri-cooperatives and     investment program will include construction of a business incubator in the agro-
+SMEs) to develop agribusinesses,  industrial park of each aimag and inter-soum center to build the capacity of the
+diversify livestock products, and private sector. The Mongolian National Chamber of Commerce and Industry will
+create economic opportunities     be actively involved in the management of the incubator and the preparation of
+                                  LCADPs.
+GIRAF = green and inclusive regional agribusiness fund; LCADP = low-carbon and climate-resilient agribusiness
+development plan; MCUD = Ministry of Construction and Urban Development; MED = Ministry of Economy and
+Development; MOFALI = Ministry of Food, Agriculture and Light Industry; O&M = operation and maintenance; PICS =
+program implementation support consulting services; PIU = project implementation unit.
+Source: Asian Development Bank.
+
+
+
+
+50 ESMS arrangement was prepared based on due diligence of XacBank and Khan Bank, which are both ADB clients.
+
+   It was found that they have adequate institutional capacity to implement the Safeguard Policy Statement’s procedural
+   and substantive requirements contained in the ESMS.
+51 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                               17
+
+
+                          V.      ASSURANCES AND CONDITIONS
+
+39.     The government and MED have assured ADB that implementation of the investment
+program shall conform to all applicable ADB policies, including those concerning anticorruption
+measures, safeguards, gender, procurement, consulting services, and disbursement as
+described in detail in the FAM and loan documents. The government and MED have given certain
+undertakings for the MFF, which are set forth in the framework financing agreement. Specific
+covenants agreed by the government and MED with respect to individual tranches under the MFF
+are set forth in the loan, grant, and project agreements for the respective tranches.
+
+                                 VI.     RECOMMENDATION
+
+40.     I am satisfied that the proposed multitranche financing facility would comply with the
+Articles of Agreement of the Asian Development Bank (ADB) and recommend that the Board
+approve the multitranche financing facility to Mongolia for the Aimags and Soums Green Regional
+Development Investment Program in an aggregate principal amount not exceeding the equivalent
+of $448,000,000, which comprises (i) the provision of loans from ADB’s ordinary capital resources,
+in regular terms, with interest and other terms to be determined in accordance with ADB’s Flexible
+Loan Product; (ii) the provision of loans from ADB’s ordinary capital resources, in concessional
+terms, with interest and other terms to be determined in accordance with ADB’s applicable policies
+relating to ordinary capital resources; (iii) the provision of grant from ADB’s Special Funds
+resources (Asian Development Fund); and (iv) the administration by ADB of the loan and grant to
+be provided by the Green Climate Fund; and is subject to such other terms and conditions as are
+substantially in accordance with those set forth in the framework financing agreement presented
+to the Board.
+
+                                                            Masatsugu Asakawa
+                                                            President
+
+1 March 2023
+18        Appendix 1
+
+
+
+        DESIGN AND MONITORING FRAMEWORK FOR THE INVESTMENT PROGRAM
+Impact the Investment Program is Aligned with
+Green development, regional development sustainability, quality of life, and human development achieved (Vision 2050:
+Long-Term Development Policy of Mongolia)a
+                                                                               Data Sources and          Risks and Critical
+Results Chain                  Performance Indicators                       Reporting Mechanisms            Assumptions
+Outcome          By 2034
+Green and        a. 3.036 million tons of carbon dioxide equivalent      a–b. ALAMGAC and National R: Changed
+inclusive agro- per annum avoided through soil carbon                    Agency for Meteorology and      government
+territorial      sequestration and methane, nitrous oxide, and           Environmental Monitoring        priorities shift
+development      carbon dioxide emissions reduced (2021 baseline:        externally verified MRV report, resources away
+advanced         0) (OP 3.1)                                             and MOFALI annual report on from supporting
+                                                                         livestock and land use          aimag development
+                 b. 28.8 million ha of rangeland restored and more
+                 sustainably managed (2021 baseline: 0) (OP 3.3.3)                                       A: EIB inputs and
+                                                                                                         outputs timely
+                 c. Climate and disaster resilience of 550,000 people c. ALAMGAC local land officer delivered
+                 strengthened (2021 baseline: 0) (OP 3.2, 3.3, 4.1)       and soum government report
+
+                  d. 500 SMEs or cooperatives and 1,000                d–e. Audited financial and
+                  microenterprises established under the GIRAF         operational reports from
+                  (2021 baseline: 0) (OP 1.2, 2.1, 5.2.3)              beneficiary enterprise or
+                                                                       qualified commercial bank,
+                  e. 11,400 direct green jobs created, of which 40%    and oversight reports from
+                  are filled by women (2021 baseline: 0) (OP 1.2, 2.1) FRC
+
+                  f. Number of livestock heads in targeted areas   f. National Statistics Office
+                  decreased by 2.5% per annum (2021 baseline: 2.5% annual data on livestock
+                  per annum growth)
+
+                  g. Wastewater treatment efficiency in targeted          g. Aimag water and
+                  aimag and soum centers improved to 90% (2021            wastewater operating
+                  baseline: 50% in targeted aimag centers and 0% in       companies’ measurement of
+                  targeted soum centers) (OP 4.3)                         biological oxygen demand
+                                                                          removal in the effluent
+                                                                          discharge in compliance with
+                                                                          Mongolian standards MNS
+                                                                          4943:2011
+Outputs           By 2033
+1. Climate-       1a. 35 km of urban roads built and 215.9 km of          1a–h. Mongolia state special    R: Reduced
+resilient, low-   connection roads improved; water supply capacity        inspection monitoring report,   cooperation and
+carbon, and       increased by 3,000 cubic meters per hour; 25 km of      and aimag and soum              coordination
+attractive        water supply pipes laid; 35 km of sewerage network      governments' report on          among the project
+aimag and         laid; 16 km of district heating pipes laid; 135 km of   urban construction              key stakeholders
+soum centers      power lines built; 20 km of drainage built; 173.5 km
+developed         of optical cable laid; 10.2 megawatts from solar                                        R: Rising world
+                  panels installed; 10 km flood protection                                                prices of energy
+                  infrastructure built; and 1,230 ha of solid waste                                       and construction
+                  dump site cleared (2021 baseline: 0)b (OP 4.1.2)                                        materials
+                                                                                                          significantly
+                  1b. Existing open dump site cleaned and closed,                                         increase the
+                  and municipal as well as agrobusiness solid waste                                       project's
+                  segregated and safely disposed of at new landfills                                      investment and
+                  (that includes recycling facilities for livestock and                                   operation and
+                  agricultural waste) in 12 aimag and soum centers                                        maintenance costs
+                  (2021 baseline: 0) (OP 4.1.1)
+                                                                                                          A: Significant
+                  1c. Pilot for ger area streets upgrading implemented                                    interest from
+                  and replicated (2021 baseline: 0) (OP 3.1.3, 4.1.2)                                     herders’
+                                                                                                          cooperatives and
+                  1d. 150 ha of agro-industrial parksc developed and                                      private sector to
+                                                                                                    Appendix 1      19
+
+
+                                                                              Data Sources and           Risks and Critical
+Results Chain                 Performance Indicators                        Reporting Mechanisms           Assumptions
+                12 agribusiness incubators operating in targeted                                         participate in
+                locations, with at least 40% of workspaces allocated                                     project activities
+                to women-led and/or owned businesses (2021
+                baseline: 0) (OP 5.2.3)                                                                  A: Compliance with
+                                                                                                         the program road
+                1e. 12 domestic WWTPs with a total capacity of                                           map
+                30,000 m3/d meet Mongolian standards; and 12
+                agro-industrial park WWTPs with a total capacity of                                      A: Timely delivery
+                12,500 m3/d constructed and/or upgraded (2021                                            of EIB inputs and
+                baseline: 0) (OP 4.1.2, 4.3.1)                                                           outputs
+
+                1f. Heat metering and associated consumption-
+                based tariffs implemented in targeted aimag and
+                soum centers (2021 baseline: 0) (OP 4.1.1, 6.2)
+
+                1g. Smart land management and climate-responsive
+                digital center built (2021 baseline: 0) (OP 3.3.3, 4.2)
+
+                1h. At least 6 education facilities improved with
+                gender-sensitived WASH facilitiese (2021 baseline:
+                0) (OP 2.4.1, 4.1.2)
+
+                1i. 300,000 person-months of employment
+                opportunities during project construction created, of     1i. Contractors' annual
+                which 20.0% are filled by women (2021 baseline:           employment records
+                17.2% of women in the construction sector) (OP
+                1.2, 2.1)
+
+2. Climate-      By 2033
+resilient, high- 2a. At least 180 PUGs and herder groups signed     2a. Aimag and soum
+carbon           (by both spouses) the updated RUA and sustainable governments’ monitoring data
+sequestration, and inclusive pasture management plan and            on land management, and
+and sustainable benefited from CPP activities, with 45% female      ALAMGAC RUA registration
+rangeland and participation (2021 baseline: 0) (OP 5.1, 6.2.4)      data system
+agricultural
+management       2b. 60 PUG-based cooperatives established, with at 2b. Aimag and soum
+implemented      least 30% led by women;f and 12 aimag and inter-   governments' reports, and
+                 soum centers, 6 aimags, and 1 regional cooperative MOFALI annual reports on
+                 organized (2021 baseline: 23%) (OP 2.3, 5.1)       cooperatives
+
+                2c. 10 disease-free establishments and 12 aimag-,     2c–d. Aimag and soum
+                and inter-soum-level veterinary laboratories built    governments' reports on
+                (2021 baseline: 0) (OP 5.2.4)                         livestock and rural
+                                                                      development, and Mongolia
+                2d. Primary works for the irrigated perimeter of at   State Special Inspection
+                least 2,500-ha fodder and crop farms built, including monitoring reports
+                ecosystem-based water harvesting and
+                conservancy solutions (2021 baseline: 0) (OP 3.3.2,
+                3.3.5, 5.1.1)
+
+                2e. 45,000 person-months of employment                    2e. Contractors' annual
+                opportunities during project construction created, of     employment records
+                which 20% are filled by women (2021 baseline: 0)
+                (OP 1.2)
+20        Appendix 1
+
+
+                                                                                 Data Sources and            Risks and Critical
+Results Chain                    Performance Indicators                        Reporting Mechanisms            Assumptions
+3. Accessible       By 2033
+financing for       3a. Under window 1, loans, subloans, or loans plus       3a–e. Audited financial and
+low-carbon and      credit risk guarantees of at least $50 million           operational reports from
+climate-resilient   provided for SME investments, of which at least          beneficiary enterprises or
+livestock and       30% led by women, in targeted aimag and inter-           qualified commercial banks,
+agrobusiness        soum centers, through PUGs and herder groups             and oversight reports from
+value chains        (2021 baseline: 0)g (OP 1.3.2, 5.2.3)h                   FRC
+created
+(financial          3b. Under window 2, loans, subloans, or loans plus
+intermediation      credit risk guarantee of at least $60 million provided
+loan                for medium and large investments in targeted aimag
+component)          and inter-soum centers, through PUGs and herder
+                    groups (2021 baseline: 0) (OP 1.3.2, 5.2.3)i
+
+                    3c. Under window 3, 1,000 micro green loans
+                    approved (2021 baseline: 0) (OP 1.3.2)
+
+                    3d. 100 partnership agreements signed with SMEs,
+                    of which at least 30% led by women, investing in
+                    pre-processing facilities (2021 baseline: 0) (OP
+                    2.1.3, 5.2.3)
+
+                    3e. At least $5 million reimbursable grants from
+                    Green Innovation Grant Facility provided to qualified
+                    investors to promote green and inclusive
+                    innovations in agribusiness (2021 baseline: 0) (OP
+                    5.2.3)
+
+4. Institutional    By 2032
+capacity and        4a. By 2032, at least 180 (PUG-level) PIHMPs and         4a–d. MOFALI policy
+policies for        at least 60 (soum-level) low-carbon and climate-         department reports, and local
+low-carbon and      resilient agribusiness development plans developed       governments' reports on urban
+climate-            and consolidated into at least 10 aimag level and 3      construction and economic
+resilient agro-     regional-level agro-territorial development plans        development
+territorial         (2021 baseline: 0) (OP 6.1.2)
+development
+strengthened        4b. By 2025, traceability and certification systems at
+                    herder-, PUG-, and cooperative-levels operational,
+                    with 40% of targeted herder groups and PUGs
+                    certified (2021 baseline: 0) (OP 5.2.4)
+
+                    4c. By 2032, at least 180 community-based animal
+                    health workers trained, of which 95% report
+                    improved knowledge and skills on veterinary
+                    services and 50% are women (2021 baseline: 0)
+                    (OP 5.3.1)
+
+                    4d. By 2032, 6 national policies for rangeland and
+                    agricultural management and green territorial
+                    development prepared and implemented, and 2
+                    policy recommendations included in the Mongolian
+                    Livestock 2 program (2021 baseline: 0) (OP 3.3.2,
+                    6.1.2)j
+
+                    4e. By 2025, business plan and technical                 4e. FRC and project
+                    specification template for investments supported by      implementation reports
+                    GIRAF developed; and training programs for
+                    agribusiness development held, of which 40% are
+                    women (2021 baseline: 0) (OP 2.1.1)
+                                                                                                   Appendix 1         21
+
+
+Key Activities with Milestones
+1. Climate-resilient, low-carbon, and attractive aimag and soum centers developed
+1.1 Complete infrastructure and detailed architectural design (2024–2030)
+1.2 Pilot the ger area street development voluntary participation (2024–2026)
+1.3 Procure goods and works (2024–2031)
+1.4 Construct, supervise, and commission infrastructure, and socioeconomic facilities (2026–2033)
+2. Climate-resilient, high-carbon sequestration, and sustainable rangeland and agricultural management
+implemented
+2.1 Engage and consult with herders, PUG, and herder groups to ensure their participation (2024–2032)
+2.2 Complete detailed design for irrigated perimeters and storage facilities (2024–2030)
+2.3 Prepare and sign PUG and herder groups' RUA including PIHMP (2024–2032)
+2.4 Establish or upgrade cooperatives (2025–2033)
+2.5 Procure goods and works (2025–2031)
+2.6 Procure and implement CPP (2025–2033)
+2.7 Construct, supervise, and commission infrastructure (2026–2033)
+3. Accessible financing for low-carbon and climate-resilient livestock and agrobusiness value chains created
+(financial intermediation loan component)
+3.1 Establish the GIRAF (2024–2025)
+3.2 Finalize the green and inclusive agri-value chain development plan (2024–2030)
+3.3 Reach out to local businesses and receive bidding proposals for financing (2025–2032)
+3.4 Short-list commercial banks (2025–2031)
+3.5 Establish and implement environmental and social management system for each commercial bank (2025–2032)
+3.6 Select proposals for financing (2025–2032)
+3.7 Construct production and logistic facilities or establish businesses (2025–2032)
+4. Institutional capacity and policies for low-carbon and climate-resilient agro-territorial development
+strengthened
+4.1 Capacity building and policy reforms
+4.1a Train and increase capacity of PIU staff, targeted institutions, and all related stakeholder in the agriculture sector
+on project implementation safeguards and due diligence (2024–2031)
+4.1b Implement policy and sector reforms (2024–2032)
+4.2 Detailed design and supervision
+4.2a Hire detailed design and supervision consulting services (2023–2028)
+4.2b Prepare feasibility study for tranches 2 and 3 (2026–2029)
+4.2c Complete detailed design of all civil works under project 1 and update safeguard documents, including the initial
+environmental examination, land acquisition and resettlement plans, and voluntary participation plans (2025–2030)
+4.2d Supervise civil works construction and monitor implementation of safeguard provisions (2025–2033)
+4.2e Implement policy and sector reforms (2025–2032)
+4.3 Rangeland management
+4.3a Hire consulting services (2023–2028)
+4.3b Engage with herders, herder groups, and PUGs (2024–2032)
+4.3c Complete detailed design of irrigated perimeters and disease-free facilities (2023–2029)
+4.3d Train PUGs and herder groups and implement CPP activities (2023–2031)
+4.3e Train cooperatives (2025–2032)
+4.3f Implement policy and sector reforms (2025–2032)
+4.4. Green agribusiness finance
+4.4a Hire consulting services (2023–2029)
+4.4b Develop standards, guidelines, and regulations for GIRAF (2024–2025)
+4.4c Implement policy and sector reforms (2025–2032)
+Investment Program Management Activities
+Establish and fully staff the PIU.
+Hire project implementation and management support consulting services.
+Fully train PIU staff on ADB safeguards, due diligence, procurement, and financial management.
+Perform day-to-day management and supervision during program implementation.
+Coordinate with government agencies, aimag governments, and other involved parties for program implementation.
+Manage consulting services, monitor deadlines for procurement packages, and implement key procurement activities.
+Monitor civil works and infrastructure implementation.
+Meet targets in the design and monitoring framework, social and gender action plan, consultation and participation
+plan, stakeholder communication strategy, and facility administration manual.
+Complete and operate sex-disaggregated project performance management system and comprehensive MRV system.
+Prepare and submit ADB, EIB, and Green Climate Fund relevant progress, safeguards, and financial audit reports.
+Conduct inception, annual, midterm, and final review missions.
+Prepare tranches 2 and 3, including due diligence (tranche 2 by 2025 and tranche 3 by 2027).
+ 22       Appendix 1
+
+
+  Inputs
+  ADB ordinary capital resources: $135.0 million (regular loan)
+  ADB ordinary capital resources: $135.0 million (concessional loan)
+  ADB Special Funds resources (Asian Development Fund): $3.0 million (grant)
+  Green Climate Fund: $130.0 million (loan)
+  Green Climate Fund: $45.0 million (grant)
+  European Investment Bank: $150.0 million (loan)
+  European Investment Bank: $30.0 million (grant)
+  Government of Mongolia: $75.3 million
+  Commercial banks/Private sector: $25.0 million
+  Beneficiaries: $6.7 million
+A = assumption; ADB = Asian Development Bank, ALAMGAC = Agency for Land Management and Administration,
+Geodesy and Cartography; CPP = community participation in procurement; EIB = European Investment Bank; FRC =
+Financial Regulatory Commission; GIRAF = green and inclusive regional agribusiness fund; ha = hectare; km =
+kilometer; m2 = square meter; m3/d = cubic meter per day; MOFALI = Ministry of Food, Agriculture and Light Industry;
+MRV = measurement, reporting, and verification; OP = operational priority; PIHMP = participatory and inclusive herd
+management plan; PIU = project implementation unit; PUG = pasture user group; R = risk; RUA = rangeland use
+agreement; SMEs = small and medium-sized enterprises; WASH = water, sanitation, and hygiene; WWTP = wastewater
+treatment plant.
+a State Great Khural. 2020. Vision 2050: Long-Term Development Policy of Mongolia. Ulaanbaatar.
+b Excludes agro-industrial park infrastructure.
+c Agro-industrial park is a comprehensive complex with full provision of engineering infrastructure for transportation,
+
+   logistics, trading, processing, and manufacturing services to support the transformation and the trade of green
+   livestock and agricultural raw materials, and promote green food manufacturing and food safety.
+d A gender-sensitive public space refers to urban designs where women feel comfortable using the public space and is
+
+   adapted to the needs and demands of both women and men.
+e Gender-sensitive WASH facilities have at least the following characteristics: separate male and female toilets with
+
+   separate washbasins and bins, adequate lighting and privacy, and facilities adapted to young women/girls, including
+   those with disabilities.
+f Cooperatives "led by women" must have (i) at least 51% female representation on the board, or (ii) a female executive
+
+   director or board president and at least 30% female representation on the board. Swiss Agency for Development and
+   Cooperation. 2021. Sustainably Managed Pastures and Healthy Animals: Mongolia's 'Green Gold'.
+g SMEs led by women refer to those owned and managed by women. Proxy baseline was from the results of 2019
+
+   World Bank Mongolia Enterprise Surveys: (i) 43.7% of firms have female participation in ownership, of which 45.9%
+   are small, 40.0% are medium, and 32.4% are large firms; and (ii) 38.9% of firms have a female top manager, of which
+   44.4% are small, 26.9% are medium, and 24.4% are large firms. Men are predominant in large-scale business
+   operations while women lead small businesses. Women are predominant in service-oriented industries and retailing
+   and less involved in livestock agribusiness operations targeted by the program. Survey results by sector are
+   not available.
+h Window 1 will support SMEs processing livestock products, commercial and logistic investments for retail and exports,
+
+   and other forms of economic diversification.
+i Window 2 will support qualified medium- and large-scale enterprises involved in livestock production, processing,
+
+   distribution, and marketing, and engaged in international trade.
+j MOFALI Minister Order No. A/177, June 2022, following the Mongolian National Livestock Program.
+
+Contribution to Strategy 2030 Operational Priorities
+The expected values and methodological details for all OP indicators to which this operation will contribute results are
+detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in Appendix
+2). In addition to the OP indicators tagged in the design and monitoring framework, this operation will contribute results
+for:
+OP 1.3 Poor and vulnerable people with improved standards of living (number)
+OP 7.3.1 Measures to improve shared capacity of developing member countries to mitigate or adapt to climate change
+            supported in implementation (number)
+OP 7.3.3 Measures to improve regional public health and education services supported in implementation (number)
+Source: ADB.
+                                                                        Appendix 2      23
+
+
+                             LIST OF LINKED DOCUMENTS
+                  http://www.adb.org/Documents/RRPs/?id=49430-005-3
+
+1.    Loan Agreement: Ordinary Operations
+2.    Loan Agreement: Ordinary Operations (Concessional)
+3.    Grant Agreement: Special Operations
+4.    Grant Agreement: Externally Financed
+5.    Loan Agreement: ADB Green Climate Fund
+6.    Framework Financing Agreement
+7.    Periodic Financing Request for Project 1
+8.    Sector Assessment (Summary): Water and Other Urban Infrastructure and Services;
+      and Agriculture, Natural Resources, and Rural Development
+9.    Comparison of Financing Modality
+10.   Facility Administration Manual
+11.   Contribution to Strategy 2030 Operational Priorities
+12.   Development Coordination
+13.   Financial Analysis
+14.   Economic Analysis
+15.   Country Economic Indicators
+16.   Summary Poverty Reduction and Social Strategy
+17.   Draft Environmental Assessment and Review Framework
+18.   Draft Resettlement Framework
+19.   Draft Indigenous Peoples Planning Framework
+20.   Risk Assessment and Risk Management Plan
+21.   Climate Change Assessment
+22.   Social and Gender Action Plan for Project 1
+23.   Draft Initial Environmental Examination
+24.   Draft Resettlement Plan
+25.   Draft Resettlement Framework: Framework for Voluntary Participation
+      in Ger Area Development—Providing Access to Urban Services
+      through Household Connections and Development of Streets in Ger
+      Areas
+26.   Environmental and Social Management System Arrangement
+Supplementary Document
+27.   Detailed Economic Analysis
+

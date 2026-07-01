@@ -1,0 +1,1340 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+INTERNAL
+
+Project Number: 55201-001
+October 2022
+
+
+
+
+Proposed Loans and Grant
+People’s Republic of Bangladesh: Coastal Towns
+Climate Resilience Project
+
+
+
+
+Distribution of this document is limited until it has been approved by the Board of Directors.
+Following such approval, this document will be reclassified as public and disclosed in accordance
+with ADB’s Access to Information Policy.
+
+
+.
+                            CURRENCY EQUIVALENTS
+                             (as of 14 September 2022)
+
+          Currency unit      –     taka (Tk)
+                Tk1.00       =     $0.010
+                 $1.00       =     Tk95.8516
+
+
+                                  ABBREVIATIONS
+
+       ADB                  –        Asian Development Bank
+       ADF                  –        Asian Development Fund
+       COVID-19             –        coronavirus disease
+       EMP                  –        environmental management plan
+       EWCD                 –        elderly (older persons), women, children, and persons with
+                                     disabilities
+       GESI                 –        gender equality and social inclusion
+       IEE                  –        initial environmental examination
+       IWM                  –        integrated waste management
+       LGED                 –        Local Government Engineering Department
+       NbS                  –        nature-based solutions
+       O&M                  –        operation and maintenance
+       OCR                  –        ordinary capital resources
+       PAM                  –        project administration manual
+       PIU                  –        project implementation unit
+       PMU                  –        project management unit
+       SDG                  –        Sustainable Development Goal
+       SEC                  –        small ethnic communities
+
+
+                                        NOTES
+
+(i)     The fiscal year (FY) of the Government of Bangladesh and its agencies ends on
+        30 June. “FY” before a calendar year denotes the year in which the fiscal year
+        ends, e.g., FY2022 ends on 30 June 2022.
+
+(ii)    In this report, “$” refers to United States dollars.
+Vice-President              Shixin Chen, Operations 1
+Director General            Kenichi Yokoyama, South Asia Department (SARD)
+Deputy Director General     Manmohan Parkash, SARD
+Director                    Norio Saito, Urban Development and Water Division (SAUW),
+                               SARD
+
+Team leaders                Laxmi Sharma, Senior Urban Development Specialist, SAUW,
+                                SARD
+                            Arghya Sinha Roy, Principal Climate Change Specialist (Climate
+                                Change Adaptation), Climate Change and Disaster Risk
+                                Management Division, Sustainable Development and Climate
+                                Change Department (SDCC)
+Team members                Achyutha Rao Aleti, Environment Specialist, SAUW, SARD
+                            Mikael Andersson, Financial Management Specialist, Portfolio,
+                                 Results and Quality Control Unit, Office of the Director
+                                 General, SARD
+                            Saswati Belliappa, Senior Safeguards Specialist; SAUW, SARD
+                            Urmee Bhattacharjee, Associate Project Analyst, Bangladesh
+                                Resident Mission (BRM), SARD
+                            Liming Chen, Urban Economist, SAUW, SARD
+                            Marjana Chowdhury, Senior Water Resources Officer, BRM, SARD
+                            Henry A. Cornwell, Counsel, Office of the General Counsel
+                            Dharmesh Mahendra Dawda; Senior Procurement Specialist;
+                                Procurement Division 1; Procurement, Portfolio and Financial
+                                Management Department
+                            Prabhjot Rehan Khan, Social Development Specialist (Gender and
+                                Development), Sustainable Development Thematic Cluster–
+                                Gender, SDCC
+                            Jennifer D. Lazatin, Senior Operations Assistant, SAUW, SARD
+                            Sourav Majumder, Senior Project Officer (Urban), India Resident
+                                Mission, SARD
+                            SA Abdullah AI Mamun, Senior Project Officer (Urban
+                                Infrastructure), BRM, SARD
+                            Donna Marie R. Melo, Operations Assistant, SAUW, SARD
+                            Sunghoon Kris Moon, Urban Development Specialist, Urban Sector
+                                Group, SDCC
+                            Santosh Pokharel, Senior Private Sector Development Specialist,
+                                Sri Lanka Resident Mission, SARD
+                            Nasheeba Selim, Senior Social Development Officer, BRM, SARD
+                            Virinder Sharma, Principal Urban Development Specialist, Urban
+                                Sector Group, Sector Advisory Service Cluster, SDCC
+                            Pushkar Srivastava, Project Management Specialist, BRM, SARD
+                            Noime S. Walican, Associate Safeguards Officer, SAUW, SARD
+                            Sheryl V. Yanez, Project Analyst, SAUW, SARD
+Peer reviewer               Stefan Rau, Senior Urban Development Specialist, Urban and
+                                Social Sectors Division, East Asia Department
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                     CONTENTS
+
+                                                                   Page
+PROJECT AT A GLANCE
+MAP
+I.     THE PROPOSAL                                                   1
+II.    THE PROJECT                                                    1
+       A.   Rationale                                                 1
+       B.   Project Description                                       5
+       C.   Value Added by ADB                                        7
+       D.   Summary Cost Estimates and Financing Plan                 7
+       E.   Implementation Arrangements                               9
+III.   DUE DILIGENCE                                                 10
+       A.    Technical                                               10
+       B.    Economic and Financial Viability                        10
+       C.    Sustainability                                          11
+       D.    Governance                                              11
+       E.    Poverty, Social, and Gender                             12
+       F.    Safeguards                                              13
+       G.    Summary of Risk Assessment and Risk Management Plan     14
+IV.    ASSURANCES AND CONDITIONS                                     15
+V.     RECOMMENDATION                                                15
+
+APPENDIXES
+1.     Design and Monitoring Framework                               16
+2.     List of Linked Documents                                      20
+                                                                                          Project Classification Information Status: Complete
+
+
+                                                      PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                      Project Number: 55201-001
+       Project Name                    Coastal Towns Climate Resilience Project       Department/Division SARD/SAUW
+       Country                         Bangladesh                                     Executing Agency      Local Government
+       Borrower                        People's Republic of Bangladesh                                      Engineering Department,
+                                                                                                            Ministry of Local
+       Country Economic                https://www.adb.org/Documents/LinkedDocs/                            Government, Rural
+       Indicators                      ?id=55201-001-CEI                                                    Development, and
+       Portfolio at a Glance           https://www.adb.org/Documents/LinkedDocs/                            Co-operatives
+                                       ?id=55201-001-PortAtaGlance
+
+    2. Sector                          Subsector(s)                                                       ADB Financing ($ million)
+       Water and other urban           Other urban services                                                                 38.30
+       infrastructure and services     Urban flood protection                                                               96.00
+                                       Urban policy, institutional and capacity development                                 29.30
+                                       Urban slum development                                                                 7.00
+                                       Urban solid waste management                                                         10.10
+       Transport                       Urban roads and traffic management                                                   69.30
+                                                                                                      Total                250.00
+    3. Operational Priorities                                                         Climate Change Information
+       OP1: Addressing remaining poverty and reducing inequalities                    GHG reductions (tons per                     6,041
+       OP2: Accelerating progress in gender equality                                  annum)
+       OP3: Tackling climate change, building climate and disaster resilience, and    Climate Change impact on the                   High
+       enhancing environmental sustainability                                         Project
+       OP4: Making cities more livable
+                                                                                      ADB Financing
+       OP6: Strengthening governance and institutional capacity
+                                                                                      Adaptation ($ million)                      226.00
+                                                                                      Mitigation ($ million)                        1.20
+
+                                                                                      Cofinancing
+                                                                                      Adaptation ($ million)                         0.00
+                                                                                      Mitigation ($ million)                         0.00
+       Sustainable Development Goals                                                  Gender Equity and Mainstreaming
+       SDG 5.5                                                                        Gender Equity (GEN)
+       SDG 11.1, 11.3, 11.5, 11.6, 11.7, 11.b
+       SDG 13.a                                                                       Poverty Targeting
+       SDG 14.1                                                                       Geographic Targeting
+       SDG 16.7
+
+    4. Risk Categorization:            Complex
+.
+
+
+    5. Safeguard Categorization                   Environment: B Involuntary Resettlement: B Indigenous Peoples: B
+.
+
+
+    6. Financing
+        Modality and Sources                                                                  Amount ($ million)
+        ADB                                                                                                                     250.00
+           Sovereign Sector grant: Asian Development Fund                                                                         4.00
+           Sovereign Sector (Concessional Loan): Ordinary capital resources                                                     150.00
+           Sovereign Sector (Regular Loan): Ordinary capital resources                                                           96.00
+        Cofinancing                                                                                                               0.00
+           None                                                                                                                   0.00
+        Counterpart                                                                                                              60.00
+           Government                                                                                                            60.00
+        Total                                                                                                                   310.00
+
+       Currency of ADB Financing: US Dollar
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.      16092022145905710904                            Generated Date: 18-Oct-2022 15:43:24 PM
+                                        I.       THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on proposed loans
+and a proposed grant to the People’s Republic of Bangladesh for the Coastal Towns Climate
+Resilience Project.
+
+2.       The project will strengthen the climate resilience of 22 coastal towns by enhancing their
+ability to anticipate, absorb, accommodate, and recover from the effects of climate shocks and
+stresses, including through interventions targeted at the poor and women. The project will (i)
+improve priority municipal infrastructure and essential services that are critical for improving
+climate and disaster resilience and local economic development in project towns; (ii) enhance the
+livelihood resilience and adaptive capacity of vulnerable households through the graduation
+program in six project towns with high poverty levels; and (iii) strengthen institutional capacity,
+governance, and climate awareness. The project will support the Government of Bangladesh in
+achieving integrated and sustainable urban development to improve the livability of coastal towns
+in the face of increasing climate-related disaster risks.
+
+                                          II.     THE PROJECT
+
+A.      Rationale
+
+3.      Climate and disaster risk. Bangladesh faces one of the highest disaster risk levels in the
+world, with high exposure to multiple climate-related hazards. These natural hazards interact with
+physical and socioeconomic factors, including low-lying delta and coastal areas, high population
+density and poverty rates, and lack of resilient infrastructure, with widespread impacts on both
+rural areas and expanding urban centers. Climate change is projected to alter precipitation
+patterns to unprecedented extremes, raise average temperatures, and increase the intensity and
+frequency of severe tropical cyclones leading to increased storm surges. Sea level rise is
+projected to further exacerbate the impact of storm surges in low-lying coastal regions. Estimates
+suggest that the effects of climate change could cause an average loss of about 1.3% in the
+growth of gross domestic product per year until 2041. 1 In the business-as-usual scenario, about
+11 million households in Bangladesh will be affected by climate change in 2024. The number of
+affected households is expected to rise to 22 million and 30 million in 2028 and 2030,
+respectively. 2
+
+4.      Coastal towns and climate risk. Coastal towns have high levels of hazard, exposure,
+and vulnerability to climate-related disasters because of factors including low elevation, high
+population density, high poverty rates, and limited capacity of pourashavas (local governments)
+to invest in resilience. Urban development related decisions being taken today will determine the
+severity of longer-term risks in coastal areas. Study shows that without climate adaptation
+measures, an estimated 2.5 million–7.2 million people annually will be affected by coastal flooding
+in Bangladesh from 2070 to 2100. 3 The project towns are in 10 coastal districts of Bangladesh
+and are very low-lying, with mean elevations of 2–12 meters (m) above sea level. 4 They face high
+exposure to flooding, tropical cyclones and storm surges, drought, and extreme heat. Most of
+
+1 Government of Bangladesh, Ministry of Planning, Bangladesh Planning Commission, General Economic Division.
+  2020. Making Vision 2041 a Reality – Perspective Plan of Bangladesh, 2021–2041. Dhaka.
+2 F. Khatun and S. Saadat. 2021. Climate Change in Bangladesh: A Sustainable Development Perspective. Dhaka.
+3 K. Richardson. 2014. Human Dynamics of Climate Change: Technical Report. United Kingdom: The Met Office.
+4 Government of Japan, Ministry of Economy, Trade, and Industry; and the United States National Aeronautics and
+
+  Space Administration. 2019. Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) Global
+  Digital Elevation Map (Model Version 3).
+2
+
+
+these low-lying coastal areas have a population density of more than 500 people per square
+kilometer and some have more than 1,000 people per square kilometer. 5 Poverty rates range
+from 15.6% to 43.9% in the project towns. 6 Rapid unplanned development, which compromises
+natural drainage systems and wetlands; inadequate stormwater drainage facilities; and poor solid
+waste management contribute to increased climate-related disaster risks. The coastal towns face
+inadequate basic municipal infrastructure for climate resilience, limited adaptive capacity of their
+low-income and vulnerable communities, and capacity and governance constraints at various
+levels. Surmounting these challenges requires investments in climate adaptation to enable the
+project towns to achieve their development potential.
+
+5.        Inadequate basic municipal infrastructure for climate resilience. The project towns,
+all of which are in coastal areas of Bangladesh lack adequate infrastructure for coping with flood
+and cyclone risks. During 2002–2021, 34 flooding events occurred in Bangladesh. 7 The frequency
+and intensity of such events is expected to increase. Climate projections indicate the number of
+days with very heavy precipitation (20 millimeters or more per hour) could increase by almost 10
+days on average from 1990 to 2100, increasing the risk of flooding. 8 Rapid and haphazard
+urbanization, limited consideration of hydrology, and lack of climate and disaster risk-informed
+urban development plans result in encroachment on waterways, reducing their retention capacity.
+Capacity limitations, siltation, and dumping of solid waste in drains have caused severe flooding
+and extended waterlogging. All project towns are served by on-site sanitation. 9 Most toilets are
+pit latrines, which are susceptible to inundation by stormwater. Project towns generate 255.2 tons
+of waste per day. The average collection efficiency in these towns is 40%, and collected waste is
+disposed of in a dump site or low-lying area. 10 Poor and nonexistent solid waste and septage
+management systems result in polluted waterways and high public health risks. Further, water
+supply services suffer from increasing saline intrusion because of rising sea levels and
+unsustainable groundwater extraction. Of the 22 project towns, 14 have a piped water supply
+service coverage of less than 40%. 11 Inadequate basic municipal infrastructure to respond to
+increasing climate risk threatens both quality of life and the economic growth of coastal towns.
+This calls for an integrated approach for coastal town development that promotes risk-informed
+planning and investment for building resilience.
+
+6.      Limited adaptive capacity of low-income and vulnerable communities. The urban
+poor of project towns tends to rely on agriculture- and fishery-based livelihoods, which are highly
+vulnerable to climate impacts. Their disproportionate exposure to climate impacts results in
+livelihood disruption and loss of physical, financial, human, social, and natural assets. Such
+events often lead to negative coping strategies such as using personal savings, limiting food
+consumption, selling assets, reducing non-food expenditure, and borrowing money at high
+interest rates, which may impact long-term well-being and exacerbate poverty. Among the urban
+poor, climate vulnerability varies between women and men, with women typically facing higher
+levels of vulnerability because of preexisting gender norms; engagement in the informal economy;
+
+5  Columbia University. Center for Earth Science Information Network. Socioeconomic and Data Applications Center.
+6  Bangladesh Bureau of Statistic and World Food Programme. 2016. Poverty Maps of Bangladesh 2016. Dhaka;
+   Household income below Tk12,887.6 per month for an average household size of 4.4.
+7 Centre for Research on the Epidemiology of Disasters, Université catholique de Louvain. Emergency Database (EM-
+
+   DAT): The International Disaster Database. https://public.emdat.be/ (accessed 18 September 2022).
+8 World Health Organization. 2015. Climate and Health Country Profile – 2015 Bangladesh. Geneva.
+9 S. Rahman and M. Rahman. 2015. Climate Extremes and Challenges to Infrastructure Development in Coastal Cities
+
+   in Bangladesh. Weather and Climate Extremes. 7. pp. 96–108.
+10 Waste Concern. 2021. Waste Data Base of Bangladesh – A report prepared for Department of Environment,
+
+   Government of Bangladesh. Dhaka (unpublished).
+11 Government of Bangladesh, Department of Public Health Engineering. 2020. Water Supply in 22 Project
+
+   Pourashavas: report based on data submitted by individual pourashavas in 2020. Dhaka (unpublished).
+                                                                                                                       3
+
+
+and limited access to productive assets, finance, skills, and awareness. These effects can be
+mitigated by adopting a package of targeted resilient livelihood improvement strategies that aim
+to reduce the resilience gaps of women by incorporating gender equality and social inclusion
+(GESI)-sensitive measures. These measures can protect the most vulnerable, promote equality,
+and foster community resilience. Similarly, providing women, the poor, and vulnerable
+communities with access to early warning information, cyclone shelters with safe spaces for
+women, and evacuation routes increases their preparedness and minimizes casualties during
+disasters. 12 However, the few cyclone shelters in the project towns are often structurally weak
+and poorly maintained; do not always incorporate inclusive design features to meet the needs of
+the elderly (older persons), women, children, and persons with disabilities (EWCD); and have
+limited EWCD access because of the poor condition of emergency access roads. Thus, there is
+a critical need for higher-capacity, GESI-sensitive multipurpose cyclone shelters that are (i)
+designed to meet EWCD’s needs and green building design features; (ii) equipped with alternative
+power and water sources; and (iii) located away from hazard-prone areas, and accessible to all.
+
+7.      Capacity constraints. Project towns’ high vulnerability is also linked to weak governance
+and low adaptive capacity of local governments and communities. Addressing climate and
+disaster risks requires moving beyond business-as-usual urban development and using GESI-
+responsive climate and disaster risk information as a starting point for evidence-based decision-
+making for integrated urban development. National and local government institutions’ capacity to
+build resilience is improving, but gaps exist, especially in relation to citywide climate and disaster
+risk assessment to inform integrated urban development plans, GESI-responsive climate risk
+assessment in routine and periodic infrastructure maintenance processes, and participatory
+processes to develop and implement city-level emergency preparedness. There is an urgent need
+to strengthen institutional capacity and governance, public awareness, the participation of
+vulnerable households, and the social capital of poor women to complement physical investments
+as part of an integrated approach to building climate resilience.
+
+8.        Government strategy. The government recognizes the need to address climate risk in
+achieving the country’s development aspirations. The government’s Delta Plan 2100 provides an
+inter-sectoral approach to addressing climate risk. 13 The plan outlines policies for hotspots that
+are focused on flood risk management and freshwater conservation. 14 Coastal zones and urban
+areas are identified as two of six hotspots. The government’s Eighth Five-Year Plan July 2021–
+June 2025 emphasizes the need to scale up climate actions by local governments, undertake
+gender-focused climate actions, address climate-induced migration issues through improvements
+in livelihoods in cities, and increase commitments to green solutions. 15 The project aligns with the
+priorities of the government’s climate and urban development and international commitments. 16
+
+12 Asian Development Bank (ADB). 2014. Coastal Towns Environment Infrastructure Project. Manila; and ADB. 2018.
+
+  Coastal Towns Environment Infrastructure Project-Additional Financing. Manila.
+13 Government of Bangladesh. 2018. Delta Plan 2100: Bangladesh in the 21st Century Dhaka. Climate actions include
+
+   the National Adaptation Programme of Action (2005); the Climate Change Trust Act 2010; the Bangladesh Climate
+   Change Strategy and Action Plan (2009); the Intended National Determined Contribution (2015); the Climate Change
+   and Gender Action Plan; the National Plan for Disaster Management, 2016–2020, and the National Water
+   Management Plan.
+14 Hotpots are prototypical areas where similar hydrological and climate change vulnerability characteristics and
+
+   problems coverage such as sea level rise, river erosion, intensity of flooding, water shortage, siltation constraints.
+   (Government of Bangladesh. 2018. Delta Plan 2100: Bangladesh in the 21st Century. Dhaka.)
+15
+   Government of Bangladesh. 2020. Eighth Five Year Plan July 2020–June 2025: Promoting Prosperity and Fostering
+   Inclusiveness. Dhaka.
+16 These include commitments to the Sustainable Development Goals (SDG): SDG 1 (poverty targeting); SDG 5
+
+   (gender mainstreaming); SDG 11 (making cities and human settlements inclusive, safe, resilient, and sustainable);
+   SDG 13 (climate action); SDG 14 (life below water); and SDG 16 (strong Institutions); the Paris Agreement; and the
+   Sendai Framework for Disaster Risk Reduction.
+4
+
+
+9.       Sector lending modality. The project will follow the sector loan modality because (i) it
+has many small discrete subprojects; (ii) the government has clear sector development strategies
+and priorities as elaborated in its Delta Plan 2100, Eighth Five-Year Plan, and Municipal
+Development Plan (2011); (iii) the government has the requisite institutional framework and
+capacity to implement the project; and (iv) the strategies applicable to the sector are appropriate
+as they address current sector needs. The Municipal Development Plan, which the Local
+Government Engineering Department (LGED) of the Local Government Division of the Ministry of
+Local Government, Rural Development and Cooperatives is updating, covers three pillars:
+governance, infrastructure, and climate change and disaster. The Ministry of Local Government,
+Rural Development and Cooperatives, through the LGED and the Department of Public Health
+and Engineering, has the institutional capacity to implement the plan. The project will play a key
+role in assisting the government in implementing the plan and is expected to strengthen municipal
+governance as well as financial, technical, and management capacity, and thereby the resilience,
+of project coastal towns.
+
+10.       Lessons. The Asian Development Bank (ADB) is a major development partner in
+Bangladesh’s urban development, water, and sanitation sector. ADB supported the
+implementation of climate resilience measures under the Coastal Towns Environmental
+Infrastructure Project (footnote 12), and performance-based investment projects such as the
+Urban Governance and Infrastructure Improvement Project and its two subsequent projects. 17
+Building on ADB’s long-term involvement in the sector and implementation of other projects
+related to flood and riverbank erosion risk management, key lessons that inform the project design
+include the following:
+    (i)      Ensure a good understanding of climate risk to steer coastal towns’ economic
+             development with an explicit focus on building resilience of the urban poor;
+    (ii)     Adopt a holistic systems approach to adaptation, incorporating enhancements to
+             social, ecological (nature-based), economic, and infrastructure resilience and adaptive
+             capacity; 18
+    (iii)    Strengthen the role of women in governance committees and diversify their
+             livelihoods, including through specialized adaptive capacity building interventions for
+             women and vulnerable communities; 19
+    (iv)     Develop and implement the poverty reduction action plan, which provides a
+             pourashava-level plan to reduce poverty and address barriers faced by the poor and
+             vulnerable communities; and
+    (v)      Provide financial incentives linked to performance indicators early in the project life
+             cycle to incentivize the pourashavas to better perform and comply with sustainable
+             operation and maintenance (O&M) practices. 20
+
+11.    Alignment with ADB’s priorities. The project aligns with ADB’s Strategy 2030 by
+supporting key operational priorities related to addressing remaining poverty and reducing
+inequalities; accelerating progress in gender equality; tackling climate change, building climate
+and disaster resilience, and enhancing environmental sustainability; making cities more livable;
+
+
+17 ADB.  2002. Urban Governance and Infrastructure Improvement (Sector) Project. Manila (closed); ADB. 2008.
+   Second Urban Governance and Infrastructure Improvement (Sector) Project. Manila (closed); ADB. 2014. Third
+   Urban Governance and Infrastructure Improvement (Sector) Project. Manila; and ADB. 2017. Additional Financing—
+   Third Urban Governance and Infrastructure Improvement (Sector) Project. Manila.
+18 ADB. 2018. Advancing Inclusive and Resilient Urban Development Targeted at the Urban Poor. Manila.
+19 Committees include a cyclone shelter management committee, a solid waste management committee, operation and
+
+   maintenance O&M) committees, and disaster management committees.
+20 ADB. 2014.
+              Third Urban Governance and Infrastructure Improvement (Sector) Project. Manila.
+                                                                                                                      5
+
+
+and strengthening governance and institutional capacity. 21 The project will contribute to ADB’s
+Healthy Oceans Action Plan by reducing the amount of solid waste entering coastal waters and
+increasing coastal resilience to climate change. 22 The project also aligns with the country
+partnership strategy for Bangladesh, 2021–2025, which prioritizes the provision of climate- and
+disaster-resilient infrastructure and services. 23 ADB closely coordinates with development
+partners including the Japan International Cooperation Agency, the World Bank and United
+Nations Agencies through the local consultative group to ensure effective and coordinated
+implementation of national polices, strategies, and programs. 24
+
+12.     Coronavirus disease (COVID-19). COVID-19 has deepened negative economic impact
+on women and vulnerable households. Women and girls are generally earning less, saving less,
+and holding insecure jobs or living close to poverty, which make them more vulnerable. 25
+Unemployment surged to 22.4% during April-July 2020, from 2.1% in March 2020. 26 The Eighth
+Five-Year Plan stresses the importance of a wider and more inclusive social protection system
+for an inclusive recovery from COVID-19 (footnote 15). The project will directly support the
+livelihood resilience of women and vulnerable households that are also affected by COVID-19
+(paras. 15 and 17).
+
+B.       Project Description
+
+13.     The project is aligned with the following impacts: higher and sustainable growth
+trajectories achieved in the face of the various weather-related natural hazards and risk (footnote
+13) and improved livability of coastal towns (footnote 1). The project will have the following
+outcome: climate and disaster resilience of coastal towns strengthened, including benefiting the
+poor and women. 27 The project’s support across pourashavas will be determined using a
+differentiated approach based on each pourashava’s vulnerability and exposure to climate risk
+and suitability for growth (para. 25). The project directly supports the achievement of project
+outcomes through three interlinked outputs.
+
+14.     Output 1: Municipal infrastructure for resilience improved. Output 1 supports the
+development of priority municipal infrastructure and essential services that are critical for
+improving climate and disaster resilience and local economic development in the 22 project
+towns. 28 Output 1 includes (i) the construction of EWCD-friendly cyclone shelters with early
+warning systems; 29 (ii) the upgrading or construction of emergency access roads to cyclone
+
+21 ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+
+  Manila.
+22 ADB. 2019. Action Plan for Healthy Oceans. Manila.
+23 ADB. 2021.
+                 Country Partnership Strategy: Bangladesh, 2021–2025—Sustain Growth, Build Resilience, and Foster
+   Inclusion. Manila.
+24 Sector Assessment (Summary): Water and Other Urban Infrastructure and Services (accessible from the list of linked
+
+   documents in Appendix 2)
+25 United Nations. 2020. Policy Brief: The Impact of COVID-19 on Women. New York.
+26 Government of Bangladesh, Bangladesh Bureau of Statistics. 2020. Report on Perception Survey of Livelihood 2020.
+
+   Dhaka.
+27 The design and monitoring framework is in Appendix 1.
+28 The towns, which are selected based on a climate risk and vulnerability assessment screening process of 11 coastal
+
+   districts, are Bagerhat, Bakerganj, Banaripara, Betagi, Bhedarganj, Borhanuddin, Chalna, Charfesson, Gournadi,
+   Jhalakathi, Kolaroa, Kuakata, Lalmohon, Morelganj, Mehendiganj, Muladi, Nalchiti, Paikgacha, Patharghata,
+   Patuakhali, Swarupkathi, and Zanjira.
+29 EWCD-friendly cyclone shelters will include separate toilets for women and men, separate space for women
+
+   (including nursing mothers) and girls with adequate lighting, access to safe drinking water, solar panels, ramps for
+   easy access by the elderly and persons with locomotor disability in the building and toilets, and tactile flooring on
+   stairs and entrances to assist visually impaired persons.
+6
+
+
+shelters; (iii) the development of climate-resilient infrastructure for improved urban flood risk
+management, including stormwater drainage, nature-based solutions (NbS), restoration of water
+bodies, and integrated waste management (IWM); 30 (iv) rehabilitation or construction of roads
+with stormwater drainage, bridges, and culverts for improved connectivity and access to
+emergency services; (v) improvement of gender-responsive and socially inclusive urban public
+spaces; (vi) implementation of slum improvement programs; and (vii) construction of EWCD-
+friendly sanitation facilities for poor households. Output 1 also supports the development of
+EWCD-friendly socioeconomic infrastructure, including local markets; bus terminals; and other
+priority roads, bridges, culverts, and boat landing stations. All subprojects are in accordance with
+the project subproject selection criteria detailed in the project administration manual (PAM). 31
+
+15.     Output 2: Resilient livelihoods enhanced. Output 2 supports increasing the adaptive
+capacity of vulnerable households, and especially poor women, to deal with climate shocks in six
+project towns with high poverty levels through the graduation approach (also known as economic
+inclusion). 32 The graduation approach will build the livelihood resilience of vulnerable households
+and women through a sequenced and comprehensive set of interventions to place households
+on an upward trajectory from poverty. 33 The activities will include assessing climate risk and local
+markets to identify viable income-generating activities; mapping household skills and resources;
+matching household enterprise and employment; and providing tailored technical training and
+livelihood assets, especially to women to deliver holistic support and overcome the gaps they face
+in building resilient livelihoods. Output 2 includes (i) covering climate-vulnerable households in
+the graduation program in six project towns; (ii) training women, including persons with disabilities,
+to increase skills for resilient livelihoods; and (iii) documenting vulnerable households’ inventories
+of productive assets and facilitating access to insurance. This will also help poor and vulnerable
+households recover from the effects of the COVID-19 pandemic.
+
+16.      Output 3: Institutional capacity, governance, and climate awareness strengthened.
+The project supports the strengthening of the LGED and project pourashavas’ institutional
+capacity, governance, and climate awareness through knowledge management to complement
+physical investments as part of an integrated approach to building climate change resilience.
+Output 3 includes: (i) submission of risk-informed urban development plans and poverty reduction
+action plans of project towns to the pourashavas council and ensuring that development activities
+align with the risk-informed urban development plans; (ii) training of LGED and pourashava staff,
+including 90% of eligible female staff, for increased knowledge on GESI-responsive climate and
+disaster risk assessment to inform urban development plans and development control regulations
+linked with hazards; (iii) training of LGED and pourashava staff, including 90% of eligible women
+staff, to increase knowledge and capacity on NbS and green solutions; (iv) operationalizing of the
+disaster management committee on disaster preparedness measures; cyclone shelter
+management committees; and standing committees on women’s and children’s affairs, poverty
+
+30 NbS promote actions to protect, sustainably manage, and restore natural and modified ecosystems in ways that
+
+   address societal challenges effectively and adaptively to provide both human well-being and biodiversity benefits.
+   Source: International Union for Conservation of Nature (IUCN). 2020. Guidance for using the IUCN Global Standard
+   for NbS. A user-friendly framework for the verification, design and scaling up of NbS. First edition. Gland, Switzerland.
+31 Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+32 Six project towns with high poverty rates are identified from the top-ranked climate risk project pourashavas—Chalna,
+
+   Gournadi, Mehndiganj, Muladi, Nalchiti, and Paikgacha.
+33 The four key pillars of the graduation approach are (i) social protection through a subsistence allowance and links to
+
+   basic services, (ii) livelihood promotion through access to sustainable and resilient livelihoods, (iii) financial inclusion
+   through access to formal savings mechanisms and financial literacy, and (iv) social empowerment for positive
+   behavior change among families and communities. Following this approach, the graduation program will be designed
+   for each pourashava. The project will recruit two local civil society organizations as partners, to support the design
+   and implementation of the graduation program.
+                                                                                                                     7
+
+
+reduction, and slum improvement in project pourashavas to improve municipal governance and
+sustainable service delivery; 34 (v) approval of a revenue enhancement plan by each project
+pourashava; (vi) establishment of functioning computerized tax records and billing systems; (vii)
+approval of annual GESI-responsive O&M plans by each project pourashava and allocation and
+spending of at least 75% of the required annual budget; and (viii) development of gender-
+responsive and socially inclusive urban space design guidelines.
+
+17.      Output 3 also supports enhanced public awareness, behavior change, and community
+mobilization in light of emergencies such as the COVID-19 pandemic and Cyclone Amphan in
+2020. It will also support training and capacity building of the LGED and pourashavas to
+institutionalize information technology-based remote monitoring through strengthening the
+LGED’s geographic information systems section, monitoring and evaluation unit, and project
+management unit (PMU).
+
+C.       Value Added by ADB
+
+18.      ADB has undertaken a series of assessments that have informed the overall project
+design. They include (i) country diagnostic work on climate-resilient, pro-poor urban development
+undertaken through a knowledge and support technical assistance project (footnote 18); (ii) an
+assessment of lessons from implementing resilience measures in the ADB-financed Coastal
+Towns Environmental Infrastructure Project (footnote 12); and (iii) climate risk and adaptation
+assessment of project towns using the Spatial Data Analysis Explorer. Innovative aspects of the
+project to add value include: (i) adopting a holistic approach to strengthening climate and disaster
+resilience by designing all project outputs based on a robust understanding of climate and disaster
+risks and promoting transformative solutions for poor and vulnerable communities; (ii) introducing
+transformational resilience solutions, such as risk-informed urban planning and NbS, that address
+underlying drivers of vulnerabilities through changes in land use patterns, restoration of
+ecosystems, and engagement of poor and vulnerable communities, especially women, in
+decision-making, financed through additional grants from the Asian Development Fund (ADF) 13
+thematic pool; (iii) adopting innovative solutions such as the graduation approach to livelihood
+resilience, which complements wider initiatives on strengthening resilience through social
+protection; 35 (iv) introducing gender-responsive and socially inclusive urban space design
+guidelines and using those guidelines to pilot the development of urban spaces in two project
+towns; (v) adopting an integrated flood and drainage management approach, which will generate
+co-benefits of salinity prevention and recreation space provision; (vi) supporting the
+institutionalization of earth observation technology for risk-informed urban development and
+remote project management; and (vii) promoting governance-led investment through
+performance-based allocations. These features will be captured in a knowledge product and will
+be used as a model for replication in other climate-vulnerable towns in Bangladesh and other
+countries in South Asia and the Asia Pacific region.
+
+D.       Summary Cost Estimates and Financing Plan
+
+19.      The project is estimated to cost $310 million (Table 1).
+
+
+
+34 A   risk-informed performance-based budget allocation strategy will be adopted to promote governance-led
+   infrastructure improvement to ensure sustainable urban services. The pourashava will need to fulfill a set of
+   performance criteria to receive funds for infrastructure improvement. The performance criteria are elaborated in the
+   Project Administration Manual (footnote 31).
+35 ADB. 2021.
+                 Strengthening Social Resilience Program. Manila.
+8
+
+
+20.     Detailed cost estimates by expenditure category and financier are included in the PAM
+(footnote 31).
+
+                                     Table 1: Summary Cost Estimates
+                                                 ($ million)
+    Item                                                                                                Amounta
+    A.        Base Costb
+    1.        Output 1: Municipal infrastructure for resilience improved                                     244.1
+    2.        Output 2: Resilient livelihoods enhanced                                                         4.0
+    3.        Output 3: Institutional capacity, governance, and climate awareness                             24.7
+               strengthened
+                                             Subtotal (A)                                                    272.8
+                               c
+    B.        Contingencies                                                                                   29.3
+    C.        Financing Chargesd                                                                               7.9
+              Total (A+B+C)                                                                                  310.0
+a Includes taxes and duties of $34.1 million. Such amount does not represent an excessive share of the project cost.
+  The government will finance taxes and duties of $34.1 million from cash contribution. An exchange rate of $1 = Tk86
+  is used.
+b In mid-2021 prices as of January 2022.
+c Physical and price contingencies, and a provision for exchange rate fluctuation are included. Physical contingencies
+
+  are computed at 2% for civil works and equipment. Price contingencies are computed at 1.7%–1.8% on foreign
+  exchange costs and 5.5%–5.9% on local currency costs; includes provision for potential exchange rate fluctuation
+  under the assumption of a purchasing power parity exchange rate.
+d Includes interest for ordinary capital resources (OCR) regular and concessional loans and commitment charges for
+
+  OCR regular loan. For regular OCR, interest during construction for the Asian Development Bank loan has been
+  computed at the 5-year United States dollar secured overnight financing rate fixed-swap rate plus a spread of 0.5%,
+  surcharge on funding cost margin of 0.14%, and a maturity premium of 0.1%. Commitment charges for an Asian
+  Development Bank loan are 0.15% per year to be charged on the undisbursed loan amount. For the concessional
+  loan, interest during construction is calculated at 2% per annum and there is no commitment charge.
+Source: Asian Development Bank estimates.
+
+21.      The government has requested (i) a concessional loan of $150 million from ADB’s ordinary
+capital resources (OCR), (ii) a regular loan of $96 million from ADB’s OCR, and (iii) a grant not
+exceeding $4 million from ADB’s Special Funds (ADF) to help finance the project. The
+concessional loan will have a 25-year term, including a grace period of 5 years; an interest rate
+of 2.0% per year during the grace period and thereafter; and such other terms and conditions set
+forth in the draft loan and project agreements. The regular loan will have a 25-year term, including
+a grace period of 5 years; an interest rate determined in accordance with ADB’s Flexible Loan
+Product; a commitment charge of 0.15% per year; and such other terms and conditions set forth
+in the draft loan and project agreements. Based on the straight-line method, the average maturity
+is 15.25 years and the maturity premium payable to ADB is 0.10% per year.
+
+22.    The summary of the financing plan is in Table 2. The ADF grant will finance civil works,
+equipment, consulting services, and contingencies related to NbS for climate adaptation. 36 ADB
+concessional and regular OCR loans will finance the expenditures in relation to civil works and
+equipment, consulting services, incremental administration cost, and part of contingencies. The
+government will provide $60 million toward taxes and duties, land acquisition and resettlement,
+contingencies, and financing charges during implementation.
+
+
+36 The ADF 13 thematic pool grant will enable the project to demonstrate the proof of concept of transformative pro-
+
+    poor resilience solutions, such as NbS, to strengthen resilience and development risk-informed urban development
+    plans, thereby steering urban development in resilient directions.
+                                                                                                               9
+
+
+                                   Table 2: Summary Financing Plan
+                                                                             Amount          Share of Total
+Source                                                                      ($ million)           (%)
+Asian Development Bank
+    Ordinary capital resources (regular)                                              96.0              31.0
+    Ordinary capital resources (concessional)                                        150.0              48.4
+    Special Funds resources (Asian Development Fund grant)a                            4.0               1.2
+Government of Bangladesh                                                              60.0              19.4
+                             Total                                                   310.0             100.0
+a Asian Development Fund 13 thematic pool.
+Source: Asian Development Bank estimates.
+
+23.    Climate mitigation is estimated to cost $1.4 million and climate adaptation is estimated to
+cost $261.1 million. ADB will finance 85.7% of mitigation costs and 86.6% of adaptation costs.
+The project has a primary objective of building climate resilience and, accordingly, the total cost
+of the majority of outputs (except the cost of infrastructure for local economic development) is
+counted as climate adaptation. 37
+
+E.        Implementation Arrangements
+
+24.     Implementation arrangements are summarized in Table 3 and described in detail in the
+PAM (footnote 31). The potential impact of the COVID-19 pandemic on implementation is factored
+into the project implementation period and corresponding cost estimates.
+
+                                Table 3: Implementation Arrangements
+    Aspects                                               Arrangements
+    Implementation period          November 2022–December 2029
+    Estimated completion date      30 June 2029
+    Estimated loans and grant      31 December 2029
+    closing date
+    Management
+      (i) Oversight body           Steering committee: Secretary, LGD (chair); joint secretary (planning
+                                   wing), LGD; joint secretary (development), LGD; chief engineer, LGED;
+                                   deputy secretary (chief), LGD; representatives of ECNEC and
+                                   coordination wing of the Planning Division, Planning Commission
+                                   (Physical Infrastructure Division), Planning Commission (Programming
+                                   Division), sector concerned of the Implementation Monitoring and
+                                   Evaluation Division, Economic Relations Division (Foreign Aided
+                                   Project), Ministry of Finance (Finance Division), and Planning, LGED;
+                                   project director (member secretary); senior assistant chief and assistant
+                                   chief concerned, LGD; and special invitees to advise the committee on
+                                   technical issues
+     (ii) Executing agency         LGED, Ministry of Local Government, Rural Development, and Co-
+                                   operatives
+     (iii) Key implementing        Each project pourashava
+           agencies
+     (iv) Implementation unit      22 pourashavas, 176 staff
+    Procurement                    Open competitive bidding—              15 contracts        $10.7 million
+                                   goods (nationally advertised)
+                                   Open competitive bidding—              205 contracts      $216.8 million
+                                   works (nationally advertised)
+
+
+37 Climate Change Assessment (accessible from the list of linked documents in Appendix 2).
+10
+
+
+ Aspects                                                         Arrangements
+ Consulting services               QCBS                              2,724 person-months        $16.1 million
+                                   SSS                                 86 person-months          $0.8 million
+ Retroactive financing and/or      Advance contracting and retroactive financing of civil works, equipment,
+ advance contracting               and consulting services will be undertaken. Retroactive financing will be
+                                   considered for up to 20% of the loan and grant amount for expenditures
+                                   incurred for civil works; consulting contracts; and establishment and
+                                   operation of the PMU, and project implementation units before loan and
+                                   grant effectiveness, but not earlier than 12 months before the signing of
+                                   the loan and grant agreements.
+ Disbursement                      Disbursement of the loans and grant proceeds will follow ADB's Loan
+                                   Disbursement Handbook (2017, as amended from time to time) and
+                                   detailed arrangements agreed between the government and ADB.
+ADB = Asian Development Bank, ECNEC = Executive Committee of the National Economic Council, LGD = Local
+Government Division, LGED = Local Government Engineering Department, NEC = National Economic Council, PMU
+= project management unit, QCBS = quality- and cost-based selection, SSS = single source selection.
+Source: Asian Development Bank.
+
+                                          III.    DUE DILIGENCE
+
+A.      Technical
+
+25.     The project outputs were identified and designed based on a detailed climate risk and
+adaptation assessment of the 22 project pourashavas (footnote 37). This included an assessment
+of overall climate vulnerability and exposure to establish the baseline climate risk for each
+pourashava. Further, an assessment of future climate was undertaken using analysis of Coupled
+Modeled Intercomparison Project-6 (CMIP 6) climate models at the district level, with percentage
+increases in maximum daily precipitation, temperature, and sea level rise used to define climate
+change impacts. The assessment helped identify the 15 pourashavas facing the highest overall
+climate risk and risks to key infrastructures such as drainage and cyclone shelters. This formed
+the basis for the prioritization of investments. In parallel, integrated drainage plans and detailed
+engineering designs of roads and cyclone shelters were reviewed to identify climate risk gaps and
+recommend design improvements. Potential climate change-related impacts can be reduced by
+including climate adaptation measures in subproject designs. Master planning processes and
+early warning systems were reviewed to identify opportunities for strengthening climate resilience.
+
+B.      Economic and Financial Viability
+
+26.     Economic analysis. The project being a sector project, the economic analysis evaluated
+the economic feasibility of interventions of four sample subprojects in two pourashavas. 38 The
+economic rationale for the government’s intervention is sound as the project focuses on
+strengthening climate resilience through the provision of urban basic services, including cyclone
+shelters, urban drains, emergency access roads, and IWM, where there is a natural monopoly
+and the services are public goods managed by the government. The estimated economic internal
+rates of return for the sample subprojects are 12.7% (Bagerhat drain), 15.2% (Jhalakathi cyclone
+shelter), 15.5% (Bagerhat IWM), and 18.5% (Jhalakathi roads), which are higher than the
+economic opportunity cost of capital of 9.0%, indicating significant economic returns. The results
+are found satisfactory against all downside risks with higher economic internal rates of return than
+the minimum required economic opportunity cost of capital of 9%, except for the combined worst-
+case scenario for drain and cyclone shelter subprojects. The construction of assets under these
+
+38 Complete due diligence was conducted for the four sample subprojects in the two pourashavas—Jhalakathi (cyclone
+
+  shelters and urban roads) and Bagerhat (IWM and stormwater drainage).
+                                                                                                                 11
+
+
+four sample subprojects will benefit 130,000 people by 2029. The estimated poverty impact ratio
+for four sample subprojects ranges from 25.3% (Jhalakathi roads) to 29.4% (Bagerhat drain). 39
+
+27.     Financial analysis. ADB carried out financial analysis for the same four sample
+subprojects (footnote 38). The proposed sample subprojects are nonrevenue-generating, with no
+project-specific revenue stream that would cover O&M expenses. The historical and future cash
+flow analysis was conducted for the project towns, which will operate and maintain assets to be
+constructed under this project. The analysis found that, with current trends in income, expenditure,
+and the government grant, Bagerhat has adequate capacity to operate and maintain the proposed
+subprojects, and Jhalakathi requires additional financial support from the government to
+sustainably operate and maintain the proposed subproject. To ensure sustainable O&M, the
+project will support the development of a revenue enhancement plan for each pourashava under
+output 3. The scope of the plan includes (i) identifying the potential for increasing the revenue
+from existing sources by improving the collection efficiencies to 85%, (ii) exploring new revenue
+sources, and (iii) assessing the legal provisions required to amend and implement the revenue
+enhancement measures. The government has given its assurance that it will provide funding to
+ensure financial sustainability in case the project towns are unable to meet O&M requirements
+through their revenue sources (footnote 39).
+
+C.       Sustainability
+
+28.     The project will contribute to the wider goals of the Delta Plan 2100, which aims to ensure
+the sustainability of the country’s long-term development aspirations by adopting integrated
+strategies and interventions to address the impact of climate change. 40 Each project pourashava
+will adopt a GESI-inclusive O&M plan with an improved asset management system, committing
+to adequate budgetary allocation for O&M and technical support and training to pourashava staff
+for enhanced O&M capacity. The project will support each pourashava to prepare, adopt, and
+implement a revenue enhancement plan, which will improve revenue coverage, valuation,
+collection, and taxpayer services.
+
+D.       Governance
+
+29.     Financial management. The assessed pre-mitigation financial management risk is
+substantial mainly because (i) the most of the dedicated accounts staff positions in the PMU and
+project implementation units (PIUs) are vacant; (ii) the fund flow is decentralized to the
+pourashavas, which lack experience in implementing ADB-financed projects; (iii) challenges in
+complying with ADB’s disbursement procedures have been noted in ADB’s ongoing LGED-
+implemented projects; (iv) manual accounting systems are used to record project expenditures;
+and (v) pourashavas are not audited annually. These risks will be mitigated by (i) filling the vacant
+accounts staff positions and engaging financial management experts to support the project at all
+levels, (ii) providing annual training in ADB’s financial management requirements and
+disbursement procedures, (iii) including the project in the audit plan of LGED’s internal audit
+function, (iv) strengthening pourashavas’ accounts and audit committees to undertake regular
+internal audits, (v) incorporating comprehensive financial information as part of the quarterly
+progress reports submitted to ADB, and (vi) recording all projects transactions in computerized
+accounting software. As per established practice, the project will maintain separate books of
+accounts in accordance with accounting standards acceptable to ADB and the consolidated
+
+39 Financial Analysis and Economic Analysis (accessible from the list of linked documents in Appendix 2).
+40 The Delta Plan 2100 has six goals. The project will contribute to SDG 1 on ensuring safety from floods and climate
+
+  disasters (footnote 13).
+12
+
+
+project financial statement will be audited annually by an independent auditor acceptable to ADB
+in accordance with International Standards on Auditing.
+
+30.    Procurement. All procurement and consulting activities shall be carried out in accordance
+with the ADB Procurement Policy (2017, as amended from time to time). The LGED has
+demonstrated experience in procuring goods, works, and consulting services in accordance with
+ADB procedures and requirements and satisfactory capacity in supporting pourashavas to
+implement similar multisector projects, including procurement. Value for money is expected to be
+achieved through efficiency gains from the use by each pourashava of national bidding
+documents (electronic Public Works 3-Document [ePW3-D]) suitable for local contractors and e-
+government procurement systems.
+
+31.    ADB’s Anticorruption Policy (1998, as amended to date) was explained to and discussed
+with the government. The specific policy requirements and supplementary measures are
+described in the PAM (footnote 31).
+
+E.       Poverty, Social, and Gender
+
+32.     The project is classified as a targeted intervention for geographic poverty targeting. One
+in four people in Bangladesh continue to live in poverty, with 12.9% of the population suffering
+from extreme poverty. 41 The Household Income and Expenditure Survey 2016 highlights that the
+highest incidence of poverty (over 60%) occurs in climate-at-risk regions of Bangladesh. Coastal
+towns are characterized by high poverty incidence, which increases the vulnerability of the urban
+poor to the impacts of climate change. Coastal towns also suffer from large flood protection
+infrastructure deficits that exacerbate vulnerability to climate change. During disasters, the poor
+and vulnerable face financial losses through depleting savings and incomes; loss of productive
+assets and livelihoods; loss of human assets with disruption in education, health, and skills
+development; and loss of natural resources. The project will address the multiple dimensions of
+poverty through sustainable and resilient livelihoods, and investments in adaptations in
+infrastructure, capacity building, governance, and risk-informed urban planning. The project
+directly targets the poorest and most vulnerable households in the project towns. Sustainable and
+resilient livelihoods for the communities is a key focus area. The graduation approach will be
+adopted in six towns to provide a comprehensive support mechanism for vulnerable households
+to develop adaptive, diversified, and climate-resilient livelihoods.
+
+33.     The project is categorized gender equity theme. The project will ensure women’s effective
+participation in subproject design and implementation, decision-making, and leadership in
+committees. The project will support at least 60% of vulnerable households, with 50% women
+beneficiaries under the graduation approach, which will be implemented with the support of civil
+society organizations. At least 50% women, including persons with disabilities, will receive
+livelihood improvement training. The project will construct EWCD-friendly infrastructures. It will
+enhance the institutional capacity of the PIU and LGED staff on GESI, climate and disaster risk
+assessment, NbS, and green solutions. Moreover, all towns will develop and approve GESI-
+responsive O&M plans with annual budget allocation. The project will introduce gender-
+responsive and socially inclusive urban space design guidelines and support the development of
+urban spaces in two project towns. Two social and gender development consultants will be hired
+to ensure the effective implementation of the GESI action plan. 42
+
+41 Government of Bangladesh, Ministry of Planning, Statistics and Informatics Division. 2017. Household Income and
+
+  Expenditure Survey 2016. Dhaka.
+42 Gender Equality and Social Inclusion Action Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                                               13
+
+
+
+F.         Safeguards
+
+34.      In compliance with ADB’s Safeguard Policy Statement (2009), the project is categorized
+B for environment, involuntary resettlement, and indigenous peoples. 43 The PMU will prepare
+semiannual safeguard monitoring reports for ADB’s review and disclosure. A project grievance
+redress mechanism integrated with the pourashavas’ existing complaint registration and redressal
+systems will be established and disclosed to the project’s beneficiaries and/or affected
+communities before civil works contracts are awarded. The LGED has significant experience in
+implementing ADB-assisted projects (footnotes 12 and 17) and demonstrated commitments to
+managing environmental and social risks. Orientation on ADB policy was undertaken for PMU
+and consultants. A capacity development program on safeguards implementation will be provided
+for all PMU, PIUs, and pourashava staff.
+
+35.     Environment (category B). An environmental assessment and review framework and
+five draft initial environmental examination (IEE) reports were prepared for sample subprojects. 44
+The assessment results show that the subprojects are unlikely to have any significant
+environmental impacts. Subprojects require compensatory plantation in a 1:2 ratio for trees cut.
+Most potential impacts are likely to be temporary in nature and can be mitigated with proven
+mitigation measures. The IEEs will be prepared for each subproject in each town. The
+environmental assessment and review framework will guide the preparation of environmental
+assessment reports, including IEEs and environmental management plans (EMPs), for the
+remaining subprojects after loan approval. The IEEs and EMPs will be updated based on the final
+design. All drafts and updated reports will be disclosed locally in accessible places and in
+language affected people and other stakeholders can understand and on ADB and project
+websites. The PMU and PIUs will obtain an environmental clearance certificate, as required, from
+the Department of Environment prior to contract award or the start of works and will ensure
+regulatory compliance. Institutional arrangements have been agreed upon for the implementation
+of the EMPs.
+
+36.    Involuntary resettlement (category B). A resettlement framework and resettlement
+planning documents have been prepared for sample subprojects (footnote 44). The sample
+subprojects are assessed to involve potentially significant impacts for 11 households (56
+members), including 7 vulnerable households (38 members); insignificant impacts for 106
+households (504 members), including 51 vulnerable households (289 members); and the loss of
+268 trees. The proposed mitigation measures and safeguard planning documents for sample
+subprojects address these impacts adequately. No category A subprojects are envisaged, and
+none will be allowed. The social safeguards planning documents will be updated during the final
+design and detailed measurement survey. The resettlement framework will guide the preparation
+of resettlement planning documents for future subprojects after loan approval. The PMU will
+disclose the resettlement framework, resettlement plans, small ethnic communities (SEC)
+planning framework, resettlement and SEC plan, and due diligence reports on the project’s official
+website, and the documents will be available in the local language and disclosed to affected
+persons. 45 The PMU will ensure that the resettlement planning documents are included in the
+bidding documents and civil works contracts.
+
+
+
+43 ADB. Safeguard Categories.
+44 Jhalakathi cyclone shelter and access road, Jhalakathi urban roads, Bagerhat drainage, Bagerhat IWM, and Kuakata
+
+  roads.
+45 The Government of Bangladesh requires use of the term “small ethnic communities” instead of indigenous peoples.
+14
+
+
+37.      Indigenous peoples (category B). Six project towns report the presence of SEC. Of the
+six towns, Kuakata reports the highest proportion of SEC (1.67% of the total population). SEC
+populations in the remaining project towns are scattered and integrated in urban society. Six SEC
+households (26 family members) in Kuakata are assessed to face insignificant temporary loss of
+income and loss of trees, while 25 SEC households (103 family members) will benefit. The road
+subproject in Kuakata includes a roadside drainage component that was added based on the
+expressed needs of the SEC population. Ten SEC households also expressed a preference to
+provide the right to use a strip of land for drain construction without ownership transfer. The option
+of the negotiated settlement will also be provided to the 10 SEC families. No direct or indirect
+impacts on the dignity, human rights, livelihood systems, or natural or cultural resources of SEC
+are anticipated. The SEC planning framework and the resettlement and SEC plan for the Kuakata
+roads subproject have been prepared. The framework will guide the preparation of subprojects
+identified after loan approval.
+
+G.      Summary of Risk Assessment and Risk Management Plan
+
+38.      Significant risks and mitigation measures are summarized in Table 4 and described in
+detail in the risk assessment and risk management plan. 46
+
+                       Table 4: Summary of Risks and Mitigating Measures
+Risks                                                            Mitigation Measures
+Limited financial management            Through output 3, ADB will provide capacity building in financial
+capacity in pourashavas will lead       management, internal auditing, and ADB’s financial management
+to improper financial management,       requirements and disbursement procedures and systems to staff of
+noncompliance with ADB’s                the PMU and PIUs to ensure robust and transparent project financial
+financial requirements and              management. The PMU and PIUs will record all project transactions
+disbursement delays.                    using computerized accounting software.
+The lack of familiarity of project      Each pourashava will use national bidding documents (electronic
+pourashavas with ADB’s                  Public Works 3-Document [ePW3-D]) suitable for local contractors
+Procurement Policy, 2017 will lead      and e-government procurement systems. ADB procurement clinics
+to start-up delays and                  combined with project-specific training programs conducted by the
+implementation delays.                  PMU and relevant consultants will build the capacity of pourashavas
+                                        concerning all procurement and contract management in the PIUs.
+The implementation capacity of the      ADB will provide sufficient capacity support to the LGED and the
+LGED is stretched by the broad          pourashavas through output 3. The LGED will allocate subprojects
+geographic coverage with multiple       based on pourashavas’ assessed absorptive capacity and
+coastal towns and subprojects,          performance. The LGED will strengthen its project management
+resulting in project start-up delays    capacity by establishing the PMU with adequate provision of
+and implementation problems.            consulting services and assigning responsibilities to divisional and
+                                        regional offices for project implementation. The project
+                                        implementation period allows for potential delays.
+The pourashavas’ financial and          The project will support each pourashava to increase revenue by
+O&M capacity are inadequate to          adopting a revenue enhancement plan, achieving 85% tax collection
+ensure the sustainability of project    efficiency, setting up a computerized accounting and billing system,
+assets.                                 and enhancing pourashavas’ own-source revenue. Output 3 will
+                                        support a gender and social inclusion-responsive O&M plan and
+                                        monitor expenditures. In the event of any shortfalls, the government
+                                        has agreed to support pourashavas through revenue grants to
+                                        sustain their O&M expenditures.
+ADB = Asian Development Bank, LGED = Local Government Engineering Department, O&M = operation and
+maintenance, PIU = project implementation unit, PMU = project management unit.
+Source: Asian Development Bank.
+
+46 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                              15
+
+
+
+                          IV.    ASSURANCES AND CONDITIONS
+
+39.     The government has assured ADB that implementation of the project shall conform to all
+applicable ADB requirements, including those concerning anticorruption measures, safeguards,
+gender, procurement, consulting services, financial management, and disbursement as described
+in detail in the PAM and loan and grant documents.
+
+40.      The government has agreed with ADB on certain covenants for the project, which are set
+forth in the draft loan and grant agreements and project agreement.
+
+                                 V.      RECOMMENDATION
+
+41.   I am satisfied that the proposed loans and grant would comply with the Articles of
+Agreement of the Asian Development Bank (ADB) and recommend that the Board approve:
+      (i)     the loan of $96,000,000 to the People’s Republic of Bangladesh for the Coastal
+              Towns Climate Resilience Project, from ADB’s ordinary capital resources, in
+              regular terms, with interest to be determined in accordance with ADB’s Flexible
+              Loan Product; for a term of 25 years, including a grace period of 5 years; and such
+              other terms and conditions as are substantially in accordance with those set forth
+              in the draft loan and project agreements presented to the Board;
+      (ii)    the loan of $150,000,000 to the People’s Republic of Bangladesh for the Coastal
+              Towns Climate Resilience Project, from ADB’s ordinary capital resources, in
+              concessional terms, with an interest charge at the rate of 2% per year during the
+              grace period and thereafter; for a term of 25 years, including a grace period of 5
+              years; and such other terms and conditions as are substantially in accordance with
+              those set forth in the draft loan and project agreements presented to the Board;
+              and
+      (iii)   the grant not exceeding $4,000,000 to the People’s Republic of Bangladesh, from
+              ADB’s Special Funds resources (Asian Development Fund) for the Coastal Towns
+              Climate Resilience Project, on terms and conditions that are substantially in
+              accordance with those set forth in the draft grant and project agreements
+              presented to the Board.
+
+                                                           Masatsugu Asakawa
+                                                           President
+3 October 2022
+16        Appendix 1
+
+
+
+                            DESIGN AND MONITORING FRAMEWORK
+
+Impacts the Project is Aligned with
+Higher and sustainable growth trajectories achieved in the face of the various weather-related natural
+hazards and risk. (Delta Plan 2100, 2018) a
+Improved livability of coastal towns. (Making Vision 2041 a Reality – Perspective Plan of Bangladesh,
+2021–2041, 2020)b
+                                                               Data Sources and            Risks and
+                                                                  Reporting                  Critical
+Results Chain               Performance Indicators               Mechanisms               Assumptions
+Outcome
+Climate and disaster    By 2030:
+resilience of coastal   a. Capacity of EWCD-friendly         a, b, and d. LGED         A: Climate change
+towns strengthened,     cyclone shelter increased for        annual reports and        impacts are within
+including benefiting    10,000 people with enhanced          project      quarterly    projected levels.
+the poor and women      safety featuresc and spaces          progress reports
+                        for 5000 women (2022 baseline: 0)                              A: Pourashava (local
+                        (OP2.5.2, OP3.2, OP4.1)                                        government)
+                        b. At least 75% of households in                               continues to
+                        project areas reported reduced                                 prioritize
+                        inundation for less than 3 days                                governance
+                        (2022 baseline: 43%) (OP3.2,                                   improvement.
+                        OP4.1)
+                        c. Livelihood improvedd for 1,500    c. Baseline and endline
+                        women in six project pourashavas     survey for graduation
+                        (2022 baseline: 0) (OP4.1)           program
+                        d. 85% holding tax collection
+                        efficiency achieved in 20
+                        pourashavas (2022 baseline: 0
+                        towns)
+
+Outputs                 By 2029
+                        (2022 baseline: 0)
+1. Municipal            1a. 25 EWCD-friendly cyclone         1a.–1j. Project           A: Pourashavas
+infrastructure for      shelters constructed with early      quarterly progress        achieve governance
+resilience improved     warning system (OP 2.5.2, OP         reports                   improvement criteria
+                        3.2.5)                                                         to be eligible for
+                        1b. 9.7 km of emergency access                                 project investments.
+                        roads to cyclone shelters
+                        upgraded or constructed (OP
+                        3.2.5, OP4.1.2)
+                        1c. 200 km of stormwater drainage
+                        constructed or rehabilitated (OP
+                        3.2.5, OP 4.1.2)
+                        1d. NbS piloted in at least three
+                        towns (OP 3.2.5)
+                        1e. Three integrated waste
+                        managemente subprojects
+                        completed (OP 4.3.1)
+                        1f. 238 km of roads with
+                        stormwater drainage, bridges, and
+                        culverts rehabilitated or
+                        constructed (OP3.2.5, OP 4.1.2)
+                                                                                   Appendix 1   17
+
+
+                                                                Data Sources and      Risks and
+                                                                   Reporting            Critical
+Results Chain                Performance Indicators               Mechanisms         Assumptions
+                       1g. At least two gender-responsive
+                       and socially inclusivef urban open
+                       spacesg constructed (OP1.3.1)
+                       1h. 150 EWCD-friendly sanitation
+                       facilities, including community
+                       latrines,h constructed serving poor
+                       households (OP 1.3.1)
+                       1i. Slum improvement program
+                       implemented in at least 90% of
+                       project pourashavas that have
+                       slums (2021 baseline: Not
+                       implemented)
+                       1j. At least six local EWCD-friendly
+                       socioeconomic infrastructuresi
+                       developed (OP1.3.1)
+
+                       By 2029:
+                       (2022 baseline: 0)
+2. Resilient           2a. 60% of vulnerable households       2a and 2c. Project
+livelihoods enhanced   (including 50% female                  quarterly progress
+                       beneficiaries) covered in the          reports
+                       graduation program in six project
+                       pourashavas (OP 2.5.1)
+                       2b. 50% women, including               2b. Post-training
+                       persons with disabilities, reported    survey reports
+                       increased skills for resilient
+                       livelihoods in six project
+                       pourashavas (OP2.1.1, OP 2.5.1)
+                       2c. Inventory of productive assets
+                       of 70% of low-income households
+                       documented for insurance (OP
+                       2.5.1)
+
+                       By 2029:
+                       (2022 baseline: Not applicable)
+3. Institutional       3a. Risk-informed urban                3a.–3i. Project
+capacity,              development plan and poverty           quarterly progress
+governance, and        reduction action plan of each town     reports
+climate awareness      submitted to pourashava council,
+strengthened           and development activities
+                       controlledj (OP 3.2.4, OP4.2, OP
+                       6.2.1)
+                       3b. At least 225 staff of LGED and
+                       pourashavas, including 90% of
+                       eligible female staff, reported
+                       increased knowledge on climate
+                       and disaster risk assessment to
+                       inform urban development
+                       planning (OP2.3.2, OP 6.1.1)
+                       3c. At least 225 staff of LGED and
+                       pourashavas, including 90% of
+                       eligible female staff, reported
+18     Appendix 1
+
+
+                                                            Data Sources and          Risks and
+                                                               Reporting                Critical
+Results Chain                  Performance Indicators         Mechanisms             Assumptions
+                         increased knowledge on NbS and
+                         green solutions (OP 6.1.1)
+                         3d. Disaster management
+                         committee on disaster
+                         preparedness measures and
+                         cyclone shelter management
+                         committees operationalizedk in
+                         each project pourashava (OP
+                         6.2.4)
+                         3e. Standing committees on
+                         women’s and children’s affairs,
+                         poverty reduction, and slum
+                         improvement operationalized in
+                         each project pourashava (OP
+                         6.2.4)
+                         3f. Revenue enhancement plan
+                         approved by each project
+                         pourashava (2022 baseline: No
+                         plan exists (OP 6.1)
+                         3g. Computerized tax records and
+                         billings systems made functional in
+                         each project pourashava (OP 6.1)
+                         3h. Annual gender-responsive
+                         O&M plans approvedl and annual
+                         budget allocated by each project
+                         pourashava (OP 6.1)
+                         3i. Gender-responsive and socially
+                         inclusive urban space design
+                         guidelines incorporated in the
+                         design of urban open spaces of
+                         two project pourashavas (OP
+                         6.2.1)
+Key Activities with Milestones
+1. Municipal infrastructure for resilience improved
+1.1 Prepare integrated drainage plan for 10 towns with high climate risk impact (Q4 2023).
+1.2 Design municipal infrastructure for climate resilience improvement (stage I) (Q4 2026).
+1.3 Conduct procurement for (Q4 2025) and construct stage I infrastructure works (Q3 2028)
+1.4 Design socioeconomic infrastructure (stage II) works (Q3 2026).
+1.5 Conduct procurement for and construct stage II infrastructure works (Q1 2029).
+2. Resilient livelihoods enhanced
+2.1 Conduct market assessment, skills-mapping, and training needs assessment (Q2 2025).
+2.2 Prepare inventory of productive assets of each household (Q2 2024).
+2.3 Provide skills training and raise awareness on climate adaptation (Q1 2029).
+3. Institutional capacity, governance, and climate awareness strengthened
+3.1 Evaluate performance for entry level (stage I) criteria of all project pourashavas (Q3 2022).
+3.2 Conduct orientation on the stage I and stage II criteria to project pourashavas (Q2 2023).
+3.3 Sign partnership agreement with project pourashavas (Q4 2022).
+3.4 Establish and operationalize disaster management standing committees and cyclone shelter
+    management committees in all pourashavas (Q1 2029).
+3.5 Select type of NbS for piloting and awareness raising (Q2 2026).
+3.6 Support each pourashava in revenue enhancement (Q3 2028).
+3.7 Prepare O&M plan and support implementation and monitoring (Q1 2029).
+3.8 Evaluate pourashavas’ performance in accessing funds for socioeconomic infrastructure (Q2 2025).
+                                                                                                      Appendix 1         19
+
+
+3.9 Conduct training, climate awareness, and implementation of risk-informed urban plans (Q1 2029).
+Project Management Activities
+Procure works packages (Q4 2026).
+Recruit and mobilize project management consultant (Q2 2023).
+Recruit and mobilize detailed design service consultant (Q2 2023).
+Recruit and mobilize institutional capacity and community development consultant (Q2 2023).
+Recruit and mobilize two nongovernment organizations (Q2 2023).
+Conduct review missions, midterm review, and project completion review (2022–2029).
+Inputs
+Asian Development Bank: $250 million (loan of $96 million from regular OCR, $150 million from
+concessional OCR lending, and grant of $4.0 million from Asian Development Fund)
+Government of Bangladesh: $60 million
+A = assumption; EWCD = elderly (older person), women, children, and persons with disabilities; km = kilometer; LGED
+= Local Government Engineering Department; NbS = nature-based solutions; O&M = operation and maintenance; OCR
+= ordinary capital resources; OP = operational priority; Q = quarter.
+a Government of Bangladesh. 2018. Delta Plan 2100. Dhaka.
+b Government of Bangladesh. 2020. Making Vision 2041 a Reality–Perspective Plan of Bangladesh, 2021–2041.
+
+   Dhaka.
+c Enhanced safety features for women and girls will include separate space for women (including nursing mothers),
+
+   adequate lighting, signage clearly displaying helpline numbers, space for livelihood activities during and after climate
+   events, and mobilization of female cyclone shelter volunteers to address women’s specific needs. EWCD-friendly
+   cyclone shelters will include ramps for easy access by the elderly (older persons) and persons with locomotor
+   disability in the building and toilets, tactile flooring for stairs and entrances for visually impaired persons, separate
+   amenities for women and men including toilets, and points for safe drinking water.
+d Income levels enhanced to at least match the national minimum wage through improved skills and access to
+
+   livelihood opportunities, measured by endline survey.
+e Waste management service chain from source, collection, recovery, treatment, and disposal.
+f Features that enhance women's safety and feelings of safety with special focus on lighting, visibility,
+
+   pedestrianization, ease of access for women including those with babies and children, and signage with helpline
+   numbers. Each open space will be designed considering the perspective of women and girls who will be the users.
+g
+   Open space is land and/or water area with its surface open to the sky, consciously acquired or publicly regulated to
+   serve conservation and urban shaping function in addition to providing recreational opportunities.
+h EWCD design features for toilets include features such as doors, windows, ventilation, and buckets for disposal of
+
+   menstrual pads that are selected considering the safety, security, and privacy for women and girls; water taps, knobs
+   and latches of toilet doors and windows at suitable heights and convenience for different ages persons; ramp-ups to
+   toilets, sufficient space for a wheelchair in the passage, and hand railing in the passage and within the toilet cubicles.
+i Includes (i) allocated space for women sellers in markets; (ii) separate toilets for women with water facilities in
+
+   markets, bus terminals, and boat landings; and (iii) adequate lighting for commercially important roads.
+j Enforce at least 80% control of new building construction, reconstruction activities, land development and effective
+
+   prevention of encroachment on public land (such as natural ecosystem, river, canal, and khas [government-owned])
+   land practiced.
+k Meets at least twice a year and functions effectively as per terms of reference, meetings are publicly announced and
+
+   involve active participation by women and poor, and minutes are prepared and publicly disclosed.
+l O&M plans will include targets for women members in committees, provision for regular monitoring and maintenance
+
+   of gender-responsive infrastructure, and targets for women’s employment in O&M.
+Contribution to Strategy 2030 Operational Priorities:
+Expected values and methodological details for all OP indicators to which this operation will contribute results are
+detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in Appendix
+2).
+Source: Asian Development Bank.
+20    Appendix 2
+
+
+                              LIST OF LINKED DOCUMENTS
+                   http://www.adb.org/Documents/RRPs/?id=55201-001-3
+
+1.     Loan Agreement: Ordinary Operations
+2.     Loan Agreement: Ordinary Operations (Concessional)
+3.     Grant Agreement
+4.     Project Agreement
+5.     Sector Assessment (Summary): Water and Other Urban Infrastructure and Services
+6.     Project Administration Manual
+7.     Financial Analysis
+8.     Economic Analysis
+9.     Summary Poverty Reduction and Social Strategy
+10.    Risk Assessment and Risk Management Plan
+11.    Contribution to Strategy 2030 Operational Priorities
+12.    Climate Change Assessment
+13.    Gender Equality and Social Inclusion Action Plan
+14.    Initial Environmental Examination: Construction of Multipurpose Cyclone Shelter
+       Under Jhalakathi Pourashava
+15.    Initial Environmental Examination: Construction/Improvement of Drains in Bagerhat
+       Pourashava
+16.    Initial Environmental Examination: Construction/Improvement of Roads and Roadside
+       Drain in Kuakata Pourashava
+17.    Initial Environmental Examination: Construction/Improvement of Roads and Roadside
+       Drains in Jhalakathi Pourashava
+18.    Initial Environmental Examination: Integrated Waste Management for Bagerhat
+       Pourashava
+19.    Environmental Assessment and Review Framework
+20.    Resettlement Plan: Construction/Improvement of Roads and Roadside Drains in
+       Jhalakathi Pourashava
+21.    Land Acquisition and Resettlement Due Diligence Report: Construction of
+       Multipurpose Cyclone Shelter Under Jhalakathi Pourashava
+22.    Resettlement Plan: Integrated Waste Management for Bagerhat Pourashava
+23.    Resettlement Plan: Construction and Improvement of Reinforced Cement Concrete
+       Drains in Bagerhat Pourashava – Length: 5.557 km
+24.    Resettlement and Small Ethnic Communities Plan: Kuakata Town Roads Subproject
+25.    Small Ethnic Communities Planning Framework
+26.    Resettlement Framework
+
+Supplementary Document
+27.   Climate Risk and Adaptation Assessment
+

@@ -1,0 +1,2148 @@
+                                                                                        PUBLIC
+                                                                      SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                       EL SALVADOR
+
+
+
+      COMPREHENSIVE PROGRAM FOR URBAN REGENERATION
+    AND SUSTAINABLE REVITALIZATION OF MUNICIPAL MARKETS IN
+                SANTA TECLA AND LA LIBERTAD
+
+
+
+                                           (ES-L1172)
+
+
+
+                                       LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Luis Schloeter (CSD/HUD),
+Project Team Leader; Alejandro López-Lamia (CSD/HUD), Alternate Project Team
+Leader; Michelle Restrepo, Gabriel de Barros Torres, María Elena Acosta Maldonado,
+Francy Dianela Ávila, and Yader Antonio Hernández (CSD/HUD); Karen Elay Munguía
+Aldana, and Gabriela María Molina de Dardón (CID/CES); Esteban de Dobrzynski,
+Rosario Paz Becker Seco (LEG/SGO); Lidia Marcelino Rebouças, and Aude Gabrielle Marthe
+Denise Archambault, Gabriella de Angelis, Edoardo Brovero, Julia Míguez Morais (VPS/ESG);
+Karla María Meléndez Aparicio (CSD/CCS); Carmen Cecilia Castro Blandón (LAB/EBA);
+Miriam Patricia Toriz Monroy, and Carlos Ignacio Carpizo Riva Palacio (VPC/FMP);
+José Rodrigo Rendón Rodríguez (INE/TSP); Ana Milena Avendaño Paez (INE/INE);
+Denis Leduc (PPP/CPN); Miryam Banda Méndez (INE/PPP); Nidia Hidalgo (SCL/GDI);
+Nelson Mauricio Estrada Regalado (INE/WSA); Ginés Suárez Vázquez (CSD/DRM); and
+José Miguel Villascusa Cerezo (PTI/ARD).
+
+
+In accordance with the Access to Information Policy, this document is being released to the public and
+distributed to the Bank’s Board of Executive Directors simultaneously. This document has not been
+approved by the Board. Should the Board approve the document with amendments, a revised version
+will be made available to the public, thus superseding and replacing the original version.
+                                                        CONTENTS
+
+
+
+PROJECT SUMMARY .............................................................................................................I
+
+I.       DESCRIPTION AND RESULTS MONITORING .................................................................2
+
+         A.      Background, problem addressed, and rationale.............................................2
+         B.      Objective, components, and cost .................................................................12
+         C.      Key results indicators ...................................................................................17
+
+II.      FINANCING STRUCTURE AND MAIN RISKS ................................................................20
+
+         A.      Financing instruments ..................................................................................20
+         B.      Environmental and social risks .....................................................................20
+         C.      Fiduciary risks...............................................................................................21
+         D.      Other key issues and risks ...........................................................................22
+
+III.     IMPLEMENTATION AND MANAGEMENT PLAN..............................................................23
+
+         A.      Summary of implementation arrangements..................................................23
+         B.      Summary of arrangements for monitoring results ........................................27
+                                                     - ii -
+
+
+
+                                                   ANNEXES
+Annex I     Development Effectiveness Matrix -- Summary
+Annex II    Results Matrix
+Annex III   Fiduciary Agreements and Requirements
+
+
+                                              REQUIRED LINKS
+      1.    Multiyear execution plan/Annual work plan
+      2.    Monitoring, evaluation, and learning
+      3.    Environmental and social review summary
+      4.    Procurement plan
+
+
+                                              OPTIONAL LINKS
+     1.     Climate change analysis
+     2.     Hydrometeorological hazards
+     3.     Geophysical hazards
+     4.     Summary of hydrometeorological and geophysical hazard mitigation measures
+     5.     Gender and diversity analysis
+     6.     Merchant survey database (2025)
+     7.     Competitiveness analysis and socioeconomic characterization of merchants and action plan for
+            competitiveness and formalization
+     8.     Merchant focus groups report
+     9.     Impact assessment methodology
+     10.    Urban regeneration plans
+     11.    Urban regeneration plan geodatabase
+     12.    Value-for-money qualitative analysis for structuring the PPP
+     13.    Financial and institutional capacity analysis and methodology and action plan for municipal
+            institution-strengthening
+     14.    Review of preliminary designs for the Santa Tecla and La Libertad markets
+     15.    Recommendations for equipment procurement for commercial sites
+     16.    Financial model and governance plan for managing municipal markets
+     17.    Tool for designing the commercial sites fee schedule
+     18.    Call for proposals to develop composting and digital payment transformation pilot projects
+     19.    Prioritization of municipios and municipal markets
+     20.    Technical assessment of land for new market in La Libertad and due diligence for purchase
+     21.    Analysis of tourism potential in Santa Tecla and La Libertad
+     22.    Economic assessment (ex ante cost-benefit analysis)
+     23.    Program Operating Regulations
+     24.    Template for interagency agreement between the Municipal Public Works Office and the
+            Libertad Sur and Libertad Costa municipios
+     25.    Impact study and environmental and social management plan for Santa Tecla
+     26.    Impact study and environmental and social management plan for La Libertad
+     27.    Relocation plan for merchants in the Santa Tecla market
+     28.    Relocation plan for merchants in the La Libertad market
+     29.    Bibliography
+                                  - iii -
+
+
+                            ABBREVIATIONS
+
+
+DNM      Dirección Nacional de Mercados (National Markets Office)
+DOM      Dirección de Obras Municipales (Municipal Public Works Office)
+FODES    Fondo de Desarrollo Económico y Social (Social and Economic
+         Development Fund)
+ILO      International Labour Organization
+IMICRO   Índice de Competitividad para Micronegocios (Micro business
+         competitiveness index)
+IRR      Internal rate of return
+OPAMSS   Oficina de Planificación del Área Metropolitana de San Salvador
+         (Planning Office for the San Salvador Metropolitan Area)
+PEU      Program execution unit
+PPP      Public-private partnership
+PROESA   Organismo Promotor de Exportaciones e Inversiones (Export and
+         Investment Promotion Agency)
+                                                             PROJECT SUMMARY
+
+                                        EL SALVADOR
+        COMPREHENSIVE PROGRAM FOR URBAN REGENERATION AND SUSTAINABLE REVITALIZATION OF
+                       MUNICIPAL MARKETS IN SANTA TECLA AND LA LIBERTAD
+                                          (ES-L1172)
+                                                         Financial Terms and Conditions
+ Borrower:                                                                                  Flexible Financing Facility(a)
+ Republic of El Salvador                                              Amortization period:                        25 years
+ Executing agency:                                                    Disbursement period:                        5 years
+ Dirección de Obras Municipales (Municipal Public                     Grace period:                               5.5 years(b)
+ Works Office)
+                                                                      Interest rate:                              SOFR + funding margin +
+           Source                  Amount (US$)              %
+                                                                                                                  OC variable lending spread(c)
+ IDB (Ordinary Capital):                 170 million          100     Credit fee:                                 (d)
+
+ Local:                                              0            0   Inspection and supervision fee:             (d)
+
+ Total:                                  170 million          100     Weighted average life:                      15.25 years
+                                                                      Approval currency:                          U.S. dollars
+                                                                 Project at a Glance
+ Project objective/description: The general objective of the program is to strengthen the local economies in the Santa Tecla and
+ La Libertad districts. The specific objectives are to: (i) improve access to quality public services and local urban infrastructure in
+ the downtown areas of the Santa Tecla and La Libertad districts, including the municipal markets; (ii) boost competitiveness and
+ promote formalization of the businesses in the municipal markets of both districts; and (iii) build the institutional and financial
+ capacities of the Libertad Sur and Libertad Costa municipios (paragraph 1.56).
+ Special contractual conditions precedent to the first disbursement of the loan: (i) the program Operating Regulations have
+ been approved under the terms previously agreed upon with the Bank; (ii) key staff of the program execution unit has been
+ designated, including: (a) general program coordinator, (b) financial coordinator, (c) procurement coordinator, (d) planning and
+ monitoring coordinator, and (e) environmental and social coordinator; and (iii) evidence has been provided that a framework
+ agreement has been signed between the executing agency and each of the municipios detailing the responsibilities of each party
+ during program execution (paragraph 3.12).
+ Special contractual conditions of execution: The borrower, through the executing agency, will present evidence to the Bank
+ that the following conditions have been met: before signing the contract to perform the works for each of the markets and the
+ basic services infrastructure under Component 1 of the program, it will have submitted evidence of the following: (i) legal
+ ownership of the land and/or real property, establishment of easements or other rights and permits required to build and use the
+ respective works; and (ii) it has contracted supervision of the works. This condition is necessary to ensure smooth construction.
+ See the social and environmental contractual conditions in Annex B of the environmental and social review summary
+ (paragraph 3.13).
+ Exceptions to Bank policies: None.
+                                                               Strategic Alignment
+ Objectives:(e)                               O1 ☒                                     O2 ☒                                      O3 ☒
+ Operational focus               OF1 ☒           OF2-G ☒              OF3 ☒            OF4 ☒            OF5 ☒            OF6 ☒             OF7 ☐
+ areas:(f)                                       OF2-D ☒
+(a) Under the terms of the Flexible Financing Facility (FN-655-1), the borrower has the option of requesting changes to the amortization schedule, as
+    well as currency, interest rate, commodity, and catastrophe protection conversions. The Bank will take operational and risk management
+    considerations into account when reviewing such requests.
+(b) Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that they do not entail
+
+    any extension of the original weighted average life of the loan or the last payment date as documented in the loan contract.
+(c) Daily compounded SOFR in arrears. The IDB funding margin is determined on a quarterly basis. The IDB OC variable lending spread is determined
+
+    by the Board of Executive Directors on an annual basis.
+(d) The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the
+
+    Bank’s lending charges, in accordance with applicable policies.
+(e) O1 (Reduce poverty and inequality); O2 (Address climate change); and O3 (Promote sustainable regional growth).
+
+(f) OF1 (Biodiversity, natural capital, and climate action); OF2-G (Gender equality); OF2-D (Inclusion of diverse groups); OF3 (Institutional capacity,
+
+    rule of law, and citizen security); OF4 (Social protection and human capital development); OF5 (Productive development and innovation through the
+    private sector); OF6 (Sustainable, resilient, and inclusive infrastructure); OF7 (Regional integration).
+                                                        -2-
+
+
+
+
+                             I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+1.1       With 765,879 inhabitants (13% of El Salvador’s population), La Libertad
+          department is known for its biodiversity, cultural heritage, and importance for the
+          country’s economic development. Nevertheless, it faces challenges such as the
+          urban decay typified by failing urban infrastructure and inadequate access to public
+          services, a high rate of informal businesses, and low municipal institutional and
+          financial capacity. This affects the local economy [2] [3].1
+1.2       This situation is particularly noticeable in the department’s main districts of
+          Santa Tecla and La Libertad (Illustration 1), and even more markedly in the areas
+          surrounding their municipal markets [4]. The estimated per capita income in the
+          districts that make up the San Salvador metropolitan area is 25% lower for the
+          Santa Tecla municipal market area of influence than that in adjacent districts like
+          San Salvador and Antiguo Cuscatlán. Meanwhile, the estimated per capita income
+          for the La Libertad municipal market area of influence is 30% lower than that in the
+          district of San Salvador [5].
+
+                    Illustration 1. Political and administrative division of La Libertad department
+
+
+
+
+            Source: Own illustration based on data from the Centro Nacional de Registro (National Registry Center)
+            and the Dirección General de Estadística y Censos (Statistics and Census Bureau), 2025.
+
+
+          1. Description of urban decay and informal businesses in Santa Tecla,
+             Libertad Sur municipio
+1.3       With approximately 138,000 inhabitants, Santa Tecla is the most populous district
+          in La Libertad and a major regional economic center. According to the Planning
+          Office for the San Salvador Metropolitan Area (OPAMSS) [6], it has the
+
+
+1    See complete list of bibliographic references (optional link 29) identified by a number in square brackets [#].
+                                                -3-
+
+
+
+      third largest number of registered businesses in the country and is a driver of
+      commercial and entrepreneurial activity in El Salvador.
+1.4   In addition to being an economic center, Santa Tecla is known for its tourism
+      infrastructure, such as the Paseo El Carmen, the Museo Tecleño, and the Parque
+      Nacional El Boquerón (optional link 21). However, its urban environment is
+      eroding, with shortfalls in infrastructure and public services, and a high number of
+      informal businesses.
+
+                                    Illustration 2. Santa Tecla city center
+
+
+
+
+      Source: IDB (2025). Urban Regeneration Plan – Santa Tecla District.
+
+
+      2. Condition of urban infrastructure
+1.5   The Santa Tecla municipal market, which originally held 1,500 businesses, now
+      operates at a reduced rate with 700 active merchants due to the deterioration of
+      its infrastructure and electrical hazards (optional link 14). The authorities have
+      relocated some vendors, but the original market continues to run under precarious
+      conditions, with deficient sanitation, accessibility, ventilation, and structural safety.
+      This is clear by the findings of a merchant survey: 87% of respondents in
+      Santa Tecla say the sanitary facilities are inadequate, and 86% feel that the market
+      spaces are neither safe nor suitable for children. In addition, 28% of Santa Tecla
+      residents are unsatisfied with the condition of the municipal markets [7].
+                                                   -4-
+
+
+
+                             Illustration 3. Interior and exterior of Santa Tecla Market
+
+
+
+
+       Source: IDB (2025).
+
+
+1.6    The market area shows significant urban decay, according to the IDB’s technical
+       walkability index (optional link 10), which evaluates the quality of the pedestrian
+       space, rating it 16.3 out of 23 or “fair.” The main causes are noncontinuous
+       sidewalks, deteriorated pavement, inadequate signage, and unsafe conditions for
+       women and persons with reduced mobility.
+1.7    The streets in the city center are in poor condition, affecting commercial activity.
+       According to the merchants survey (optional link 7), half of the vendors in the
+       municipal markets see the deteriorating road infrastructure as an obstacle.
+       Santa Tecla also has only 4.7 km of functional bike paths, well below the target of
+       43 km projected by OPAMSS for 2025 (optional link 10). This limits sustainable
+       mobility and safe access to the commercial area.
+1.8    The public space has various deficiencies: tree coverage is inadequate (23%) to
+       mitigate the urban heat island effect (optional link 10), lighting is insufficient, and
+       the street furniture has deteriorated. In addition, there is a lack of public space,
+       with only 5.75 m² per inhabitant, below the target of 10 m². In all, 14% of residents
+       are unsatisfied with the quality of parks and plazas [8], and 25% of merchants
+       report lack of access to quality public spaces near the markets (optional link 7).
+       3. Status of basic services
+1.9    Santa Tecla faces serious limitations in its basic services (optional link 10). While
+       the urban area has a sanitary sewerage system, it has no system for treating
+       wastewater, which is discharged into rivers and gulleys, especially the
+       Acelhuate River. Deterioration of the trunk lines causes frequent overflows and the
+       existing infrastructure does not have the capacity to manage urban growth. The
+       result is a river contaminated with fecal coliform bacteria and low oxygenation,
+       which affects water quality and fish stocks.
+1.10   It also faces serious problems with the storm drainage system, especially around
+       the municipal market. The drainage network cannot handle the runoff from rain
+       storms, with return periods of 10, 25, and 50 years (optional link 10). Hydrological
+       modeling shows that pipes near the market do not have the capacity to handle flow
+       rates. It is not feasible to divert those flows to another sub-basin due to inadequate
+       capacity downstream.
+1.11   The Libertad Sur municipality has implemented a solid waste collection system
+       that covers 100% of the urban area, including the municipal market and the
+       Historic Center (optional link 10), with daily collection in the commercial areas and
+                                                      -5-
+
+
+
+         markets. However, 35% of merchants report problems with solid waste
+         management, which reflects operating and coordination deficiencies in certain
+         areas (optional link 7). The lack of separation at source limits recycling and
+         composting, hindering the system’s efficiency and sustainability.
+1.12     In light of the above, the index of merchants’ average perception of the local
+         environment in the Santa Tecla district, which assesses aspects such as safety,
+         waste management, access to basic services, paving conditions, etc., is low, at
+         3.07 out of 5 (optional link 7).
+         4. Informal economy and business capacity
+1.13     Commercial activity in the Santa Tecla municipal market is quite informal (optional
+         link 7). While 79% of businesses are registered with city hall, fewer than 10% are
+         registered with other appropriate institutions. For example, only 5% are registered
+         with the Ministry of Finance’s Internal Revenue Service, and fewer than 3% with
+         the National Registry Center’s Commercial Registry, Social Security, Pension
+         Fund Administrators, and the Ministry of Labor, reflecting limited tax, employment,
+         and social security formalization. Based on the International Labour Organization’s
+         (ILO) definition,2 only 4.64% of vendors in the municipal market are formal
+         (required link 2).
+1.14     The micro business competitiveness index (IMICRO) evaluates the competitiveness
+         of businesses in areas such as financial strength, technology use, formalization,
+         human capital, and investment capacity. The results (index of 0.18 out of 1) indicate
+         that the majority of micro businesses in the Santa Tecla municipal market have high
+         levels of privation, which limits their growth, access to finance, and long-term
+         sustainability [9].
+         5. Description of urban decay and informal economy in La Libertad,
+            Libertad Costa municipio
+1.15     With approximately 40,000 inhabitants, the district of La Libertad has had
+         considerable tourism momentum thanks to the Surf City Program, which has
+         attracted strategic investment and sustained visitor growth (optional link 21). The
+         country has invested US$400 million in key projects such as a highway,
+         renovation of the Puerto de La Libertad Tourism Complex, the first lifeguard unit in
+         the country, the Gastro-Lab, and the first permanent amusement park by the sea.
+1.16     But, like Santa Tecla, the downtown area of the district (Illustration 4) is clearly
+         decayed, as seen in the poor condition of infrastructure, limited access to basic
+         public services, and the widespread presence of an informal economy, particularly
+         around the main municipal market. These conditions contrast with the dynamic
+         tourist scene in the area and limit its development.
+
+
+
+
+2   An informal business is one that is not registered with the Ministry of Finance. Informality is thus defined
+    based on the percentage of establishments that report they are not registered there.
+                                                  -6-
+
+
+
+                                      Illustration 4. La Libertad city center
+
+
+
+
+       Source: IDB (2025). Urban Regeneration Plan – La Libertad District.
+
+
+       6. Condition of urban infrastructure
+1.17   La Libertad municipal market, near the coastline, has inadequate infrastructure
+       and limited space (Illustration 5). Approximately 500 merchants operate in its
+       rudimentary facilities (optional link 14). The informal expansion into a public street
+       and vendors’ occupation of public spaces compound the situation. The market has
+       sanitation, accessibility, ventilation, and structural safety issues, which has an
+       adverse impact on users’ experience and work conditions. As a reference, 92% of
+       merchants in La Libertad municipal market say the market is not a safe place for
+       children, and 94% report that the sanitary facilities are inadequate (optional link 7).
+
+                                Illustration 5. Interior of La Libertad market
+
+
+
+
+       Source: IDB (2025).
+
+
+1.18   The La Libertad district downtown area is highly deteriorated, especially its
+       pedestrian infrastructure. The IDB’s technical walkability index yielded a score of
+       12.9 out of 23, considered “poor” (optional link 10). This is due to the poor overall
+       condition of the sidewalks, with no universal accessibility and permanent
+       obstructions, which limits safe and functional pedestrian mobility.
+                                             -7-
+
+
+
+1.19   The streets also show significant deterioration, impacting commercial activity. In
+       all, 70% of merchants think that the poor road infrastructure limits their operations
+       (optional link 7). According to the urban regeneration plan (optional link 10),
+       secondary and tertiary roads are in poor condition and do not have signage. Lack
+       of parking causes people to use public spaces haphazardly. There are no
+       functioning bike paths.
+1.20   The public space also has significant deficiencies in quantity, quality, and
+       functionality. In Libertad Costa, 36% of inhabitants have no access to public
+       spaces and, in the downtown area, there is only 0.23 m² of available space per
+       inhabitant (optional link 10).
+1.21   The quality of the urban environment is compromised by tree coverage of less than
+       10%—not enough to mitigate the heat island effect and improve habitability
+       (optional link 10). The street furniture is decayed, and the public space is crowded
+       with the installation of 378 utility poles, which affects pedestrian mobility, urban
+       environment functionality, and user experience.
+       7. Condition of basic services
+1.22   La Libertad district faces serious deficiencies in its basic services, particularly its
+       sanitation system. The sewerage system, built with asbestos cement pipes, is in
+       poor condition and frequently leaks. The system relies on two pumping wells
+       located facing the beaches, producing bad odors and health risks, especially
+       during power outages (optional link 10).
+1.23   Wastewater is channeled toward the Chilama Wastewater Treatment Plant (1981),
+       but the plant has regular operating failures and is running at the limit of its capacity.
+       As a result, the Chilama River has critical levels of fecal coliform bacteria from the
+       untreated discharge and severe fecal contamination (optional link 10).
+1.24   The storm drainage system does not have sufficient capacity to manage heavy
+       rainfall, which causes water to accumulate and increases the risk of flooding
+       (optional links 10 and 2). The coastal topography and the soil’s impermeability
+       increase surface runoff and reduce natural infiltration. There are no temporary
+       water storage systems to regulate flows before they are discharged into natural
+       basins. The municipal market area is among the hardest hit, due to the lack of
+       collector mains and its proximity to the Chilama River.
+1.25   The municipality manages the solid waste collection system with support from
+       private companies in some zones (optional link 10). The waste is collected daily
+       downtown and in the municipal market, three times a week in residential areas,
+       and more frequently in tourist areas during the high season. However, service is
+       irregular in peripheral neighborhoods. The lack of vehicles limits operational
+       capacity and there are no sorting and classification centers, making the system
+       less efficient. Communication with the population is lacking, particularly in special
+       waste management. Thirty-five percent of municipal market merchants report
+       problems with waste management (optional link 7).
+1.26   In light of the above, similar to Santa Tecla, the merchants’ perception index of the
+       local environment in La Libertad is low, at 3.13 out of 5 (optional link 7).
+       8. Informal economy and business capacity
+1.27   Commercial activity in La Libertad municipal market is predominantly informal.
+       While 100% of businesses have municipal registration, their registration with other
+                                                         -8-
+
+
+
+          State agencies is quite low (optional link 7), with a formalization rate just below
+          3% (required link 2), according to ILO methodology. This figure reflects a fragile
+          economic structure, with no social protections and limited compliance with tax and
+          labor obligations.
+1.28      The micro business competitiveness index was also applied to La Libertad central
+          market (optional link 7). The results (index of 0.16 out of 1) indicate that a
+          significant proportion of the market’s micro businesses faces high levels of
+          vulnerability, with structural constraints that reduce their growth potential, hinder
+          access to finance, and compromise their medium- and long-term
+          sustainability [10].
+          9. Context for the hydrometeorological and geophysical hazards
+1.29      Both districts are facing recurring hydrometeorological and geophysical
+          hazards that exacerbate their vulnerabilities and deepen impacts on infrastructure,
+          economic activity, and the population’s living conditions (optional links 2 and 3).
+1.30      The Santa Tecla district faces high exposure to pluvial flooding due to the limited
+          urban drainage capacity and its flat topography. There is also a growing risk of
+          hydrological drought from the stress on water sources. Higher temperatures
+          produce urban heat island conditions, especially for vulnerable populations.
+1.31      Seismic risk is also significant. The area is exposed to pyroclastic flows from the
+          San Salvador Volcano. While the eruption cycle exceeds the project’s useful life,
+          monitoring and early warning systems should be maintained. The risk of landslides
+          is low.
+1.32      In La Libertad district, low-lying areas have limited drainage capacity, making
+          them more vulnerable to storm flooding. The proximity to the Chilama River and
+          La Presa stream creates additional risk due to river flooding and sedimentation.
+          The coast shows signs of active erosion and growing exposure to rising sea levels,
+          threatening the infrastructure near the coast. In addition, meteorological and
+          hydrological droughts and heat waves are considerable, aggravated by the scarce
+          vegetation and predominant construction features.
+1.33      The district is also in a high seismic hazard zone. While the threat of landslides is
+          low, its location on an alluvial fan of the Chilama River means exposure to runoff.
+          Maps classify the district as having a “medium-high” threat of tsunamis, although
+          historical records show swells of less than one meter over the past century.
+
+                       Box 1. Why prioritize the Santa Tecla and La Libertad districts?
+
+       These districts were chosen based on a multidimensional prioritization process using objective
+       indicators: poverty levels, population concentration, degree of urbanization, existing infrastructure
+       conditions, and potential for territorial impact. This makes it possible to target territories where it is
+       possible to produce significant outcomes nationally with a demonstration effect.
+       For the process, we used Small Area Estimates in the country’s 262 districts [11] and automatic
+       learning algorithms to identify high-priority districts in terms of income and multidimensional poverty,
+       based on the 2007 census and the 2023 Multipurpose Housing Survey. We also looked at the local
+       economic structure, especially the business, restaurant, and hotel sector, for its ability to drive urban
+       renewal and economic activity. We calculated the percentage and absolute number of workers in
+       this sector by municipio, using sample expansion factors from the 2023 housing survey.
+       The results were decisive: Regarding the local economic structure—one factor considered for
+       prioritization—La Libertad tops the national ranking with 47% of its workforce employed in this sector,
+       which positions it as a tourist and economic engine nationally. Santa Tecla is in fourth place in
+                                                        -9-
+
+
+
+       absolute terms, with over 13,000 workers in these categories, consolidating its place as a
+       metropolitan trading hub, with a high concentration of businesses and job creation potential [12].
+       Both districts have three strategic attributes: (i) high concentration of employment in sectors related
+       to the interventions; (ii) lack of basic services, limiting their productivity; and (iii) ongoing public
+       investments that boost synergies for development. This duality between urgent needs and high
+       impact potential justifies their selection as priority areas (optional link 19).
+
+
+          10. Main causes of the problem
+1.34      Below are the main causes of the significant decay in the downtown areas of the
+          Santa Tecla and La Libertad districts contributing to the loss of a vital local
+          economy.
+1.35      Limited access to urban infrastructure and high-quality public services. The
+          urban decay in the downtown areas of both districts is largely due to the lack of
+          access to urban infrastructure and basic services. This stems from a prolonged
+          streak of low public investment in these categories. It also reflects various market
+          failures that justify government intervention, such as insufficient delivery of public
+          goods and negative externalities linked with urban decay.
+1.36      Although public investment in infrastructure rose between 2021 and 2023, from
+          2003 to 2013 the State allocated on average only 1.1 % of annual GDP to this
+          category, well below the 3% recommended by the IDB for the countries of
+          Latin America and the Caribbean to achieve the Sustainable Development Goals
+          by 2030. Moreover, from 2008 to 2020, investment in economic infrastructure in
+          four key sectors—water, energy, telecommunications, and transportation—
+          represented just 0.16% of GDP in El Salvador, far short of the 3.28% recorded in
+          Panama and 2.88% in Costa Rica over the same period [13] [14] [15].
+1.37      Informality and low commercial sector competitiveness, including in
+          municipal markets. Merchants say the main barrier to formalization is the
+          perception that the process is costly and complex (65% and 66%) due to taxes
+          and red tape (66% and 71%) (optional link 7). While many recognize the need to
+          become formalized to grow, the idea persists that informality is not a problem
+          (50%) and that a business can operate without paying taxes (44%). This reflects a
+          market failure due to information asymmetry, where merchants make suboptimal
+          decisions due to distorted views or lack of information on the real benefits of
+          formalization. Moreover, the persistence of informality creates negative
+          externalities on the economy as a whole, such as unfair competition and low tax
+          revenue, which justifies State intervention to correct these imbalances.
+1.38      Informality creates barriers to accessing formal financing: many informal
+          merchants depend on unregulated lenders, paying interest rates as high as 33%,
+          above the rates offered by the formal financial system (optional link 7). However,
+          other merchants recognize that formalization is important for their business’s
+          growth and consolidation (79%) [21].
+1.39      According to the IMICRO, the businesses have a low level of competitiveness due
+          to the merchants’ level of education. Most lack formal education or completed only
+          basic primary school (index of 0.08 out of 1) or training in entrepreneurship or
+          business administration (index of 0.21 out of 1) (optional link 7). According to the
+          survey of merchants, eight out of ten have never received training related to
+          enhancing their business skills in critical areas such as business management,
+          finance, marketing, or digitization. Similarly, the merchants interviewed in both
+                                                 - 10 -
+
+
+
+       markets report that the few trainings they have received were not tailored to their
+       needs. This represents an underinvestment in human capital, a market failure
+       when individual stakeholders do not internalize the social benefits of education and
+       do not have adequate access to relevant training services. Government
+       intervention is necessary in this case to boost productivity.
+
+             Box 2. What is the relationship between business informality and urban decay?
+
+        Business informality contributes to urban decay. Intensive use of urban infrastructure by informal
+        merchants, including sidewalks, plazas, and streets, accelerates the physical wear on these
+        spaces without providing adequate resources to maintain them. The fact that informal businesses
+        operate outside the fiscal framework prevents governments from receiving tax revenue. The
+        constant presence of points of sale overloads these spaces, compromising their functionality and
+        structural integrity [22].
+        Municipal markets tend to become disorganized due to lack of planning and regulation.
+        Overcrowding is a result of excessive density of stands that block traffic and the distribution of
+        products. This affects their ability to operate, increases the risk of accidents, and worsens
+        work conditions.
+        The accumulation of solid waste increases in areas with a high density of informal commerce,
+        contributing to health problems. Studies show that the proliferation of informal vendors is
+        correlated with an increase in trash and damage to public spaces. This affects the city’s
+        infrastructure and cleanliness [23].
+
+
+1.40   It should be noted that, while there are programs to promote formalization and
+       training for micro and small business owners, such as the ones led by the National
+       Micro and Small Business Committee, they have not targeted municipal markets.
+       Also, there are no rigorous assessments that can measure their effectiveness or
+       impact on the sustainability and formalization of the businesses.
+1.41   Limits on the institutional and financial capacity of the municipios are a
+       leading cause of urban decay. Although both municipios have an institutional
+       structure for managing their markets, their performance is lacking; they do not have
+       the operating regulations and technical criteria for commercial presentation of
+       products in the municipal markets (optional link 13). They also face constraints in
+       planning, budget implementation, regulatory coordination, and availability of fiscal
+       instruments (optional link 13). This mainly reflects a lack of coordination in public
+       management, where urban planning is not sufficiently linked to financial
+       instruments or implementation mechanisms. There is also a lack of technical and
+       operational information, which limits local governments’ ability to make informed
+       decisions and provide urban public goods efficiently and sustainably.
+1.42   Libertad Sur has a consolidated administrative structure with over 120 technicians
+       in specialized areas such as land use planning, land registries, public services,
+       infrastructure, and mobility (optional link 13). This institutional framework has
+       enabled synergies with OPAMSS, application of urban development ordinances,
+       and strengthening of interagency coordination. It has geographic information
+       systems, interoperable digital land registers, and inspection mechanisms in the
+       field [24]. However, this is insufficient to face complex challenges such as urban
+       expansion, consolidation of intermediate urban areas, and execution of
+       comprehensive projects. The main weaknesses include little regulatory updating,
+       lack of partial plans, and lack of repeatable models that tie land use planning to the
+                                                    - 11 -
+
+
+
+         local budget and financing instruments. This gives the municipio a comprehensive
+         land management capacity index of 0.85 out of 1.
+1.43     Libertad Costa faces significant institutional limitations. While it has a land use
+         ordinance, it lacks stable technical teams and standardized planning procedures
+         (optional link 13). Its institutional structure is multipurpose, without differentiated
+         technical departments, and decisions are concentrated in administrative offices
+         without specialized technical support. The land register is manual and piecemeal,
+         with no geographic information systems or updated territorial databases [25].
+         Public investment responds to immediate demands, with no multiyear planning or
+         clear prioritization mechanisms, which limits its ability to structure technical projects,
+         take part in calls for cofinancing, or establish public-private partnerships with
+         sustainability and equity criteria. As a result, its land management capacity index is
+         lower than that of Libertad Sur, at 0.44 points.
+1.44     From a financial standpoint, municipios in El Salvador, in general, face significant
+         revenue constraints (optional link 13). Before the reform of the Social and
+         Economic Development Fund (FODES),3 municipal expenditure in El Salvador
+         represented approximately 3.2% of GDP, with 43% of municipal revenue coming
+         from FODES (2016). The 2021 reform cut the FODES allocation to 1.5% of the net
+         current income of the general State budget. The limited revenue generation
+         restricts public investment capacity. Only 21% of municipal expenditure goes to
+         investment, compared to a regional average of 45% (2016) [16]. This can be seen
+         in municipal investment in Santa Tecla and La Libertad.
+1.45     Investment in urban infrastructure and public services in Santa Tecla has not been
+         sustained nor sufficient to contend with the growth and complexity of its urban
+         environment (optional link 13). Although per capita investment expenditure was
+         US$55 in 2023—a relatively high amount for a municipio in El Salvador—it remains
+         low compared with other countries in the region. In Honduras, for example, the
+         figure is US$91; in Guatemala, US$122; and in Costa Rica, US$117. The figure
+         has remained constant since 2020. In addition, capital expenditure has been
+         irregular, varying from US$600,000 in 2018 to US$5.2 million in 2022, with an
+         annual average of US$2 million (optional link 13).
+1.46     In La Libertad, the lag in infrastructure is even more critical. Per capita investment
+         spending was only US$10.6 and the investment component accounted for 13% of
+         the total budget, concentrated in minimum road maintenance and small community
+         works, with no long-term structural programs or territorial projects. From 2018 to
+         2023, capital expenditure fell from US$2.9 million to US$2.2 million, reflecting a
+         downward trend (optional link 13).
+1.47     Regarding revenue, Libertad Sur has consolidated an income structure based on
+         rates for public services and special assessments, but it does not apply a modern
+         property tax or have mechanisms to capture land appreciation [26]. Its savings
+         capacity is limited, and it has no systems that systematically coordinate the
+         territorial planning cycle with the budget cycle.
+
+
+
+
+3   FODES is a mechanism used by the Salvadoran government to transfer resources to the municipios to
+    support local development projects, infrastructure, and basic services. It was created in 1988 to enhance
+    local government autonomy and management capacity.
+                                            - 12 -
+
+
+
+1.48   Libertad Costa relies on transitory revenue like operating permits, tourism fees,
+       and national transfers. The cut to FODES in 2021 critically affected its fiscal
+       autonomy and ability to sustain essential services like road maintenance, waste
+       management, and market operation. This is compounded by the lack of long-term
+       strategies (optional link 13). It does not have results-oriented budget control tools
+       or investment tracking and assessment mechanisms, which affects the
+       effectiveness of resource allocation and municipal management transparency [27].
+1.49   These conditions have direct implications for land management. In Libertad Sur,
+       the absence of a land use monitoring system makes it difficult to effectively apply
+       the current urban ordinance. In Libertad Costa, there are no technical tools for
+       delimiting zones according to their territorial objectives, be they for urban, rural, or
+       environmental protection use [28].
+1.50   Gaps between men and women and inclusion of persons with disabilities.
+       Gaps in labor participation and wages persist in El Salvador: The labor
+       participation rate for men is 81.5% and 50.5% for women, while the average
+       monthly salary is US$448.04 for men, and US$358.39 for women [29]—i.e., 20%
+       lower for women. And while informal work is distributed relatively equally at the
+       national level, in the commercial sector, women account for 65% of informal
+       employment, compared to 35% for men. Based on the 2022 El Salvador Time Use
+       Survey, women report that 22% of their time is spent daily on domestic chores
+       and nonremunerated care, while men report 13%, creating a gap of 9 percentage
+       points. This unequal distribution of responsibilities limits economic opportunities
+       for women and contributes to their low labor participation, occupational
+       segregation, and wage gaps.
+1.51   In both municipal markets, women run 75% of the businesses, but their trade
+       generates 27% less in monthly sales than businesses run by men, even when
+       considering education level, category, and seniority. They also face greater
+       barriers to accessing formal suppliers and long-term credit (optional link 7). Thus,
+       we see a statistically significant gap in the competitiveness of businesses
+       operating in markets, differentiated by gender.
+1.52   Educational barriers are significant: 14% of women merchants have no education,
+       compared to 5% of men. These gaps widen when we look at the excess burden of
+       nonremunerated work, especially in domestic chores and caregiving. Women
+       devote on average 3.4 hours a day to these tasks, compared to 2.6 hours for men,
+       which limits their time for training and participating in productive networks.
+       Eight percent of women identify family responsibilities as an obstacle to training,
+       compared to 3.3% of men (optional link 7).
+1.53   Violence against women is prevalent in public spaces. Among women ages 15 or
+       older, 52% have suffered some type of assault throughout their lives, and 24%
+       have in the past 12 months [30]. In La Libertad, these figures are 56% and 22%,
+       respectively. The majority of assault cases in the past 12 months occurred in
+       community spaces.
+1.54   According to the 2024 population and housing census, 4.9% of the national
+       population reports some type of disability. Other studies estimate that 20% of the
+       national population has some type of disability, and 8% have critical
+       conditions [33]. Among female vendors in the two markets, this percentage climbs
+       to 5.3%, with motor disability being the most prevalent. Nevertheless, 69% of sites
+       are not adapted for persons with motor disabilities. The figure rises to 85% in
+                                            - 13 -
+
+
+
+       La Libertad. El Salvador lacks accessible public spaces for persons with
+       disabilities [31]. The disabled population in La Libertad is 8% [32]. The situation is
+       compounded because most public spaces, such as parks and municipal markets,
+       are not designed to ensure adequate access for persons with disabilities [33] [34].
+1.55   Rationale. Based on the identified problems and their main causes, the program
+       will seek to reverse urban decay, boost business competitiveness and
+       formalization, and build the municipios’ financial and institutional capacities, with a
+       view to revitalizing the local economy.
+B.     Objective, components, and cost
+1.56   General objective. The general objective of the program is to strengthen the local
+       economies in the Santa Tecla and La Libertad districts. The specific objectives
+       are to: (i) improve access to quality public services and local urban infrastructure
+       in the downtown areas of the Santa Tecla and La Libertad districts, including the
+       municipal markets; (ii) boost competitiveness and promote formalization of the
+       businesses in the municipal markets of both districts; and (iii) build the institutional
+       and financial capacities of the Libertad Sur and Libertad Costa municipios.
+1.57   Component 1. Developing urban infrastructure and basic services
+       (US$152 million). This component contributes to the specific objective to “improve
+       access to quality public services and the local urban infrastructure in the downtown
+       areas of the Santa Tecla and La Libertad districts, including the municipal
+       markets.” Actions will be financed in the city centers of the Santa Tecla and
+       La Libertad districts, including construction and renovation of two municipal
+       markets, one in each district, and their respective areas of direct influence.
+1.58   Part of the investment will go toward comprehensive development of these
+       markets, based on criteria of universal accessibility, social inclusion, climate
+       resilience, and financial sustainability. Each market will have measures to mitigate
+       geophysical and hydrometeorological hazards, as well as complementary
+       services, including childcare centers and lactation rooms, to facilitate the labor
+       participation of female merchants, infirmaries, and spaces for recreational and
+       religious activities. The markets will have the furniture and infrastructure to ensure
+       proper operation of the commercial spaces and will adopt the EDGE Advance
+       standard, to promote energy efficiency and rational water use [35]. Estimated
+       investment for the construction work at the Santa Tecla municipal market is
+       approximately US$78 million, while the investment for the La Libertad municipal
+       market is estimated at US$28 million. The remaining amount will go toward urban
+       development works and consulting and nonconsulting services related to the
+       activities under the component.
+                                                    - 14 -
+
+
+
+                              Illustration 6. Provisional municipal market project designs
+
+
+
+
+       To the left, Santa Tecla municipal market; to the right, La Libertad municipal market. Source: IDB (2025).
+       Note: These images are for reference. The plans for both market projects are still in the design phase.
+
+
+1.59   Public spaces around the markets will be renovated, including streets, parks,
+       plazas, and green spaces, integrating climate adaptation and mitigation, social
+       inclusion, and universal accessibility criteria (optional link 10) [36]. Lighting will
+       also be improved to enhance the personal safety of passersby, particularly women.
+1.60   Resources will be earmarked to improve basic services infrastructure inside the
+       markets and in the immediate surrounding areas. Investments will include
+       upgrades to the storm drainage system and solid waste management, including
+       implementation of a pilot project for composting and biogas to take advantage of
+       organic waste and alternative energy sources for the markets (optional link 18).
+       Installation of wastewater treatment plants is envisaged at both municipal markets.
+       The investment for infrastructure construction is estimated at US$23 million for
+       Santa Tecla and US$16 million for La Libertad.
+1.61   Component 2. Comprehensive support for micro and small merchants
+       (US$7.7 million). This component contributes to the specific objective to “boost
+       competitiveness and promote formalization of the businesses in the municipal
+       markets of both districts.” Activities to be financed will be geared toward
+       strengthening the productive and commercial capacity of all merchants in both
+       municipal markets with a focus on economic sustainability, inclusion and equity in
+       forms accessible to persons with disabilities (sign language, accessibility guidelines
+       for web content for digital solutions, etc.), flexible schedules, and childcare support
+       to help women attend activities. Planned actions include technical and business
+       training, covering topics such as planning, financial management, accounting,
+       purchasing, marketing, negotiation, and financial literacy. Businesses will be
+       encouraged to formalize using personalized consulting.
+1.62   Adoption of digital pay solutions will also be promoted with a pilot project to improve
+       businesses’ operational efficiency (optional link 18), and microfinance fairs will be
+                                                  - 15 -
+
+
+
+         held.4 The creation of a buying cooperative for vendors will also be promoted with
+         a governance model that optimizes the procurement of supplies and generates
+         economies of scale (optional link 7).
+1.63     Commercial equipment (refrigerators, stoves, refrigerated display cases) will be
+         procured, via accessible microfinance arrangements. Repayment for these assets
+         will be structured by a leasing system for commercial premises, providing a
+         gradual, sustainable mechanism for recovering costs. A strategic marketing plan
+         will also be prepared and implemented to reposition the municipal markets.
+1.64     Component 3. Building municipal institutional and financial capacities
+         (US$5.3 million). This component contributes to the specific objective to “build the
+         institutional and financial capacities of the Libertad Sur and Libertad Costa
+         municipios.” Four groups of key activities geared toward strengthening local public
+         management will be financed: (i) development of regulatory instruments, operating
+         manuals, and management protocols to optimize the operating and running of the
+         municipal markets [37]; (ii) creation of partial land use plans and special plans for
+         comprehensive management of urban mobility, along with strengthening of
+         territorial information systems; (iii) design and implementation of programs to
+         consolidate the technical capacity of municipal urban planning, tax management,
+         and market and land development management offices; and (iv) creation of
+         regulatory instruments to charge for use of the public space and other nontaxed
+         services, and development of regulations for implementing instruments to capture
+         land appreciation tied to local financial sustainability.
+1.65     Support for program administration and contingent expenses (US$5 million).
+         Financing will be provided for program execution, including hiring of PEU technical
+         staff and operating and administrative expenses, midterm and final evaluations, and
+         financial and management audits. It will also finance an impact assessment to gauge
+         the effectiveness of the interventions for the merchants and generate evidence for
+         decision-making, together with an institutional communication strategy.
+
+                                        Box 3. Statement of theory of change
+
+          Improving access to urban infrastructure and basic services, promoting formalization and
+          competitiveness of the merchants in both municipal markets, and building the institutional and
+          financial capacities of the Libertad Sur and Libertad Costa municipios will renew the downtown
+          areas of Santa Tecla and La Libertad, strengthening the local economies.
+
+
+
+
+4   A microfinance fair is an event where financial products and services designed for micro and small
+    business owners are presented. The main goal is to inform them about how to access these services and
+    the requirements and benefits.
+             - 16 -
+
+
+
+Illustration 7. Theory of change
+                                           - 17 -
+
+
+
+C.     Key results indicators
+1.66   The indicator (Annex II) for measuring the general objective will assess the income
+       level in the area of influence of the municipal markets and gross revenue of the
+       merchants. The indicators for measuring the specific objectives are: (i) merchant
+       perception of problems in the local environment; (ii) number of people who enter
+       the market; (iii) walkability index; (iv) robustness of micro businesses; (v) gender
+       gap in robustness of micro businesses; (vi) proportion of merchants who meet the
+       formalization criteria; (vii) operating cost coverage index in municipal markets; and
+       (viii) comprehensive land management capacity index.
+1.67   Economic assessment. The economic assessment for the Santa Tecla and
+       La Libertad municipal markets remodeling project was drawn up using a
+       cost-benefit analysis, with a discount rate of 12% and an assessment horizon of
+       20 years. This methodology quantified ex ante the program’s economic return,
+       considering both execution and operating costs and aggregate future benefits.
+1.68   The assessment found an internal rate of return (IRR) that ranged from 12.18% to
+       22.66%, depending on the scenario being assessed. A sensitivity analysis with
+       pessimistic and optimistic scenarios showed how robust the outcomes were, with
+       positive IRRs in both cases.
+1.69   Impact assessment. The assessment measures the changes in the micro
+       businesses’ monthly gross incomes in the municipal markets, merchants’ perception
+       of problems in the area, competitiveness among businesses, and economic activity
+       in the areas surrounding the markets, using the intensity of night lighting captured
+       by satellite imagery. The methodology uses the quasi-experimental designs of
+       difference-in-differences and synthetic control, comparing pre- and post-intervention
+       changes in treatment and control areas. The choice of control municipios is
+       enhanced with the Propensity Score Matching methodology, and a granular spatial
+       analysis will be performed using satellite imagery.
+1.70   Direct and indirect benefits. The interventions will directly benefit an estimated
+       2,000 merchants: 1,500 in Santa Tecla and 500 in La Libertad. They will also have
+       a positive impact on approximately 1,800 residents of Santa Tecla and 2,500 of
+       La Libertad, improving the urban environment, public services, and economic
+       dynamism. The improvements in infrastructure and equipment will also benefit
+       domestic and foreign tourists, especially in areas such as Paseo El Carmen and
+       the Malecón at Puerto de La Libertad. An estimated 3.8 million visitors to
+       La Libertad annually will enjoy safer, better organized, and more attractive spaces.
+       The program will create local jobs in construction and operation of markets and in
+       other economic activities. Risk mitigation measures will reduce damage from
+       hydrometeorological and geophysical events, improving urban resilience and
+       generating future economic savings. El Salvador and the municipios will benefit
+       from stronger public management and higher tax collection, thanks to business
+       formalization and application of tax and nontax instruments. An indirect positive
+       impact on the population in both districts is expected, affecting an estimated
+       138,000 inhabitants in Santa Tecla and 40,000 in La Libertad.
+1.71   IDB strategic and institutional alignment. The program is aligned with the
+       IDB Group Institutional Strategy: Transforming for Scale and Impact (CA-631) and
+       contributes to these objectives: (i) reduce poverty and inequality; (ii) promote
+       sustainable regional growth, by building the capacity of merchants in the markets
+       and promoting their formalization; and (iii) tackle climate change, by building
+                                              - 18 -
+
+
+
+         markets that use resources efficiently (EDGE). The program is consistent with the
+         following operational focus areas: (i) biodiversity, natural capital, and climate
+         action, integrating adaptation and mitigation measures in Component 1; (ii) gender
+         equality and inclusion of diverse groups, according to the environmental and social
+         policy framework and the IDB Group Gender and Diversity Action Plan 2022-2025
+         in Components 1 and 2; (iii) institutional capacity, rule of law, and citizen security,
+         enhancing municipal capacities in Component 3; (iv) social protection and human
+         capital development, in Component 2; (v) productive development and innovation
+         through the private sector, in Component 2; and (vi) sustainable, resilient, and
+         inclusive infrastructure, through the comprehensive urban interventions in
+         Component 1. The program is also aligned with the IDB Group Country Strategy
+         with El Salvador 2021-2024 (GN-3046-1),5 with the strategic objectives of
+         developing inclusive, sustainable infrastructure services and facilitating access to
+         finance for micro and small enterprises. This alignment takes the form of building
+         municipal markets and infrastructure that include sustainability- and
+         inclusion-focused technologies and designs, and boosting small and medium
+         merchants’ competitiveness.
+1.72     Regarding climate change, the operation includes renovating and building
+         two municipal markets that will earn EDGE Advance certification, including energy
+         efficiency, climate resilience, and water treatment measures, a solid waste
+         management and diagnostic assessment pilot with innovative solutions for
+         potential outputs such as composting and biogas (so that it will eventually replace
+         the use of gas currently planned for cooking in the market). Since the price of
+         electricity in El Salvador is considerably higher than the price of liquefied petroleum
+         gas, and this gas is government-subsidized, it becomes financially unfeasible to
+         choose alternatives to electric cooking. The IDB will incorporate this topic in the
+         dialog with the government to find gradual solutions that support redirecting these
+         subsidies and possibly electrifying cooking equipment. This operation also
+         includes urban renewal plans to renovate public spaces with bioclimatic
+         improvements; tree planting; bike path and pedestrian area extensions; switching
+         to 100% LED lighting; drainage, wastewater treatment, and waste management
+         improvements, measures to reduce the risk of climate hazards such as flooding
+         and temperature increases. There have been various design consulting sessions
+         producing key information inputs in the areas of climate and geophysical risk and
+         vulnerability, which has led to proposals for specific adaptation solutions for each
+         targeted area. Output indicators have been established that include EDGE
+         certification and the composting pilot. Consequently, the operation is aligned with
+         the Paris Agreement and has 76.02% climate finance.
+1.73     Alignment with the Government of El Salvador’s priorities. The program is
+         aligned with the 2019-2024 Cuscatlán Plan, which promotes economic growth,
+         attracting private investment, and inclusive urban development through municipal
+         development, tourism promotion, and formalizing economic activities; the
+         2020-2030 National Tourism Development Plan, which aims to take action in
+         75 historic centers, expand potable water service coverage to 90% and electricity
+         to 100%, increase sanitation by 15% in tourist communities, and formalize
+         employment in the sector; and the Surf City 2019 Program, which promotes
+         investment in urban and tourism infrastructure in areas like La Libertad
+
+
+5   In a transition period.
+                                                    - 19 -
+
+
+
+         department. The program contributes to economic growth in the Libertad Sur and
+         Libertad Costa municipios through urban renewal and revitalization of two markets
+         in their historic centers, promoting tourism development, business formalization,
+         and private sector participation.
+1.74     The Bank’s experience in the sector and lessons learned. The Bank has
+         gained vast experience in urban renewal (3879/OC-DR), notably for financing the
+         construction of municipal markets 1761/OC-EC, developing climate change-
+         resilient urban infrastructure ATN/JF-20910-DR, and access to geographic
+         information systems for land management ATN/OC-19731-ES. It has also
+         supported micro and small business owners in El Salvador via training and
+         business plans under the Opportunities for the Majority initiative, which provided
+         US$10 million in 2010 to modernize municipal markets, strengthen local capacity,
+         and promote economic and environmental sustainability 2478A/OC-ES. The main
+         lessons learned are summarized in the table below.
+
+                              Table 1. Application to current program design
+
+                 Lesson learned                              Lessons incorporated into the program
+3879/OC-DR. The strategic orientation of public     Based on experience from program 3879/OC-DR, which
+resources toward catalytic interventions that can   underscored the value of earmarking public resources
+incentivize or complement private investment        for catalytic interventions capable of encouraging
+made it possible to maximize impact on public       private investment and strengthening long-term financial
+spending, the effects on local development, and     sustainability, this new program takes a similar
+the long-term financial sustainability of the       approach by developing comprehensive investments in
+interventions.                                      infrastructure and public goods, as well as exploring
+                                                    synergies with the private sector to drive real estate
+                                                    development projects, particularly in downtown areas, to
+                                                    support urban regeneration and leverage investment
+                                                    opportunities aligned with government objectives.
+1761/OC-DR. Interventions in decayed areas          The program will operate in areas with advanced
+demonstrated that comprehensive renovation,         physical, economic, and social decay, with the support
+with political and community backing, makes it      of city halls and local communities.
+possible to reverse urban decay and facilitates
+sustainable relocation of informal merchants.
+ATN/JF-20910-DR. Integrating digital tools          Districts were prioritized and the works and activities to
+strengthened data-driven decision-making,           finance were defined based on an analysis of data
+improving the efficiency and resilience of the      collected during the program design phase, using digital
+investments.                                        tools. These tools included a survey taken in real time
+                                                    and uploaded to a website, satellite imagery to estimate
+                                                    per capita family income, and digital modeling of
+                                                    hydrometeorological events. This approach made it
+                                                    possible to quantify the project’s potential impact and
+                                                    gear the interventions toward areas of greatest
+                                                    vulnerability and need.
+ATN/OC-19731-ES. Development of the urban           Component 3 of the project includes the formulation of
+land information system demonstrated the value      land-use planning instruments and strengthening land
+of having an integrated technology platform to      information systems, since effective, evidence-based
+manage geographic, statistical, and documentary     planning is key for guiding urban development.
+data on land-use planning and urban
+development.
+                                                            - 20 -
+
+
+
+                      Lesson learned                                 Lessons incorporated into the program
+2478A/OC-ES. Ensuring environmental and social              The program included a consulting process headed by
+transparency throughout the project’s life cycle            DOM with the stakeholders, supported by a customer
+enhances sustainability and citizen buy-in. The             service desk to receive and answer questions and
+requirement to disclose information on the market           comments. This strategy seeks to enhance
+renovation and construction proved to be an                 transparency, citizen participation, and timely conflict
+effective practice for promoting participation and          management during program execution.
+accountability.
+
+
+
+                            II.        FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       Method, cost, and financing. The operation is structured as a specific investment
+          loan, due to the comprehensive nature of the urban renewal program. The program
+          has a five-year execution period (as per the schedule in Table 3), with a total
+          cost up to US$170 million (Table 2), completely financed with resources from the
+          Bank’s Ordinary Capital.
+
+                                      Table 2. Estimated program cost (in US$)
+
+                                      Components                                              IDB             %
+      Component 1. Developing urban infrastructure and basic services                       152 million           89
+      Component 2. Comprehensive support for micro and small merchants                      7.7 million            5
+      Component 3. Building municipal institutional and financial capacities                5.3 million            3
+      Support for program administration, including midterm evaluation and
+                                                                                              5 million            3
+      impact assessment, and contingent expenses
+      Total                                                                               170 million         100
+
+                                      Table 3. Disbursement schedule (in US$)
+
+         Year 1              Year 2            Year 3                 Year 4         Year 5               Total
+        2.8 million        42.3 million      52.4 million            50 million    22.5 million      170 million
+              2%              25%               31%                    29%            13%                 100%
+
+
+B.        Environmental and social risks
+2.2       According to the Inter-American Development Bank’s environmental and social
+          policy framework, the environmental and social impact classification is Category A,
+          due mainly to the temporary economic displacement of the 1,573 commercial units
+          (some 2,342 vendors) working in the Santa Tecla market who will be temporarily
+          relocated during the demolition and reconstruction work; and of the
+          570 commercial units (736 vendors) operating in the current La Libertad market
+          who will be moved to the new market once it is built. During the construction phase,
+          the typical negative impacts of civil works, including demolition of the two markets,
+          and of operating commercial activities in temporary relocation sites (organic and
+          hazardous waste management, wastewater management, pests and vectors,
+          disturbing the people in the area) are anticipated.
+2.3       The environmental and social risk rating is high, due to the aforementioned direct
+          environmental and social impacts and the risk of conflicts with the population at
+                                          - 21 -
+
+
+
+      the temporary relocation sites for Santa Tecla market merchants. The Municipal
+      Public Works Office has no experience implementing an environmental and social
+      policy framework, so its capacity to manage the program’s socio-environmental
+      aspects must be strengthened.
+2.4   The Disaster and Climate Change Risk (DCCR) classification is high. The
+      moderate and high-intensity hazards at the intervention sites are: street, river, and
+      coastal flooding; meteorological and hydrological drought; temperature increases,
+      coastal erosion, earthquakes, landslides, volcanic threats, and tsunamis.
+      Hydrometeorological hazards will be exacerbated under future conditions with
+      climate change. The critical nature and vulnerability of both projects is high, due to
+      their physical characteristics, their impact on essential services, and the
+      unfavorable geology. The risk of works exacerbating conditions is minimal and will
+      be controlled through specific measures.
+2.5   An environmental and social management system was developed for the program
+      during preparation. It includes an environmental and social impact study and an
+      environmental and social management plan for the planned works in Santa Tecla;
+      an environmental and social impact study and management plan for La Libertad;
+      a relocation plan for merchants in the Santa Tecla market; a relocation plan for
+      merchants in the La Libertad market; the Climate Change and Disaster Risk
+      Narrative and Disaster Risk Management Plan for the works in Santa Tecla and
+      La Libertad; and a Stakeholder Engagement Plan for the program, including a
+      complaint mechanism. A preliminary version of these socio-environmental
+      documents was posted on the Bank’s website prior to the analysis mission.
+2.6   In June 2025, DOM carried out a consultation process with the stakeholders which
+      consisted of the following: (i) specific consultation with Santa Tecla market
+      merchants on the relocation plan; (ii) consultation with the people in the areas
+      where the Santa Tecla merchants will be temporarily relocated, people in the area
+      of influence for the urban development works in this city and other project
+      stakeholders; (iii) specific consultation with La Libertad market merchants; and
+      (iv) consultations with people in the area of influence of the La Libertad urban
+      development works and other stakeholders. In Santa Tecla, the market vendors’
+      main concerns involve a possible decrease in sales and the impact on customer
+      relations during the relocation period, vehicle and pedestrian access to the
+      temporary stands, the quality of the provisional spaces, delivery of basic services
+      like drinking water, electricity, and sewage, and the security of goods and
+      equipment. The business owners who are already on the temporary relocation
+      streets are concerned about the impact on the visibility of their businesses, the
+      potential impact on their sales, and vehicle and pedestrian access for neighbors,
+      customers, and suppliers. Those in La Libertad had questions about the suitability
+      of locating the new market in a tourism development zone; concerns about its
+      potential impact on mobility, solid waste management and public health; and
+      possible economic effects on the businesses located on the streets where the work
+      will occur. DOM answered participants’ questions and assured them that all
+      concerns and suggestions would be taken into account to fine-tune the design of
+      the interventions. The report from the consultations and the updated
+      socio-environmental documents are available on the Bank’s website.
+                                             - 22 -
+
+
+
+C.     Fiduciary risks
+2.7    Fiduciary considerations. DOM is executing operation 5080/OC-ES satisfactorily
+       as per the Progress Monitoring Report. However, the institutional capacity analysis
+       identified the following risks: (i) medium-high, because the procurement
+       management system does not fulfill the functionalities and openness needed to
+       advertise bidding, progress in contracting processes, or award information, so that
+       participation is limited exclusively to registered domestic and foreign potential
+       bidders. To mitigate this, the processes will be posted on the Bank’s website and
+       on the executing agency’s institutional page, as well as on the COMPRASAL
+       portal. Other mechanisms will also be explored for announcing bidding processes.
+       And (ii) medium-low, because bottlenecks were identified during the contracting
+       process in these areas: (i) bid evaluation due to bidders’ noncompliance with
+       requirements, and (ii) after a process is relaunched when few or no bids were
+       submitted; therefore, the participation criteria and requirements had to be relaxed.
+       To mitigate this, a study of the public works, by sector, will be performed, including
+       a market study aimed at identifying the country’s potential works, exploring other
+       contracting methods, and identifying strategies to increase bidder participation.
+       The funding source for this study will be transactional budget resources. Additional
+       actions will be proposed during program execution for technical, administrative,
+       and operational institution-strengthening, to address the challenges inherent in
+       simultaneous execution of several IDB loans.
+2.8    Specifically, in keeping with the institutional capacity assessment, the program will
+       ensure that program execution unit (PEU) members have appropriate profiles and
+       work full time on the program. However, considering the PEU’s accumulated
+       experience and knowledge of program 5080/OC-ES—especially in preparing
+       bidding information—the PEU of this new program may consult with this unit on
+       technical matters and request advice when pertinent. The PEU team will also
+       receive training on topics related to risk monitoring, evaluation, and analysis,
+       pursuant to IDB policies.
+D.     Other key issues and risks
+2.9    Additional risks. Potential “medium-high” risks related to the following have been
+       identified: (i) delays in program execution due to merchant complaints against
+       poorly managed resettlement plans; (ii) lack of program sustainability due to low
+       merchant participation and interest in its design and management; (iii) program
+       outcomes affected by weak coordination between DOM and the municipios;
+       (iv) delays in execution for lack of contractors interested in or available for the civil
+       works; (v) commitment to program development if the necessary land for the
+       La Libertad municipal market cannot be procured; (vi) lack of implementation of
+       land-use plans due to local opposition, affecting the long-term development vision;
+       and (vii) execution delays due to adverse climate conditions.
+2.10   The mitigation measures include: (i) involve merchants in the plan design, ensure
+       adequate conditions during the move, and establish effective mechanisms to
+       address complaints; (ii) from the earliest stages, publicize the project’s benefits
+       to elicit interest and commitment; (iii) create technical roundtables, appoint
+       coordination managers, and formalize cooperation agreements between
+       institutions; (iv) identify available businesses in advance, adjust tenders to attract
+       bidders and encourage local participation; (v) initiate the procurement process in
+       advance to ensure availability of the planned land area; (vi) promote local
+                                           - 23 -
+
+
+
+       participation in planning and include their priorities to facilitate their adoption;
+       (vii) include climate and geological risk management measures in works planning;
+       and (viii) establish rapid response protocols for climate and seismic events.
+2.11   Synergies with the private sector and other Bank programs
+       a. Project development with IDB Lab. Two pilot projects are anticipated in
+          collaboration with IDB Lab, focused on: (i) organic solid waste management
+          via circular economy solutions applied to municipal markets (with a direct
+          contract up to US$115,000), and (ii) digitized payments as a strategy to
+          promote formalization and competitiveness among merchants (with a direct
+          contract up to US$100,000). Both projects will use open innovation methods
+          developed by IDB Lab as part of its GovTech initiatives, facilitating the
+          identification and proof of behavioral and technology solutions in urban
+          contexts. Note that, as part of the commitment assumed with the business
+          selected via a competitive process, as per IDB Lab arrangements and policies,
+          it will have to be contracted directly against the loan proceeds, according to the
+          Bank’s procurement policies (GN-2349-15, paragraph e). To comply with the
+          integrity guidelines, businesses will be selected based on OP-474-1 and will
+          be engaged by the Bank as direct contracts as per paragraph 3.7(e) of
+          document GN-2349-15, in exceptional cases where innovations are contracted
+          via competitive procedures executed by IDB Lab.
+       b. Public-private partnership (PPP) study. In coordination with the Bank’s PPP
+          unit, a qualitative value-for-money study was done to assess the viability of
+          developing and managing the municipal markets through PPPs, compared to
+          the traditional competitive bidding model. The study recommended that a PPP
+          should not be implemented, given the limited development of the PPP system
+          in the country, as seen by its low position on the 2023/2024 Infrascope index,
+          and the recent dissolution of the Export and Investment Promotion Agency
+          (PROESA), indicating weak institutional capacity for structuring and
+          implementing this type of initiative. The creation of INVEST, while intended to
+          enhance investment promotion, has caused legal uncertainty regarding its
+          jurisdiction in the area of PPPs since it is not explicitly given functions related
+          to this model, despite being the successor to PROESA (optional link 12).
+       c. Promoting access to microfinance. The program will promote synergies with
+          national microfinance institutions to facilitate access to credit for the municipal
+          market vendors. The plan is to organize 12 fairs in order to identify and connect
+          the main financial institutions that offer products to micro and small business
+          owners. The financial intermediaries of operation 5733/OC-ES, Access to
+          Credit Program for Micro, Small, and Medium-sized Enterprises, will be invited
+          to these fairs. The objective of that program is to offer financing to micro
+          businesses to all sectors of the local economy [40]. IDB Invest will also support
+          coordination with financial institutions in its portfolio, to facilitate their
+          participation in the microfinance fairs. These activities will take advantage of
+          the synergies with Component 2 of the program.
+       d. Real property development. During program execution, and in coordination
+          with IDB Invest, it will explore opportunities to promote real property
+          development projects with private sector participation, geared toward
+          furthering urban renewal in the downtown areas of both districts. These
+          initiatives may include installation of restaurants, as well as other commercial
+                                           - 24 -
+
+
+
+         and services developments that invigorate the local economy and complement
+         the project’s infrastructure investments.
+      e. Municipal market administration and governance. As stated previously,
+         options were analyzed for boosting private sector participation in their
+         operation, including concession arrangements or other public-private
+         management models.
+
+                  III.    IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+3.1   Borrower and executing agency. The borrower will be the Republic of El Salvador,
+      and the executing agency will be the Municipal Public Works Office (DOM), through
+      its project execution unit (PEU). DOM is a decentralized entity under public law, with
+      autonomy in the administration of its assets and its own legal personality under the
+      aegis of the Presidency of the Republic. It will interact with the municipios via the
+      operating units established by DOM’s board of directors. The executing agency’s
+      main function will be technical, administrative, and operational management of the
+      program. Its PEU will be composed of the following: (a) general program
+      coordinator; (b) financial coordinator; (c) procurement coordinator; (d) planning and
+      monitoring coordinator; and (e) environmental and social coordinator.
+3.2   The PEU is expected to be headquartered in San Salvador and will coordinate all
+      program activities from there. To ensure equitable and efficient implementation,
+      the PEU will have contacts with the point people in Santa Tecla and La Libertad in
+      charge of coordinating actions at the local level.
+3.3   Staff and resources will be distributed between the two locations based on the
+      specific needs and phases of each component. Each component will have a
+      coordinator in charge of planning, executing, and monitoring the relevant activities.
+3.4   The social and merchant assistance teams will work with the municipios to be
+      present at all times in both districts, with defined roles coordinated from the central
+      office. The Santa Tecla and La Libertad districts are approximately 25 km apart,
+      which facilitates travel and regular supervision between them.
+3.5   Sustainability and maintenance of investments. DOM will manage the
+      infrastructure works and, once completed, will transfer them to the corresponding
+      municipios to administer and operate.
+3.6   Therefore, the works will be inspected jointly by representatives of DOM and the
+      municipio to ensure compliance with the established technical, regulatory, and
+      contractual standards. Subsequently, a formal acceptance certificate will be drawn
+      up and signed by both parties. It will include a description of the work’s condition,
+      updated drawings, and the associated guarantees. DOM will deliver to the
+      municipality all of the project’s administrative paperwork, including contracts,
+      progress reports, acceptance certificates, final drawings, and any other documents
+      necessary for the future management of the infrastructure. Lastly, the municipios
+      will formally incorporate the works and land into their asset inventories according
+      to local and national regulations.
+3.7   To ensure long-term sustainability, the markets will operate under a
+      comprehensive management model that focuses on financial sustainability. This
+      model includes efficient collection of rental fees, preventive and corrective
+                                           - 25 -
+
+
+
+        maintenance mechanisms, and professionalized administration systems. We
+        recommend and expect that these markets can be managed by the private sector,
+        based on a model wherein a specialized municipal office or public entity acts as
+        the governing body. This body will maintain direct control over the market’s
+        essential functions, such as regulation, planning, and supervision, while it
+        delegates operational management to the private sector, resulting in efficient,
+        transparent administration focused on public service. This management model
+        using private operators is already being implemented in the country’s municipal
+        markets, including the Hula Hula municipal market in San Salvador. The main
+        lessons learned from this management model using private operators include:
+        a. Professionalization of the operation. Private operators have shown that
+           implementing professional administrative practices, such as having back-office
+           teams and property and personnel management on the floor, helps consolidate
+           efficient operations, maintain service quality standards, and project a polished
+           image of the market.
+        b. Allocation and regulation of spaces. Experience shows that a usage
+           agreement with a defined term (for example, three years) and transparent
+           criteria for allocating spaces (such as avoiding concentrating them in the same
+           family group) contribute to order and equity. However, challenges remain, such
+           as the informal resale of spaces, which underlines the need to have more solid
+           regulatory mechanisms and effective government supervision.
+        c. Complementary services and structured revenue. The models operated by
+           the private sector generally include well managed complementary services,
+           such as common areas, food courts, and parking. Diversifying revenue
+           sources—rents, service costs, fees for parking and using recreational
+           spaces—improves financial sustainability and make it possible to offer
+           competitive rates to the merchants.
+        d. Commercial culture and image. The operators have invested in
+           strengthening the lessees’ commercial culture and improving the overall
+           market experience. They are actively working on the space’s appearance and
+           customer service. These actions have helped increase the flow of visitors and
+           position the market as an attractive space for local consumption.
+        e. Key institutional lesson. The experience of private operators suggests that
+           the combination of a public authority that sets out clear rules (standards,
+           allocation criteria, base rates, control mechanisms) with professionalized
+           operational management delegated to specialized players can significantly
+           improve the quality, sustainability, and legitimacy of the markets. This hybrid
+           model is a viable alternative for modernizing and organizing the network of
+           municipal markets.
+3.8     The municipios will also be strengthened by consulting firms, hired by DOM via the
+        activities in Component 3 and focused on building technical, administrative, and
+        regulatory capacity to supervise municipal market management. It is notable that,
+        in June 2025, the national Legislative Assembly passed the Law to Establish the
+        Office of National and Local Commercial Markets in Public Spaces, which created
+        National Markets Office (DNM),6 which could assume the administration and direct
+
+
+6   Decree 323/2025.
+                                                   - 26 -
+
+
+
+         management of these spaces, in coordination with municipal governments. If so,
+         as indicated above, the DNM, not the municipios, would be the beneficiary of the
+         capacity-building activities in that component, which ensures that the planned
+         measures to strengthen the management of markets would remain in effect,
+         regardless of which entity administers them.
+3.9      Assuming that DNM takes on the administration and management of the markets,
+         pursuant to the Law, once the DOM (the project executing agency) has built the
+         markets and the municipios have transferred them to the DNM, the latter will be
+         responsible for ensuring the financial sustainability and proper implementation of the
+         work and maintenance plans for those assets, prepared in coordination with the
+         corresponding municipios, pursuant to: (i) the Model Interagency Agreement
+         between the Municipal Public Works Office and the Municipios of Libertad Sur and
+         Libertad Costa (optional link 24, Clauses 5(8) and 6); and (ii) the loan contract
+         between the Republic of El Salvador and the IDB. In this context, financial
+         sustainability is understood as the municipal markets’ capacity to generate operating
+         income equal to or greater than operating costs, ensuring fulfillment of the work and
+         maintenance plans, and eliminating dependence on external subsidies.
+3.10     A financial sustainability model has been developed for both markets to supplement
+         the revenue from renting premises to micro and small merchants with additional
+         sources, such as the sale of advertising space and leasing of premises at market
+         prices (for example, to banking institutions). In both markets, analysis shows
+         financial viability with a surplus in operations and maintenance (optional link 16).
+3.11     Program Operating Regulations. The program will be governed by the program
+         Operating Regulations stipulating: (i) the program organizational chart; (ii) the
+         technical and operational arrangements for its execution; (iii) the arrangements for
+         programming, monitoring, and assessing outcomes; (iv) guidelines for financial,
+         auditing, and procurement processes; (v) the details of executing agency functions
+         and the responsibilities of the other project participants; (vi) details of the activities
+         included in the various program components; and (vii) description of the PEU
+         team’s responsibilities, whose terms of reference must be agreed on with the Bank.
+3.12     Special contractual conditions precedent to the first disbursement of the loan:
+         (i) the program Operating Regulations have been approved under the terms
+         previously agreed upon with the Bank; (ii) key staff of the program execution
+         unit has been designated,7 including: (a) general program coordinator,
+         (b) financial coordinator, (c) procurement coordinator, (d) planning and
+         monitoring coordinator, and (e) environmental and social coordinator; and
+         (iii) evidence has been provided that a framework agreement has been signed
+         between the executing agency and each of the municipios detailing the
+         responsibilities of each party during program execution.
+3.13     Special contractual conditions of execution. The borrower, through the
+         executing agency, will present evidence to the Bank that the following conditions
+         have been met: before signing the contract to perform the works for each of the
+         markets and the basic services infrastructure under Component 1 of the program,
+         it will have submitted evidence of the following: (i) legal ownership of the land
+         and/or real property, establishment of easements or other rights and permits
+
+
+7   “Designate” here refers to the appointment of staff, which can include DOM employees and/or consultants.
+                                            - 27 -
+
+
+
+       required to build and use the respective works; and (ii) it has contracted
+       supervision of the works. This condition is necessary to ensure smooth
+       construction. See the social and environmental contractual conditions in Annex B
+       of the environmental and social review summary.
+3.14   Procurement of works, goods, and services. The program will follow the
+       Policies for the Procurement of Goods and Works Financed by the Inter-American
+       Development Bank (GN-2349-15) and the Policies for the Selection and
+       Contracting of Consultants Financed by the Inter-American Development Bank
+       (GN-2350-15), or those in effect during execution pursuant to the procurement plan
+       (required link 4). The annex on fiduciary agreements and requirements herein and
+       the standards in the program Operating Regulations will also be considered.
+       Annex III contains the details of the program’s main procurements.
+3.15   Audits. The external audit will be performed by a firm of external auditors
+       acceptable to the Bank. The independent external audit will be commissioned and
+       financed with program resources, as per the procedures, terms of reference, and
+       request for proposals that received a no-objection from the Bank. During program
+       execution, the audited financial statements will be submitted: (i) annually to the
+       Bank, within 120 days after the close of each fiscal period; and (ii) at project close
+       within 120 days after the last disbursement date.
+3.16   Retroactive financing. The Bank may retroactively finance (charged against the
+       loan proceeds) eligible expenses incurred by the borrower prior to the loan
+       approval date if these are related to public space renovations, implementation of
+       the environmental and social management plan, and construction of the temporary
+       municipal markets in Component 1, up to US$20 million (11.76% of the loan
+       amount), provided that requirements substantially similar to those in the loan
+       contract have been met, and the contracting procedures comply with the Core
+       Procurement Principles. Eligible expenses must have been incurred on or after
+       21 February 2025 (Project Profile approval date), but in no case will they include
+       expenses made more than 18 months before the loan approval date.
+B.     Summary of arrangements for monitoring results
+3.17   Monitoring and evaluation. The monitoring and evaluation plan (required link 2)
+       will support operation execution in keeping with the progress targets and indicators
+       defined in the results matrix (Annex II). The following instruments will be used
+       for this: (i) multiyear execution plan, annual work plan, procurement plan, financial
+       plan, risk matrix, and annual external audits; (ii) six-monthly progress reports
+       including impact monitoring indicators, outcomes, execution of each component
+       and compliance with the operating requirements set out in the program Operating
+       Regulations (optional link 23); the environmental, social, health, and occupational
+       safety reports described in the environmental and social review summary (required
+       link 3); and (iii) audited financial statements. The executing agency will compile,
+       store, and process the information, indicators, and parameters, including annual
+       plans and the final evaluation required to write the project completion report.
+3.18   Evaluation. A midterm and ex post final evaluation will quantify the outcomes of
+       program interventions based on the indicators in the results matrix. The evaluation
+       methodology will include a minimum of the following: (i) ex post cost-benefit
+       analysis, using the same ex ante analysis methodology, as described in (optional
+       link 2); (ii) results of financial execution; (iii) fulfillment of established targets,
+                                          - 28 -
+
+
+
+       according to agreed outcome indicators; and (iv) fulfillment of contractual
+       commitments.
+3.19   An impact assessment will also be performed based on the
+       difference-in-differences and synthetic control methods. The main question to be
+       answered is: What is the program’s impact on the municipal markets of
+       Santa Tecla and La Libertad in terms of accessibility to infrastructure and public
+       services, creation of economic opportunity, and building municipal institutional and
+       financial capacities? The baseline is in place for the treatment and control groups.
+                                                                                                                                                                                        Annex I - ES-L1172
+                                                                                                                                                                                                 Page 1 of 1
+
+
+
+
+                                                                           Development Effectiveness Matrix
+
+                                                                                    Summary             ES-L1172
+I. Corporate and Country Priorities
+Section 1. IDB Group Institutional Strategy Alignment
+
+
+                                                                                                 -Biodiversity, natural capital, and climate action
+                                                                                                 -Gender equality and inclusion of diverse population groups
+                                                                                                 -Institutional capacity, rule of law, citizen security
+ Operational Focus Areas                                                                         -Social protection and human capital development
+                                                                                                 -Sustainable, resilient, and inclusive infrastructure
+                                                                                                 -Productive development and innovation through the private sector
+
+
+
+
+ [Space-Holder: Impact framework indicators]
+
+2. Country Development Objectives
+
+
+                                                                                                                          2.1 Facilitate access to financing for micro and small
+   Country Strategy Results Matrix                                                                     GN-3046-1          enterprises 2.2 Develop inclusive and sustainable
+                                                                                                                          infrastructure services
+
+
+
+                                                                                                                          The intervention is included in the 2025 Operational
+   Country Program Results Matrix                                                                      GN-3270-3
+                                                                                                                          Program.
+
+
+
+Relevance of this project to country development challenges (If not aligned to country
+strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                             Evaluable
+3. Evidence-based Assessment & Solution                                                                                                   9.8
+     3.1 Program Diagnosis                                                                                                                2.5
+     3.2 Proposed Interventions or Solutions                                                                                              3.5
+     3.3 Results Matrix Quality                                                                                                           3.8
+4. Ex ante Economic Analysis                                                                                                              6.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                       1.5
+     4.2 Identified and Quantified Benefits and Costs                                                                                     0.0
+     4.3 Reasonable Assumptions                                                                                                           2.5
+     4.4 Sensitivity Analysis                                                                                                             2.0
+     4.5 Consistency with results matrix                                                                                                  0.0
+5. Monitoring and Evaluation                                                                                                              8.4
+     5.1 Monitoring Mechanisms                                                                                                            2.8
+     5.2 Evaluation Plan                                                                                                                  5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                        High
+Environmental & social risk classification                                                                                                 A
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+
+                                                                                                                          Budget, Treasury, Accounting and Reporting.
+                                                                  Fiduciary (VPC/FMP Criteria)
+
+
+
+
+                                                                                 Non-Fiduciary
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+
+
+Additional (to project preparation) technical assistance was provided to the public sector
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+
+Evaluability Assessment Note:
+This project's general objective is to strengthen the local economies in the Santa Tecla and La Libertad districts. The project's specific objectives are (i) improving access to
+quality public services, as well as local urban infrastructure, in the central areas of the districts of Santa Tecla and La Libertad, including their municipal markets (ii) increase
+the competitiveness and promote the formalization of businesses in the municipal markets of both districts and (iii) strengthen the institutional and financial capacites of the
+Libertad Sur and Libertad Costa municipalities.
+
+The diagnosis finds that urban decay in the districts of Santa Tecla and La Libertad limits local economic activity. Such decay is characterized by infrastructure in poor
+condition, limited access to public services, high labor informality, and low institutional capacity. To address this problem, the project aims to revamp the municipal markets
+and its surrounding infrastructure, provide support for small businesses and promote their formalization, and build institutional capacity in municipal governments. The
+project's vertical logic is consistent with the diagnosis and it is reflected in the Results Matrix. While most of the proposed indicators in the Results Matrix are SMART, there are
+concerns about the feasibility of measuring the indicators associated with financial sustainability due to data unavailability at baseline.
+
+The economic analysis finds an ERR of 15.89% and a VPN of US$ 72.88 million under a 12% discount rate. The cost-benefit analysis compares project investment and
+maintenance costs with benefits stemming from, among others, higher business formalization, increased market share of businesses located in the market, and increased
+property values. While the analysis is clear to follow, it quantifies many benefits that are not reflected in the Results Matrix and in some cases, does not specify how the
+evidence used to quantify benefits is translated into the parameters of the analysis.
+
+Project monitoring will be done using technical reports from the executing agency. Project evaluation will be done using two impact evaluations (to measure the impact on
+business revenue and on income in the intervention area), which will be complemented by a before-and-after analysis. These methods are appropriate to answer the evaluation
+questions.
+                                                                                                                                                                                      Annex II
+                                                                                                                                                                                    Page 1 of 7
+
+
+                                                                                      RESULTS MATRIX
+
+                                                                      STATEMENT OF PROJECT DEVELOPMENT OBJECTIVES
+
+    General development objective:           To strengthen the local economies in the Santa Tecla and La Libertad districts.
+    Specific development objectives:         The specific development objectives are to: (i) improve access to quality public services and local urban infrastructure in the downtown areas
+                                             of the Santa Tecla and La Libertad districts, including the municipal markets; (ii) boost competitiveness and promote formalization of the
+                                             businesses in the municipal markets of both districts; and (iii) build the institutional and financial capacities of the Libertad Sur and
+                                             Libertad Costa municipios.
+
+
+                                                                                A. GENERAL DEVELOPMENT OBJECTIVE
+
+                                                                Baseline             Assessment scenario
+                                              Unit of      (pre-intervention)         (post-intervention)         Related strategic
+    No.              Indicator                                                                                                               Means of verification               Comments
+                                             measure                                              Expected year   alignment themes
+                                                          Value         Year        Target
+                                                                                                    measured
+    I.1   Income level in municipal market     US$        766.91        2025        776.881           2030        Sustainable         Technical report based on the         See required link 2.
+          (Santa Tecla) area of influence                                                                         economic growth     methodology described in the
+                                                                                                                                      monitoring, evaluation and learning
+                                                                                                                                      (MEL) document.
+                                                                                                                                      Responsible party: DOM
+    I.2   Income level in municipal market     US$        589.65        2025        601.44            2030        Sustainable         Technical report based on the         See required link 2.
+          (La Libertad) area of influence                                                                         economic growth     methodology described in the MEL.
+                                                                                                                                      Responsible party: DOM
+    I.3   Merchants’ gross revenue             US$       2,588.30       2025       2,976.30   2       2030        Sustainable         Technical report based on the         See required link 2.
+          (Santa Tecla)                                                                                           economic growth     methodology described in the MEL.
+                                                                                                                                      Responsible party: DOM
+    I.4   Merchants’ gross revenue             US$       2,585.90       2025         3,146            2030        Sustainable         Technical report based on the         See required link 2.
+          (La Libertad)                                                                                           economic growth     methodology described in the MEL.
+                                                                                                                                      Responsible party: DOM
+
+
+
+
+1     The targets for both districts were calculated based on the minimum observable effect with statistical significance at 95% confidence according to power calculations based on the
+      estimates reported in the Impact Assessment Annex at constant 2025 prices.
+2     The targets for both districts were calculated based on the minimum observable effect with statistical significance at 95% confidence according to power calculations based on the
+      estimates reported in the technical report based on the Santa Tecla and La Libertad market vendor survey at constant 2025 prices.
+Annex II
+Page 2 of 7
+
+
+                                                                                   B. SPECIFIC DEVELOPMENT OBJECTIVES
+
+                                                                   Baseline            Assessment scenario
+                                                              (pre-intervention)        (post-intervention)
+                                                Unit of                                                            Related strategic
+     No.               Indicator                                                                   Expected                                  Means of verification               Comments
+                                               measure                                                            alignment themes1
+                                                              Value        Year        Target        year
+                                                                                                   measured
+    OE1. Improve access to quality public services and local urban infrastructure in the downtown areas of the Santa Tecla and La Libertad districts, including the municipal markets
+    R1.1    Merchants’ perceptions of          Number          3.07        2025         3.043        2030      Sustainable economic       Technical report based on     See required link 2.
+            problems in local environment                                                                      growth. Climate change     the methodology described
+            (Santa Tecla)                                                                                      adaptation                 in the MEL.
+                                                                                                                                          Responsible party: DOM
+    R1.2    Merchants’ perceptions of          Number          3.13        2025         3.06         2030      Sustainable economic       Technical report based on     See required link 2.
+            problems in local environment                                                                      growth. Climate change     the methodology described
+            (La Libertad)                                                                                      adaptation                 in the MEL.
+                                                                                                                                          Responsible party: DOM
+    R1.3    Number of people entering the      Number         2,462        2025        3,089   4     2030      Sustainable economic       Technical report based on     See required link 2.
+            market (La Libertad)                                                                               growth                     the methodology described     Data will be disaggregated in
+                                                                                                                                          in the MEL.                   the final survey by gender
+                                                                                                                                          Responsible party: DOM        and by disability type.
+    R1.4    Number of people entering the      Number         8,377        2025        11,104        2030      Sustainable economic       Technical report based on     See required link 2.
+            market (Santa Tecla)                                                                               growth                     the methodology described     Data will be disaggregated in
+                                                                                                                                          in the MEL.                   the final survey by gender
+                                                                                                                                          Responsible party: DOM        and by disability type.
+    R1.5    Walkability index (Santa Tecla)     Index          16.3        2025         19.35        2030      Sustainable economic       Optional link 10, Urban       See required link 2.
+                                                                                                               growth                     regeneration plans for
+                                                                                                                                          Santa Tecla and La Libertad
+                                                                                                                                          Responsible party: DOM
+
+
+
+
+3     The targets for both districts were calculated based on the minimum observable effect with statistical significance at 95% confidence according to power calculations based on the
+      estimates reported in the technical report based on the Santa Tecla and La Libertad market vendor survey.
+4     Expected changes are the minimum possible change to capture with 95% statistical confidence, based on power calculations of the data in the annex: observational sample with
+      temporal and spatial variation for measurement of affluence of clients at the Santa Tecla and La Libertad markets.
+5     The calculations and targets for both districts were calculated based on the minimum observable effect with statistical significance at 95% confidence according to power calculations
+      based on the estimates in optional link 10, Urban renewal plans for Santa Tecla and La Libertad.
+                                                                                                                                                                                     Annex II
+                                                                                                                                                                                   Page 3 of 7
+
+
+                                                                   Baseline         Assessment scenario
+                                                              (pre-intervention)     (post-intervention)
+                                                Unit of                                                          Related strategic
+     No.               Indicator                                                                 Expected                               Means of verification               Comments
+                                               measure                                                          alignment themes1
+                                                              Value       Year      Target         year
+                                                                                                 measured
+    R1.6    Walkability index (La Libertad)      Index         12.9       2025        15.9         2030      Sustainable economic    Optional link 10, Urban       See required link 2.
+                                                                                                             growth                  regeneration plans for
+                                                                                                                                     Santa Tecla and La Libertad
+                                                                                                                                     Responsible party: DOM
+    OE2. Boost competitiveness and promote formalization of the businesses in the municipal markets of both districts
+    R2.1    Micro business robustness           Number         0.18       2025       0.196         2030      Sustainable economic    Technical report based on     See required link 2.
+            index (Santa Tecla)                between 0                                                     growth                  vendor survey
+                                                 and 1                                                                               Responsible party: DOM
+    R2.2    Micro business robustness           Number         0.16       2025        0.18         2030      Sustainable economic    Technical report based on     See required link 2.
+            index (La Libertad)                between 0                                                     growth                  vendor survey
+                                                 and 1                                                                               Responsible party: DOM
+    R2.3    Gap between men and women         Points on the   0.0287      2025      0.00637        2030      Diversity and gender    Technical report based on     See required link 2.
+            in micro business robustness         index                                                       equality                vendor survey
+            (Santa Tecla)                                                                                                            Responsible party: DOM
+    R2.4    Gap between men and women         Points on the   0.0323      2025      0.0040         2030      Diversity and gender    Technical report based on     See required link 2.
+            in micro business robustness         index                                                       equality                vendor survey
+            (La Libertad)                                                                                                            Responsible party: DOM
+    R2.5    Proportion of merchants who       Percentage      4.64%       2025      50.4%    8     2030      Sustainable economic    Technical report based on     See required link 2.
+            meet formalization criteria                                                                      growth                  vendor survey
+            (Santa Tecla)                                                                                                            Responsible party: DOM
+    R2.6    Proportion of merchants who       Percentage      2.81%       2025       49.5%         2030      Sustainable economic    Technical report based on     See required link 2.
+            meet formalization criteria                                                                      growth                  vendor survey
+            (La Libertad)                                                                                                            Responsible party: DOM
+
+
+
+
+6     The expected target for micro business robustness is the minimum possible change to capture with 95% statistical confidence, according to power calculations of the data reported
+      in the technical report based on the Santa Tecla and La Libertad market vendor survey, and the methodology proposed in the Competitiveness Analysis Annex.
+7     The expected target for the gender gap in micro business robustness is the minimum possible change to capture with 95% statistical confidence, according to power calculations
+      of the data reported in the technical report based on the Santa Tecla and La Libertad market vendor survey, and the methodology proposed in the Competitiveness Analysis Annex.
+8     Consistent with expected formalization rates as established in the Cost-Benefit Analysis.
+Annex II
+Page 4 of 7
+
+
+                                                                    Baseline           Assessment scenario
+                                                               (pre-intervention)       (post-intervention)
+                                                Unit of                                                          Related strategic
+     No.               Indicator                                                                   Expected                                   Means of verification               Comments
+                                               measure                                                          alignment themes1
+                                                               Value        Year       Target        year
+                                                                                                   measured
+    OE3. Build the institutional and financial capacities of the Libertad Sur and Libertad Costa municipios
+    R3.1    Percentage coverage of            Percentage         0          2025       100%10         2030    Institutional capacity and   Six-monthly progress report   See required link 2.
+            municipal market operating                                                                        rule of law                  Responsible party: DOM
+            costs, including costs
+            associated with maintenance
+            plans (Santa Tecla)9
+    R3.2    Percentage coverage of            Percentage         0          2025        100%          2030    Institutional capacity and   Six-monthly progress report   See required link 2.
+            municipal market operating                                                                        rule of law
+            costs, including costs
+            associated with maintenance
+            plans (La Libertad)
+    R3.3    Comprehensive land                   Index          0.85        2025        0.8811        2030    Institutional capacity and   Technical report based on     See required link 2.
+            management capacity index                                                                         rule of law                  comprehensive municipal
+            (Santa Tecla)                                                                                                                  financial and institutional
+                                                                                                                                           capacity methodology
+                                                                                                                                           Responsible party: DOM
+    R3.4    Comprehensive land                   Index          0.44        2025         0.54         2030    Institutional capacity and   Technical report based on     See required link 2.
+            management capacity index                                                                         rule of law                  comprehensive municipal
+            (La Libertad)                                                                                                                  financial and institutional
+                                                                                                                                           capacity methodology
+                                                                                                                                           Responsible party: DOM
+
+
+
+
+9     The baseline is 0 since currently the municipal markets have no established maintenance plans.
+10    The target is set pursuant to the optional link 16 technical annex - financial model and governance plan for managing municipal markets.
+11    Calculations based on comprehensive municipal institutional capacity diagnostic assessment. Target given as minimum improvement in 40% of index indicators.
+                                                                                                                                                                                       Annex II
+                                                                                                                                                                                     Page 5 of 7
+
+
+                                                                                             C. OUTPUTS
+
+                                                                                                                        End of    Related strategic
+                                          Unit of   Baseline   Baseline                                                                                 Means of                       Cost of
+ No.            Benchmark                                                 Year 1   Year 2   Year 3   Year 4   Year 5    project      alignment                         Comments
+                                         measure     value       year                                                                                  verification                  output (US$)
+                                                                                                                         value        themes
+1. Component 1: Developing urban infrastructure and basic services
+P1.1    Design, construction, and        Number        0        2025        0        0        0        2        0         2       Sustainable         Monitoring      See required    112,708,000
+        outfitting of two municipal                                                                                               economic growth.    report          link 2.
+        markets equipped with                                                                                                     Climate change      Responsible
+        childcare infrastructure and                                                                                              adaptation          party: DOM
+        universal accessibility
+        criteria
+P1.2    Surface area of priority           m2          0        2025        0        0      5,000    25,000   15,000   45,000 m2 Sustainable          Monitoring      See required     39,142,000
+        public spaces renovated                                                                                                  economic growth.     report          link 2.
+        with universal accessibility                                                                                             Climate change       Responsible
+        criteria or reasonable                                                                                                   adaptation           party: DOM
+        accommodations for
+        persons with disabilities
+P1.3    Design and implementation        Number        0        2025        0        0        0        0        1         1       Sustainable         Monitoring      See required       150,000
+        of composting and biogas                                                                                                  economic growth.    report          link 2.
+        pilot project                                                                                                             Climate change      Responsible
+                                                                                                                                  adaptation          party: DOM
+P1.4    EDGE Advance certification       Number        0        2025        0        0        0        2        0         2       Climate change      EDGE            See required         40,000
+                                                                                                                                  mitigation          certification   link 2.
+                                                                                                                                                      Manager: DOM
+2. Component 2: Comprehensive support for micro and small merchants
+P2.1    Business training program        Number        0        2025        0        0        1        0        0         1       Sustainable         Monitoring      See required      2,000,000
+        for the merchants at both                                                                                                 economic growth     report          link 2.
+        municipal markets designed                                                                                                                    Responsible
+        and implemented, with                                                                                                                         party: DOM
+        accessibility for persons
+        with disabilities and specific
+        supports to encourage the
+        participation of female
+        merchants
+P2.2    Program to support the           Number        0        2025        0        0        1        0        0         1       Sustainable         Monitoring      See required      3,200,000
+        formalization of merchants                                                                                                economic growth     report          link 2.
+        at both municipal markets                                                                                                                     Responsible
+        designed and implemented,                                                                                                                     party: DOM
+        with accessibility for
+        persons with disabilities and
+        specific supports to
+        encourage the participation
+        of female merchants
+Annex II
+Page 6 of 7
+
+
+                                                                                                                       End of    Related strategic
+                                          Unit of   Baseline   Baseline                                                                                Means of                       Cost of
+     No.           Benchmark                                              Year 1   Year 2   Year 3   Year 4   Year 5   project      alignment                         Comments
+                                         measure     value       year                                                                                 verification                  output (US$)
+                                                                                                                        value        themes
+P2.3       Digital payments pilot        Number        0        2025        0        1        0        0        0        1       Sustainable         Monitoring      See required       100,000
+           project with Digital WCAG12                                                                                           economic growth     report          link 2.
+           accessibility guidelines,                                                                                                                 Responsible
+           designed and implemented                                                                                                                  party: DOM
+P2.4       Program to support            Number        0        2025        0        0        0        1        0        1       Sustainable         Monitoring      See required       650,000
+           merchant financing for                                                                                                economic growth     report          link 2.
+           equipment procurement,                                                                                                                    Responsible
+           designed and implemented                                                                                                                  party: DOM
+P2.5       Buying cooperative for        Number        0        2025        0        0        2        0        0        2       Sustainable         Monitoring      See required      2,000,000
+           supplies created                                                                                                      economic growth     report          link 2.
+                                                                                                                                                     Responsible
+                                                                                                                                                     party: DOM
+P2.6       Municipal markets             Number        0        2025        0        0        0        0        2        2       Sustainable         Monitoring      See required       450,000
+           marketing plan, designed                                                                                              economic growth     report          link 2.
+           and implemented                                                                                                                           Responsible
+                                                                                                                                                     party: DOM
+3. Component 3: Building municipal institutional and financial capacities
+P3.1       Municipal markets manual      Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       150,000
+           and maintenance plan,                                                                                                 capacity and rule   report          link 2.
+           including the wastewater                                                                                              of law              Responsible
+           treatment plant, designed                                                                                                                 party: DOM
+P3.2       Operating regulations and     Number        0        2025        0        0        0        2        0        2       Institutional       Monitoring      See required       600,000
+           window display manuals for                                                                                            capacity and rule   report          link 2.
+           the Santa Tecla and                                                                                                   of law              Responsible
+           La Libertad municipal                                                                                                                     party: DOM
+           markets, designed
+P3.3       Partial land management       Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required      1,550,000
+           plans for the districts of                                                                                            capacity and rule   report          link 2.
+           Santa Tecla and                                                                                                       of law              Responsible
+           La Libertad designed                                                                                                                      party: DOM
+P3.4       Action plans for              Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       600,000
+           comprehensive urban                                                                                                   capacity and rule   report          link 2.
+           mobility management in                                                                                                of law              Responsible
+           Santa Tecla and                                                                                                                           party: DOM
+           La Libertad formulated
+P3.5       Municipal land information    Number        0        2025        0        0        0        2        0        2       Institutional       Monitoring      See required       600,000
+           systems developed                                                                                                     capacity and rule   report          link 2.
+                                                                                                                                 of law              Responsible
+                                                                                                                                                     party: DOM
+
+
+
+
+12    This refers to the Web Content Accessibility Guidelines international standard to make web content more accessible to people with disabilities.
+                                                                                                                                                                                    Annex II
+                                                                                                                                                                                  Page 7 of 7
+
+
+                                                                                                                     End of    Related strategic
+                                        Unit of   Baseline   Baseline                                                                                Means of                       Cost of
+ No.            Benchmark                                               Year 1   Year 2   Year 3   Year 4   Year 5   project      alignment                         Comments
+                                       measure     value       year                                                                                 verification                  output (US$)
+                                                                                                                      value        themes
+P3.6    Programs to strengthen         Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       375,000
+        municipal urban planning                                                                                               capacity and rule   report          link 2.
+        offices, designed and                                                                                                  of law              Responsible
+        implemented                                                                                                                                party: DOM
+P3.7    Programs to strengthen         Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       375,000
+        municipal tax management                                                                                               capacity and rule   report          link 2.
+        offices, designed and                                                                                                  of law              Responsible
+        implemented                                                                                                                                party: DOM
+P3.8    Programs to strengthen         Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       375,000
+        municipal market                                                                                                       capacity and rule   report          link 2.
+        management offices,                                                                                                    of law              Responsible
+        designed and implemented                                                                                                                   party: DOM
+P3.9    Programs to strengthen         Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       375,000
+        municipal land development                                                                                             capacity and rule   report          link 2.
+        offices, designed and                                                                                                  of law              Responsible
+        implemented                                                                                                                                party: DOM
+P3.10   Payment rules for use of       Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       150,000
+        public space and other                                                                                                 capacity and rule   report          link 2.
+        nontax services developed                                                                                              of law              Responsible
+                                                                                                                                                   party: DOM
+P3.11   Regulations on instruments     Number        0        2025        0        0        2        0        0        2       Institutional       Monitoring      See required       150,000
+        to capture land appreciation                                                                                           capacity and rule   report          link 2.
+        prepared                                                                                                               of law              Responsible
+                                                                                                                                                   party: DOM
+                                                                                              Annex III
+                                                                                            Page 1 of 6
+
+
+
+Country: El Salvador             Division: HUD          Operation No.: ES-L1172            Year: 2025
+
+
+                          FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+Executing agency:             Municipal Public Works Office (DOM)
+Operation name:               Comprehensive Program for Urban Regeneration and Sustainable
+                              Revitalization of Municipal Markets in Santa Tecla and La Libertad
+
+                         I.    FIDUCIARY CONTEXT OF THE EXECUTING AGENCY
+
+1. Use of country systems in the operation (Any system or subsystem that is subsequently
+   approved may be applicable to this operation, in accordance with the terms of the Bank’s
+   validation).
+
+  Budget                Reports                 Information systems        National Competitive
+                                                                               Bidding (NCB)
+  Treasury              Internal control        Shopping                   Other
+  Accounting            External audit          Individual consultants     Other
+
+
+2. Fiduciary execution mechanism
+
+    Special features         The executing agency will be the Municipal Public Works Office (DOM),
+     of fiduciary             through its project execution unit. The executing agency’s main function
+     execution                will be the technical, administrative, and operational management of the
+                              program. It will be comprised of: (i) a general coordinator; (ii) (a) a
+                              general program coordinator; (b) a financial coordinator; (c) a
+                              procurement coordinator; (d) a planning and monitoring coordinator;
+                              and (e) an environmental and social coordinator.
+
+
+3. Fiduciary capacity
+
+ Fiduciary capacity of        The executing agency’s fiduciary capacity was assessed and found to
+ the executing agency         be adequate, since DOM is currently executing program 5080/OC-ES
+                              satisfactorily and notably has experience and strong technical
+                              management and fiduciary capacity.
+Annex III
+Page 2 of 6
+
+
+4. Fiduciary risks and risk response
+
+    Risk                                                  Risk
+                                Risk                                        Risk response
+  category                                                level
+
+ Systems        The procurement management               Medium-    The processes will be
+                system lacks the functions and            high      published on COMPRASAL, as
+                openness necessary to advertise                     well as on the Bank’s website
+                bidding, progress of the contracting                and that of the executing
+                processes, or the award information;                agency. Other mechanisms for
+                therefore, participation is limited                 publishing the bidding
+                exclusively to registered domestic and              processes will also be
+                foreign potential bidders.                          explored.
+
+ Internal       Bottlenecks were identified during the   Medium-    A study of works will be
+ processes      contracting process (i) in bid             low      performed by sector, to identify
+                evaluation as a result of bidder                    the potential market for the
+                noncompliance, and (ii) after a                     country’s public works, explore
+                process is relaunched when few or no                other contracting methods, and
+                bids were submitted; for this reason,               identify strategies to increase
+                the participation criteria and                      bidder participation.
+                requirements have had to be relaxed.
+
+
+5. Policies and guidelines applicable to the operation: Procurements will be laid out in the
+   procurement plan approved by the Bank. They will be carried out under the Policies for
+   Procurement of Goods and Works financed by the IDB (GN-2349-15) and the Policies for the
+   Selection and Contracting of Consultants financed by the IDB (GN-2350-15) or the current
+   versions. For financial management, the Financial Management Guidelines for IDB-Financed
+   Projects (OP-273-12 or a current version) will apply.
+6. Exceptions to policies and guidelines: Not applicable.
+
+              II. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE LOAN CONTRACT
+
+ Special conditions precedent to the first disbursement: N/A.
+
+ Exchange rate: For the purposes of Article 4.10 of the General Conditions, the parties agree that
+ the exchange rate to be used will be the rate stipulated in Article 4.10(b)(ii). For these purposes,
+ the agreed exchange rate will be the exchange rate in effect on the effective date of the loan on
+ which the borrower, the executing agency, or any other person or corporation with delegated
+ authority to incur expenditures makes the respective payments to the contractor, vendor, or
+ beneficiary.
+
+ Type of audit: During program execution, audited financial statements will be submitted annually,
+ no later than 120 days after the close of each fiscal period. The external audit of the program will
+ be done by an external firm acceptable to the Bank. The program final audited financial
+ statements will be submitted no later than 120 days after the date of the last disbursement.
+                                                                                           Annex III
+                                                                                         Page 3 of 6
+
+
+             III. AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+   Bidding           For the procurement of works, goods, and nonconsulting services, the
+    documents         procurement policies (GN-2349-15) will apply, and for the selection and
+                      contracting of consulting services, the Policies for the Selection and
+                      Contracting of Consultants (GN-2350-15 or a current version) will apply.
+                      For procedures over the threshold that have to be advertised internationally,
+                      the standard bidding documents available on the Bank’s website will be
+                      used. For procedures under the threshold, documents harmonized by the
+                      Bank for the country and available on the Teams channel will be used. In
+                      the case of national competitive bidding for works, a model document that
+                      meets basic procurement principles and contains the clauses required by
+                      the Bank will be agreed upon with the executing agency.
+                      The project sector specialist is responsible for reviewing the technical
+                      specifications or terms of reference during preparation of the contracting
+                      processes. This technical review may be performed ex ante and is
+                      independent of the procurement review method.
+   Recurrent         The eligibility of recurrent costs required to launch the project will be
+    costs             approved by the Project Team Leader for each fiscal year financed and
+                      executed in accordance with the requirements and procedures
+                      established in the project operating manual. The costs include utilities and
+                      communications, office supplies, advertising or outreach, photocopies,
+                      fuel, lodging, per diems, event logistics, and courier, secretarial, driving,
+                      surveillance, cleaning, and Internet services, among others agreed on
+                      with the Bank. These procedures will be reviewed and accepted by the
+                      Bank, provided they do not violate the principles of economy, efficiency,
+                      and competition, in accordance with the guidelines for the handling of
+                      recurrent costs and the Policy on Eligibility of Expenditures (GN-2331-5)
+                      and any updated versions.
+   Advance           The Bank may retroactively finance from the loan proceeds eligible
+    procurement       expenditures incurred by the borrower before the loan approval date,
+    and retroactive   related to the renovation of public spaces, implementation of the
+    financing         environmental and social management plan, and construction of the
+                      temporary municipal markets mentioned in Component 1, for up to
+                      US$20 million (11.76% of the loan amount), provided they have met
+                      requirements substantially similar to those established in the loan contract
+                      and that the contracting procedures comply with the Bank’s Core
+                      Procurement Principles and Environmental and Social Framework. Eligible
+                      expenditures are to have been incurred on or after 21 February 2025
+                      (Project Profile approval date) but must in no case include expenses
+                      incurred more than 18 months before the loan approval date. Advance
+                      procurement will be done by and at the risk of the executing agency,
+                      provided it follows substantially similar procedures.
+Annex III
+Page 4 of 6
+
+
+
+      Procurement     The ex-ante supervision model will apply to all international direct
+       supervision     contracting or direct selection processes and other complex procurement
+                       methods or those that are critical for executing the project, regardless of
+                       the thresholds established for the country.
+                       The ex post supervision method may be applied to procedures under the
+                       thresholds in place for the country, considering the type of goods,
+                       services, or works, and their nature. The ex post review of the processes
+                       will preferably be electronic and randomly selected during a budget year.
+                       The supervision modality will be established in the procurement plan in
+                       accordance with project execution, the context, and the risk level of the
+                       project or process.
+
+                           Executing                                               Consulting
+                                                 Works        Goods/services
+                            agency                                                  services
+
+                             DOM               US$5 million     US$250,000         US$200,000
+
+
+      Records and     The executing unit will be responsible for maintaining adequate controls
+       archives        to safeguard and ensure the integrity of the original records and archives
+                       of procurement processes and financial information in its possession as
+                       part of program execution. The Bank may check the organization’s
+                       archive control and security standards at any time.
+
+
+Main procurements
+                                                          New                   Estimated
+                                    Selection                      Estimated
+     Procurement description                          procedures /               amount
+                                     method                          date
+                                                         tools               (US$ thousands)
+Goods
+Equipment and appliances           International                   April 2029                   350
+                                    competitive
+                                   bidding (ICB)
+Works
+Rehabilitation of public spaces          ICB                         March                 34,340
+                                                                     2027
+Construction of temporary and            ICB                         March                107,486
+permanent municipal markets                                          2027
+Nonconsulting services
+Microfinance fairs                       ICB                       April 2029                   300
+Firms
+Economic assessment and                 Direct                       August                     150
+impact assessment                      selection                      2030
+                                                                                          Annex III
+                                                                                        Page 5 of 6
+
+
+                                                        New                   Estimated
+                                    Selection                    Estimated
+    Procurement description                         procedures /               amount
+                                     method                        date
+                                                       tools               (US$ thousands)
+Various plans, pilot programs,       Selection                      2026 to                   870
+manuals, rules, regulations, and   based on the                      2030
+minor certifications (not          consultants’
+including external audits)         qualifications
+                                      (SCC)
+Action plans for the               Quality- and                    May 2027                   600
+comprehensive management of        cost-based
+urban mobility                      selection
+                                    (QCBS)
+Design and implementation of          QCBS                           2027,                 11,800
+various programs                                                   2028, and
+                                                                     2029
+Works supervision                     QCBS                           March                  5,774
+                                                                     2027
+Market and renovation designs         QCBS                         April 2026               3,930
+Individuals
+Consultants in the program         Selection of                    December                 1,776
+executing unit                      individual                       2025
+                                   consultant
+                                      (3CV)
+Various analyses, diagnostic          Direct                        2026 to                   270
+assessments, training, midterm     selection of                      2030
+and economic evaluations            individual
+                                   consultants
+
+To access the procurement plan, see required link 4.
+
+
+               IV. AGREEMENTS AND REQUIREMENTS FOR FINANCIAL MANAGEMENT
+
+     Programming       Based on the current performance of program 5080/OC-ES, co-executed
+      and budget        by DOM, and the rest of the investment programs in the Bank’s loan
+                        portfolio, no challenges are foreseen in the allocation of the program
+                        budget.
+     Treasury and      To receive program resources, a specific account will be opened within the
+      disbursement      Treasury Single Account (CUT) system of the Ministry of Finance. As this
+      management        is an autonomous entity, DOM will also open an account in a commercial
+                        bank and will ask the Ministry of Finance to transfer there the resources
+                        disbursed by the IDB to the CUT. This account will be used exclusively for
+                        program execution.
+Annex III
+Page 6 of 6
+
+
+
+     Accounting,        For payment processing and accounting records, DOM uses the
+      information        information system of the former FISDL (El Salvador’s social investment
+      systems, and       fund for local development), an institution that closed in 2021 and whose
+      reporting          functions were assumed by DOM that year.
+     Internal control   DOM has an Internal Auditing Unit that acts in accordance with the Ley de
+      and internal       la Corte de Cuentas de la República (Salvadoran general accounting office
+      auditing           law) and the internal control technical standards issued by this office.
+     External control   External control of the program will be carried out by an independent
+      and financial      external auditing firm acceptable to the IDB. The terms of reference and
+      reports            request for proposals must have the prior no objection of the IDB. During
+                         program execution, audited financial statements will be submitted each
+                         year, no later than 120 days after the close of each fiscal period. The
+                         program’s final audited financial statements will be submitted no later than
+                         120 days after the date of the last disbursement.
+     Financial          The operation requires ex post financial supervision of disbursements,
+      supervision of     whose inputs will come mainly from audited financial reports. In addition,
+      the operation      financial supervision inspections will be done at least once a year.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                               PROPOSED RESOLUTION DE-__/25
+
+
+
+                 El Salvador. Loan _____/OC-ES to the Republic of El Salvador.
+                      Comprehensive Program for Urban Regeneration and
+                        Sustainable Revitalization of Municipal Markets in
+                                  Santa Tecla and La Libertad
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with the Republic of El Salvador, as borrower, for the purpose of granting it a financing
+aimed at cooperating in the execution of the Comprehensive Program for Urban Regeneration
+and Sustainable Revitalization of Municipal Markets in Santa Tecla and La Libertad. Such
+financing will be for the amount of up to US$170,000,000, from the resources of the Bank’s
+Ordinary Capital, and will be subject to the Financial Terms and Conditions and the Special
+Contractual Conditions of the Project Summary of the Loan Proposal.
+
+
+
+                               (Adopted on _______________ 2025)
+
+
+
+LEG/SGO/CID/EZIDB0000366-275433124-9889
+ES-L1172
+

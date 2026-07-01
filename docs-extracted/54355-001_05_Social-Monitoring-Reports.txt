@@ -1,0 +1,1120 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+Project Number: 54355-001
+November 2021
+
+
+
+
+Proposed Loan, Grant, and Technical
+Assistance Grant
+Kingdom of Bhutan: Green and Resilient Affordable
+Housing Sector Project
+
+
+
+
+Distribution of this document is restricted until it has been approved by the Board of Directors.
+Following such approval, ADB will disclose the document to the public in accordance with ADB's
+Access to Information Policy.
+                            CURRENCY EQUIVALENTS
+                              (as of 14 October 2021)
+
+                      Currency unit      –     ngultrum (Nu)
+                           Nu1.00        =     $0.013
+                             $1.00       =     Nu75.23
+
+
+                                 ABBREVIATIONS
+
+       ADB              –   Asian Development Bank
+       ADF              –   Asian Development Fund
+       COVID-19         –   coronavirus disease
+       MOF              –   Ministry of Finance
+       MOWHS            –   Ministry of Works and Human Settlement
+       NHDCL            –   National Housing Development Corporation Limited
+       NHP              –   National Housing Policy
+       NPPF             –   National Pension and Provident Fund
+       NSB              –   National Statistics Bureau
+       O&M              –   operation and maintenance
+       PAM              –   project administration manual
+       PBL              –   policy-based loan
+       PMU              –   project management unit
+       SDG              –   Sustainable Development Goal
+       TA               –   technical assistance
+       TASF             –   Technical Assistance Special Fund
+
+
+                                       NOTES
+
+(i)    The fiscal year (FY) of the Government of Bhutan ends on 30 June. “FY” before a
+       calendar year denotes the year in which the fiscal year ends, e.g., FY2022 ends
+       on 30 June 2022.
+
+(ii)   In this report, “$” refers to United States dollars.
+Vice-President             Shixin Chen, Operations 1
+Director General           Kenichi Yokoyama, South Asia Department (SARD)
+Deputy Director General    Manmohan Parkash, SARD
+Director                   Norio Saito, Urban Development and Water Division (SAUW), SARD
+
+Team leaders               Saswati Belliappa, Senior Safeguards Specialist, SAUW, SARD
+                           Jude Kohlhase, Unit Head, Project Administration, SAUW, SARD
+Team members               Mikael Andersson, Financial Management Specialist, Portfolio,
+                              Results and Quality Control Unit, Office of the Director General
+                              (SAOD-PR), SARD
+                           Amer A. Chowdhury, Senior Public–Private Partnership Specialist,
+                              Advisory Division 1, Office of Public–Private Partnership
+                           Dharmesh M. Dawda, Procurement Specialist, Procurement Division
+                              1, Procurement, Portfolio, and Financial Management
+                              Department
+                           Manohari Gunawardhena, Senior Financial Sector Specialist, Public
+                              Management, Financial Sector, and Trade Division, SARD
+                           Hong Soo Lee, Senior Urban Specialist (Smart Cities), Urban Sector
+                              Group, Sustainable Development and Climate Change
+                              Department (SDCC)
+                           Tashi Lhamo, Associate Project Officer, Bhutan Resident Mission
+                              (BHRM), SARD
+                           Charlene Liau, Urban Development Specialist, SAUW, SARD
+                           Rodellyn S. Manalac, Operations Assistant, SAUW, SARD
+                           Edgardo G. Moises II, Associate Project Officer, SAUW, SARD
+                           Lyailya Nazarbekova, Principal Counsel, Office of the General
+                              Counsel
+                           Tshewang Norbu, Portfolio Management Specialist, BHRM, SARD
+                           Santosh Pokharel, Urban Economist, SAUW, SARD
+                           Achyutha Aleti Rao, Environment Specialist, SAUW, SARD
+                           Rayhalda D. Susulan, Safeguards Officer (Resettlement), Office of
+                              the Director General, SARD
+                           Francesco Tornieri, Principal Social Development Specialist (Gender
+                              and Development), SAOD-PR, SARD
+                           Nidup Tshering, Senior Social Development Officer (Gender),
+                              BHRM, SARD
+                           Mario Unterwainig, Disaster Risk Management Specialist (Resilient
+                              Infrastructure), Climate Change and Disaster Risk Management
+                              Division, SDCC
+                           Vivek Vishal, Senior Project Officer (Urban), India Resident Mission,
+                              SARD
+                           Noime Walican, Associate Safeguards Officer (Environment),
+                              SAUW, SARD
+                           Sheryl V. Yanez, Project Analyst, SAUW, SARD
+Peer reviewer              Arnaud Heckmann, Principal Urban Development Specialist, Urban
+                              and Social Sectors Division, East Asia Department
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                     CONTENTS
+                                                                   Page
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                                   1
+II.    THE PROJECT                                                    1
+       A.   Rationale                                                 1
+       B.   Project Description                                       4
+       C.   Value Added by ADB                                        5
+       D.   Summary Cost Estimates and Financing Plan                 6
+       E.   Implementation Arrangements                               7
+III.   ATTACHED TECHNICAL ASSISTANCE                                  8
+IV.    DUE DILIGENCE                                                  8
+       A.    Technical                                                8
+       B.    Economic and Financial Viability                         8
+       C.    Sustainability                                           9
+       D.    Governance                                               9
+       E.    Poverty, Social, and Gender                             10
+       F.    Safeguards                                              10
+       G.    Summary of Risk Assessment and Risk Management Plan     11
+V.     ASSURANCES                                                    12
+VI.    RECOMMENDATION                                                12
+
+
+APPENDIXES
+1.     Design and Monitoring Framework                               13
+2.     List of Linked Documents                                      17
+                                                                                                  Project Classification Information Status: Complete
+
+
+                                                          PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                              Project Number: 54355-001
+       Project Name                      Green and Resilient Affordable Housing               Department/Division SARD/SAUW
+                                         Sector Project
+       Country                           Bhutan                                               Executing Agency            Ministry of Finance
+       Borrower                          Bhutan
+
+       Country Economic                  https://www.adb.org/Documents/LinkedDocs/
+       Indicators                        ?id=54355-001-CEI
+       Portfolio at a Glance             https://www.adb.org/Documents/LinkedDocs/
+                                         ?id=54355-001-PortAtaGlance
+
+    2. Sector                            Subsector(s)                                                                ADB Financing ($ million)
+       Water and other urban             Urban housing                                                                                 30.00
+       infrastructure and services
+                                                                                                                Total                        30.00
+    3. Operational Priorities                                                                 Climate Change Information
+       Addressing remaining poverty and reducing inequalities                                 GHG reductions (tons per annum)                 9.360
+       Accelerating progress in gender equality                                               Climate Change impact on the                     High
+       Tackling climate change, building climate and disaster resilience, and                 Project
+       enhancing environmental sustainability
+       Making cities more livable                                                             ADB Financing
+       Strengthening governance and institutional capacity                                    Adaptation ($ million)                            4.80
+                                                                                              Mitigation ($ million)                            7.20
+
+                                                                                              Cofinancing
+                                                                                              Adaptation ($ million)                            0.00
+                                                                                              Mitigation ($ million)                            0.00
+       Sustainable Development Goals                                                          Gender Equity and Mainstreaming
+       SDG 1.5                                                                                Effective gender mainstreaming (EGM)
+       SDG 5.4
+       SDG 11.1                                                                               Poverty Targeting
+       SDG 13.a                                                                               Household Targeting
+
+    4. Risk Categorization:              Low
+.
+
+
+    5. Safeguard Categorization                       Environment: B Involuntary Resettlement: B Indigenous Peoples: C
+.
+
+
+    6. Financing
+        Modality and Sources                                                                         Amount ($ million)
+        ADB                                                                                                                                30.00
+           Sovereign Sector grant: Asian Development Fund                                                                                   6.00
+           Sovereign Sector (Concessional Loan): Ordinary capital resources                                                                24.00
+        Cofinancing                                                                                                                         0.00
+           None                                                                                                                             0.00
+        Counterpart                                                                                                                         7.00
+           Government                                                                                                                       7.00
+        Total                                                                                                                              37.00
+        Note: An attached technical assistance will be financed on a grant basis by the Technical Assistance Special Fund (TASF-7) in the amount
+        of $1,000,000.
+
+       Currency of ADB Financing: US Dollar
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.          21102021154605555089                                 Generated Date: 21-Oct-2021 16:29:04 PM
+                                         I.      THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on a proposed loan
+and a proposed grant, both to the Kingdom of Bhutan for the Green and Resilient Affordable
+Housing Sector Project. The report also describes proposed technical assistance (TA) for
+Supporting the Green and Resilient Affordable Housing Sector Project, and if the Board approves
+the proposed loan and grant, I, acting under the authority delegated to me by the Board, approve
+the TA.
+
+2.      The project will support the government’s national priority to improve the livability, safety,
+and sustainability of human settlements through better access to adequate and affordable rental
+housing,1 which will be implemented using the sector loan modality. The project will increase the
+supply of green and resilient affordable housing in Nganglam, Phuentsholing, Samdrup Jongkhar,
+Samtse, Thimphu, and Trashiyangtse; and benefit about 1,000 lower- to middle-income civil
+servants and non-civil servants, including marginalized municipal waste workers. The project will
+also implement the associated infrastructure and facilities, enhance the institutional capacity of
+the National Housing Development Corporation Limited (NHDCL), and strengthen the housing
+sector policy and regulatory framework necessary to provide access to land, and leverage the
+private sector to address the housing supply shortage.
+
+                                          II.      THE PROJECT
+
+A.      Rationale
+
+3.      Country macroeconomic context. Bhutan is steadily urbanizing. The share of the urban
+population increased from 30% in 2005 to 42% in 2021, driven by an average annual growth rate
+of 1.9% over that period. The urbanization rate is projected to reach 56.8% by 2047. 2 Urban
+population growth is fueled by rural migration, mostly to the four largest urban centers of Gelephu,
+Phuentsholing, Samdrup Jongkhar, and Thimphu, which account for 59.0% of the total urban
+population. While 58.0% of the Bhutanese population still lives in rural areas and engages in
+small-scale and subsistence agriculture, the constant flow of rural migration to urban centers is
+exerting mounting pressure on urban services. Bhutan has a chance to be proactive and focus
+on housing development. Economic growth in the capital city, Thimphu, has been fueled by
+expansion in construction, services, and manufacturing. Bhutan has a current overall
+unemployment rate of 2.4%, which is low relative to neighboring South Asia countries. 3 The
+Government of Bhutan’s Twelfth Five Year Plan, 2018–2023 calls for developing the economy by
+fostering growth in the private sector, which will create jobs and contribute to sustainable poverty
+reduction and the country’s transition to green and resilient development (footnote 1).
+
+4.     Housing demand. Affordable housing development in Bhutan has not kept pace with
+population growth, particularly in urban areas where the demographic increase puts pressure on
+the limited usable and appropriately zoned land and pushes house prices up, making it
+increasingly unaffordable. In 2017, the estimated shortfall of housing nationwide was 21,156.4
+
+1  Government of Bhutan, Gross National Happiness Commission. 2019. Twelfth Five Year Plan, 2018–2023: Just,
+   Harmonious and Sustainable Society through Enhanced Decentralisation. Thimphu. Affordable housing is defined
+   as the ability for households to meet housing costs within 30% of their gross monthly income.
+ 2 Government of Bhutan, National Statistics Bureau (NSB). 2019. Population Projections Bhutan 2017–2047.
+
+   Thimphu.
+ 3
+   Government of Bhutan, NSB. 2018. Population and Housing Census of Bhutan, 2017, National Report. Thimphu.
+4 Asian Development Bank (ADB). 2017. Housing Finance Feasibility Study. Consultant’s report. Manila (SC107332);
+
+   and ADB. 2018. Housing Finance Feasibility Study. Manila (SC 107332).
+2
+
+
+Nearly 63.5% of urban households rent, 17.5% live in rent-free dwellings, and only 19.0% of
+households own their homes. 5 The affordable housing shortage is particularly acute for low-
+income households, who spend on average more than 40% of their income on housing—greater
+than the recommended 30%.6 Housing options are becoming increasingly unaffordable for low-
+income households and vulnerable groups, including women, leaving them in (i) overcrowded
+conditions in shared accommodation, and (ii) residing in informal settlements.
+
+5.      Sector challenges—planning constraints, limited housing supply, and lack of
+access to finance. Unclear and onerous land use planning and zoning constrain the timely
+conversion of agricultural land for housing in Bhutan. The supply of sufficient and appropriately
+zoned land for residential development limits the supply of affordable housing (footnote 6). The
+private sector faces challenges in increasing housing stock because of high development costs
+and the difficulty of acquiring land located near services and employment centers. Key
+commercial housing finance constraints that limit housing development include high land prices
+and maximum lending terms capped at 20 years (footnote 6). Despite these limitations, mortgage
+lending for housing has increased significantly from 17% of total loans in 2018 to 27% in 2020.7
+This reflects continuing high demand for housing credit, and is perceived as a medium-term risk
+by domestic banks because of their high exposure in a vulnerable housing sector and the
+possibility of leading to a real estate bubble. For home loans, microfinance is nascent in Bhutan
+and no microfinance institutions offer housing finance to households. Low-income earners are
+unable to access housing credit without verifiable income statements linked to formal
+employment. While making housing finance more accessible to households is necessary to
+address demand-side challenges, the government needs to intervene to increase housing supply.
+
+6.      Climate and disaster vulnerability. Bhutan is highly vulnerable to climate change and
+natural hazards.8 Flooding is considered the most significant climate-related hazard affecting the
+built environment. The country is also exposed to other hazards such as earthquakes, glacial lake
+outburst floods, forest fires, and landslides. Making housing and infrastructure more resilient to
+the impacts of climate and disaster events is essential to protect the urban population, especially
+the vulnerable communities.
+
+7.       Government policy. Bhutan’s Twelfth Five Year Plan, 2018–2023 prioritizes the
+government’s strategic thrust for economic stability, economic diversification, poverty reduction,
+and affordable housing provision (footnote 1). The government approved the National Housing
+Policy (NHP) in 2020. The NHP vision is “housing for all” and the policy objectives are (i) providing
+safe, affordable, and adequate rental housing for all; (ii) promoting home ownership; (iii)
+encouraging public-private partnerships (PPP) to provide affordable housing; (iv) establishing a
+robust governance system; and (v) promoting green and energy-efficient housing. 9 The NHP
+establishes an enabling environment for government to unlock housing challenges faced by the
+private sector, by committing to reforms to streamline the land use zoning to increase supply, and
+strengthening housing financing systems by the banking and non-banking sector, coupled with
+fiscal incentives to make housing finance more attractive and providing access to land. The
+government’s public housing program intends to supply 2,500 affordable housing units in a
+phased manner, of which 1,000 are proposed to be built under this project. PPP arrangements
+
+5 Government of Bhutan, NSB. 2017. Bhutan Living Standards Survey Report 2017. Thimphu.
+6 Government of Bhutan, NSB. 2017. Bhutan Poverty Analysis Report 2017. Thimphu.
+7 Government of Bhutan, Royal Monetary Authority. 2019. Annual Report 2019. Thimphu; and Government of Bhutan,
+
+  Royal Monetary Authority. 2018. Annual Report 2018. Thimphu.
+8
+  Climate and Disaster Risk Assessment (accessible from the list of linked documents in Appendix 2).
+9 Government of Bhutan, Ministry of Works and Human Settlements (MOWHS). 2020. Long-Term Strategy for Housing.
+
+  Thimphu.
+                                                                                                                3
+
+
+for increasing housing stock is needed for mass affordable housing development.
+
+8.      The Ministry of Works and Human Settlements (MOWHS) represents the government in
+human settlement matters and is responsible for housing policies and preparing urban planning
+strategies. The NHDCL, a state-owned enterprise, is focused on providing and maintaining public
+housing. NHDCL units are leased at below market rates, and more than half of them are leased
+to lower-income households. Of its 2,496 units, civil servants account for 84% of tenancies, while
+non-civil servants account for 15%. Only 1% of NHDCL units are owner-occupied. A preliminary
+assessment of the NHDCL indicates that it operated successfully from 2015 to 2019, averaging
+annual growth of 9.9% in rental revenue, 15.9% in profit after tax, and 8.5% in its asset base. The
+government has tasked NHDCL to increase supply of affordable housing in coordination with the
+National Land Commission, which is responsible for management and allocation of land, and the
+National Pension and Provident Fund (NPPF), which has investment portfolio in housing lending.
+
+9.       ADB intervention in the sector. The Asian Development Bank (ADB) has adopted a
+holistic, long-term approach to the “housing crunch” in Bhutan.10 Upstream analyses paved the
+way for a policy-based loan (PBL) to develop financial markets using a programmatic approach.11
+Subprogram 1 of the PBL, approved in 2019 for the Financial Market Development Program,
+focused on reforms to enhance the efficiency, stability, and inclusiveness of the finance sector
+and supported updating the NHP. In October 2020, ADB approved subprogram 2 of the PBL to
+support the development of a housing finance strategy to address housing supply issues,
+including fiscal measures (including incentives to suppliers) and gender-based actions to improve
+women’s access to finance (footnote 11). Subprogram 3 of the PBL, approved in October 2021,
+will support a housing survey across urban areas, implementation of housing financing schemes,
+and developing plans for affordable housing. Complemented by reforms tied to the PBL, this
+project will support government efforts to increase housing supply and improve sector
+performance by better targeting of the NHDCL’s affordable housing to the lowest income earners
+while incorporating climate- and disaster-resilient building designs and innovative construction
+methods; and strengthening MOWHS’s housing management information system to measure and
+monitor demand and supply-side bottlenecks in the sector. The government has indicated its
+intention to approach ADB for additional financing to expand affordable housing to cover an
+additional 5% of the shortage (para. 4). Additional financing will be based on satisfactory
+performance and lessons from the project implementation. ADB will coordinate with development
+partners—the World Bank and the Japan International Cooperation Agency—that are providing
+assistance for urban development, and climate change and disaster risk reduction.
+
+10.     The following lessons are incorporated in the project design: (i) TA support is needed to
+achieve sector reforms; (ii) strengthening of the implementing agency’s capacity will ensure
+financial sustainability, adequate operation and maintenance (O&M), and improved asset
+management; and (iii) a viable business model will be developed.12
+
+10 ADB. 2017. Asian Development Outlook 2017: Transcending the Middle-Income Challenge. Manila.
+11 ADB.   2019. Report and Recommendation of the President to the Board of Directors: Proposed Programmatic
+   Approach and Policy-Based Loan for Subprogram 1 and Technical Assistance Grant to the Kingdom of Bhutan for
+   the Financial Market Development Program. Manila; ADB. 2020. Report and Recommendation of the President to
+   the Board of Directors: Proposed Policy-Based Loan for Subprogram 2 and Technical Assistance Grant to the
+   Kingdom of Bhutan for the Financial Market Development Program. Manila; and ADB. 2021. Report and
+   Recommendation of the President to the Board of Directors: Proposed Policy-Based Loan for Subprogram 3 to the
+   Kingdom of Bhutan for the Financial Market Development Program. Manila.
+12 Independent Evaluation Department. 2018. Validation Report: Urban Infrastructure Development Project in Bhutan.
+
+   Manila: ADB; Independent Evaluation Department. 2018. Performance Evaluation Report: Housing for Integrated
+   Rural Development Investment Program (Tranches 1, 2, and 3) in Uzbekistan. Manila: ADB; Independent Evaluation
+4
+
+
+
+11.      Sector lending modality. The project meets sector lending requirements as (i) the
+government has an NHP and implementation program, which provide a framework for sector
+investments; (ii) the NHDCL has the capacity to implement the sector development plans; and (iii)
+the existing policies are appropriate, and assistance provided under the project will support their
+implementation. The government has identified affordable rental housing subprojects, which are
+at different stages of readiness, so the sector approach adds flexibility and is suitable. Additional
+subprojects will be guided by detailed eligibility criteria agreed with the government.13
+
+12.     Alignment with ADB strategic priorities. The project is consistent with (i) pillar 3 of
+ADB’s country partnership strategy for Bhutan, 2019–2023 on more inclusive and equitable
+socioeconomic development; and (ii) ADB’s Strategy 2030, as it supports five of the seven
+operational priorities. 14 The project aligns with Sustainable Development Goal (SDG) 1 (no
+poverty), SDG 5 (gender equality), SDG 11 (sustainable cities), and SDG 13 (climate action).15 It
+is also aligned with ADB’s housing strategy.16
+
+13.     Coronavirus disease. Bhutan achieved a remarkable reduction in poverty incidence from
+31.7% in 2003 to 8.2% in 2017, but the coronavirus disease (COVID-19) pandemic is deepening
+preexisting vulnerability.17 ADB estimates that COVID-19 has put about 23,000 jobs at risk. The
+project provides a direct boost to construction activity and support in the form of job generation,
+while increasing the supply of housing for vulnerable, displaced people living in border towns
+heavily affected by the COVID-19 pandemic.
+
+B.       Project Description
+
+14.    The project is aligned with the following impact: livability, safety, and sustainability of
+human settlements ensured (footnote 1). The project will have the following outcome: access to
+green and resilient affordable housing for low-income households improved.18
+
+15.     Output 1: Climate- and disaster-resilient, energy-efficient, and affordable housing
+units and public facilities for low-income households constructed.19 Output 1 will support
+the NHDCL in building about 1,000 rental units, three integrated community service centers, and
+two recycled waste stations connected to services, in support of SDG 1. The government selected
+high-priority investments as subprojects. 20 The increase in the supply of affordable rental housing
+is expected to immediately relieve the housing shortage and benefit lower-income civil servants
+(about 10%) and non-civil servants (about 90%), including marginalized municipal waste workers.
+
+   Department. 2013. Validation Report: Neighborhood Upgrading and Shelter Sector Project in Indonesia. Manila:
+   ADB.
+13 Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+14 ADB. 2019. Country Partnership Strategy Bhutan, 2019–2023—Fostering Diversification and Reducing Disparities.
+
+   Manila; and ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient and Sustainable Asia and the
+   Pacific. Manila. The project contributes to key operational priorities of ADB’s Strategy 2030, including (i) addressing
+   remaining poverty and reducing inequalities; (ii) accelerating progress in gender equality; (iii) tackling climate change,
+   building climate and disaster resilience, and enhancing environmental sustainability; (iv) making cities more livable;
+   and (v) strengthening governance and institutional capacity.
+15 United Nations. Sustainable Development Goals (accessed 16 October 2021).
+16 ADB. Forthcoming. Guidance for ADB’s Housing Strategy. Manila.
+17 United Nations. 2020. Policy Brief: The Impact of COVID-19 on Women. New York.
+18 The design and monitoring framework is in Appendix 1.
+19 Resilient housing design incorporates climate change and disaster risk-reduction measures to avoid, minimize,
+
+   and/or recover from a disaster in a timely and efficient manner.
+20 Priority subprojects are located in Nganglam; Phuentsholing (Amochu, Rinchending and Drungpa’s Residence);
+
+   Samtse (Tading); Samdrup Jongkhar (Dradulthang and Toed); Thimphu (Semtoka); and Trashiyangtse.
+                                                                                                                   5
+
+
+The NHDCL will select beneficiaries most in need by applying beneficiary eligibility and selection
+criteria, with gender equality considered as part of the eligibility criteria as defined in the PAM
+(footnote 13). The building designs incorporate gender-inclusive features; enhanced safety
+against earthquake and fire hazards; and resource efficiency, making greater use of locally
+available materials. 21 The building structures will employ reinforced-concrete frames and
+innovative pre-engineered structures. The project design has identified and incorporated climate
+and disaster resilience features, considering multiple hazards. The project will support green
+building certification through the International Finance Corporation’s Excellence in Design for
+Greater Efficiencies (EDGE) certification program.22 The housing designs reflect local cultural
+heritage values and traditional architecture. 23 Additional subprojects will be selected during
+project implementation in line with the NHP using the eligibility criteria set out in the project
+administration manual (PAM) (footnote 13).
+
+16.     Output 2: Institutional capacities, policy, and regulatory framework of the housing
+sector strengthened. This output will (i) strengthen the NHDCL’s housing design, construction,
+and management capacity—informed by climate and disaster risks and affordability
+considerations; (ii) review the building code and regulations; (iii) develop climate- and disaster-
+resilient building designs and related solutions to improve safety, resource efficiency, and gender
+and disability inclusiveness; (iv) conduct awareness training and a capacity building program for
+key project stakeholders on climate- and disaster-resilient design and the building code; (v)
+enhance the NHDCL’s business model, strengthening its O&M capacity, and developing
+partnerships with the private sector; (vi) strengthen the housing management information system
+of the MOWHS by expanding it to include tenancy data and better understand and prepare
+evidence-informed policy updates to address demand and supply-side bottlenecks in the sector;
+(vii) develop a gender and socially inclusive national homeownership strategy, including a rent-
+to-own mechanism; and (viii) provide project implementation support, including supervision, and
+set up a safeguard unit in the NHDCL.
+
+C.       Value Added by ADB
+
+17.     ADB assistance will add value by enhancing the NHDCL’s institutional capacity to (i)
+implement innovative affordable housing designs that incorporate (a) gender-inclusive features;
+(b) anti-seismic building structures; (c) pre-engineered building construction methodology, which
+is versatile and reduces construction time; and (d) resource efficiency, making the housing design
+greener and more resilient (necessary for green building certification); (ii) support low-income
+households in accessing affordable rental housing through better targeted NHDCL units and more
+publicly available information on tenancy data; and (iii) establish a detailed registry for the
+NHDCL’s housing asset management for improved efficiency in maintenance programs.
+Affordability is addressed by providing a choice of units and applying pro-poor beneficiary
+selection criteria. ADB’s value addition also includes a review of the national building code and
+improved land management; incorporates climate change, disaster risk reduction, gender
+inclusiveness, and energy efficiency considerations; and encourages the use of greener
+construction techniques to achieve green building certification. ADB’s sustained interventions in
+the sector target issues affecting the housing value chain. In addition, ADB support will develop
+
+21  The gender-inclusive considerations include a preference for households headed by women and tenancy
+   agreements signed by both spouses. In addition, the service centers will include childcare facilities, shelter for
+   women, and offers employment opportunities. The green features include insulated walls, improved windows, use of
+   timber and stone, and water-efficient faucets.
+22
+   EDGE. The Green Business Certification Inc. TM (GBCI) is an independent international company that administers
+   the EDGE certification program. The GBCI reviews EDGE proposals and issues EDGE certificates.
+23 Government of Bhutan, MOWHS. 2014. Bhutanese Architectural Guidelines. Thimphu.
+6
+
+
+a national homeownership strategy, and a PPP guideline based on improved monitoring of sector
+bottlenecks. The $6 million Asian Development Fund (ADF) 13 Thematic Pool grant will (i) support
+incremental costs associated with geophysical hazards and capacity building, and (ii) enable the
+NHDCL to deepen the gender impact by introducing gender-sensitive features in support of SDG
+5.
+
+D.       Summary Cost Estimates and Financing Plan
+
+18.   The project is estimated to cost $37.0 million (Table 1). Detailed cost estimates by
+expenditure category and by financier are included in the PAM (footnote 13).
+
+                                    Table 1: Summary Cost Estimates
+                                                ($ million)
+ Item                                                                                                  Amounta
+A.       Base Costb
+         1. Climate- and disaster-resilient, energy-efficient, and affordable housing units
+            and public facilities for low-income households constructed                                   30.5
+         2. Institutional capacities, policy, and regulatory framework of the housing
+            sector strengthened                                                                            3.1
+                  Subtotal (A)                                                                            33.7
+B.      Contingenciesc                                                                                     2.9
+C.      Financial Charges During Implementation                                                            0.4
+                           Total (A+B+C)                                                                  37.0
+Note: Numbers may not sum precisely because of rounding.
+a
+  Includes $0.9 million in taxes and duties. Such an amount does not represent an excessive share of the project cost.
+  The National Housing Development Corporation Limited will finance taxes and duties of $0.9 million in the form of
+  cash contribution.
+b
+  In mid-2021 prices as of the end of August 2021. Exchange rate of $1 = Nu74.5 is used.
+c
+  Physical and price contingencies are computed at 5.0% for civil works and equipment. Price contingencies are
+  computed at 1.6%–1.8% for foreign exchange costs and 5.3%–6.4% for local currency costs and include provision
+  for potential exchange rate fluctuation under the assumption of a purchasing power parity exchange rate.
+Source: Asian Development Bank estimates.
+
+19.     The government has requested a concessional loan of $24 million from ADB’s ordinary
+capital resources, and a grant not exceeding $6 million from ADB’s Special Funds resources
+(ADF) to help finance the project. The loan will have a 32-year term, including a grace period of
+8 years; an interest rate of 1.0% per year during the grace period and 1.5% thereafter; and such
+other terms and conditions set forth in the draft loan and project agreements. The Ministry of
+Finance (MOF) has indicated that (i) ADB’s concessional loan of $24 million will be relent to the
+NHDCL through a subsidiary loan agreement with the same terms and conditions as the ADB
+loan, but with the NHDCL bearing the foreign exchange risk; (ii) the ADF grant of $6 million will
+be passed on as a grant to the NHDCL; and (iii) $7 million in counterpart funding will come from
+a loan to the NHDCL from the NPPF, backed by a government guarantee. The NPPF loan will
+have a 22-year loan period, including a grace period of 2 years, and an interest rate of 7.15% per
+year.
+
+20.     The summary financing plan is in Table 2. The loan and grant will finance expenditures in
+relation to (i) part of the civil works and equipment, and (ii) consulting services. Counterpart funds,
+provided through NHDCL, will finance expenditures on civil works, land acquisition and
+resettlement, consulting services, incremental administration expenses, contingencies, financing
+charges, and taxes. A project grant from the Japan Fund for Poverty Reduction (JFPR) is being
+processed as cofinancing to improve disaster and climate resilience for low-income households
+in Bhutan, subject to the approval of the Government of Japan. A JFPR grant proposal would
+                                                                                                              7
+
+
+finance improved anti-seismic building standards in Bhutan, pilot-test housing with sanitation and
+energy-efficient technology, and provide capacity building for enhancing the required technical
+skills and develop the self-help capacities of the poor based on needs assessment. The JFPR
+grant cofinancing equivalent to $3 million will be administered by ADB.
+
+                                 Table 2: Summary Financing Plan
+                                                                           Amount            Share of Total
+Source                                                                    ($ million)             (%)
+Asian Development Bank
+    Ordinary capital resources (concessional loan)                            24.0                 64.9
+    Special Funds resources (ADF grant)                                        6.0                 16.2
+National Housing Development Corporation Limited                               7.0                 18.9
+                             Total                                            37.0                100.0
+ADF = Asian Development Fund.
+Source: Asian Development Bank estimates.
+
+21.      Climate mitigation is estimated to cost $7.2 million and climate adaptation is estimated to
+cost $4.8 million. ADB will finance 100% of mitigation and adaptation costs. Mitigation activities
+include installing light emitting diode lighting and use of locally available building materials.
+Adaptation activities include constructing flood protection structures, retaining walls, and
+institutional strengthening. The cost of disaster risk reduction measures to boost the project’s
+disaster resilience is $10.4 million, of which $2.0 million will be sourced from the ADF grant.
+
+E.      Implementation Arrangements
+
+22.   Implementation arrangements are summarized in Table 3 and described in detail in the
+PAM (footnote 13).
+
+                              Table 3: Implementation Arrangements
+Aspects                                                        Arrangements
+Implementation period                       December 2021–December 2027
+Estimated completion date                   31 December 2027
+Estimated loan and grant closing date       30 June 2028
+Management
+  (i) Oversight body                        Project steering committee: Ministry of Finance (chair), Ministry
+                                            of Works and Human Settlements, National Land Commission,
+                                            Gross National Happiness Commission, National Commission
+                                            for Women and Children, National Housing Development
+                                            Corporation Limited, and representatives of the subprojects
+                                            (members)
+ (ii) Executing agency                      Ministry of Finance
+ (iii) Key implementing agency              National Housing Development Corporation Limited
+ (iv) Implementation units                  Project management unit: Thimphu, 14 staff. Project
+                                            implementation units: Phuentsholing, 13 staff; Trashiyangtse, 4
+                                            staff; Samdrup Jongkhar, 9 staff; and Nganglam, 4 staff.
+Procurement                                 Open competitive        1 contract             $10.40 million
+                                            bidding (international
+                                            advertising) (3 lots)
+                                            Open competitive        8 contracts            $8.34 million
+                                            bidding (national
+                                            advertising)
+Consulting services                         Quality- and cost-      216 person-months $2.81 million
+                                            based selection         13 person-services $0.04 million
+ 8
+
+
+Aspects                                                                   Arrangements
+                                                 (90:10) (2 contracts)
+                                                 Cost-based selection 61 person-months          $0.30 million
+Retroactive financing and/or advance             Advance contracting and retroactive financing will be considered
+contracting                                      for eligible expenditures for civil works and consulting services
+                                                 not exceeding 20% of the loan and grant amounts incurred prior
+                                                 to effectiveness, but not earlier than 12 months before the loan
+                                                 and grant agreements are signed.
+Disbursement                                     Disbursement of the loan and grant proceeds will follow the Asian
+                                                 Development Bank’s Loan Disbursement Handbook (2017, as
+                                                 amended from time to time) and detailed arrangements agreed
+                                                 between the government and Asian Development Bank.
+Source: Asian Development Bank estimates.
+
+                               III.      ATTACHED TECHNICAL ASSISTANCE
+
+ 23.     The project will include an attached TA estimated to cost $1.1 million, of which $1.0 million
+ will be financed on a grant basis by ADB’s Technical Assistance Special Fund (TASF–7). The
+ government will provide counterpart support in the form of counterpart staff, office space for
+ consultants, access to information for consultants, and other in-kind contributions. The TA
+ objectives are to (i) strengthen the NHP and review land availability, land management, and land
+ use planning; (ii) mainstream resilience considerations in the housing development process, and
+ promote the use of innovative construction technology and practices; (iii) establish an
+ interoperable housing management information system; and (iv) provide technical support to the
+ NHDCL on the projects’ safeguard compliance. 24 Specifically, the TA will provide technical
+ advisory support services to the NHDCL (i) to review and update its allotment rules to ensure
+ consistency with the NHP, and (ii) to monitor costs and target the uptake of new rental housing
+ by low-income groups. It will also assist the NHDCL in monitoring and reporting on the
+ achievement of the project design and monitoring framework indicators, in addition to ensuring
+ that the project safeguards are effectively managed. The TA will also support the MOWHS in
+ reducing the regulatory, land, and financing barriers for mobilizing private sector resources for
+ increasing housing stock that are beyond the remit of the NHDCL.25
+
+                                               IV.      DUE DILIGENCE
+
+ A.       Technical
+
+ 24.    The sector loan modality requires the appraisal of a typology of subprojects that serve as
+ a sample for future subprojects.26 The specifications applied to affordable housing will match
+ green building principles such as the reduced use of energy, water, and embodied energy;
+ disaster-resilient design; resource conservation; and the use of energy-efficient practices.
+
+ B.       Economic and Financial Viability
+
+ 25.     The economic rationale for the intervention is sound—focused on inclusiveness, resilience,
+ and affordability. The economic analysis evaluated the project’s viability in terms of subprojects
+ for which detailed engineering designs have been completed. The estimated economic internal
+
+ 24  The project is benefiting from technical assistance provided through: ADB. 2020. Technical Assistance for
+    Implementing the Cities Development Initiative for Asia. Manila; and ADB. 2020. Technical Assistance for Support
+    to the Implementation of Strategy 2030 Operational Plans. Manila.
+ 25 Attached Technical Assistance Report (accessible from the list of linked documents in Appendix 2).
+ 26 About $14 million of the loan is not fully scoped and subprojects may be added subject to satisfying eligibility criteria.
+                                                                                                                      9
+
+
+rates of return is 9.2%, which is higher than the economic opportunity cost of capital of 6%,
+indicating significant economic return. 27 The project’s economic viability is even higher if
+unquantifiable benefits such as environmental improvements are included in the analysis. Asset
+construction under this project and capacity building in the NHDCL will benefit about 1,000
+households. The estimated poverty impact ratio is 24.4%, and since 8.2% of households in
+Bhutan live below the poverty line, the project is expected to benefit the poor.28
+
+C.       Sustainability
+
+26.     The project team conducted financial analysis following ADB guidelines, assessing both
+the project and the NHDCL as the operating entity. Rental revenue is the major source of revenue
+for the NHDCL. In fiscal year 2019, rent provided 75% of NHDCL revenue. For the project, the
+NHDCL is proposing to charge rental rates similar to those in an affordable housing project in
+Phuentsholing. The NHDCL spends about 20% of its rental revenue on O&M. Rental revenues,
+projected to grow by 10% every 2 years, can cover debt service as well as O&M costs in most
+years. In the case of a shortfall in debt servicing caused by either unexpectedly high O&M costs,
+lower rental recovery, or depreciation of the ngultrum against the United States dollar, the MOF
+has assured ADB that the NHDCL will be able to service the debt. The financial sustainability risk
+is moderate. ADB will provide sector advice, capacity building to enhance the NHDCL’s financial
+performance.
+
+27.     Affordability is crucial for ensuring the sustainability of the project. The project
+beneficiaries currently pay rents equal to 20.7%–41.0% of their household income for homes
+averaging 69 square meters.29 Under the project, the proposed rent for a unit averaging 69 square
+meters with better services is significantly less, at 16.3%–29.1% of household income. The market
+rent for comparable houses is between 35%–44% of household income.30
+
+D.       Governance
+
+28.     Financial management. The financial management assessment followed ADB
+guidelines.31 The assessed pre-mitigation financial management risk is substantial because (i)
+the NHDCL lacks experience in implementing externally financed projects, (ii) two accounts staff
+positions are vacant, and (iii) the statutory auditor has identified internal control weaknesses.
+These risks will be mitigated by (i) filling the vacant accounting staff positions and engaging a
+financial management expert to support the project; (ii) providing training on ADB financial
+management requirements, and disbursement procedures and systems; (iii) including
+comprehensive financial information in the quarterly progress reports; and (iv) addressing pending
+audit observations. Moreover, an independent auditor acceptable to ADB will audit the project
+financial statements annually using auditing standards acceptable to ADB. A financial
+management action plan is described in detail in the PAM (footnote 13).
+
+29.   Procurement. The procurement of works and the recruitment of consultants will follow the
+ADB Procurement Policy (2017, as amended from time to time) and Procurement Regulations for
+
+27 A 6% threshold for the economic opportunity cost of capital is applicable for social sector projects under ADB. 2017.
+
+   Guidelines for the Economic Analysis of Projects. Manila. Since this project aims to provide affordable housing to
+   low-income households and sanitary workers, it qualifies for this lower threshold of 6%.
+28 Social, Poverty, and Gender Analysis (accessible from the list of linked documents in Appendix 2); and ADB. Poverty
+
+   Data: Bhutan.
+29
+   ADB. 2021. Baseline Socio-economic Survey Report. Consultant’s report. Manila (TA 9781-REG).
+30 Based on a market research survey, the monthly rent for a two-bedroom unit is Nu10,000–Nu11,000 in project areas.
+31 ADB. 2015. Financial Management Technical Guidance Note: Financial Management Assessment. Manila.
+10
+
+
+ADB Borrowers (2017, as amended from time to time). An assessment of the project procurement
+capacity risk concluded that the overall procurement risk is moderate. Mitigation measures include
+recruiting the project implementation consultant through advance contracting and building
+capacity in the NHDCL on the ADB Procurement Policy and Procurement Regulations for ADB
+Borrowers. The project will enhance value for money through the strategic packaging of multistory
+buildings into (i) the construction of reinforced-concrete buildings and pre-site preparation,
+procured through the local market; and (ii) pre-engineered buildings, procured by bundling
+packages suitable for the international market.
+
+30.    Anticorruption. ADB’s Anticorruption Policy (1998, as amended to date) was explained
+to and discussed with the government and the NHDCL. Integrity due diligence was conducted.
+No significant integrity risks were identified. The specific policy requirements and supplementary
+measures are described in the PAM (footnote 13).
+
+E.      Poverty, Social, and Gender
+
+31.     The project team conducted meaningful consultations with targeted communities. The
+national poverty line in 2017 was Nu2,195.95 per capita per month. By this measure, the
+percentage of people living in poverty fell from 12.0% in 2012 to 8.2% in 2017. In 2021, the poor
+(based on income criteria) constitute 4.4% of the target population. The average poor household
+has 4.9 members compared with 3.0 members in non-poor families. About 75.0% of the houses
+of poor families are temporary shelters, a fifth of which do not have piped water supply (footnote
+5). Consultations with the targeted beneficiaries will continue during implementation.
+
+32.      The project is categorized effective gender mainstreaming. Women comprise 39% of the
+civil servants in Bhutan.32 Households headed by women comprise 27% of the target population
+(footnote 31). The lack of affordable housing affects women as they are generally responsible for
+household management. A gender equality and social inclusion action plan will address these
+matters, including (i) at least 30% of housing tenure allotted to households headed by women; (ii)
+three integrated service centers established to deliver services to women and children, including
+a shelter for victims of gender violence, and a daycare and counseling facility benefiting at least
+700 female household members; (iii) two women’s self-help groups established for recycled waste
+livelihoods; (iv) capacity building on gender mainstreaming; and (v) gender-sensitive policies. The
+NHDCL will engage a civil society organization to implement gender equality solutions.
+
+F.      Safeguards
+
+33.    In compliance with ADB’s Safeguard Policy Statement (2009), the project’s safeguard
+categories are as follows.33
+
+34.     Environment (category B). An environmental assessment and review framework was
+prepared and disclosed following ADB’s Safeguard Policy Statement and applicable government
+regulations; and will guide assessments of additional subprojects on site selection, screening and
+categorization, information disclosure and consultation, impact assessment and environmental
+management planning, institutional arrangements, grievance redress, monitoring, and reporting.
+The project will not consider any category A subprojects with significant adverse, irreversible, or
+unprecedented impacts. Initial environmental examinations and environment management plans
+
+32
+   Government of Bhutan, Royal Civil Service Commission. 2020. Annual Report (April 2019–June 2020): State of the
+   Royal Civil Service. Thimphu.
+33 ADB. Safeguard Categories.
+                                                                                                             11
+
+
+for five sample subprojects are disclosed and included in the bidding documents.34 Sample initial
+environmental examinations confirm no significant impacts. Potential impacts are mostly short-
+term, localized, and related to construction. The project management unit (PMU) and project
+implementation units will have environmental safeguard officers and site engineers, assisted by
+a project implementation assistance consultant, to manage safeguard requirements. The PMU
+will submit environmental monitoring reports semiannually during project implementation.
+
+35.     Involuntary resettlement (category B). The NHDCL prepared a resettlement framework,
+draft resettlement plans for the subprojects in Thimphu and Phuentsholing, and a draft due
+diligence report for Trashiyangtse following ADB’s Safeguard Policy Statement. The project will
+not consider any subproject with significant involuntary resettlement impacts. The government
+land required for the sample subprojects is 4.5 hectares. The sample subprojects will affect 18
+households with 65 members, through physical displacement and/or loss of livelihoods; and four
+households with 19 members, through loss of minor structures and/or trees. One vulnerable
+household with two members is among the affected persons. Proposed mitigation measures and
+safeguard documents for subprojects are adequate to address the assessed impacts. Safeguard
+documents will be updated following the final design. The resettlement framework will guide the
+preparation of resettlement planning documents for additional subprojects. ADB has disclosed
+the resettlement framework and resettlement plans. The government will disclose relevant
+information from the documents in the local language to the affected people. The NHDCL will
+ensure that the resettlement plans are included in the bidding documents. The PMU will prepare
+semiannual social safeguard monitoring reports for ADB’s review and disclosure. The NHDCL will
+establish a grievance redress mechanism and disclose it to project beneficiaries and affected
+communities before works are awarded. Since this is the NHDCL’s first ADB-funded project, a
+capacity building program on ADB’s Safeguard Policy Statement social safeguards execution,
+and monitoring and evaluation is planned. A social safeguard officer in the PMU will manage the
+implementation of social safeguards, assisted by a project implementation assistance consultant.
+The project engineer, site engineers, and contractors will implement the social safeguards
+requirements in the resettlement plans, and regularly provide project implementation reporting.
+
+36.    Indigenous peoples (category C). No project impacts are expected on indigenous
+peoples or indigenous communities, as described in ADB’s Safeguard Policy Statement, and no
+plans are required.
+
+G.      Summary of Risk Assessment and Risk Management Plan
+
+37.      Significant risks and mitigating measures are summarized in Table 4 and described in
+detail in the risk assessment and risk management plan.35
+
+                       Table 4: Summary of Risks and Mitigating Measures
+Risks                                                                  Mitigation Measures
+Financial    management        risk:   (i)   the    Mitigation measures include (i) filling the vacant accounts
+implementing agency lacks experience in             staff positions and engaging a financial management
+implementing projects financed by ADB or            expert to support the project, (ii) providing training on
+other multilateral development banks, (ii) the      ADB’s financial management requirements and
+positions of an accounts officer and                disbursement procedures, (iii) including comprehensive
+accountant are still vacant, and (iii) the          financial information in quarterly progress reports, and (iv)
+statutory auditor has identified internal control   addressing pending audit observations.
+weaknesses to be addressed.
+
+34 Thimphu; Trashiyangtse; and Amochu, Rinchending, and Drungpa’s Residence in Phuentsholing.
+35 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+ 12
+
+
+Risks                                                                 Mitigation Measures
+The project has not been approved yet as part     The project is to be included in the FY2022 budget under
+of the national budget, which may delay the       a separate budget code for timely release of funds for
+implementation.                                   effective project implementation.
+The NHDCL has limited understanding of            Project implementation assistance consultant services
+ADB’s new procurement framework, including        include an international procurement specialist to provide
+contract management and administration.           transaction support and capacity building.
+The NHDCL rental revenue may experience           NHDCL’s other sources of income include consultancy
+shortfalls.                                       fees, investments, and transfers from the government.
+                                                  ADB will provide capacity building and policy advice to
+                                                  enhance NHDCL’s financial performance.
+ADB = Asian Development Bank, FY = fiscal year, NHDCL = National Housing Development Corporation Limited.
+Source: Asian Development Bank.
+
+                                            V.    ASSURANCES
+
+ 38.     The government and the NHDCL have assured ADB that project implementation of the
+ project shall conform to all applicable ADB requirements, including those concerning
+ anticorruption measures, safeguards, gender, procurement, consulting services, financial
+ management, and disbursement as described in detail in the PAM and loan and grant documents.
+
+ 39.   The following conditions will be satisfied before the disbursement of the loan and grant
+ proceeds:
+         (i)  a financing agreement will be entered into between the NPPF and the NHDCL to
+              ensure counterpart funding and will become legally binding upon each of the
+              parties thereto in accordance with its terms, and a government guarantee will be
+              issued by the MOF to the NPPF and becomes effective and legally binding in
+              accordance with its terms; and
+         (ii) a subsidiary loan agreement will be entered into between the government and the
+              NHDCL for relending the loan proceeds upon terms and conditions satisfactory to
+              ADB.
+
+                                      VI.        RECOMMENDATION
+
+ 40.   I am satisfied that the proposed loan and grant would comply with the Articles of
+ Agreement of the Asian Development Bank (ADB) and recommend that the Board approve:
+         (i)   the loan of $24,000,000 to the Kingdom of Bhutan for the Green and Resilient
+               Affordable Housing Sector Project, from ADB’s ordinary capital resources, in
+               concessional terms, with an interest charge at the rate of 1.0% per year during the
+               grace period and 1.5% per year thereafter; for a term of 32 years, including a grace
+               period of 8 years; and such other terms and conditions as are substantially in
+               accordance with those set forth in the draft loan and project agreements presented
+               to the Board; and
+         (ii) the grant not exceeding $6,000,000 to the Kingdom of Bhutan, from ADB’s Special
+               Funds resources (Asian Development Fund) for the Green and Resilient Affordable
+               Housing Sector Project on terms and conditions that are substantially in
+               accordance with those set forth in the draft grant and project agreements presented
+               to the Board.
+
+                                                                           Masatsugu Asakawa
+                                                                           President
+ 11 November 2021
+                                                                                          Appendix 1       13
+
+
+                            DESIGN AND MONITORING FRAMEWORK
+Impact the Project is Aligned with
+Livability, safety, and sustainability of human settlements ensured (Twelfth Five Year Plan, priority to
+achieve a harmonious society)a
+                                                           Data Sources and                 Risks and
+Results Chain             Performance Indicators         Reporting Mechanisms         Critical Assumptions
+Outcome                 By 2028
+Access to green and     a. At least 95% of civil         a.–d. Project M&E,          R: Vulnerability to
+resilient affordable    servant and private sector       annual reports of the       COVID-19 pandemic
+housing for low-        low-income households            NHDCL and the               impact and continued
+income households       occupying the housing units      MOWHS, and TA               restrictions on the value
+improved                pay no more than 30% of          reports                     chain for goods and
+                        their disposable income on                                   services
+                        rent (2021 baseline: 48% for
+                        civil servants and 21% for
+                        private sector low-income
+                        households) (OP 4.1)
+                        b. At least 80% occupancy
+                        rate in completed housing
+                        units (2021 baseline: 0) (OP
+                        4.1)
+                        c. At least 95% of housing
+                        units with 20% less energy
+                        and water consumption
+                        (2021 baseline: 0) b (OP 4.1)
+                        d. At least 700 households
+                        benefit from services
+                        provided by the newly
+                        constructed integrated
+                        community service centers
+                        (2021 baseline: 0) (OP 4.1)
+Outputs                 By 2027
+1. Climate- and         1a. 1,000 adequate,              1a.–f. Project M&E,         A: Continued
+disaster-resilient,     affordable, and resilient        annual reports of the       government
+energy-efficient, and   housing units constructed        NHDCL and the               commitment to
+affordable housing      and 30% of the housing           MOWHS, and TA               expanding affordable
+units and public        tenure allotted to women         reports                     housing supply and
+facilities for low-     (2021 baseline 0 units, 0                                    improving
+income households       women) (OP 4.1.2)                                            neighborhoods within
+constructedc            1b. Three integrated service                                 the project
+                        centers with gender-                                         implementation period.
+                        inclusive features                                           A: Government
+                        constructed (2021 baseline:                                  committed to applying
+                        0)d (OP 2.5.2)                                               green building
+                        1c. At least 95% of the                                      guidelines
+                        residential buildings                                        R. COVID-19 pandemic
+                        constructed comply with                                      containment measures
+                        green guidelines and EDGE                                    including national and
+                        certification and are                                        local lockdowns,
+                        equipped with energy-                                        adversely impact
+                        efficient insulation, metering                               project progress
+                        devices, water pumps, and
+14       Appendix 1
+
+
+                                                       Data Sources and             Risks and
+Results Chain           Performance Indicators       Reporting Mechanisms     Critical Assumptions
+                      heating systems (2021
+                      baseline: 0)e (OP 3.2.5)
+                      1d. Two recycled waste
+                      stations with gender-
+                      inclusive features
+                      constructed (2021 baseline:
+                      0)d (OP 2.5.2)
+                      1e. At least two SHGs with
+                      operational by-laws in
+                      recycled waste livelihoods
+                      established (2021 baseline:
+                      0) (OP 4.2.1)
+                      1f. At least 80% of SHG
+                      members (of whom 75% are
+                      women) have increased
+                      knowledge of waste
+                      management, business, and
+                      financial skills (2021
+                      baseline: 0) (OP 2.1.1)
+2. Institutional      2a. By 2022, project           2a.–g. Project M&E and
+capacities, policy,   performance and                annual reports of the
+and regulatory        management system              NHDCL and the
+framework of the      established to ensure          MOWHS, cabinet
+housing sector        generation of sex-             resolutions, and TA
+strengthened          disaggregated data (2021       reports
+                      baseline: Not established)
+                      2b. By 2024, 81 staff of the
+                      NHDCL, PMU, and PIUs
+                      report improved knowledge
+                      and skills in operation and
+                      maintenance and asset
+                      management of affordable
+                      housing facilities, of whom
+                      at least 25% are women
+                      (2021 baseline: 0) (OP
+                      6.1.1, OP 2.1.1)
+                      2c. By 2024, building code
+                      and guideline that
+                      incorporate climate change,
+                      disaster risk reduction,
+                      gender inclusiveness, and
+                      energy efficiency completed
+                      and submitted to the
+                      MOWHS (2021 baseline:
+                      Not applicable) e (OP 4.3.1)
+                      2d. By 2024, the MOWHS’
+                      housing management
+                      information system is
+                      upgraded with links to
+                      tenancy services and
+                      interoperable with the
+                      NHDCL asset management
+                                                                                          Appendix 1       15
+
+
+                                                           Data Sources and                 Risks and
+Results Chain             Performance Indicators         Reporting Mechanisms         Critical Assumptions
+                        system (to be established)
+                        (2021 baseline: Not
+                        applicable) (OP 4.2.1)
+                        2e. By 2024, improved land
+                        management capacity and
+                        strategy for land assembly
+                        completed, including options
+                        for urban land pooling and
+                        land banking for similar
+                        future affordable housing
+                        projects (2021 baseline: Not
+                        applicable) (OP 4.2.1)
+                        2f. By 2024, business model
+                        and public–private
+                        partnership guidelines for
+                        future sector investment
+                        completed (2021 baseline:
+                        Not applicable) (OP 4.2.1)
+                        2g. By 2024, strategy for
+                        gender-inclusive
+                        homeownership is finalized
+                        (2021 baseline: Draft
+                        available) f (OP 4.2.1)
+Key Activities with Milestones
+1. Climate- and disaster-resilient, energy-efficient, and affordable housing units and public
+facilities for low-income households constructed
+1.1 Complete detailed designs for core subproject (Q1 2021–Q4 2022)
+1.2 Construct 1,000 affordable housing units (Q1 2022–Q4 2027)
+1.3 Identify and process candidate subprojects and works (Q1 2022–Q4 2024)
+1.4 Establish integrated community service centers and waste recycling facilities (Q1 2022–Q4 2027)
+1.5 Establish women’s SHGs for livelihoods from waste recycling (Q1 2022–Q4 2025)
+2. Institutional capacities, policy, and regulatory framework of the housing sector strengthened
+2.1 Implement capacity development program (Q1 2021–Q4 2024)
+2.2 Develop business model and prepare draft public–private partnership guidelines for future sector
+investments (Q1 2022–Q4 2024)
+2.3 Prepare NHDCL business plan (Q1 2022–Q4 2024)
+2.4 Draft and finalize engineering guidelines for the practice of climate resilience, disaster risk reduction,
+energy efficiency and gender-inclusivity in affordable housing construction (Q1 2022–Q4 2024)
+2.5 Review the national building code and related guidelines to include climate change, disaster risk
+reduction, gender inclusiveness and energy efficiency (Q1 2022–Q4 2023)
+2.6 Establish a homeownership strategy and options by providing gender-inclusive alternative finance and
+occupancy models (Q1 2022–Q4 2023)
+2.7 Strengthen the MOWHS housing management information system (Q1 2022–Q4 2023)
+2.8 Provide project implementation services (Q1 2022–Q4 2027)
+Project Management Activities
+Establishing the PMU and PIUs
+Procuring works
+Hiring of the project implementation assistance consultant
+Reporting, monitoring and evaluation (including surveys)
+Accounting and auditing
+Inputs
+ADB:         $24.0 million (loan: concessional ordinary capital resources)
+ 16       Appendix 1
+
+
+       $6.0 million (grant: Asian Development Fund)
+       $1.0 million (TA grant: TASF-7)
+NHDCL: $7.0 million
+A = assumption, ADB = Asian Development Bank, COVID-19 = coronavirus disease, EDGE = Excellence in Design and
+Greater Efficiencies, M&E = monitoring and evaluation, MOWHS = Ministry of Works and Human Settlement, NHDCL =
+National Housing Development Corporation Limited, OP = operational priority, PIU = project implementation unit, PMU
+= project management unit, Q = quarter, R = risk, SHG = self-help group, TA = technical assistance, TASF = Technical
+Assistance Special Fund.
+a Government of Bhutan, Gross National Happiness Commission. 2019. Twelfth Five Year Plan, 2018–2023: Just,
+
+   Harmonious and Sustainable Society through Enhanced Decentralisation. Thimphu.
+b Baseline data will be determined during the first year of implementation to determine energy and water consumption
+
+   patterns of tenants who reside in equivalent size NHDCL buildings.
+c Affordable housing is defined as medium- and low-income households meeting housing costs, either rent or mortgage
+
+   payments, with 30% of gross monthly income or less. Resilient housing is designed to incorporate climate change
+   and disaster risk reduction measures to avoid, minimize and/or recover from disasters in a timely and efficient manner.
+d Integrated service centers are multipurpose facilities in residential neighborhoods that provide childcare facilities for
+
+   working mothers, shelter for women in difficult circumstances, and community-based livelihood and advocacy centers.
+   Waste stations are for recycled waste, which offers employment opportunities for women and creation of self-help
+   groups.
+e Government of Bhutan, MOWHS. 2013. Bhutan Green Building Design Guidelines. Thimphu.
+f
+  Building codes and guidelines will be reviewed and amended aligning to relevant international building codes to ensure
+   gender-inclusive space and fixtures (like restrooms, showers, locker rooms and changing rooms) based on practical
+   gender needs.
+Contribution to Strategy 2030 Operational Priorities:
+Expected values and methodological details for all OP indicators to which this operation will contribute results are
+detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in Appendix
+2).
+Source: Asian Development Bank.
+                                                                         Appendix 2    17
+
+                             LIST OF LINKED DOCUMENTS
+                 http://www.adb.org/Documents/RRPs/?id=54355-001-3
+
+1.    Loan Agreement
+2.    Grant Agreement
+3.    Project Agreement
+4.    Sector Assessment (Summary): Water and Other Urban Infrastructure and Services
+      (Urban Housing)
+5.    Project Administration Manual
+6.    Financial Analysis
+7.    Economic Analysis
+8.    Summary Poverty Reduction and Social Strategy
+9.    Risk Assessment and Risk Management Plan
+10.   Contribution to Strategy 2030 Operational Priorities
+11.   Attached Technical Assistance Report
+12.   Climate Change Assessment
+13.   Gender Equality and Social Inclusion Action Plan
+14.   Initial Environmental Examination: Thimphu
+15.   Initial Environmental Examination: Drungpa Residence Site, Phuentsholing
+16.   Initial Environmental Examination: Rinchending, Phuentsholing
+17.   Initial Environmental Examination: Amochhu, Phuentsholing
+18.   Initial Environmental Examination: Trashiyangtse
+19.   Environmental Assessment and Review Framework
+20.   Resettlement Plan: Phuentsholing
+21.   Resettlement Plan: Thimphu
+22.   Resettlement Framework
+
+Supplementary Documents
+23. Land Acquisition and Involuntary Resettlement Due Diligence Report
+24. Climate and Disaster Risk Assessment
+25. Social, Poverty, and Gender Analysis
+26. Disaster Risk Assessment
+

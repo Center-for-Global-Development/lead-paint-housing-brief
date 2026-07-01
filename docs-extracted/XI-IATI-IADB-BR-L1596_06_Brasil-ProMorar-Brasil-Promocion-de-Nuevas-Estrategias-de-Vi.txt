@@ -1,0 +1,2422 @@
+                                                                                   PÚBLICO
+                                                                    DIVULGACIÓN SIMULTÁNEA
+
+
+                DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                           BRASIL
+
+
+
+                       LÍNEA DE CRÉDITO CONDICIONAL PARA
+                            PROYECTOS DE INVERSIÓN
+                                    (CCLIP)
+                                  PROMORAR
+                                         (BR-O0014)
+
+                                               Y
+
+         PRIMERA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA
+PROMORAR BRASIL - PROMOCIÓN DE NUEVAS ESTRATEGIAS DE VIVIENDA
+        EN BRASIL PARA POBLACIÓN DE BAJOS INGRESOS
+
+                                         (BR-L1596)
+
+
+                                 PROPUESTA DE PRÉSTAMO
+
+
+
+Este documento fue elaborado por el equipo del proyecto integrado por: Clementine Tribouillard
+(CSD/HUD), Jefe de Equipo; Paloma Silva (CSD/HUD) y Rafael Cavazzoni Lima (IFD/CMF), Jefes
+de Equipo Alternos; Verónica Adler, Alejandro López-Lamia, Ana Cristina García, Sofía Del
+Castillo, María Alejandra Villota, Dianela Ávila y Silvia Pérez (CSD/HUD); Juan Parodi (INO/SMC);
+Luana Moraes (DIS/CBR); Guillermo Eschoyez (LEG/SGO); Ana María Cuesta, Laisa Rachter y
+María Fernanda Merino (SPD/SDV); Leise Estevanato y David Salazar (VPC/FMP); Alexandra
+Alvear (INE/INE); Wesney Bazilio (CSC/CBR); Claudia Magalhães, Eloy Luis Mendes, Rodrigo
+Speziali, Roberta Faria, y Cid Blanco (consultores de HUD/CBR).
+
+De conformidad con la Política de Acceso a Información, el presente documento se divulga al
+público de forma simultánea a su distribución al Directorio Ejecutivo del Banco. El presente
+documento no ha sido aprobado por el Directorio. Si el Directorio lo aprueba con modificaciones,
+se pondrá a disposición del público una versión revisada que sustituirá y reemplazará la versión
+original.
+                                                   ÍNDICE
+
+
+
+RESUMEN DEL PROYECTO ....................................................................................... 1
+
+
+I.     DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS ........................... 2
+
+       A.     Antecedentes, problemática y justificación .......................................... 2
+       B.     Objetivos, componentes y costo ........................................................ 13
+       C.     Indicadores clave de resultados ........................................................ 17
+
+II.    ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS ............................ 18
+
+       A.     Instrumentos de financiamiento ......................................................... 18
+       B.     Riesgos ambientales y sociales ......................................................... 21
+       C.     Riesgos fiduciarios............................................................................. 22
+       D.     Otros riesgos y temas clave............................................................... 22
+
+III.   PLAN DE IMPLEMENTACIÓN Y GESTIÓN ........................................................... 23
+
+       A.     Resumen de los arreglos de implementación .................................... 23
+       B.     Resumen de los arreglos para el monitoreo de resultados................ 26
+
+IV.    CRITERIOS DE ELEGIBILIDAD .......................................................................... 26
+                                             - ii -
+
+
+
+                                         ANEXOS
+Anexo I     Matriz de Efectividad en el Desarrollo (DEM) - Resumen
+Anexo II    Matriz de Resultados
+Anexo III   Acuerdos y Requisitos Fiduciarios
+
+
+
+                    ENLACES ELECTRÓNICOS REQUERIDOS (EER)
+EER#1       Plan de Monitoreo y Evaluación
+
+
+
+                     ENLACES ELECTRÓNICOS OPCIONALES (EEO)
+EEO#1       Género y Diversidad
+EEO#2       Cambio Climático
+EEO#3       Teoría del Cambio
+EEO#4       Sectorial PMCMV
+EEO#5       Marco de Referencia de la CCLIP ProMorar
+EEO#6       Detalles del Mecanismo del GMH
+EEO#7       Reglamento Operativo del Programa
+EEO#8       Análisis Económico del Proyecto
+EEO#9       Resumen Simplificado de la Revisión Ambiental y Social
+EEO#10      Referencias Bibliográficas
+EEO#11      E&S Screening Filter
+                                        - iii -
+
+
+
+                                    ABREVIATURAS
+AF        Agente Financiero
+ART       Anotación de Responsabilidad Técnica
+BI        Business Intelligence
+BID       Banco Interamericano de Desarrollo
+CCFDS     Consejo Curador (Administración) del Fondo de Desarrollo Social
+CCLIP     Línea de Crédito Condicional para Proyectos de Inversión
+CDC       Crédito Directo al Consumidor
+CEF       Caixa Econômica Federal
+CEMADEN   Centro Nacional de Monitoreo y Alerta de Catástrofes Naturales
+CGU       Contraloría General de la Unión
+CRF       Marco de Resultados Corporativos
+CT        Cooperación Técnica
+EEO       Enlace Electrónico Opcional
+EER       Enlace Electrónico Requerido
+EVI       Entidad Verificadora Independiente
+FDS       Fondo de Desarrollo Social
+FGTS      Fundo de Garantia por Tempo de Serviço
+FJP       Fundação João Pinheiro
+GEI       Gases de Efecto Invernadero
+GMH       Garantías para Mejoramiento de Vivienda
+GURB 2    Grupo Urbano 2 (Grupos de ingresos de las familias residentes en zonas
+          urbanas, según el Decreto 10.600 del 14 de febrero de 2021)
+HIS       Viviendas de Interés Social
+HMP       Viviendas de Mercado Popular
+IBGE      Instituto Brasileño de Geografía y Estadística
+IEA       Agencia Internacional de Energía
+IF        Intermediación Financiera
+IVD       Indicadores de Resultado Vinculados a los Desembolsos
+LGBTQ+    Lesbianas, Gays, Bisexuales, Transexuales y Queer
+LOA       Ley Presupuestaria Anual
+MCID      Ministerio de las Ciudades
+MPAS      Marco de Política Ambiental y Social
+NDC       Contribución Determinada a Nivel Nacional
+OE        Organismo Ejecutor
+PACI      Plataforma de Análisis de la Capacidad Institucional
+PAIA      Paris Alignment Implementation Approach
+PBR       Préstamos Basados en Resultados
+PcD       Personas con Discapacidad
+PCR       Informe de Finalización del Programa
+PIB       Producto Interior Bruto
+PMCMV     Programa Mi Casa Mi Vida
+                                     - iv -
+
+
+
+                               ABREVIATURAS
+PME     Plan de Monitoreo y Evaluación
+PMR     Reporte de Monitoreo del Proyecto
+PNS     Encuesta Nacional de Salud
+PPA     Plan Plurianual
+PYMEs   Pequeñas y Medianas Empresas
+ROP     Reglamento Operativo del Programa
+RRT     Registro de Responsabilidad Técnica
+SEAID   Secretaría de Asuntos Internacionales y Desarrollo del Ministerio de
+        Planeación y Presupuesto
+SGAS    Sistema de Gestión Ambiental y Social
+SNH     Secretaría Nacional de la Vivienda
+SNHIS   Sistema Nacional de Viviendas de Interés Social
+TIR     Tasa Interna de Retorno
+UGP     Unidad de Gestión del Programa
+VPN     Valor Presente Neto
+                                       RESUMEN DEL PROYECTO
+                                               BRASIL
+            LÍNEA DE CRÉDITO CONDICIONAL PARA PROYECTOS DE INVERSIÓN (CCLIP) “PROMORAR”
+                                             (BR-O0014)
+                                                  Y
+             PRIMERA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA “PROMORAR BRASIL - PROMOCIÓN DE
+             NUEVAS ESTRATEGIAS DE VIVIENDA EN BRASIL PARA POBLACIÓN DE BAJOS INGRESOS”
+                                             (BR-L1596)
+                                                 Términos y Condiciones Financieras
+  Prestatario:                                                               Facilidad de Financiamiento Flexible (a)
+                                                                              Plazo de amortización:           25 años
+  República Federativa del Brasil
+                                                                              Período de desembolso:           5 años
+  Organismo Ejecutor:                                                         Período de gracia:               6 años (b)
+  Ministerio de las Ciudades (MCID) por medio de la Secretaría                Tasa de interés:                 Basada en SOFR
+  Nacional de la Vivienda (SNH)                                               Comisión de crédito:             (c)
+
+
+                          BR-O0014             BR-L1596
+       Fuente                                                        %
+                         Monto (US$)          Monto (US$)                     Comisión de inspección           (c)
+  BID (Capital                                                                y vigilancia:
+                           600.000.000           54.055.925          99%
+  Ordinario):
+                                                                              Vida Promedio
+  Local:                                -            500.000          1%                                       15,25 años
+                                                                              Ponderada (VPP):
+                                                                                                               Dólares de los Estados
+  Total:                   600.000.000           54.555.925        100%       Moneda de aprobación:            Unidos de América
+                                                   Esquema del Proyecto
+  Objetivo general de la CCLIP: Promover nuevas estrategias de vivienda y mejora del hábitat en Brasil, centrándose en la
+  población de bajos ingresos, contribuyendo a la aceleración del desarrollo económico y a la reducción de las desigualdades
+  sociales en el país (¶1.16).
+  Objetivo de la primera operación individual bajo la CCLIP: Desde el ámbito federal, dotar a los actores públicos, privados
+  y de la sociedad civil de nuevas herramientas para facilitar y diversificar el acceso a soluciones de vivienda de interés social
+  con el fin de aumentar el acceso a una vivienda digna. Los objetivos específicos de esta operación son: (i) conectar la oferta
+  y la demanda de vivienda, para facilitar el acceso a una vivienda digna; (ii) desarrollar e implementar un programa nacional
+  de microfinanciamiento para mejoramiento sostenible de las viviendas para familias de bajos ingresos, y así reducir el déficit
+  cualitativo de vivienda (inadecuación); y (iii) fortalecer el Plan Nacional de Vivienda y la Política Nacional de Vivienda,
+  promoviendo la sostenibilidad socio-ambiental así como la formación de funcionarios de los gobiernos públicos subnacionales,
+  ingenieros, técnicos y la diversificación de los programas de Vivienda de Interés Social (HIS) (¶1.18).
+  Condiciones contractuales especiales previas al primer desembolso del financiamiento: serán condiciones
+  contractuales especiales previas al primer desembolso del financiamiento: (i) la creación formal de la Unidad de Gestión del
+  Programa (UGP); y (ii) la aprobación del borrador del Reglamento Operativo del Programa (ROP), previamente acordado con
+  el Banco (¶3.7).
+  Condición contractual especial de ejecución: la contratación de una Entidad Verificadora Independiente (EVI), de acuerdo
+  con los términos de referencia previamente acordados con el Banco, dentro de los 90 días posteriores a la firma del contrato
+  de préstamo (¶3.8).
+  Excepciones a las políticas del Banco: Ninguna
+                                                Alineación Estratégica
+  Desafíos(d):                             SI ☒                       PI                  ☒                           EI    ☐
+  Temas Transversales(e):                   GE ☒        y     DI ☒              CC ☒        y    ES ☒                 IC    ☒
+(a)   Bajo los términos de la Facilidad de Financiamiento Flexible (documento FN-655-1) el Prestatario tiene la opción de solicitar
+      modificaciones en el cronograma de amortización, así como conversiones de moneda, de tasa de interés, de productos básicos y de
+      protección contra catástrofes. En la consideración de dichas solicitudes, el Banco tomará en cuenta aspectos operativos y de manejo de
+      riesgos.
+(b)   Bajo las opciones de reembolso flexible de la Facilidad de Financiamiento Flexible (FFF), cambios en el periodo de gracia son posibles
+      siempre que la Vida Promedio Ponderada (VPP) Original del préstamo y la última fecha de pago, documentadas en el contrato de
+      préstamo, no sean excedidas.
+(c)   La comisión de crédito y la comisión de inspección y vigilancia serán establecidas periódicamente por el directorio ejecutivo como parte
+      de su revisión de los cargos financieros del Banco, de conformidad con las políticas correspondientes.
+(d)   SI (Inclusión Social e Igualdad); PI (Productividad e Innovación); y EI (Integración Económica).
+(e)   GE (Igualdad de Género) y DI (Diversidad); CC (Cambio Climático) y ES (Sostenibilidad Ambiental); y IC (Capacidad Institucional y Estado
+      de Derecho).
+                                                    -2-
+
+
+
+
+            I.        DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS
+
+A.        Antecedentes, problemática y justificación
+
+1.1       Antecedentes y justificación general. El Gobierno del Brasil, por medio de la
+          Secretaría Nacional de Vivienda (SNH), cuya cabeza de sector es el Ministerio de
+          las Ciudades (MCID), solicitó el apoyo del Banco Interamericano de Desarrollo
+          (BID) [1] 1 para explorar nuevos modelos de provisión de vivienda y hábitat, y
+          formular estrategias de política para el sector, especialmente para atender a los
+          grupos más vulnerables de bajos ingresos. En ese sentido, para atender esta
+          demanda de las autoridades y apoyar su continuidad la presente propuesta
+          propone la creación de una Línea de Crédito Condicional para Proyectos de
+          Inversión (CCLIP), con un periodo de utilización de 10 años, bajo la cual podrán
+          ser aprobadas operaciones individuales de inversión por un monto total de hasta
+          US$600 millones, con una primera operación bajo la modalidad Préstamo Basado
+          en Resultados (PBR), por US$54,5 millones.
+
+1.2       Déficit de vivienda cuantitativo en el país. Uno de los principales retos
+          socioeconómicos a los que se enfrenta Brasil es la falta de acceso a vivienda,
+          expresada por los indicadores de déficit de vivienda (déficit cuantitativo, o de
+          producción de nuevas unidades). En 2019 2, alcanzó unos 5,9 millones de
+          unidades [2], a los que se suma una demanda adicional estimada de
+          1,2 millones de viviendas cada año hasta 2030. Se definen en déficit cuantitativo
+          de vivienda aquellas familias: (i) en vivienda precaria (viviendas improvisadas y
+          rústicas) con 1,5 millones de hogares (el 25,2% del déficit total); (ii) en
+          cohabitación (familias que viven juntas en la misma vivienda y las que viven en
+          viviendas cedidas y alquiladas) con 1,4 millones de hogares (el 23,1%); y (iii) con
+          carga excesiva de alquiler (familias con ingresos inferiores a tres (3) salarios
+          mínimos que gastan más del 30% de sus ingresos en el alquiler), siendo éste el
+          componente más significativo, con más de 3 millones de viviendas (el 51,7%).
+          También cabe mencionar la relación entre el déficit cuantitativo habitacional y el
+          perfil socioeconómico: el 72% de las viviendas precarias corresponden a familias
+          con ingresos mensuales de hasta 1 salario mínimo (R$1.212, aproximadamente
+          US$230).
+
+1.3       Déficit cualitativo (inadecuación) de la vivienda en Brasil. La falta de calidad
+          de la vivienda y los servicios en las áreas urbanas (inadecuación) se vincula a la
+          necesidad de mejorar la vivienda, más que a su sustitución. En 2019, el número
+          total de hogares urbanos inadecuados fue mayor a 24 millones, los que se dividen
+          en 14 millones de hogares sin acceso a agua y/o energía eléctrica, y/o
+          saneamiento, y/o manejo de residuo sólidos, 11,25 millones con deficiencias
+          estructurales y materiales de construcción (insuficiencia en su construcción),
+          3,5 millones con problemas en la tenencia legal de la tierra [2]. Las insuficiencias
+          de infraestructura y de construcción en los hogares corresponden a diferentes
+          carencias (Figura 1) algunos hogares pueden presentar más de un tipo de
+
+1     Véase la lista completa de Referencias Bibliográficas en el Enlace Electrónico Opcional (EEO)#10
+      identificadas por el número entre corchetes [#].
+2     Cabe resaltar que estas estadísticas son las más recientes disponibles. El censo nacional está en proceso,
+      por lo que se podrá contar con datos actualizados a finales de 2023.
+                                                               -3-
+
+
+
+      insuficiencia. Los problemas de tenencia legal de la tierra, por ejemplo, tienen un
+      impacto negativo en la valoración de los inmuebles. Se estima que, en Brasil, el
+      título de propiedad permitió duplicar el valor de la tierra [3]. Estudios indican que
+      los programas de regularización de la tierra pueden generar un aumento de entre
+      el 20% y el 32% de los ingresos de los hogares tras el otorgamiento de la escritura
+      definitiva [4]. Las insuficiencias cualitativas de los hogares en Brasil están
+      estrechamente relacionadas con: (i) la segregación urbana, la cual se estima
+      afectaba a más de 5 millones de hogares constituidos en aglomeraciones
+      informales (favelas) en 2019 [5] (es decir, el 7,8% del total nacional y un
+      60% mayor a los cálculos de 2010); y (ii) la exposición al riesgo de desastres, ya
+      que según el Instituto Brasileño de Geografía y Estadística (IBGE) y el Centro
+      Nacional de Monitoreo y Alerta de Desastres Naturales (CEMADEN) 8,2 millones
+      de personas vivían en zonas de riesgo en Brasil en 2010, entre ellas 2,4 millones
+      en hogares permanentes.
+
+                 Figura 1 – Subcomponentes de la Inadecuación de los Hogares (2019)
+
+
+                                                       VIVIENDAS INADECUADAS
+
+                                                                       HOGARES
+                                                                       URBANOS
+                                                                     INADECUADOS
+                           NECESIDADES DE                                                              DEFICIENCIAS DEL HOGAR
+                          INFRAESTRUCTURA
+                              URBANA
+                                                                                                               AGUA:
+                                                                     TITULACIÓN DE                                            9.000.021
+                                                                                                          − Almacenamiento
+                                AGUA:                                   TIERRAS
+                                                                                                                 O
+                              − Fuente
+             10.725.833      − Frecuencia                             3.557.117                            FALTA DE BAÑO
+                            − Con tuberías                                                                                      359.872
+                                                                                                             EXCLUSIVO
+                                   O
+
+                              ENERGÍA          INSUFICIENCIA DE LA                     INSUFICIENCIA             O
+              406.143        ELÉCTRICA:         INFRAESTRUCTURA                         DEL HOGAR         PIEZAS IGUAL QUE
+                                                    URBANA
+                             − Frecuencia
+                                                                                                          LOS DORMITORIOS       1.886.095
+                                   O                                                 11.246.366
+                                                  14.257.395                                                     O
+                           SANEAMIENTO:
+             4.916.086      − Alcantarillado                                                             MATERIAL DEL SUELO      69.187
+                                                                        VIVIENDA
+                                   O                                                                             O
+                                                                        PRIVADA
+                              BASURA:                                 PERMANENTE                            MATERIAL DE
+               553.350         − Des�no                                 URBANA                               CUBIERTA         1.023.757
+                                                                      INADECUADA
+
+
+                                                                     Año – 2019
+                                                                     24.893.961
+
+
+
+       Fuente: Fundação João Pinheiro (FJP), 2021.
+
+1.4   Estrategias nacionales para el sector vivienda. El derecho a una vivienda digna
+      está garantizado en la Constitución Federal de Brasil. En 2023, fue reanudado el
+      Programa Mi Casa Mi Vida (PMCMV), establecido por la Medida Provisoria
+      N°1.162 de 2023. Esta tiene como objetivo: (i) aumentar la oferta de vivienda para
+      familias de bajos ingresos y satisfacer las necesidades ya explicitadas;
+      (ii) promover la mejora del stock de viviendas existentes para atender sus
+      insuficiencias; y (iii) estimular la modernización del sector de la construcción y la
+      innovación tecnológica. La aplicación del PMCMV es posible gracias al Plan
+      Plurianual 2020-2023, vinculado al Programa Temático de Vivienda Digna. La
+      Figura 2 resume el tipo de estrategia existente para cada reto identificado.
+                                                          -4-
+
+
+
+        Figura 2 – Categorización de las Respuestas del Programa a los Desafíos de la Vivienda
+
+
+                                                          DIAGNÓSTICO
+                                                    NECESIDADES DE VIVIENDA
+
+
+
+
+                                  DÉFICIT DE VIVIENDA                         INSUFICIENCIA  DE LA VIVIENDA
+                                                                                    Regularização
+                                   DEMANDA FUTURA                                         Fundiária
+
+
+                                       5,9 millones                                       24,9 millones
+                       + demanda de 1,2 millones/año de UH hasta 2030                (el 40% de los domicilios
+                                                                                                             )
+
+
+                                  Producción de Viviendas               Infraestructura     Titulación de        Insuﬁciencia
+                                                                                               Tierras             del Hogar
+                                  Financiada y Subsidiada
+
+
+
+                                                                    Urbanizaciónde          Regularización       Mejora de las
+                                                                    Asentamientos             de Tierras          Viviendas
+                                                                       Precarios
+
+
+
+
+       Fuente: SNH, 2021. En la nueva estructura del gobierno federal, los programas de urbanización de
+       asentamientos precarios y de regularización de tierras, aunque sean pilares de la política nacional de vivienda,
+       están bajo gestión de la Secretaria Nacional de Periferias y ya no de la Secretaria Nacional de Vivienda.
+
+1.5   Los desafíos de género en el sector de la vivienda. Las mujeres representan
+      más del 52% de la población total de Brasil. Entre 2001 y 2015, el número de
+      hogares encabezados por mujeres aumentó un 105%, mientras que los hogares
+      encabezados por hombres aumentaron solo un 13%, y el número de hogares
+      monoparentales encabezados por mujeres creció un 28,3%, de 9 millones a
+      11,6 millones [6]. Cifras recientes de déficit habitacional revelan la desigualdad de
+      género entre los hogares pobres: el 60% de los hogares en situación deficitaria
+      están encabezados por mujeres y, de los 3 millones de familias sobrecargadas
+      con el alquiler, el 62,2% están encabezados por mujeres [7] (Figura 3, a la
+      izquierda). Asimismo, existen disparidades de género en el mercado de
+      financiamiento de vivienda brasileño: datos del Banco Central y de la Caixa
+      Econômica Federal (CEF), señalan que solo el 38% de los préstamos para
+      vivienda en el mercado se otorgan a mujeres, comparado con los otorgados a
+      hombres 62% [8]. Las estimaciones récord de desempleo indican que las mujeres
+      han sido las más afectadas por la crisis económica de COVID-19, con una tasa
+      del 16,8% frente al 12,8% de los hombres, lo que sugiere que las desigualdades
+      de género pueden estar empeorando en el país. (Enlace Electrónico Opcional
+      (EEO)#1).
+
+1.6   Los desafíos de diversidad en el sector vivienda. El concepto de
+      interseccionalidad, en el cual un individuo sufre opresión en base a su pertenencia
+      a múltiples categorías de identidad social (raza, etnia, discapacidad, orientación
+      sexual, etc.) [9], es pertinente en el sector vivienda de Brasil. Esto debido a que
+      existen grupos poblacionales identificados en más de una categoría de identidad,
+      que se encuentran sobrerrepresentados entre aquellos en déficit de vivienda.
+      Datos recientes estiman que más del 52,6% de los hogares están encabezados
+      por mujeres afrodescendientes (PNAD/IBGE) y el 63% se encuentra por debajo
+                                                    -5-
+
+
+
+          del umbral de pobreza 3, (comparado con hogares de mujeres no
+          afrodescendientes 39,6%) [10] sin acceso a servicios urbanos (Figura 3, derecha).
+          Además, la Encuesta Nacional de Salud de 2019 (PNS), revela que había
+          17,3 millones de Personas con Discapacidad (PcD) (8,4% de la población) [11].
+          Del total de PcD, 14,4 millones vivían en hogares urbanos y 2,9 millones en zonas
+          rurales, 10,5 millones eran mujeres y 6,7 millones eran hombres. Además, en la
+          encuesta PNS 2019, se identificó también que cerca de 2,9 millones de personas
+          (1,8% de la población adulta) en el país se declararon homosexuales o bisexuales.
+          Las personas Lesbianas, Gays, Bisexuales, Transexuales y Queer (LGBTQ+) en
+          Brasil usualmente viven en lugares alquilados [12] o se encuentran en situación
+          de calle [13]. Adicionalmente, datos apuntan al crecimiento del 140% de las
+          personas sin hogar desde 2012, hasta un total de casi 222 mil personas en
+          2020 [14] (EEO#1).
+
+                 Figura 3 – Género de la Persona Responsable del Hogar en el Déficit de Vivienda
+               (izquierda) y Diferencias en el Acceso a los Servicios del Hogar por Raza (derecha).
+
+
+
+
+           Fuente: FJP, 2021.                                    Fuente: IBGE, 2019.
+
+
+1.7       Sostenibilidad ambiental y cambio climático en el sector vivienda. Las
+          emisiones de Gases de Efecto Invernadero (GEI) de Brasil totalizaron 1.467 Tg
+          CO2eq en 2016, de los cuales aproximadamente el 1% son atribuibles al sector
+          residencial [15]. Los desafíos del crecimiento acelerado y las transformaciones del
+          espacio urbano se ven exacerbados por los efectos del cambio climático, e
+          impactan en la vivienda y en calidad de vida de las personas. En particular,
+          algunos de los impactos del calentamiento global que se evidencian en Brasil son:
+          (i) un aumento de la temperatura media de 2,5ºC en zonas costeras entre 1901 y
+          2012; (ii) el incremento del número de días con precipitación por encima de los
+          30 mm en el sureste de Brasil; (iii) cambios en la temperatura y la salinidad del
+          Atlántico Sur; y (iv) aumento en la frecuencia, intensidad e influencia en el clima
+          continental de los eventos de la Oscilación Sur del fenómeno de El Niño
+          (ENSO) [16]. Atendiendo a este desafío, en su Contribución Determinada a Nivel
+          Nacional (NDC) [17], Brasil tiene el compromiso de reducir sus emisiones de GEI
+          en un 37% en 2025 respecto de la línea base de 2005, con miras a disminuirlas
+          en un 50% en 2030 y alcanzar la carbono-neutralidad para el año 2050. Además,
+
+3     Según la última Síntesis de Indicadores Sociales del IBGE, una persona se encuentra por debajo de la línea
+      de pobreza cuando vive con US$1,90 per cápita por día.
+                                                   -6-
+
+
+
+          la NDC reconoce la necesidad de mejorar los índices de desarrollo en las áreas
+          de vivienda y de inclusión social, al tiempo que contribuye a los esfuerzos globales
+          de mitigación de las emisiones de GEI. Por otro lado, el uso de criterios de
+          sostenibilidad ambiental en el mejoramiento de vivienda social destacan su
+          importancia al promover el uso eficiente y racional de los recursos naturales,
+          mejorar las condiciones de habitabilidad, reducir gasto familiares por uso de
+          servicios básicos, y, aportar entre otros beneficios colaterales, a la reducción de
+          la contaminación local (EEO#2 4).
+
+          1.     Primera Operación Individual de la CCLIP - ProMorar Brasil
+
+1.8       Problema general. El elevado déficit cuantitativo y cualitativo (inadecuación) de
+          la vivienda en Brasil afecta a las familias de bajos ingresos. El déficit de vivienda
+          (cuantitativo) brasileño en 2019 fue de 5,8 millones (¶1.2), y el déficit por
+          inadecuación (cualitativo) contabilizaba más de 24 millones de hogares en 2019
+          (¶1.3) [18].
+
+1.9       Determinantes. Este elevado déficit es el resultado de múltiples determinantes,
+          en los que se centra esta operación: (i) la dispersión y la insuficiente transparencia
+          de la información sobre la producción y la oferta de viviendas producidas con
+          recursos federales, que limitan la participación del sector privado y de los
+          ciudadanos en la resolución del acceso a la vivienda digna para las familias de
+          bajos ingresos; (ii) la escasez y el alto costo del microcrédito para la vivienda para
+          combatir el déficit cualitativo, con un mercado incipiente en Brasil (en la mayoría
+          de los casos, el acceso al microcrédito se produce por medio del crédito directo al
+          consumo, otorgado por los grandes bancos y sin asistencia técnica); y (iii) la
+          complejidad de la agenda de la vivienda, considerando que la magnitud del
+          problema y las disparidades en términos de institucionalización y capacidades
+          administrativas dificultan la planificación a medio y largo plazo, la diversificación
+          de las líneas de servicio, así como la incorporación de temas relacionados con la
+          sostenibilidad socio-ambiental [19].
+
+          a.    Determinante 1. La dispersión y la insuficiente transparencia de la
+                información sobre la producción, la oferta y demanda de viviendas producidas
+                con recursos federales limitan la participación del sector privado y de los
+                ciudadanos en la resolución del acceso a una vivienda digna para las familias
+                de bajos ingresos. Hoy existen más de cinco sistemas federales e
+                innumerables sistemas locales inventariados: registro de prestaciones y
+                créditos concedidos (Cadmut), programas sociales (Cadúnico), bases
+                administrativas de consulta para encuadrar a los beneficiarios (RAIS, CADIN,
+                SIACI), registro de demanda de vivienda (bases subnacionales), etc. Cada
+                institución del sector tiene su propio sistema de información para la parte del
+                proceso que está bajo su administración y operación, pero estos sistemas no
+                están integrados en una plataforma digital a nivel federal, ni cubren todos los
+                elementos del proceso. Así, los actores del sector (actores de la industria de
+                la construcción, promotores, instituciones y agentes financieros, entidades
+                subnacionales, sociedad civil organizada y familias de bajos ingresos)
+
+4     EEO#2 incluye medidas de mitigación y adaptación que fomentan la reducción de la demanda energética
+      mediante estrategias de eficiencia energética y el consumo eficiente de agua. Asimismo, los materiales de
+      construcción estarán en línea con el Programa Brasileño de Calidad y Productividad del Hábitat, que busca
+      mejorar la calidad y durabilidad de las obras y la modernización del sector de la construcción.
+                                                  -7-
+
+
+
+              terminan sin acceso a información transparente, ágil y clara sobre la oferta y
+              la demanda de vivienda existente. Además, las familias no disponen de
+              información sobre las ayudas crediticias disponibles (importes, condiciones
+              de financiación), particularmente las familias con situaciones de
+              vulnerabilidad [20], ni sobre la cartera completa de ofertas de soluciones de
+              vivienda en el mercado inmobiliario por localidades. Por un lado, la
+              multiplicidad y complejidad de los sistemas de selección de beneficiarios no
+              permite una lectura transparente por parte de la familia de su probabilidad de
+              acceder a una solución de vivienda, y mucho menos poder elegir entre las
+              opciones. Por otro lado, los promotores no tienen una visión consolidada de
+              la demanda y toman decisiones de inversión muy conservadoras debido a la
+              falta de esta información [21].
+
+        b.    Determinante 2. Aunque existe una gran demanda por mejoras entre los
+              11,3 millones de domicilios con inadecuaciones constructivas (una encuesta
+              apuntó que el 82% de la población de más bajos recursos de las clases
+              D/E [22] declara una necesidad de mejorar su vivienda mientras que menos
+              de la mitad gasta en material de construcción y servicio de mejora [23]), esta
+              demanda está reprimida 5 porque el microfinanciamiento a la vivienda para
+              promover mejoramientos y superar las deficiencias constructivas es escaso
+              y caro [24]. Esto se debe a que: (i) hoy, casi todas las mejoras se financian
+              con Créditos Directos al Consumidor (CDC) en bancos comerciales con altas
+              tasas de interés (a partir del 3% mensual). Recientemente surgieron más de
+              100 Pequeñas Empresas de mejoramiento que ofrecen asistencia técnica, a
+              veces combinado a microcréditos, pero tienen dificultad de acceder a fondeo
+              asequible y no cuentan, hasta ahora, con instrumentos de garantía; (ii) el
+              costo de crédito es alto, por causa de un alto costo de fondeo vinculado a su
+              vez a una reglamentación inadecuada (que exige 100% de Factor de
+              Ponderación del Riesgo); (iii) la imposibilidad de presentar la vivienda como
+              garantía y la ausencia de garantías accesorias aumentan el riesgo crediticio
+              asumido por la entidad financiera y, en consecuencia, el precio del crédito; y
+              (iv) la falta de asistencia técnica (AT), resultado de una oferta escasa (pocas
+              empresas de AT en el mercado), no permite reducir el riesgo 6. Es, por lo tanto,
+
+5   Según datos de la Fundación João Pinheiro, las insuficiencias de las viviendas muestran un crecimiento de
+    10,3 millones de viviendas en 2016 a 11,3 millones en 2019 (el 9,2% en el periodo). En la hipótesis de
+    mejoras con un costo promedio de R$12 mil, serían necesarios aproximadamente R$135 mil millones para
+    atender las insuficiencias existentes en 2019. Entre 2016 y 2019 no hubo una política de combate a la
+    insuficiencia de viviendas, ya que recién en 2020 (Ley nº 13.465/2017) se creó el Programa de
+    Regularización de Tierras y Mejoramiento de Viviendas (RegMel), inicialmente con subsidios directos para
+    familias sin capacidad de pago (financiación). En el período de 2016 a 2019, las microfinanzas de vivienda
+    concedidas para renovación, ampliación o adquisición de materiales de construcción ocurrieron por medio
+    de líneas de crédito al consumo (CDC) o, aún, con recursos provenientes de ahorros por un monto
+    aproximado de R$600 millones, con tasas de interés preponderantemente superiores a las practicadas en el
+    Sistema Financiero de la Vivienda y, consecuentemente, para atender a las familias con mayor capacidad
+    de pago. En los años en cuestión, no hubo financiación para la compra de materiales de construcción con
+    recursos del FGTS. Las familias de bajos ingresos fueron atendidas por escasas iniciativas de
+    microfinanciación para mejoras de las viviendas promovidas por empresas, con un enfoque social, como
+    Ceape, Banco do Povo y Nova Vivenda - esta cartera activa era sólo de unos R$2 millones en abril de 2020,
+    según datos parciales colectados junto a algunos de estos actores [24].
+6   Una encuesta realizada en 2015 por el Consejo Brasileño de Arquitectura y Urbanismo y el Instituto
+    Datafolha, con la población económicamente activa de entre 18 y 75 años, reveló que el 54% de los
+    encuestados ya ha realizado reformas y construcciones, y de ellos, el 85,4% no utilizó los servicios de un
+    arquitecto o ingeniero en la obra.
+                                         -8-
+
+
+
+            necesario y urgente fomentar el mercado de micro financiamiento asequible
+            permitiendo mejorar la calidad de las viviendas de bajos ingresos en Brasil.
+
+       c.   Determinante 3. La complejidad de la agenda de la vivienda, la magnitud del
+            problema y las disparidades en términos de institucionalización y
+            capacidades administrativas dificultan la planificación a medio y largo plazo,
+            la diversificación de las líneas de servicio y la incorporación de temas
+            relacionados con la sostenibilidad socioambiental. El Plan Nacional de
+            Vivienda, lanzado en 2009, no ha sido sometido a las revisiones previstas y
+            se acerca al final de su periodo de vigencia. Además, se pueden identificar
+            lagunas programáticas y temáticas que podrían ser mejor exploradas para su
+            aplicación. Un tema que carece de un mejor enfoque es el de la sostenibilidad
+            ambiental, hay pocos incentivos para la construcción sostenible y en zonas
+            urbanas consolidadas, mientras que el sector es uno de los mayores
+            generadores de impactos ambientales. Aunque no hay datos específicos para
+            el sector de la vivienda, la Agencia Internacional de la Energía (IEA) estima
+            que en 2019 el sector de la construcción, en toda su cadena de valor, fue
+            responsable del 35% de la energía mundial consumida y del 38% de las
+            emisiones de CO2 [25]. Otro tema que carece de un enfoque en la política de
+            vivienda es la atención a la vivienda sin la transferencia de la propiedad y
+            para públicos específicos, como la población sin hogar. Un ejemplo de ello es
+            la inexistencia de un programa federal de alquiler social, mientras que más
+            de 3 millones de hogares sufren una carga excesiva con el alquiler urbano,
+            siendo éste el principal componente del déficit de vivienda [26]. Asimismo, la
+            población sin hogar, que ha crecido a un ritmo acelerado especialmente en
+            estos últimos años bajo la pandemia del COVID-19, es un segmento que no
+            está contemplado en el PlanHab 2009-2023, ni en general en las políticas de
+            vivienda. Los diagnósticos cualitativos realizados para la revisión del PlanHab
+            identifican los límites impuestos por la fragilidad de los acuerdos de
+            coordinación y cooperación entre gobierno federal y gobiernos subnacionales
+            en la aplicación de la política de vivienda, en parte debido a la ausencia o
+            fragilidad de las instituciones, estructuras administrativas y recursos
+            humanos para la gestión de la política a nivel local y regional y la falta de
+            capacidad de focalización en los hogares más vulnerables, tales como
+            aquellos con jefatura femenina, o con personas con discapacidad, entre otros.
+            De hecho, la proximidad del fin de su vigencia y los cambios ocurridos desde
+            2009 – en el mercado de la vivienda, en el sector financiero/crediticio, en la
+            situación socioeconómica de las familias, en los escenarios
+            macroeconómicos y demográficos, en el contexto medioambiental y
+            tecnológico, entre otros – hacen necesaria la revisión del PlanHab, con la
+            formulación de nuevas estrategias a largo plazo, planes de actuación y
+            nuevos plazos [27].
+
+1.10   Lecciones aprendidas en proyectos del Banco. En términos temáticos, el
+       Programa se basa en las capacidades desarrolladas en los programas de mejora
+       de la vivienda en Brasil y en la región. El Programa Hábitat-Brasil-BID
+       (1126/OC-BR), los programas de Urbanización de Asentamientos Populares de
+       Río de Janeiro (Favela Bairro I, 898/OC-BR, 1995-2001; Favela Bairro II,
+       1241/OC-BR, 2000-2006; Favela Bairro III, 2482/OC-BR, 2010-2019); el
+       Programa de Desarrollo Urbano e Inclusión Social de Niterói (2941/OC-BR); el
+       Programa João Pessoa Sostenible (4444/OC-BR), y el Programa de
+                                         -9-
+
+
+
+       Recalificación Urbana de la Región Oeste de Aracaju (4736/OC-BR); entre otros.
+       Las principales lecciones aprendidas de estos programas son que es fundamental
+       diseñar programas integrales, es decir: (i) intervenciones que trabajen en el
+       continuum del hábitat, por ejemplo, apoyando simultáneamente la infraestructura
+       urbana, la regularización de la tenencia de la tierra y el mejoramiento de la
+       vivienda (fuera y dentro de la casa); (ii) equilibrio entre el hardware (obras de
+       infraestructura) y el software (calidad de vida de las personas): enfoque en el
+       acceso a los servicios sociales, equipamientos comunitarios, oportunidades de
+       empleo e ingresos, mecanismos para proteger contra la discriminación y promover
+       la integración socioeconómica, etc.; y (iii) coordinación con los actores del sector
+       para maximizar los impactos de las intervenciones y apalancar recursos. En
+       términos de concepción de la intervención, el programa se inspira del PBR más
+       reciente de HUD en Chile, el Programa de Integración Urbana de Campamentos
+       (5313/OC-CH), donde HUD diseñó un formato de apoyo a una dinámica pública
+       sectorial ya existente con propuesta de potencializar y maximizar los resultados.
+       Desde la perspectiva del diseño de nuevos productos financieros, el programa fue
+       consciente de que la provisión de líneas de crédito a segmentos poco atendidos
+       no garantiza por si sola el efecto en los beneficiarios potenciales si el principal
+       problema es la tolerancia de riesgo de las instituciones financieras. El BID tiene
+       amplia experiencia en estructurar productos de garantía de crédito para movilizar
+       crédito privado. Específicamente en el tema de diseño de mecanismos de
+       mitigación de riesgo de crédito, el programa se nutrió de las experiencias recientes
+       de CMF en Brasil (5130/OC-BR, 5452/OC-BR, 5453/TC-BR y GRC/TC-19109-BR)
+       que apoyaron el Fondo Garantizador para Inversiones de Emergencia para el
+       Acceso al Crédito (FGI-PEAC) y el Fondo de Garantía para Eficiencia Energética
+       (FGEnergia), respectivamente. Finalmente, cabe resaltar que, al constituir una
+       innovación financiera, se espera que el modelo de intervención propuesto en la
+       presente operación genere lecciones aprendidas para futuros programas del país
+       y de la región.
+
+1.11   Lógica vertical. La lógica vertical del programa esta detallada en la Figura 4. Los
+       detalles de la lógica vertical y de la teoría del cambio están disponibles en EEO#3.
+                - 10 -
+
+
+
+Figura 4 – Lógica Vertical de la Primera Operación
+                                                 - 11 -
+
+
+
+                               Figura 4 – Lógica Vertical de la Primera Operación
+
+
+
+
+         Fuente: BID 2022
+
+1.12    Alineación estratégica del país. En relación con las prioridades del país, el
+        Programa de Vivienda Digna, del Plan Plurianual (PPA) de la Unión para el
+        período 2020-2023 7, tiene como objetivo promover el acceso y mejorar las
+        condiciones de la vivienda, con mayor participación de la inversión privada como
+        directriz. La Política de Vivienda plasmada en el PMCMV busca innovar y
+        diversificar las formas de asistencia de vivienda, con soluciones más apegadas a
+        las diversas realidades del país 8. Los tres objetivos del MCMV son: (i) suministro
+        de viviendas; (ii) mejora del stock de viviendas existentes para atender sus
+        insuficiencias; y (iii) calidad y modernización de la producción de la construcción
+        civil. Los componentes de ProMorar Brasil están totalmente alineados con estos
+        tres objetivos: (i) promover el acceso a la vivienda, es el resultado esperado en el
+        Componente 1, donde la plataforma habitacional conecta mejor la demanda y la
+        oferta, aumenta la asistencia a la vivienda, especialmente en las modalidades de
+        adquisición y alquiler; (ii) promover la mejora de la vivienda, es el resultado
+        esperado en el Componente 2, donde el programa de mejoramiento de vivienda,
+        por medio de una garantía, aumentará el mercado de microfinanciación para la
+        mejora de la vivienda; y (iii) la mejora de la calidad de la vivienda, especialmente
+        con vistas a la sostenibilidad medioambiental, es uno de los resultados previstos
+        del Componente 3, en el que el nuevo PlanHab y sus estudios medioambientales
+        potencian los esfuerzos del sector a favor de la densificación urbana, y en el que
+        el desarrollo de capacidades de los actores tiene como objetivo promover la
+
+7   El nuevo PPA 2024-2027 se encuentra en discusión en el gobierno federal, con la proposición de continuidad
+    del Programa Vivienda Digna y expansión de las inversiones y metas.
+8   Según lo establecido en la Ley nº 13.971 del 27 de diciembre de 2019; Medida Provisoria nº 1.1162 del 14
+    de febrero de 2023 y el Decreto Federal nº 11.439 del 17 de marzo de 2023.
+                                                 - 12 -
+
+
+
+        construcción sostenible en el sector de la vivienda, con un enfoque en las mejoras
+        (EEO#4).
+
+1.13    Alineación estratégica del BID. En cuanto a las prioridades institucionales, el
+        Programa es consistente con la Segunda Actualización de la Estrategia
+        Institucional (UIS) (AB-3190-2) y se espera que contribuya al Marco de Resultados
+        Corporativos 2020-2023 del Grupo BID (CRF) (GN-2727-12), dado que se alinea
+        con los desafíos de desarrollo de: (i) Inclusión Social e Igualdad, al mejorar el
+        acceso y la calidad de la vivienda social para las poblaciones de bajos ingresos;
+        y (ii) Productividad e Innovación, mediante la mejora de la asignación de subsidios
+        públicos para una mayor eficiencia de los recursos. También se alinea con los
+        temas transversales de: (i) Cambio Climático y Sostenibilidad Ambiental, al
+        propiciar una política ambiental, densificación urbana, y, construcción verde y
+        resiliente en el mejoramiento de vivienda. El 45,51% de los recursos del BID se
+        invierten en financiamiento climático por las actividades citadas, según la
+        metodología conjunta de los Bancos Multilaterales de Desarrollo (EEO#2);
+        (ii) Igualdad de Género y Diversidad, mediante: (a) el fortalecimiento de las
+        capacidades de los actores públicos sobre las brechas de género y diversidad en
+        la vivienda; (b) el mejoramiento de cultura de los datos desagregados sobre
+        género, etnia, raza y discapacidad que fortalecerán futuros programas focalizados
+        de vivienda para mujeres, PcD, afrodescendientes y personas indígenas; y (c) la
+        creación de un estudio técnico con diagnóstico y propuesta de políticas para
+        facilitar el acceso de las mujeres al microcrédito de vivienda con un enfoque
+        interseccional; y (iii) Capacidad Institucional y Estado de Derecho, mediante la
+        creación de herramientas digitales de gestión del sector vivienda (plataforma de
+        gestión integrada de datos que mejore la eficiencia y la planeación de los
+        subsidios, así como facilite el acceso del ciudadano a informaciones y beneficios)
+        y la estructuración de un sistema de capacitación sectorial para todos los gestores
+        públicos vinculado a la nueva política de vivienda. El programa contribuirá al
+        Indicador 2.3 del CRF: Beneficiarios de programas focalizados contra la pobreza.
+        Finalmente, el programa es consistente con el Marco Sectorial de Vivienda y
+        Desarrollo Urbano, en su Línea de Acción #1 “Superar la exclusión social
+        estructural” que visa: (i) mejorar los barrios subatendidos e informales; y
+        (ii) ampliar el acceso a la vivienda adecuada.
+
+1.14    Con base en la fecha de registro/elegibilidad, esta operación no entra en el
+        alcance temporal definido por el Paris Alignment Implementation Approach (PAIA)
+        (GN-3142-1) 9; por tanto, esta Propuesta de Préstamo no contiene información
+        relativa a su análisis de alineación con las metas de mitigación y adaptación del
+        Acuerdo de París.
+
+1.15    Estrategia del Banco con el País. La operación se alinea con la Estrategia de
+        País del Grupo BID con Brasil 2019-2022 (GN-2973): dentro del área prioritaria
+        "(iv) Reducir la desigualdad social y de oportunidades a través del aumento de la
+        eficiencia de las políticas públicas", que apunta al objetivo estratégico
+
+9   El PAIA se aplica en todas las operaciones que hayan alcanzado su elegibilidad a partir del 1 de enero del
+    2023. El ámbito de aplicación incluye préstamos de inversión, préstamos basados en políticas, garantías,
+    inversiones de capital, finanzas corporativas a largo plazo y subvenciones a la inversión con un monto
+    aprobado superior a US$3 millones. (…) “El PAIA no se aplicará retroactivamente a operaciones que
+    alcanzaron la elegibilidad antes de 2023” – Enfoque de implementación para la alineación con el Acuerdo de
+    París del Grupo BID: Principios, metodología y orientaciones técnicas; párrafo 2.10.
+                                                    - 13 -
+
+
+
+         "(v) implementar políticas eficientes para aumentar el acceso a la vivienda"
+         (¶3.37). La estrategia apoya de modo transversal desafíos que serán claves en la
+         operación: (a) género y diversidad; (b) sostenibilidad ambiental y cambio climático
+         (ver ¶1.13); y (c) innovación y transformación digital (principalmente mediante la
+         plataforma habitacional de digitalización y optimización de los datos sectoriales).
+
+B.       Objetivos, componentes y costo
+
+         1.      CCLIP ProMorar
+
+1.16     Objetivo general de la CCLIP. Promover nuevas estrategias de vivienda y mejora
+         del hábitat en Brasil, centrándose en la población de bajos ingresos,
+         contribuyendo a la aceleración del desarrollo económico y a la reducción de las
+         desigualdades sociales en el país (EEO#5).
+
+1.17     Beneficiarios. La CCLIP beneficiará a todos los agentes del sector de la vivienda
+         y del hábitat. Los beneficiarios finales, serán: (i) las familias de bajos ingresos,
+         promoviendo los segmentos de la HIS 10 y la Vivienda de Mercado Popular
+         (HMP) 11; (ii) los gobiernos subnacionales (Estados y Municipios); (iii) los agentes
+         del sector privado (construcción, financiación, gestión de condominios y
+         arrendamientos, etc.); (iv) el tercer sector (sociedad civil organizada, movimientos
+         populares, etc.); (v) el sector académico; y (vi) los ciudadanos en general debido
+         a que a través de la plataforma de información contarán con la oferta y demanda
+         de vivienda de Brasil para la toma de decisiones.
+
+         2.      Primera operación individual de la CCLIP – ProMorar Brasil
+
+1.18     Objetivo de la operación individual. Dentro del objetivo general de la CCLIP de
+         promover nuevas estrategias de vivienda y mejora del hábitat, la primera
+         operación pretende, desde el ámbito federal, dotar a los actores públicos, privados
+         y de la sociedad civil de nuevas herramientas para facilitar y diversificar el acceso
+         a soluciones de vivienda de interés social con el fin de aumentar el acceso a una
+         vivienda digna. Los objetivos específicos de esta operación son: (i) conectar la
+         oferta y la demanda de vivienda, para facilitar el acceso a una vivienda digna;
+         (ii) desarrollar e implementar un programa nacional de microfinanciamiento para
+         mejoramiento sostenible de las viviendas para familias de bajos ingresos, y así
+         reducir el déficit cualitativo de vivienda (inadecuación); y (iii) fortalecer el Plan
+         Nacional de Vivienda y la Política Nacional de Vivienda, promoviendo la
+         sostenibilidad socio-ambiental así como la formación de funcionarios de los
+         gobiernos públicos subnacionales, ingenieros, técnicos y la diversificación de los
+         programas de HIS.
+
+
+
+10   El Art. 1º de la Ley nº 14.118/2021 define los límites de renta familiar de los grupos que pueden ser atendidos
+     con viviendas de interés social producidas con recursos del Gobierno Federal de Brasil: en el área urbana,
+     familias con renta bruta familiar mensual de hasta R$7.000,00 y en el área rural, familias con renta bruta
+     familiar anual de hasta R$84.000,00. Dichos límites y grupos se detallan en el artículo 2 del
+     Decreto 10.600/2021.
+11   El Gobierno Federal no adopta la categoría de Mercado Popular, solo los grupos de asistencia y los límites
+     de ingresos descritos anteriormente. Sin embargo, municipios como el de São Paulo prevén modalidades de
+     ayuda para las familias con límites de ingresos más elevados, pero que todavía necesitan algún incentivo
+     para acceder a la vivienda, considerada como vivienda de mercado popular.
+                                                 - 14 -
+
+
+
+1.19     Componente 1. Plataforma de Gestión de la Demanda y Oferta de Viviendas
+         (BID US$2.855.925). El componente proporcionará los siguientes productos
+         clave: (i) la implementación de una Solución de Business Intelligence (BI); (ii) la
+         preparación de un plan de gobernanza de la plataforma; y (iii) la implementación
+         de servicios del sistema de gestión de la oferta y la demanda de vivienda (¶4 del
+         EEO#3). Estos productos contribuirán, por medio de la digitalización, a conectar y
+         cualificar la gestión de la oferta y la demanda de vivienda, para facilitar el acceso
+         a una vivienda digna. Este resultado contribuirá a crear una cultura de datos
+         desagregados y georeferenciados por segmentación demográfica interseccional
+         (género, raza, etnia, ingresos familiares, discapacidad) y a medir las líneas de
+         base sobre su asistencia potencialmente diferenciada y en caso de evidenciar
+         brechas de asistencia, esto podría ser la base para la elaboración de políticas
+         diferenciadas en el futuro. También contribuirá a sistematizar el levantamiento de
+         datos y el análisis de información medioambiental que pueda documentar el
+         impacto climático de las inversiones en vivienda (a escala de la propiedad, en
+         términos de construcción ecológica, pero potencialmente a escala urbana, para
+         fomentar la densificación urbana).
+
+1.20     Componente 2. Programa de Financiamiento a la Mejora de Viviendas
+         (BID US$48.400.000). El componente proporcionará los siguientes productos
+         clave: (i) la creación de un mecanismo de concesión de Garantías para
+         Mejoramiento de Vivienda (GMH); (ii) la creación de un sistema de control y
+         seguimiento de los mejoramientos de vivienda (plataforma tecnológica y reglas del
+         agente financiero); (iii) la promoción de la diversificación paulatina de los agentes
+         financieros que operan en este mercado; y (iv) la creación de un sistema de
+         estadísticas sobre mejoramiento de viviendas verdes (con atributos de impacto
+         ambiental y cambio climático). La provisión de estos productos permitirá el
+         desarrollo y la implementación de un mercado de mejoramientos, impulsado
+         inicialmente por un programa nacional de microfinanciamiento para mejoramiento
+         sostenible 12 de las viviendas para las familias de bajos ingresos con el fin de
+         reducir el déficit cualitativo (para más detalles sobre estos productos, ¶5 del
+         EEO#3, y para más información sobre el mecanismo GMH, EEO#6). La GMH,
+         descrita en la siguiente figura, será operada por CEF (Agente Operador del Fondo
+         de Desarrollo Social (FDS)) y dicha garantía se utilizará para promover más
+         financiamientos y con condiciones más asequibles de mejoramientos de vivienda,
+         atrayendo nuevos agentes financieros (bancos, cooperativas de crédito, fintechs,
+         ONG, etc.) comenzando por la CEF y posteriormente integrando otros agentes
+         financieros adicionales. Dado que esta garantía ayudará a mitigar el riesgo de los
+         agentes financieros, se espera una mayor derrama crediticia y/o una menor tasa
+         de interés, viabilizando muchos más mejoramientos, contribuyendo así para la
+         reducción del déficit cualitativo. Los criterios de elegibilidad del mecanismo GMH,
+         descritos en detalle en el ROP, incluyen ingresos familiares máximos, ubicación
+         en áreas urbanas regularizadas o en proceso de regularización (lo que excluye
+
+
+
+
+12   El EEO#2 presenta información detallada sobre las estrategias de mejoras de las viviendas bajo premisas
+     de sostenibilidad ambiental que promueven la inclusión de medidas de eficiencia energética, consumo
+     eficiente de agua y calidad de los materiales de construcción.
+                                                            - 15 -
+
+
+
+         zonas de riesgo de desastre y de protección ambiental), y tipos de refacción 13,
+         bien como aspectos orientadores de la estructuración del mecanismo de
+         garantías, entre otros.
+
+                Figura 5 – Mecanismo de concesión de garantías para microfinanciamiento para
+                                       mejoramiento de las viviendas
+
+
+
+
+                                                                                         Funding
+                                                    Agente Operador: CAIXA                             Microﬁnanciaciones
+                             Financiación
+
+
+                                            Norma�vas
+                                                               FDS
+
+                                      Aporte $
+                                                        GMH                         AF          $
+
+
+                         Unión
+                         MDR
+
+
+
+                                                          CCFDS
+                                                                            Contratación de la garan�a
+                                                         Gobernanza         Pago de bono
+                                                                            Reclamo de la garan�a
+                                                                            Devolución - créditos
+                                                                                                      Familias de escasos recursos (GUrb 2)
+                                                                             recuperados
+
+
+
+
+           Fuente: BID, 2022.
+
+1.21     Componente 3. Estudios, herramientas y desarrollo de capacidades para la
+         revisión de la planificación, la promoción de la sostenibilidad
+         socio-ambiental y la diversificación de los programas de HIS
+         (BID US$2.400.000, Local US$500.000). El componente proporcionará los
+         siguientes productos clave: (i) la elaboración de estudios para subsidiar la
+         reformulación del Plan Nacional de Vivienda y de la Política nacional de vivienda
+         a mediano y largo plazo; (ii) la formación de profesionales de la arquitectura y la
+         ingeniería en la mejora de la vivienda con sostenibilidad socioambiental y
+         climática; (iii) la elaboración de un estudio técnico con diagnóstico y propuesta de
+         políticas para facilitar el acceso de las mujeres al microcrédito de vivienda con un
+         enfoque interseccional; (iv) la formación de funcionarios públicos subnacionales
+         en temas relacionados con la sostenibilidad socioambiental y el cambio climático
+         aplicados a la política de vivienda; y (v) la formación de funcionarios públicos
+         subnacionales en temas relacionados con el género y la diversidad aplicados a la
+
+
+
+
+13   Obras y servicios que garanticen la salubridad, la seguridad, los estándares mínimos de edificación y
+     habitabilidad definidos por las ordenanzas locales y la adaptación del tamaño de la vivienda al número de
+     miembros de la familia o a las funcionalidades de la familia, o, además, la adaptación de la vivienda para la
+     accesibilidad, la instalación de equipos de calefacción solar, la eficiencia energética o la reducción del
+     consumo de agua.
+                                                    - 16 -
+
+
+
+         política de vivienda 14 (¶6 del EEO#3). El suministro de estos productos reforzará
+         el Plan Nacional de Vivienda y la política de vivienda, promoviendo la
+         sostenibilidad socio-ambiental, la formación de los agentes de la política de
+         vivienda y la diversificación de los programas del HIS. En cuanto a la integración
+         de la perspectiva de género, la diversidad, la sostenibilidad ambiental y el cambio
+         climático, este resultado permitirá influir en un cambio de paradigma en el sector
+         por medio de la formación de los principales agentes de la política pública de
+         vivienda, en particular los equipos municipales y estatales, y los profesionales de
+         la arquitectura y el urbanismo. Esta gestión del conocimiento y el cambio de
+         cultura se considerará una base para el cambio de prácticas y la aplicación
+         concreta en los programas de vivienda (EEO#3).
+
+1.22     Gastos de administración y gestión del programa (BID US$400.000). El
+         programa cubrirá los costos de los controles independientes de cumplimiento de
+         resultados en cada uno de los tramos de desembolso, así como los costos de
+         gestión y evaluación del programa. Está previsto realizar una evaluación
+         económica ex-post, una evaluación final del proyecto y una evaluación de impacto.
+
+1.23     Beneficiarios. La plataforma habitacional pretende atender a los 26 estados, al
+         Distrito Federal y a los 5.570 municipios brasileños, a los promotores, a los
+         constructores, a los profesionales de la asistencia técnica, a las entidades
+         ejecutoras de obras, a los agentes financieros del sector y a los solicitantes de
+         subsidios y financiamiento para la vivienda. El mecanismo GMH beneficiará
+         directamente a los domicilios de bajos ingresos con inadecuaciones constructivas,
+         alcanzando, en la primera ronda de otorgamiento de garantías, a 152.000 hogares
+         de bajos ingresos (aproximadamente 470.000 personas). El Componente 3
+         beneficiará a los agentes de la política de vivienda, y en particular al Sistema
+         Nacional de Vivienda de Interés Social (SNHIS) 15.
+
+1.24     Acciones de Género y Diversidad. Como intervención principal y considerando
+         la ausencia y necesidad de sensibilización sobre los sesgos y desafíos de género
+         y diversidad en el sector vivienda, este programa capacitará de manera masiva a
+         los agentes del sector público (funcionarios de las secretarias estatales y
+
+
+14   Incluyendo cuestiones de gobernanza urbana (participación, representatividad y presencia simbólica),
+     funcionalidad (accesibilidad, transitabilidad, arquitectura residencial inclusiva, etc.) y seguridad en los
+     espacios públicos y áreas de condominio (diseño de seguridad, disposiciones legales e institucionales, etc.),
+     entre otras, aplicadas a diferentes públicos - mujeres y hombres, personas mayores (ancianos) y niños,
+     personas con discapacidad, personas de diferentes razas y etnias, personas LGBTQ+, migrantes y
+     refugiados, personas sin hogar, entre otros. Esta capacitación se basará en el curso Cidades para Todes –
+     gênero e diversidade nos espaços urbanos, del BID Academy.
+15   Instituido por la Ley nº 11.124, del 16 de junio de 2005, el Art. 5º especifica que Los siguientes organismos y
+     entidades forman parte del Sistema Nacional de Viviendas de Interés Social - siglas en portugués: SNHIS:
+     (i) Ministerio de las Ciudades, órgano central del SNHIS; (ii) Consejo Gestor del FNHIS; (iii) Caixa Econômica
+     Federal - CEF, agente operativo del FNHIS; (iv) Consejo de las Ciudades; (v) Consejos en el ámbito de los
+     Estados, del Distrito Federal y de los Municipios, con atribuciones específicas relacionadas con las
+     cuestiones urbanas y de vivienda; (vi) Organismos e instituciones que forman parte de la administración
+     pública, directamente o indirectamente, de los ámbitos federal, estatal, del Distrito Federal y municipal, e
+     instituciones regionales o metropolitanas que realizan funciones complementarias o relacionadas con la
+     vivienda; (vii) Las fundaciones, sociedades, sindicatos, asociaciones comunitarias, cooperativas de vivienda
+     y cualquier otra entidad privada que realice actividades en el área de la vivienda, ya sean similares o
+     complementarias, todas en la condición de agentes promotores de acciones en el ámbito del SNHIS; y
+     (viii) los agentes financieros autorizados por el Consejo Monetario Nacional para operar en el Sistema
+     Financiero de la Vivienda - SFH.
+                                         - 17 -
+
+
+
+       municipales de vivienda) y privado (agentes financieros y profesionales
+       arquitectos ingenieros del programa de mejoramiento) sobre las barreras y
+       prejuicios hacia mujeres, personas con discapacidad, personas LGBTQ+,
+       afrodescendientes y personas indígenas (¶1.20). Complementariamente,
+       teniendo en cuenta que los datos desagregados sobre género, discapacidad, raza
+       y etnia en el sector vivienda son limitados, este programa contribuirá a mejorar la
+       gestión de los datos de vivienda desagregados dentro de la plataforma
+       habitacional, al cruzar datos atomizados en diversas bases y refinar su tratamiento
+       estadístico (¶1.18). Esta metodología será desarrollada de manera prioritaria en
+       el universo de datos del programa de mejoramientos (Componente 2) y será
+       analizada en la evaluación de impacto prevista al final del programa. Finalmente,
+       este programa creará un estudio técnico con diagnóstico y recomendaciones de
+       política para facilitar el acceso de las mujeres al microcrédito para vivienda con un
+       enfoque interseccional (¶1.20) (EEO#1).
+
+C.     Indicadores clave de resultados
+
+1.25   Resultado 1. Los indicadores para verificar el cumplimiento de los resultados
+       relacionados con el objetivo específico de conectar la oferta y la demanda de
+       vivienda son: (i) Unidades de viviendas registradas en la plataforma habitacional;
+       (ii) Unidades de viviendas registradas en la plataforma habitacional con
+       información ambiental establecida; (iii) Familias registradas en la plataforma
+       habitacional; y (iv) Jefes de familia registrados en la plataforma habitacional con
+       información sobre género, discapacidad, raza y etnia.
+
+1.26   Resultado 2. Los indicadores para verificar la consecución de los resultados
+       relacionados con el objetivo específico de desarrollar e implementar un programa
+       nacional de microfinanciamiento para mejoramiento sostenible de las viviendas
+       para familias de bajos ingresos son: (i) Número de contratos de garantía de
+       microfinanciamiento para mejoramiento de vivienda firmados; y (ii) Unidades de
+       vivienda con obras de mejoras concluidas.
+
+1.27   Resultado 3. Los indicadores para verificar el cumplimiento de los resultados
+       relacionados con el objetivo específico de fortalecer el Plan Nacional de Vivienda
+       y la Política Nacional de Vivienda son: (i) Evaluación del primer ciclo del PlanHab
+       realizada con valoración satisfactoria; (ii) Porcentaje de profesionales capacitados
+       que emitieron el registro de la Anotación de Responsabilidad Técnica (ART) y/o
+       Registro de Responsabilidad Técnica (RRT) de obras de mejoramiento
+       contratadas con garantías; y (iii) Porcentaje de gobiernos subnacionales con
+       personal ejecutivo capacitado en género, diversidad, sostenibilidad ambiental y
+       cambio climático.
+
+1.28   El indicador de impacto del programa, asociado al objetivo general de la
+       operación, es "Aumento del valor de la propiedad tras las intervenciones
+       realizadas".
+
+1.29   Los Indicadores de Resultado Vinculados a los Desembolsos (IVD) por
+       componente son: (i) Familias registradas en la plataforma habitacional;
+       (ii) Número de contratos de garantía de microfinanciamiento para mejoramiento
+       de viviendas firmados; (iii) Mecanismo de concesión de garantías para
+       mejoramiento de las viviendas instituido de acuerdo con la legislación local;
+                                                   - 18 -
+
+
+
+          (iv) Evaluación de primer ciclo del PlanHab 2040 realizada con valoración
+          satisfactoria; y (v) Estudios realizados para fundamentar la reformulación de la
+          política nacional de vivienda (Anexo II).
+
+1.30      Análisis económico. El análisis económico para un periodo de 10 años del
+          proyecto ex ante indica que, bajo una tasa de descuento de 12% anual (i) el Valor
+          Presente Neto (VPN) del proyecto es US$21,4 millones y la Tasa Interna de
+          Retorno (TIR) es 36.7% considerando la matriz insumo producto con un
+          multiplicador del 30% (siendo conservador este multiplicador dado que en Brasil
+          es de 46%); (ii) el apalancamiento que logrará la garantía será de un potencial de
+          financiamiento para mejoramientos de vivienda de US$415 millones para
+          152.000 mejoramientos de vivienda; (iii) el análisis de sensibilidad muestra que
+          los costos pueden ampliarse en más 52% que la TIR permanece viable; y (iv) de
+          la misma forma, los beneficios pueden reducirse en hasta un 33% permaneciendo
+          el proyecto viable, o sea, con una TIR de 12%.
+
+1.31      El estudio de viabilidad económica (EEO#8) se desarrolló utilizando una Matriz de
+          Insumo Producto elaborada por la Fundación Getúlio Vargas, que estimó los
+          valores del multiplicador keynesiano para el sector de la construcción civil. Se
+          eligió este modelo debido a que el programa no cuenta con una muestra para
+          evaluación. El costo considerado es la totalidad del proyecto, más los gastos
+          incrementales 16. A su vez, los créditos otorgados para la renovación de viviendas
+          generarán impactos positivos en el crecimiento de la actividad económica y la
+          productividad en el área de influencia del Programa. Basado en el concepto de
+          atracción, que la inversión pública en capital privado induce la inversión real del
+          sector privado a la economía, provocando cambios en el Producto Interno Bruto
+          (PIB) potencial.
+
+               II.      ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS
+
+A.        Instrumentos de financiamiento
+
+          1.         CCLIP ProMorar
+2.1       Tipo y modalidad. La CCLIP apoyará los elementos del Plan Nacional de
+          Vivienda. En esta primera operación se atenderá preponderantemente al déficit
+          cualitativo a través de mejoramiento de vivienda. La operación está diseñada para
+          permitir una multiplicidad de organismos de ejecución, razón por la cual la CCLIP
+          será del tipo Multisectorial II (de acuerdo con la GN-2246-13 y el OP-1622-3). El
+          organismo de enlace será la Secretaría de Asuntos Internacionales y Desarrollo
+          del Ministerio de Planeación y Presupuesto (SEAID), que está facultada para
+          cumplir esta función.
+2.2       Sectores. Para efectos de la CCLIP, los sectores cubiertos serán: la provisión de
+          soluciones habitacionales (que puede incluir, entre otros, la construcción, el
+          mejoramiento, los acuerdos reglamentarios y financieros, y puede incluir la
+
+16    La estimación de los beneficios se basó en el supuesto de que las inversiones del Programa en la formación
+      del Fondo de Garantía para Operaciones de Crédito otorgadas a las familias, por medio de la red de crédito
+      privado, con apoyo para la implementación de acciones dirigidas al desarrollo de sistemas y capacitación
+      técnica para la gestión y brindará apalancamiento de recursos privados en condiciones accesibles a la
+      población de bajos ingresos.
+                                         - 19 -
+
+
+
+      propiedad, el alquiler, el arrendamiento u otras formas de vivienda como retrofit,
+      co-living, senior living e innovaciones en soluciones de vivienda), el mejoramiento
+      de barrios y hábitat (que puede incluir infraestructura, la gestión de riesgos y
+      prevención de desastres, la regularización de la tierra, la mejora de las viviendas,
+      entre otros), y el fortalecimiento sectorial (que puede incluir la gestión de datos, el
+      desarrollo de capacidades, la modernización jurídica, institucional y financiera,
+      entre otros).
+
+2.3   Transversalmente, los temas promovidos serán el género y la diversidad
+      (asistencia a poblaciones con perfiles diversos, creación de datos desagregados
+      sectoriales, incentivos específicos), el cambio climático y la sostenibilidad
+      ambiental (densificación urbana, infraestructuras sostenibles, construcción verde)
+      y la digitalización (modernización de la gestión del sector, ciudades inteligentes).
+
+2.4   Acuerdos institucionales. Podrán ser prestatarios de los préstamos o garantías
+      individuales que se financien en el marco de la CCLIP: (i) la República Federativa
+      del Brasil; (ii) los Estados, Municipios y el Distrito Federal; y (iii) los bancos
+      (públicos) de desarrollo (federales, regionales o estatales) que concedan
+      subpréstamos a terceros (gobiernos subnacionales, empresas o particulares) para
+      inversiones específicas que contribuyan a mejorar el hábitat en Brasil.
+
+2.5   Monto y plazo. La CCLIP dispondrá de un monto de hasta US$600 millones para
+      ser utilizado en un período de 10 años, en aproximadamente 5 operaciones
+      individuales de préstamos de inversión o garantías que respalden proyectos de
+      inversión, en los términos de la GN-2246-13 y OP-1622-3. La temporalidad de la
+      CCLIP se justifica dado que acompaña el periodo decenal del PlanHab y que la
+      consolidación de un modelo de política basado en evidencia requiere de una visión
+      de mediano plazo que sobrepase periodos de gobierno y logre incorporar un
+      creciente número de gobiernos subnacionales para lograr resultados e impactos
+      en mayor escala.
+
+      2.    Primera operación individual de la CCLIP – ProMorar Brasil
+
+2.6   Modalidad, monto y plazo. La primera operación individual financiada por la
+      CCLIP será un PBR con un período de desembolso de cinco años. El programa
+      tendrá un costo de US$54.555.925, de los cuales US$54.055.925 provendrán de
+      un préstamo del BID (Capital Ordinario); y US$500.000 de aporte de contrapartida
+      local.
+                                                  - 20 -
+
+
+
+                                  Cuadro 1. Costos estimados del programa (US$)
+
+                            Componente                          BID          Local          Total        %
+            Componente 1: Plataforma de gestión de la         2.855.925              0    2.855.925      5,2
+            demanda y la oferta de viviendas
+            Componente 2. Programa de financiamiento        48.400.000               0   48.400.000     88,7
+            a la mejora de viviendas
+            Componente 3. Estudios, herramientas y            2.400.000       500.000     2.900.000      5,3
+            desarrollo de capacidades para la revisión de
+            la planificación, la promoción de la
+            sostenibilidad socio ambiental y la
+            diversificación de los programas de HIS.
+            Administración del programa                        400.000               0      400.000      0,7
+            Total                                           54.055.925        500.000    54.555.925     100
+
+
+2.7       Justificación del uso del instrumento PBR. El PBR es el instrumento más
+          adecuado para llevar a cabo el programa propuesto, ya que tiene por objeto:
+          (i) apoyar un programa gubernamental existente (Programa Moradia
+          Digna/PMCMV en la consecución de resultados (Figura 6 y EEO#4), mediante la
+          creación de herramientas estructurales integradas en la política nacional (y no
+          inversiones puntuales) - por ejemplo, con el mecanismo del GMH, las inversiones
+          del PBR servirán de palanca para atraer recursos privados y permitirán
+          complementar la cobertura del programa existente (que hoy sólo atiende al
+          20% de los hogares más pobres de cada polígono de intervención por medio de
+          la mejora subvencionada), gracias a la creación de instrumentos de financiamiento
+          que no existen actualmente; (ii) promover el uso de los sistemas fiduciarios de la
+          agencia ejecutora, validados como resultado del análisis de la Plataforma de
+          Análisis de la Capacidad Institucional (PACI), para proporcionar plena autonomía
+          en la gestión, considerando que todos los productos existirán más allá del
+          programa - en este sentido, el uso de los sistemas nacionales permite garantizar
+          la sostenibilidad de los resultados; y (iii) garantizar una operación ágil durante la
+          fase de ejecución, basado en la obtención de resultados 17 a partir de indicadores
+          pre-acordados, con costos transaccionales reducidos. La propuesta cumple con
+          los requisitos de un PBR (GN-2869-10), y sus Directrices para la Tramitación de
+          Préstamos Bancarios con Garantía Soberana Basada en Resultados
+          (GN-2869-3).
+
+
+
+
+17    En el capítulo 9 del EEO#3 se evidencia cómo se planifican los gastos asociados a productos y resultados
+      intermedios que permiten la consecución de los resultados finales.
+                                                     - 21 -
+
+
+
+             Figura 6 – Introducción de los Objetivos de la Operación (elementos naranjas) dentro de
+                                  la Política Nacional Federal (elementos azules)
+
+
+
+
+            Fuente: SNH, 2023.
+
+2.8       Cuadro de desembolsos. Los recursos serán desembolsados en un plazo de
+          cinco años como se detalla en el Cuadro 2. El período de ejecución se definió con
+          base en el tiempo estimado que conlleva el cumplimiento de los resultados que se
+          proponen atender en el programa, y en particular por su carácter bastante
+          innovador. Un análisis indicativo sobre la planificación y el costo detallado y
+          específico de los productos necesarios para cumplir dichos resultados se
+          encuentran en el capítulo 9 del EEO#3.
+
+                                 Cuadro 2. Programa tentativo de desembolsos (US$)
+
+              Fuente         Año 1 18        Año 2            Año 3        Año 4           Año 5           Total
+            BID              23.800.000     16.600.000        7.100.000    5.870.925       685.000   19
+                                                                                                          54.055.925
+
+            Local               250.000              0         125.000       125.000                 0      500.000
+            Total            24.050.000     16.600.000        7.225.000    5.995.925        685.000       54.555.925
+            % por año              44,1           30,4             13,3          11,0            1,3            100
+
+
+B.        Riesgos ambientales y sociales
+
+2.9       De acuerdo con el Marco de Política Ambiental y Social (MPAS) del BID, esta
+          operación está clasificada como Categoría Intermediación Financiera (IF) con un
+          riesgo socioambiental bajo, considerando que las obras apoyadas por el programa
+          (mediante otorga de garantía a microcréditos prevista en el Componente 2)
+          tendrán un valor máximo de US$10.000. El Sistema de Gestión Ambiental y Social
+          (SGAS) del programa se describe en el numeral 4.2 del EEO#7. Los
+
+18    Los montos correspondientes al anticipo inicial y al financiamiento retroactivo están comprendidos en el
+      monto de recursos del préstamo destinado para el desembolso del Año 1.
+19    El adelanto de US$8 millones se está descontando de este último desembolso. Aun cuando no corresponde
+      a un desembolso, el prestatario deberá entregar el informe de la verificación independiente de los resultados.
+                                         - 22 -
+
+
+
+       intermediarios financieros otorgarán microcréditos garantidos para financiar
+       proyectos de mejora de la vivienda clasificados como categoría C, y excluirán los
+       proyectos clasificados como categoría A o B de acuerdo con el sistema de
+       clasificación del Banco - estos criterios de elegibilidad se presentan en las Reglas
+       Operativas del Programa (ROP) (EEO#7).
+
+C.     Riesgos fiduciarios
+
+2.10   En el contexto de la evaluación de la capacidad institucional de la SNH llevada
+       adelante durante el período de preparación del Programa, se identificaron los
+       siguientes riesgos fiduciarios: (i) si no se prevé un presupuesto adecuado en la
+       Ley Presupuestaria Anual (LOA), por sus siglas en portugués) para el primer año
+       de ejecución, el inicio de las actividades del Programa puede retrasarse,
+       comprometiendo la consecución de los resultados y, en consecuencia, el
+       calendario de desembolsos. Este riesgo se mitiga con la adecuada articulación
+       con el equipo responsable del presupuesto; y (ii) si el OE no se fortalece en las
+       cuestiones financieras específicas del Programa, puede haber retrasos en la
+       preparación de los informes financieros y en la recopilación de datos para la
+       preparación de los Estados Financieros que deben auditarse anualmente. Este
+       riesgo se mitiga nombrando a un especialista administrativo-financiero dedicado
+       al programa, que debe estar adecuadamente formado en cuestiones fiduciarias, y
+       los detalles de los requisitos financieros deben incorporarse al ROP.
+
+D.     Otros riesgos y temas clave
+
+2.11   De acuerdo con el Marco para la Gestión de Riesgos en Proyectos con Garantía
+       Soberana (OP-1519-5) y sus guías (OP-1699-3), se analizaron los riesgos de la
+       operación y se identificaron los siguientes riesgos como medio-alto y alto:
+
+       a.   Si hay una limitada coordinación institucional en la SNH con otras entidades
+            involucradas, como la CEF, el FDS y otras involucradas en la implementación
+            del Componente 2, podría haber retrasos en la constitución del mecanismo
+            de garantía y en el inicio de la oferta de microcréditos, generando retrasos en
+            el cumplimiento de las metas de desembolso del programa. Este riesgo se
+            mitiga con la aprobación de la resolución del FDS por parte de su consejo
+            curador que se encuentra en discusión, involucrando actualmente a los más
+            altos niveles de la SNH y de CEF.
+
+       b.   Si el mecanismo del GMH no es lo suficientemente atractivo para atraer los
+            agentes financieros, el ritmo y el volumen de las operaciones podrían ser
+            inferiores a los estimados, lo que repercutiría en la consecución de los
+            objetivos de mejora de la vivienda del Programa. Este riesgo se mitiga con:
+            (i) negociaciones previas con la CEF, con metas de inclusión de otros
+            agentes y conversas con eses agentes para asegurar el atractivo del
+            mecanismo de garantía previsto en el Programa; (ii) trabajos actuales hacia
+            la institución del marco legal del microfinanciamiento de vivienda; y (iii) la
+            busca de fondeo asequible, como el Fundo de Garantia do Tempo de Serviço
+            (FGTS), y/o fondeo internacional.
+
+       c.   Si hay pocas condiciones atractivas para los agentes financieros (primas y
+            nivel de stop loss vs. tasas de incumplimiento y perdidas) y hacen con que el
+                                       - 23 -
+
+
+
+           mecanismo del GMH no tenga el costo esperado, la GMH podría no ser
+           financieramente auto-sostenible. La mitigación de este riesgo podrá incluir
+           subsidios gubernamentales y/o la busca de otros fondeos, nacionales o
+           internacionales, como fondos ambientales, asociando los mejoramientos con
+           componentes de eficiencia energética, por ejemplo.
+
+      d.   Si la Unidad de Gestión del Programa (UGP) se constituye con un equipo que
+           tiene una alta carga de trabajo compartida con otras atribuciones, podría
+           haber retrasos en el cumplimiento contractual que se establezca en el
+           Acuerdo de Préstamo, lo que podría impactar en los calendarios de
+           desembolso del Programa; este riesgo se mitiga con el nombramiento de
+           profesionales de la SNH con cargos y funciones de alto nivel en la UGP para
+           asegurar el nivel de decisión que es clave para la correcta ejecución del
+           Programa y con la contratación de consultores para apoyar al equipo de
+           gestión de la SNH al inicio de la ejecución del Programa, que serán
+           proporcionados por el BID.
+
+                  III.     PLAN DE IMPLEMENTACIÓN Y GESTIÓN
+
+A.    Resumen de los arreglos de implementación
+
+3.1   Prestatario y Organismo Ejecutor (OE). Para la primera operación en la CCLIP,
+      el prestatario será la República Federativa de Brasil, y el OE será el MCID, por
+      medio de la SNH. Los resultados de la PACI indican que la SNH tiene la capacidad
+      necesaria para gestionar las acciones que se llevarán a cabo en el marco de la
+      operación individual; sin embargo, se identificó que el OE necesita fortalecer su
+      capacidad de gestión operativa y fiduciaria. Para ello, se creará una UGP dentro
+      de la estructura de la SNH, compuesta por personal con cargos y funciones de
+      alto nivel (Directoria y Coordinaciones Generales principalmente) para garantizar
+      el nivel de decisión del Programa. Los cargos mínimos son (i) Coordinador/a
+      general; (ii) tres coordinadores/as de componente; y (iii) coordinador/a
+      administrativo y financiero. En complemento, para garantizar un proceso de
+      gestión eficaz, también se prevé la posibilidad de contratación de consultores
+      individuales con experiencia en la ejecución y gestión de proyectos
+      internacionales (ver descripción detallada de la UGP en el EEO#7).
+
+3.2   Mecanismos de ejecución, administración y coordinación del programa. La
+      UGP estará directamente vinculada al Secretario(a) de la SNH, estará dirigida por
+      un(a) Director(a) o un(a) Coordinador(a) y contará con funcionarios de la
+      Secretaría asignados como responsables de los componentes y se encargará de
+      las siguientes funciones y tareas: mantener la comunicación formal con el Banco;
+      preparar los documentos de la planificación operativa; presentar al Banco los
+      informes de progreso y los estados financieros auditados; presentar al Banco las
+      solicitudes de desembolso; y coordinar la gestión, evaluación y supervisión de las
+      actividades y otras acciones de implementación del Programa.
+
+3.3   Aspectos operativos para la ejecución del Componente 2. El mecanismo de
+      GMH creado en el Componente 2 no requiere la creación de un nuevo fondo, ya
+      que será acogido por el FDS, que ya tiene por ley la capacidad de operar
+      mecanismos de garantía para el sector de la vivienda. El FDS, por ley, es operado
+                                                    - 24 -
+
+
+
+          por la CEF, la cual actuará como agente operador del mecanismo de GMH. En
+          este carácter, la CEF acreditará a los agentes financieros (bancos privados o de
+          desarrollo, entre los cuales posiblemente estará la propria CEF como Agente
+          Financiero 20, cooperativas, etc.) capaces de contratar las garantías del programa.
+          Esas garantías estarán relacionadas con microfinanciamientos que estos agentes
+          financieros otorguen a las familias de bajos ingresos para que realicen mejoras en
+          sus viviendas. Los detalles de estos mecanismos de ejecución se describen en el
+          ROP (EEO#7).
+
+3.4       Desembolsos. El programa prevé un total de cinco (5) tramos de desembolsos
+          que se realizarán durante los cinco años del periodo de desembolsos del
+          programa. Cada desembolso será realizado una vez que se haya verificado el
+          cumplimiento de las metas previstas para cada uno de los cinco indicadores
+          (Anexo II. Matriz de Resultados. Indicadores de desembolsos). La verificación del
+          cumplimiento de las metas será realizada por una firma/consultor denominado
+          Entidad Verificadora Independiente (EVI) que deberá: (i) emitir una opinión técnica
+          acerca de la exactitud, confiabilidad y consistencia de la información
+          correspondiente a los resultados; y (ii) determinar el valor de los indicadores de
+          resultado establecidos en cada tramo de desembolsos, realizando el cálculo en
+          los casos en que no existan reportes independientes automáticos. Cada
+          desembolso estará sujeto a dicha verificación independiente, conforme a la
+          política GN-2350-15.
+
+3.5       El procedimiento para desembolsar será: (i) la UGP realizará un informe de
+          avance de la ejecución del programa y del avance de los indicadores de resultados
+          que se utilizarán para los desembolsos, mencionados en el párrafo anterior; (ii) la
+          UGP remitirá dicho informe para la verificación externa de resultados de la EVI
+          que analizará el cumplimiento de los mismos con base en los protocolos
+          establecidos en el Plan de Monitoreo y Evaluación (PME) Enlace Electrónico
+          Requerido (EER)#1; (iii) la EVI confirmará el cumplimiento de los resultados de
+          acuerdo a los objetivos mencionados en el párrafo anterior y en los tiempos que
+          se acuerden en sus términos de referencia; y (iv) una vez verificado el
+          cumplimiento de los resultados de desembolso, la UGP remitirá la solicitud de
+          desembolso correspondiente al Banco. El Banco podrá desembolsar en la cuenta
+          que el prestatario indique, una vez que el resultado de la verificación externa
+          compute que el valor de los indicadores correspondientes sea igual o mayor que
+          la meta establecida. En caso de que sea inferior, se podrá desembolsar en
+          proporción al alcance de la meta. Los saldos no desembolsados podrán
+          reprogramarse en los desembolsos posteriores.
+
+3.6       Requisitos de la EVI. La firma o profesional contratado deberá poseer
+          experiencia en la evaluación y monitoreo de proyectos, manejo de indicadores de
+          resultados y en la evaluación de la confiabilidad de sus fuentes de información y
+          métodos utilizados para producirlos. Los términos de referencia de esta
+          contratación serán previamente acordados con el Banco y los recursos de esta
+          contratación vendrán de la propia operación, de recursos de CT de apoyo al
+
+20    De acuerdo con la legislación local y su Estatutos Social, la Caixa cuenta con una estructura organizativa
+      que separa el área encargada de administrar los fondos establecidos por el Gobierno Federal (entre ellos el
+      fondo FDS, en donde funcionará el mecanismo de garantías apoyado por el Programa) y las áreas operativas
+      de Caixa que desarrollan sus actividades bancarias regulares.
+                                                     - 25 -
+
+
+
+          cliente (ATN/OC-17800-BR, u otra posterior), o de los recursos de supervisión de
+          la operación del Banco.
+
+3.7       Condiciones contractuales especiales previas al primer desembolso del
+          financiamiento. Serán condiciones contractuales especiales previas al
+          primer desembolso del financiamiento: (i) la creación formal de la UGP; y
+          (ii) la aprobación del borrador del ROP, previamente acordado con el Banco.
+
+3.8       Condición contractual especial de ejecución. Sera condición contractual
+          especial de ejecución la contratación de la EVI, de acuerdo con los términos de
+          referencia previamente acordados con el Banco, dentro de los 180 días
+          posteriores a la firma del contrato de préstamo.
+
+3.9       Reglamento Operativo del Programa (ROP). El ROP (EEO#7) detalla la
+          estrategia de ejecución de la operación e incluye: (i) el esquema organizacional
+          del programa; (ii) las funciones de la UGP; (iii) los mecanismos de coordinación y
+          ejecución del programa; (iv) el esquema de rendición de cuentas, monitoreo y
+          evaluación de los resultados; (v) los lineamientos para los procesos financieros,
+          de auditoría y de adquisiciones; y (vi) la gestión de riesgos socioambientales y de
+          integridad del programa.
+3.10      Financiamiento retroactivo. El Banco podrá reconocer retroactivamente con
+          cargo a los recursos del financiamiento, resultados alcanzados por el OE
+          atribuibles al Programa, entre la fecha de aprobación del perfil del proyecto (21 de
+          marzo 2022), hasta la fecha de elegibilidad del préstamo, por un monto de hasta
+          US$5.400.000 (10% del monto del préstamo), siempre que los gastos
+          relacionados al alcance de estos resultados sean elegibles dentro del proyecto y
+          sean atribuibles a la consecución de los correspondientes resultados de
+          desarrollo. El desembolso será sujeto a una verificación independiente del alcance
+          de estos resultados. El esfuerzo del OE en alcanzar de manera temprana algunos
+          resultados del programa se debe al hecho de que son necesarios para el alcance
+          de los otros resultados del programa 21.
+3.11      Desembolso inicial. En el primer tramo de desembolso, el OE solicitó al Banco
+          un desembolso inicial por un monto de US$8.000.000 (14,8% de la propuesta de
+          financiamiento) con el objetivo de proveer recursos para atender las acciones
+          iniciales del Programa, en particular, la constitución del fondo de garantías, que
+          exige un aporte de recursos robusto, para demostrar al mercado un flujo de
+          recursos consistente capaz de atender las demandas presentadas, transmitiendo
+          seguridad en una operación innovadora.
+3.12      Auditorías. Los estados financieros del programa serán auditados anualmente
+          por la Contraloría General de la Unión (CGU) o por una firma de auditoría externa
+          independiente aceptable por el Banco. Los estados financieros auditados serán
+          presentados al Banco en hasta 120 días después del cierre de cada ejercicio
+          económico de la entidad, de conformidad con los procedimientos y los términos
+          de referencia previamente acordados con el Banco.
+
+
+
+21    Es importante notar que varias actividades ya están desarrollándose previamente a la elegibilidad, entre otras
+      cosas gracias al monitoreo constante del equipo del Banco y mediante el apoyo de la cooperación técnica
+      ProMorar (ATN/OC-17800-BR).
+                                         - 26 -
+
+
+
+B.     Resumen de los arreglos para el monitoreo de resultados
+
+3.13   Monitoreo. El MCID será responsable por la recolección de datos y el monitoreo
+       de resultados, que se basarán en: (i) Matriz de Resultados (Anexo II); (ii) Plan de
+       Monitoreo y Evaluación (EER#1); (iii) Matriz de Gestión de Riesgos del Programa
+       (Apéndice I); (iv) Informes Semestrales del Reporte de Monitoreo del Progreso
+       (PMR), preparados por la UGP durante la vida del programa a título de
+       consolidación de los avances, para la revisión por parte del Banco, enviados en
+       los 60 días posteriores al final de cada semestre; y (v) Estados Financieros
+       Auditados del Programa.
+
+3.14   Evaluación. La evaluación del Programa se hará mediante la Matriz de
+       Resultados y el PME, incluyendo la formulación del Informe de Finalización del
+       Programa (PCR). Se realizará una evaluación final que abarcará los aspectos
+       técnicos, administrativos y financieros, así como un análisis costo-beneficio ex
+       post. La evaluación final se realizará cuando los desembolsos alcancen al menos
+       un 90% de los recursos del préstamo y su objetivo será verificar el avance en el
+       cumplimiento de las metas previstas para cada uno de los resultados esperados
+       y la generación de los productos por componente. La evaluación final contendrá
+       también un análisis económico ex post (eficacia en función de los costos) y un
+       análisis de impacto del programa que se llevará a cabo bajo la metodología de
+       diferencias en diferencias, para la identificación del incremento del valor de
+       mercado de los inmuebles beneficiados con las acciones de Financiamiento para
+       Mejoras de Vivienda. Por lo tanto, serán definidos un grupo de control y otro del
+       programa (con acciones para mejoras de vivienda), con muestras
+       estadísticamente representativas (EER#1).
+
+                        IV.       CRITERIOS DE ELEGIBILIDAD
+4.1    Criterios de elegibilidad de la CCLIP. La CCLIP cumple los requerimientos de
+       elegibilidad aplicables para la CCLIP MM-II bajo la Política GN-2246-13 y sus
+       guías operativas (OP-1622-3), dado que: (i) sus objetivos figuran entre las
+       prioridades definidas en la Estrategia de País del Grupo BID con Brasil para
+       2019-2022 (GN-2973) en su prioridad 4 de reducir la desigualdad social y de
+       oportunidades por medio del aumento de la eficiencia de las políticas públicas, en
+       particular implementar políticas eficientes para aumentar el acceso a la vivienda
+       (¶1.12); y (ii) la SEAID actuará como organismo de enlace responsable de
+       coordinar y supervisar el flujo de operaciones de cada sector de la CCLIP (¶2.1).
+
+4.2    Elegibilidad de la primera operación individual bajo la CCLIP. La primera
+       operación cumple con los requisitos aplicables de la política GN-2246-13 dado
+       que: (i) se hizo un análisis de la capacidad institucional del OE, MCID/SNH, de
+       manera completa, por medio de la PACI, y se identificó que tiene la capacidad de
+       ejecución así como las esferas de mejora y los posibles riesgos (¶3.1); (ii) el
+       objetivo de la operación contribuye al logro de los objetivos multisectoriales de la
+       CCLIP al promover nuevas estrategias de atención al déficit de vivienda para
+       familias de bajos ingresos (¶1.15); (iii) la operación está contemplada en los tres
+       sectores de la CCLIP (incentivos a la producción de vivienda, al mejoramiento de
+       vivienda, y fortalecimiento del sector/capacidades/digitalización) (¶2.2); y (iv) se
+       incluyen las acciones que deben emprenderse en las esferas de mejora
+       identificadas en la evaluación de la capacidad institucional (¶3.1).
+                                                                                                                                                                                       Anexo I - BR-L1596
+                                                                                                                                                                                            Página 1 de 1
+
+
+
+
+                                                                       Matriz de Efectividad en el Desarrollo
+                                                                                Resumen             BR-L1596
+I. Prioridades corporativas y del país
+1. Prioridades Estratégicas del Grupo BID e Indicadores del CRF
+
+                                                                                             -Inclusión Social e Igualdad
+                                                                                             -Productividad e Innovación
+                                                                                             -Equidad de Género y Diversidad
+   Retos Regionales y Temas Transversales
+                                                                                             -Cambio Climático
+                                                                                             -Capacidad Institucional y Estado de Derecho
+
+
+
+
+                                                                                             -Beneficiarios de programas destinados a combatir la pobreza (#)
+   Nivel 2 del CRF: Contribuciones del Grupo BID a los Resultados de Desarrollo
+
+
+
+
+2. Objetivos de desarrollo del país
+
+                                                                                                                      Aplicar politicas eficaces para incrementar el acceso a la
+   Matriz de resultados de la estrategia de país                                                     GN-2973
+                                                                                                                      vivienda
+
+
+                                                                                                                      La intervención está incluida en el Programa de Operaciones
+   Matriz de resultados del programa de país                                                        GN-3154-1
+                                                                                                                      de 2023.
+
+
+   Relevancia del proyecto a los retos de desarrollo del país (si no se encuadra
+dentro de la estrategia de país o el programa de país)
+
+II. Development Outcomes - Evaluability                                                                                          Evaluable
+3. Evaluación basada en pruebas y solución                                                                                            10.0
+     3.1 Diagnóstico del Programa                                                                                                      2.5
+     3.2 Intervenciones o Soluciones Propuestas                                                                                        3.5
+     3.3 Calidad de la Matriz de Resultados                                                                                            4.0
+4. Análisis económico ex ante                                                                                                         10.0
+     4.1 El programa tiene una TIR/VPN, o resultados clave identificados para ACE                                                      1.5
+     4.2 Beneficios Identificados y Cuantificados                                                                                      3.0
+     4.3 Supuestos Razonables                                                                                                          2.5
+     4.4 Análisis de Sensibilidad                                                                                                      2.0
+     4.5 Consistencia con la matriz de resultados                                                                                      1.0
+5. Evaluación y seguimiento                                                                                                            9.5
+     5.1 Mecanismos de Monitoreo                                                                                                       4.0
+     5.2 Plan de Evaluación                                                                                                            5.5
+III. Matriz de seguimiento de riesgos y mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                                  Bajo
+Clasificación de los riesgos ambientales y sociales                                                                                    FI
+IV. Función del BID - Adicionalidad
+El proyecto se basa en el uso de los sistemas nacionales
+                                                                                                                      Administración financiera: Presupuesto, Tesorería,
+                                                                                                                      Contabilidad y emisión de informes, Controles externos,
+                                                                                                                      Auditoría interna.
+                                                        Fiduciarios (criterios de VPC/FMP)              Si
+                                                                                                                      Adquisiciones y contrataciones: Sistema de información,
+                                                                                                                      Método de comparación de precios, Contratación de
+                                                                                                                      consultor individual, Licitación pública nacional.
+
+
+
+                                                                           No-Fiduciarios               Sí            Sistema Nacional de Monitoreo y Evaluación.
+
+
+
+La participación del BID promueve mejoras adicionales en los presuntos beneficiarios
+o la entidad del sector público en las siguientes dimensiones:
+
+
+   Antes de la aprobación se brindó a la entidad del sector público asistencia técnica
+adicional (por encima de la preparación de proyecto) para aumentar las                                  Sí            BR-T1436
+probabilidades de éxito del proyecto
+
+
+
+
+Nota de valoración de la evaluabilidad:El objetivo general de la CCLIP es promover nuevas estrategias de vivienda y mejora del hábitat en Brasil, centrándose en la población
+de bajos ingresos, contribuyendo a la aceleración del desarrollo económico y a la reducción de las desigualdades sociales en el país. El objetivo general del primer programa
+bajo la CCLIP es: desde el ámbito federal, dotar a los actores públicos, privados y de la sociedad civil de nuevas herramientas para facilitar y diversificar el acceso a
+soluciones de vivienda de interés social con el fin de aumentar el acceso a una vivienda digna. Los objetivos específicos de la operación son: (i) conectar la oferta y la
+demanda de vivienda, para facilitar el acceso a una vivienda digna; (ii) desarrollar e implementar un Programa Nacional de microfinanciamiento para Mejoramiento de las
+Viviendas sostenible para familias de bajos ingresos, y así reducir el déficit cualitativo de vivienda (inadecuación); y (iii) fortalecer el Plan Nacional de Vivienda y la Política
+Nacional de Vivienda, promoviendo la sostenibilidad socio-ambiental así como la formación de funcionarios de los gobiernos públicos subnacionales, ingenieros, técnicos y
+la diversificación de los programas de Vivienda de Interés Social (HIS).
+
+
+El proyecto presenta un diagnóstico completo; con una descripción precisa del déficit de vivienda cuantitativo y cualitativo en el país, las estrategias nacionales existentes
+para el sector vivienda y los determinantes del problema de desarrollo. Los indicadores asociados al objetivo general y los objetivos específicos incluidos en la matriz de
+resultados son SMART y cuentan con medios de verificación.
+
+
+El análisis económico del proyecto se llevó a cabo mediante un análisis de costo-beneficio (ACB) y se concentra en los beneficios generados por el valor agregado de la
+inversión en viviendas. El ACB cuenta con supuestos razonables y cuenta con un análisis de sensibilidad adecuado. El análisis concluye que el proyecto es económicamente
+viable. La Tasa Interna de Retorno (TIR) es 36.7% utilizando una tasa de descuento del 12%.
+
+
+El proyecto incluye un plan de monitoreo y evaluación acorde los estándares del Banco. La efectividad de la intervención propuesta se medirá mediante una evaluación de
+impacto que utiliza la metodología de diferencias en diferencias para el indicador de impacto y un análisis de antes y después para los indicadores de resultado,
+adicionalmente se hará un análisis económico ex post para medir eficiencia.
+                                                                                                                                                       Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                                       Página 1 de 11
+
+                                                                                Matriz de Resultados
+
+                                     Los objetivos específicos de esta operación son: (i) conectar la oferta y la demanda de vivienda, para facilitar el acceso a una vivienda digna;
+                                     (ii) desarrollar e implementar un programa nacional de microfinanciamiento para mejoramiento sostenible de las viviendas para familias de bajos
+Objetivo del Proyecto:               ingresos, y así reducir el déficit cualitativo de vivienda (inadecuación); y (iii) fortalecer el Plan Nacional de Vivienda y la Política Nacional de
+                                     Vivienda, promoviendo la sostenibilidad socio-ambiental así como la formación de funcionarios de los gobiernos públicos subnacionales,
+                                     ingenieros, técnicos y la diversificación de los programas de HIS.
+
+
+                                                                            Objetivo General de Desarrollo
+
+                                                                 Línea
+                                                Unidad de                    Año esperado
+              Indicadores                                         de                                       Meta            Medios de Verificación                Comentarios
+                                                 Medida                      para el Logro
+                                                                 Base
+Objetivo General de Desarrollo: Desde el ámbito federal, dotar a los actores públicos, privados y de la sociedad civil de nuevas herramientas para facilitar y diversificar acceso
+a soluciones de vivienda de interés social, con el fin de aumentar el acceso a una vivienda digna.
+Indicador 1           Valoración de             Porcentaje         0              2027                      10           Informe de la investigación    Al principio y al final del
+                      los inmuebles             Valorización                                                             de campo realizada por la      proyecto serán realizadas
+                      tras las                                                                                           SNH                            investigaciones de campo con
+                      intervenciones                                                                                                                    metodología de precios
+                      concluidas                                                                                                                        hedónicos
+
+
+                                                                          Objetivos de Desarrollo Específicos
+
+                                                                                                                                          Indicador
+                                          Línea
+                        Unidad de                                                                             Fin del     Medios de          para
+   Indicadores                             de          Año 1     Año 2      Año 3        Año 4     Año 5                                                         Comentarios
+                         Medida                                                                              Proyecto    Verificación    desembolso
+                                          Base
+                                                                                                                                            (si/no)
+Objetivo específico de desarrollo 1. Conectar la oferta y la demanda de vivienda, para facilitar el acceso a una vivienda digna.
+Indicador 1.1 -             Unidad          0          1.000     90.000    150.000     180.000    194.000    615.000      Informe del         No
+Unidades de                                                                                                                 Sistema
+vivienda
+registradas en la
+plataforma.
+                                                                                                                                Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                Página 2 de 11
+
+
+                                                          Objetivos de Desarrollo Específicos
+
+                                                                                                                    Indicador
+                                 Línea
+                     Unidad de                                                            Fin del    Medios de         para
+   Indicadores                    de     Año 1   Año 2      Año 3     Año 4     Año 5                                                     Comentarios
+                      Medida                                                             Proyecto   Verificación   desembolso
+                                 Base
+                                                                                                                      (si/no)
+Indicador 1.2 -       Unidad      0      7.000   25.000     40.000    50.000    30.000   152.000    Informe del       No         Se consideran como
+Unidades de                                                                                           Sistema                    informaciones ambientales
+viviendas                                                                                                                        aquellas incluidas en la lista
+registradas en la                                                                                                                verde desarrollada para esta
+plataforma con                                                                                                                   operación (Ventilación e
+informaciones                                                                                                                    Iluminación natural,
+medioambientales                                                                                                                 iluminación eficiente y
+establecidas.
+                                                                                                                                 dispositivos economizadores
+                                                                                                                                 de agua).
+Indicador 1.3 -       Familias    0       0      1.000     279.491   239.850   279.159   799.500    Informe del        Sí        Este indicador representa el
+Familias                                                                                              Sistema                    universo de familias
+registradas en la                                                                                                                registradas en la plataforma .
+plataforma.
+Indicador 1.4 –       Unidad      0      7.000   25.000     40.000    50.000    30.000   152.000    Informe del       No         Indicador Pro-Género y
+Jefes de familia                                                                                      Sistema                    Pro-Etnicidad. Este indicador
+registrados en la                                                                                                                registra un subuniverso del
+plataforma con                                                                                                                   indicador anterior, que
+informaciones                                                                                                                    corresponde al total de familias
+sobre género,                                                                                                                    integrando el nuevo programa
+discapacidad, raza                                                                                                               de mejoramiento (del
+y etnia.                                                                                                                         Componente 2). Cabe
+                                                                                                                                 destacar que: (i) estos datos
+                                                                                                                                 se presentarán de forma
+                                                                                                                                 desagregada, ya que la Base
+                                                                                                                                 de Datos permitirá este tipo de
+                                                                                                                                 control (los datos estarán
+                                                                                                                                 disponibles al nivel del
+                                                                                                                                 individuo, pudiendo incluso
+                                                                                                                                 generar estadísticas sobre
+                                                                                                                                 todos los miembros de la
+                                                                                                                                 familia); (ii) Este indicador
+                                                                                                                                 permitirá la producción de
+                                                                                                                                 estadísticas nacionales, que a
+                                                                                                                                 su vez subsidiarán la
+                                                                                                                                 formulación de políticas
+                                                                                                                                 públicas inclusivas de vivienda,
+                                                                                                                                         Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                         Página 3 de 11
+
+
+                                                                  Objetivos de Desarrollo Específicos
+
+                                                                                                                             Indicador
+                                    Línea
+                      Unidad de                                                                    Fin del    Medios de         para
+   Indicadores                       de        Año 1      Año 2     Año 3      Año 4     Año 5                                                     Comentarios
+                       Medida                                                                     Proyecto   Verificación   desembolso
+                                    Base
+                                                                                                                               (si/no)
+                                                                                                                                          en la medida en que está
+                                                                                                                                          vinculado al indicador de
+                                                                                                                                          producto 3.5.
+Objetivo específico de desarrollo 2. Desarrollar e implementar un programa nacional de microfinanciamiento para mejoramiento sostenible de las viviendas para
+familias de bajos ingresos, y así reducir el déficit cualitativo de vivienda (inadecuación).
+Indicador 2.1 -         Número         0       7.000     25.000     40.000    50.000     30.000   152.000      Informe de        Sí       Indicador de Desembolso +
+Número de                                                                                                         Caixa                   CRF 2.3 Beneficiarios de
+contratos de                                                                                                     (Agente                  programas focalizados contra
+garantía de                                                                                                    Operador)                  la pobreza (#).
+microfinanciamiento                                                                                           para la SNH
+para mejoramiento
+de viviendas
+firmados.
+Indicador 2.2 -       Unidades de      0         0        5.000     15.000    30.000     55.000   105.000     Informe de         No       La mejora se entiende como
+Unidades de            Vivienda                                                                              Caja (Agente                 pequeñas reformas en las
+viviendas con                                                                                                 Operador)                   viviendas de bajos ingresos
+obras de mejoras                                                                                             para la SNH                  que tienen como objetivo
+concluidas.                                                                                                                               resolver los problemas
+                                                                                                                                          relacionados con la
+                                                                                                                                          inadecuación.
+
+
+
+Objetivo específico de desarrollo 3. Fortalecer el Plan Nacional de Vivienda y la Política Nacional de Vivienda, promoviendo la sostenibilidad socio-ambiental, así como
+la formación de funcionarios de los gobiernos públicos subnacionales, ingenieros, técnicos y la diversificación de los programas de HIS.
+Indicador 3.1 –       Evaluación       0         0          0         0          0         1            1     Informe del        Sí       Indicador de Desembolso.
+Evaluación del                                                                                                Sistema de                  La evaluación medirá los
+primer ciclo del                                                                                              Monitoreo y                 avanzos cualitativos de la
+PlanHab 2040                                                                                                   Evaluación
+                                                                                                                                          implementación del plan.
+realizada con                                                                                                 del PlanHab
+valoración                                                                                                                                Este indicador considerará la
+satisfactoria.                                                                                                                            inclusión de la perspectiva de
+                                                                                                                                          cambio climático en forma
+                                                                                                                                          transversal.
+                                                                                                                                         Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                         Página 4 de 11
+
+
+                                                                 Objetivos de Desarrollo Específicos
+
+                                                                                                                             Indicador
+                                         Línea
+                        Unidad de                                                                Fin del     Medios de          para
+   Indicadores                            de     Año 1   Año 2     Año 3     Año 4     Año 5                                                       Comentarios
+                         Medida                                                                 Proyecto    Verificación    desembolso
+                                         Base
+                                                                                                                               (si/no)
+Indicador 3.2 -            # de           0%      0%     2,96%     5,92%     5,92%     4,94%     19,74%     Informe de la      No
+Porcentaje de         profesionales                                                                             UGP
+profesionales         que emitieron
+capacitados que       registro / total
+emitieron registro      personas
+de Anotación de        capacitadas
+Responsabilidad
+Técnica - ART y/o
+Registro de
+Responsabilidad
+Técnica - RRT de
+obras de mejoras
+contratadas con
+garantías.
+Indicador 3.3 -         # gobiernos       0%      0%     15%        15%        0%        0%       30%       Certificado        No         Indicador Pro-Género y
+Porcentaje de         subnacionales                                                                        Emitido por la                 Pro-Etnicidad.
+gobiernos               con cuadro                                                                             SNH                        Los certificados podrán ser
+subnacionales con        ejecutivo                                                                                                        emitidos en colaboración con
+cuadro ejecutivo        capacitado /                                                                                                      una institución académica por
+capacitado en         total gobiernos                                                                                                     definir.
+género, diversidad,   subnacionales
+sostenibilidad
+socioambiental y
+cambio climático.
+                                                                                                                                                                        Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                                                        Página 5 de 11
+
+                                                                        Matriz de Indicadores para el Desembolso - US$ mil
+
+                                                Año 1                               Año 2                    Año 3                    Año 4                     Año 5                Fin del proyecto
+                       Línea
+                                Desembolso
+   Indicadores          de
+                                   inicial /                  Monto                     Monto                    Monto                    Monto                     Monto                      Monto
+                       base                        Meta                     Meta                      Meta                    Meta                      Meta                       Meta
+                               Financiamiento                asociado                  asociado                 asociado                 asociado                  asociado                   asociado
+                                 retroactivo
+Desembolso               0          8.000 1        N/A           0           N/A            0         N/A            0         N/A             0         N/A             0          N/A         8.000
+Inicial
+
+Indicador #1 -           0            0              0           0          1.000       1.000       279.491       1.000      239.850          570 2    279.159          285 3     799.500       2.855
+Familias
+registradas en la
+plataforma
+habitacional.
+Indicador #2 -           0            0           7.000       10.400       25.000       15.000       40.000       5.100      50.000        4.600       30.000            04       152.000      35.100
+Número de contratos
+de garantía de
+microfinanciamiento
+para mejoramiento
+de viviendas
+firmados.
+Indicador #3 5 -         0          5.300            1           0            0             0           0            0          0              0          0              0           1          5.300
+Mecanismo de
+concesión de
+garantías para
+mejoras de las
+viviendas instituido
+de acuerdo con la
+legislación local.
+
+
+
+
+   1
+        Desembolso inicial. En el primer tramo de desembolso, el organismo ejecutor solicitó al Banco un desembolso inicial por un monto de US$8 millones (14,8% de la propuesta de préstamo)
+        con el objetivo de proveer recursos para atender las acciones iniciales del Programa, en particular, la constitución del fondo de garantía, que exige un aporte de recursos robusto, tanto para
+        impulsar la propia operación de garantía, como para demostrar al mercado un flujo de recursos consistente capaz de atender las demandas presentadas, transmitiendo seguridad en una
+        operación innovadora. Esos recursos van a ser desembozados con la asignación del Contrato de Préstamo.
+   2
+        El monto completo es US$570.925,00.
+   3
+        El adelanto de US$200 mil se está descontando de este último desembolso. Aun cuando no corresponde a un desembolso, el prestatario deberá entregar el informe de la verificación
+        independiente de los resultados.
+   4
+        El adelanto de US$7.800.000 se está descontando de este último desembolso. Aun cuando no corresponde a un desembolso, el prestatario deberá entregar el informe de la verificación
+        independiente de los resultados.
+   5
+        Según la política del instrumento PBR los indicadores de desembolso también pueden comprender indicadores de productos vinculados al fortalecimiento de los sistemas nacionales, y la
+        capacidad de planificación y monitoreo, si están vinculados a la consecución general de los resultados previstos. De esta forma, este indicador, por ser un indicador de fortalecimiento
+        institucional (y vinculado a un indicador de resultado del OE2 — indicador #2), puede ser considerado un indicador de desembolso.
+                                                                                                                                                                        Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                                                        Página 6 de 11
+
+                                                                         Matriz de Indicadores para el Desembolso - US$ mil
+
+                                                Año 1                              Año 2                     Año 3                    Año 4                     Año 5                Fin del proyecto
+                       Línea
+                                Desembolso
+   Indicadores          de
+                                   inicial /                  Monto                     Monto                    Monto                    Monto                     Monto                       Monto
+                       base                        Meta                     Meta                      Meta                     Meta                      Meta                      Meta
+                               Financiamiento                asociado                  asociado                 asociado                 asociado                  asociado                    asociado
+                                 retroactivo
+Indicador #4 -           0             0             0           0            0            0            0            0           0            0            1            400          1            400
+Evaluación de
+primer ciclo del
+PlanHab 2040
+realizada con
+valoración
+satisfactoria.
+Indicador #5 –           0           100 7           1           0            2            600          1          1000          1            700          0             0           5           2.400
+Estudios realizados
+para fundamentar
+la reformulación de
+la política nacional
+de vivienda 6.
+
+
+Total del monto                     13.400                    10.400                    16.600                    7.100                     5.870                       685                     54.055
+asociado 8
+
+
+
+
+   6
+        Este indicador tiene la misma naturaleza de fortalecimiento institucional y por eso, aunque sea de producto, también es de desembolso. Él es un prerrequisito institucional para lograr los
+        resultados del indicador #4.
+   7
+        Financiamiento de resultados anteriores (financiamiento retroactivo). Se puede permitir el financiamiento de resultados alcanzados anteriormente en el PBR tal como se prevé en la
+        política de PBR (documento GN-2869-1). Puede ser necesario que algunos resultados se hayan alcanzado antes de la aprobación de una operación de PBR, como el establecimiento de
+        sistemas para recopilar línea de base, arreglos para el Monitoreo y Evaluación (M&E), y resultados relativos al fortalecimiento de la capacidad institucional necesarios para la implementación.
+        En tales casos, el Banco podrá financiar y desembolsar con base en los DLIs alcanzados antes de la elegibilidad del proyecto PBR. El monto total de dicho financiamiento no deberá exceder
+        el 15% del financiamiento del Banco.
+   8
+        Los montos en esta tabla corresponden al financiamiento BID. A estos se suma el valor de US$500 mil financiados por la contrapartida, todos asociados al Indicador #5.
+                                                                                                                                        Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                        Página 7 de 11
+
+
+                                                       Protocolo de verificación de indicadores para el desembolso
+
+                           Definición/metodología
+     Indicadores                                                Medio de verificación            Entidad verificadora              Protocolo de verificación
+                                de estimación
+Desembolso Inicial        El financiamiento               Firma y elegibilidad de la       N/A                          N/A
+                          suministrado como               Operación
+                          desembolso inicial tiene
+                          como objeto ayudar al
+                          organismo ejecutor a iniciar
+                          las actividades necesarias
+                          para alcanzar los
+                          resultados acordados.
+Indicador #1 - Familias   Consiste en el número de        Informe del Sistema.             Consultor o empresa          El informe de verificación del sistema posibilita
+registradas en la         familias registradas en la                                       verificadora                 al ejecutor contar el número de familias que
+plataforma.               Plataforma en el período                                                                      están registradas en la plataforma .
+                          de ejecución del programa
+Indicador #2 - Número     Consiste en el número de        Informe de Caixa (Agente         Consultor o empresa          Agente Operador recoge los datos del número
+de contratos de           contratos de garantía de        Operador) para la SNH            verificadora                 de contratos de garantía de microfinanciación
+garantía de               microfinanciamiento para                                                                      para mejoras de las viviendas y prepara un
+microfinanciamiento       mejoras de las viviendas                                                                      informe que es enviado para la SNH. La SNH
+para mejoramiento de      firmados por prestatarios.                                                                    valida el informe enviado con el volumen de
+viviendas firmados.                                                                                                     recurso que se hace disponible y un agente
+                                                                                                                        externo audita (consultor o consultoría externa).
+Indicador #3 -            Consiste en la                  Resolución del Consejo Curador   Consultor o empresa          Verificación del instrumento legal que constituye
+Mecanismo de              institucionalización del        del FDS publicada en el DOU      verificadora                 el mecanismo de Garantías para Mejoras de las
+concesión de Garantías    mecanismo de Garantías          (Diario Oficial de Brasil)                                    viviendas.
+para Mejoras de las       para Mejoras de las
+viviendas instituido de   viviendas (GMH por su
+acuerdo con la            sigla en portugués)
+legislación local.        aprobado por el Consejo
+                          Curador del Fondo de
+                          Desarrollo Social (FDS). Es
+                          el instrumento legal de
+                          constitución de esta GMH.
+                                                                                                                                       Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                       Página 8 de 11
+
+
+                                                    Protocolo de verificación de indicadores para el desembolso
+
+                           Definición/metodología
+      Indicadores                                             Medio de verificación             Entidad verificadora              Protocolo de verificación
+                                de estimación
+Indicador #4 -            El PlanHab establece           Informe del Sistema de Monitoreo   Consultor o empresa        La verificación tendrá lugar con la conferencia
+Evaluación de primer      ciclos de evaluación a cada    y Evaluación del PlanHab           verificadora               del informe del sistema de monitoreo y
+ciclo del Plan Nacional   ciclo del nuevo PPA.                                                                         evaluación del PlanHab.
+de Vivienda - PlanHab     Consiste en la realización                                                                   La evaluación debe realizarse de manera
+2040 realizada con        del primer ciclo de                                                                          cualitativa, considerando si los avances están de
+valoración                evaluación que deberá ser                                                                    acuerdo con el plan y si se han implementado los
+satisfactoria.            realizado en conjunto con                                                                    estudios y proyectos planificados hasta la fecha.
+                          el PPA.                                                                                      La evaluación tendrá una metodología con
+                                                                                                                       medición métrica con al menos 4 categorías
+                                                                                                                       excelente/satisfactorio/ regular / insatisfactorio.
+                                                                                                                       Se busca evaluar los avanzos cualitativos de la
+                                                                                                                       implementación del plan.
+Indicador #5 - Estudios   El Plan Nacional de            Informes entregados / Notas        Consultor o empresa        La verificación tendrá lugar con la aprobación del
+realizados para           Vivienda – PlanHab es el       Técnicas de aprobación de los      verificadora               Gobierno Federal de los Estudios del Plan
+fundamentar la            principal instrumento de       Informes                                                      Nacional de Vivienda – PlanHab 2040.
+reformulación de la       planificación de la política
+política nacional de      nacional de vivienda del
+vivienda.                 Gobierno Federal. Estudios
+                          sectoriales orientarán sus
+                          directrices generales.
+                                                                                                                                        Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                        Página 9 de 11
+
+
+                                                                                Productos
+
+                                                     Unidad de      Línea de base               Año
+                   Productos                                                                                      Meta                Fuente de verificación
+                                                      Medida        Valor    Año    1       2    3      4   5
+Componente 1. Plataforma de gestión de la demanda y oferta de viviendas
+1.1. Solución de BI implementada.                    #Solución              2022    0       1    1      1   0       3     Documento de recibimiento definitivo del
+                                                                                                                          servicio/proceso emitido por la SNH.
+
+1.2. Plan de gobernanza de la plataforma.              #Plan         0      2022    1       0    0      0   0       1     Documento de recibimiento definitivo del
+                                                                                                                          servicio/proceso emitido por la SNH.
+1.3. Servicios del sistema de gestión de la         #Número de              2022    0       2    5      5    0     12     Documento de recibimiento definitivo del
+demanda y oferta de viviendas (plataforma)           Servicios                                                            servicio/proceso emitido por la SNH.
+implementado.
+Componente 2. Programa de Financiamiento a la Mejora de Viviendas
+2.1. Sistema de gobernanza de mejoras de las         #Sistema        0      2022    1       0    0      0    0      1     Documento de recibimiento definitivo del
+viviendas implementado.                                                                                                   servicio/proceso emitido por la SNH.
+2.2. Mecanismo de concesión de Garantías para       #Mecanismos      0      2022    1       0    0      0    0      1     Resolución del Consejo Curador del FDS
+Mejoras de las viviendas instituido de acuerdo                                                                            publicada en el DOU (Diario Oficial de Brasil).
+con la legislación local (indicador de
+desembolso).
+2.3. Agentes financieros operacionales en el        #Número de       0      2022    0       0    0      0    1      1     Informe de Caixa (Agente Operador).
+programa establecidos.                                Agentes
+2.4 Creación de un sistema de estadísticas           #Sistema        0      2022    1       0    0      0    0      1     Documento de recibimiento definitivo del
+sobre mejoramiento de viviendas verdes (con                                                                               servicio/proceso emitido por la SNH.
+atributos de impacto ambiental y cambio
+climático).
+Componente 3. Estudios, herramientas y desarrollo de capacidades para la revisión de la planificación, la promoción de la sostenibilidad socioambiental y
+diversificación de los programas de HIS
+3.1. Estudios realizados para fundamentar la           #Plan         0      2022    1       1    2      1    0      5     Informes entregados / Notas Técnicas de
+reformulación de la política nacional de vivienda                                                                         aprobación de los informes emitidas por la
+(indicador de desembolso).                                                                                                SNH.
+3.2. Profesionales de arquitectura e ingeniería     #Número de       0      2022    0   1.520   1.520   0    0    3.040   Informes entregados / Notas Técnicas de
+capacitados en mejoras de las viviendas con         Profesionales                                                         aprobación de los informes emitidas por la
+sostenibilidad socioambiental y climática.                                                                                SNH.
+
+3.3. Agentes públicos capacitados en temas          #Número de       0      2022    0   1.000   1.000   0    0    2.000   Acreditaciones emitidas por la SNH.
+relacionados a la sostenibilidad socioambiental       agentes
+y cambio climático empleados en la política de
+vivienda.
+                                                                                                                                 Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                Página 10 de 11
+
+
+                                                                            Productos
+
+                                                    Unidad de   Línea de base               Año
+                   Productos                                                                                Meta               Fuente de verificación
+                                                     Medida     Valor    Año    1       2    3      4   5
+3.4. Agentes públicos capacitados en temas         #Número de    0      2022    0   1.000   1.000   0   0   2.000   Acreditaciones emitidas por la SNH.
+relacionados a género y diversidad empleados         agentes
+en la política de vivienda.
+3.5. Estudio técnico con diagnóstico y propuesta    #Estudio     0      2022    0       0    0      1   0    1      Informes entregados / Notas Técnicas de
+de política y recomendaciones para facilitar el                                                                     aprobación de los informes emitidos por la
+acceso de las mujeres al microcrédito para                                                                          SNH.
+vivienda con un enfoque interseccional.
+                                                                                                                                                                   Anexo II – BR-O0014; BR-L1596
+                                                                                                                                                                                  Página 11 de 11
+
+                                                                                Visión General del Programa
+                                                                   Indicador Resultado 1.1 - Unidades de                             Indicador producto 1.1 - Solución de BI implementada.
+                                                                   vivienda registradas en la plataforma
+                                                                   habitacional.
+                                                                   Indicador Resultado 1.2 - Unidades de                             Indicador producto 1.2 - Plan de gobernanza de la plataforma.
+                                                                   viviendas registradas en la plataforma
+                                     Objetivo específico de        habitacional con informaciones                Componente 1.
+                                     desarrollo 1. Conectar        medioambientales establecidas.                Plataforma de
+                                     la oferta y la demanda                                                      gestión de la
+                                     de vivienda, para facilitar   Indicador Resultado 1.3 - Familias            demanda y           Indicador producto 1.3 - Servicios del sistema de gestión de la
+                                     el acceso a una vivienda      registradas en la plataforma habitacional     oferta de           demanda y oferta de viviendas (plataforma habitacional)
+                                     digna.                        (Indicador de Desembolso).                    viviendas           implementado.
+                                                                   Indicador Resultado 1.4 – Jefes de
+                                                                   familia registrados en la plataforma
+Objetivo                                                           habitacional con informaciones sobre
+General de                                                         género, discapacidad, raza y etnia.
+Desarrollo:                                                        (Indicador Pro-Género y Pro-Etnicidad).
+Desde el ámbito                      Objetivo específico de        Indicador Resultado 2.1 - Número de                               Indicador producto 2.1 - Sistema de gobernanza de mejoras de
+federal, dotar a                     desarrollo 2.                 contratos de garantía de                                          las viviendas implementado.
+los actores                          Desarrollar e                 microfinanciamiento para mejoramiento de                          Indicador producto 2.2 - Mecanismo de concesión de Garantías
+públicos,                            implementar un                viviendas firmados (Indicador de                                  para Mejoras de las viviendas Instituido de acuerdo con la
+                    INDICADOR
+privados y de la                     programa nacional de          Desembolso + CRF 2.3 Beneficiarios de         Componente 2.       legislación local (Indicador de Desembolso).
+                    DE
+sociedad civil de                    microfinanciamiento           programas focalizados contra la pobreza).     Programa de
+                    IMPACTO:
+nuevas                               para mejoramiento             Indicador Resultado 2.2 - Unidades de         financiamiento      Indicador producto 2.3 - Agentes financieros operacionales en el
+                    Valoración de
+herramientas                         sostenible de las             viviendas con obra de mejoras concluida.      a la mejora de      programa establecidos.
+                    los inmuebles
+para facilitar y                     viviendas para familias                                                     viviendas
+                    tras las                                                                                                         Indicador producto 2.4 - Creación de un sistema de estadísticas
+diversificar el                      de bajos ingresos, y así
+                    intervenciones                                                                                                   sobre mejoramiento de viviendas verdes (con atributos de impacto
+acceso a                             reducir el déficit
+                    concluidas.                                                                                                      ambiental y cambio climático).
+soluciones de                        cualitativo de vivienda
+viviendas de                         (inadecuación).
+interés social,                                                    Indicador Resultado 3.1 – Evaluación del                          Indicador producto 3.1 - Estudios realizados para fundamentar la
+con el fin de                                                      primer ciclo del PlanHab 2040 realizada                           reformulación de la política nacional de vivienda (Indicador de
+aumentar el                          Objetivo específico de
+                                                                   con valoración satisfactoria (Indicador de                        Desembolso).
+acceso a una                         desarrollo 3. Fortalecer                                                    Componente 3.
+                                                                   Desembolso).
+vivienda digna.                      el Plan Nacional de                                                         Estudios,
+                                     Vivienda y la Política        Indicador Resultado 3.2 - Porcentaje de       herramientas y      Indicador producto 3.2 - Profesionales de arquitectura e
+                                     Nacional de Vivienda,         profesionales capacitados que emitieron       capacitación        ingeniería capacitados en mejoras de las viviendas con
+                                     promoviendo la                registro de Anotación de Responsabilidad      para revisión de    sostenibilidad socioambiental y climática.
+                                     sostenibilidad                Técnica - ART y/o Registro de                 la planificación,   Indicador producto 3.3 -. Agentes públicos capacitados en temas
+                                     socio-ambiental, así          Responsabilidad Técnica - RRT de obras        promoción de la     relacionados a la sostenibilidad socioambiental y cambio climático
+                                     como la formación de          de mejoras contratadas con garantías.         sostenibilidad      empleados en la política de vivienda.
+                                     funcionarios de los           Indicador Resultado 3.3 - Porcentaje de       socioambiental      Indicador producto 3.4 - Agentes públicos capacitados en temas
+                                     gobiernos públicos            gobiernos subnacionales con cuadro            y diversificación   relacionados a género y diversidad empleados en la política de
+                                     subnacionales,                ejecutivo capacitado en género, diversidad,   de los              vivienda (Indicador Pro-Género y Pro-Etnicidad).
+                                     ingenieros, técnicos y la     sostenibilidad socioambiental y cambio        programas de
+                                                                                                                                     Indicador producto 3.5 - Estudio técnico con diagnóstico y
+                                     diversificación de los        climático (Indicador Pro-Género y             HIS
+                                                                                                                                     propuesta de política y recomendaciones para facilitar el acceso
+                                     programas de HIS.             Pro-Etnicidad).                                                   de las mujeres al microcrédito para vivienda con un enfoque
+                                                                                                                                     interseccional (Indicador Pro-Género y Pro-Etnicidad).
+                                                                           Anexo III – BR-O0014; BR-L1596
+                                                                                            Página: 1 de 5
+
+
+
+                           Anexo III. Acuerdos y Requisitos Fiduciarios
+
+ País: Brasil      División: HUD       No. de operación: BR-O0014; BR-L1596           Año: 2023
+
+Organismo Ejecutor (OE): Ministerio de las Ciudades (MCID) por medio de la Secretaría Nacional de
+la Vivienda (SNH).
+Nombre de la Operación: Línea de Crédito Condicional para Proyectos de Inversión (CCLIP)
+“ProMorar” (BR-O0014); y Primera Operación Individual bajo la línea “ProMorar Brasil - Promoción de
+Nuevas Estrategias de Vivienda en Brasil para la Población de Bajos Ingresos” (BR-L1596).
+                          I. Contexto fiduciario del Organismo Ejecutor
+1. Uso de sistema de país en la operación (Cualquier sistema o subsistema que sea aprobado con
+posterioridad podría ser aplicable a la operación, de acuerdo con los términos de la validación del
+Banco).
+
+    Presupuesto       Reportes             Sistema Informativo         Licitación Pública Nacional
+                                                                    (LPN)
+
+    Tesorería          Auditoría           Comparación de               Otros
+                   Interna              Precios
+
+    Contabilidad      Control              Consultores                  Otros
+                   Externo              Individuales
+
+2. Mecanismo de ejecución fiduciaria
+
+      Particularidades La operación corresponde a la primera operación bajo el Préstamo de
+      de la ejecución Inversión Basado en Resultados (PBR) - Línea de Crédito Condicional para
+      fiduciaria       Proyectos de Inversión (CCLIP) PROMORAR - BR-O0014, cuyo prestatario
+                       será la República Federativa del Brasil. La ejecución del Programa estará a
+                       cargo del Ministerio de las Ciudades (MCID) a través de la Secretaria
+                       Nacional de Vivienda (SNH), quien será responsable de la gestión financiera
+                       y de adquisiciones, desembolsos, registros y estados financieros del
+                       Programa. Para gestionar los desembolsos del Programa, el OE realizará un
+                       informe de avance de la ejecución del Programa y de los indicadores de
+                       resultados que se utilizarán para desembolsos y someterá dicho informe a la
+                       verificación externa de resultados, a fin de analizar el cumplimiento de éstos,
+                       con base en los protocolos establecidos en el Reglamento Operativo del
+                       Programa (ROP). Evaluador externo independiente verificará el
+                       cumplimiento de los resultados de acuerdo con los objetivos establecidos y
+                       en los tiempos que se acuerden en los Términos de Referencia (TDR)
+                       acordados con el Banco Interamericano de Desarrollo (BID) para tal efecto.
+                       Una vez verificado el cumplimiento de los resultados de desembolso, el OE
+                       remitirá la correspondiente solicitud de desembolsos al BID, quien procederá
+                       al reembolso de los gastos y depositará los recursos en una subcuenta de la
+                       Cuenta Única del Tesoro (CUT), designada por la Secretaria del Tesoro
+                       Nacional. El Banco desembolsará el monto correspondiente a cada indicador
+                       sólo si el resultado de la verificación externa demuestra que el valor del
+                       indicador es igual o mayor que la meta establecida. En caso de que sea
+                       inferior, podrá desembolsar parcialmente en proporción al alcance de la
+                       meta. Los saldos no utilizados podrán reprogramarse en los desembolsos
+                       sucesivos.
+                                                                            Anexo III – BR-O0014; BR-L1596
+                                                                                             Página: 2 de 5
+
+
+3. Capacidad fiduciaria
+
+ Capacidad fiduciaria     En cumplimiento con la política GN-2869-1, el Banco aplicó la Plataforma de
+ del OE                   Análisis de la Capacidad Institucional (PACI), obteniendo resultados
+                          satisfactorios. El OE cuenta con sistemas fiduciarios desarrollados y
+                          suficientes para asegurar una gestión que acompañe la ejecución y logro de
+                          los resultados esperados. Por lo tanto, el riesgo fiduciario es bajo. No
+                          obstante, lo anterior, se definirán en el ROP las acciones que permitan
+                          asegurar un adecuado control interno del Programa.
+
+4. Riesgos fiduciarios y respuesta al riesgo
+
+   Taxonomía del                                             Nivel de
+                                     Riesgo                                   Respuesta al riesgo
+      Riesgo                                                  riesgo
+
+ Económico                En un PBR, el OE debe Medio-Bajo                 Una            articulación
+ financiero               disponer del flujo de caja                       tempestiva     con      los
+                          necesario para cubrir los                        responsables     por      el
+                          gastos que garanticen los                        presupuesto del MCID.
+                          resultados pretendidos en el
+                          programa. Si no se hace una
+                          adecuada           planificación
+                          financiera garantizada por una
+                          oportuna       y      suficiente
+                          asignación       presupuestaria
+                          anual, el alcance de los
+                          resultados y el flujo de los
+                          desembolsos pueden retrasar.
+
+ Estructura               Falta de conocimiento de los Medio-Bajo          Proveer       asesoría     y
+ organizacional           requerimientos em gestión                        capacitación      a      los
+                          fiduciaria del Banco pueden                      profesionales fiduciarios de
+                          resultar en retrasos en la                       la UGP en las políticas y
+                          elaboración de los informes                      procedimientos del Banco.
+                          financieros.                                     Además de esto, incorporar
+                                                                           los    detalles    de    los
+                                                                           requerimientos financieros
+                                                                           en el ROP.
+
+5. Políticas y Guías aplicables a la operación: Para la gestión financiera del Programa se utilizará la
+Guía de Gestión Financiera para Proyectos Financiados por el BID (OP-273-12).
+
+6. Excepciones a Políticas y Guías: No aplica
+
+ II. Aspectos a ser considerados en las Estipulaciones Especiales del Contrato de Préstamo
+
+ Condiciones especiales previas al primer desembolso: serán condiciones contractuales especiales
+ previas al primer desembolso del financiamiento: (i) la creación de la Unidad de Gestión del
+ Programa (UGP) por designación del Ministro del MCID; y (ii) la aprobación del borrador del ROP,
+ previamente acordado con el Banco (¶3.7).
+                                                                             Anexo III – BR-O0014; BR-L1596
+                                                                                              Página: 3 de 5
+
+
+
+ Tasa de cambio: Para efectos de lo estipulado en el Artículo 4.10 de las Normas Generales, las
+ Partes acuerdan que la tasa de cambio aplicable será la indicada en el inciso (b)(ii) de dicho Artículo.
+ Para dichos efectos, la tasa de cambio acordada será la tasa de cambio en la fecha efectiva en que
+ el Prestatario, el Organismo Ejecutor o cualquier otra persona natural o jurídica a quien se le haya
+ delegado la facultad de efectuar gastos, efectúe los pagos respectivos en favor del contratista,
+ proveedor o beneficiario.
+
+ Tipo de Auditoría: Estados Financieros Auditados (EFA) - Se requiere su presentación dentro de los
+ siguientes 120 días del cierre de cada ejercicio fiscal, y durante el plazo para desembolsos del
+ Préstamo. El último informe será presentado dentro de los 120 días siguientes a la fecha estipulada
+ para el último desembolso del Préstamo, e incluirá un análisis de las posibles diferencias entre los
+ costos reales del programa y los montos desembolsados. Los términos de referencia deben ser
+ acordados con el Banco y la auditoria será realizada por la Contraloría General de la Unión (CGU).
+
+ Financiamiento Retroactivo - Se prevé el financiamiento retroactivo de resultados ya obtenidos a
+ partir de las acciones que se hayan desarrollado entre la fecha de aprobación del Perfil de Proyecto
+ (21 Marzo 2022), hasta la aprobación del préstamo, por un monto de hasta US$5.400.000; o sea, el
+ equivalente a un 10% del monto del préstamo.
+
+                   III. Acuerdos y Requisitos para la Ejecución de Adquisiciones
+
+      Disposiciones       El programa prevé ejecutar muy pocos procesos de adquisiciones, de bajo
+      Especiales de       valor, para los cuales aplicarán los métodos nacionales y las
+      Adquisiciones       recomendaciones incluidas en el ROP.
+      aplicables a la
+      operación
+
+Adquisiciones Principales
+
+                                                 Nuevos
+  Descripción de la         Método de                                    Fecha              Monto
+                                             Procedimientos/
+    adquisición             Selección                                   Estimada        Estimado US$
+                                              Herramientas
+
+ Bienes
+
+ Obras
+
+ Servicios de no
+ consultoría
+
+ Firmas
+
+ Individuos
+
+
+
+ Procedimientos                                 Justificación del uso
+                                                                     Anexo III – BR-O0014; BR-L1596
+                                                                                      Página: 4 de 5
+
+
+                 IV. Acuerdos y Requisitos para la Gestión Financiera
+
+Programación y     El presupuesto del OE es parte del presupuesto del Ministerio de las
+Presupuesto        Ciudades (MCID), y por tanto parte presupuesto del Sector Público Federal.
+                   El MCID, a través de la SNH es responsable de coordinar todo el proceso
+                   de planificación para la ejecución de las actividades, y deberá garantizar que
+                   los recursos para el programa sean debidamente presupuestados
+                   anualmente en la Ley de Presupuesto Anual (LOA) y registrados dentro del
+                   SIAFI - Sistema Integrado de Administración Financiera del Gobierno
+                   Federal, sistema oficial para el manejo y control presupuestario federal.
+
+Tesorería y        Para la ejecución del Programa, el OE utilizará recursos provenientes del
+Gestión de         Aporte Fiscal, luego se gestionará el reembolso con base en la matriz de
+Desembolsos        desembolsos de Programa, a partir de la verificación independiente de los
+                   resultados alcanzados. Los recursos del financiamiento serán depositados
+                   en la Cuenta Única de la Unión y a través de esta misma cuenta única se
+                   efectuarán los pagos que se originen por la ejecución del programa. Para
+                   estos fines se deberá garantizar que el sistema contable permite un
+                   seguimiento de los ingresos y gastos. No se requerirá que el organismo
+                   ejecutor presente, junto con la solicitud de desembolso, una justificación de
+                   gastos, así como tampoco la documentación de respaldo de los gastos
+                   efectuados para lograr los resultados, pero dicho organismo deberá
+                   mantener la documentación mencionada como parte de los sistemas
+                   administrativos, de control interno, adquisiciones y contabilidad adecuados
+                   que aseguren la emisión oportuna de los informes financieros del proyecto,
+                   los que serán auditados anualmente por la Contraloría General de la Unión
+                   (CGU).Los desembolsos se efectuarán en dólares de los Estados Unidos de
+                   América, bajo la modalidad de reembolso de gastos. El OE podrá solicitar
+                   un desembolso inicial de hasta 15% del préstamo para financiar actividades
+                   y productos que si justifiquen como necesarios para la consecución de los
+                   resultados. La tasa de cambio a ser utilizada en la operación será la tasa de
+                   cambio efectiva en la fecha de pago del gasto en la moneda local. El OE
+                   utilizará la plataforma "Online Disbursement" para gestionar los
+                   desembolsos ante el BID.
+
+Contabilidad,      El programa contará con un Plan de Cuentas, el cual se basará en el Plan
+sistemas de        de Cuentas del Sector Público, en donde todas las actividades, financiadas
+información y      con Aporte Local o financiamiento, se registran en SIAFI, bajo la Unidad
+generación de      Transaccional para operaciones con organismos internacionales. Dado que
+reportes           se requiere la asignación contable de ingresos y gastos asociados al
+                   Programa se podrá prever la apertura de un Programa Presupuestario
+                   específico. Como complemento a las políticas y guías aplicables a la
+                   operación se utilizará el ROP con la definición documentada de flujos de
+                   trabajo y controles internos.
+                                                                     Anexo III – BR-O0014; BR-L1596
+                                                                                      Página: 5 de 5
+
+
+Control externo    La auditoría externa del Programa deberá realizarse por la Contraloría
+e Informes         General de la Unión (CGU), elegible para auditar operaciones financiadas
+financieros        por el BID, bajo términos de referencia previamente acordados entre el
+                   prestatario y/o OE y el Banco.
+                   Se requiere su presentación dentro de los siguientes 120 días del cierre de
+                   cada ejercicio fiscal, y durante el plazo para desembolsos del Préstamo. El
+                   último informe será presentado dentro de los 120 días siguientes a la fecha
+                   estipulada para el último desembolso del Préstamo, e incluirá un análisis de
+                   las posibles diferencias entre los costos reales del programa y los montos
+                   desembolsados.
+
+Supervisión        El plan de supervisión financiera surgirá de las evaluaciones de riesgo y
+Financiera de la   capacidad fiduciaria realizadas al OE y considerará visitas de supervisión in
+operación          situ y de "escritorio", y análisis y seguimiento de los resultados y
+                   recomendaciones de las auditorías a los informes financieros anuales del
+                   Programa.
+             DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                           PROYECTO DE RESOLUCIÓN DE-___/23
+
+
+
+           Brasil. Línea de Crédito Condicional para Proyectos de Inversión (CCLIP)
+                                     ProMorar (BR-O0014)
+
+
+
+       El Directorio Ejecutivo
+
+RESUELVE:
+
+       1.   Autorizar al Presidente del Banco, o al representante que él designe, para que, en
+nombre y representación del Banco, proceda a formalizar el acuerdo o acuerdos que sean
+necesarios con la República Federativa de Brasil para establecer la Línea de Crédito
+Condicional para Proyectos de Inversión (CCLIP) ProMorar (BR-O0014) (la “Línea”) hasta por
+la suma de US$600.000.000, con cargo a los recursos del Capital Ordinario del Banco.
+
+        2.  Establecer que los recursos asignados a la Línea mencionada en el párrafo
+precedente sean utilizados para financiar operaciones individuales, de conformidad con: (a) los
+objetivos y reglamentos de la Línea de Crédito Condicional para Proyectos de Inversión
+aprobados mediante la Resolución DE-58/03 y sus modificaciones aprobadas mediante las
+Resoluciones DE-10/07, DE-164/07, DE-86/16 y DE-98/19; (b) las disposiciones de los
+documentos GN-2564-3 y GN-2246-13; y (c) los términos y condiciones que consten en la
+propuesta de la correspondiente operación individual.
+
+
+
+                         (Aprobada el ___ de _____________ de 2023)
+
+
+
+LEG/SGO/CSC/EZSHARE-620307903-41742
+BR-O0014
+             DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                           PROYECTO DE RESOLUCIÓN DE-___/23
+
+
+
+Brasil. Préstamo ____/OC-BR a la República Federativa del Brasil. ProMorar Brasil - Promoción
+         de Nuevas Estrategias de Vivienda en Brasil para Población de Bajos Ingresos.
+                    Primera Operación Individual bajo la Línea de Crédito
+                           Condicional para Proyectos de Inversión
+                                (CCLIP) ProMorar (BR-O0014)
+
+
+
+       El Directorio Ejecutivo
+
+RESUELVE:
+
+        Autorizar al Presidente del Banco, o al representante que él designe, para que, en
+nombre y representación del Banco, proceda a formalizar el contrato o contratos que sean
+necesarios con la República Federativa del Brasil, como prestatario, para otorgarle un
+financiamiento destinado a cooperar en la ejecución de ProMorar Brasil - Promoción de Nuevas
+Estrategias de Vivienda en Brasil para Población de Bajos Ingresos, que constituye la primera
+operación individual bajo la Línea de Crédito Condicional para Proyectos de Inversión (CCLIP)
+ProMorar (BR-O0014), aprobada mediante Resolución DE-___/23 del ___ de ________ de
+2023. Dicho financiamiento será hasta por la suma de US$54.055.925, que formen parte de los
+recursos del Capital Ordinario del Banco, y se sujetará a los Plazos y Condiciones Financieras
+y a las Condiciones Contractuales Especiales del Resumen de Proyecto de la Propuesta de
+Préstamo.
+
+
+
+                          (Aprobada el ___ de ____________ de 2023)
+
+
+
+LEG/SGO/CSC/EZSHARE-620307903-41741
+BR-L1596
+

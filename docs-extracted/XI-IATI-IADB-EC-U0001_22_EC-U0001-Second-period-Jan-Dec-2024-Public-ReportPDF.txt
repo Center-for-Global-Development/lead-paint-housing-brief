@@ -1,0 +1,307 @@
+                                                                                                            PMR Public Report
+Operation Number                    EC-U0001                                                                                 Chief of Operations Validation Date                    04/08/25
+
+Year- PMR Cycle                     Second period Jan-Dec 2024                                                               Division Chief Validation Date                         04/24/25
+
+Last Update                         04/07/25                                                                                 Country Representative Validation Date                 04/28/25
+
+PMR Validation Stage                Validated by Representative
+
+Basic Data
+Operation Profile
+Operation Name                      FINANCING LOW-INCOME HOUSING IN ECUADOR                                                  Loan Number                                            4699/OC-EC
+
+Executing Agency                    MINISTERIO DE ECONOMIA Y FINANZAS                                                        Sector/Subsector                                       URBAN DEVELOPMENT AND HOUSING-HOUSING
+
+Team Leader                         VILLACORTA ALVAREZ, OMAR                                                                 Overall Stage                                          Disbursing (From eligibility until all the Operations are closed)
+
+Operation Type                      Guarantee                                                                                Country                                                Ecuador
+
+Lending Instrument                  Investment                                                                               Convergence related Operation(s)
+
+Borrower                            REPUBLICA DE ECUADOR
+
+Environmental and Social Safeguards
+Impacts Category                    B13                                                                                      Was/Were the objective(s) of this operation            NO
+                                                                                                                             reformulated?
+Safeguard Performance                                                                                                        Date of approval
+Rating
+Safeguard Performance
+Rating - Rationale
+
+Financial Data
+                                                                           Total Cost and Source                                                                                                       Available Funds (US$)
+
+  Operations               Original IDB               Current IDB            Local Counterpart        Co-Financing / Country        Total Original Cost              Current IDB             Disb. Amount to Date        % Disbursed         Undisbursed Amount
+EC-U0001                          300,000,000              300,000,000                            0                             0             300,000,000                   300,000,000                             -              0.00%                300,000,000
+
+Aggregated                        300,000,000              300,000,000                            0                             0             300,000,000                   300,000,000                             -              0.00%                300,000,000
+
+Expense Categories by Loan Contract (cumulative values)
+
+
+
+
+Please note that inactive indicators and outputs are not displayed; totals in the actual cost table may not match the sum of the cost of the outputs displayed, due to the cost of inactive outputs.
+
+
+
+
+                                                                                                                                                        1
+RESULTS MATRIX
+General Development Objectives
+General Development Objectives Nbr. 1: Financiamiento de Vivienda Social en Ecuador
+Observation:
+                    Indicator                                                          Unit of Measure          Baseline         Baseline Year     Expected
+                                                                                                                                                    Year of                          EOP 2035
+                                                                                                                                                  Achievement
+1.0                 Tasa de hacinamiento de los deciles 6 a 9                             Porcentaje               6.14              2017              2025              P              6.05
+                                                                                                                                                                         A                -
+Details
+Means of Verification: ENEMDU - Encuesta Nacional de Empleo, Desempleo y Subempleo
+
+Observations: En ausencia del proyecto, la proyección realizada prevé que la tasa de hacinamiento en los hogares con ingreso familiar entre los deciles 6 a 9 se ubique en 6,24%. Se proyecta
+que con el proyecto dicha tasa se ubicaría en 6,05%. Los cálculos son conservadores sin considerar efectos demostración que incrementen el crédito más allá del proyecto. El hacinamiento es
+definido por una relación de personas-dormitorio mayor a tres; la tasa de hacinamiento refiere al porcentaje de hogares que verifican hacinamiento según esa definición.
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender     No                Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                          Unit of Measure          Baseline         Baseline Year     Expected
+                                                                                                                                                    Year of                          EOP 2035
+                                                                                                                                                  Achievement
+1.1                 Valor Agregado (VA) en las actividades de construcción en el         USD millones              59.4              2017              2025              P              68.2
+                    segmento de las Viviendas de Interés Público (VIP)                                                                                                   A                -
+Details
+Means of Verification: Información Administrativa: Sistema de Información del MEF a través de información administrativa recopilada de las IFI, Cuentas Nacionales (BCE) e informe de análisis
+de costos beneficio ex post.
+Observations: En ausencia del proyecto, se espera que el valor agregado de la construcción en el segmento VIP se reduzca a 23,1 millones. A efectos de este cálculo, el segmento de VIP se
+considera viviendas nuevas entre US$20,000 y US$70,000. Los valores proyectados suponen que la relación VA/Valor final se mantiene en los promedios observados en los últimos tres años en
+los datos de Cuentas Nacionales.
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender     No                Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                          Unit of Measure          Baseline         Baseline Year     Expected
+                                                                                                                                                    Year of                          EOP 2035
+                                                                                                                                                  Achievement
+1.2                 Mujeres mayores de 15 años con un crédito hipotecario activo          Porcentaje                5                2017              2025              P               6
+                                                                                                                                                                         A                -
+Details
+Means of Verification: Global Findex Database
+
+Observations: Se espera que el proyecto fomente, tanto por el efecto directo como por posibles efectos derrame/demostración, una mayor participación como sujeto de crédito en el segmento
+hipotecario.
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender     Yes               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                                                                                                            2
+RESULTS MATRIX
+Specific Development Objectives
+Specific Development Objectives Nbr. 1: Componente Único - Crédito hipotecario para Vivienda de Interés Público (VIP)
+Observation:
+                    Indicator                                                                             Unit of Measure        Baseline        Baseline Year                           2035       EOP 2035
+1.0                 Crédito hipotecario con destino a las VIP con relación al total del crédito             Porcentaje             14.4               2017                 P               -           12.6
+                    hipotecario                                                                                                                                            A               -                -
+Details
+Means of Verification: Información Administrativa: Sistema de Información de MEF a través de información administrativa recopilada de las IFI, e información de la Superintendencia de Bancos
+Observations: Se espera que, en ausencia del proyecto, el porcentaje de crédito hipotecario con destino a las VIP con relación al crédito total hipotecario se ubique en torno al 4,2%. A efectos de este
+cálculo, el segmento de VIP se considera viviendas nuevas entre US$20.000 y US$70.000.
+Evaluation Methodology: -
+Pro-Gender     No                Pro-Ethnicity    No                  CRF indicator
+
+
+
+
+                    Indicator                                                                             Unit of Measure        Baseline        Baseline Year                           2035       EOP 2035
+1.2                 Total de crédito para VIP colocado por los bancos privados y las entidades de la       USD millones             361               2018                 P               -            300
+                    economía popular y solidaria                                                                                                                           A               -                -
+Details
+Means of Verification: Superintendencia de Bancos del Ecuador y Superintendencia de las entidades de la economía popular y solidaria
+Observations: Entre 2015 y 2018 se colocaron un total de US$361 millones en créditos para VIP a través de las líneas provistas por el Banco Central del Ecuador (BCE). Tras la aprobación de la Ley de
+Fomento Productivo en 2018, se terminan las líneas de financiamiento del BCE (ver Párrafo 1.11 de la Propuesta de Garantía para más detalle). Sin este financiamiento del BCE, se asume que no habría
+financiamiento para VIP entre 2019 y 2022. En dicho período, con la introducción del proyecto, se espera que se financien créditos VIP por un total de US$300 millones.
+Evaluation Methodology: -
+Pro-Gender     No                Pro-Ethnicity    No                  CRF indicator
+
+
+
+
+                    Indicator                                                                             Unit of Measure        Baseline        Baseline Year                           2035       EOP 2035
+1.3                 Déficit habitacional cuantitativo en hogares con ingreso familiar entre los deciles     Porcentaje              7.5               2017                 P               -           7.39
+                    6 a 9 de la distribución                                                                                                                               A               -                -
+Details
+Means of Verification: Información Administrativa: Sistema de Información de MEF a través de información administrativa recopilada de las IFI y ENEMDU
+Observations: En base a cálculos propios, se estima que, en ausencia del proyecto, el porcentaje de hogares con déficit cuantitativo en el año 2022 ascendería a 7,62%. Ver nota al pie 7 del documento de
+Propuesta de Garantía para definición del déficit cuantitativo
+Evaluation Methodology: -
+Pro-Gender     No                Pro-Ethnicity    No                  CRF indicator
+
+
+
+
+                    Indicator                                                                             Unit of Measure        Baseline        Baseline Year                           2035       EOP 2035
+1.4                 Crédito hipotecario en el segmento de las VIP otorgado a mujeres                        Porcentaje              44                2017                 P               -            50
+                                                                                                                                                                           A               -                -
+Details
+Means of Verification: Información Administrativa: Sistema de Información de MEF e información de la Superintendenci a de Bancos
+Observations: El Reglamento Operativo del Proyecto (ROP) articulará regulaciones, incentivos y restricciones destinadas a elevar la participación de las mujeres como receptoras de créditos hipotecarios en
+el segmento de VIP (ver párrafo 1.10 del del documento de Propuesta de Garantía).
+Evaluation Methodology: -
+Pro-Gender     Yes               Pro-Ethnicity    No                  CRF indicator
+
+
+
+
+                                                                                                               3
+RESULTS MATRIX
+OUTPUTS: ANNUAL PHYSICAL AND FINANCIAL PROGRESS
+
+Component Nbr. 1 Componente Único - Crédito hipotecario para Vivienda de Interés Público (VIP)
+                                                                                                                                                      PHYSICAL PROGRESS                     FINANCIAL PROGRESS
+
+             Output                                                                                                  Unit of Measure           2024                  EOP 2035            2024              EOP 2035
+
+             Crédito hipotecario para las VIP a personas naturales a través de los intermediarios financieros   Créditos                P                1,520                   4,560             -                  300
+   1.01                                                                                                                                P (a)             1,140                  10,819             -                  300
+                                                                                                                                        A                1,704                   9,207             -                  300
+
+
+
+Total Cost
+                  Total Cost                                                                                                            P                   0                     300
+
+                                                                                                                                       P (a)                0                     300
+
+                                                                                                                                        A                   0                     300
+
+
+
+
+                                                                                                                           4
+CHANGES TO THE MATRIX
+         Section                                  Name                                       Type of Change                       Sub type                  Modified By   Entered in System
+
+Output                  Crédito hipotecario para las VIP a personas naturales a   Modify Output                   Modify Physical EOP P(a) value - caused    KARINAC         3/20/2025
+                        través de los intermediarios financieros                                                  by a change in the Physical P(a).
+
+
+
+
+                                                                                                              5
+RISKS AND PLANNED RESPONSES
+    Risk ID                          Risk Status                                    Risk Taxonomy
+
+                                      Inactive                           Economic and Financial Environment
+
+
+              Response Actions
+                                                   Management Strategy                   Status
+                             1.01                        AVOID                         INACTIVE
+      1
+
+                                                   Management Strategy                   Status
+                             1.02                       MITIGATE                       INACTIVE
+
+
+
+
+    Risk ID                          Risk Status                                    Risk Taxonomy
+
+                                       Active                                      Legal Environment
+
+
+              Response Actions
+      2                                            Management Strategy                   Status
+                             2.01                        ACCEPT                        INACTIVE
+
+
+
+
+    Risk ID                          Risk Status                                    Risk Taxonomy
+
+                                      Inactive                                Governance Framework
+
+
+              Response Actions
+      3                                            Management Strategy                   Status
+                                 3
+
+
+
+
+    Risk ID                          Risk Status                                    Risk Taxonomy
+
+                                       Active                                     Political Environment
+
+
+              Response Actions
+      4                                            Management Strategy                   Status
+                                 4
+
+
+
+
+    Risk ID                          Risk Status                                    Risk Taxonomy
+
+                                       Active                                 Organizational Structure
+
+
+              Response Actions
+      5                                            Management Strategy                   Status
+                             5.01                       MITIGATE                        ACTIVE
+
+
+
+
+                                                                              6
+Risk ID                          Risk Status                                  Risk Taxonomy
+
+                                  Inactive                           Economic and Financial Environment
+
+
+          Response Actions
+  6                                            Management Strategy                 Status
+                         6.01                        ACCEPT                      INACTIVE
+
+
+
+
+Risk ID                          Risk Status                                  Risk Taxonomy
+
+                                   Active                            Economic and Financial Environment
+
+
+          Response Actions
+  7                                            Management Strategy                 Status
+                             7
+
+
+
+
+                                                                          7
+IMPLEMENTATION STATUS AND LEARNING
+
+
+                                     Lesson Learned - Categories
+Project Management Capacity
+
+Stakeholder Priorities
+
+Intra/Inter Coordination
+
+
+
+
+                                                              8
+

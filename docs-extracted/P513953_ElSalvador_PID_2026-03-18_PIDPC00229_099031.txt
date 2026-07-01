@@ -1,0 +1,602 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconpfrcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                               Program Information Document (PID)
+
+
+                                                Concept Stage | Date Prepared/Updated: 18-Mar-2026 | Report No: PIDPC00229
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+     The World Bank
+     Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Program Data
+
+Project Beneficiary(ies)       Region                       Operation ID                 Operation Name
+                                                                                         Housing Opportunity:
+                               LATIN AMERICA AND
+El Salvador                                                 P513953                      Governance, Affordability,
+                               CARIBBEAN
+                                                                                         Reform in El Salvador
+Financing Instrument           Estimated Appraisal Date     Estimated Approval Date      Practice Area (Lead)
+Program-for-Results
+                               01-Jul-2026                  25-Sep-2026                  Urban, Resilience and Land
+Financing (PforR)
+Borrower(s)                    Implementing Agency
+                               Ministerio de VIvienda de
+Republic of El Salvador
+                               El Salvador
+
+Proposed Program Development Objective(s)
+To strengthen El Salvador’s affordable housing institutional and financing ecosystems.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+COST & FINANCING (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Government program Cost                                                                                       680.00
+
+  Total Operation Cost                                                                                          180.00
+    Total Program Cost                                                                                      179.62
+    Other Costs (Front-end fee,IBRD)                                                                              0.38
+  Total Financing                                                                                               180.00
+
+  Financing Gap                                                                                                   0.00
+
+FINANCING
+  Total World Bank Group Financing                                                                              150.00
+
+                                                                                                                   Page 1
+
+
+
+                                                                                                         Official Use Only
+        The World Bank
+        Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+      World Bank Lending                                                                                                                  150.00
+    Total Government Contribution                                                                                                          30.00
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidpfrconceptdecision#doctemplate
+Concept Review Decision
+The review did authorize the preparation to continue
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+1. El Salvador has achieved important development gains over the past two decades, marked by declining poverty and
+   inequality, improved public security, and greater macroeconomic stability. Real GDP per capita reached US$5,023 in
+   2023, and sovereign spreads have fallen sharply since their 2022 peaks, reflecting improved investor confidence.1
+   Official poverty rates dropped by 14 percentage points, driven by a 10-point decline in extreme poverty and a 4-point
+   decline in relative poverty.2 In 2023, El Salvador’s poverty rate was lower than that of Latin American peers with
+   comparable income levels. Inequality also declined since the start of the century, with the Gini index falling from 0.52
+   to 0.39, placing El Salvador among the more equal countries in the region. These gains were supported by modest but
+   steady economic growth supported by remittances, which accounted for 24 percent of the country’s GDP in 2023, and
+   growing tourism sector that saw a 17 percent increase in international tourist arrivals.3
+
+2. Despite these achievements, structural and macroeconomic constraints and gaps in infrastructure and service
+   provision continue to hinder inclusive development. Real GDP per capita has grown at a modest average of 2 percent
+   and is projected to remain low over the medium term, held back by persistent productivity gaps, high labor informality,
+   and infrastructure deficits. Gross public debt reached 87.5 percent of GDP in 2024, and high government spending
+   leaves limited fiscal space for new investment.4 Informality affects 64 percent of the workforce, particularly women
+   and youth, undermining productivity and access to formal financial instruments, including housing finance. 5 While
+   remittances are helping growth of higher end residential construction, development of affordable housing is largely
+   crowded out due to limited availability of serviced land and limited access to finance for developers in this segment.
+   Many households continue to face insecure living conditions and exposure to climate-related shocks, highlighting the
+   urgency of expanding access to basic services and resilient infrastructure.
+
+
+1 International Monetary Fund. (2025). El Salvador: 2025 Article IV Consultation, First Review Under the Extended Fund Facility, and Requests for
+
+Waivers of Nonobservance of Performance Criteria, and Modification of Performance Criteria (IMF Country Report No. 25/190). International
+Monetary Fund.
+2 World Bank (2024). Poverty and Equity Assessment for El Salvador 2024: Improving Lives and Livelihoods. Washington, D.C.: World Bank Group.
+3
+  Ministerio de Turismo (2025). El Salvador consolida su crecimiento turístico con 3.9 millones de visitantes internacionales en 2024.
+4 International Monetary Fund. (2025). El Salvador: 2025 Article IV Consultation, First Review Under the Extended Fund Facility, and Requests for
+
+Waivers of Nonobservance of Performance Criteria, and Modification of Performance Criteria (IMF Country Report No. 25/190). International
+Monetary Fund.
+5 World Bank (2024). Improving lives and livelihoods Poverty and Equity Assessment for El Salvador 2024. Washington, D.C.: World Bank Group.
+
+
+
+                                                                                                                                               Page 2
+
+
+
+                                                                                                                                      Official Use Only
+          The World Bank
+          Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+3. Territorial disparities highlight the urgency of the housing crisis. Although rural poverty rates remain higher, more
+   than 1.2 million poor Salvadorans live in cities, often in informal settlements lacking adequate water, sanitation, and
+   housing.6 Concentrated pockets of poverty can be found in the peripheries of the San Salvador Metropolitan Area
+   (SSMA), where growth has outpaced planning capacity and municipal investment. Informality, institutional
+   fragmentation, and limited fiscal space at the local level have contributed to infrastructure backlogs and service
+   delivery gaps.7
+
+4. El Salvador ranks among the countries most vulnerable to climate change and natural hazards, with nearly 89
+   percent of its territory and 95 percent of its population exposed to risks such as floods, landslides, earthquakes,
+   droughts, and tropical storms. Average annual losses from disasters are estimated at 2.5 percent of GDP, and climate
+   change is expected to increase the intensity and frequency of hydrometeorological events, including heatwaves,
+   intense rainfall, and prolonged droughts. These risks are especially acute in cities, where rapid and unplanned growth
+   has pushed low-income households into informal settlements often located on unstable hillsides or flood-prone areas.
+   Nearly 30 percent of urban dwellers live in informal settlements with limited public services and heightened exposure
+   to disasters.
+
+ Sectoral (or multi-sectoral) and Institutional Context of the Program
+
+5. Housing is a key driver of social inclusion and economic dynamism in El Salvador. Between 2014 and 2023, the
+   construction sector grew at an average annual rate of 4.4 percent, outpacing national GDP growth of 2.4 percent.
+   Over the past decade, it has become an important engine of economic activity, contributing 6.38 percent of GDP in
+   2023 (up from 5.34 percent in 2014) and generating 8.4 percent of total employment. Housing also plays a vital role
+   in improving living conditions and resilience, particularly in the context of high informality, climate risks, and
+   inequality.
+
+
+
+
+   Figure 1 - Construction sector share of GDP, 2014–2023 (left) and construction employment as a share of total employment, 2013–2024 (right)
+                                                      Sources: BCR, CEPAL, Own elaboration
+
+6. Despite strong demand, housing production has not kept pace with household formation, and the market fails to
+   serve low- and middle-income groups. The number of households has grown by 1.8 percent annually since 2007,
+   faster than population growth, driven by declining household size. However, only 28,000 occupied units were added
+   annually between 2007 and 2024, compared to the 30,000 - 40,000 units needed to meet demographic demand and
+   reduce the accumulated housing deficit. As of 2023, 68 percent of households faced a housing deficit, including 15
+
+6 Ibid.
+7 World Bank (2023). El Salvador - Country Partnership Framework for the Period FY23-FY27 (English). Washington, D.C. : World Bank Group.
+
+
+
+                                                                                                                                            Page 3
+
+
+
+                                                                                                                                   Official Use Only
+        The World Bank
+        Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+    percent with quantitative gaps (or approximately 300,000 households) and more than 50% of households that face
+    qualitative deficiencies (over a million households). More than 40 percent of households spend over 30 percent of
+    income on housing, with the poorest quintile spending up to 55 percent, indicating a high affordability burden.
+
+7. Formal supply is concentrated in higher-income segments, with limited availability of affordable housing. Data from
+   127 housing projects in the SSMA show that 96.8 percent of units are priced above US$100,000, and none fall below
+   US$60,000.8 In contrast, over half of poor households can only afford units priced under US$40,000. This supply gap
+   reflects structural constraints in the housing value chain, including limited access to construction finance, high land
+   and infrastructure costs, material shortages, and limited developer incentives for affordable segments.
+
+8. El Salvador’s housing finance sector remains underdeveloped, with weak presence of the private sector. The
+   mortgage market in El Salvador is roughly evenly split between the Fondo Social de la Vivienda (FSV)
+   and private financial institutions, mainly three commercial banks. The FSV originates about half of all loans but only
+   25% of total volume, reflecting its focus on lower-income households. Between 2015 and 2024, roughly 116,000 home
+   loans were granted, about 12,000 annually, with numbers remaining largely unchanged over the years. Lending
+   dipped in 2020, peaked in 2021, and has declined since. In value terms, mortgages grew 7% annually (four times
+   inflation) which shows how rising housing prices are further straining affordability. With a mortgage-to-GDP ratio of
+   just 2%, unchanged for a decade and below the 6% average of higher middle-income LAC countries, El Salvador’s
+   housing finance sector remains underdeveloped.
+
+
+
+
+                       Figure 2 - Housing projects by price segment in the SSMA, May 2025 (Sources: IFC, Own elaboration)
+
+9. El Salvador has taken important steps to strengthen its institutional and policy framework for housing and urban
+   development. The creation of the Ministry of Housing in 2019 consolidated key sectoral institutions, including Fondo
+   Social para la Vivienda (FSV), Fondo Nacional de Vivienda Popular (FONAVIPO), and Instituto de Legalización de la
+   Propiedad (ILP), under a unified system, improving coordination and enabling a more strategic response to the
+   country’s housing deficit.9 The Ministry now leads efforts to expand access to affordable housing, reduce disaster risk,
+
+
+8
+  El Salvador’s median national housing price in 2024 was the highest in the region at approximately US$265,000 - compared to US$161,000 in
+Honduras, US$100,000 in Panama, and US$51,000 in Colombia (Lincoln Institute, 2050). In Colombia, despite a recent market contraction, 69
+percent of all new housing units built in 2024 were classified as affordable (including both social and priority housing categories). (CAMACOL,
+2025).
+9 Ministry of Housing. (2025). Institutional Framework. Government of El Salvador: Ministry of Housing.
+
+
+
+                                                                                                                                                  Page 4
+
+
+
+                                                                                                                                      Official Use Only
+       The World Bank
+       Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+    and promote territorial planning. This reorganization has enabled stronger alignment with national development goals
+    and a growing recognition of housing as a tool for poverty reduction and territorial development.
+
+10. FSV and FONAVIPO are the two public institutions in El Salvador that serve as the government’s main vehicles for
+    providing housing assistance to households. FSV is a public mortgage bank originally conceived as a provident
+    fund, similar to Mexico’s INFONAVIT. It provides mortgages for homes below a specified price ceiling. Following the
+    establishment of private pension funds in the late 1990s, FSV ceased to receive social security contributions and, as a
+    result, lost its primary source of funding. FONAVIPO is a public institution that supports low-income households’
+    access to housing by combining housing loans and subsidies9. It operates through two channels: (i) a second-tier
+    model that lends through a network of authorized financial institutions, and (ii) a more recent, smaller-scale first-tier
+    model providing direct loans to households.
+
+11. To build on this institutional foundation, the Government is finalizing the National Housing and Urban Development
+    Policy (PNVDU), which aims at providing a long-term framework to guide sectoral investments, strengthen
+    intersectoral coordination, and promote inclusive, sustainable, and resilient urban growth. The policy reflects a rights-
+    based approach and emphasizes equity, gender, disaster risk management, and social fabric recovery as core
+    principles. It seeks to consolidate existing efforts under a unified vision while addressing critical gaps in access,
+    financing, and urban planning.
+
+12. However, existing public programs are insufficient to address the scale and depth of the housing deficit. FONAVIPO
+    delivers just 241 housing solutions per year, while FSV provides around 5,000 loans annually, primarily to formal
+    households in the top 40% of income distribution. Nearly 60 percent of Salvadorans are excluded from formal finance
+    due to informality and income constraints, pushing them toward self-construction in high-risk areas. Public resources
+    are also stretched: expanding FSV coverage to 20,000 loans would require US$300 million per year, which is fiscally
+    unsustainable under the current government-financed model.
+13. To address the housing shortages and improve access to housing for the poor EL Salvador needs to leverage private
+    capital and focus public assistance on the least fortunate. The private sector could serve households earning four or
+    more minimum wages if affordable housing, priced up to US$60,000, is built in sufficient quantities. Public subsidies
+    could be better targeted by shifting from interest rate subsidies to upfront support (e.g., down payment assistance)
+    tailored to household repayment capacity. Blended finance models, including guarantees and risk-sharing
+    instruments, will be critical to crowd-in private banks and developers, create incentives for financial institutions to
+    lend to underserved populations, especially beneficiaries employed in the informal sector and extend loan tenors to
+    make housing more affordable. Public investment should focus on enabling infrastructure, regulatory streamlining,
+    and planning instruments that unlock serviced land and strengthen housing system coordination.
+
+14. This document presents the World Bank Group’s proposed engagement in El Salvador’s housing sector through a
+    Multi-phase Programmatic Approach (MPA). The MPA is designed to catalyze a comprehensive transformation of the
+    sector by expanding access to affordable and resilient housing while supporting broader socio-economic development
+    and job creation. Phase 1 of the MPA includes the proposed Housing Opportunity: Governance, Affordability, Reform
+    in El Salvador (HOGARES) Project (P513953), described in the main section of this document and detailed in Annex 1.
+    The MPA’s phased structure will allow the Government of El Salvador (GoES) and the World Bank Group to implement
+    coordinated supply- and demand-side interventions, adapt to market and institutional readiness, and scale private
+    sector participation over time.
+
+
+
+
+                                                                                                                         Page 5
+
+
+
+                                                                                                                 Official Use Only
+       The World Bank
+       Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+  Rationale for Bank Engagement and Choice of Financing Instrument
+
+15. The MPA is the most suitable modality to support the Government of El Salvador in achieving a comprehensive
+    transformation of its housing sector. The scale and complexity of El Salvador’s housing challenges, including a
+    fragmented institutional landscape, deep affordability constraints, significant informality, and substantial investment
+    needs, require a long-term, adaptative, and coordinated engagement. The MPA with the PforR used for phase one
+    provides the structure to sequentially achieve the following targets:
+            i.  Create a unified government vision and strategy for addressing housing crisis and align institutional
+                structure and capacity with the needs of its implementation
+           ii.  Lay the groundwork for a gradual transition from a state-led housing support model to a model that is
+                designed to leverage private capital to ensure greater impact, scalability, and fiscal sustainability of the
+                public housing support programs.
+          iii.  Build a flexible program that enables phased implementation and course correction, allowing for pilot
+                programs addressing gaps on the demand or supply side to test the design and market response, and then
+                scale them once the critical lessons are incorporated.
+          iv.   Enable a One World Bank Group approach that promotes coordinated, multi-institutional engagement to
+                address housing constraints comprehensively.
+
+
+16. The MPA facilitates a One WBG strategy that can leverage the comparative advantages of IBRD, IFC, and the WBG
+    Guarantee Platform to deliver a unified response to El Salvador’s housing needs. Through this approach, the Bank
+    will support institutional strengthening, financial innovation, and policy coherence to unlock affordable and resilient
+    housing markets. IBRD will focus on public system reforms, enhancing affordability through optimized subsidies and
+    mortgage guarantees, and foundational investments; IFC will help structure public-private partnerships and crowd in
+    developer and lender participation; and WBG guarantees and risk-mitigation instruments will be utilized as necessary
+    to de-risk private investments. By aligning these instruments and expertise under one umbrella, the MPA can
+    systematically shift El Salvador’s housing ecosystem toward a more sustainable, inclusive, and market-responsive
+    model.
+
+17. The PforR is selected for the first stage of program implementation as the optimal instrument for establishing
+    institutional and policy foundations and improving the design of existing government programs. The Program-for-
+    Results design allows for setting up a series of targets to build institutional capacity and support the development of
+    housing assistance programs that meet the program's objectives. This will be achieved through a sequential series of
+    steps reflected in the Disbursement-Linked Indicators (DLIs). This design will also enable the use of disbursements to
+    finance pilot housing support programs of a new type once they are designed, which will aid the preparation of the
+    second phase of the program aimed at scaling up housing support to reach a larger population.
+
+ C. Program Development Objective(s) (PDO) and PDO Level Results Indicators
+
+  Program Development Objective(s)
+
+
+ To strengthen El Salvador’s affordable housing institutional and financing ecosystems.
+
+
+ PDO Level Results Indicators
+
+
+
+                                                                                                                        Page 6
+
+
+
+                                                                                                                Official Use Only
+       The World Bank
+       Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+           i.    Number of housing sector reforms or regulatory instruments adopted to enable affordable and resilient
+                 housing.
+           ii.   Number of low-income households benefiting from pilot housing finance schemes.
+          iii.   Private capital mobilized
+
+ D. Program Description
+
+ PforR Program Boundary
+
+18. El Salvador is currently formulating a new National Housing and Urban Development Policy (Política Nacional de
+    Vivienda y Desarrollo Urbano, PNVDU) that seeks to provide a long-term State-led vision for the country’s housing
+    and territorial development systems. The PNVDU is being designed as an instrument of public management rooted
+    in a rights-based approach, incorporating gender equity, disaster risk management, and social cohesion. The policy
+    aims at unifying public and private efforts around a coherent institutional framework that ensures sustainable and
+    inclusive access to dignified housing and resilient urban development. The policy is expected to guide sectoral
+    priorities over the short-to-medium term, aligned with the current administration’s mandate.
+
+
+19. The PNVDU builds on the vision and objectives set out in El Salvador’s Plan Cuscatlán (2019–2024), particularly the
+    axis on “Housing and Urban Development Access,” which recognized housing as both a fundamental right and an
+    engine for development. However, despite past efforts, the sector continues to face deep-rooted challenges. These
+    include a persistent quantitative and qualitative housing deficit, limited access to serviced land, high exposure to
+    climate and disaster risks, and a fragmented institutional landscape with weak coordination and financing
+    mechanisms. Many low-income households live in overcrowded or substandard conditions, often in risk-prone areas
+    with inadequate services and insecure tenure. These structural challenges underpin the need for a renewed housing
+    policy and sector transformation effort.
+
+
+20. The overarching objective of the PNVDU is to promote access to dignified housing and habitat for all segments of
+    the population through strengthened local economies, social inclusion, and civic participation, anchored in
+    sustainable and equitable urban development. To this end, the policy seeks to: (i) reduce both quantitative and
+    qualitative housing deficits through tailored, territory-sensitive interventions; (ii) expand access to serviced land and
+    basic infrastructure, including public spaces and community amenities; (iii) develop a sustainable and inclusive housing
+    finance ecosystem; (iv) enhance competitiveness and innovation in the housing sector; (v) support social cohesion and
+    the right to the city; and (vi) establish an effective institutional and legal framework to ensure policy implementation.
+
+
+21. The PforR program is strongly aligned with the six policy axes of El Salvador’s upcoming National Housing and Urban
+    Development Policy (PNVDU), reflecting a shared vision to transform the country’s housing ecosystem. As the first
+    phase of a broader Multiphase Programmatic Approach (MPA), the PforR focuses on laying the regulatory, financial,
+    and institutional foundations needed to implement the national policy and unlock scale-up opportunities in future
+    phases. The significant overlap between the PforR Results Areas and the PNVDU’s strategic axes highlights the
+    government’s commitment to a coherent, whole-of-system approach to addressing housing deficits, improving urban
+    equity, and strengthening resilience:
+
+
+                                                                                                                         Page 7
+
+
+
+                                                                                                                 Official Use Only
+The World Bank
+Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+   i.    Axis 1 – Addressing Quantitative and Qualitative Housing Deficit: All three Results Areas (RAs) address
+         structural drivers of El Salvador’s housing deficit. RA1 lays the institutional and regulatory foundations to
+         transform the housing ecosystem. RA2 introduces pro-poor financial instruments, including subsidies and
+         PPP structuring, to expand formal supply, directly echoing the policy’s emphasis on mobilizing public and
+         private investment in social housing. RA3 supports the creation of housing data systems, consistent with
+         the policy’s stated need for robust information platforms to guide investment and planning.
+
+   ii.   Axis 2 – Access to Land, Infrastructure, Public Space, and Services: RA1 contributes through standardizing
+         regulatory definitions and processes, such as VIS typologies and tenure modalities, while RA3’s land
+         mapping activities align with policy goals to promote secure tenure and enable the management and
+         generation of urbanizable land.
+
+
+  iii.   Axis 3 – Developing Housing and Habitat Financing Mechanisms: RA1 creates the enabling legal and
+         institutional frameworks for RA2 to pilot and scale inclusive financing instruments. RA2 directly supports
+         the policy’s objectives to develop sustainable financing mechanisms and recover investments, including
+         through self-construction support and targeted subsidies. Together, these RAs advance the creation of a
+         permanent and diversified housing finance system.
+
+
+  iv.    Axis 4 – Promoting Innovation, Competitiveness, and Technological Adoption in the Construction and
+         Housing Value Chains: RA1 includes planning and regulatory upgrades that integrate resilience and
+         climate adaptation measures. RA3 facilitates the adoption of innovation and new technologies by
+         strengthening the housing data ecosystem and supporting inter-institutional coordination, both of which
+         are called for in the policy to boost construction efficiency and sustainability.
+
+
+   v.    Axis 5 – Strengthening the Social Fabric through Participatory and Community-based Approaches : RA2’s
+         design of pro-poor instruments includes components that may engage community groups or facilitate
+         participatory targeting and co-production. These align with the policy’s goals to promote citizen
+         participation and co-responsibility in housing construction, improvement, and management.
+
+
+  vi.    Axis 6 – Consolidating Institutional and Legal Frameworks to Operationalize the Policy: RA1 is directly
+         aligned with this axis, supporting legal harmonization, institutional strengthening of the Ministry of
+         Housing and its affiliated agencies, and enhancing coordination mechanisms between central and local
+         government actors. RA3 further contributes by establishing information systems that improve decision-
+         making, policy relevance, and program targeting.
+
+         Government program pillars          Covered by PforR       Partially Covered      Not covered
+                                                                        by PforR            by PforR
+     1. Housing Deficit                                                     Yes
+     2. Access to Land, Infrastructure,                                     Yes
+     and Services
+     3. Housing and Habitat Financing                                      Yes
+
+
+                                                                                                                  Page 8
+
+
+
+                                                                                                          Official Use Only
+       The World Bank
+       Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+           4. Innovation and Technology                                                   Yes
+           5. Social Fabric                                                               Yes
+           6. Institutional and Legal                             Yes
+           Framework
+                                         Table 1 – Government program pillars covered by PforR
+
+
+
+                          Government                      PforR                           Reasons for non-alignment
+                           program
+Duration               2025-TBD                  2026-2031                 Supporting first phase
+Geographic             All the country           All the country
+coverage
+Results areas          RA1-RA6                   RA1-3                     The PforR is broadly aligned with the emerging
+                                                                           national housing policy, though full alignment is not
+                                                                           expected given the policy’s broad scope and the
+                                                                           PforR’s focus on foundational reforms in this first
+                                                                           phase.
+Overall Financing      $ 680M                    $ 150M
+
+                                 Table 2 – Non-alignment between Government program and PforR
+
+
+
+ E. Initial Environmental and Social Screening
+
+22. The initial environmental and social risk rating for the Program is considered Moderate and will be further revised
+    during the preparation phase. The PforR includes the following activities, which are relevant for the environmental
+    and social risk rating: (i) support policy and regulatory reforms related to affordable housing and PPP national
+    framework that incorporates affordability criteria for low-income households, (ii) institutional strengthening and
+    capacity building for relevant government entities that support housing programs, (iii) development of subsidy
+    schemes and financial and guarantee instruments, (iv) public land mapping, and (v) the structuring of a PPP project
+    for affordable housing. During preparation, an Environmental and Social Systems Assessment (ESSA) will be developed
+    to assesses the borrower’s E&S management systems and capacity, identify risks and gaps, and recommend measures
+    to ensure the Program meets the World Bank’s E&S requirements.
+
+23. At this stage, the environmental risk is considered low. The Program will not finance, support, or directly enable
+    any civil works or housing construction activities. As such, no direct, induced, or cumulative adverse environmental,
+    health and safety risks or impacts are anticipated. Potential environmental risks are limited to indirect, downstream
+    effects that could emerge from the implementation of the different policies, regulations, institutional arrangements,
+    land mapping exercises, financial instruments, and PPP frameworks that will be developed as part of the PforR. These
+    include, for example, the potential for increased demand for housing development to be channeled to locations with
+    inadequate environmental planning or weak enforcement of land-use controls, leading to pressures on natural
+    resources or settlement in hazard-prone areas. Additional low-level risks typical of technical assistance operations
+    may relate to OHS during trainings, workshops, and office-based activities; minor resource use and waste or e-waste
+    associated with capacity-building support; and health and safety considerations during stakeholder engagement
+
+                                                                                                                              Page 9
+
+
+
+                                                                                                                      Official Use Only
+       The World Bank
+       Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+    activities and field visits. These risks and impacts are envisaged to be low and temporary and are expected to be
+    mitigated with readily available measures.
+
+24. The initial social risk for the Program is considered Moderate given the nature and scope of activities under the
+    proposed PforR. These activities carry social risks such as: potential exclusion of low-income and vulnerable groups
+    (including women-headed households, persons with disabilities, and informal settlers) if the policies, regulations,
+    subsidy schemes, and eligibility criteria do not adequately address access barriers and include proactive inclusion
+    measures; risks of limited or non-representative stakeholder engagement during the development of policy and
+    regulatory reforms, PPP frameworks, and land mapping exercises, which could reduce legitimacy and social
+    acceptability; risks of inadequate information disclosure and communication; and risks that gaps between national
+    legislation and international good practice in environmental and social risk management persist, particularly in the
+    preparation of PPP frameworks. During preparation, the ESSA will also assess grievance and redress mechanisms and
+    data privacy regulations, and provide recommendations to strengthen these systems.
+
+
+25. To help manage these risks, an exclusion list will be developed during preparation of the ESSA. The Program will not
+    finance any action that results in the resettlement of people. E&S ratings will be revisited following completion of the
+    ESSA, which will provide a detailed analysis of these risks and recommend mitigation measures.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Dmitry Sivaev
+   Senior Urban Specialist
+
+   Gabriel Sergio Arrisueno Fajardo
+   Senior Urban Development Specialist
+
+   Karima Ben Bih
+   Senior Disaster Risk Management Specialist
+
+ Borrower/Client/Recipient
+  Republic of El Salvador
+
+ Implementing Agencies
+  Ministerio de VIvienda de El Salvador
+
+ FOR MORE INFORMATION CONTACT
+
+
+
+
+                                                                                                                       Page 10
+
+
+
+                                                                                                                Official Use Only
+    The World Bank
+    Housing Opportunity: Governance, Affordability, Reform in El Salvador(P513953)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+
+
+                                                                                            Page 11
+
+
+
+                                                                                     Official Use Only
+

@@ -1,0 +1,2143 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+INTERNAL
+
+
+Project Number: 55307-001
+June 2023
+
+
+
+
+Proposed Results-Based Loan, Technical
+Assistance Grant, and Administration of Loan and
+Technical Assistance Grant
+People’s Republic of Bangladesh: Improving Urban
+Governance and Infrastructure Program
+
+
+
+
+Distribution of this document is limited until it has been approved by the Board of Directors.
+Following such approval, this document will be reclassified as public and disclosed in accordance
+with ADB’s Access to Information Policy.
+                            CURRENCY EQUIVALENTS
+                               (as of 22 May 2023)
+
+                Currency unit      –     taka (Tk)
+                      Tk1.00       =     $0.009
+                       $1.00       =     Tk107.36
+
+
+                                  ABBREVIATIONS
+
+ADB            –       Asian Development Bank
+AFD            –       Agence Française de Développement
+COVID-19       –       coronavirus disease
+DLI            –       disbursement-linked indicator
+E&S            –       environmental and social
+GDP            –       gross domestic product
+GESI           –       gender equality and social inclusion
+LGD            –       Local Government Division
+LGED           –       Local Government Engineering Department
+M&E            –       monitoring and evaluation
+O&M            –       operation and maintenance
+PAP            –       program action plan
+RBL            –       results-based loan
+TA             –       technical assistance
+TASF           –       Technical Assistance Special Fund
+TLCC           –       town-level coordination committee
+UGIAP          –       urban governance improvement action plan
+UGIIP          –       Urban Governance and Infrastructure Improvement Project
+
+                                        NOTES
+
+ (i)    The fiscal year (FY) of the Government of Bangladesh and its agencies ends on
+        30 June. “FY” before a calendar year denotes the year in which the fiscal year
+        ends, e.g., FY2023 ends on 30 June 2023.
+
+ (ii)   In this report, “$” refers to United States dollars.
+Vice-President                Shixin Chen, Operations 1
+Director General              Kenichi Yokoyama, South Asia Department (SARD)
+Deputy Director General       Cindy Malvicini, SARD
+Director                      Norio Saito, Urban Development and Water Division (SAUW),
+                                 SARD
+
+Team leaders                  Laxmi Sharma, Senior Urban Development Specialist, SAUW,
+                                 SARD
+                              Amit Datta Roy, Senior Project Officer (Urban Infrastructure),
+                                  Bangladesh Resident Mission (BRM), SARD
+Team members                  Md. Monjurul Ahmed, Senior Financial Management Officer,
+                                 BRM, SARD
+                              Achyutha Rao Aleti, Environment Specialist, SAUW, SARD
+                              Mikael Andersson; Financial Management Specialist; Public
+                                 Financial Management Division; Procurement, Portfolio, and
+                                 Financial Management Department (PPFD)
+                              Saswati Belliappa, Senior Safeguards Specialist, SAUW, SARD
+                              Liming Chen, Urban Economist, SAUW, SARD
+                              Dawa Choki, Procurement Specialist, PFP1, PPFD
+                              Dharmesh Mahendra Dawda, Senior Procurement Specialist,
+                                 Procurement Division 1 (PFP1), PPFD
+                              Donna Marie R. Melo, Operations Assistant, SAUW, SARD
+                              Rabindra P. Osti, Principal Climate Change Specialist, Office of
+                                 the Director General, SARD
+                              Roshan Ouseph, Senior General Counsel, Office of General
+                                 Counsel
+                              Md. Sohel Rana, Project Analyst, BRM, SARD
+                              Arghya Sinha Roy, Principal Climate Change Specialist
+                                 (Adaptation), Climate Change and Disaster Risk Management
+                                 Division, Sustainable Development and Climate Change
+                                 Department
+                              Angelica Julieta Sebastian-Mercader, Associate Project Analyst,
+                                 SAUW, SARD
+                              Nasheeba Selim, Senior Social Development Officer (Gender),
+                                 BRM, SARD
+Peer reviewer                 Ramola Naik Singru, Principal Urban Development Specialist,
+                                 Urban Development and Water Division, Central and West
+                                 Asia Department
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                        CONTENTS
+
+                                                                                       Page
+PROGRAM AT A GLANCE
+MAP
+I.     THE PROPOSAL                                                                         1
+II.    THE PROGRAM                                                                          1
+       A.   Strategic Context                                                               1
+       B.   Program Rationale                                                               4
+       C.   Program Scope                                                                   5
+       D.   Program Results                                                                 6
+       E.   Value Added by ADB                                                              8
+       F.   Expenditure Framework and Financing Plan                                        9
+       G.   Capacity Development and Program Action Plan                                   10
+       H.   Implementation Arrangements                                                    10
+III.   ATTACHED TECHNICAL ASSISTANCE                                                       11
+IV.    SUMMARY OF ASSESSMENTS                                                              11
+       A.  Program Technical Assessments                                                   11
+       B.  Program Systems Assessments                                                     12
+       C.  Sustainability                                                                  14
+       D.  Summary of Risk Assessment and Risk Management Plan                             14
+V.     ASSURANCES                                                                          15
+VI.    RECOMMENDATION                                                                      15
+
+APPENDIXES
+1.     Design and Monitoring Framework                                                     16
+2.     List of Linked Documents                                                            20
+3.     Disbursement-Linked Indicators, Verification Protocols, and Disbursement Schedule   21
+                                                                                                   Project Classification Information Status: Complete
+
+
+                                            RESULTS BASED PROGRAM AT A GLANCE
+    1. Basic Data                                                                                   Project Number: 55307-001
+       Project Name                      Improving Urban Governance and         Department/Division SARD/SAUW
+                                         Infrastructure Program
+       Country                           Bangladesh                             Executing Agency    Local Government Engineering
+       Borrower                          People's Republic of Bangladesh                            Department, Local Govt
+       Country Economic                  https://www.adb.org/Documents/LinkedDo                     Div,Min of Local Govt Rural
+       Indicators                        cs/?id=55307-001-CEI                                       Devt & Coop
+       Portfolio at a Glance             https://www.adb.org/Documents/LinkedDo
+                                         cs/?id=55307-001-PortAtaGlance
+    2. Sector                            Subsector(s)                                                                ADB Financing ($ million)
+       Water and other urban             Other urban services                                                                          20.00
+       infrastructure and services       Urban flood protection                                                                        80.00
+                                         Urban policy, institutional and capacity development                                         102.00
+                                         Urban slum development                                                                        30.00
+                                         Urban solid waste management                                                                  18.00
+       Transport                         Urban roads and traffic management                                                            50.00
+                                                                                                               Total                  300.00
+
+    3. Operational Priorities                                                             Climate Change Information
+        OP1: Addressing remaining poverty and reducing inequalities                       GHG reductions (tons per annum)                    15,000
+        OP2: Accelerating progress in gender equality                                     Climate Change impact on the                      Medium
+        OP3: Tackling climate change, building climate and disaster resilience,           Project
+        and enhancing environmental sustainability
+        OP4: Making cities more livable                                                   ADB Financing
+        OP6: Strengthening governance and institutional capacity                          Adaptation ($ million)                             169.24
+                                                                                          Mitigation ($ million)                              11.10
+
+                                                                                          Cofinancing
+                                                                                          Adaptation ($ million)                             120.90
+                                                                                          Mitigation ($ million)                               0.00
+       Sustainable Development Goals                                                      Gender
+       SDG 11.2, 11.5, 11.7                                                               Effective gender mainstreaming (EGM)
+       SDG 13.a
+       SDG 14.1                                                                           Poverty Targeting
+       SDG 16.6                                                                           General Intervention on Poverty
+       SDG 17.1
+    4. Risk Categorization:      Complex
+.
+
+
+    5. Safeguard Categorization                 Environment: B Involuntary Resettlement: B Indigenous Peoples: B
+.
+
+
+    6. Financing
+        Modality and Sources                                                                            Amount ($ million)
+        ADB                                                                                                                                 300.00
+           Sovereign Results Based Lending (Concessional Loan): Ordinary capital                                                            300.00
+        resources
+        Cofinancing                                                                                                                         200.00
+           Agence Francaise de Developpement - Results Based Lending (Partial ADB                                                           200.00
+        Administration)
+        Counterpart                                                                                                                         189.29
+           Government                                                                                                                       189.29
+        Total                                                                                                                               689.29
+        Note: An attached technical assistance will be financed on a grant basis by the Technical Assistance Special Fund (TASF-7) in the amount of
+        $1,000,000; Japan Fund for Prosperous and Resilient Asia and the Pacific in the amount of $1,000,000.
+       Currency of ADB Financing: US Dollar
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.           25052023090606429953                                 Generated Date: 09-Jun-2023 21:07:52 PM
+                                           I.     THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on a proposed results-
+based loan (RBL) to the People’s Republic of Bangladesh for the Improving Urban Governance
+and Infrastructure Program (program). The report also describes (i) the proposed technical
+assistance (TA) for Supporting the Improving Urban Governance and Infrastructure Program, (ii)
+the proposed administration of a loan to be provided by Agence Française de Dèveloppement
+(AFD), and (iii) the proposed administration of TA to be provided by the Japan Fund for
+Prosperous and Resilient Asia and the Pacific, and if the Board approves the proposed loan, I,
+acting under the authority delegated to me by the Board, approve the TA and the administration
+of the loan and TA.
+
+2.       ADB and AFD will finance the RBL program of the Government of Bangladesh (the
+government) to improve urban governance and services in 88 pourashavas (municipalities) of
+Bangladesh from fiscal year (FY) 2024 to FY2028, benefiting 7.6 million people.1 The program
+will (i) strengthen institutional capacity for inclusive municipal governance; and (ii) improve
+municipal infrastructure in terms of quality, access, resilience, and gender responsiveness. The
+program will support the government in improving the livability of pourashavas through integrated
+and sustainable urban development, building on ADB’s 20 years of experience, lessons, and
+engagement in improving municipal governance and infrastructure in Bangladesh.
+
+                                           II.      THE PROGRAM
+
+A.      Strategic Context
+
+3.      Bangladesh is a lower middle-income economy with a rapidly growing urban population;
+the urban population increased by 3.4% during 2011–2021, which is faster than the average rate
+for South Asia (1.8%) in this period.2 Poverty has declined substantially, from 35.0% in FY2009
+                                           F
+
+
+
+
+to 20.5% in FY2019, 3 while gross domestic product (GDP) has grown steadily. GDP growth
+increased from 7.1% in FY2016 to 8.2% in FY2019, for an average annual GDP growth of 7.6%
+over this period.4 The country has successfully maintained macroeconomic stability despite the
+coronavirus disease (COVID-19) pandemic, with GDP growth of 6.9% in 2021 and 7.1% in 2022.5
+The urban sector’s contribution to GDP increased from 25.0% in 1972–1973 to over 65.0% in
+2019.6 In 2022 an estimated 31.5% of the country’s population lived in urban areas, equal to 52
+million people. 7 Maintaining the country’s growth momentum and poverty reduction requires
+sustainable urban development, given that urban areas (i) will be home to an estimated 60.0% of
+the population, including climate migrants, by 2050; and (ii) will contribute significantly to the
+economy.8
+4.      Sector performance and gaps. Urban poverty declined from 21.3% in 2010 to 15.7% in
+
+1 Pourashavas are the local government institutions established in secondary towns as per the Local Government
+  (Pourashava) Act, 2009.
+2 World Bank. Urban population growth (% of total population)–Bangladesh, South Asia. (Accessed date: 16 April 2023).
+3 Government of Bangladesh, Bangladesh Planning Commission. 2020. Eighth Five-Year Plan 2021–2025. Promoting
+
+  Prosperity and Fostering Inclusiveness. Dhaka.
+4 ADB. 2021. Country Partnership Strategy: Bangladesh, 2021–2025—Sustain Growth, Build Resilience, and Foster
+
+  Inclusion. Manila.
+5 Government of Bangladesh, Bangladesh Bureau of Statistics. 2023. Gross Domestic Product (GDP) of Bangladesh
+
+  2021-22. Dhaka.
+6 United Nations Development Programme. 2019. Why a national urban policy should be our top priority. Dhaka.
+7 Government of Bangladesh, Bangladesh Bureau of Statistics. 2022. Population and Housing Census (Preliminary
+
+  Report). Dhaka.
+8 The World Bank Group. 2022. Bangladesh: Country Climate and Development Report. Washington, DC.
+2
+
+
+2018.9 Bangladesh has universal access (99.4%) to improved drinking water sources, with 74.0%
+of the urban population using an improved sanitation facility.10 However, the quality of drinking
+water and sanitation access in low-income neighborhoods is a concern. Many urban poor live in
+substandard conditions, often in hazard-prone areas with poor infrastructure and services
+affecting the lives of women and vulnerable people. 11 Most cities have poor solid waste
+management practices with only 45.0%–76.0% of generated waste collected, which is typically
+transported to the disposal site and dumped without treatment. Open dumping contributes to
+drainage blockage and other problems such as siltation in channels and rivers, which increases
+flooding and public health risks. The lack of, and poor operation and maintenance (O&M) of solid
+waste and septage systems result in polluted waterways, and public health and sanitation
+problems. Drainage systems have not been developed to withstand high-intensity rainfall and are
+poorly maintained, resulting in frequent water logging. Many roads are dilapidated and suffer from
+high traffic volumes, congestion, and a lack of road maintenance. Traffic jams in city centers limit
+economic productivity and access to social services and common destinations (e.g., schools,
+hospitals, banks, and markets).12 The situation is exacerbated by climate change, inadequate
+governance, and capacity constraints in pourashavas. The urban sector requires increased
+investment to improve urban services by aligning with the government’s priorities.
+
+5.       Governance and institutional capacity constraint in pourashavas. Bangladesh has
+329 pourashavas and 12 city corporations. The Local Government (Pourashava) Act, 2009 gave
+the pourashavas a wide range of responsibilities, including town planning, infrastructure
+development, and service delivery. However, pourashavas have various challenges, including
+(i) insufficient capacity to perform in accordance with their mandate; (ii) limited funding to cover
+the cost of priority investments and O&M; (iii) low participation by citizens, including women and
+the vulnerable, in pourashavas’ activities; and (iv) lack of integrated, risk-informed urban planning.
+These lead to poor municipal infrastructures and services.13 In addition, pourashavas receive two-
+thirds of their funding from intergovernmental transfers and have limited own-source revenues
+because of low tax coverage and poor collection and accounting. The capacity of pourashavas
+needs to be strengthened with respect to (i) inclusive municipal governance; (ii) participation of
+women and vulnerable populations; (iii) managing climate change, disaster risk, and local revenue
+generation; (iv) the size of the tax base, and tax collection and accounting; and (v) approval and
+enforcement of risk-informed master plans. Strong local governance is key to addressing many
+challenges confronting Bangladesh’s urban sector.
+
+6.     Climate change and disaster risk. Bangladesh’s pourashavas are increasingly
+vulnerable and exposed to climate change and disaster risks because of (i) low-lying topography
+subject to flooding and waterlogging; (ii) landscape changes due to rapid and often unplanned
+construction and urban expansion, with reduced capacity to buffer impacts from floods, tropical
+cyclones, and landslides; (iii) poor awareness of vulnerable populations regarding climate and
+disaster risk; and (iv) weak institutional and strategic planning capacity of pourashavas to manage
+climate and disaster risks, and pursue risk-informed development. The risks facing urban areas
+
+9  Government of Bangladesh, Bangladesh Planning Commission. 2020. Making Vision 2041 a Reality: Perspective
+   Plan of Bangladesh 2021–2041. Dhaka.
+10 National Institute of Population Research and Training and International Classification of Functioning, Disability and
+
+   Health. 2020. Bangladesh Demographic and Health Survey 2017–2018. Dhaka, Bangladesh and Rockville,
+   Maryland, United States.
+11 World Bank. 2012. Climate Change, Disaster Risk and Urban Poor-Cities Building Resilience for a Changing World.
+
+   Washington, DC.
+12 ADB. 2022. Incentivizing Change: How Governance Reforms are Changing the Urban Landscape of Bangladesh.
+
+   Manila.
+13 Government of Bangladesh, Local Government Division. 2017. National Strategy for Pourashava Governance
+
+   Improvement (NSPGI) 2016–2025. Dhaka.
+                                                                                                           3
+
+
+are expected to increase as a result of climate-induced rural–urban migration, thereby further
+burdening the pourashavas. The Local Government Engineering Department (LGED) and
+pourashavas need strengthened capacity in (i) enabling urban resilience, including through risk-
+informed technical planning skills; (ii) developing nature-based solutions; (iii) designing,
+executing, and sustaining climate-resilient and gender equality and social inclusion (GESI)-
+responsive infrastructure; and (iv) ensuring the climate resilience of services.
+
+7.      Government-owned program. The Local Government Division (LGD) of Ministry of Local
+Government, Rural Development and Cooperatives has adopted a Municipal (Pourashava)
+Development Plan, which provides a strategic framework and program for the development of
+pourashavas that promotes performance-based incentives for improving governance and
+infrastructure, financed by domestic public resources and development partners. 14 The
+government’s urban program for 329 pourashavas calls for spending $18 billion during 2022–
+2037 to improve municipal infrastructure and services, reduce urban poverty, and improve living
+conditions. It is aligned with Bangladesh’s Perspective Plan, 2021–2041 (Vision 2041) (footnote
+9) and Eighth Five-Year Plan 2021–2025 (footnote 3), which clearly articulate the country’s vision
+and perspective on urban development, including pourashava development. Bangladesh’s Vision
+2041 is the government’s long-term strategy that includes institutional pillars of governance,
+decentralization, and capacity building, and calls for a properly managed urban transition and
+building resilience. The Eighth Five-Year Plan was adopted as part of the road map to realize
+Vision 2041. It prioritizes institutional reforms to develop strong local government institutions, and
+investment in critical urban infrastructure and services to improve quality of life and build climate
+resilience. The government’s urban sector financing strategy promotes (i) criteria-based transfers
+of public funds, (ii) improved tax revenues resulting from reforms such as modernization of the
+property tax regime, (iii) mobilization of private financing, and (iv) cost recovery for urban services.
+LGED supports the development of pourashavas following an integrated approach to deliver
+resilient infrastructure facilities and improve service delivery. Risks to urban areas from climate
+change are highlighted in the Bangladesh Delta Plan 2100 and the National Adaptation Plan
+2023–2050.15
+
+8.     Overview of ADB-supported urban governance and infrastructure improvement
+projects. ADB has supported enhancements in pourashavas’ service delivery capacity and
+effectiveness through a series of sector projects to reduce regional disparities and encourage
+local economic development: the Urban Governance and Infrastructure Improvement Project
+(UGIIP) in 2002, the second UGIIP (2008), and the third UGIIP (2014). 16 The UGIIPs’
+performance-based fund allocation (pourashavas receive funding for infrastructure improvement
+upon meeting governance performance criteria) has proven an effective approach.17 The UGIIPs
+demonstrated that urban services can be improved by addressing local governance and
+institutional capacity.18 Major successes achieved under the UGIIPs include (i) establishment of
+town-level coordination committees (TLCCs) and ward committees in all project pourashavas
+
+14 Government of Bangladesh, Local Government Division. 2022. Municipal (Pourashava) Development Plan (2022–
+
+   2037). Dhaka.
+15 Government   of Bangladesh. 2018. Delta Plan 2100. Dhaka; and Government of Bangladesh, Ministry of
+   Environment, Forest and Climate Change. 2022. National Adaptation Plan of Bangladesh (2023–2050). Dhaka.
+16 ADB. 2002. Bangladesh: Urban Governance and Infrastructure Improvement (Sector) Project; ADB. 2008.
+
+   Bangladesh: Second Urban Governance and Infrastructure Improvement (Sector) Project; ADB. 2014 Bangladesh:
+   Third Urban Governance and Infrastructure Improvement (Sector) Project. ADB. 2017. Bangladesh: Third Urban
+   Governance and Infrastructure Improvement (Sector) Project – Additional Financing. Manila.
+17 ADB. 2012. The Urban Governance and Infrastructure Improvement Project in Bangladesh: Sharing Knowledge on
+
+   Community-Driven Development. Manila.
+18 ADB. 2022. Incentivizing Change: How Governance Reforms are Changing the Urban Landscape of Bangladesh.
+
+   Manila.
+4
+
+
+(these are key institutions to ensuring citizens’ participation, and include representation of women
+and the poor); (ii) development and implementation of pourashava-level gender action plans and
+poverty reduction action plans using earmarked fund from pourashavas’ own-revenue generation;
+(iii) computerization of tax and accounting records; (iv) increased average collection of taxes; and
+(v) climate change design considerations introduced in the road, drainage, water supply, and
+sanitation design standards.19 The approach adopted under the UGIIPs has been recognized in
+                                  1
+
+
+
+
+Bangladesh for its effectiveness, and there is high demand among pourashavas to participate in
+the UGIIP scheme. The government has replicated performance-based resource allocation in
+their annual budget allocation to pourashavas with set minimum criteria. Many externally funded
+projects are increasingly adopting this approach with customized criteria.20 However, governance
+reforms need to be further advanced to ensure the quality and resilience of municipal
+infrastructure, use of information technology in monitoring and evaluating pourashavas’
+performance, risk-informed urban planning, financial sustainability, and results-based municipal
+management, all of which are needed to facilitate sustainable delivery of resilient basic services
+and controlled urban development.
+
+B.       Program Rationale
+
+9.       With ADB’s support, the government has been strengthening municipal governance in
+Bangladesh since 2002 (footnote 16). The RBL program will support a slice of the government
+program by improving urban governance and services for 88 pourashavas at an estimated cost
+of $689.29 million, in line with the government plan and policies.21 It contributes to pillar 1 (boost
+competitiveness, employment, and private sector development); pillar 2 (promote green growth
+and climate resilience); and crosscutting themes (accelerate GESI, strengthen governance and
+institutional capacity) of ADB’s country partnership strategy for Bangladesh, 2021–2025 (footnote
+4). The RBL program is aligned with ADB’s Strategy 2030 and supports its five operational
+priorities (OP): (i) addressing remaining poverty and reducing inequalities (OP 1); (ii) accelerating
+progress in gender equality (OP 2); (iii) tackling climate change, building climate and disaster
+resilience, and enhancing environmental sustainability (OP 3); (iv) making cities more livable
+(OP4); and (v) strengthening governance and institutional capacity(OP 6).22 The RBL program is
+also expected to be fully aligned with the goals of the Paris Agreement. 23 The program will
+contribute to ADB’s Healthy Oceans Action Plan by controlling pollution.24              2
+
+
+
+
+10.    Lending modality. ADB’s due diligence confirmed that the program meets the
+requirements for the RBL modality: 25 (i) the government has demonstrated satisfactory
+leadership, commitments, and high-level support for its municipal development plan to improve
+
+19 ADB. 2012. Completion Report: Urban Governance and Infrastructure Improvement (Sector) Project in Bangladesh.
+
+   Manila; and ADB. 2017. Completion Report: Second Urban Governance and Infrastructure Improvement (Sector)
+   Project in Bangladesh. Manila.
+20 Japan International Cooperation Agency. 2013. Northern Bangladesh Integrated Development Project. Tokyo; World
+
+   Bank. 2013. Municipal Governance and Basic Urban Services Improvement. Washington, DC.
+21 Pourashavas are selected based on the following criteria: (i) inadequate investment with no major projects by
+
+   development partners and no government transfers, (ii) strong willingness and agreement on abiding with
+   performance criteria, (iii) initiatives undertaken for public financial management improvement, and (iv) located in
+   areas identified in national government policy and plans for future strategic growth.
+22 ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+
+   Manila; and Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in
+   Appendix 2).
+23 The Paris Agreement Alignment assessment was conducted as a part of the preliminary climate and disaster risks
+
+   screening.
+24 ADB. 2019. Action Plan for Healthy Oceans. Manila. The project through DLI 6 (ii) supports one of the ocean
+
+   objectives, i.e., Focus Area B (Pollution control), item 1. Solid waste management.
+25 ADB. 2021. Result-Based Lending for Programs. Operations Manual. OM section D18. Manila.
+                                                                                                                      5
+
+
+urban governance and infrastructure; (ii) LGED has demonstrated satisfactory institutional
+capacity and gained adequate experience working with ADB and other development partners; (iii)
+LGED has prior experience in implementing a World Bank project;26 (iv) the RBL modality lowers
+                                                                                F
+
+
+
+
+the government’s transaction costs in implementing small-value contracts (as compared to inputs
+in a sector loan), and helps ADB rely on and strengthen the government’s practices, systems,
+and institutional capacity; (v) the program creates incentives for delivering results, given that ADB,
+AFD, and central government disbursements will be based on the achievement of RBL program
+results as measured by disbursement-linked indicators (DLIs); and (vi) given the Eighth Five-Year
+Plan directives to diversify urban sector funding sources, the RBL modality will leverage
+contributions by other development partners to the common framework. AFD will provide $200
+million in cofinancing, and ADB and AFD have coordinated their due diligence assessments and
+have harmonized key DLIs.
+
+11.     Lessons. The program design incorporates lessons from ADB’s RBL program
+experience, UGIIP operations, and other ADB urban sector projects in Bangladesh. These
+lessons include: (i) DLIs should be within the control of the program, and not be strongly affected
+by external factors;27 (ii) it is essential that capacity development support be carefully designed
+                      2
+
+
+
+
+and well-resourced in order to achieve minimum standards of fiduciary control;28 (iii) the reforms
+supported by the RBL should be carefully sequenced and complemented with other instruments
+or modalities to provide appropriate capacity development and institutional strengthening, and to
+ensure the effectiveness of ADB strategies (footnote 22); (iv) the use of governance performance
+as a basis for the allocation of investment is an effective approach; (v) the involvement of citizens
+in pourashava planning and development helps establish transparent decision-making and
+improve the quality of works; and (vi) implementation of the infrastructure component of the
+project coupled with timely technical support and capacity building is pivotal to ensuring project
+readiness and implementation progress in a highly challenging context. 29
+
+C.      Program Scope
+
+12.     Table 1 summarizes the scope of the broader government program and the RBL program.
+
+                                          Table 1: Program Scope
+Item                           Broader Government Programa                Results-Based Lending Program
+Outcome                   Urban poverty reduced and living           Municipal services and governance in target
+                          conditions improved through planned,       pourashavas improved.
+                          inclusive, and sustainable urbanization,
+                          better city governance, and improved
+                          infrastructure and services.
+Key outputs               (i) Improved governance.                   (i) Institutional capacity for inclusive municipal
+                          (ii) Improved infrastructure and service   governance strengthened.
+                          provisions.                                (ii) Municipal infrastructure improved in quality,
+                                                                     access, resilience, and gender equality and
+                                                                     social inclusion responsiveness.
+Activity types            Improve urban governance, basic urban      Prepare UGIAP, develop a web-based
+                          infrastructure and services,               revenue management system, prepare central
+
+
+26 World Bank Group. 2018. Operation for Supporting Rural Bridges Project. Washington, DC.
+27 Independent  Evaluation Department (IED). 2021. Validation Report: Electricity Grid Strengthening—Sumatra
+   Program in Indonesia. Manila: ADB.
+28 IED. 2017. Corporate Evaluation: Results-Based Lending at the Asian Development Bank: An Early Assessment.
+
+   Manila: ADB.
+29 IED. 2018. Validation Report: Second Governance and Infrastructure Improvement Project in Bangladesh. Manila:
+
+   ADB; and IED. 2021. Validation Report: City Region Development Project in Bangladesh. Manila: ADB.
+6
+
+
+Item                           Broader Government Programa                      Results-Based Lending Program
+                           transportation, disaster management,         government fund transfers, construct municipal
+                           climate resilience, and implementation       and low-income neighborhood infrastructure
+                           of urban poverty reduction programs.         civil works, undertake capacity development
+                                                                        activities, and prepare GESIAP preparation
+                                                                        and budgeting.
+Expenditure size           $18.00 billion                               $689.29 million
+Main financiers and        Government: $16.40 billion; ADB: $0.83       Government: $189.29 million
+their respective total     billion;b AFD: $0.20 billion; AIIB: $0.30    ADB: $300.00 million
+amounts                    billion; IsDB: $0.10 billion; JICA: $0.20    AFD: $200.00 million
+                           billion; World Bank: $0.3 billionc
+ Geographic coverage       Nationwide (329 pourashavas)              88 pourashavas
+ Implementation period     2022–2037                                 2023–2028 (5 years)
+ADB = Asian Development Bank, AFD = Agence Française de Dèveloppement, AIIB = Asian Infrastructure Investment
+Bank, GESIAP = gender equality and social inclusion action plan, IsDB = Islamic Development Bank, JICA = Japan
+International Cooperation Agency, UGIAP = urban governance improvement action plan.
+a Government of Bangladesh, Local Government Division. 2022. Municipal (Pourashavas) Development Plan (2022–
+
+   2037). Dhaka.
+b Includes ADB-financed projects: ADB. Bangladesh: Coastal Towns Climate Resilience Project ($0.25 billion); ADB.
+
+   Bangladesh: Second City Region Development Project ($0.15 billion); ADB. The proposed Bangladesh: Improving
+   Urban Governance and Infrastructure Program ($0.30 billion); and ADB. The proposed Bangladesh: Chattogram Hill
+   Tracts Inclusive and Resilient Urban Water Supply and Sanitation Project ($0.13 billion).
+c Sector Assessment (Summary): Water and Other Urban Infrastructure and Services (accessible from the list of linked
+
+   documents in Appendix 2).
+Source: Asian Development Bank.
+
+D.       Program Results
+
+13.     The RBL program’s impacts will be: urban poverty reduced and living conditions improved
+(footnote 9). The outcome will be: improved municipal services and governance in target
+pourashavas in terms of increased holding tax collection efficiency (DLI 1) and improved livability
+(non-DLI). Selected DLIs, identified under each output described below, will create incentives to
+achieve the program’s expected outcome.30
+
+14.      Output 1: Institutional capacity for inclusive municipal governance strengthened.
+Output 1 contributes to achieve the program outcome by (i) institutionalizing the criteria-based
+government development budget transfer to pourashavas (DLI 2); (ii) implementing urban
+governance improvement action plans (UGIAPs) in 88 pourashavas (DLI 3);31 (iii) computerizing
+(web-based) revenue management systems in 88 pourashavas (DLI 3); (iv) establishing a gender
+and climate-responsive O&M management system in 88 pourashavas (DLI 6);32 (v) training 1,570
+staff (including 90% of eligible women staff and female councilors of pourashavas, LGED, and
+LGD) on urban governance, tax management, technical, climate-resilient urban planning, and
+GESI Action Plan (DLI 3 and DLI 5); (vi) earmarking at least 1% of the municipal revenue budget
+for implementation of pourashava-specific GESI action plans by 88 pourashavas (DLI 7); (vii)
+training 5,100 residents (including 50% women) of low-income neighborhoods on resilient
+livelihood skills (DLI 7); (viii) forming at least 252 low-income neighborhood improvement
+
+30 The design and monitoring framework is in Appendix 1.
+31 UGIAP is under implementation in 26 pourashavas. UGIAP covers (i) citizen’s awareness and participation; (ii) urban
+
+   planning; (iii) equity and inclusiveness of women and urban poor; (iv) enhancement of local resource mobilization;
+   (v) financial management, accountability, and sustainability; (vi) gender-responsive O&M and management systems;
+   (vii) condition surveys and preparation of infrastructure assets inventory; (viii) administrative transparency; and (ix)
+   maintenance of essential pourashava services.
+32 Includes O&M of waste management system in 25 pourashavas. This will reduce about 2,400 tons per annum of
+
+   carbon dioxide emissions.
+                                                                                                              7
+
+
+committees with at least 50% women members in 63 pourashavas (DLI 7); (ix) approving 63
+climate and disaster risk-informed master plans by respective pourashava councils (DLI 5); (x)
+completing at least 300 resilient and gender-responsive municipal infrastructure component
+detailed designs (DLI 4); and (xi) adopting climate-resilient and socially inclusive public open
+space guidelines (DLI 5).
+
+15.     Output 2: Municipal infrastructure improved in quality, access, resilience, and
+gender responsiveness. The RBL program will support the development of priority municipal
+infrastructure and essential services for improving livability in 63 target pourashavas by
+(i) rehabilitating and reconstructing stormwater drainage, including natural drainage, to reduce
+climate and disaster risk (DLI 8); (ii) rehabilitating or reconstructing roads with stormwater
+drainage, bridges, and culverts for improved connectivity and access to municipal services that
+meet standards for GESI responsiveness, safety, resilience, and accessibility (DLI 9); (iii)
+improving other infrastructure, including community facilities and climate-resilient and socially
+inclusive public open spaces (DLI 10); and (iv) implementing low-income neighborhood
+improvement programs, including the construction of elderly (old age), women, and child-friendly
+sanitation facilities for poor households (non-DLI).
+
+16.     The 10 DLI areas agreed upon with the government, and disbursement allocations are
+summarized in Table 2. The DLIs include an appropriate mix of outcome, output, and institutional
+indicators. All output DLIs contribute to achieving the program outcome (non-DLI and DLI).33 The
+DLIs are sufficiently ambitious as they ensure a gradual and sustained expansion of results,
+implementation of criteria-based fund transfers, governance and infrastructure development,
+equity and inclusiveness, O&M sustainability, and use of information and communication
+technology. Financing of prior results DLIs includes adopting the government’s Municipal
+(Pourashavas) Development Plan (footnote 14) as the pourashava development framework and
+program. The program action plan (PAP) includes key actions required to achieve the targets in
+the DLI framework and the results framework.34
+
+                                 Table 2: Disbursement-Linked Indicators
+                                                                                  Disbursement    Share of Total
+                                                                                    Allocated     ADB Financing
+Indicator a                                                                         ($ million)        (%)
+Outcome
+1. Holding tax collection efficiency increased to at least 80% by 88               20.0              6.7
+    pourashavas.b
+Outputs
+Output 1: Institutional capacity for inclusive municipal governance strengthened.
+2. Criteria-based development fund transfer to pourashavas institutionalized      34.00             11.3
+3. At least 88 pourashavas’ governance and planning improved.                     27.00              9.0
+4. At least 300 detailed designs of resilient and gender-responsive municipal       6.00             2.0
+    infrastructure subproject completed.
+5. Financial management, and resilient and inclusive planning capacity of         30.00             10.0
+    LGED improved.
+6. Gender-responsive operation and maintenance management systems                  12.00             4.0
+    established in 88 pourashavas.
+7. Equity and inclusiveness of women and the poor in at least 88                  21.00              7.0
+    pourashavas ensured.
+Output 2: Municipal infrastructure improved quality, access, resilience, and gender responsiveness.
+
+
+33 Outcome level non-DLI is at least 80% of citizen report improved livability.
+34 Program Action Plan (accessible from the list of linked documents in Appendix 2).
+8
+
+
+                                                                               Disbursement       Share of Total
+                                                                                 Allocated        ADB Financing
+Indicator a                                                                      ($ million)           (%)
+8. At least 900 km of stormwater drainage rehabilitated or reconstructed            95.59               31.9
+9. At least 1,500 km of roads rehabilitated or reconstructed.                       33.25               11.1
+10. At least seven climate-resilient and socially inclusive public facilities        6.00                2.0
+     developed or remodeled.
+Financial charges during implementation                                                  15.16            5.0
+                                       Total                                            300.00          100.0
+ ADB = Asian Development Bank, km = kilometer, LGED = Local Government Engineering Department.
+ a DLI indicators, verification protocols, and disbursement schedule are in Appendix 3.
+ b 2022 average baseline tax collection efficiency is 50%.
+
+ Sources: Asian Development Bank and Local Government Engineering Department.
+
+17.      A rigorous verification protocol was developed (Appendix 3), and LGED’s Office of the
+Chief Engineer will engage a competent and credible independent verification agency, a private
+entity, to verify and confirm the achievement of targets against the protocol. An indicative timeline
+for DLI achievement has been set, and partial disbursement is allowed for selected DLIs
+(Appendix 3, Table A3.2). The government has institutionalized mechanisms to receive people's
+feedback in each pourashava for their activities, particularly in tax collection, budget execution,
+and implementation of the pourashava development plan.35 The TLCC, ward committee, and low-
+income neighborhood improvement committees of target pourashavas represent the beneficiaries
+and will provide feedback on the RBL results. ADB and AFD will undertake at least two review
+missions annually to (i) review the achievement of DLIs, financial management reports, and audit
+reports; (ii) review annual work plans and budgets; and (iii) conduct sample spot checks of
+verifications.
+
+E.      Value Added by ADB
+
+18.     The RBL program will scale up ADB’s 20 years of successful engagement with the
+government through the UGIIPs (footnote 16) in support of urban governance and infrastructure
+improvement by incorporating the approach within the government’s program. The UGIIPs have
+proven that putting governance improvement as a condition for receiving development funds
+incentivizes the pourashavas to become more accountable, transparent, citizen-centric, poverty-
+oriented, and gender-responsive. Building on experiences from the Coastal Towns Climate
+Resilience Project, the program supports the government in expanding climate solutions.36 ADB
+lending through the RBL modality will provide much-needed finance for investments in institutional
+and capacity development, and infrastructure. ADB will also introduce technology and innovations
+to strengthen the web-based program monitoring and evaluation (M&E) system by integrating
+monitoring of pourashavas’ governance, asset management, and resource mobilization
+performance. ADB financing enabled the government to leverage cofinancing and inputs through
+a common results framework. ADB will assist with risk mitigation and management, and support
+capacity development through the attached TA (para. 26). Lessons learned, good practices, and
+experiences in implementing governance-led infrastructure improvement, GESI features of the
+UGIIPs, and the RBL program will be captured and disseminated through the recently established
+ADB Capacity Development Resource Center in Bangladesh for replication in Bangladesh and
+
+35 TLCC and ward coordination committees are established by the pourashavas as per Articles 15 and 14 of the Local
+
+   Government (Pourashava) Act, 2009. Each TLCC includes maximum of 50 members who represent citizens from
+   different interest groups, and ward coordination committees include a maximum of 10 members from the respective
+   ward, with at least 40% female members. Low-income neighborhood improvement committees are formed by the
+   pourashavas with representation from those neighborhoods that will undertake neighborhood improvement works.
+36 ADB. Bangladesh: Coastal Towns Climate Resilience Project.
+                                                                                                                    9
+
+
+other economies across Asia and the Pacific. ADB closely collaborated with the Global Center on
+Adaptation for the capacity development of LGED and pourashavas on climate solutions.
+
+F.       Expenditure Framework and Financing Plan
+
+19.     Program expenditures. The RBL program expenditures are estimated to be $689.29
+million from FY2023 to FY2028 (Table 3). Development expenditures, primarily capital
+expenditures, account for 87.1% of the RBL program expenditure, while nondevelopment
+expenditures, mainly recurrent expenditures, account for 12.9%.
+
+           Table 3: Summary of Program Expenditure Framework, FY2023–FY2028
+                                     (in 2022 prices)
+  Item                                                        Amount ($ million)             Share of Total (%)
+  I. Development expenditures
+  A. Investment cost
+      1. Training and capacity development                            9.00                             1.31
+      2. Land acquisition                                           50.00                              7.25
+      3. Civil worksa                                              378.20                             54.87
+      4. Operation and maintenance                                  34.40                              4.99
+      5. Goods and equipment                                        19.50                              2.83
+      6. Consultant                                                 30.60                              4.44
+      7. Wages and salaries (including outsourcing                    9.80                             1.42
+           staff)
+  Total base cost                                                  531.50                             77.11
+  B. Contingenciesb                                                 37.82                              5.49
+  C. Financial charges during implementation                        30.68                              4.45
+  Total development expendituresc (A+B+C)                          600.00                             87.05
+  II. Nondevelopment expendituresd                                  89.29                             12.95
+                                 Total expenditures (1+2)          689.29                            100.00
+a
+    The results-based lending program includes stormwater drains; roads, including streetlights, footpath, market, and
+    socially inclusive public space improvement; and slum improvement works.
+b This could be applied to other planned cost items.
+c Excludes discrete development projects under the management of the Local Government Engineering Department
+
+    and pourashavas.
+d Includes the Local Government Engineering Department’s management costs, such as the salaries for existing
+
+    personnel.
+Sources: Local Government Engineering Department and Asian Development Bank estimates.
+
+20.    Program financing. The government has requested a concessional loan of $300.0 million
+from ADB’s concessional ordinary capital resources to help finance the program, and an attached
+TA grant of $2.0 million (para. 26). The loan will have a 25-year term, including a grace period of
+5 years; an interest rate of 2.0% per year during the grace period and thereafter; and such other
+terms and conditions set forth in the draft loan agreements. The AFD will provide a loan
+cofinancing equivalent to $200.0 million, to be partially administered by ADB.
+
+21.      The summary program financing plan is in Table 4.
+
+                                     Table 4: Program Financing Plan
+                                                                            Amount                 Share of Total
+Source                                                                     ($ million)                  (%)
+Government of Bangladesh                                                     189.29                     27.46
+10
+
+
+                                                                   Amount                          Share of Total
+Source                                                            ($ million)                           (%)
+Development partners
+    Asian Development Bank ordinary capital resources
+    (concessional loan)                                             300.00                              43.52
+    Agence Française de Développement (loan)                        200.00                              29.02
+        Total                                                       689.29                             100.00
+Sources: Asian Development Bank and Agence Française de Développement.
+
+22.     Climate mitigation is estimated to cost $11.1 million and climate adaptation is estimated
+to cost $290.14 million. ADB will finance 100% of climate mitigation costs ($11.1 million) and
+58.3% of adaptation costs ($169.24 million). AFD will finance 41.7% of adaptation costs ($120.9
+million). This amount will contribute towards advancing climate actions (mitigation and adaptation)
+through activities identified under relevant DLIs, and will support urban areas to pursue low-
+carbon and climate- and disaster-resilient development.37
+
+G.      Capacity Development and Program Action Plan
+
+23.     The RBL program will strengthen capacity in the urban sector, particularly for the LGD,
+LGED, and pourashavas. The capacity development activities in the PAP (footnote 34) are
+summarized in five areas: (i) technical, (ii) financial, (iii) environmental and social (E&S)
+safeguards, (iv) GESI, and (v) climate change. The PAP will be reviewed and updated as needed
+during implementation. The design of the PAP considers how best to use RBL program
+opportunities to strengthen institutions and results in combination with a realistic and feasible
+scope for implementation. The attached TA (para. 26) will help achieve the program results by
+supporting the government in implementing the PAP and addressing the policy gaps. The recently
+established ADB Capacity Development Resource Center in Bangladesh will also coordinate with
+the National Institute for Local Government to strengthen LGD, LGED, and pourashavas.
+
+H.      Implementation Arrangements
+
+24.     The RBL program will be implemented from July 2023 to June 2028. 38 LGED is the
+executing agency responsible for overall coordination, assisted by technical and program
+management experts. The LGD of the Ministry of Local Government, Rural Development and
+Cooperatives will provide overall guidance and supervision of the RBL program. LGED has more
+than 30 years of experience and a good track record of working with development partners,
+including ADB, the Islamic Development Bank, the Japan International Cooperation Agency, and
+the World Bank. The 88 pourashavas are the implementing agencies and are governed by the
+Local Government (Pourashava) Act, 2009. They are responsible for planning and implementing
+local infrastructure development, revenue enhancement plans, and low-income neighborhood
+improvement works. On behalf of the LGD, LGED monitors and evaluates the performance of
+pourashavas and provides technical guidelines and design standards.
+
+25.     Disbursement arrangements. Disbursement of the loan proceeds, including ADB-
+administered cofinancer funds, will follow ADB’s Loan Disbursement Handbook (2022, as
+amended from time to time) and detailed arrangements agreed upon between the government
+and ADB. The loan proceeds, including the ADB-administered cofinancer fund, will be disbursed
+to the government’s designated account as described in the program implementation document.39
+
+37 Climate Change Assessment (accessible from the list of linked documents in Appendix 2).
+38 Implementation period is reviewed as part of the soundness assessment.
+39 Program Implementation Document (accessible from the list of linked documents in Appendix 2).
+                                                                                                                   11
+
+
+ADB disbursement will be made upon the achievement of DLIs and their subsequent verification
+by the independent verification agency following the verification protocol (para. 17). Where
+achievements are partial, partial disbursements may be made as per the verification protocol. The
+RBL program includes a provision for financing for prior results of $15.0 million and advance
+financing of a maximum of $25.0 million considered to achieve the initial set of DLIs and the
+subsequent DLIs during the RBL program implementation.40 The government will ensure that the
+total eligible expenditures equal or exceed the total disbursement amount from ADB and AFD.
+The prior results will support the expedient implementation of pourashava reforms by
+institutionalizing criteria-based development fund transfer (DLI 2).
+
+                              III.     ATTACHED TECHNICAL ASSISTANCE
+
+26.      The TA is estimated to cost $2,000,000, of which (i) $1,000,000 will be financed on a grant
+basis by ADB’s Technical Assistance Special Fund (TASF 7); and (ii) $1,000,000 will be financed
+on a grant basis from the Japan Fund for Prosperous and Resilient Asia and the Pacific to be
+administered by ADB. The government will provide counterpart support in the form of counterpart
+staff, office space, office supplies, secretarial assistance, and other in-kind contributions. The TA
+will support the implementation of the RBL program by (i) strengthening sector guidance, including
+institutionalizing criteria-based development fund transfers to pourashavas and results
+management; and (ii) improving RBL program management capacity. 41
+
+                                     IV.   SUMMARY OF ASSESSMENTS
+
+A.       Program Technical Assessments
+
+27.      Program soundness and results assessment. The RBL program design and
+implementation arrangements are sound and the DLIs are critical indicators for achieving the
+expected RBL program results, which will benefit 7.6 million people through improved
+governance, municipal services, and livability of 88 program pourashavas. The program is highly
+relevant to the country’s development needs as the selected pourashavas are the government’s
+priorities under its overall program. LGED has demonstrated its ability to manage resources and
+monitor the performance of pourashavas to achieve output- and outcome-level results. LGED’s
+web-based management information system developed with World Bank support is capable of
+monitoring the pourashavas’ performance against revenue enhancement-related indicators.42
+The LGED confirmed to upgrade the existing performance management information system to
+make it a fit-for-purpose internet-based management information system. The expenditure
+framework and financing plan are simple, robust, and linked to economic codes. The RBL
+program expenditures can be recorded through the Integrated Budget and Accounting, which can
+easily generate interim financial statements as needed. The RBL program design has been
+informed by existing relevant climate assessments (footnotes 11 and 37).
+
+28.     Economic analysis. The infrastructure improvement and urban governance outputs in
+the RBL are expected to collectively assist the government in systematically implementing its own
+program to provide strengthened municipal governance, and sustainable and inclusive services
+to the people; thereby contributing to a climate-resilient and inclusive path to economic growth.
+Specifically, for the improved urban infrastructure services output, the identified quantifiable
+
+40 The advance will meet the program’s need for on-time budget allocations to trigger the progress for achieving early-
+
+  year DLIs. The advance will be liquidated at the end of the RBL program.
+41 Attached Technical Assistance Report (accessible from the list of linked documents in Appendix 2).
+42 Key indicators include holding tax, nonholding tax (trade license management and nonmotorized vehicles), water
+
+  tariff, and accounting and budget.
+12
+
+
+economic benefits include: (i) for the drainage subsector, reduced income loss of residents related
+to the reduction in flood water stagnation, savings in infrastructure maintenance expenses in
+flood-affected areas, and savings in household health expenditures for waterborne diseases; and
+(ii) for the urban roads subsector, savings in vehicle operating costs, savings in travel time, and
+reduction in greenhouse gas emissions. A cost–benefit analysis for the infrastructure
+improvement output, conducted in accordance with ADB guidelines, shows that in the
+representative pourashavas, the economic internal rates of returns (12%–19.7%) exceed the
+economic opportunity cost of capital of 9.0%, and are robust under various adverse sensitivity
+scenarios.43 Strengthening of institutional capacity and governance is expected to improve public
+service delivery and inclusiveness of economic benefits and thereby support and enhance the
+potential economic returns from municipal infrastructure improvements. The RBL’s program
+outputs and DLIs are complementary, and collectively strengthen the institutional capacity and
+improve the municipal infrastructure of pourashavas, thereby supporting the government’s
+program for achieving integrated and sustainable urban development and enhancing the quality
+of public services.
+
+29.     Poverty, social, and gender. Key social issues for women and vulnerable groups are
+their weak participation and representation in pourashava governance and lack of access to basic
+urban services. In addition, pourashavas generally do not allocate funds for gender development
+and poverty reduction.44 The RBL program supports pourashavas in enhancing equity and social
+inclusion by earmarking 1% of the budget from their own-source revenues for the adoption and
+implementation of GESIAP. The implementation of the poverty reduction action plan, including
+the pourashavas’ budget allocation, will be monitored through the implementation of the UGIAPs
+(DLI 3) and GESIAP (DLI 7).
+
+30.     The program is categorized effective gender mainstreaming. There are 252 elected
+women pouracouncil (elected municipal council) members (33% of the total elected members)
+from 88 pourashavas. The program will ensure women’s effective participation in planning,
+infrastructure design and implementation, decision-making, and committee leadership. One
+outcome indicator and other relevant output-level gender performance indicators are included in
+the design and monitoring framework, DLIs, and PAP (footnote 34). Specific interventions include
+(i) ensuring women’s effective participation in decision-making and leadership under DLI 3; (ii)
+strengthening a gender-responsive O&M management system under DLI 6; (iii) ensuring equity
+and inclusiveness of women and the poor under DLI 7 by earmarking at least 1% of each
+municipality’s budget for implementing activities outlined in the poverty reduction action plan and
+GESIAP by all pourashavas; (iv) meeting standards of gender responsiveness, safety, and
+accessibility in roads rehabilitation or construction under DLI 9; and (v) remodeling or developing
+climate-resilient and socially inclusive public spaces under DLI 10. The program will enhance the
+capacity of women staff, TLCC members, and ward councilors to actively participate in the
+decision-making and development activities of pourashavas.
+
+B.      Program Systems Assessments
+
+31.    Monitoring and evaluation system. LGED has a sound M&E system for pourashavas’
+revenue enhancement-related indicators.45 LGED is developing a governance-led infrastructure
+development information system to monitor pourashava-level infrastructure and support their
+43 Program  Soundness Assessment (accessible from the list of linked documents in Appendix 2). ADB. 2017.
+   Guidelines for the Economic Analysis of Projects. Manila.
+44 Only 74 out of 329 pourashavas allocate dedicated funds for gender and poverty reduction.
+45 Program Monitoring and Evaluation System Assessment (accessible from the list of linked documents in Appendix
+
+   2).
+                                                                                                                    13
+
+
+O&M functions. The M&E system will be further strengthened by using an internet-based platform
+to integrate master plans, infrastructure asset management, climate data, and governance-
+related indicators; this platform will be used for reporting and verifying DLI achievements. The
+enhanced system will enable LGD and LGED to create a performance profile for each pourashava
+and consolidate RBL performance reports. The achievement result will be verified by the third
+party and reviewed by ADB.
+
+32.    Fiduciary systems. The program fiduciary system assessment was undertaken in
+accordance with ADB’s staff guidance on RBL and covers financial management, procurement,
+and anticorruption. The RBL program will use country systems for financial management,
+procurement, and anticorruption measures, with improvements as agreed between ADB and the
+government.46
+
+33.     Financial management. The overall pre-mitigation financial management risk is
+substantial. The main risks include (i) complex financial management arrangements with
+numerous implementing agencies; (ii) lack of capacity to conduct effective internal audits; (iii)
+challenges related to compliance with the government’s financial regulations, resulting in
+numerous, long-outstanding audit observations; and (iv) weak financial management capacity of
+pourashavas, including the use of outdated and manual accounting systems. Mitigating measures
+are included in the DLIs and PAP (footnote 34). These include (i) strengthening the internal audit
+capacity of LGED; (ii) conducting periodic risk-based internal audits of the RBL program; (iii)
+performing rigorous follow-ups of audit observations; (iv) assigning dedicated accounts staff to
+the RBL program, who will be supported by consultants; and (v) providing capacity building to the
+pourashavas in financial management, including the use of computerized (web-based) financial
+management systems. Moreover, the Controller General of Accounts will record the RBL program
+expenditures in the Integrated Budget and Accounting system, in accordance with accounting
+standards acceptable to ADB. The program financial statements will be audited annually by the
+auditor general’s office in accordance with audit standards acceptable to ADB.
+
+34.     Procurement and anticorruption. The program will achieve the best value for money
+and achieve efficiency gains through pourashavas’ use of national bidding documents suitable for
+local contractors and e-government procurement systems. This will lower transaction costs and
+enhance process efficiency and transparency. The RBL program scope excludes high-value
+procurement contracts. 47 All procurement (which is mainly for works) will be low-value and
+implemented by pourashavas. The LGED has demonstrated satisfactory capacity to support
+pourashavas in procurement. Entities and individuals debarred or temporarily suspended by ADB
+are ineligible to participate in RBL programs for the duration of their debarment or suspension. As
+ADB will administer cofinancing resources for ordinary capital resources-financed operations,
+universal procurement will apply to the RBL program. The Guidelines to Prevent or Mitigate Fraud,
+Corruption, and Other Prohibited Activities in Results-Based Lending for Programs were
+explained and discussed with the government.48
+
+35.      Safeguards systems. The program safeguard systems assessment was conducted to
+
+46 Program Fiduciary Systems Assessment (accessible from the list of linked documents in Appendix 2).
+47 High-value contracts are $50.0 million for works, $30.0 million for goods, $15.0 million for consulting services, and
+
+   $20 million for information and communication technology and non-consulting services. The exclusion of high-value
+   contracts is to maintain the precautionary measures (being the first RBL to LGED) to minimize risk in procurement-
+   related issues.
+48 ADB. 2021. Guidelines to Prevent or Mitigate Fraud, Corruption, and Other Prohibited Activities in Results-Based
+
+   Lending for Programs. Attachment in ADB. 2021. Staff Instruction on Business Processes for Results-Based Lending
+   for Programs. Manila.
+14
+
+
+appraise applicable laws and regulations, and institutional capacity for mitigating E&S risks.49 The
+assessment confirms the categorization for the environment as B (i.e., activities are not likely to
+have significant adverse impacts that are sensitive, diverse, or unprecedented on the environment
+and/or affected people), for involuntary resettlement as B (i.e., no physical displacement or
+permanent economic displacement of any individual, household, or community), and for
+indigenous peoples as B (i.e., limited but only positive impacts on tribes, minor races, ethnic sects
+and communities). The weaknesses of the safeguard system mainly consist of inadequate
+capacity and resources to implement measures to address safeguard concerns in program
+implementation and monitoring. An E&S management framework and related safeguard
+monitoring tools for the RBL program have been agreed upon with LGED. Safeguard focal
+persons at LGED and its divisional offices will coordinate safeguard training, monitoring, and
+reporting. LGED will specify key safeguard-related risks and mitigation measures in contracts for
+compliance by contractors. LGED and the pourashavas are committed to implementing the
+actions included in the PAP. LGED will submit E&S monitoring reports semiannually during
+program implementation until the submission of the completion report.
+
+36.     Other relevant systems and institutions. The pourashavas conduct meaningful
+consultations with the public through the TLCCs, ward committees, and low-income neighborhood
+improvement committees. The existing grievance redress mechanism in pourashavas is
+assessed as sound. Grievances, including complex complaints, are addressed within a maximum
+of 4 weeks. Potential grievances, including E&S complaints, will be handled following the
+established grievance redress mechanism (footnote 49).
+
+C.      Sustainability
+
+37.      The government has committed to providing sufficient funds and supporting all
+components during implementation. The pourashavas are responsible for O&M. Financial
+analysis was conducted for three representative pourashavas: (i) Araihazar, (ii) Chowmuhuni, and
+(iii) Naohata. The analysis of financial statements for FY2018–FY2022 shows that Araihazar has
+adequate capacity to operate and maintain the proposed subprojects from its own-revenue
+sources, while Chowmuhuni and Naohata require additional financial support from the
+government. The financial sustainability analysis shows that additional sources of income should
+be identified for pourashavas to reduce central government support for sustainable O&M. The
+program’s capacity development component is designed to enhance pourashavas’ revenue by
+assessing the potential for revenue enhancement from existing sources and regulations, and from
+additional sources; and identifying needed amendments to the pourashavas’ regulatory
+requirements to enable them to increase their revenue sources.
+
+D.      Summary of Risk Assessment and Risk Management Plan
+
+38.     Major risks and mitigating measures are summarized in Table 5 and described in detail in
+the risk assessment and risk management plan.50 The mitigating measures reflect that country
+systems, with necessary enhancements, will be widely applied to implement the RBL program.
+The overall benefits and impacts are expected to outweigh the costs of mitigation.
+
+
+
+
+49 Program Safeguard Systems Assessment document (accessible from the list of linked documents in Appendix 2).
+50 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                                                     15
+
+
+                         Table 5: Summary of Risks and Mitigating Measures
+Risks                                                                       Mitigating Measures
+Outcome. Weak human resource capacity of              The RBL program and attached technical assistance support
+pourashavas on municipal governance, planning         human resource capacity improvement of pourashavas in areas
+and monitoring, and resilient livelihoods in low-     such as municipal governance, planning, monitoring, resilient
+income communities, resulting in poor municipal       livelihoods in low-income neighborhoods, and service delivery.
+service delivery.
+Operating environment. Multiple implementing            LGED will sign memorandums of understanding and
+agencies may make program management                    agreements with implementing agencies, and monitor these
+complex.                                                using performance indicators and a web-based program
+                                                        monitoring and evaluation system.
+ Fiduciary. Financial management capacity is            The capacity and practices of the LGED’s internal audit function
+ constrained, and internal control and governance and audit committee will be strengthened, and financial
+ practices are suboptimal, which may result in          management capacity in pourashavas improved through
+ mismanagement of funds, material                       capacity building. Periodic risk-based internal audits and annual
+ misstatements in the financial statements, as          independent audits will be conducted, and audit observations
+ well as audit qualifications and long-outstanding      and recommendations will be systematically monitored and
+ and recurring audit observations.                      addressed through DLI 5.
+ Expenditures and financing. Slow execution of LGED will prepare timely annual procurement plans as part of
+ the development budget may delay program               the annual development plan supporting budget planning and
+ implementation.                                        execution (DLI 2). ADB, LGD, and LGED will monitor budget
+                                                        execution and timely disbursement of advances and quarterly
+                                                        fund releases.
+ Sustainability of infrastructure assets                The RBL program supports each pourashava to adopt a
+ maintenance and services. Financial and O&M revenue enhancement plan to achieve 80% holding tax
+ capacity of some pourashavas may be                    collection efficiency (DLI 1), setting up a computerized
+ inadequate to ensure the sustainability of             accounting and billing system, expanding tax coverage, and
+ infrastructure assets.                                 determining a tax rate (DLI 5). LGED will also support each
+                                                        pourashava with respect to asset management, and strengthen
+                                                        the O&M system to improve the condition of infrastructure.a
+ Overall RBL program risk                               Substantial
+ADB = Asian Development Bank, LGD = Local Government Division, LGED = Local Government Engineering
+Department, O&M = operation and maintenance, RBL = results-based lending.
+a For example, the program will pilot and institutionalize government support to better-performing pourashavas through
+
+   grants to sustain the pourashavas' waste management O&M expenditures.
+Source: Asian Development Bank.
+
+                                                V.    ASSURANCES
+
+39.   The government and the LGED have agreed with ADB on certain covenants for the RBL
+program, which are set forth in the draft loan agreement.
+
+                                          VI.        RECOMMENDATION
+
+40.     I am satisfied that the proposed results-based loan would comply with the Articles of
+Agreement of the Asian Development Bank and recommend that the Board approve the loan of
+$300,000,000 to the People’s Republic of Bangladesh for the Improving Urban Governance and
+Infrastructure Program, from ADB’s ordinary capital resources, in concessional terms, with an
+interest charge at the rate of 2% per year during the grace period and thereafter; for a term of 25
+years, including a grace period of 5 years; and such other terms and conditions as are
+substantially in accordance with those set forth in the draft loan agreement presented to the
+Board.
+
+                                                                          Masatsugu Asakawa
+                                                                          President
+16 June 2023
+16     Appendix 1
+
+
+
+                           DESIGN AND MONITORING FRAMEWORK
+
+Impacts the Program is Aligned with
+Urban poverty reduced and living conditions improved (Perspective Plan of Bangladesh 2021–2041)a
+                                                                    Data Sources
+                                                                          and
+                                                                      Reporting     Risks and Critical
+Results Chain                 Performance Indicators                Mechanisms        Assumptions
+Outcome            By 2029:
+Municipal          a. 80% of citizens (33% women) reported         a. Citizen      A: Population
+services and       improved livability. (2022 baseline: 30% of     perception      growth remains
+governance in      surveyed citizens reported improved livability) surveyb         within design
+target             (non-DLI) (OP 4.1)                                              projections.
+pourashavas
+improved           By 2028:                                                        R: A pandemic
+                   b. 80% holding tax collection efficiency        b. Annual M&E and/or natural
+                   achieved in RBL program pourashavas (2022 reports               hazards destroys
+                   baseline: 50%) (DLI 1) (OP 4.2)                                 program-built
+                                                                                   infrastructure and
+                                                                                   disrupts delivery of
+                                                                                   municipal services.
+Outputs            By 2028:
+1. Institutional   1a. [TA Output] Criteria-based development      1a. LGD         R: Alternative
+capacity for       fund transfer to pourashavas institutionalizedc instruction to  funding sources
+inclusive          (2022 baseline: Not applicable) (DLI 2) (OP     pourashavas     become available,
+municipal          4.2.2)                                                          undermining the
+governance                                                                         incentive
+strengthened       1b. UGIAP approved and implemented in 88        1b.–k. Annual   mechanism of
+                   (cumulative) pourashavasd (2022 baseline:       M&E report      performance-
+                   26 approved UGIAP) (DLI 3) (OP 6.2)                             based fund
+                                                                                   allocation.
+                   1c. Computerized (web-based) revenue
+                   management systems made operational in 88
+                   pourashavase (2022 baseline: 0) (DLI 3) (OP
+                   6.2.2)
+
+                    1d. Gender- and climate-responsive O&M
+                    management system established in 88
+                    pourashavasf (2022 baseline: 0) (DLI 6) (OP
+                    2.3.2)
+
+                    1e. At least 1,570 staff (including 90% of      1e. Training
+                    eligible women staff and female councilors of   completion
+                    pourashavas, LGED, and LGD) reported            report
+                    increased knowledge on urban governance,        containing pre-
+                    GESIAP, urban resilience, and technical         and post-
+                    issuesg (2022 baseline: 0) (DLI 3, DLI 5, PAP   training
+                    1.8) (OP 2.2, OP 6.1.1)                         assessment
+
+                    1f. At least 88 pourashavas adopted and
+                    implemented GESIAP with 1% budget
+                    earmarked from own-source revenuesh (2022
+                    baseline: 0 pourashava) (DLI 7) (OP 2.3.2)
+                                                                                      Appendix 1     17
+
+
+                                                                     Data Sources
+                                                                          and
+                                                                      Reporting      Risks and Critical
+Results Chain                 Performance Indicators                 Mechanisms        Assumptions
+                   1g. 5,100 residents (at least 50% women) of
+                   low-income neighborhoods reported
+                   increased resilient livelihood skills (2022
+                   baseline: 0) (DLI 7) (OP 1.1.1, OP 2.1.1, OP
+                   2.5.1)
+
+                   1h. At least 252 low-income neighborhood
+                   improvement committees in 63 pourashavas
+                   formed with at least 50% women membersi
+                   (2022 baseline: 0) (DLI 7) (OP 2.3)
+
+                   1i. 63 climate and disaster risk-informed
+                   master plans prepared and approved by
+                   respective pourashava councils (2022
+                   baseline: 0) (DLI 5) (OP 4.2.1)
+
+                   1j. Climate-resilient and socially inclusive
+                   public open space guidelines adopted by the
+                   LGED and disseminated to pourashavasj
+                   (2022 baseline: not applicable) (DLI 5)
+
+                   1k. At least 300 detailed designs of resilient
+                   and GESI responsive municipal infrastructure
+                   subprojects completed in 63 pourashavask
+                   (2022 baseline: 0) (DLI 4)
+2. Municipal       By 2028:                                                          A: UGIAP
+infrastructure                                                                       requirements are
+improved in        2a. At least 900 km of stormwater drainage        2a.–d. Annual   fulfilled by most
+quality, access,   rehabilitated or reconstructed in at least 63     M&E report      program
+resilience, and    pourashavas (2022 baseline: 0 km) (DLI 8)                         pourashavas.
+gender             (OP 4.1.2)
+responsiveness                                                                       R: Extreme climate
+                   2b. At least 1,500 km of roads rehabilitated or                   and natural hazard
+                   reconstructed to meet standards of gender-                        events in
+                   responsiveness, resilience, safety, and                           Bangladesh may
+                   accessibility in at least 63 pourashavasl (2022                   delay construction.
+                   baseline: 0) (DLI 9) (OP 2.4.1, OP 3.2.5, OP
+                   4.1.2)
+
+                   2c. At least seven climate-resilient, and
+                   GESI-inclusive public facilities remodeled or
+                   developedm (2022 baseline: not applicable)
+                   (DLI 10) (OP2.5.2, OP 3.2.5, OP 4.1.2)
+
+                   2d. Low-income neighborhood improvement
+                   program implemented with at least 50%
+                   participation by women in at least 63
+                   pourashavas under the RBL program (2022
+                   baseline: 0) (non-DLI) (OP 1.1.1, OP 2.3.1)
+18       Appendix 1
+
+
+Key Program Actions
+Area 1: Technical Aspects
+1.1 LGED and pourashavas supported under the RBL program sign memorandum of understanding (June 2023).
+1.2 Issue a directive to pourashavas on standard operating procedures and provide orientation on the criteria-based
+     development fund transfer (January 2024).
+1.3 Each pourashava prepares UGIAP to strengthen governance.
+1.4 Confirm total tax (holding and nonholding) collection demand in accordance with pourashavas’ latest tax
+     assessment or reassessment report.
+1.5 Develop, adopt, and notify each pourashava on the guidelines for climate-resilient and socially inclusive public
+     open spaces.
+1.6 Update pourashava poverty reduction action plans to incorporate climate change and resilient livelihoods.
+1.7 In 63 pourashavas, adopt and scale up the low-income neighborhood improvement model developed under
+     UGIIP.n
+1.8 Complete training of at least 20 staff of LGD on standard operating procedure on criteria-based budget transfer,
+     and the web-based revenue management system (2024).
+1.9 Form mobile maintenance teams in each pourashava and equip them for road maintenance, aligned with
+    approved O&M plan (2024–2028).
+Area 2: Fiduciary Management
+2.1 Assign an accountant as a program focal point in each pourashava to ensure timely preparation and flow of
+    financial information between LGED, Comptroller of Audit and Accounting General, and each pourashava.
+2.2 Create a separate program code for the development expenditures under the RBL program to be used to record
+    all expenditures in IBAS++ as identified under the development project proforma and the annual development
+    plan.
+2.3 Provide timely and adequate government financing in accordance with the development project proforma and the
+    annual development plan to ensure timely achievement of the results and DLIs.
+2.4 Use national bidding documents with annex(es) (as agreed with the Central Procurement Technical Unit) for
+    open competitive bidding following e-GP. A lottery system shall not be used to determine the successful bidder,
+    including for the purpose of resolving deadlocks.
+2.5 Conduct annual procurement review using a sample size of 20% of the total contracts awarded in the respective
+    year.
+Area 3: Environmental and Social Safeguards
+3.1 Share the E&S monitoring framework with 88 pourashavas and orient their staff to operationalize it.
+3.2 88 pourashavas adopt and operationalize water quality test requirement practiced in the third UGIIP.n
+3.3 Renew Department of Environment clearance on program activities yearly.
+3.4 Assign E&S safeguard focal persons or specialists to LGED Program Management Unit, divisional offices of
+    LGED, and pourashavas to strengthen the coordination for E&S safeguards compliance.
+3.5 Adopt and operationalize model for social safeguards compliance for market development under the third UGIIP.n
+3.6 Include a specific action plan for the effective participation of small ethnic communities (if any) in the design of
+    proposed infrastructures in applicable social safeguards documents and ensure their inclusion in the program
+    benefits.
+Area 4: Gender and Social Inclusion
+4.1 Conduct midterm annual perception survey.
+4.2 Prepare, adopt, monitor, and report implementation of pourashava-level gender and social inclusion action plans
+    in all 63 pourashavas following the template in the Program Implementation Document.b
+4.3 Ensure women’s participation in the pourashava decision-making process through the TLCCs.
+Area 5: Monitoring and Evaluation
+5.1 Establish web-based M&E system and integrate with (i) the governance-led infrastructure development
+    information system to monitor pourashava infrastructure and support their O&M functions and (ii) LGED’s M&E
+    system for pourashavas’ revenue enhancement-related indicators.
+Financing Plan
+Total program financing (2023–2028): $689.29 million
+Government of Bangladesh: $189.29 million
+Asian Development Bank: $300.00 million (concessional ordinary capital resources lending)
+Agence Française de Développement: $200.00 million (loan)
+A = assumption, DLI = disbursement-linked indicator, e-GP = electronic government procurement, E&S = environmental
+and social, GESI = gender equality and social inclusion, GESIAP = gender equality and social inclusion action plan,
+IBAS++ = Integrated Budget and Accounting System, km = kilometer, LGD = Local Government Division, LGED = Local
+Government Engineering Department, M&E = monitoring and evaluation, O&M = operation and maintenance, PAP =
+program action plan, OP = operational priority, R = risk, RBL = results-based lending, TA = technical assistance, TLCC
+= town level coordination committee, UGIAP = Urban Governance Improvement Action Plan, UGIIP = Urban
+Governance and Infrastructure Improvement Project.
+                                                                                                     Appendix 1       19
+
+a Government of Bangladesh, Bangladesh Planning Commission. 2020. Making Vision 2041 a Reality: Perspective
+  Plan of Bangladesh 2021–2041. Dhaka.
+b Citizen perception survey using the following indicators: (i) improved municipal infrastructure and services (drainage
+
+  system, road, and public spaces)—accessibility (including women’s safety), quality, availability, and maintenance;
+  and (ii) governance—citizens’ participation, citizens’ charter (comprehensive information), inclusiveness, and
+  transparency with pourashava development plan, master plan, gender action plan, poverty reduction action plan, and
+  annual budget developed through consultation and disclosed to the public. The TLCCs of respective pourashavas
+  represent the citizens residing in the pourashava concerned. TLCCs are established by the pourashava in
+  accordance with Article 115 of the Local Government (Pourashava) Act 2009. TLCCs can have a maximum of 50
+  members representing citizens from various interest groups. The perception survey questionnaire is in the Program
+  Implementation Document (accessible from the list of linked documents in Appendix 2).
+c Criteria-based fund transfers are government funds transferred to pourashavas based on criteria that will be defined
+
+  by the LGD in the standard operating procedures to be approved by the government.
+d The UGIAP is considered implemented when a Pourashava’s overall performance score is at least 80%.
+e The system is considered operational when a Pourashava uploads revenue and expenditure information in the
+
+  LGED’s web-based platform, and this is confirmed by the LGED’s Urban Division.
+f O&M plans will include specific targets for women members (33%) in committees, provision for regular monitoring
+
+  and maintenance of gender-responsive infrastructure, specific targets for women’s employment in O&M, and use of
+  climate information. At least 50% of the annual budget allocated for gender- and climate-responsive O&M in 88
+  pourashavas is spent each year starting from 2024 (year 2).
+g Technical training will be provided on road design, including standards and cost estimates; quality control and
+
+  construction management; contract management; and application of geographic information systems.
+h GESIAP is considered implemented if at least 70% of activities or targets are achieved or on track, with 1% budget
+
+  allocation from own-source revenues.
+I At least four low-income neighborhood improvement committees formed in each of the 63 pourashavas.
+j ADB provided technical inputs in preparing the guidelines through ADB. 2021. Technical Assistance for Advancing
+
+  the Transformative Gender Equality Agenda in a Post–COVID-19 Asia and the Pacific. Manila (TA 6737-REG); and
+  ADB. 2019. Technical Assistance for Integrated and Innovative Solutions for More Livable Cities. Manila (TA 9919-
+  REG).
+k Municipal infrastructure (drainage, roads, and public facilities) designs prepared with climate change considerations,
+
+  and at least two gender-responsive features (e.g., drains with covers, culverts, roads with water management, road
+  crossings, footpaths, and streetlights).
+l Designs are to incorporate climate change considerations. Features that enhance people’s safety include roads with
+
+  proper pedestrian pavements, safe crossings, streetlights, visible, and clear road marking, and signage.
+m
+  Public facilities include four public spaces and three community facilities. Design and construction of gender-
+  responsive and socially inclusive community facilities and public open spaces will consider the perspective of the
+  elderly (older persons), women, children, and persons with disabilities as the end-users, i.e., with features such as
+  safety measures, lighting, and separate washroom facilities.
+n ADB. Bangladesh: Urban Governance and Infrastructure Improvement (Sector) Project; ADB. Bangladesh: Second
+
+  Urban Governance and Infrastructure Improvement (Sector) Project; and ADB. Bangladesh: Third Urban
+  Governance and Infrastructure Improvement (Sector) Project.
+Contribution to Strategy 2030 Operational Priorities
+The expected values and methodological details for all OP indicators to which this operation will contribute results are
+detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in Appendix
+2). In addition to the OP indicators tagged in the DMF, this operation will contribute results for:
+OP 3.1: Total annual greenhouse gas emissions reduction (tCO2e/year).
+Source: Asian Development Bank.
+20     Appendix 2
+
+
+
+                               LIST OF LINKED DOCUMENTS
+                    http://www.adb.org/Documents/RRPs/?id=55307-001-3
+
+ 1.      Loan Agreement
+ 2.      Sector Assessment (Summary): Water and Other Urban Infrastructure and Services
+ 3.      Program Soundness Assessment
+ 4.      Program Results Assessment
+ 5.      Program Results Framework
+ 6.      Program Expenditure and Financing Assessment
+ 7.      Program Monitoring and Evaluation System Assessment
+ 8.      Program Fiduciary Systems Assessment
+ 9.      Program Safeguard Systems Assessment
+ 10.     Risk Assessment and Risk Management Plan
+ 11.     Contribution to Strategy 2030 Operational Priorities
+ 12.     Summary Poverty Reduction and Social Strategy
+ 13.     Program Implementation Document
+ 14.     Attached Technical Assistance Report
+ 15.     Program Action Plan
+ 16.     Climate Change Assessment
+                                                                                                                                                   Appendix 3       21
+
+
+                       DISBURSEMENT-LINKED INDICATORS, VERIFICATION PROTOCOLS, AND DISBURSEMENT SCHEDULE
+
+                                                         Table A3.1: Disbursement-Linked Indicators
+  Disbursement-          Base line  Base                                                              Target Values
+ Linked Indicators        Value      line    Advance     Prior Results      2023               2024              2025             2026              2027             2028
+                                     Year   Financing                     QIII-QIV                                                                                   QI-QII
+ Outcome: Municipal services and governance in target pourashavas improved.
+DLI 1. By 2028,       50%           2022    NA           NA                                Holding tax      Holding tax       Holding tax       Holding tax       Holding tax
+Holding tax                                                                                collection       collection        collection        collection        collection
+collection efficiency                                                                      efficiency       efficiency        efficiency        efficiency        efficiency
+increased to at least                                                                      increased to     increased to at   increased to      increased to      maintained to
+80% by 88                                                                                  at least 60%.    least 65%.        at least 70%      at least 80%      at least 80%
+pourashavas.
+
+Output 1: Institutional capacity strengthened for inclusive governance.
+DLI 2. Criteria-       Ad hoc          2022    Yes          Municipal       i. SOP of      i. At least 60   i. At least 100   i. At least 250   i. At least 329
+based development      development                          (Pourashavas)   Developmen     pourashavas      pourashavas       pourashavas       pourashavas
+fund transfer to       fund transfer.                       Development     t Fund         received         received          received          received
+pourashavas                                                 Plan approved   transfer       development      development       development       development
+institutionalized.a                                                         approved by    funds,           funds,            funds,            funds,
+                                                                            LGD and        following SOP    following SOP     following SOP     following SOP
+                                                                            notified to                                                         ii. ADP
+                                                                            pourashavas    ii. ADP          ii. ADP aligned   ii. ADP           aligned with
+                                                                                           aligned with     with the          aligned with      the program
+                                                                            ii. ADP        the program      program           the program       budget
+                                                                            aligned with   budget           budget            budget            forecast to
+                                                                            the program    forecast to      forecast to       forecast to       meet DLIs
+                                                                            budget         meet DLIs        meet DLIs         meet DLIs         approved
+                                                                            forecast to    approved         approved.         approved
+                                                                            meet DLIs
+                                                                            approved
+DLI 3. 88               26             2022   Yes          NA                              At least 88      At least 40       At least 60       88 UGIAP
+Pourashavas’            pourashavas                                                        (cumulative)     UGIAP             UGIAP             implemented
+governance and          has approved                                                       UGIAP            implemented       implemented
+planning improved.      UGIAP                                                              approved.
+(i) At least 88
+(cumulative) UGIAP
+approved and 88
+(cumulative) UGIAP
+implemented.b
+(ii) 88 pourashavas’    Manual         2022   NA           NA                              At least 30      At least 40       At least 60       88
+computerized            system                                                             computerized     computerized      computerized      computerized
+revenue                 standalone                                                         revenue          revenue           revenue           revenue
+          22       Appendix 3
+
+
+     Disbursement-        Base line       Base                                                          Target Values
+    Linked Indicators      Value          line   Advance     Prior Results      2023             2024              2025              2026             2027       2028
+                                          Year   Financing                     QIII-QIV                                                                          QI-QII
+management              computer-                                                            management       management         management        management
+systems (web-           based                                                                systems          systems (web-      systems           systems
+based) established.     revenue                                                              (web-based)      based)             (web-based)       (web-based)
+c                       management                                                           established      established        established       established
+                        system
+(iii) At least 1,350    Inadequate        2022   NA          NA                              At least 120     At least 150       At least 120
+staff of pourashavas    knowledge on                                                         participants     staff (total 620   staff (total of
+staff (including 90%    governance,                                                          (total 360       staff and          370 staff and
+of eligible women       urban                                                                staff and        councilors)        councilors)
+staff and female        resilience, tax                                                      councilors)      complete           received
+councilors of           reforms,                                                             complete         training each      training on
+municipalities)         GESIAP, risk-                                                        training on      on UGIAP, tax      Risk-informed
+complete trainings      informed                                                             Climate          assessment,        Master
+                        master                                                               Resilience,      financial          Planning and
+                        planning and                                                         GESI Public      management,        gender-
+                        O&M                                                                  Open Space,      and waste          responsive
+                                                                                             Urban            management         O&M of
+                                                                                             Resilience,      system O&M         infrastructure,
+                                                                                             and UGIAP                           web-based
+                                                                                                                                 revenue
+                                                                                                                                 management
+DLI 4. By 2025, at      100 draft         2022   Yes         NA              At least 100    At least 200     At least 300
+least 300               detailed                                             detailed        detailed         detailed
+(cumulative) detailed   designs                                              designs of      designs of       designs of
+designs of resilient    prepared.                                            infrastructur   infrastructure   infrastructure
+and gender                                                                   e completed     completed        completed
+responsive
+municipal
+infrastructure
+subprojects
+completed. d
+                                                                                                                                                     Appendix 3     23
+
+
+  Disbursement-              Base line   Base                                                          Target Values
+ Linked Indicators            Value      line   Advance     Prior Results       2023            2024              2025              2026              2027           2028
+                                         Year   Financing                      QIII-QIV                                                                              QI-QII
+DLI 5. Financial         NA                                                 LGED’s          The number       (i) At least 1     (i) LGED’s        (i) At least 2
+management, and                                                             audit           of internal      risk-based         audit             risk based
+resilient and                                                               committee to    audit staff      internal audit     committee to      internal audits
+inclusive planning                                                          meets at        positions in     of the RBL         have met at       of the RBL
+capacity of LGED                                                            least           the LGED’s       program has        least             program
+improved.                                                                   biannually      internal audit   been               biannually        undertaken
+                                         2022               NA              (twice a        unit increased   undertaken by      (twice a year)    by the LGED
+(i) LGED’s financial                            Yes                         year) to take   by at least      LGED’s             in year 1–3 of    internal audit
+management                                                                  corrective      10%              internal audit     the RBL           unit during
+systems improved                                                            actions in      compared to      unit during the    program to        the RBL
+and sustained.                                                              resolving       the 2022/23      RBL program        take              program and
+                                                                            audit           baseline of 12   implementation     corrective        audit reports
+                                                                            observations    staff            and a report       actions in        issued.
+                                                                                                             has been           resolving         (ii) At least
+                                                                                                             issued.            audit             70 % of the
+                                                                                                                                observations.     cumulative
+                                                                                                             (ii) At least                        audit
+                                                                                                             50% of the         (ii) At least     observations,
+                                                                                                             audit              50% of the        as identified
+                                                                                                             observations       audit             by OCAG in
+                                                                                                             as identified by   observations      the three first
+                                                                                                             OCAG in the        as identified     audit reports
+                                                                                                             first audit        by OCAG in        of the RBL
+                                                                                                             report for the     the first audit   program have
+                                                                                                             RBL program,       report for the    been resolved
+                                                                                                             have been          RBL program,
+                                                                                                             resolved           have been
+                                                                                                                                resolved.
+(ii) Climate resilient   Draft           2022   Yes         NA              Climate                          At least 30        At least 63
+and socially             guideline                                          Resilient and                    risk-informed      risk-informed
+inclusive public open    prepared                                           Socially                         master plans       master plans
+space guidelines                                                            inclusive                        approved           approved
+and 63 risk-informed                                                        Public Open
+master plans                                                                Space
+(cumulative)                                                                Guidelines
+approved                                                                    approved
+(iii) At least 200       0               2022   NA          NA                              At least 50      At least 50        At least 100
+LGED staff                                                                                  LGED staff       LGED staff         LGED staff
+completed training                                                                          completed        completed          completed
+on urban resilience                                                                         training on      training on        training on
+and GESIAP                                                                                                   urban              urban
+        24       Appendix 3
+
+
+  Disbursement-          Base line     Base                                                         Target Values
+ Linked Indicators        Value        line   Advance     Prior Results      2023            2024              2025             2026              2027              2028
+                                       Year   Financing                     QIII-QIV                                                                                QI-QII
+                                                                                         on urban         resilience and    resilience and
+                                                                                         resilience and   GESIAP            GESIAP
+                                                                                         GESIAP
+DLI 6. Gender-                                                                           At least 30      At least 88       At least 50%      At least 50%      At least 50%
+responsive              Ad hoc O&M                                                       gender-          gender-           of the annual     of the annual     of the annual
+operation and           practice.                                                        responsive       responsive        allocated         allocated         allocated
+maintenance                                                                              O&M plans        O&M plans         budget for        budget for        budget for
+management                                                                               approved         approved          O&M is spent      O&M is spent      O&M is spent
+systems established                                                                                                         by at least 60    by at least 88    by 88
+in 88 pourashava.                                                                                         At least 50% of   pourashavas.      pourashavas.      pourashavas
+                                       2022   Yes         NA                                              the annual                                            (non-DLIs)
+(i) 50% of the annual                                                                                     allocated
+budget allocated for                                                                                      budget for the
+gender-responsive                                                                                         O&M is spent
+O&M spent in 88                                                                                           by at least 30
+pourashavas.                                                                                              pourashavas
+(ii) WM O&M budget      An incentive   2022   Yes         NA              Standard                        Annual            Annual            Continue          Continue
+received by at least    to                                                WM O&M                          pourashava        pourashava        annual            annual
+25 pourashavas.         pourashavas                                       performance                     WM                WM                pourashava        pourashava
+                        for                                               evaluation                      performance       performance       WM                WM
+                        satisfactory                                      procedure                       ranking           ranking           performance       performance
+                        O&M of the                                        developed                       prepared, and     prepared, and     ranking           ranking
+                        WM system                                         and adopted                     budget            budget            prepared, and     prepared, and
+                        does not                                          by LGED.                        allocated to at   allocated to at   budget            budget
+                        exist.                                                                            least 25          least 25          allocated to at   allocated to at
+                                                                                                          pourashavas       pourashavas       least 25          least 25
+                                                                                                          following the     following the     pourashavas       pourashavas
+                                                                                                          standard          standard                            (non-DLI)
+                                                                                                          procedure         procedure
+
+
+
+DLI 7. Equity and       Pourashavas    2022               NA              At least 88                     At least 40       At least 50       At least 88
+inclusiveness of        do not have                                       (cumulative)                    GESIAPs           GESIAPs           GESIAPs
+women and poor in       GESIAP                                            GESIAPs                         implemented       implemented       implemented
+at least 88                                                               approved by                     with 1%           with 1%           with 1%
+pourashava ensured                                                        pourashavas                     budget from       budget from       budget from
+                                                                                                          own revenue       own revenue       own revenue
+(i) GESIAP adopted
+and implemented
+with 1% budget
+                                                                                                                                                       Appendix 3        25
+
+
+  Disbursement-            Base line   Base                                                            Target Values
+ Linked Indicators          Value      line    Advance      Prior Results       2023            2024              2025                2026               2027              2028
+                                       Year    Financing                       QIII-QIV                                                                                    QI-QII
+earmarked from own
+revenue by at least
+88 pourashavas.
+(ii) 5,100 residents   0               2022                NA                              At least 1400      At least 1450      At least 1450      At least 800
+of LIN reported                                                                            residents of       additional         additional         additional
+increased resilient                                                                        LIN reported       residents of       residents of       residents of
+livelihood skill.                                                                          increased          LIN reported       LIN reported       LIN reported
+                                                                                           resilient          increased          increased          increased
+                                                                                           livelihood skill   resilient          resilient          resilient
+                                                                                                              livelihood skill   livelihood skill   livelihood skill
+(iii) At least 252 (4  25             2022                 NA                               At least 100      At least 160       At least 252
+committees x 63        pourashavas                                                          LIN               LIN                LIN
+pourashavas) lLIN      has slum                                                             improvement       improvement        improvement
+improvement            improvement                                                          committees        committees         committees
+committees formed      committees                                                           formed            formed             formed
+with at least 50%
+women members.
+Output 2: Municipal infrastructure improved in quality, access, resilience, and gender-responsiveness.
+DLI 8. At least 900    Infrastructure 2022    NA           NA                At least 25% 100%                At least 250       At least 500       At least 800       At least 900
+km (cumulative)        inadequate                                            of contracts   contracts         km of drains       km of drains       km of drains       km of drains
+drainage                                                                     (by number)    awarded           rehabilitated/     rehabilitated/     rehabilitated/     rehabilitated/
+rehabilitated or                                                             for            through e-GP      reconstructed      reconstructed      reconstructed      reconstructed
+reconstructed in at                                                          rehabilitation
+least 63                                                                     /
+pourashavas.                                                                 reconstructio
+                                                                             n of drains
+                                                                             awarded
+                                                                             through
+                                                                             e-GP
+DLI 9. At least 1,500 Infrastructure  2022    NA           NA                At least 25% All contracts       At least 250       At least 500       At least 1,000     At least 1,500
+km (cumulative) of     inadequate                                            road           award             km of roads        km of roads        km of roads        km of roads
+roads                                                                        contracts for through e-GP       rehabilitated/     rehabilitated/     rehabilitated/     rehabilitated/
+rehabilitated/reconst                                                        rehabilitation                   reconstructed      reconstructed      reconstructed      reconstructed
+ructed in at least 63                                                        /reconstructi
+pourashavas. f                                                               on awarded
+                                                                             through e-
+                                                                             GP.
+DLI 10. At least       Infrastructure 2022    NA           NA                               4 contracts       At least 2         At least 2         At least 3
+seven climate          inadequate or                                                        for               climate            additional         community
+resilient and socially nonexistent.                                                         construction      resilient and      climate            facilities
+inclusive public                                                                            or remodeling     socially           resilient and      reconstructed
+         26       Appendix 3
+
+
+  Disbursement-           Base line      Base                                                                  Target Values
+ Linked Indicators         Value         line     Advance        Prior Results        2023              2024              2025              2026             2027             2028
+                                         Year     Financing                          QIII-QIV                                                                                 QI-QII
+facilities developed                                                                               of climate       inclusive public   socially
+or remodeled.g                                                                                     resilient and    spaces             inclusive
+                                                                                                   socially         demonstration      public spaces
+                                                                                                   inclusive        remodeled or       demonstratio
+                                                                                                   public open      reconstructed      n remodeled
+                                                                                                   spaces                              or
+                                                                                                   awarded           3 targeted        reconstructed
+                                                                                                   through eGP       contracts for
+                                                                                                                     community
+                                                                                                                     facilities
+                                                                                                                     awarded
+                                                                                                                     through e-GP
+    ADP = Annual Development Plan, DLI = disbursement-linked indicator, e-GP = electronic government procurement, GESIAP = gender equality and social inclusion action
+    plan, km = kilometer, LGD = Local Government Division, LGED = Local Government Engineering Department, LIN = low income neighborhood, O&M = operation and
+    maintenance, OCAG = Office of the Comptroller and Auditor General, NA = not applicable, Q = quarter, RBL = results-based lending, SOP = standard operating procedure,
+    UGIAP = Urban Governance Improvement Action Plan, WM = waste management.
+    a LGD approves municipal development plan, standard operating procedures for criteria-based transfer, development fund transfer will follow the standard operating
+
+      procedures and annual development plan for timely implementation.
+    b Pourashava’s overall performance score of at least 80% is considered UGIAP implemented. UGIAP is under implementation in 26 pourashavas.
+    c Pourashava uploads revenue and expenditure information in the LGED’s web-based platform and is confirmed by the Urban Division of LGED.
+    d Municipal infrastructure (drainage, roads, and public facilities) design prepared with climate change consideration and at least 2 gender responsive features (e,g., drain
+
+      with cover, culverts, road with water management, road crossing, footpath, streetlights, considered).
+    e
+      O&M plans will include specific targets for women members in committees, provision for regular monitoring and
+      maintenance of gender-responsive infrastructures, and specific targets for women employment in O&M. At least 50% of the annual budget allocated for gender-
+      responsive O&M in 88 pourashavas is spent each year starting from 2024 (year 2).
+    f Design incorporates climate change considerations, features that enhance people’s safety include roading with proper pedestrian pavements, safe crossing, street
+
+      lights, visibility, and clear signages.
+    g Public facilities include four public spaces and three community facilities. Design and construction of gender-responsive and socially inclusive community facilities and
+
+      public open spaces will consider the perspective of the elderly (older persons), women, children, and persons with disabilities as the end-users. These include, among
+      others, safety measures, lighting, and separate washroom facilities.
+      Source: Asian Development Bank.
+                                                                                                                                                  Appendix 3     27
+
+
+                                                            Table A3.2: Verification Protocols
+                                                                                                          Information
+                                                                                                          Source and       Verification Agency         Verification
+   Disbursement-Linked Indicators                 Definition and Description of Achievement                Frequency         and Procedure             Timeframe
+Outcome: Municipal services and governance in target pourashavas improved.
+DLI 1. By 2028, tax collection efficiency Definition: DLI1 is the define by the formula below:           Pourashava        PMU submits               Latest by June
+increased to at least 80% by 88           Tax collection efficiency = (Arrear collection + Current       yearly            evidence of the           and November
+pourashavas.                              collection) / (Arrear Demand + Current Demand)                 statement,        achievement as            every year
+2022 Baseline: Target pourashavas’ on     Demand for the tax collection for that year is determined in   LGED,             reported in the annual
+average holding tax collection efficiency the latest tax assessment or reassessment. Arrear demand       Municipal         progress report
+is 50%.                                   is the total accumulated arrears of holding tax dues in the    Urban Support     derived from the web-
+Target:                                   preceding years. Arrear collection is the collection of such   Unit              based M&E system.
+Average holding tax collection efficiency arrear demand.                                                                   The IVA will verify the
+achieved by 88 pourashavas.               Condition for disbursement. Considered met if the              The report will   achievement based
+2024: 60%                                 targets in the first column are achieved.                      be submitted      on the report
+2025: 65%                                 Partial disbursement. The DLI is scalable and partial          twice in a year   generated from the
+2026: 70%                                 disbursement is allowed. The following formula will be         from 2024–        web-based M&E
+2027: 80%                                 applied:                                                       2028              system and will
+2028: 80% (maintained)                    Partial DLI disbursement = planned DLI disbursement for                          include a spot-check
+                                          the period (actual achievement of the current period-                            in the field, as
+                                          targeted achievement of the previous period)/ (targeted                          needed, to access the
+                                          achievement of the current period-targeted achievement of                        quality of data
+                                          the previous period). Disbursements are allowed for the                          collection
+                                          early or late achievement of the DLI. Consequently, the
+                                          planned disbursement amount for a given year can be
+                                          released when the set target is fully achieved, even if the
+                                          achievement is late, as long as the achievement is during
+                                          the program’s duration.
+
+Output 1: Institutional capacity for inclusive municipal governance strengthened
+DLI 2. By 2028, Criteria-based            Definition: LGD approves Municipal Development Plan to         PMU will          IVA will verify the       2023
+development fund transfer to              provide strategic approaches, including criteria-based fund    collect           achievement based
+pourashavas institutionalized.            transfer to pourashavas, adopts SOP for development fund       information       on desk review
+                                          transfer to pourashavas, development fund to 329               from the LGD      consolidated reports
+Target:                                   pourashavas transferred, and annual development plan of        and LGED and      and sample
+Prior results: Municipal (Pourashavas)    the RBL program approved annually.                             consolidate for   interviews with LGD,
+Development Plan, 2022–2037               Prior results. Municipal (Pourashavas) Development Plan        2023 prior        LGED, and
+                                          (2022–2037) approved by LGD provides key strategic             results, 2023     pourashavas.
+                                          approaches based on evidence and sector learning for           and 2024–
+                                          future interventions and subsequent investments required       2027 targets.
+                                          for governance and infrastructure development in the           By 2023
+                                          pourashavas, provided to LGED through a letter directive.
+28       Appendix 3
+
+
+                                                                                                        Information
+                                                                                                        Source and       Verification Agency       Verification
+   Disbursement-Linked Indicators              Definition and Description of Achievement                 Frequency           and Procedure         Timeframe
+By 2023. SOP for development fund      2023 (i) SOP is a document that describes the procedure        LGD’s letter to   Achievement report       July 2023–June
+transfer to pourashavas approved and   for the government transfers the development budget to         LGED              for 2023 will include    2024
+notified to pourashavas.               the local government (pourashava) based on predefined          transmitting      (i) SOP document, (ii)
+                                       performance criteria. LGD ranks the pourashava based on        the approved      a letter from LGD        Once a year
+2024–2027                              the performance assessment, endorses the ranking report,       SOP               confirming the           from 2023–2027
+Development budget received in year    and transfers the development budget to pourashavas,                             approval of SOP, and
+by number of pourashavas.              respectively. (LGD will access the web-based financial         LGED M&E          (iii) a copy of the
+2024: 60 pourashava                    management system at LGED to generate the ranking).                              notification letter to
+2025: 100 pourashava                                                                                                    pourashavas.
+2026: 250 pourashava                   2023 condition for disbursement. The target is                                   For 2024–2027,
+2027: 329 pourashava                   considered achieved when the LGD prepares the SOP,                               attested performance
+                                       LGD has approved it, and notified each pourashava                                ranking (by LGD)
+                                       through a notification. Partial disbursement is not allowed.                     report and fund
+                                       2024–2027 condition for disbursement. Considered                                 transfer statement in
+                                       achieved when the pourashavas confirms receipt of the                            accordance with the
+                                       budget in writing.                                                               SOP.
+
+                                       Partial disbursement from 2024–2027.
+                                       The following formula will be applied for partial
+                                       disbursement: Partial DLI disbursement = planned DLI
+                                       disbursement for the period (actual achievement of the
+                                       current period-targeted achievement of the previous
+                                       period)/ (targeted achievement of the current period-
+                                       targeted achievement of the previous period).
+                                                                                                                        IVA verify and confirm
+Target 2023–2027: ADP approved and     Condition for disbursement. This target is considered                            published ADP
+aligned with the RBL program budget    achieved when the Chief Engineer, LGED (i) approves the
+forecast to meet DLIs.                 RBL program budget forecast to meet the DLIs and (ii)
+                                       Approves the ADP aligned with the approved program
+                                       budget.
+DLI 3: 88 Pourashavas’ governance      Definition: DLI 3 is defined that (i) each pourashava is       Pourashava        PMU submits              Twice a year
+and capacity improved.                 implementing UGIAP, (ii) a web-based revenue                   records and       achievement reports      from 2024–
+                                       management system established and (iii) capacity-building      LGED M&E.         including UGIAP,         2028.
+(i) By 2024, 88 UGIAP (cumulative)     activities have been implemented.                                                pourashava council’s
+approved and 88 (cumulative) UGIAP     Each pourashava’s UGIAP should use well-defined                                  meeting minutes and
+implemented.                           activities and indicators to assess the pourashava’s                             UGIAP
+                                       governance improvement performance. There are nine                               implementation
+Target number of UGIAP implemented     activities with twenty-nine indicators. UGIAP must be                            assessment report
+2024: 88 UGIAP approved (cumulative)   approved by each pourashava council and TLCC before                              attested by TLCC.
+2025: 40 UGIAP implemented             implementation begins. UGIAP is considered implemented                           The IVA will the
+2026: 60 UGIAP implemented             if the pourashava achieves a score of at least 80%.                              achievement by (a)
+                                                                                                                                                 Appendix 3     29
+
+
+                                                                                                           Information
+                                                                                                           Source and     Verification Agency         Verification
+  Disbursement-Linked Indicators                   Definition and Description of Achievement                Frequency        and Procedure            Timeframe
+2027: 88 UGIAP implemented                 Condition for disbursement. This is considered met if the                     desk review, (b)
+2028:88 UGIAP implemented (non-DLI)        targets in the first column are achieved.                                     sample interviews
+                                           Partial disbursement. Allowed 100% will be disbursed if                       with key stakeholders
+                                           the target is met; or if the achievement is lower.                            in TLCC.
+                                           The following formula will be applied: Partial DLI
+                                           disbursement = planned DLI disbursement for the period
+                                           (actual achievement of the current period-targeted
+                                           achievement of the previous period)/ (targeted
+                                           achievement of the current period-targeted achievement of
+                                           the previous period).
+(ii) 88 Pourashavas’ computerized          Definition: Pourashavas commence using the web-based           LGED, UMSU     PMU prepares               Within 1 month
+revenue management systems (web-           revenue management system developed by LGED and                whenever the   achievement reports        of receiving the
+based) established.                        pourashavas complete data (financial management)               DLI is met.    generated by web-          validation
+2022 Baseline: Manual system in 88         migration to the system.                                                      based revenue              report, ADB will
+(cumulative) pourashavas.                  Condition for disbursement. Target is considered                              management system          confirm that the
+Target: Number of pourashava               achieved when the target in the first column is met.                          and submits. The IVA       target has been
+completes data migrations completed        Partial disbursement from 2024–2026. Partial                                  will verify the            met.
+2024: 30                                   disbursement is allowed, according to the number of                           achievement by (a)
+2025: 40                                   pourashava that have completed data migrations. The                           desk review, (b)
+2026: 60                                   following formula will be applied: Partial DLI disbursement                   sample interviews
+2027: 88                                   = planned DLI disbursement for the period (actual                             with key stakeholders
+2028: 88 (maintained)                      achievement of the current period-targeted achievement of                     in Pourashavas and
+                                           the previous period)/(targeted achievement of the current                     UMSU.
+                                           period-targeted achievement of the previous period).
+(iii) Pourashavas staff completing         Definition: Trainings are provided on multiple topics to the   Pourashava,    LGED submits               Semi-annually.
+training (urban governance including       pourashava participants (90% eligible women staff and          LGED           attested training
+tax, GESIAP, urban resilience, and         councilor), including staff, members of TLCC and WCC.          Once a year    completion reports to
+technical)                                 2024 training on Urban Resilience, GESIAP, Climate                            ADB.
+Target: 1,350 participants (90% eligible   Resilience and Socially Inclusive Public Open Space
+women staff and councilor) complete        Guidelines.
+training by:                               2025 training on UGIAP, tax assessment, financial
+2024: 360                                  management, and waste management system O&M.
+2025: 620                                  2026 training on gender-responsive operation and
+2026: 370                                  maintenance plan.
+                                           Condition for disbursement. This target is achieved
+                                           when the first column’s target is met.
+                                           Partial disbursement. 100% will be disbursed if the target
+                                           is met, or pro-rata basis if the achievement is lower.
+DLI 4: By 2025, 300 Detailed designs of    Definition. Detailed design reports, including feasibility     LGED           LGED submits               Semiannually
+resilient and gender responsive            study, Detailed Design, Bill of Quantity, IEE, and safeguard                  approved sub-project
+                                           assessment following the standards and guidelines of the                      appraisal reports and
+30        Appendix 3
+
+
+                                                                                                             Information
+                                                                                                             Source and       Verification Agency      Verification
+  Disbursement-Linked Indicators                   Definition and Description of Achievement                  Frequency         and Procedure          Timeframe
+municipal infrastructure subprojects        government. The reports are approved by the appropriate                          IVA will verify the
+completed.                                  authority. Climate change consideration (as appropriate)                         achievement on
+                                            and gender-responsive features (at least two features)                           sample basis.
+Target:                                     incorporated.
+By 2023: 100 detailed design reports
+completed.                                  Partial disbursement. 100% will be disbursed if the target
+2024: 150 detail design completed           is met, or pro-rata basis if the achievement is lower.
+2025: 300 detail design completed.          The following formula will be applied: Partial DLI
+                                            disbursement = planned DLI disbursement for the period
+                                            (actual achievement of the current period-targeted
+                                            achievement of the previous period)/ (targeted
+                                            achievement of the current period-targeted achievement of
+                                            the previous period).
+DLI 5: Financial management, and            Definition: LGED’s audit committee will meet biannually to      Minutes of       PMU submits the          Semiannually
+resilient and inclusive planning capacity   resolve audit observations outstanding until the last year of   biannual         letter of achievement
+of LGED improved.                           the RBL program.                                                meetings or      to ADB with dossier
+                                            Condition for disbursement. This is considered achieved         equivalent.      The AVA will verify
+(i) LGED’s Financial management             when LGED submits the minutes of the audit committee.                            the submitted
+systems improved and sustained.             Partial disbursement. Not applicable                                             documents.
+Target by 2023 LGED’s audit
+committee to meet at least biannually
+(twice a year) to take corrective actions
+in resolving audit observations.
+By 2024 The number of internal audit        Definition: LGED’s internal audit department lacks              Payroll          PMU will submit to
+staff positions in the LGED internal        sufficient staff. At least 2 more staff members need to be      certificate      ADB a payroll. The
+audit unit increased by at least 10% (2     appointed.                                                                       IVA will verify the
+persons) compared to the baseline of                                                                                         submitted documents
+12 staff.                                   Condition for disbursement. Proof of payroll to at least                         on sample basis and
+                                            14 total staff members                                                           interviews.
+                                            Partial disbursement. 100% if 2 additional staff members
+                                            are recruited, 75% If 1 additional staff member is recruited.
+By 2025 (i) At least 1 risk-based           Definition: Risk based audit report on RBL to be prepared       Internal audit   PMU will submit the      Once a year
+internal audit of the RBL program have      by the internal audit team of LGED. At least 50% of the         report           internal audit report
+been undertaken by the LGED internal        audit observations are to be settled.                                            and summary of the
+audit unit during the RBL program                                                                                            APFSs. IVA will verify
+implementation and a report has been        Condition for disbursement. LGD internal audit team                              the submitted
+issued.                                     submits a report on risk-based audit. 50% outstanding                            documents.
+                                            audit observations are resolved.
+(ii) At least 50% of the audit
+observations as identified by OCAG in
+                                                                                                                                                  Appendix 3        31
+
+
+                                                                                                           Information
+                                                                                                           Source and      Verification Agency         Verification
+   Disbursement-Linked Indicators                   Definition and Description of Achievement               Frequency        and Procedure             Timeframe
+the first audit report for the RBL          Partial disbursement. (i) 60% if the risk based internal
+program, have been resolved.                audit is undertaken, and (ii) 40% if at least 50% audit
+                                            observations are resolved.
+By 2026 (ii) LGED’s audit committee to      Definition: (i) LGED’s audit committee to meet at least       Internal audit   PMU will submit the        Once a year
+have met at least biannually (twice a       biannually in year 1–3 of the RBL program to take             report,          internal audit report,
+year) in year 1–3 to take corrective        corrective actions in resolving audit observations given by   Payroll          summary of the
+actions in resolving audit observations.    OCAG and FAPAD. (ii) At least 4 more staff members are                         APFSs. IVA will verify
+                                            appointed from the baseline of 12 staff.                                       the submitted
+(i) The number of internal audit staff                                                                                     documents.
+positions in the LGED internal audit unit   Condition for disbursement. (i) Broadsheet reply
+increased by 4 persons compared to          submitted by LGED on the unresolved audit observations.
+the 2022/23 baseline of 12 staff.           (ii) Proof of payroll to at least 14 staff members
+
+                                            Partial disbursement. (i) 60% if the committee meets
+                                            biannually, 40% if the committee meets annually; and (ii)
+                                            40% if 4 additional staff members are recruited, 35% if 3
+                                            additional staff members are recruited, 30% if 2 additional
+                                            staff members are recruited.
+By 2027, At least two risk-based            Condition for disbursement. LGD internal audit team           LGED, OCAG       IVA will verify at least   Once in 2027
+internal audits of the RBL program          submits reports on risk-based audit. 70% outstanding audit                     2 risk based internal
+undertaken by the LGED internal audit       observations are resolved.                                                     audits conducted by
+unit during the RBL program                                                                                                reviewing the internal
+implementation and report issued.           Partial disbursement. (i) 60% if two risk-based internal                       report and
+At least 70% of the cumulative audit        audits are undertaken and 50% if one risk-based internal                       Report from OCAG
+observations, as identified by OCAG in      audits are undertaken; and (ii) 40% if at least 70% audit                      on the status of
+the three first audit reports of the RBL    observations are resolved, 35% if at least 60% are                             cumulative audit
+program have been resolved.                 resolved, 30% if at least 50% are resolved.                                    observations.
+
+(ii) Climate Resilient and Socially         Definition: LGED adopts the guidelines and each               Pourashava,      IVA will verify the
+inclusive Public Open Space Guidelines      pourashava is notified through LGED’s notification. Risk-     LGED             LGED documents
+and 63 Risk-informed master plans           informed master plan for at least 15 years will be prepared                    that state the
+approved.                                   for the pourashavas following the LGED’s prescribed                            guideline is approved
+By 2023. Climate Resilient and Socially     processes and template. Recruitment of consultants                             and notified to
+Inclusive Public Open Space Guidelines      completed by issuing notice to proceed.                                        pourashavas by the
+approved by LGED.                                                                                                          LGED.
+                                            2023 Condition for disbursement. This target is considered                     IVA will verify the
+By 2023. Consultant recruitment             achieved when the LGED has approved the guidelines and                         following documents:
+following ADB’s Procurement Policy          notified each pourashava through a notification. Partial                       (i) pourashava letter
+completed and notice to commence            disbursement. Not applicable.                                                  to LGED on the
+issued. Preparation.                                                                                                       approval of the
+                                                                                                                           master plan together
+32        Appendix 3
+
+
+                                                                                                           Information
+                                                                                                           Source and     Verification Agency       Verification
+   Disbursement-Linked Indicators                  Definition and Description of Achievement                Frequency        and Procedure          Timeframe
+By 2025. 30 Risk-informed master            2023 Condition for disbursement. This target is considered                   with the approved
+plans                                       achieved when the LGED issued notice to proceed to the                       risk-informed master
+2026. At least 63 risk-informed master      consultants for the risk-informed master plan. Partial                       plan and (ii) minutes
+plans                                       disbursement. Not applicable.                                                of pourashava
+                                                                                                                         council.
+                                            2025–2026 Condition for disbursement. This target is
+                                            considered achieved when the pourashava approves the
+                                            risk-informed master plan. Partial disbursements allowed.
+(iii) 50, 100, and 200 (cumulative) staff   Definition: Training will be provided on urban resilience     LGED           PMU will submit to        Annually 2024-
+trained in 2024, 2025, and 2026             and Gender Action Plan.                                       PMU M&E        LGED a letter of          2026
+respectively, on urban resilience and       2024–2026. The DLI is scalable and partial disbursement is    report         achievement. The
+GESIAP.                                     allowed. The following formula will be applied: Partial DLI                  ADB mission, along
+                                            disbursement = planned DLI disbursement for the period                       with LGED, will verify
+                                            (actual achievement of the current period-targeted                           the submitted
+                                            achievement of the previous period)/ (targeted                               documents.
+                                            achievement of the current period-targeted achievement of
+                                            the previous period).
+DLI 6: Gender-responsive O&M                Definition. DLI 6 defined if each pourashava includes         Pourashava     IVA verifies by: Desk     2024–2025
+management established in 88                gender dimensions in the approved O&M plan, spent 50%         LGED MIS       review and interview
+pourashavas.                                of the annual O&M budget, and 25 pourashavas received a                      with key pourashavas
+                                            budget for waste management O&M following the                                staff and TLCC
+(i) At least 50% of the annual allocated    performance ranking.                                                         members on the
+budget for gender responsive O&M is         Each pourashava council approves the gender-responsive                       minutes of
+spent in 88 pourashavas.                    O&M plan. Implementation of the plan is defined if 50% of                    pourashava.
+Target:                                     the annual budget allocated for the O&M is spent by the
+By 2024 = 30 pourashavas O&M plan           target pourashava starting from the second year of the plan                  PMU submits to the
+approved                                    approvals. The ratio of actual expenditure to the yearly                     ADB (i) O&M SOP
+2025 = 88 pourashavas O&M plan              budget provision. Expenditure of implementation is                           document, (ii) a letter
+approved                                    recorded, aligning the activities in the approved O&M plan.                  from LGD confirming
+2025 = 30 pourashavas spend at least                                                                                     the approval of SOP,
+50% of the annual allocated budget.                                                                                      and (iii) a copy of
+2026 = 88 pourashavas spend at least                                                                                     notification letter to
+50% of the annual allocated budget.                                                                                      pourashavas. PMU
+(ii) WM O&M fund received by at least       A SOP will be developed for the pourashavas for solid                        submits submit to the
+25 pourashavas.                             waste and fecal sludge management. PMU will prepare a                        ADB (i) the
+By 2023. Standard WM O&M                    performance assessment following the performance                             performance ranking
+performance evaluation procedure            evaluation procedure and performance ranking attested by                     and (ii) interim
+developed and adopted by LGED.              LGED and the fund allocated to pourashavas is done                           financial statement.
+By 2025–2026. Annual pourashava             accordingly. This component will cover 25 pourashavas
+WM performance ranking prepared, and        where the waste management value chain is established
+                                            under different ADB-financed LGED projects.
+                                                                                                                                              Appendix 3       33
+
+
+                                                                                                         Information
+                                                                                                         Source and       Verification Agency      Verification
+  Disbursement-Linked Indicators                  Definition and Description of Achievement               Frequency         and Procedure          Timeframe
+budget allocated to at least 25
+pourashavas for WM O&M
+
+following standard procedure                Condition for disbursements. This is considered met if
+                                            the targets in the first column are achieved.
+                                            Partial disbursement. The DLI is scalable and partial
+                                            disbursement is allowed. The following formula will be
+                                            applied:
+                                            Partial DLI disbursement. Planned DLI disbursement for
+                                            the period (actual achievement of the current period-
+                                            targeted achievement of the previous period)/(targeted
+                                            achievement of the current period-targeted achievement of
+                                            the previous period).
+DLI 7: Equity and inclusiveness of          Definition: DLI 7 requires each pourashava to approve a     Semiannual        IVA verifies by: Desk   Semiannual
+women and poor ensured in at least 88       GESIAP, implemented it with a 1% budget allocated from      progress report   review and interviews
+pourashavas                                 own revenue, and low-income resilient livelihood skills     on GESIAP         with pourashavas
+                                            training completed for 5,000 residents of low-income        implementation    staff, LINC members,
+(i) GESIAP adopted and implemented          neighborhood, and LINIC discuss climate resilient issues                      and LGED staff.
+with 1% budget earmarked from own           and priorities.
+revenue by at least 88 pourashavas.         Implementation is defined as when at least 70% of targets
+                                            of GESIAP are achieved or on track to achieve with 1%
+Target:                                     budget allocation from own revenue.
+Pourashava-wise GESIAP approved:
+By 2023: 59
+GESIAP implemented:
+By
+  2025: 40
+  2026: 50
+  2027: 88
+(ii) 5,100 residents of low-income          Recipients of training should include residents of a low-   Semiannual        IVA verifies by desk    Semiannual
+neighborhood reported increased             income neighborhood of each pourashava. A list of low-      progress          review and interviews
+resilient livelihood skill.                 income neighborhoods should be maintained by each           report.           of LINIC member and
+Target: 1400, 1450, 1450, and 800           pourashava.                                                                   pourashavas staff.
+residents trained on resilient livelihood   The target is considered achieved when the pourashava
+skill in the years 2024, 2025, 2026, and    publishes official notice on LINIC formation in 252 low-
+2027, respectively.                         income neighborhoods. Minutes of committee records
+(iii) 252 (4 committees x 63                discussions on climate resilient issues.                    Contract                                  Semiannual
+pourashavas) LINIC in 63 pourashavas        Condition for Disbursements: This is considered met if      document
+formed with at least 50% women              the targets in the first column are achieved.               between LINIC
+members. Target: 100, 160, and 252          Partial disbursements. Partial disbursement is allowed.     and
+                                            The following formula will be applied for each target.      pourashava
+34       Appendix 3
+
+
+                                                                                                        Information
+                                                                                                        Source and      Verification Agency      Verification
+   Disbursement-Linked Indicators                Definition and Description of Achievement               Frequency        and Procedure          Timeframe
+LINIC (cumulative) formed in 2024,       Partial disbursement is allowed, and the following formula
+2025, and 2026.                          will be applied: Partial DLI disbursement = planned DLI
+                                         disbursement for the period (actual achievement of the
+                                         current period-targeted achievement of the previous
+                                         period)/ (targeted achievement of the current period-
+                                         targeted achievement of the previous period).
+Output 2: Municipal infrastructure improved in quality, access, resilience, and gender responsiveness
+DLI 8: At least 900 km of drains         Definitions: Drains rehabilitated or reconstructed as per    Quarterly         IVA will verify the
+rehabilitated or reconstructed           technical specification/ guidelines requirements issued by   Progress          length and whether
+                                         LGED.                                                        Reports and       the work was
+(i) Civil works (drain) contract awarded Rehabilitation/reconstruction defined as: Catchment          Annual M&E        executed as per BOQ
+through e-GP.                            identified (design). Main drain and distributary channel and Report.           and attached
+50% by 2023                              outfalls constructed/ rehabilitated as designed. Water                         technical
+100% by 2024                             retention and detention system to be installed as per        On-site           specifications/require
+                                         design. Outfall to outfall sections to be established for    verification of   ments of LGED for all
+(ii) Length of drains rehabilitated or   partial disbursement (runoff to be allowed to reach outfall  randomly          the subprojects
+reconstructed in 63 target pourashavas. from all the catchments under consideration)                  selected          requested for
+250 km – 2025                            Partial disbursement. Applicable for this DLI upon           sections at       verification.
+500 km – 2026                            submission of verification report by IVA lengthwise.         different times
+800 km –2027                             The following formula will be applied: Partial DLI           of the year.
+900 km –2028                             disbursement = planned DLI disbursement for the period
+                                         (actual achievement of the current period-targeted
+                                         achievement of the previous period)/ (targeted
+                                         achievement of the current period-targeted achievement of
+                                         the previous period).
+DLI 9: At least 1,500 km of roads        Definition: Existing road alignments rehabilitated or        QPR and           IVA will verify the
+rehabilitated or reconstructed.          constructed to meet standards of gender responsiveness,      Annual M&E        length and whether
+                                         safety, resilience, and accessibility. The rehabilitation or Report.           the work was
+Baseline:                                reconstruction of existing road alignment shall be executed                    executed as per BOQ
+Infrastructure inadequate.               as per the BOQ and attached technical                        On site           and attached
+                                         specifications/project requirements of LGED.                 verification of   technical
+2023–2024                                                                                             randomly          specifications/require
+(a) All civil works (road) contracts     Partial disbursement applicable for this DLI upon            selected          ments of LGED for all
+awarded through e-GP.                    submission of verification report by IVA on a yearly basis   sections at       the subprojects
+2025–2028                                lengthwise. 100% will be disbursed if at least 250 km of     different times   requested for
+(b) At least 1,500 km of roads           roads have been rehabilitated/ reconstructed.                of the year.      verification
+rehabilitated or reconstructed to meet   The following formula will be applied: Partial DLI
+standards of gender responsiveness,      disbursement = planned DLI disbursement for the period
+safety, and accessibility in 63 target   (actual achievement of the current period-targeted
+pourashavas.                             achievement of the previous period)/ (targeted
+250 km – 2025
+                                                                                                                                             Appendix 3     35
+
+
+                                                                                                        Information
+                                                                                                        Source and      Verification Agency       Verification
+   Disbursement-Linked Indicators                 Definition and Description of Achievement              Frequency        and Procedure           Timeframe
+800 km – 2026                              achievement of the current period-targeted achievement of
+1,250 km – 2027                            the previous period).
+1,500 km – 2028
+
+
+DLI 10: At least seven climate resilient   Definitions: Gender-responsive public spaces and            QPR and          IVA will verify the
+and socially inclusive public facilities   community centers designed as per relevant design           Annual M&E       length and whether
+developed or remodeled.                    guidelines and constructed as per signed contract           report           the work was
+                                           agreement (technical specifications, and BOQ)                                executed as per BOQ
+Baseline: Climate resilient and socially                                                                     Field visitand the attached
+inclusive public facilities = 0              Condition of disbursement. The disbursement condition is        reports    technical
+By 2024: 4 contracts for construction or     met if the target in the first column is met.                              specifications/
+remodeling of climate resilient and                                                                                     requirements of
+socially inclusive public open spaces        Disbursements are allowed for advance or late                              LGED for all the
+awarded through e-GP.                        achievement of the DLI. It means that the planned                          subprojects
+By 2025: (i) Construction or remodeling      disbursement amount for a given year can be released                       requested for
+of at least 2 climate resilient and          when the set target is fully or partially achieved, even if the            verification.
+socially inclusive public open spaces        achievement is late, as long as the achievement is during
+demonstration facilities completed.          the RBL program’s duration.
+(ii) At least 3 targeted contracts for
+community facilities awarded through e-
+GP.
+By 2026: Construction or remodeling of
+at least 2 additional climate-resilient
+and gender-responsive public open
+spaces completed.
+By 2027: 3 Community facilities (market
+centers) constructed.
+ ADB = Asian Development Bank, ADP = Annual Development Plan, APFS = audited project financial statements, BOQ = bill of quantity, DLI = disbursement-linked
+ indicator, e-GP = electronic government procurement, FAPAD = Foreign Aided Project Audit Directorate, GESIAP = gender action plan, GESI = gender equality and
+ social inclusion, IEE = initial environmental examination, IVA = independent verification agency, km = kilometer, LGD = Local Government Division, LGED = Local
+ Government Engineering Department, LINIC = Low-income Neighborhood Improvement Committees, M&E = monitoring and evaluation, O&M = operation and
+ maintenance, PMU = project management unit, OCAG = Office of the Comptroller and Auditor General, M&E = monitoring and evaluation, QPR = quarterly progress
+36      Appendix 3
+
+
+report, RBL = results-based lending, SOP = standard operating procedures, TLCC = Town Level Coordination Committee, UGIAP = Urban Governance Improvement
+Action Plan, UMSU = urban management support unit, WCC = ward coordination committee, WM = waste management.
+Source: ADB.
+
+                                                       Table A3.3: Expected Disbursement Schedule
+                                                                          Financin
+                                                                          g of Prior
+                                                    Total ADB Share of    Results
+                                                    Financing   Total ADB 2023           Advance
+                                                    Allocation Financing  ($             Financing
+ Disbursement-Linked Indicators                     ($ million) (%)       million)       ($ million)   2023     2024     2025     2026    2027    2028
+ Outcome: Municipal services and governance in target 88 pourashavas improved.
+ DLI 1: Holding tax collection efficiency increased    20.0         6.7                                           2.5      2.5     5.0     5.0      5.0
+ to at least 80% achieved.
+ Output 1: Institutional capacity for inclusive municipal governance strengthened
+
+ DLI 2: Criteria-based development fund transfer
+ to pourashavas.
+ Municipal (pourashavas) Development Plan (prior           15.0      5.0       15.0
+ results)
+    i. SOP for development fund transfer approved          10.0      3.3                     2.0         2.0      2.0      2.0     2.0     2.0
+       and 329 pourashavas received development
+       funds following SOP.
+   ii. ADP aligned with the program budget                 9.0       3.0                     2.0         4.0      2.0      1.0     1.0     1.0
+       forecast to meet DLIs.
+ DLI 3: 88 Pourashavas’ governance and planning
+ improved.
+    i. At least 88 UGIAPs (cumulative) approved            9.0       3.0                     2.0         2.0      2.0      1.0     2.0     2.0
+         and 88 UGIAP implemented.
+   ii. 88 Pourashavas’ computerized revenue                9.0       3.0                                          1.0      3.0     3.0     2.0
+       management systems (web-based)
+       established.
+  iii. At least 1,350 staff of pourashavas staff           9.0       3.0                                          2.0      3.5     3.5
+       (including 90% of eligible women staff and
+       female councilors of municipalities) complete
+       training (governance, financial management,
+       urban resilience, risk-informed master
+       planning, GESIAP).
+ DLI 4: By 2025, 300 detailed designs of resilient         6.0       2.0                     2.0         2.0      2.0      2.0
+ and gender responsive municipal infrastructure
+ subprojects completed
+ DLI 5: Financial management and resilient and
+ inclusive planning capacity of LGED improved.
+                                                                                                                                 Appendix 3    37
+
+
+                                                                           Financin
+                                                                           g of Prior
+                                                Total ADB     Share of     Results
+                                                Financing     Total ADB    2023         Advance
+                                                Allocation    Financing    ($           Financing
+Disbursement-Linked Indicators                  ($ million)   (%)          million)     ($ million)   2023    2024    2025    2026    2027    2028
+   i. LGED’s Financial management systems           5.0           1.7                       1.0         1.0     1.0    1.0     1.0     1.0
+      improved & sustained.
+  ii. Climate Resilient and Socially inclusive        20.0          6.6                     4.0        5..0     3.0    7.0     5.0
+      Public Open Space Guidelines and 63 Risk-
+      informed master plans approved.
+ iii. At least 200 LGED staff (cumulative)              5.0         1.7                                  0      2.0    2.0     1.0
+      completing training (urban resilience and
+      GESIAP).
+DLI 6: Gender-responsive operation and
+maintenance management system established in
+88 pourashavas.
+   i. 50% of the annual budget for gender-              5.0         1.7                                         1.0    1.0     1.5     1.0     0.5
+      responsive operation and maintenance spent
+      in 88 pourashavas.
+  ii. Waste management O&M fund received by             7.0         2.3                     1.0         1.0            2.0     2.0     2.0
+      25 pourashavas.
+DLI 7: Equity and inclusiveness of women and
+poor in 88 pourashavas ensured.
+   i. GESIAP adopted and implemented with 1%            8.0         2.6                     1.0         2.0            2.0     2.0     2.0
+      budget earmarked from own revenue by at
+      least 88 pourashavas.
+  ii. 5,100 residents of low-income neighborhood        8.0         2.6                                         1.0    3.0     2.0     2.0
+      reported increased resilient livelihood skill.
+ iii. 252 (4 committees x 63 pourashavas) low-          5.0         1.8                                 1.0     1.0    1.0     1.0     1.0
+      income neighborhood improvement
+      committees in 63 pourashavas formed with at
+      least 50% women members.
+Output 2: Municipal infrastructure improved in quality, access, resilience, and gender-responsiveness
+DLI 8: Length of drains rehabilitated or              95.59        31.9                                9.83   10.00   20.00   20.00   18.78   16.98
+reconstructed.
+DLI 9: Length of paved (flexible/concrete) and        33.25       11.10                                2.00    3.00   3.00    10.01   11.22   4.02
+unpaved roads rehabilitated or reconstructed.
+DLI 10: Gender-responsive municipal facilities         6.00         2.0                                        1.00   2.00    2.00    1.00
+developed or remodeled.
+Subtotal                                             284.84         5.0                               31.83   36.50   59.00   64.01   52.0    26.50
+
+Interest charges during implementation             15.16                                              0.24     1.32   2.31    3.60    4.84    2.85
+38      Appendix 3
+
+
+                                                                           Financin
+                                                                           g of Prior
+                                                Total ADB Share of         Results
+                                                Financing     Total ADB 2023             Advance
+                                                Allocation Financing       ($            Financing
+ Disbursement-Linked Indicators                 ($ million)   (%)          million)      ($ million)   2023    2024       2025     2026      2027     2028
+                                        Total       300          100           15             15       32.07    37.82     61.31 67.61 56.84 29.35
+ADB = Asian Development Bank, ADP = annual development plan, DLI = disbursement linked indicator, GESIAP = gender equality and social inclusion action plan,
+LGED = Local Government engineering department, O&M = operation and maintenance, SOP = standard operating procedure, UGIAP = urban governance
+improvement action plan.
+Source: ADB.
+

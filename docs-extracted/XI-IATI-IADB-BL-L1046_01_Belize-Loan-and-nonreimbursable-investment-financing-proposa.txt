@@ -1,0 +1,2413 @@
+                                                                                        PUBLIC
+                                                                      SIMULTANEOUS DISCLOSURE
+
+
+
+                  DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                             BELIZE
+
+
+
+
+      SUSTAINABLE AND INCLUSIVE URBAN DEVELOPMENT PROGRAM
+                                    (BL-L1046 & BL-J0007)
+
+
+
+
+         LOAN AND NON-REIMBURSABLE INVESTMENT FINANCING PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Martin Soulier Faure (CSD/HUD),
+Project Team Leader; Ana María Sáiz (SCL/MIG), Alternate Team Leader; Denise Levy and
+Omar Samayoa (CSD/RND); Gerard Alleng (CSD/CCS); Rodrigo Riquelme (INE/WSA); Hugo
+Us Alvarez (SCL/GDI); Alejandra Catacolí and Adriana Zambrano (VPS/ESG); Brodrick Watson
+and Christian Lunstedt (VPC/FMP); Ruthann Rivero (CID/CBL), Mónica Lugo (LEG/SCO);
+Linsford Coleman (INO/IEN); Alison Elias, Mariana Sobral and Adela Dávalos (SCL/MIG);
+Natalia Lopez, Sofía Del Castillo, Dianela Ávila, Silvia Pérez and Gabriel de Barros Torres
+(CSD/HUD).
+
+In accordance with the Access to Information Policy, this document is being released to the public and
+distributed to the Bank’s Board of Executive Directors simultaneously. This document has not been
+approved by the Board. Should the Board approve the document with amendments, a revised version will
+be made available to the public, thus superseding and replacing the original version
+                                                     CONTENTS
+
+
+PROJECT SUMMARY ......................................................................................................... 1
+
+
+I.     PROJECT DESCRIPTION AND RESULTS MONITORING ............................................. 1
+
+       A.       Background, problems addressed, and justification............................. 2
+       B.       Objective, components, and cost ....................................................... 13
+       C.       Key Results Indicators ....................................................................... 16
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ............................................................ 19
+
+       A.       Financing instruments ........................................................................ 19
+       B.       Environmental and social safeguard risks ......................................... 20
+       C.       Fiduciary risk...................................................................................... 21
+       D.       Other risks and key issues ................................................................. 22
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN......................................................... 23
+
+       A.       Summary of implementation arrangements ....................................... 23
+       B.       Summary of arrangements for monitoring results .............................. 26
+                                        - ii -
+
+
+
+                                     ANNEXES
+
+Annex I     Summary Development Effectiveness Matrix (DEM)
+
+Annex II    Results Matrix
+
+Annex III   Fiduciary Arrangements
+
+
+                       REQUIRED ELECTRONIC LINKS (REL)
+
+REL#1       Pluriannual Execution Plan (PEP) / Annual Operational Plan (AOP)
+
+REL#2       Monitoring and Evaluation Arrangements
+
+REL#3       Environmental and Social Review Summary (ESRS)
+
+REL#4       Procurement Plan
+
+
+                       OPTIONAL ELECTRONIC LINKS (OEL)
+
+OEL#1       Technical Analysis
+
+OEL#2       Socio-Economic Viability
+
+OEL#3       Migration Analysis
+
+OEL#4       Operations Manual
+
+OEL#5       Sustainability and Climate Change
+
+OEL#6       Analysis of Compliance with Public Utilities Policy
+
+OEL#7       Safeguard Policy Filter (SPF) and Safeguard Screening Form (SSF)
+                                     - iii -
+
+
+
+                               ABBREVIATIONS
+BWS        Belize Water Services
+CEU        Central Executing Agency
+CTC        Corozal Town Council
+EA         Executing Agency
+ESMF       Environmental and Social Management Framework
+ESRS       Environmental and Social Review Summary
+GDP        Gross Domestic Product
+ICAP       Institutional Capacity Assessment
+IDB        Inter-American Development Bank
+KBA        Key Biodiversity Areas
+MED        Ministry of Economic Development
+MFEDI      Ministry of Finance, Economic Development, and Investment
+MPAS       Bank’s Environmental and Social Policy Framework
+MRTCDLLG   Ministry of Rural Transformation, Community Development, Labour,
+           and Local Government
+OM         Operations Manual
+OW         Orange Walk
+OWTC       Orange Walk Town Council
+SIB        Statistical Institute of Belize
+SPF        Safeguard Policy Filter
+SP         San Pedro
+SPTC       San Pedro Town Council
+SSF        Safeguard Screening Form
+TWG        Technical Working Group
+                                                 PROJECT SUMMARY
+                                                       BELIZE
+                               SUSTAINABLE AND INCLUSIVE URBAN DEVELOPMENT PROGRAM
+                                               (BL-L1046 & BL-J0007)
+                                                      Financial Terms and Conditions
+ Borrower, Beneficiary, and Guarantor                                     Flexible Financing Facility(b) – OC Resources
+                                                                  Amortization Period:           25 years
+ Belize
+                                                                     Disbursement Period:                   5 years
+ Executing Agency                                                    Grace Period:                          5.5 years(c)
+ Ministry of Finance, Economic Development, and                      Interest rate:                         SOFR Based
+ Investment (MFEDI)                                                  Credit Fee:                            (d)
+
+              Source                  Amount (US$)            %      Inspection and supervision fee:        (d)
+
+ BL-L1046:
+                                          10,000,000          80
+ IDB - Ordinary Capital (OC)                                         Weighted Average Life (WAL):           15.25 years
+
+ BL-J0007: IDB – GRF(a)                    2,500,000          20
+                                                                                                   Dollars of the United States of
+                                                                Currency of Approval:
+ Total:                                   12,500,000     100                                       America
+                                                          Project at a Glance
+ Project Objective/Description: The overarching goal is to contribute to the sustainable urban development of municipalities
+ in northern Belize. The specific objectives are: (i) to improve access to selected urban services; (ii) to support local economic
+ growth; and (iii) to facilitate the social and economic integration of vulnerable populations, such as migrant population and
+ women (¶1.20).
+ Special Contractual Clauses prior to the first disbursement:
+ (i) Executing Agency (EA) has hired and/or appointed for the administration of the program at least the following key personnel:
+ (a) a program manager, (b) a procurement officer, (c) a finance Officer, (d) an environmental and social specialist, and (e) a project
+ engineer; (ii) EA has approved and put into effect the Operations Manual (OM), under the terms and conditions previously agreed
+ with the Bank, which must include, among other elements, the environmental and social requirements; and (iii) a Project Steering
+ Committee (PSC) has been established with high level representatives from at least the following entities: the Ministry of Finance,
+ the MED, and the Ministry of Local Government (¶3.7).
+ Special Contractual Clauses of execution:
+ (i) The Borrower, or the EA, agrees to obtain, before the award of the corresponding contract for each of the works of the
+ project, the legal possession of the properties where the respective work will be built, the easements or other rights necessary
+ for its construction and use, as well as the rights over the waters required for the work in question. (ii) Prior to start works in a
+ specific Town, Technical Working Groups (TWG) must be formally created through MOUs, previously agreed with the Bank, signed
+ by the municipality, the Ministry of Economic Development (MED) and the Ministry of Rural Transformation, Community
+ Development, Labour, and Local Government (MRTCDLLG), detailing responsibilities for the implementation and sustainability of
+ the corresponding investments (¶3.8). For other special contractual clauses, see Annex B of the Environmental and Social Review
+ Summary (ESRS).
+ Exceptions to Bank Policies: None
+                                                             Strategic Alignment
+ Objectives(e):                                   O1 ☒                                O2 ☒                                  O3 ☒
+ Operational Focus                                  OF2-G ☒
+                                      OF1 ☒                        OF3 ☒         OF4 ☒                      OF5 ☒       OF6 ☒         OF7 ☐
+ Areas(f):                                          OF2-D ☒
+(a)
+      Non-reimbursable financing. The GRF is the “IDB Grant Facility resources to continue supporting the efforts of the region to address
+      ongoing and emerging migration challenges” (“IDB Grant Facility”). According to document GN-2947-26, the IDB financing structure for
+      this operation includes a combination of a maximum of 20% of non-reimbursable (GRF) and 80% reimbursable (Ordinary Capital)
+      resources. The GRF resources will be disbursed simultaneously and proportionately with the Ordinary Capital loan resources.
+(b)
+      Under the Flexible Financing Facility (document FN-655-1), the borrower has the option to request modifications to the amortization
+      schedule, as well as currency, interest rate, commodity, and catastrophe protection conversions. In considering such requests, the Bank
+      will take into account operational and risk management considerations.
+(c)
+      Under the flexible repayment options of the Flexible Financing Facility (FFF), changes in the grace period are possible as long the Original
+      Weighted Average Life (WAL) and the last payment date, as documented in the loan agreement, are not exceeded.
+(d)
+      The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors during its review of
+      the Bank’s lending charges, in accordance with the relevant policies.
+(e)
+      O1 (Reduce poverty and inequality); O2 (Address climate change); and O3 (Bolster sustainable regional growth).
+(f)
+      OF1 (Biodiversity, natural capital and climate action); OF2-G (Gender equality); OF2-D (Inclusion of diverse population groups); OF3
+      (Institutional capacity, rule of law, and citizen security); OF4 (Social protection and human capital development); OF5 (Productive
+      development and innovation through the private sector); OF6 (Sustainable, resilient, and inclusive infrastructure); and OF7 (Regional
+      integration).
+                                                      -2-
+
+
+
+                   I.       PROJECT DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problems addressed, and justification
+
+1.1       Background. Governance in Belize operates on two levels: the national level,
+          which encompasses Ministries, Departments, and Organizations with jurisdiction
+          across the entire country, and the local level, which includes City Councils (such
+          as Belize City and Belmopan), Town Councils (in urban centers with Township
+          status), and Village Councils. The competencies and authority of Town Councils
+          are outlined in Chapter 87 of the Substantive Laws of Belize. They are responsible
+          for urban regulation (aligned with zoning plans), approving certain construction
+          permits, overseeing city drainage and sanitation, managing local urban
+          infrastructure, public spaces, and facilitating the development of new urban
+          facilities 1. Municipalities also collaborate with the national level on various urban
+          and social services, disaster risk management 2, and economic development,
+          including tourism 3. Regarding national development strategies, the Government
+          launched in 2023 the Plan Belize, Medium-Term Development Strategy 2022-2026
+          (MTDS): “Transforming Belize to a more inclusive and Sustainable country”,
+          proposing 271 programs or projects to implement in poverty reduction, economic
+          transformation, trade deficit, citizen security, protection of the environment, and
+          good governance.
+
+1.2       Development Challenges. Belize has a population of approximately 410,000
+          inhabitants (42.2% urban, nearly 172,000 people). 4 The population growth rate,
+          1.52% per year (2021 estimate), is one of the highest in the region 5. Rapid
+          population increase can exacerbate the challenge of ensuring that future
+          development is sustainable and inclusive. 6 In the Global South, where cities
+          accommodate population mostly through the expansion of their urban footprints
+          rather than densification, urban growth occurs in a haphazard, unplanned manner
+          (zoning and land-use regulations are more difficult to enforce), making cities less
+          productive, less inclusive, less resilient, and less sustainable. 7 In Northern Belize,
+          the population of the three major towns, Orange Walk (OW), Corozal and San
+          Pedro (Ambergris Caye Island) 8, grew 13,4% since 2010 census (SIB; 2024).
+          During the same period, household numbers have surged by approximately
+          30.3%, more than doubling the population growth rate. These municipalities face
+
+1     Ambergris Sustainable Master Plan (ATN/AC-19488-BL and ATN/OC-19487-BL): second report
+      (multisectoral diagnosis) IDOM (2023).
+2     Ministry of Sustainable Development, Climate Change and Disaster Risk Management, the National
+      Emergency Management Organization (NEMO), the Belize Red Cross Society, and, if applicable, the Coastal
+      Zone Management Authority and Institute (CZMAI).
+3     Ministry of Tourism and Diaspora Relations and Belize Tourism Board (BTB).
+4     Statistical Institute of Belize (SIB) 2024, preliminary population counts from the 2022 Belize Housing and
+      Population Census. Postcensal population estimates.
+5     United Nations Department of Economic and Social Affairs: “Why population growth matters for sustainable
+      development”; February 2022
+6     United Nations Department of Economic and Social Affairs: “Why population growth matters for sustainable
+      development”; February 2022.
+7     Angel, S. (2023). Urban expansion: theory, evidence and practice. Buildings and Cities, 4(1), pp. 124–138.
+      DOI: https://doi.org/10.5334/bc.348.
+8     Orange Walk, Corozal, and San Pedro, present urban populations of approximately 14,600, 10,000, and
+      15,500, respectively. Urban inhabitants represent 26.8%, 22%, and 84.7% of the total population of each
+      district (total population approximately 54,500; 45,500 and 18,300 respectively). Own estimations based on
+      preliminary population counts from the 2022 Census.
+                                                       -3-
+
+
+          specific interconnected challenges as they strive for holistic and sustainable 9
+          development: improving the provision of urban services, local economic diversity,
+          and community integration, while also seeking to increase their resilience and
+          capabilities across the board to manage growth effectively.
+
+                                                       Figure 1. Location
+
+
+
+
+            Source: IDOM (2023)
+
+
+1.3       Deficit in selected urban services. 10 Expanded urban growth with inadequate
+          coverage or efficiency in the provision of urban services have impacts in economic
+          (i.e. loss of time of transport, financial instability), environmental (i.e. air and water
+          courses pollution) and social (i.e. social segregation) sustainability. 11 Inadequate
+          planning and management of urban footprint growth typically result in costly
+          community infrastructure, the shortage of public open spaces, inadequate
+          protection of ecological assets, and the proliferation of informal settlements without
+          proper layout for streets, drainage works, and public facilities, among other (Angel
+          S.; 2023). The surge of new households in OW, Corozal and San Pedro, required
+          the construction of approximately 200 houses annually and the provision of
+          essential urban services such as roads, sidewalks, public spaces, drainage
+          systems, potable water supply, sewerage, waste management, public facilities,
+          and sustainable mobility. Historical deficits and unplanned urban growth, along
+          with inadequate monitoring capabilities, have resulted in deficiencies in the
+          provision of urban services in the three cities (see Table 1). Naturally, these deficits
+          are more noticeable in vulnerable areas 12. In this sense, the UN states that
+
+
+9     In this document, the term “sustainable” is used in its broad sense, including environmental, social, urban,
+      and economic/financial aspects.
+10    Urban development literature generally refers to “urban services” to various essential infrastructures and
+      facilities that contribute to the well-being and functionality of urban areas, encompassing a wide range of
+      sectors, such as urban planning and governance, housing, water and sanitation, energy, healthcare,
+      education, public safety, mobility, and recreation and culture facilities, among other.
+11    Bueno-Suarez, C and Coq-Huelva, D: “Sustaining What Is Unsustainable: A Review of Urban Sprawl and
+      Urban Socio-Environmental Policies in North America and Western Europe”; 2020.
+12    In San Mateo, a vulnerable neighborhood of San Pedro with 2,329 inhabitants, there is no coverage of paved
+      roads, sidewalks, sewage, stormwater drainage, bike lanes, street vegetation, nor public spaces (IDOM;
+      2023).
+                                                          -4-
+
+
+          eradicating poverty in all its forms and dimensions is an indispensable requirement
+          for economic, social, and environmental sustainable development. 13
+
+
+                          Table 1. Selected Urban Services Indicators per Municipality
+           Indicator                   Orange Walk(a)           Corozal(b)       San Pedro(c)            Belize City
+           Paved roads                                                                                   42,3%(d)
+                                       11,7%(d)                 7,7%(d)          8%
+           (district)
+           Drinking water(e)           87.6%                    81.4%            83%                     90%(f)
+
+                                       0% (94,5%                                                         35%(f)
+           Sewer System                                         0%               20%
+                                       septic tanks)
+
+                                       76% (15%                                                          n/a
+           Drainage(g)                                          n/a              5.3% concrete
+                                       concrete)
+                                       3.96 sq mt/                               4.05 sq mt /            n/a
+           Public spaces                                        n/a
+                                       inhabitant                                inhabitant
+
+           Qualified green                                                       0.8 sq mt /             3.8 sq mt/
+                                       n/a                      n/a
+           areas(h)                                                              inhabitant              inhabitant(f)
+           Bike Lanes                  0 km                     0 km             0 km                    0 km
+           (a)
+                 Investment and Organizational Development Plan for Orange Walk (Economia Urbana; 2023).
+           (b)
+                 Corozal Town Municipal Development Plan (MDP; 2013).
+           (c)
+                 IDOM 2023.
+           (d)
+                 Annual technical report of the Ministry of Infrastructure Development and Housing (2021). Respectively,
+                 Gravel roads are 56.8%; 84.4% and 89.5%; and earth roads 0.8%; 3.9 and 2.8%.
+           (e)
+                 Public or private piped into dwelling or yard (District’s totals); 2010 Census.
+           (f)
+                 Department of Environment - Belize.
+           (g)
+                 Permeable and impermeable drainage systems. Concrete drains such as half round drains,
+                 underdrains, catch pits, precast concrete trap drains, and V-shape block drains.
+           (h)
+                 The World Health Organization recommended the availability of a minimum of 9 m2 of green space per
+                 individual (Health Indicators of Sustainable Cities in the Context of the Rio+20 UN Conference on
+                 Sustainable Development. WHO; Geneva, Switzerland: 2012).
+
+
+1.4       Insufficient Economic Diversity. Traditionally, economic diversification has been
+          used as a strategy to transform the economy from using a single source to multiple
+          sources of income, with the objective to improve economic performance for
+          achieving sustainable growth; for example, building resilience against fluctuations
+          in extra-regional economic activity, reducing vulnerability to income loss due to
+          volatility of product price on the international market, creating job opportunities and
+          alleviating poverty. 14 Agriculture, primarily sugar cane farming and associated
+          secondary activities, dominates the economies of Orange Walk (OW) and Corozal
+          districts 15, with tourism emerging as a promising alternative for job creation and
+          economic diversification, specially eco and cultural tourism (a type of tourism
+          involving small to medium-sized operators, low environmental impact
+
+
+
+13    UN resolution 70/1 of 25 September 2015, entitled “Transforming our world: the 2030 Agenda for Sustainable
+      Development”.
+14    UN Framework Convention on Climate Change (UNFCCC): “The concept of economic diversification in the
+      context of response measures”; 2016.
+15    In continental northern Belize, where most sugarcane is grown, about 85% of the population depends on the
+      sugar sector. The sector is estimated to account for about 4–5% of total GDP and 8% of total employment.
+      (Can Belize cope with the new world sugar market? IMF 2016).
+                                                       -5-
+
+
+          infrastructure, and a recognition of local culture). 16 Tourism contributes over 15%
+          of GDP and employs 12% of Belize’s workforce. 17 San Pedro, the most visited
+          town, heavily relies on tourism, with an estimated 65% of its employed population
+          engaged directly in tourism activities. 18 Despite substantial increases in tourist
+          numbers in 2022, figures remain below 2019 levels, particularly in OW and
+          Corozal. 19 To enhance competitiveness of the tourism sector, Belize needs not
+          only better urban planning, land use regulation and access to urban services, but
+          also to improve availability and quality of Belizean-made handicrafts and the
+          commercialization of traditional products, and to deeper integrate local
+          communities and artisans into the tourism value chain. 20 In OW for example, local
+          vendors in the public market carry out their activities in poor conditions, exposed
+          to the sun and rain, without solid flooring, drinking water or safe electricity. 21
+          Another challenge raised by the NSTMP is to strengthen the distribution of tourism
+          benefits to vulnerable groups, improving their training and knowledge to access to
+          capital and markets 22. The skills gap in Belize is real, since economy shifts from
+          labor intensive jobs of the agricultural sector to jobs in the services sector, which
+          require interpersonal and digital skills. 23 Promoting tourism can help overcome
+          economic diversification challenges and vulnerability, but municipalities must
+          strengthen their ecosystems and offer incentives to attract private investment and
+          develop commercial activities (Economía Urbana, 2023).
+
+1.5       Socioeconomic inclusion of migrants, women and people with disabilities is
+          crucial for sustainable development. According to the UN, investing in the most
+          disadvantaged and excluded populations, which may include, among other,
+          women, persons with disabilities, and migrants, is critically important for the
+          effective achievement of the Sustainable Development Goals. 24 In 2022, intra-
+          regional migrants comprised approximately 12% of Belize's total population. 25
+          Since 2016, the country has experienced significant and sudden migration influxes.
+          Between 2019 and 2022, the population grew by 2.8%, primarily due to
+          immigration 26 (See OEL#3). Recent migrants have settled in urban areas, shifting
+          employment dynamics from agriculture to various income-generating activities
+
+
+16    Economía Urbana, 2023; MDP, 2013.
+17    Out of the 20,594 employees within the tourism industry, an estimated 5,027 are associated with Ambergris
+      Caye (IDOM; 2023).
+18    The Coastal Zone Management Authority & Institute (CZMAI) 2009: Revised Master Development Plan for
+      Ambergris Caye.
+19    According to the Belize Tourism Board (BTB tourism performance dashboard), the estimated visitors to these
+      municipalities in 2022 were 3,732 (OW), 4,647 (Corozal), and 116,030 (San Pedro), representing 35.8% of
+      the total visitors of the country. Figures showed a substantial increase from 2021 (61%, 85%, and 55%), but
+      they are still below 2019 (-78%, -70% and -32%), especially in OW and Corozal.
+20    Belize Tourism & Conservation Adaptation Plans and National Sustainable Tourism Master Plan for Belize
+      2030 (NSTMP)
+21    OW Town Council information and field visits.
+22    In the vulnerable neighborhood of San Mateo, in San Pedro Town, almost 30% of the inhabitants work in the
+      tourism sector, 24% in construction, 13% in services; and only 1.4% have tertiary studies (11.5% at national
+      level).
+23    Skills to shape the future: Employability in Belize (IDB; 2020)
+24    Resolution adopted by the General Assembly on 19 December 2023, “Promoting social integration through
+      social inclusion”.
+25    IDB Calculation based on data from the Statistical Institute of Belize (SIB).
+26    The percentage increase represents the change in the share of immigrant stocks for the period 2019-2022.
+      IDB calculation based on data from the SIB.
+                                                        -6-
+
+
+          such as landscaping, construction, food vending, and merchandising observed in
+          Corozal and Orange Walk. 27 Immigrants from El Salvador, Guatemala, and
+          Honduras make up 17.4% of Belize’s total labor force (SIB, 2021). In San Pedro,
+          where tourism drives the economy, the migrant workforce plays a crucial role in
+          services provision. Training can help lessen the social and economic inequality in
+          the country by providing people in disadvantaged communities with skills for
+          gainful employment. 28
+
+1.6       This rapid influx challenges urban services provision, placing strain on Belize’s
+          infrastructure. 29 According to municipal reports, migrants predominantly reside in
+          precarious settlements with limited access to urban services and stable
+          employment. In San Pedro, 11% of houses are in slums, and 57% of occupied
+          residential areas are low- to medium-quality neighborhoods (IDOM, 2023). In the
+          San Mateo neighborhood, where 17.4% of the population is foreign-born,
+          economic reasons primarily drive migration (62%). However, 92.3% of migrants in
+          San Mateo are not interested or aware of migrant programs. For 57% of migrants,
+          the priority is living in a community where everyone is treated equally, regardless
+          of nationality (IDOM, 2023, sociodemographic survey in San Mateo
+          neighborhood). Migrant integration and social cohesion remain significant
+          challenges, with 57% citing language barriers as a major obstacle to integration,
+          limiting access to skills development, employment, and social networks (Usher,
+          2022).
+
+1.7       While women represent about 51% of all migrants (SIB, 2021), Belize registered
+          one of the lowest gender parity scores of Latin America and the Caribbean in 2023
+          (0.696). 30 Even though women have higher levels of education than men, their
+          labor-market participation, employment levels, and wages are lower than those of
+          men (IDB, 2020). Unemployment rate in 2023 was 9.8% for women and 4.6% for
+          men. 31 Although women's participation in the labor force has increased nationally
+          (from 42.4% to 48.2% between 2020 and 2021), they still lag behind men (76.1%
+          in 2021), particularly after marriage, 32 and they only earn 68% of the income of
+          men. 33 Most women workers are occupied in services and sales, followed by
+          elementary occupations (LFS Report 2021). Women-headed households are
+          disproportionately represented in vulnerable housing situations (UNDP, 2007). In
+          Belize, 27.6% of households are headed by women, often single-parent
+          households, responsible for childcare and employment (CDB, 2016).
+
+1.8       The 2030 Agenda for Sustainable Development pledges to leave no one behind,
+          including persons with disabilities and other disadvantaged groups. 34 According to
+          the 2010 Census, approximately 15% of the population of Belize has a disability
+          (ECLAC 2014), in line with statistics worldwide. Across the LAC region, public
+
+
+27    Usher, M. (2022). Migrant Workers and Opportunities in MSMEs. IDB.
+28    State of Skills in Belize, International Labour Organization, 2020.
+29    Even though there is an information gap about migrants’ access to basic services, surveys conducted by
+      CID-Gallup in 2010, point out that access to water services by migrants is about 64%, significantly lower than
+      the national average.
+30    Global Gender Gap Report, World Economic Forum (WEF), 2023.
+31    UN Women (Women Count- https://data.unwomen.org/country/belize)
+32    As women get married, their labor participation decreases compared to unmarried women (44.4% compared
+      to 53.8%), and is much lower than married men (79.1%). LFS Report 2021
+33    Labor Market Gender Gap Index, Belize 2023.
+34    UN “Disability and Development Report”; 2019.
+                                                      -7-
+
+
+          infrastructure poses many accessibility challenges for people with disabilities. 35 In
+          Belize, the current legal framework lacks robust regulations ensuring infrastructure
+          designs adhere to universal accessibility standards, thereby denying people with
+          disabilities access to crucial services like education and healthcare. 36 Although
+          most countries in LAC count on these provisions in national legislation, the
+          accessibility of public facilities continues to be low for people with disabilities,
+          because the requirements of the laws are not described in coherent and consistent
+          regulations such as building codes, impeding the implementation of universal
+          access (Breaking Barriers, WB 2021).
+
+1.9       In general, Municipalities play a crucial role in receiving and integrating migrant
+          populations, necessitating policies, measures, and short-term activities to address
+          basic needs and provide access to integration initiatives and services. 37 However,
+          Belizean municipalities lack specific plans to manage these services effectively
+          and require support to develop them with a gender and inclusion approach.
+
+1.10      Natural Risks and Climate Change Adverse Effects on Sustainable Urban
+          Development. Across these challenges, Belize faces significant climate change
+          risks, including hurricanes, flooding, rising sea levels, coastal erosion, coral
+          bleaching, and droughts 38, alongside extreme temperature events. 39 Corozal
+          Town, located in the low-lying Corozal district, is highly flood-prone, with ongoing
+          coastal erosion threatening its sea wall integrity (MDP, 2013). Climate change
+          exacerbates impacts of coastal hazards, such as erosion and flooding, on property,
+          infrastructure, and communities. 40 Orange Walk, situated between wetlands and
+          the New River, experiences annual floods affecting over 100 families. 41 Ambergris
+          Caye is susceptible to hurricanes, floods, and other disasters. 42 While 58.2% of
+          the Caye is affected by flood-prone areas, the main risks identified are storm surge,
+          strong winds, and coastal erosion (IDOM, 2023). Mangrove forests are crucial for
+          the environment, serving as natural barriers against erosion, storm surges, and
+          coastal flooding while also purifying water. However, 7% of mangroves have been
+          lost between 1980 and 2023 (IDOM, 2023). While the National Government
+          handles disaster preparedness and response, municipalities play a key role in
+          bolstering resilience through green infrastructure, sustainable planning, and
+          proactive measures.
+
+1.11      Program Design Strategy, lessons learned and effectiveness. In line with the
+          Government Plan to transform Belize into a more inclusive and sustainable country
+          (Plan Belize MTDS 2022-2026), and in accordance with the objective of the
+          Country Strategy 2022-2025 to achieve robust, inclusive, and sustainable growth,
+          government authorities seek assistance from the Bank to design and implement
+          multisectoral and sustainable interventions to trigger the development of northern
+
+35    Breaking Barriers, WB, 2021
+36    “Marco legal de los derechos de las personas con discapacidad: América Latina y El Caribe”, Bregaglio, IDB
+      2021.
+37    OAS (2023). Reception and Integration of migrants and refugees in cities across the Americas. Organization
+      of American States, Washington, D.C. USA.
+38    IDB Country Strategy 2022-2025.
+39    WB, 2023.
+40    IDB BL-T1080 (ATN/MD-15572-BL and ATN/OC-15573-BL): Final Report “Bay Shoreline Management Plan:
+      Planning for Climate Resilience” (2018).
+41    Orange Walk Flood Mitigation Concept Note (Catalyst Solutions CG; 2022).
+42    From 62 events that occurred in the past, 67% were hurricanes, 22% were floods, and the remaining 11%
+      were epidemics and fires (DesInvetar Sendai developed by UNDRR; July 2023).
+                                                       -8-
+
+
+         Belize (BL-L1046) 43, and to improve social sustainability by integrating vulnerable
+         migrant populations and host communities (BL-J0007). 44 Since the investment
+         needs exceed the available resources 45, the Program will be used as a pilot project
+         to learn by its implementation and be able to replicate good practices in future
+         interventions. Besides the mentioned development challenges, the three major
+         towns of northern Belize also present the opportunity to learn from three different
+         urban typologies (coastal, island and inland) to improve future interventions in
+         other urban areas of the country. Jointly work along with the Ministry of Rural
+         Transformation, Community Development, Labour and Local Government
+         (MRTCDLLG) 46, will reinforce the catalytic purpose of this Program, generating
+         capabilities to replicate activities across the Country with own or external
+         resources. The Program will complement current efforts of the Government in
+         implementing the MTDS in these three towns. 47
+
+1.12     Projects to implement under this Program, prioritized by the municipalities, aim to
+         catalyzing sustainable urban development by enhancing selected urban services,
+         improving resilience and social integration, and fostering local economy in
+         vulnerable and prioritized areas of its cities, while concurrently reinforcing
+         municipalities capabilities. The sustainable and inclusive interventions, such as
+         neighborhood upgrading projects and improvements to public spaces and facilities,
+         will be complemented with activities to strengthen municipal and national
+         capabilities for guiding sustainable urban development (as AI tools developed by
+         IDB’s Cities Lab). Most interventions will be maintained and operated by
+         municipalities, with the responsibility for expanded water, sewage, and public
+         lighting networks falling on Belize Water Service (BWS) and Belize Electricity
+         Limited (BEL), respectively. 48 International evidence and lessons learned from the
+         IDB Group’s experience support the effectiveness of the proposed interventions in
+         improving urban infrastructure. 49
+
+
+
+
+43   Request letter from the MFEDI (March 2023).
+44   Additional request letter from the MFEDI (August 2023).
+45   The “Strategic Plan for the Sustainable Development of Ambergris Caye” (IDOM; 2024; funded by BL-T1150)
+     estimates in more than USD 200 million the cost of the investments needed to provide urban services to the
+     expected urban footprint growth of the next 20 years in San Pedro and surroundings. This Program will fund
+     approximately 1% of the investments needs identified. The “Investment and Organizational Development
+     Plan” for Orange Walk (Economía Urbana; 2023) identified almost USD 30 million in investment needs in ten
+     prioritized projects to implement in the short term. Corozal would be able to update its Municipal Development
+     Plan from 2013 with support of this Program.
+46   The Ministry of Local Government of the MRTCLLG is committed to strengthening local authorities to
+     empower communities to address their development needs through policy development, guidance and
+     support, with a view to reducing social, economic and environmental inequities.
+47   The MTDS and the latest Public Sector Investment Program identifies ongoing, in pipeline, and proposed
+     investments through 2026 in these three towns for a total of USD 175 million, funded by several sources
+     (CABEI, CDB, EIB, and GCF, among other).
+48   This commitment will be included in different agreements to be signed between the national government and
+     each one of the municipalities, BWS and BEL.
+49   An empirical study of the impacts of “Habitat”, a federal Mexican program that funded infrastructure
+     investment to poor urban neighborhoods, found that the value of a square meter of land in treated
+     neighborhoods increased by more than US$2 for every US$1 invested by the program (McIntosh, Alegría,
+     Ordóñez, et al., 2018). A difference-in-difference empirical evaluation of road improvements in Campo
+     Grande, Brazil, found that these improvements increased property prices by 6.1 percent, which translated
+     into a return of US$4.25 per dollar invested (Acevedo, Hobbs, and Martinez, 2017).
+                                                      -9-
+
+
+                                       Table 2. Lessons learned and effectiveness
+
+           Lesson                                  Incorporation into program design
+
+           1. Local governments play a             Component I will support the usage of digital tools
+              crucial role in integrating          for sustainable urban development and the
+              climate change actions(a)            elaboration of sustainable zoning plans, including
+                                                   climate change considerations, and coastal
+                                                   management plans.
+
+           2. Addressing urban                     Projects of the sample as the new public market
+              challenges, including social         (OW), the initial interventions of the New River
+              and infrastructure aspects           (OW), and the intervention in Corozal consider
+              related to job creation,             facilities for local vendors, public-private
+              requires a holistic and              development strategies, or migrants and women
+              multisectoral approach to            employment and training, among other
+              urban interventions(b)               considerations for an integral approach.
+
+           3. Partnerships significantly           Interventions in the new river (OW) will be
+              enhance the effectiveness            complemented with a private-public development
+              of interventions(c)                  strategy implementation and a training program in
+                                                   the municipal house of culture. Upgrading of San
+                                                   Mateo Neighborhood will be complemented by a
+                                                   new sports facility from a nearby church 50.
+
+           4. Resident participation in            A codesign workshop with the community was part
+              transforming their                   of activities for the preparation of the upgrading
+              neighborhood improves the            intervention project in San Mateo Neighborhood.
+              design and sustainability of         Public consultations were held in all Towns to
+              the interventions(d)                 receive feedback from residents.
+
+           5. Increasing the accessibility         Projects of the sample include the improvement of
+              to public spaces generates           access to public space in a broad sense (sidewalks,
+              important social and                 boardwalks, piers, sports facilities, playground,
+              environmental benefits(e)            green areas, public market, etc.)
+
+           6. Public spaces can generate           Projects of the sample include the creation or
+              significant economic value(f)        upgrade of public spaces not only in vulnerable
+                                                   neighborhoods but also in prioritized areas for
+                                                   tourism attraction and economic development.
+
+           7. Infrastructure and green             Projects of the sample considers sustainable
+              space can be an effective            drainage systems, boardwalks, permeable
+              and efficient means of               pavements, and floodable green areas.
+              addressing flooding
+              problems(g)
+
+           8. Some key conditions should           The program considers generating information
+              be met for migrants to be            materials to help migrants’ access to services,
+              integrated, such as being            English courses for language integration,
+              recognized and treated as            workshops, and training courses to develop skills in
+              members of society, having           digital tools and financial education, among others.
+              equal and fair job                   The program will also seek to train and to promote
+                                                   the possibility of participating in construction,
+
+50   No public land was available in San Mateo, so the project just considers temporal public spaces at the end of
+     certain roads.
+                                                          - 10 -
+
+
+                                          Table 2. Lessons learned and effectiveness
+
+          Lesson                                       Incorporation into program design
+             opportunities, and having                 provision of services in commercial establishments
+             equal access to services(h)               and sale of products in public market or stalls.
+
+          9. A program management                      Creation of Technical Working Groups per Town,
+             committee with                            with participation of national and local level, and
+             representatives from                      consultation with other national entities as well as
+             national authorities supports             service providers.
+             coordination(i)
+          (a)
+                Such as how the Brazilian municipality of João Pessoa incorporated natural disaster risk reduction into
+                its urban plan (IDB’s Housing and Urban Development Sector Framework Document, GN-2732-11 –
+                HUD/SFD).
+          (b)
+                As demonstrated by the Colonial City of Santo Domingo’s success in revitalizing residential, commercial,
+                and tourism activities through urban renewal and conservation, with active involvement from social and
+                private stakeholders (HUD/SFD). The ex-post analysis of the program demonstrated tourism-related
+                benefits in excess of US$25 million, as well as the creation of more than 400 new jobs (Banerjee et al.,
+                2018; IDB’s Tourism Sector Framework Document).
+          (c)
+                Like in the Housing and Comprehensive Habitat Improvement Program in Nicaragua (HUD/SFD)
+          (d)
+                The experience emerging from projects in Brazil, Guyana, Suriname, and Nicaragua, among others,
+                shows that early dialogue with future beneficiaries increases trust and credibility between executing
+                agencies and communities. (HUD/SFD)
+          (e)
+                In Campinas, Brazil, the “A Paz em Língua de Brincar” (Peace through Play) program funded a series of
+                inclusive parks, integrating children with and without disabilities, which helped further integrate society,
+                providing important benefits for physical and mental health (Mastellaro; 2020). A study showed that
+                increased tree cover by approximately 40% in New York City, Philadelphia and Baltimore reduced urban
+                surface air temperatures by up to 6°C (Rosenzweig, Solecki, Parshall et al., 2009). (HUD/SFD)
+          (f)
+                The UN Habitat study “Developing Public Space and Land Values in Cities and Neighborhoods” showed
+                that every $1 spent on park maintenance in Philadelphia generated nearly $100 in economic value.
+          (g)
+                In California, sustainable drainage actions reduced stormwater runoff by 89% to 99% (Xiao, McPherson,
+                Zhang et al., 2017). In Curitiba, the use of permeable pavements, urban parks and green areas constitute
+                effective solutions to manage water flows (Water and Sanitation SFD, IDB, 2017)
+          (h)
+                The IDB Group can propose flexible, holistic, and comprehensive solutions on livelihoods and jobs, on
+                basic services, and on social cohesion and resilience. Labor intermediation programs can have a key
+                role for migrants’ economic integration, offering job counseling, training, skills certification, and job
+                placement services (GN-3021 Migration Action Framework Document)
+          (i)
+                With well-defined competencies, a schedule of meetings, and a focus on central strategic issues.
+                (HUD/SFD)
+
+
+1.13     Bank’s added value and synergies. The program will benefit from actions
+         implemented and knowledge generated nationally from (i) several operations
+         related to Blue Economy (5769/OC-BL; ATN/JF-19232-BL; and ATN/CO-19166-
+         BL), especially in mangroves conservation and sargassum reuse; (ii) Sustainable
+         Tourism Program II (3566/OC-BL), particularly with actions to promote disaster and
+         climate resilience, and environmental sustainability in tourism destinations in
+         Corozal and San Pedro; and (iii) Water Disinfection Program for Belize (5754/OC-
+         BL and 5755/GR-BL), regarding the financial sustainability analysis of BWS and
+         actions to implement in San Pedro such as network expansion, energy efficiency,
+         smart metering piloting (which is expected to result in 10% savings for migrant
+         households) and information campaigns. On the other hand, these Programs will
+         benefit from the implementation of BL-L1046 with activities such as: (i) expansion
+         of sewage network in San Pedro; (ii) mangroves restauration and conservation in
+         Corozal and San Pedro; (iii) resilient interventions and studies, including the
+         development of new tourism areas as the new River in OW. In addition, products
+         from ATN/AC-19488-BL and ATN/OC-19487-BL “Support for Ambergris Caye
+         Sustainable Development” are highly valuable for interventions in San Pedro. 51
+
+51   As the Master Plan for the Sustainable Development of North Ambergris Caye and the Feasibility study for
+     an integral intervention in San Mateo Neighborhood.
+                                                     - 11 -
+
+
+         Synergies within the IDB group were identified: (i) collaboration between four IDB
+         divisions (i.e., housing and urban development, natural resources and rural
+         development, climate change and sustainable development, and water and
+         sanitation) in developing and implementing projects and studies; and
+         (ii) collaboration with IDB Invest in the elaboration of the private-public strategy for
+         the development of the New River area in OW 52. The IDB Group Bank's added
+         value stems from its holistic and complementary approach to addressing complex
+         urban challenges. Finally, meetings to exchange information regarding activities in
+         preparation or implementation in Ambergris Caye for future synergies were held
+         with the World Bank 53.
+
+1.14     Strategic Alignment. The Program is consistent with the IDB Group Institutional
+         Strategy: Transforming for Scale and Impact (CA-631) and is aligned with the
+         objectives to: (i) reduce poverty and inequality, by improving vulnerable
+         neighborhoods, creating inclusive and safe public spaces, and developing capacity
+         building activities including migrants, women and people with disabilities;
+         (ii) address climate change by strengthening local governments in sustainable
+         planning and implementing resilient investments in urban areas subject to climate
+         risk (51.54% of the resources of this operation will contribute to climate finance
+         according to the Joint MDB Methodology for Climate Finance Tracking and 54.00%
+         is the aggregate sum of green and climate financing according to the Green
+         Financing Tracking Methodology of the IDB Group -GN-3101- see OEL#5); and
+         (iii) bolster sustainable regional growth by executing resilient and inclusive
+         infrastructure, modernizing local urban development management and by
+         contributing to local economic growth, including the development of tourist areas,
+         public facilities for local vendors and a public-private collaboration strategy. The
+         Program is also aligned with the operational focus areas of: (i) biodiversity, natural
+         capital and climate action; (ii) gender equality and inclusion of diverse population
+         groups; (iii) institutional capacity, rule of law, and citizen security; (iv) social
+         protection and human capital development; (v) productive development and
+         innovation through the private sector; and (vi) sustainable, resilient, and inclusive
+         infrastructure.
+
+1.15     The program is aligned with the 2022-2025 Country Strategy for Belize (GN-3086)
+         by the strategic objective of supporting the reactivation of critical economic sectors
+         through the continued provision of services, improving their resilience to natural
+         hazards and climate change. It also aligns with the four objectives of the Housing
+         and Urban Development Sector Framework Document (GN-2732-14):
+         (i) overcoming structural social exclusion by upgrading underserved and informal
+         neighborhoods and expanding the provision of safe public spaces for all;
+         (ii) promoting disaster and climate change resilience; (iii) boosting urban
+         productivity by supporting comprehensive urban infrastructure, streamlining urban
+         regulations, and promoting innovation in the built environment; and (iv) promoting
+         good urban governance by strengthening fiscal and data management capacity.
+         Moreover, this program aligns with the Migration Action Framework (GN-3021) by
+         advocating for improved access to urban services for the migrant population,
+         facilitating their integration into economic opportunities, and fostering social
+
+52   IDB Invest is part of the implementation team and will collaborate with the development and execution of the
+     strategy. The team expects to have a draft developed prior to the kickoff workshop.
+53   Specifically, regarding BL-L1046, BL-T1150 “Support for Ambergris Caye Sustainable Development”,
+     BL-L1043 “Water Disinfection Program”, and the “Blue Economy Project” and other activities in preparation
+     funded by the World Bank.
+                                            - 12 -
+
+
+       cohesion with host communities. Finally, this operation also aligns with the first line
+       of action of the Climate Change Sector Framework Document (GN-2835-10),
+       adapting and building climate resilience, through the mainstreaming of climate
+       change considerations in planning and specific design of infrastructure, at national
+       and local level, improving disaster risk assessment, reduction and management,
+       conserving and restoring natural ecosystems as mangroves, and using territorial
+       approach to build climate resilience (strengthening municipal-level knowledge to
+       gather new data, identify impacts and develop strategies to adapt to it).
+
+1.16   This operation has been analyzed using the Joint MDB Assessment Framework
+       for Paris Alignment and the IDB Group PAIA (GN-3142-1), which determines: (i) it
+       aligns to the adaptation goal of the Paris Agreement (PA); and (ii) it universally
+       aligns to the mitigation goal of the PA (OEL#5).
+
+1.17   GRF eligibility. The IDB Grant Facility resources to continue supporting the efforts
+       of the region to address ongoing and emerging migration challenges aims to help
+       countries design interventions that provide migrants and their host communities
+       with access to essential services, social services, and economic opportunities.
+       Also, it benefits migrants and the local population by favoring inclusive
+       development and fostering positive relationships between these groups. The
+       program complies with the eligibility criteria to use GRF resources as per its
+       Operational Guidelines (GN-2947-26) (See OEL#3): (i) Belize is eligible given that
+       intraregional migration increased its population by 2.8% between 2019 and 2022,
+       and is over five times the level required to qualify under Criteria 1 (0.5%); (ii) there
+       are specific barriers that inhibit social and economic integration of migrants which
+       require a comprehensive approach at the municipal level to bridge urban and social
+       deficits; (iii) the operation is congruent with the thematic areas of access to
+       essential services, social services, and economic opportunities; (iv) migrant and
+       host communities are the potential beneficiaries, interventions focus on areas with
+       high proportion of migrant population; and (v) the program is included in the
+       country program.
+
+1.18   Government Strategy. The program is in alignment with both national and
+       international priorities. The Program aligns with the government’s five-year
+       strategic management plan for Belize MTDP 2022-2026 “Transforming Belize to
+       a more inclusive and Sustainable country”, in the topics of poverty reduction,
+       economic transformation, and protection of the environment and natural resources.
+       Regarding Horizon 2030, the National Development Framework for Belize, the
+       program aligns with (i) the goal of economic resilience, contributing to developing
+       a robust small business sector through supporting small vendors, especially
+       women activities; and (ii) the strategies to achieve health, environmental and
+       sustainable goals, incorporating environmental sustainability into development
+       planning and providing public and green areas to promote healthy lifestyles. The
+       program is also in alignment with the National Sustainable Tourism Master Plan of
+       Belize 2030 (NSTMP) since it: (i) promotes tourism growth in continental northern
+       Belize; (ii) promotes Public-Private Partnership or collaboration models for the
+       development of tourism attractions as the New River (OW); (iii) contributes to the
+       Sustainable Tourism Development Program, supporting vulnerable groups and
+       land use planning with social and environmental safeguarding criteria; and
+       (iv) contributes to cultural and nature-based tourism development through
+       enchanting Belizean villages, developing traditional markets, fostering living
+       cultural experiences (as handcrafts and gastronomy), and providing triggering
+                                                        - 13 -
+
+
+         interventions to develop eco-tourism and Mayan sites. 54 It also aligns with the
+         National Climate Resilience Investment Plan, the 2014-2024 National
+         Environmental Policy & Strategy, and its Updated Nationally Determined
+         Contribution for 2021.
+
+1.19     This operation significantly contributes to Belize’s climate goals by enhancing
+         resilience in urban areas and coastal communities while strengthening institutional
+         capacity for preventive measures and planning. The program also contributes to
+         several Sustainable Development Goals (SDGs), including SDG No. 1: “No
+         Poverty”; SDG No. 5: “Gender Equality”; SDG No. 6: “clean water and sanitation”;
+         SDG No. 8: “Decent Work and Economic Growth”; SDG No. 9: “Build resilient
+         infrastructure”; SDG No. 10: “Reduce inequality within and among countries”; SDG
+         No. 11: “Sustainable Cities and Communities”; and SDG No. 13: “Climate Action.”
+
+B.       Objective, components, and cost
+
+1.20     The overarching goal is to contribute to the sustainable urban development of
+         municipalities in northern Belize. Components I and II aim to contribute to the
+         following specific objectives: (i) to improve access to selected urban services, (ii) to
+         support local economic growth; and (iii) to facilitate the social and economic
+         integration of vulnerable populations, such as migrant population and women.
+
+1.21     Component I. Institutional Strengthening for Sustainable Development
+         (OC- US$550,000; GRF- US$150,000; Total US$700,000). Activities include:
+         (i) elaboration of municipal institutional strengthening plans 55 and financing of its
+         initial activities (such as specific individual consulting services 56 or acquisition of
+         information technology equipment); (ii) preparation of municipal development
+         plans or sustainable zoning plans with a gender approach and climate change
+         considerations, coastal management plans, public-private collaboration plans, or
+         sectoral plans; (iii) the implementation of digital tools for sustainable urban
+         development; 57 and (iv) specific activities to support the integration of migrants and
+         their host communities, with gender and inclusion approach. 58 Activities aim to
+         strengthen municipalities to address not only challenges identified in terms of
+         existing deficits in urban services, economic development, and social inclusion, but
+         also the most important of its determinants, the unplanned and uncontrolled urban
+         growth. This component will be complemented with a new TC for operational
+
+
+
+
+54   The development of the New River area in OW has the potential to trigger eco-tourism activities and
+     strengthen current Lamanai (Mayan archaeological reserve) river tours from OW.
+55   Focusing on councils’ capacity to enhance its administrative and managerial functions, including
+     tools/equipment, and training needs. This also includes councils’ capacity to utilize digital tools for:
+     (i) geo-spatial mapping for councils’ assets (i.e., public spaces); (ii) digitization of municipal services; (iii)
+     business mapping to support liquor license and trade license management; and (iv) GIS for property tax
+     management, etc.
+56   i.e., Local Economic Development Officer or IT specialist.
+57   Among other initiatives, the program will encourage the use of the toolkit developed by IDB’s Cities LAB:
+     (i) Automatic monitoring of land use changes; (ii) UrbanPy (library of functions to estimate accessibility to
+     services); (iii) MAIIA (Mapping of Informal Settlements with Artificial Intelligence); and (iv) URSA (Urban
+     Reporting based on Satellite Analysis, including historical and future urban footprint growth and land cover).
+58   Such as design and dissemination of information materials to help migrants’ access to services, English
+     courses for language integration, and workshops and training courses to develop skills in digital tools and
+     financial education, among others.
+                                                        - 14 -
+
+
+         support 59 to assist the program implementation by elaborating pre-investment
+         studies of eligible projects and assuring the readiness of projects to implement
+         under Component II.
+
+1.22     Component II. Sustainable Urban Investments (OC- US$8,450,000;
+         GRF- US$2,350,000; Total US$10,800,000). The component will finance
+         sustainable urban services’ investments, such as (i) public spaces and municipal
+         facilities (i.e., public markets, accommodations for local vendors, tourist centers,
+         kindergartens, primary health care and cultural centers) 60 and (ii) the provision of
+         essential urban infrastructure (water, sewage, drainage, efficient public lighting,
+         improvement of existing municipal roads 61, sidewalks, bike lanes, among others).
+         Interventions will be implemented in vulnerable 62 neighborhoods and prioritized 63
+         urban areas. Projects under this component will consider universal accessibility
+         design 64 and specific activities aimed at integrating women and migrants with host
+         communities, like participation during the construction phase, providing services in
+         commercial premises, or as vendors using the new facilities in public areas and
+         the public market, among others. Projects aim at addressing existing challenges in
+         access to urban services, but at the same time prioritizing vulnerable people (social
+         inclusion) and areas with potential in terms of local economy and tourism attraction.
+         Information related to the projects that are part of the sample of the Program and
+         could be funded by this component, such as the integral intervention in the
+         vulnerable neighborhood of San Mateo or the initial interventions in public spaces
+         of the New River area of OW, is presented in the following table (detailed
+         information can be found in OEL#1).
+
+                                              Table 3. Sample of Projects
+                Resilient                                                                          Estimated cost
+                                                        Components
+              Intervention                                                                             (US$)
+           COROZAL                                                                                         1,877,200
+           Comprehensive         Mothers’ Park upgrading                                                     131,500
+           public space
+           expansion and         Children’s Park upgrading                                                   192,500
+           upgrading(a)          Basketball court and Amphitheater area enhancement                          258,500
+
+                                 Seaside Pathway                                                             165,000
+                                 Fisherman’s Pier upgrading                                                   79,200
+                                 Municipal pier upgrading and welcome center                                 225,500
+
+                                 St. Paul’s Boardwalk (seawall protection)                                   825,000
+
+
+
+59   Technical cooperation BL-T1168 (US$ 500,000) is expected to be approved by May 2024. During the first
+     three months of implementation, technical assistance will support the development of detail-engineering
+     drawing and specifications of materials for the Projects of the sample in OW and Corozal.
+60   Buildings will comply with sustainable building certification standards like EDGE or equivalent.
+61   Not representing capacity expansion.
+62   Vulnerability is characterized by socio-economic factors and natural risks. It is specified in the program’s
+     operations manual.
+63   The operation will prioritize areas that contribute to local economic development, facilitate the integration of
+     migrants, and address urban deficits.
+64   The universal design approach implies planning for diverse needs from the initial phases of the project, such
+     that the final project/environment will be accessible and user-friendly to a diverse population, particularly
+     people with disabilities. This is done by designing infrastructure in a way that removes barriers to participation,
+     such as tactile paving to support wayfinding for persons with visual disabilities and interior and exterior spaces
+     that provide adequate gradation and space for wheelchairs.
+                                        - 15 -
+
+
+
+
+ORANGE WALK                                                           4,614,500
+Initial            1. Two new public spaces connected by shared
+interventions of      street(b) interventions
+the River Walk        a. Tourist Park                                  528,000
+Development
+Strategy              b. Independence Park upgrading                   231,000
+                      c. Main St., Church St., and Park Street        1,160,500
+                         restoration
+
+                   2. Naranjal Street upgrade over the New River(c)   1,001,000
+
+New Public
+Market and         Construction of market infrastructure              1,144,000
+multipurpose
+public space.
+                   Sports Complex                                      550,000
+                                                  - 16 -
+
+
+        SAN PEDRO                                                                                  2,422,234
+        Integral            Phase 1: Pavement, drainage, water supply,                             2,422,234
+        intervention in     sewage(d), public lighting, public space, sidewalks,
+        the San Mateo       pedestrian, and cyclist bridge
+        neighborhood
+
+
+
+
+                                                                              TOTAL                8,913,934
+               a) Activities/investments: piers refresh, tourism facilities, street vendors facilities,
+                  playground, basketball court, amphitheater, tree planting, public lighting, public restrooms,
+                  and new boardwalk as seawall protection.
+               b) Activities/investments: sidewalk widening, public lighting, stormwater retrofit, and tree
+                  planting.
+               c) Activities/investments: permeable pavement, drainage, boardwalk, tree planting, public
+                  lighting, facilities for street vendors.
+               d) Projects of the sample consider the improvement in sewage coverage in San Pedro in
+                  approximately 206 new connections, increasing total connections from 1,222 to 1,428 (from
+                  20% to approximately 23%)
+
+
+1.23   Project administration, management, and audit (OC- US$1,000,000; Total
+       US$1,000,000). The component will finance management costs of the
+       Implementation Unit, auditing, monitoring, supervision, and intermediate and final
+       evaluations, including ex-post cost-benefit analysis.
+
+C.     Key Results Indicators
+
+1.24   Expected Results. The following preliminary results have been identified:
+       (i) beneficiaries have improved their access to urban services such as public
+       spaces, drainage, sewage, sidewalks, pavement, and bike lanes through the
+       implementation of sustainable infrastructure interventions; (ii) municipalities have
+       utilized digital tools and relevant studies to guide sustainable urban development;
+       (iii) the tourism product potential has been improved in OW and Corozal and
+       contributed to diversify the country’s tourism offer; and (iv) beneficiaries, migrants
+       and host communities, have improved their economic and social integration
+       through actions in Components I and II (See Annex II). According to hedonics
+                                                       - 17 -
+
+
+         methodology 65, the contribution of the program to the sustainable urban
+         development of these municipalities will be measured through the increase in the
+         value of the properties located next to the interventions (16.2% is expected; see
+         Annex II – Results Matrix).
+
+1.25     Potential Beneficiaries. The program is expected to benefit around 40,000
+         residents within the urban limits of OW, Corozal, and San Pedro towns, including
+         the migrant population (approximately 10% of the urban population, see OEL#3).
+         Direct beneficiaries from the implementation of pre-identified projects will be
+         (i) inhabitants of prioritized vulnerable neighborhoods in San Pedro and OW
+         (approximately 4,500 people); (ii) users of prioritized public spaces in OW
+         (including shared streets) 66 and Corozal; (iii) local vendors (approximately 100
+         people, primarily women, 50% migrants) and consumers in OW and Corozal; and
+         (iv) entrepreneurs and workers in the tourism and commercial sectors in OW,
+         Corozal and San Pedro. In the case of the vulnerable neighborhood of San Mateo,
+         in San Pedro, 2,329 inhabitants will be beneficiaries of the project (51% will be
+         women, 17% will be migrants, and 11% will be people with disabilities). In the case
+         of the OW public market, 56 public vendors (48,2% migrants; 89.3% women) will
+         directly benefit from the new working conditions. Migrant women vendors live in
+         households with an average of 4.62 people.
+
+1.26     Technical Viability. A representative sample of projects was chosen based on
+         (i) municipal priorities; (ii) comprehensive approach, encompassing multisectoral,
+         inclusive, and resilient interventions; (iii) targeting vulnerable areas considering
+         socio-economic factors and natural risks, or prioritized areas for local economic
+         development; and (iv) availability of previous studies. 67 Additional pre-investment
+         studies were conducted during preparation process for these selected projects with
+         Bank support and technical cooperation resources, covering various aspects such
+         as     project    identification,     demand      estimation,   technical     analysis,
+         architectural/engineering        designs,  natural     risk   considerations,    legal,
+         administrative, and financial sustainability aspects, analysis of investment,
+         operation and maintenance costs, budget schedules, and project risks. 68 For each
+         selected project, at least two solution alternatives were evaluated. Designs
+         considered nature-based solutions and the inclusion of people with disabilities
+         wherever feasible. Projects in the sample account for almost US$9 million, and
+         comply with the eligibility criteria described in ¶3.6 (additional information in
+
+65   This method seeks to measure the benefits produced by a project based on the reflection of said benefits in
+     the price of real estate located in its area of influence. To calculate this, a hedonic equation is used, where
+     the price of the good is expressed based on its attributes (characteristics of the property, distance to a green
+     space, environmental quality of the environment, etc.).
+66   Expected users of the new sports complex include 324 students from St. Peter’s School (almost 10%, 31
+     students, present disabilities); and future users of the Independence Park include 910 students from La
+     Inmaculada R.C. Primary School (15 present special needs).
+67   (i) a Concept Proposal for Upgrading the Public Market of OW (Catalyst Solutions CG, 2022); (ii) an
+     Investment and Organizational Development Plan for OW, and a Concept Proposal for Initial Interventions of
+     the New River Development Strategy (Economia Urbana, 2023); Multisectoral Diagnosis (including urban
+     footprint, vulnerability to natural risks, GHG inventory, tourism sector analysis) of Ambergris Caye (IDOM,
+     2023; ATN/AC-19488-BL); (iii) Corozal Bay Heritage Plaza Feasibility, Social & Environmental Assessment
+     Report (VIVIDARCH, 2018; ATN/MD-15572-BL); and (iv) Corozal Town Boardwalk Pre-Feasibility Study as
+     part of the study “Improving Disaster and Climate Resilience in Sustainable Tourism, Corozal District”
+     (Jacobs, 2018; ATN/MD-15572-BL).
+68   Pre-Investment Studies for prioritized projects of the sample in OW and Corozal (Johnson, Carianne; 2023);
+     and feasibility Study for the Integral Intervention in San Mateo Neighborhood (IDOM, 2023;
+     ATN/AC-19488-BL).
+                                                      - 18 -
+
+
+         OEL#1). Additionally, other investment priorities have been pre-identified for
+         potential funding, including an integral intervention in the vulnerable neighborhood
+         of Marcus Canul in OW and subsequent development phases of the integral
+         intervention in San Mateo, San Pedro. A new technical cooperation is under
+         preparation to support the Government in the readiness of the projects (BL-T1168).
+
+1.27     Socioeconomic Viability. During the preparation phase, an ex-ante cost-benefit
+         socioeconomic evaluation was developed on the sample projects (see OEL#2).
+         Analysis was based on comparing economic costs (capital, operation, and
+         maintenance costs) and benefits with and without a project, considering a horizon
+         of 20 years and a social discount rate of 12%. The mechanisms to quantify
+         socioeconomic benefits were: (i) hedonic prices (all projects of the sample);
+         (ii) time savings (San Mateo); and (iii) net income from the incremental sale of
+         tourist services (Corozal and OW projects). All benefits and costs were valued at
+         market prices from October 2023 and then transformed into economic costs by
+         eliminating taxes. All projects presented positive net present values (NPV) and
+         internal rates of return (IRR) superior to 12% (from 28.5% to 42.8%). The sensitive
+         analysis showed that the socioeconomic viability of each project resisted a
+         decrease of 30% in benefits due to appreciation (quantified through hedonics
+         technique) and an increase of 30% in costs. Additionally, projects are
+         socioeconomically viable considering just benefits quantified with the hedonics
+         technique. Finally, the analysis of the consolidated flux of the sample projects
+         showed a positive NPV and a 35.6% IRR. The sensitive analysis showed
+         socioeconomic viability as well, even with an increase of 71.3% in investment costs
+         and 32.5% in benefits decrease.
+
+1.28     Compliance with Public Utilities Policy (GN-2716-6). The operation complies
+         with the Bank’s Public Utilities Policy (PUP; OEL#6), improving the sustainability
+         and efficiency of service providers through the development of financially
+         sustainable schemes that combine cost-efficiency and the most appropriate
+         technological solutions to meet the population’s need to access public services.
+         The Program expects to contribute to add 206 new sewage customers in San
+         Pedro 69 to the profitable BWS 70, representing just 0.27% of the total customers of
+         the firm. By law, BWS’ tariffs may be set at a level that ensures a 12% rate of
+         return. A statutory regulator, the Public Utilities Commission (PUC), must approve
+         tariffs calculated on a cost-plus basis, but also taking customer affordability into
+         consideration. 71
+
+1.29     Institutional viability. Between September and October of 2023. an institutional
+         capacity assessment (ICAP) of the Central Executing Unit (CEU) of the MED
+         (MFEDI) was conducted. Methodologically, the evaluation was aided by interviews
+         with the staff of the CEU and information from existing operational documents. The
+         ICAP identified that strengths for the implementation of this program include: (i) the
+         full-time availability of experienced personnel for project administration, financial
+
+69   New connections will increase coverage from o% to 35% in San Mateo, and from 20% to 23% in San Pedro.
+70   EBITDA margin was 38% in March 2022. In FY 2022/2021 the company presented a sound EBITDA (USD 9
+     million) and net profit (USD 2.9 million). Financial projections indicates that BWS will generate enough cash
+     flows to finance investment levels of USD 10 million/year, keeping its gearing at adequate levels (LT
+     liabilities/Equity)
+71   The existing water and sewer tariffs include: i) a minimum monthly charge for all customers, regardless of
+     classification; ii) a minimum of 1.000 gallons at no additional cost included within that monthly fixed charge;
+     and iii) eight usage charges based on metered water use above the minimum allowance. The minimum bill
+     for consumption less than 1,000 US gallon is BZD8.72, approximately USD4.35/1,000 gallon.
+                                            - 19 -
+
+
+      management, procurement, environmental, social, occupational health and safety,
+      and human resources; (ii) national integrated financial management system
+      (Smart Stream) with satisfactory alignment with IDB financial management
+      expectations; (iii) extensive experience among CEU staff in managing different
+      sources of financing (principally IDB); and (iv) there is legislation and regulations
+      in government for oversight of financial, human resources, and environmental,
+      social and occupational health and safety matters. The ICAP also identified
+      challenges for implementing this program, related to: (i) the growing project
+      portfolio under CEU’s responsibility (ii) the lack of technical capabilities to
+      implement infrastructure projects (CEU was conceived as a unit to provide fiduciary
+      services); and (iii) lack of experience in implementing multi-works Programs.
+      Consequently, ICAP recommended: (i) hiring extra resources for fiduciary,
+      environmental, and social aspects; and (ii) strengthening CEU’s technical
+      capabilities acquiring this service from other areas of the national government. In
+      addition to ICAP recommendations, further measures were proposed to address
+      these challenges: (i) to establish Technical Working Groups (TWG, please see
+      3.1.); and (ii) to process a new technical cooperation to support readiness of
+      projects.
+
+                   II.     FINANCING STRUCTURE AND MAIN RISKS
+
+A.    Financing instruments
+
+2.1   Program Structuring. This operation is structured as a Multiple Works Program
+      as it will finance groups of similar projects with the following characteristics: (i) they
+      are physically similar but mutually independent; (ii) their feasibility does not depend
+      on the execution of any particular number of projects; and (iii) their individual size
+      does not merit direct Bank handling. A representative sample of specific projects
+      prioritized by the municipalities was presented in ¶1.22. The remaining projects,
+      which will be small, similar and mutually independent works not requiring Bank’s
+      direct management, still need to be prioritized with the Government and local
+      authorities and will comply with the eligibility criteria described in ¶3.6.
+
+2.2   Program Cost. The program’s total cost is USD$12,500,000 (USD$10,000,000
+      from Ordinary Capital and USD$2,500,000 from the IDB Grant Facility GRF). As
+      mentioned in the description of Component I, per request of the Government of
+      Belize, the technical cooperation “Support to the Sustainable and Inclusive Urban
+      Development Program” (BL-T1168) is under design/processing with a budget of
+      up to US$0.5 million. This additional funding will support the institutional
+      strengthening component by financing pre-investment studies.
+                                                     - 20 -
+
+
+                        Table 4. Summary of estimated program costs (in US$ millions)
+
+                       Component                              IDB    %          GRF       %         Total       %
+      Component I. Institutional
+      strengthening for sustainable                           0.55    4.4       0.15      1.2         0.7        5.6
+      development
+
+      Component II. Sustainable urban
+                                                              8.45   67.6       2.35     18.8        10.8       86.4
+      investments
+      a. Interventions in prioritized urban
+                                                              4.54   36.3       1.26     10.1         5.8       46.4
+         areas*
+
+      b. Interventions in vulnerable areas*                   3.91   31.3       1.09      8.7              5        40
+      Project administration,
+                                                                1        8        0            0           1     8.0
+      management, and audit
+      Total                                                    10    80.0        2.5     20.0        12.5      100.0
+      * Costs by activity are indicative
+
+
+2.3   Disbursements Schedule. The loan will be disbursed over 60 months. The
+      execution period was determined based on the PEP and the institutional capacity
+      of the EA (details in REL#1). Taking into consideration challenges in terms of
+      implementation, and standard timelines for procurement processes and works
+      implementations, the deadline established for the physical start of the works is
+      4.5 years.
+
+                               Table 5. Disbursement schedule (US$ million)
+
+           Source             Year 1       Year 2       Year 3       Year 4       Year 5           Total        %
+       BL-L1046 (OC)          1.280.53        4.26            3.52       1.15           0.52          10        80%
+       BL-J0007 (GRF)            0.098        1.13            0.92       0.27          0.082         2.5        20%
+       Total                       0.63       5.39            4.43       1.42           0.60        12.5        -
+       %                            5.0       43.1            35,5       11.4            4.9       100%        100%
+
+
+
+B.    Environmental and social safeguard risks
+
+2.4   Following the Bank’s Environmental and Social Policy Framework (MPAS), the
+      Program has been classified as category “B” since negative environmental and
+      social impacts are expected to be moderate in the short-term duration, which can
+      be managed through specific management plans. According to the type of
+      interventions, the negative environmental and social impacts are moderate during
+      the period of execution of the works, and there are appropriate mitigation
+      measures for the sector to manage the impacts and risks. The program’s social
+      and environmental risk classification is substantial, mainly considering the
+      potential risks of the works to be carried out on public roads and the presence of
+      key biodiversity areas (KBA) and National Protected zones into the indirect area
+      of project, and the limited environmental and social institutional capacity of the
+      municipalities that will have a role in the environmental and social supervision of
+      the works. The hazards present in the project area are hurricanes and tropical
+                                                    - 21 -
+
+
+          storms, flood damage, and extreme temperatures. According to the ESG
+          Screening App, the natural hazards for this operation are moderate flooding,
+          tsunamis, hurricanes, and rising sea levels. Based on the available information,
+          the overall criticality and vulnerability of the infrastructure component of the project
+          is classified as Moderate, following the criteria shown in the criticality chart for
+          urban interventions and neighborhood improvement projects. According to the
+          analysis of criticality and vulnerability to natural disasters, all projects are classified
+          as having low vulnerability except for San Mateo, which was estimated to have a
+          moderate level of vulnerability.
+
+2.5       The ESPS conducted an Environmental and Social Assessment for the Sample
+          Projects. During the construction phase, localized and temporary negative impacts
+          are expected, such as (i) induction of erosive processes; (ii) alteration of soil
+          characteristics; (iii) increase in particulate matter and noise levels; (iv) increase in
+          road accidents; (v) solid waste; (vi) water contamination by hydrocarbons and
+          other hazardous waste; (vii) discomfort due to the cut off of services and access;
+          and (viii) exposure to disabling or fatal accidents due to unsafe acts or conditions.
+          During the operation phase, negative impacts can be expected, such as (i) an
+          increase in solid waste; (ii) water contamination by hydrocarbons and other
+          hazardous waste; and (iii) exposure to disabling or fatal accidents due to unsafe
+          acts or conditions. An Environmental and Social Management Plan was
+          conducted, including the mitigation measures and management procedures to
+          minimize the assessed impacts and risks. For future projects, the Environmental
+          and Social Management Framework (ESMF) establishes the environmental and
+          social eligibility and exclusion criteria and the guidelines for the
+          socio-environmental management of the projects to be financed under the
+          program.
+
+2.6       The consultations were successfully carried out by the Municipalities and the CEU
+          in February 2024 in compliance with the Stakeholders Engagement Plan. 72 The
+          ESA, ESPM updated version and the consultation report were disclosed on April
+          8, 2024.
+
+C.        Fiduciary risk
+
+2.7       Based on the institutional capacity analysis of the CEU, and the risk assessment
+          of the fiduciary arrangements, the fiduciary capacity and systems are considered
+          adequate. Nonetheless, considering that the CEU is responsible for implementing
+          other projects, there is a risk of work overload if the existing staff assumes
+          responsibility for doing the additional fiduciary tasks that this project brings, which
+          could lead to a delay in implementation, particularly in the first year. This risk will
+          be mitigated by strengthening the CEU with additional procurement and finance
+          staff before the implementation. Additionally, there is a risk related to the local
+          market’s capacity to implement the infrastructure works. If the local market cannot
+          implement, on time, the infrastructure works envisioned under this and other public
+          sector programs, then this could lead to non-responsiveness of the local market to
+          the procurement processes or the inability of the selected contractors to deliver on
+
+72    The events recorded a good attendance of stakeholders, and despite some concerns about the construction
+      phase as pest control, waste management and preserving rain tress, no additional impacts or risks were
+      identified as part of the feedback received. Participants supported the implementation of the projects,
+      emphasizing the importance of creating green public spaces to boost tourism and economic development.
+                                                        - 22 -
+
+
+          time and quality the outputs expected, which could lead to overall project delays.
+          To mitigate this risk, a market analysis is being conducted in collaboration with the
+          Government to assess the capacity and availability of construction companies in
+          the country. Additionally, a survey will be conducted among local construction
+          companies to gauge their interest and availability to participate in procurement
+          processes funded by the Government, helping to identify potential contractors and
+          anticipate any capacity constraints. Finally, training sessions and local fairs are
+          being organized in various regions to promote awareness of the infrastructure
+          projects funded by the Bank and to provide capacity-building opportunities for
+          potential suppliers, enabling them to participate effectively in procurement
+          processes.
+
+D.        Other risks and key issues
+
+2.8       Execution risks are categorized as medium-high level, and their mitigation
+          measures have been primarily identified in table 6.
+
+                                       Table 6. Risks and mitigation measures
+                Taxonomy                    Risk                 Level                   Measures
+            1. Execution           If there are delays in     Medium      Since acquisition of private land is not
+               Environment /       acquiring land 73,         - High      considered in the scope of the
+               Legal               works could be                         Program, designs must include at
+                                   delayed, or the scope                  least one technical alternative without
+                                   of the projects                        requiring land acquisition. When the
+                                   redefined, affecting                   procurement process for works starts,
+                                   the project’s execution                the project scope must be narrowed to
+                                   timeline.                              the alternative with public clearance
+                                                                          for use from the relevant authority.
+                                                                          Municipalities or CEU could acquire
+                                                                          land consultant services to speed up
+                                                                          processes.
+
+            2. Execution           If shared street           Medium      Prepare and implement
+               Environment /       projects are poorly        - High      communication and information plans/
+               Social              communicated to the                    campaigns (additional to public
+                                   community, resistance                  consultations) to appropriately
+                                   could generate                         disseminate the scope of the works,
+                                   distrust and animosity                 benefits, and schedule.
+                                   among residents and
+                                   shop owners.
+
+
+
+
+73    Delays to obtain a printed land certificate tittle issued by the Ministry of Lands could take from two months to
+      a year, since the price for the land is agreed.
+                                               - 23 -
+
+
+                               Table 6. Risks and mitigation measures
+          Taxonomy                  Risk                Level                 Measures
+       3. Executing         CEU has no               Medium     Strengthen CEU technical capacity
+          Agency /          experience with the      - High     with (i) project manager and project
+          Organizational-   implementation of                   engineer; (ii) TWG creation with the
+          Human             infrastructure multi-               participation of municipalities and
+          Resources-        works programs. If                  MRTCDLLG; (iii) MOUs between TWG
+          internal          CEU is not well                     participants; (iv) coordination with
+          processes         strengthened for                    other national ministries and utilities
+                            implementation, or                  for design and implementation of
+                            key personnel is not                works.
+                            available, delays in
+                            decision-making and                 Develop joint training sessions to
+                            execution of output-                agree the operational manual before
+                            related actions could               the Kickoff workshop of the operation.
+                            occur.
+                                                                Strengthen CEU’s additional
+                                                                resources related to procurement,
+                                                                financial management, and
+                                                                environmental and social safeguards.
+                                                                Competitive salaries and benefits
+                                                                packages will be offered to attract and
+                                                                retain personnel.
+
+                                                                Strengthen the readiness of projects
+                                                                by developing pre-investment studies
+                                                                using non-reimbursable funds from
+                                                                BL-T1168 and the support of the
+                                                                Bank’s technical team.
+
+       4. Executing         If TWGs can’t            Medium     To reach informal agreements of
+          Agency /          coordinate activities    - High     collaboration between high authorities
+          Organizational    with utilities and                  of the MED-MRTCDLLG-
+                            ministries from the                 Municipalities, and other national
+                            national government,                ministries-utilities
+                            delays may occur.
+
+       5. Execution         Because natural          Medium     Carry on resilient design and
+          Environment /     disasters (flooding,     - High     construction techniques that account
+          natural           hurricanes, and rising              for potential environmental risks.
+          environment       sea levels) may occur
+                            in the program sites,               Ensure that output cost estimates
+                            the infrastructure                  reflect work delays and physical
+                            would be exposed,                   impact on structures caused by natural
+                            needing updating and                disasters.
+                            revision to the scope
+                                                                Collaborate with environmental
+                            of work, resulting in
+                                                                agencies and experts to understand
+                            delays and cost
+                                                                and mitigate the impact of rising sea
+                            increases.
+                                                                levels, flooding, and hurricanes.
+
+
+
+                   III.     IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+
+3.1   Execution Arrangements. The MFEDI will function as the Executing Agency and
+      be responsible for the program. The CEU, a unit in the MED, which in turn is part
+      of the MFEDI, will be the implementation unit. The CEU is responsible for five other
+      IDB-financed loans in execution: 5353/OC-BL, 5647/OC-BL, 5582/OC-BL,
+                                                      - 24 -
+
+
+          5583/OC-BL and 5769/OC-BL. 74 As the implementation unit, the CEU will serve
+          as the primary point of contact for stakeholders and will participate in the
+          coordination with all the relevant line ministries, municipalities, and additional
+          stakeholders as utilities. Guided by the results of the ICAP, the following staff will
+          be hired or appointed for the administration of the project: (i) a program manager;
+          (ii) a procurement officer; (iii) a finance officer; (iv) an environmental specialist;
+          (v) a social Specialist; and (vi) a project engineer. The MFEDI will establish a
+          Project Steering Committee (PSC) to provide strategic oversight to the project. The
+          PSC will be comprised of high-level representatives of at least the following
+          ministries: the Ministry of Finance, the Ministry of Economic Development and the
+          Ministry of Local Government.
+
+3.2       For each municipality, a Technical Working Group (TWG) will be created with
+          members of the MED, the MRTCDLLG 75 and the corresponding municipality. This
+          TWG, chaired by the MED and the MRTCDLLG, will be responsible for the
+          technical guidance of the program in each town. Each of the groups will be made
+          up of the following participants: (i) a representative from the municipality; (ii) a
+          representative from the Ministry of Local Government of the MRTCDLLG (co-
+          chair); and (iii) a project manager and a project engineer from the CEU (co-chair).
+          TWG will be formalized through the signature of Memorandums of Understanding
+          (MOU) between the MED, the MRTCDLLG, and each of the municipalities. TWG’s
+          responsibilities and operational procedures will be described in these MOUs,
+          following information in the Operations Manual (OEL#4). TWGs will decide the
+          studies and projects to fund, validating final TORs, and intermediate and final
+          outputs. Depending on the nature of the investment or studies to implement or
+          develop, TWG may ask for technical advice or validation from utilities or
+          preidentified ministries from the national government. 76 TWGs will provide
+          technical guidance to the CEU to carry the procurement, financial, environmental,
+          social, communication, and knowledge dissemination processes needed to
+          implement the activities. The supervision of works will be outsourced to private
+          firms. The project engineer of the TWG will oversight its work. The scheme for
+          implementation is presented in the following figure.
+
+
+
+
+74    Programs’ implementation started recently and progresses well, with satisfactory performance indicators (no
+      significant risks of execution identified so far).
+75    Through the Department of Local Government , which provides oversight, guidance, support, and capacity-
+      building initiatives to various entities, including the Town Councils, while monitoring their strategic and
+      operational activities on a day-to-day basis.
+76    Preliminarily identified: Ministry of Infrastructure, Development & Housing; Ministry of Tourism & Diaspora
+      Relations; Ministry of Sustainable Development, Climate Change & Disaster Risk Management; Ministry of
+      Immigration; BTB.
+                                          - 25 -
+
+
+                                  Figure 2. Implementation Scheme
+
+
+
+
+       Source: own elaboration.
+
+
+3.3   Procurement. Procurement of goods, works, and services to be financed in full or
+      in part with program resources will be carried out under the Policies for the
+      Procurement of Works and Goods Financed by the IDB (GN-2349-15). The
+      selection and contracting of consulting services will follow the Policies for the
+      Selection and Contracting of Consultants Financed by the IDB (GN-2350-15) or
+      those in effect at the time of project execution. Annex III includes details on
+      program procurement. If, during project execution, it is identified that the Executing
+      Agency (EA) has developed sufficient capacity, the possibility of supervising
+      procurement processes on an ex-post basis will be evaluated. The responsibility
+      of the program’s sector specialist will be to revise the technical specifications and
+      the terms of reference of the procurements during the preparation of selection
+      processes. This technical review will be ex-ante and independent of the
+      procurement review method.
+
+3.4   Retroactive financing. It is anticipated that the project may finance retroactively
+      under the loan, up to the amount of US$200,000 (1.6% of the program total), on
+      contracting key personnel for the CEU (such as the project coordinator, project
+      engineer, financial officer, and procurement officer) and operational expense
+      related to early project activities. The foregoing provided all the requirements are
+      substantially similar to those set out in the loan agreement requirements; said
+      expenses must have been incurred on or after October 5, 2023 (approval date of
+      the project profile), and under no circumstances shall expenditures incurred more
+      than 18 months prior to the loan approval date be included.
+
+3.5   Advanced procurement. Before the date of loan approval, the EA may start the
+      procurement processes related to projects of the sample or studies to fund by
+      Component I. The procurement procedures, including advertising, shall be by the
+      Bank’s Core Procurement Principles for the eventual contracts to be eligible for
+      Bank financing, and the Bank shall review the process used by the Borrower. The
+      Borrower undertakes such advance contracting at its own risk, and any
+      concurrence by the Bank with the procedures, documentation, or proposal for
+                                           - 26 -
+
+
+      award does not commit the Bank to grant a loan for the project in question. The
+      contracts will be awarded only after the project is eligible (entry into force and all
+      conditions before the first disbursement are met).
+
+3.6   Eligibility Criteria. Together with the municipalities, the Bank and the Borrower
+      will collaboratively determine: (i) the criteria the EA will use to select the projects,
+      and (ii) the general specifications for each project. This will be reflected in the
+      Program’s Operations Manual. The initial eligibility criteria for project selection are
+      as follows: (i) is situated in vulnerable or prioritized areas; (ii) addresses the
+      integration of migrants; (iii) improvement or construction of public spaces and
+      municipal facilities; and (iv) improves the provision of urban services, such as
+      potable water, adequate sewage disposal, drainage, public lighting, pavement,
+      sidewalks, and bike lanes. Selected projects can’t be classified as category A
+      under the environmental and social guidelines.
+
+3.7   Special Contractual Clauses prior to the first disbursement of the financing:
+      (i) EA has hired and/or appointed for the administration of the program at
+      least the following key personnel: (a) a program manager, (b) a procurement
+      officer, (c) a finance Officer, (d) an environmental and social specialist, and
+      (e) a project engineer; (ii) EA has approved and put into effect the OM, under
+      the terms and conditions previously agreed with the Bank, which must
+      include, among other elements, the environmental and social requirements;
+      and (iii) A PSC has been established with high level representatives from at
+      least the following entities: the Ministry of Finance, the MED, and the Ministry
+      of Local Government.
+
+3.8   Special Contractual Clauses of execution. (i) The borrower, or the EA, agrees
+      to obtain, before the award of the corresponding contract for each of the works of
+      the project, the legal possession of the properties where the respective work will
+      be built, the easements or other rights necessary for its construction and use, as
+      well as the rights over the waters required for the work in question. (ii) Prior to start
+      works in a specific Town, TWG must be formally created through MOUs, previously
+      agreed with the Bank, signed by the municipality, the MED and the MRTCDLLG,
+      and previously agreed with the Bank, detailing responsibilities for the
+      implementation and sustainability of the Corresponding investments. For other
+      special contractual clauses, see Annex B of the Environmental and Social Review
+      Summary (ESRS).
+
+B.    Summary of arrangements for monitoring results
+
+3.9   Monitoring. The expected results, their baselines, goals, and means of verification
+      are presented in the Results Matrix (Annex II). As base information for monitoring,
+      the EA, through the CEU, must present the following reports to the Bank:
+      (i) Semiannual Progress Report within 60 days following the end of each semester,
+      including a chapter on the representative project sample and onsite supervision;
+      (ii) Annual Operating Plan, with the update of the physical and financial goals for
+      the rest of the execution period; and (iii) an update of the Procurement Plan.
+      Likewise, the IDB, through the project team, will conduct inspection visits to
+      monitor program activities and support administration missions to analyze the
+      program’s progress and address specific issues identified. A periodic update of the
+      Risk Mitigation Matrix and RM will supplement this. Resources for monitoring and
+      evaluation are included as part of the program administration. The required
+                                           - 27 -
+
+
+       financial reports will be the financial execution plan and the audited financial
+       statements.
+
+3.10   Evaluation. The evaluation of the impacts and results have been defined based
+       on the indicators proposed in the results matrix, which includes the indicators with
+       their respective baselines and goals. For both the impact and result indicators,
+       reflective evaluations (“before and after”) will be applied. A midterm evaluation will
+       be carried out in Project Completion Report (PCR) format once 50% of the
+       disbursement period has been met, or 50% of the loan resources have been
+       disbursed (whichever occurs first). Once the operation has been executed, a final
+       evaluation of the program results, including operational/process aspects, will follow
+       principles and guidelines for preparing the IDB PCR. An ex-post cost-benefit
+       analysis will follow the same methodology applied in the socioeconomic analysis.
+       The evaluation work will be carried out with support from external consulting
+       services under terms of reference agreed upon with the bank. Resources for the
+       evaluations have been budgeted. The Monitoring and Evaluation Plan (REL#2)
+       provides details on the monitoring and evaluating program outcomes.
+                                                                                                                                                                      Annex I - BL-L1046 / BL-J0007
+                                                                                                                                                                                        Page 1 of 1
+
+
+
+
+                                                                          Development Effectiveness Matrix
+
+                                                                                    Summary       BL-L1046 / BL-J0007
+I. Corporate and Country Priorities
+Section 1. IDB Group Institutional Strategy Alignment
+
+
+                                                                                                 -Biodiversity, natural capital, and climate action
+                                                                                                 -Gender equality and inclusion of diverse population groups
+                                                                                                 -Institutional capacity, rule of law, citizen security
+ Operational Focus Areas                                                                         -Social protection and human capital development
+                                                                                                 -Sustainable, resilient, and inclusive infrastructure
+                                                                                                 -Productive development and innovation through the private sector
+
+
+
+
+ [Space-Holder: Impact framework indicators]
+
+2. Country Development Objectives
+
+
+                                                                                                                         Supporting the reactivation of key economic sectors
+   Country Strategy Results Matrix                                                                      GN-3086          through the continued provision of services, improving their
+                                                                                                                         resilience to natural hazards and climate change.
+
+
+
+                                                                                                                         The intervention is included in the 2024 Operational
+   Country Program Results Matrix                                                                       GN-3207
+                                                                                                                         Program.
+
+
+
+   Relevance of this project to country development challenges (If not aligned to country
+   strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                             Evaluable
+3. Evidence-based Assessment & Solution                                                                                                  8.2
+     3.1 Program Diagnosis                                                                                                               2.5
+     3.2 Proposed Interventions or Solutions                                                                                             3.2
+     3.3 Results Matrix Quality                                                                                                          2.6
+4. Ex ante Economic Analysis                                                                                                             10.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                      1.5
+     4.2 Identified and Quantified Benefits and Costs                                                                                    3.0
+     4.3 Reasonable Assumptions                                                                                                          2.5
+     4.4 Sensitivity Analysis                                                                                                            2.0
+     4.5 Consistency with results matrix                                                                                                 1.0
+5. Monitoring and Evaluation                                                                                                             9.5
+     5.1 Monitoring Mechanisms                                                                                                           4.0
+     5.2 Evaluation Plan                                                                                                                 5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                   Medium Low
+Environmental & social risk classification                                                                                                B
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                         Budget, Treasury, Accounting and Reporting, External
+                                                                                                                         Control, Internal Audit.
+                                                                  Fiduciary (VPC/FMP Criteria)             Yes
+                                                                                                                         Procurement: Information System, Contracting Individual
+                                                                                                                         Consultant.
+
+
+                                                                                Non-Fiduciary
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+                                                                                                                                                - 3566/OC-BL
+                                                                                                                                   - ATN/MD-15572-BL and ATN/OC-15573-BL
+Additional (to project preparation) technical assistance was provided to the public sector
+                                                                                                           Yes                     - ATN/AC-19488-BL and ATN/OC-19487-BL
+entity prior to approval to increase the likelihood of success of the project
+                                                                                                                                             - ATN/OC-19137-BL
+                                                                                                                                                  - BL-T1168
+
+
+Evaluability Assessment Note: The overall objective of the project is to contribute to the sustainable urban development of the municipalities of northern Belize. The specific
+objectives are: (i) to improve access to selected urban services; (ii) to support local economic growth; and (iii) to facilitate the social and economic integration of vulnerable
+populations, such as migrants and women.
+
+The project has a diagnosis for the three specific objectives. The Results Matrix still has some shortcomings. The indicator associated with the overall objective included in the
+Results Matrix and 15 (83.3%) outcome indicators are not yet SMART. 14 (77.8%) indicators do not yet have clear means of verification. 9 (50%) indicators do not yet have
+established baseline values. The Monitoring and Evaluation Plan indicates that the baseline value of the indicator related to Specific Objective 1 will be established during the
+start-up workshop. It is not indicated when the baseline values of the eight indicators associated with Specific Objective 3 will be established.
+
+The economic analysis of the project was carried out conducting a cost-benefit analysis. The estimated benefits included: (i) the real estate valuation of properties in the
+respective areas of influence of each project; (ii) time savings (project in San Mateo); and (iii) net income from the incremental sale of tourism services (projects in Corozal and
+Orange Walk). Discount rates of 12% and conservative assumptions were used. The net present value of the aggregate analysis is USD5,732,183, and the IRR is 35.6%. The
+sensitivity analysis shows that the benefits would have to be 32.5% lower, and the costs would have to increase by 71.3% for the program not to be economically viable.
+
+The project includes a Monitoring and Evaluation Plan in accordance with the Bank's standards. The effectiveness of the proposed intervention will be measured by an
+evaluation using a before-and-after analysis (without attribution). In addition, the ex-post efficiency of the project will be evaluated with an updated cost-benefit analysis relying
+on the same methodology used for the ex-ante study.
+                                                                                                                                  Annex II – BL-L1046; BL-J0007
+                                                                                                                                                   Page 1 of 10
+
+                                                                          Results Matrix
+               The overarching goal is to contribute to the sustainable urban development of municipalities of northern Belize. The specific objectives are:
+Project
+               (i) to improve access to selected urban services; (ii) to support local economic growth; and (iii) to facilitate the social and economic integration
+Objective
+               of vulnerable populations, such as migrant population and women.
+
+
+                                                               General Development Objective
+
+                                                                             Expected year
+                                   Unit of         Baseline      Baseline
+          Indicators                                                               for             Target                      Means of verification
+                                 measurement        value          year
+                                                                              achievement
+
+General development objective. Contribute to the sustainable urban development of municipalities of northern Belize.
+Average market value of               US$           65,000         2023           2028             75,530        Socio-economic ex-post evaluation. Data to collect
+properties located in the area                                                                                   using available sources on internet and local real
+of influence of interventions                                                                                    states firms/agents.
+                                                                                                                         Annex II – BL-L1046; BL-J0007
+                                                                                                                                          Page 2 of 10
+
+                                                              Specific Development Objectives
+
+                       Unit of            Baseline   Baseline                                                     End of
+     Indicators                                                   Year 1    Year 2   Year 3     Year 4   Year 5                Means of verification
+                       measurement         value       year                                                       Project
+Specific development objective 1. Improve access to selected urban services.
+1.1.Households           Number of           0         2023                            178                         206      Semi-annual progress
+receiving new            households                                                                                         reports
+services of sewage                                                                                                          Intermediate and final
+from BWS                                                                                                                    evaluations surveys
+
+                                                                                                                            BWS clients data
+
+1.2. Increase in       % of increase in     TBD        2024                            10                           20      Semi-annual progress
+monthly average of         visitors                                                                                         reports
+people visiting                                                                                                             Intermediate and final
+new/enhanced                                                                                                                evaluations reports
+public spaces with                                                                                                          Data based on information
+universal                                                                                                                   provided by Municipalities
+accessibility design                                                                                                        (electronic counting
+                                                                                                                            devices*)
+1.3. Monthly             Number of         66,434     2023                           78,392                       78,392    Semi-annual progress
+average of people        pedestrians                                                                                        reports
+using new/enhanced        (monthly                                                                                          Intermediate and final
+sidewalks with            average)                                                                                          evaluations reports
+universal
+accessibility design
+                                                                                                                            Data based on information
+                                                                                                                            provided by Municipalities
+                                                                                                                            (electronic counting
+                                                                                                                            devices*)
+1.4. Monthly             Number of         24,771     2023          0          0     26,629       0               28,487    Semi-annual progress
+average of bicycle       bicycle trips                                                                                      reports
+trips using                (monthly
+new/enhanced bike         average)
+lanes                                                                                                                       Intermediate and final
+                                                                                                                            evaluations reports
+
+
+                                                                                                                            Data based on information
+                                                                                                                            provided by Municipalities
+                                                                                                                            (electronic counting
+                                                                                                                            devices*)
+                                                                                                                       Annex II – BL-L1046; BL-J0007
+                                                                                                                                        Page 3 of 10
+
+                         Unit of            Baseline   Baseline                                                End of
+     Indicators                                                   Year 1   Year 2   Year 3   Year 4   Year 5                 Means of verification
+                         measurement         value       year                                                  Project
+1.5. Number of times       Number of           0        2023        0        5        5        5        5        20       Semi-annual progress
+that digital tools and       citations                                                                                    reports
+studies are cited as                                                                                                      Intermediate and final
+sources of new                                                                                                            evaluations reports
+documents or                                                                                                              based on existing
+products (national or                                                                                                     documents or products
+municipal)
+Specific development objective 2. Support local economic growth.
+2.1. Percentage of       % of tourists in     4.33      2019                         4.55                       4.85      Semi-annual progress
+estimated tourist          OW and                                                                                         reports
+visits to destinations   Corozal / total                                                                                  Intermediate and final
+Orange Walk and             tourists                                                                                      evaluations reports
+Corozal, compared                                                                                                         Data based on BTB Tourism
+to the total for the                                                                                                      Performance Dashboard
+Country
+
+2.2. Increase in the     Number of new         0         2023                         5                          10       Semi-annual progress
+quantity of new               small                                                                                       reports
+small                    businesses/sho                                                                                   Intermediate and final
+businesses/shops in            ps                                                                                         evaluations reports
+the area of influence                                                                                                     Data based on information
+of the interventions                                                                                                      provided by Municipalities
+                                                                                                                          and available in internet
+                                                                                                                           Annex II – BL-L1046; BL-J0007
+                                                                                                                                            Page 4 of 10
+
+                        Unit of          Baseline   Baseline                                                          End of
+     Indicators                                                 Year 1     Year 2      Year 3    Year 4    Year 5                  Means of verification
+                        measurement       value       year                                                            Project
+2.3. Beneficiaries of         BZD          BZD        2024                             3,150                           3,300    Semi-annual reports
+public vendors’                           3,000                                                                                 Intermediate and final
+facilities monthly                                                                                                              evaluations reports
+average income
+                                                                                                                                Data based in surveys
+                                                                                                                                collected from municipalities
+                                                                                                                                at least 3 times (before,
+                                                                                                                                during and at the end).
+                                                                                                                                Questionnaire previously
+                                                                                                                                agreed with the Bank.
+2.4. Migrants                BZD          BZD         2024                              3,150                          3,300    Semi-annual reports
+beneficiaries of                          3,000                                                                                 Intermediate and final
+public vendors’                                                                                                                 evaluations reports
+facilities monthly
+average income
+                                                                                                                                Data based in surveys
+                                                                                                                                collected from municipalities
+                                                                                                                                at least 3 times (before,
+                                                                                                                                during and at the end).
+                                                                                                                                Questionnaire previously
+                                                                                                                                agreed with the Bank.
+2.5. Women                   BZD          BZD         2024                             3,150                           3,300    Semi-annual reports
+beneficiaries of                          3,000                                                                                 Intermediate and final
+public vendors’                                                                                                                 evaluations reports
+facilities monthly
+average income
+                                                                                                                                Data based in surveys
+                                                                                                                                collected from municipalities
+                                                                                                                                at least 3 times (before,
+                                                                                                                                during and at the end).
+                                                                                                                                Questionnaire previously
+                                                                                                                                agreed with the Bank.
+
+Specific development objective 3. Facilitate the social and economic integration of vulnerable populations, such as migrant population and women.
+
+3.1. Local               % increase in     N/A        2023                            5%                                19%     Semi-annual reports
+beneficiaries of        average income                                                                                          Intermediate and final
+training/skills                                                                                                                 evaluations reports
+improvement
+programs increase
+average income                                                                                                                  Data based in surveys
+                                                                                                                                collected from municipalities
+                                                                                                               Annex II – BL-L1046; BL-J0007
+                                                                                                                                Page 5 of 10
+
+                      Unit of          Baseline   Baseline                                                End of
+    Indicators                                               Year 1   Year 2   Year 3   Year 4   Year 5                Means of verification
+                      measurement       value       year                                                  Project
+                                                                                                                    at least 3 times (before,
+                                                                                                                    during and at the end).
+                                                                                                                    Questionnaire previously
+                                                                                                                    agreed with the Bank.
+3.2. Local women       % increase in     N/A        2023                       5%                          19%      Semi-annual reports
+beneficiaries of      average income                                                                                Intermediate and final
+training/skills                                                                                                     evaluations reports
+improvement
+programs increase
+average income                                                                                                      Data based in surveys
+                                                                                                                    collected from municipalities
+                                                                                                                    at least 3 times (before,
+                                                                                                                    during and at the end).
+                                                                                                                    Questionnaire previously
+                                                                                                                    agreed with the Bank.
+3.3. Migrant          % increase in      N/A       2023                         5%                         19%      Semi-annual reports
+beneficiaries of      average income                                                                                Intermediate and final
+training/skills                                                                                                     evaluations reports
+improvement                                                                                                         Data based in surveys
+programs increase                                                                                                   collected from municipalities
+average income                                                                                                      at least 3 times (before,
+                                                                                                                    during and at the end).
+                                                                                                                    Questionnaire previously
+                                                                                                                    agreed with the Bank.
+3.4. Women migrant    % increase in      N/A       2023                         5%                         19%      Semi-annual reports
+beneficiaries of      average income                                                                                Intermediate and final
+training/skills                                                                                                     evaluations reports
+improvement                                                                                                         Data based in surveys
+programs increase                                                                                                   collected from municipalities
+average income                                                                                                      at least 3 times (before,
+                                                                                                                    during and at the end).
+                                                                                                                    Questionnaire previously
+                                                                                                                    agreed with the Bank.
+3.5. New/improved       % of stands      N/A       2023                         70%                        90%      Semi-annual progress
+stands been used by    been used by                                                                                 reports
+vendors                  vendors                                                                                    Intermediate and final
+                                                                                                                    evaluations reports
+                                                                                                                    Data based on information
+                                                                                                                    provided by Municipalities
+                                                                                                                                      Annex II – BL-L1046; BL-J0007
+                                                                                                                                                       Page 6 of 10
+
+                        Unit of             Baseline      Baseline                                                           End of
+     Indicators                                                          Year 1       Year 2     Year 3   Year 4   Year 5                   Means of verification
+                        measurement          value          year                                                             Project
+3.6. New/improved         % of stands         N/A          2023                                   60%                         85%        Semi-annual progress
+stands been used by      been used by                                                                                        women       reports
+women vendors           women vendors                                                                                                    Intermediate and final
+                                                                                                                                         evaluations reports
+                                                                                                                                         Data based on information
+                                                                                                                                         provided by Municipalities
+3.7. Migrant Vendors      % of stands          N/A          2023                                  35%                          45%       Semi-annual progress
+using new/improved       been used by                                                                                                    reports
+stands                  migrant vendors                                                                                                  Intermediate and final
+                                                                                                                                         evaluations reports
+                                                                                                                                         Data based on information
+                                                                                                                                         provided by Municipalities
+3.8. Migrant women         % of stands         N/A          2023                                  30%                          40%       Semi-annual progress
+Vendors using             been used by                                                                                                   reports
+new/improved             migrant women                                                                                                   Intermediate and final
+stands                      vendors                                                                                                      evaluations reports
+                                                                                                                                         Data based on information
+                                                                                                                                         provided by Municipalities
+(*) As an eligible expense, it is suggested to acquire and install electronic counting devices
+
+
+
+
+                                                                                  Outputs
+
+                           Unit of           Baseline     Baseline      Year        Year         Year     Year     Year     End of
+Indicators                                                                                                          5                       Means of verification
+                         measurement          value         year         1           2            3        4                Project
+
+Component 1. Institutional Strengthening for Sustainable Development.
+1.1. Sectoral,             Number of             0          2023         0           2            1         0       0         3          Contracts awarded for
+coastal management           plans                                                                                                       studies and plans
+or sustainable                                                                                                                           Semi-annual progress
+zoning plans with                                                                                                                        reports
+climate change and                                                                                                                       Final supervision report
+gender
+considerations
+elaborated (critical
+product)
+                                                                                                                Annex II – BL-L1046; BL-J0007
+                                                                                                                                 Page 7 of 10
+
+
+                                                                       Outputs
+
+                           Unit of        Baseline   Baseline   Year   Year      Year   Year   Year   End of
+Indicators                                                                                      5                     Means of verification
+                         measurement       value       year      1      2         3      4            Project
+1.2. Institutional         Number of         0        2023       0       1        2      0      0       3          Semi-annual reports
+strengthening plans          plans                                                                                 including PMR, midterm and
+elaborated and                                                                                                     final evaluations
+partially
+implemented
+1.3. Public-private        Number of         0         2023      0       1        0      0      0       1          Semi-annual reports
+partnership strategy       strategies                                                                              including PMR, midterm and
+for the sustainable                                                                                                final evaluations
+development of the
+New River in Orange
+Walk Town (critical
+product)
+
+1.4. National and           Number of        0         2023      0       5        0      0      0       5          Consultancy reports
+local public               institutions
+institutions with                                                                                                  Installation records/ platform
+digital tools for                                                                                                  account /registration details
+sustainable
+development
+installed
+1.5. National and          Number of         0         2023      0      10        0      0      0       10         Consultancy reports
+local public               personnel
+institutions                                                                                                       Records of attendance
+personnel trained
+with digital tools for
+sustainable                                                                                                        Certificates of accomplish-
+development                                                                                                        ment
+1.6 Migrant                Number of         0        2023       0      20       20      0      0       40         Training Facilitator reports
+populations trained      migrant people
+in ESL,
+disaggregated by
+gender
+                                                                                                                     Annex II – BL-L1046; BL-J0007
+                                                                                                                                      Page 8 of 10
+
+
+                                                                            Outputs
+
+                              Unit of          Baseline   Baseline   Year   Year      Year   Year   Year   End of
+Indicators                                                                                           5                     Means of verification
+                            measurement         value       year      1      2         3      4            Project
+1.7 Migrant                  Number of            0        2023       0      20       20     20      0       60         Training Facilitator reports
+population trained in      migrant people
+digital tools, financial
+education and/or
+other skills,
+disaggregated by
+gender
+1.8 Local population       Number of local        0        2023       0      20       20     20      0       60         Training Facilitator reports
+trained in digital            people
+tools, financial
+education and/or
+other skills
+disaggregated by
+gender
+1.9 Information                                   0        2023       0       1        0      0      0       1          Contract awarded to
+campaigns related to          Number of                                                                                 communication firm
+migrants’ support             campaigns                                                                                 Attendance lists, results
+designed and                                                                                                            reports
+implemented                                                                                                             Material distributed
+                                                                                                                        Users/ followers on social
+                                                                                                                        media
+Component 2: Sustainable urban investments.
+
+ 2.1. Public facilities    Number of              0        2023       0       1        2      0      0       3          Post-work certificates paid.
+built /upgraded            public facilities
+incorporating design                                                                                                    Semi-annual progress
+criteria for universal                                                                                                  reports
+accessibility
+(critical product)
+                                                                                                                        Final supervision report
+
+
+2.2. Public spaces,        Acres of public        0        2023       0      1.05     2.2     0     0.5     3.75        Semi-annual progress
+including green               spaces                                                                                    reports
+areas, built                                                                                                            Intermediate and final
+/upgraded                                                                                                               supervision report
+incorporating design
+criteria for universal
+                                                                                                                                    Annex II – BL-L1046; BL-J0007
+                                                                                                                                                     Page 9 of 10
+
+
+                                                                         Outputs
+
+                            Unit of        Baseline   Baseline   Year     Year          Year          Year       Year     End of
+Indicators                                                                                                        5                       Means of verification
+                          measurement       value       year      1        2             3             4                  Project
+accessibility (critical
+product)
+
+
+
+2.3. Sidewalks and            Feet of         0        2023       0     3,707.54      14,272.36         0        5,248   23,441.15     Semi-annual progress
+or boardwalks             sidewalks and                                                                                                reports
+built/upgraded              boardwalks
+incorporating design                                                                                                                   Intermediate and final
+criteria for universal                                                                                                                 supervision report
+accessibility (critical
+product)
+2.4 Segregated bike        Feet of bike       0        2023       0         0         1,115.54          0         0      1,115.54 ft   Semi-annual progress
+lanes built                   lines                                                                                                    reports
+
+                                                                                                                                       Intermediate and final
+                                                                                                                                       supervision report
+2.5. Cyclist and            Number of         0        2023       0         0             1             0         0          1         Semi-annual progress
+pedestrian bridge            bridges                                                                                                   reports
+built incorporating
+design criteria for                                                                                                                    Intermediate and final
+universal                                                                                                                              supervision report
+accessibility
+2.6 Lightweight             Number of         0        2023       0         6             8             0         0          14        Semi-annual progress
+stands for vendors           stands                                                                                                    reports
+
+                                                                                                                                       Intermediate and final
+                                                                                                                                       supervision report
+2.7 Sewage system         Feet of sewage      0        2023       0         0         5,281.41 ft       0         0      5,281.41 ft   Post-work certificates paid
+network extension            network
+                                                                                                                                       Semi-annual progress
+                                                                                                                                       reports
+
+                                                                                                                                       Final supervision report
+2.8. Roads paved          Feet of roads       0        2023       0     2,362.36 ft   1,546.07 ft   2,624.8 ft     0     6,533.19 ft   Post-work certificates paid.
+                             paved
+                                                                                                                                    Annex II – BL-L1046; BL-J0007
+                                                                                                                                                     Page 10 of 10
+
+
+                                                                         Outputs
+
+                          Unit of          Baseline   Baseline   Year     Year          Year            Year     Year     End of
+Indicators                                                                                                        5                        Means of verification
+                        measurement         value       year      1        2             3               4                Project
+
+                                                                                                                                        Semi-annual progress
+                                                                                                                                        reports
+
+                                                                                                                                        Final supervision report
+2.9. Streets with       Feet of streets       0        2023       0     4,855.88 ft   5,216.79 ft   5,249.6 ft    0     15,322.27 ft    Semi-annual reports
+drainage system         with drainage                                                                                                   including PMR, midterm and
+built incorporating                                                                                                                     final evaluations
+design criteria for
+disaster
+management and
+climate change
+resilience
+2.10. Public lighting     Number of           0        2023       0         51           351        0             32        434         Semi-annual reports
+units installed with     public lighting                                                                                                including PMR, midterm and
+energy efficiency            units                                                                                                      final evaluations
+technologies (i.e.
+LED)
+2.11. Trees planted     Number of trees      16        2023       0         50           499        0             80        629         Semi-annual reports
+                           planted                                                                                                      including PMR, midterm and
+                                                                                                                                        final evaluations +
+                                                                                                                                        Photographs
+                                                                                      Annex III - BL-L1046; BL-J0007
+                                                                                                         Page: 1 of 5
+
+
+
+                                  Fiduciary Agreements and Requirements
+  Country: Belize              Division: HUD            Operation No.: BL-L1046; BL-J0007                 Year: 2024
+
+Executing Agency (EA): Ministry of Finance, Economic Development and Investment
+Operation Name: Sustainable and Inclusive Urban Development Program
+I. Fiduciary Context of Executing Agency
+1. Use of country system in the operation:
+
+    Budget              Reports                Information System            National Competitive Bidding (NCB)
+
+    Treasury            Internal audit         Shopping                      Others
+
+    Accounting          External Control       Individual Consultants        Others
+
+2. Fiduciary execution mechanism
+
+      Particularities of the fiduciary     The EA will be the MFEDI and, through its Central Executing Unit
+      execution                            (CEU), will be responsible for fiduciary management of the project.
+3. Fiduciary Capacity
+
+ Fiduciary        The assessment of the executing agency's fiduciary capacity is considered adequate, based
+ Capacity of      on the ICAP and risk assessment conducted. The EA has a solid track-record implementing
+ the EA           and providing fiduciary oversight to externally financed projects. Furthermore, most of the
+                  fiduciary risks that were identified were qualified as low except for the one noted below.
+                  Noteworthy is the fact that the results of the assessment of public financial management
+                  systems in Belize conducted over the period March to May 2021 using the Bank's Guide-FMS
+                  (IDB’s tool to determine the level of development and use of public financial management
+                  systems) indicates a low level of development the national fiduciary systems. Considering that
+                  the internal control systems and documentation of procedures within Government are generally
+                  weak, the fiduciary procedures and internal controls necessary to reasonably ensure proper
+                  fiduciary management of the project resources are documented in the operations manual of
+                  the CEU.
+
+4. Fiduciary risks and risk response
+
+ Risk          Risk                                                     Risk level     Risk response
+ Taxonomy
+ Human         Considering that the CEU is responsible for              Medium-        The risk will be mitigated by
+ Resources     implementing a large and growing portfolio, there        High           hiring additional or appointing
+               is a risk of work overload should the existing staff                    additional fiduciary staff
+               assume the responsibility of carrying out all the                       (finance       officer     and
+               fiduciary tasks for the project, which could lead to                    procurement officer) as part
+               overall execution delays and in particular the first-                   of the conditions prior to first
+               year goals.                                                             disbursement.
+ Local         If the local market does not have the capacity to        Medium         A market analysis is being
+ market        implement, in a timely manner, the infrastructure                       conducted in collaboration
+ capacity      works envisioned under this and other public                            with the Government to
+               sector programs, then this could lead to non-                           assess the capacity and
+               responsiveness of the local market to the                               availability of construction
+               procurement processes or inability of the selected                      companies in the country.
+               contractors to deliver on time and quality the                          Additionally, a survey will be
+               outputs expected, which could lead to overall                           conducted      among    local
+               project delays.                                                         construction companies to
+                                                                                       gauge their interest and
+                                                                                     Annex III - BL-L1046; BL-J0007
+                                                                                                        Page: 2 of 5
+
+
+
+                                                                                      availability to participate in
+                                                                                      procurement          processes
+                                                                                      funded by the Government,
+                                                                                      helping to identify potential
+                                                                                      contractors and anticipate
+                                                                                      any capacity constraints.
+                                                                                      Finally, training sessions and
+                                                                                      local     fairs    are     being
+                                                                                      organized in various regions
+                                                                                      to promote awareness of the
+                                                                                      infrastructure projects funded
+                                                                                      by the Bank and to provide
+                                                                                      capacity-building
+                                                                                      opportunities for potential
+                                                                                      suppliers, enabling them to
+                                                                                      participate     effectively    in
+                                                                                      procurement processes.
+
+5. Policies and Guides applicable to operation: The procurement processes financed in full or in part by Bank
+resources will be conducted in accordance with the Policies for the Procurement of Goods and Works Financed
+by the IDB (GN-2349-15) and the Policies for the Selection and Contracting of Consultants Financed by the IDB
+(GN-2350-15), or those in effect at the time of project execution.
+6. Exceptions to Policies and Rules: none
+II. Aspects to be considered in the Special Conditions of the Loan Agreement
+
+ The fiduciary-related conditions precedent to first disbursement are hiring or appointment of (i) financial
+ specialist and (ii) procurement specialist.
+ Exchange Rate: For purposes of Article 4.10 of the General Conditions, the Parties agree that the applicable
+ exchange rate shall be that indicated in paragraph (b)(ii) of said Article. Accordingly, the agreed exchange rate
+ shall be the exchange rate on the effective date on/in which the Borrower, the Executing Agency, or any other
+ person or legal entity in whom the power to incur expenditures has been vested makes the related payment to
+ the contractor, the supplier, or beneficiary.
+ Type of Audit: Throughout the loan disbursement period, the EA will submit to the Bank annual audited financial
+ statements within 120 days after the close of the fiscal year, March 31st. The audit will be conducted by a
+ Bank-eligible independent audit firm. The audit’s scope and related considerations will be governed by the
+ Financial Management Guidelines (document OP-273-12) and the Guide for Financial Reports and
+ Management of External Audit. Audit costs will be financed with project resources.
+ Other financial reports: Within 60 days after the end of each semester, an audited financial execution report
+ for the period will be submitted as part of the semi-annual progress report.
+
+III. Agreements and Requirements for Procurement Execution
+
+      Bidding         For procurement of Works, Goods and Services Different of Consulting executed in
+      Documents       accordance with the Procurement Policies (document GN-2349-15), subject to ICB, the
+                      Bank's Standard Bidding Documents (SBDs) or those agreed between EA and the Bank
+                      will be used for the particular procurement. Likewise, the selection and contracting of
+                      Consulting Services will be carried out in accordance with the Policies for the Selection
+                      and Contracting of Consultants (document GN-2350-15) and the Standard Request for
+                      Proposals (SRP) issued by the Bank or agreed between the EA and the Bank will be used
+                      for the particular selection. The revision of the technical specifications, as well as the terms
+                      of reference of the procurements during the preparation of selection processes, is the
+                      responsibility of the Sector Specialist of the Project. This technical review can be ex-ante
+                      and is independent of the procurement review method.
+      Recurrent       The recurrent expenses required to put the Project into operation approved by the Project
+      Expenses        Team Leader, which are financed, will be made following the executing agency’s
+                      administrative procedures. Such procedures will be reviewed and accepted by the Bank,
+                                                                                     Annex III - BL-L1046; BL-J0007
+                                                                                                        Page: 3 of 5
+
+
+
+                      provided that they do not violate the principles of value for money, economy, efficiency,
+                      equality, transparency and integrity.
+      Advanced        It is anticipated that the project may finance retroactively under the loan, up to the amount
+      Contracting     of US$200,000 (1.6% of the program total), on contracting key personnel for the CEU
+      Retroactive     (such as the project coordinator, project engineer, financial officer and procurement
+      financing       officer) and operational expense related to early project activities. The foregoing, provided
+                      all the requirements are substantially similar to those set out in the loan agreement
+                      requirements; said expenses must have been incurred on or after 05-October-23 (approval
+                      date of the project profile), and under no circumstances shall expenditures incurred more
+                      than 18 months prior to the loan approval date be included. It has also been identified, that
+                      before the date of loan approval, the EA may start the procurement processes related to
+                      projects of the sample or studies to fund by Component I. The procurement procedures,
+                      including advertising, shall be by the Bank’s Core Procurement Principles for the eventual
+                      contracts to be eligible for Bank financing, and the Bank shall review the process used by
+                      the Borrower. The Borrower undertakes such advance contracting at its own risk, and any
+                      concurrence by the Bank with the procedures, documentation, or proposal for award does
+                      not commit the Bank to grant a loan for the project in question. The contracts will be
+                      awarded only after the project is eligible (entry into force and all conditions before the first
+                      disbursement are met). Therefore, it is not anticipated that retroactive financing will be
+                      required for these activities.
+                      See GN-2349-15, GN-2350-15 y l(a) Policy on Cost Recognition, Retroactive Financing
+                      and Early Acquisition (GN-2259-1).
+      Procurement     The method of supervision for the procurement processes executed by the EA shall be ex
+      supervision     ante. If during project execution, it is identified that the EA has developed sufficient
+                      capacity, the possibility of supervising procurement processes on an ex post basis will be
+                      evaluated.
+      Records and     The CEU will be responsible for maintaining proper records and supporting documentation
+      Archives        of all procurement processes financed with the Project resources along with the relevant
+                      payment supporting documents in accordance with the terms of the loan contract.
+
+Main Acquisitions
+
+ Description of the procurement                      Selection         New             Estimated        Estimated
+                                                     Method            Procedures/     Date             Amount
+                                                                       Tools                            000’US$
+ Expected Works
+ 2.1 San Mateo Neighborhood integral                 ICB                               8/1/2024         2,422
+ improvement (San Pedro Town)
+ 2.3 Design and construction of shared streets       ICB                               2/1/2025         2,162
+ in Orange Walk Town (Main St., Church St.,
+ Park St., Naranjal St.)
+ 2.5 Marcos Canul Neighborhood integral              ICB                               11/1/2025        1,886
+ improvement (Orange Walk Town Town)
+ 2.6 Comprehensive public space upgrading,           ICB                               11/1/2024        1,877
+ tourism facilities, and seawall protection in
+ Corozal Town
+ 2.4 Design and construction of public facilities    ICB                               2/1/2025         1,694
+ in Orange Walk Town
+
+ 2.2 Design and Construction of public spaces        NCB                               10/1/2024        759
+ in Orange Walk Town
+                                                                             Annex III - BL-L1046; BL-J0007
+                                                                                                Page: 4 of 5
+
+
+
+ Consulting Firms
+ 4.1.3 International or national consultancy to   QCBS                          12/1/2024      180
+ prepare a PP strategy
+ 4.1.1 International or national consultancy to   CQS                           3/1/2025       150
+ prepare sectoral plans (coastal management,
+ sustainable zoning plans or similar)
+ Individuals
+ Technical Coordinator                            Selection of                  8/1/2024       134
+                                                  Individual
+                                                  consultant
+ Technical Specialist - Construction Engineer     Selection of                  8/1/2024       90
+                                                  Individual
+                                                  consultant
+ Finance Officer                                  Selection of                  8/1/2024       84
+                                                  Individual
+                                                  consultant
+ Procurement Officer                              Selection of                  8/1/2024       84
+                                                  Individual
+                                                  consultant
+
+ Environmental Specialist                         Selection of                  8/1/2024       83
+                                                  Individual
+                                                  consultant
+ Social Officer                                   Selection of                  8/1/2024       83
+                                                  Individual
+                                                  consultant
+
+To access, procurement plan here.
+
+IV. Agreements and Requirements for Financial Management
+
+Programming and The budget preparation process begins each year with the budget call whereby the MFEDI
+Budget          distributes a circular outlining the procedures, timelines, and forms to be completed by each
+                ministry, department, and agency of the government. This process is applicable to external
+                financing, including IDB resources and the resources of this project. The government has
+                committed to allocate for each fiscal year of the project, adequate fiscal space to guarantee
+                the timely execution of the project. As such, no bottlenecks regarding fiscal space and the
+                budget process are anticipated for the project.
+                                                                                  Annex III - BL-L1046; BL-J0007
+                                                                                                     Page: 5 of 5
+
+
+
+Treasury and         In accordance with the norms of Government of Belize, a bank account within the Central
+Disbursement         Bank of Belize will be designated for the project to receive disbursements of project
+Management           resources. Payments of project expenses in local currency will be made from the
+                     Consolidated Revenue Fund account which will then be reimbursed with resources from the
+                     designed account at the Central Bank of Belize for those local payments. For foreign
+                     currency payments, the EA will request to the Central Bank of Belize to make those
+                     payments directly from the designated project bank account.
+                     In accordance with the disbursing norms for loan operations and the anticipated
+                     commitments and obligations of the project, it is expected that the Advance of Funds
+                     methodology will be mainly used for the project. The advance of funds, when used, will be
+                     based on the true liquidity needs of the project for a period not exceeding six months.
+                     Subsequent advances may be disbursed once 80% of the total accumulated balance
+                     pending justification has been submitted and accepted by the Bank. The other disbursement
+                     methods that may be used includes the Reimbursement of payments made and Direct
+                     Payments to Supplier.
+Accounting,          Accounting for the project will be facilitated through SmartStream which is the Government’s
+information          national financial management system, in accordance with cash basis international public
+systems and          sector accounting standards (cashIPSAS). Additionally, QuickBooks accounting software will
+reporting            be used to complement SmartStream for financial reporting purposes.
+Internal Control   The Internal control system of Government of Belize is weak and though an Internal Audit
+and Internal Audit Unit was established at the MOF in September 2020, no internal audits have been
+                   conducted so far. To ensure the internal control systems applicable to the project is
+                   adequate, there will be a POM outlining the required systems of internal controls to ensure
+                   the effective fiduciary management of the project.
+External control:    Considering that the capacity constraints of the Office of the Auditor General, the
+external financial   independent external audit of the program will be contracted and financed through the
+audit and project    Program. A private audit firm considered eligible by the Bank will be procured to conduct the
+reports              annual and final financial statement audits of the project. The EA will select and contract the
+                     services of an eligible auditor, in accordance with the Terms of Reference agreed with the
+                     Bank
+Project Financial    The financial supervision plan of the project will focus on: (i) activities related to the
+Supervision          implementation and follow-up of arrangements and systems being implemented for the
+                     fiduciary management of the project; (ii) follow-up on the implementation status of risk
+                     mitigating measures; and (iii) capacity building of EA personnel in the Bank’s procedures
+                     and requirements. Disbursements will be reviewed on an ex-post basis.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                               PROPOSED RESOLUTION DE-__/24
+
+
+
+                                 Belize. Loan ____/OC-BL to Belize.
+                                  Sustainable and Inclusive Urban
+                                        Development Program
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+         That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with Belize, as borrower, for the purpose of granting it a financing aimed at cooperating
+in the execution of the Sustainable and Inclusive Urban Development Program. Such financing
+will be for the amount of up to US$10,000,000, from the resources of the Bank’s Ordinary Capital,
+and will be subject to the Financial Terms and Conditions and the Special Contractual Conditions
+of the Project Summary of the Loan Proposal.
+
+
+
+                              (Adopted on ____ _____________ 2024)
+
+
+
+LEG/SGO/CID/EZIDB0000366-1672162870-23366
+BL-L1046
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                               PROPOSED RESOLUTION DE-__/24
+
+
+
+             Belize. Nonreimbursable Investment Financing ______/GR-BL to Belize
+                     Sustainable and Inclusive Urban Development Program
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, as Administrator of the IDB Grant Facility, hereinafter
+referred to as the “Account”, to enter into such contract or contracts as may be necessary with
+Belize, as beneficiary, for the purpose of granting it a nonreimbursable investment financing to
+cooperate in the execution of the Sustainable and Inclusive Urban Development Program. Such
+nonreimbursable investment financing will be for an amount of up to US$2,500,000, which form
+part of the Account, and will be subject to the Terms and Financial Conditions and the Special
+Contractual Conditions in the Project Summary contained in document PR-____.
+
+
+
+                               (Adopted on ___ ____________ 2024)
+
+
+
+LEG/SGO/CID/EZIDB0000366-1672162870-23367
+BL-J0007
+

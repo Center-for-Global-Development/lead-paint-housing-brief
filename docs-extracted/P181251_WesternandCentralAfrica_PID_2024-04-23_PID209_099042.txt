@@ -1,0 +1,313 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                                  Concept Stage | Date Prepared/Updated: 23-Apr-2024 | Report No: PID209
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)       Operation ID                Operation Name
+WESTERN AND CENTRAL            P181251                     Financial Inclusion for Households and MSMEs in the
+AFRICA                                                     WAEMU
+Estimated Appraisal Date       Estimated Approval Date     Practice Area (Lead)
+15-Oct-2024                    12-Dec-2024                 Finance, Competitiveness
+                                                           and Innovation
+Financing Instrument           Borrower(s)                 Implementing Agency
+Investment Project             Banque Centrale des Etats    Banque Centrale des Etats
+Financing (IPF)                de l’Afrique d’Ouest        de l’Afrique d’Ouest
+                               (BCEAO) , West African      (BCEAO), West African
+                               Development Bank/           Development Bank/
+                               Banque Ouest Africaine de   Banque Ouest Africaine de
+                               Développement (BOAD)        Développement (BOAD)
+
+Proposed Development Objective(s)
+To increase financial inclusion for households and MSMEs in the WAEMU region, including for green investments
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                  No
+Is this project Private Capital Enabling (PCE)?            Yes
+
+SUMMARY
+  Total Operation Cost                                                                                     300.00
+
+  Total Financing                                                                                          300.00
+             of which IBRD/IDA                                                                             300.00
+  Financing Gap                                                                                                  0.00
+
+DETAILS
+  World Bank Group Financing
+
+
+                                                                                                                  Page 1
+           The World Bank
+           Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+         International Development Association (IDA)                                                                                  300.00
+           IDA Credit                                                                                                                 300.00
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                                     Concept Review Decision
+Moderate                                                                         The review did authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+    Country Context
+
+The WAEMU financial system is dominated by banks, which had total assets of CFAF 64 trillion—or 58 percent of
+regional GDP—at end-2022. The banking sector accounts for around 72 percent of the financial system (based on 2020
+data), while other financial institutions (microfinance, insurance, and pension funds, as well as securities custodians)
+account for around 28 percent of the financial system’s assets. Of the 155 credit institutions operating in the WAEMU at
+end-2022, 132 were banks. Their assets’ geographic concentration is broadly in line with that of economic activity, with
+over half held by credit institutions in the WAEMU two largest economies, Côte d’Ivoire and Senegal (34 percent and 19
+percent, respectively). Regional banking groups (34) have emerged as key players, holding nearly 85 percent of banking
+sector assets. The other players are smaller unaffiliated domestic private and public banks, accounting for four-fifths and
+one-fifth of banks’ capital respectively. The 13 banks which are majority publicly owned (with public ownership over 50
+percent of total capital), hold 10 percent of banking assets and 13 percent of banking capital in the WAEMU.
+
+    Sectoral and Institutional Context
+
+Over the past several years, the WAEMU region has established a solid basis for its regional payment system, which has
+contributed to the increase in electronic payments and financial account ownership in the region. These efforts have
+been underpinned by the Regional Financial Inclusion Strategy developed by the BCEAO and the national Financial Inclusion
+Strategies adopted in all eight WAEMU member countries1. The BCEAO is in the process of developing a regional platform
+for the interoperability of e-money transactions and the implementation of fast payments. The BCEAO has also developed
+a solid regulatory framework for the issuance of electronic money, which enabled marked progress in access to and usage
+of e-money wallets. The recent update to the banking law also enabled the regulation of new payments services providers.
+This was followed by a new instruction issued in January 2024 on payment services which covers the payment services
+providers and sets out allowed activities, capital requirements, and reporting and governance standards. The WAEMU
+region now boasts 40 e-money initiatives, including 13 e-money licenses to the private sector and 27 partnerships between
+banks and telecommunications operators or technical providers. The BCEAO created a Fintech Knowledge and Monitoring
+
+
+
+1
+    Annex IV presents the Regional Financial Inclusion Strategy Pillars, Progress, Donor Support, and Status of National Strategies
+
+                                                                                                                                         Page 2
+         The World Bank
+         Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+Office for the exchange of information between the BCEAO and Fintechs and is working on operationalizing the recently
+established Financial Innovation Lab to promote the development of innovative products and services.
+
+Account Ownership
+
+According to Findex, between 2017 and 2021, account ownership in the WAEMU region increased by 4% to reach 41%
+of adults, a modest increase ,though the account ownership had stood at 19% in 2014. This is still less than the SSA
+average and peers and with still untapped potential for further increase2. While financial inclusion in WAEMU has
+improved (largely through mobile money) it remains below the Sub-Saharan average, which is at 55%. East Africa boasts
+an even higher rate of 57.75 % of adults with account ownership. Across the WAEMU region, 26 million unbanked adults
+have a mobile phone, meaning that they already have one of the necessary components of mobile money account
+ownership.
+
+
+While account ownership across the WAEMU region has been increasing since 2014, gender and youth gaps in account
+ownership have persisted, and in some cases, increased. Between 2014 and 2021, the account ownership gap between
+men and women in the WAEMU region increased from 8% in 2014 to 13% in 2021. This divide is largely driven by unequal
+increases in mobile money account ownership. The gender gap at financial institutions has remained at about 5% between
+2014 and 2021 but the mobile money account ownership gap has tripled from 4% to 12% in 2021. Despite these gender
+gaps, there has been progress in female account ownership, with overall account ownership increasing from 15% in 2014
+to 35% in 2021 and mobile money account ownership increasing from 7% to 24% in the same time period.
+
+Account usage
+
+Digital payments have been increasing since 2014 with 37% of adults in the WAEMU region making or receiving digital
+payments in 2021. Like with account ownership, there are usage gaps between men and women and younger and older
+adults. In 2021, 32% of women made or received a digital payment compared with 44% of men. The age gap is slightly
+smaller than the gender gap, with 32% of younger adults making or receiving a digital payment compared with 40% of
+older adults.
+
+Access to Finance for SMEs
+
+Access to financing continues to be a significant hurdle for private sector development in WAEMU, with the financial
+sector failing to adequately support businesses, in particular micro, small and medium enterprises (MSMEs) which
+represent between 80 percent and 95 percent of companies identified in the region. Only 24.4 percent of companies in
+the region have a loan or a line of credit, with formal borrowing rates notably low across countries, ranging from 10 percent
+in Burkina Faso to 2.8 percent in Côte d'Ivoire. Although banks are the principal source of finance for MSMEs, only 16
+percent of bank lending goes to small enterprises, compared to 35 percent in Morocco for instance. This situation is
+compounded by high rates of informal borrowing, underscoring a reliance on informal financial networks that is higher
+than in the East African and non-WAEMU West African region. According to the MSME Finance Gap Report3, the MSME
+finance gap in WAEMU countries and its proportion to GDP stands as follows; Benin (US$0.689 billion, 8% of GDP) , Burkina
+Faso (US$1. 6 billion, 15% of GDP), Cote D’Ivoire (US$2.35 billion, 7% of GDP), Guinea Bissau (US$0.13 billion, 12%), Mali
+
+
+2
+ The financial inclusion landscape analysis draws from the Findex 2021-2022 Data, unless otherwise referred to. The Findex data does not cover
+Guinea Bissau.
+3
+    https://www.smefinanceforum.org/data-sites/msme-finance-gap
+
+                                                                                                                                            Page 3
+       The World Bank
+       Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+(US$0.37 billion, 3% of GDP), Niger (US$3.12 billion, 44% of GDP), Senegal (US$0.92 billion, 7% of GDP), Togo (US$0.39
+billion , 10% of GDP ).
+
+
+  Relationship to CPF
+The project is aligned with the WB Africa Regional Integration and Cooperation Assistance Strategy (FY21–FY23) and will
+directly support the objectives of the Pillar II (Trade and Market Development). In particular the project will support the
+financial market integration theme of this pillar given the project focus on digital financial services and payments,
+promoting financial inclusion at scale, and development of long-term financial markets for SMEs. The project will also
+contribute to Pillar V (Resilience), through its support to building firm resilience and adaptation through promoting climate
+finance for SMEs. It will further contribute to Pillar I (Building Regional Connectivity), which aims at advancing sustainable
+business growth and job creation, through promoting access to finance for SMEs. The project will also contribute to the
+AFW West and Central African Strategy (2021-2025) goals for creating more and better jobs, empower women , and ramp
+up climate resilience. The project also supports the World Bank Strategy for Fragility, Conflict, and Violence 2020-2025).
+
+ C. Proposed Development Objective(s)
+ To increase financial inclusion for households and MSMEs in the WAEMU region, including for green investments.
+
+  Key Results (From PCN)
+
+The progress towards achieving the PDO would be monitored through the following proposed indicators:
+
+    • Increased number of accounts, with gender specific targets
+    • Increased usage of digital financial services, with gender specific targets*
+    • Decrease of the percentage of DFS users who faced risks
+    • Number of MSMEs accessing financing for the first time, with gender and climate specific targets
+    • Amount of green financing lent to MSMEs
+Amount of private capital mobilized by beneficiary MSMEs, including for climate adaptation and mitigation financing
+ D. Concept Description
+
+The project development objective is to promote financial inclusion of households and SMEs in WAEMU region by
+facilitating access to credit and developing digital financial services. To that end, the project’s intervention support three
+components, the first of which would be with BCEAO, the second with BOAD, and the third would be for project
+implementation support. The first component would comprise funding through BCEAO for an Electronic Payment
+Acceptance (EPA) regional fund and support for regional initiatives such as the BCEAO Innovation Lab, and a regional DFS
+Hackathon (to promote innovative technology to enable financial inclusion while reinforcing consumer protection). The
+second component would finance a Line of Credit (LoC) through BOAD for longer-term loans, to be complemented (subject
+to a demand gap analysis ) with Partial Portfolio Credit Guarantee (PPCG), and Support for SME Portfolio Securitization to
+facilitate access to finance to SMEs.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+
+
+                                                                                                                         Page 4
+      The World Bank
+      Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+Legal Operational Policies
+                                                                               Triggered?
+                                                          Last approved                              Current
+ Projects on International Waterways OP 7.50                   No
+ Projects in Disputed Area OP 7.60                             No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+  Mazen Bouri
+  Lead Financial Sector Specialist
+
+  Safia Hachicha Ep Ben Abdallah
+  Senior Financial Sector Specialist
+
+ Borrower/Client/Recipient
+  Banque Centrale des Etats de l’Afrique d’Ouest (BCEAO)
+  Yaye Aminata SECK MBOW
+  Direction Générale de la Stabilite Financière et du Financement des Economies
+  yasmbow@bceao.int
+
+  West African Development Bank/ Banque Ouest Africaine de Développement (BOAD)
+  Corell KPOMALEGNI
+  Manager, Institutional Relations – Americas and the Far East, Institutional Relations Department
+  ckpomalegni@Boad.org
+
+ Implementing Agencies
+
+
+
+
+                                                                                                               Page 5
+     The World Bank
+     Financial Inclusion and SME Finance in the WAEMU(P181251)
+
+
+ Banque Centrale des Etats de l’Afrique d’Ouest (BCEAO)
+ Yaye Aminata SECK MBOW
+ MBOW Direction Générale de la Stabilite Financière et du Financement des Economies
+ yasmbow@bceao.int
+
+ West African Development Bank/ Banque Ouest Africaine de Développement (BOAD)
+ Corell KPOMALEGNI
+ Manager ,International Relations
+ ckpomalegni@Boad.org
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                   Mazen Bouri, Safia Hachicha Ep Ben Abdallah
+
+Approved By
+
+                                       Roselyne CH Massanvi Akibode
+Practice Manager/Manager:                                                     22-Apr-2024
+                                       Mabudu
+Country Director:                      Boutheina Guermazi                     23-Apr-2024
+
+
+
+
+                                                                                            Page 6
+

@@ -1,0 +1,938 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+27WkrefeldSri Lanka
+
+
+
+
+Project Number: 46094-001
+March 2014
+
+
+
+Proposed Loan
+Republic of Indonesia: Neighborhood Upgrading and
+Shelter Project (Phase 2)
+                                    CURRENCY EQUIVALENTS
+                                       (as of 13 Feb 2014)
+                                 Currency unit      –       rupiah (Rp)
+                                      Rp1.00        =       $ .0000827472
+                                        $1.00       =       Rp12,085
+
+                                          ABBREVIATIONS
+
+              ADB          –     Asian Development Bank
+              BKM          –     community implementation organization
+              CDD          –     community-driven development
+              DGHS         –     Directorate General of Human Settlements
+              LCO          –     local coordination office
+              MDG          –     Millennium Development Goal
+              MPW          –     Ministry of Public Works
+              NSD          –     new site development
+              NUAP         –     neighborhood upgrading action plan
+              O&M          –     operation and maintenance
+              PNPM         –     Program Nasional Pemberdayaan Masyarakat (National
+                                 Program for Community Empowerment)
+              RPJMN        –     Rencana Pembangunan Jangka Menengah Nasional
+                                 (National Medium-Term Development Plan)
+              RTRW         –     Rencana Tata Ruang Wilayah (Spatial Plan)
+              SPPIP        –     Strategi Pengembangan Permukiman dan Infrastruktur
+                                 Perkotaan (Strategy for the Development of Urban
+                                 Settlements and Infrastructure)
+
+                                                 NOTES
+
+       (i)      The fiscal year of the government and its agencies ends on 31 December.
+
+       (ii)     In this report, "$" refers to US dollars.
+
+ Vice-President          S. Groff, Operations 2
+ Director General        J. Nugent, Southeast Asia Department (SERD)
+ Country Director        A. Ruthenberg, Indonesia Resident Mission (IRM), SERD
+
+ Team leader             W. Kubitzki, Principal Portfolio Management Specialist, IRM, SERD
+ Team members            F.P.A. Arifin, Associate Project Analyst, IRM, SERD
+                         A. Gill, Senior Country Specialist, IRM, SERD
+                         S. Hasanah, Senior Project Officer, IRM, SERD
+                         N. Mardiniah, Safeguards Officer, IRM, SERD
+                         Suzana, Senior Operations Assistant, IRM, SERD
+                         S. Zaidansyah, Senior Counsel, Office of the General Counsel
+ Peer reviewers          T. Gallego-Lizon, Principal Urban Development Specialist, South Asia
+                         Department, SARD
+                         F. Steinberg, Senior Urban Development Specialist, SERD
+
+In preparing any country program or strategy, financing any project, or by making any
+designation of or reference to a particular territory or geographic area in this document, the
+Asian Development Bank does not intend to make any judgments as to the legal or other status
+of any territory or area.
+                                      CONTENTS
+
+                                                 Page
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                 1
+II.    THE PROJECT                                  1
+       A.   Rationale                               1
+       B.   Impact and Outcome                      3
+       C.   Outputs                                 3
+       D.   Investment and Financing Plans          6
+       E.   Implementation Arrangements             7
+III.   DUE DILIGENCE                                8
+       A.    Economic and Financial                 8
+       B.    Governance                             8
+       C.    Poverty and Social                     8
+       D.    Safeguards                             9
+       E.    Risks and Mitigating Measures         10
+IV.    ASSURANCES AND CONDITIONS                   10
+V.     RECOMMENDATION                              10
+APPENDIXES
+1.   Design and Monitoring Framework               11
+2.   List of Linked Documents                      14
+                                                PROJECT AT A GLANCE
+
+1. Project Name: Neighborhood Upgrading and Shelter Project -               2. Project Number: 46094-001
+Phase 2
+                                       4.
+3. Country: Indonesia                                                       Southeast Asia Department/Indonesia Resident Mission
+                                       Department/Division:
+5. Sector Classification:
+                                      Sectors                                          Primary    Subsectors
+                                       Multisector                                     √          Water supply and sanitation
+                                                                                                  Road transport
+                                                                                                  Urban sector development
+6. Thematic Classification:
+                                               Themes                               Primary       Subthemes
+                                               Environmental sustainability         √             Urban environmental improvement
+                                               Private sector development                         Promotion of private sector
+                                                                                                  investment
+                                               Capacity development                               Institutional development
+6a. Climate Change Impact                                                      6b. Gender Mainstreaming
+                No climate change indicator available.                          Gender equity theme (GEN)
+
+                                                                                Effective gender mainstreaming (EGM)         √
+
+                                                                                Some gender elements (SGE)
+
+                                                                                No gender elements (NGE)
+
+7. Targeting Classification:                                                   8. Location Impact:
+                                Targeted Intervention                              Urban                            High
+  General           Geographic                               Income
+                                        Millennium
+Intervention       dimensions of                            poverty at
+                                       development
+                     inclusive                              household
+                                           goals
+                      growth                                   level
+                                            √
+                                           MDG7
+9. Project Risk Categorization: Low
+10. Safeguards Categorization:
+                                                            Environment                                            B
+                                                            Involuntary resettlement                               B
+                                                            Indigenous peoples                                     C
+11. ADB Financing:
+                           Sovereign/Nonsovereign              Modality                 Source                 Amount ($ Million)
+                          Sovereign                          Project loan     Ordinary capital resources            74.4
+                          Total                                                                                     74.4
+
+12. Cofinancing:
+                                                     No Cofinancing available.
+13. Counterpart Financing:
+                               Source                                                                        Amount ($ Million)
+                               Beneficiaries                                                                6.0
+                               Government                                                                  21.6
+                                                    Total                                                  27.6
+14. Aid Effectiveness:
+                               Parallel project implementation unit                         No
+                               Program-based approach                                       No
+                                           I.      THE PROPOSAL
+
+1.     I submit for your approval the following report and recommendation on a proposed loan to
+the Republic of Indonesia for the Neighborhood Upgrading and Shelter Project (Phase 2).
+
+2.      The project will adopt a community-driven development (CDD) approach and provide direct
+support to slum communities in 20 cities to upgrade basic infrastructure and establish new housing
+sites. About 670,000 low-income families will benefit from improved access to social services and
+essential infrastructure.1
+
+                                            II.      THE PROJECT
+
+A.      Rationale
+
+3.      Indonesia is one of the fastest urbanizing countries in Asia. Currently, about half of the
+population (51%) lives in cities; this is projected to increase to 68% by 2025. Many of the growing
+cities are having difficulty coping with the rapid increase of in-migrants seeking new economic
+opportunities. They are forced to settle in disadvantaged neighborhoods due to limited financial
+resources, lack of affordable adequate housing, and/or failure to find well-paid jobs.2 In 2011, about
+12.5% of the urban population was forced to live in slum areas.3 The project will demonstrate an
+integrated approach to upgrade slum neighborhoods by (i) providing resources directly to
+disadvantaged communities to improve their living conditions; (ii) establishing new settlements for
+poor families; and (iii) as part of the capacity development component, assisting local
+administrations in managing pro-poor urban development including the development of multisector
+strategies to address urban poverty issues beyond infrastructure upgrading.
+
+4.     Better public infrastructure is considered vital to sustain inclusive economic growth and
+stimulate economic opportunities for the growing urban population. Yet infrastructure
+improvements have not kept up with the rapid urbanization; infrastructure investment has lagged
+economic development. Most infrastructure and public services in poor neighborhoods do not meet
+the needs of the increasing number of inhabitants. Environmental and social problems related to
+accessibility to adequate services for people’s daily needs are increasing due to widespread
+constraints in the provision of clean water; insufficient sanitation facilities; deteriorating roads,
+pathways, and drainage; ineffective flood control; lack of constant power supply; and poor solid
+waste management. Only about 40% of the urban population has access to safe water; about 28%
+does not have access to improved sanitation facilities. About 35% of urban areas lack proper
+drainage systems. To meet local needs the project will provide grants to slum communities for
+upgrading basic infrastructure including improving sanitation facilities and access to safe water.
+
+5.     Problems are aggravated by the absence of sound land use planning and land
+management regulations that are contributing to increased congestion and haphazard informal
+development. A multifaceted approach is required to address these challenges, including
+strengthening the capacity of city administrations to manage urban development in an
+environmentally and socially sustainable manner; modernizing land policies and permit regulations;
+expanding access to, and targeting of, housing finance and subsidies; increasing community
+involvement in spatial planning; and engaging the private sector in development planning. Rapid
+
+
+
+
+1
+  The design and monitoring framework is in Appendix 1.
+2
+  Overall poverty incidence in Indonesia fell to 12% in 2012; the national urban poverty rate was estimated at 9.1%.
+3
+  The official government publication, Report on the Achievement of the Millennium Development Goals in Indonesia
+  2011, states that 12.57% of the urban population was living in slums.
+2
+
+urbanization has triggered growing demand for housing; the availability of affordable housing in
+cities for low-income groups appears to be declining.4
+
+6.     The National Medium-Term Development Plan, 2010–2015 (RPJMN) identifies insufficient
+investment in infrastructure as one cause of poverty. Thus improving basic infrastructure is
+considered an effective catalyst to reduce poverty and close gaps in income inequality in
+disadvantaged urban neighborhoods. While Indonesia has generally made good progress in
+accelerating achievement of the Millennium Development Goals (MDGs), the MDG targets for
+achieving significant improvement in the lives of slum dwellers (MDG target 7D) and halving the
+proportion of urban households without sustainable access to safe drinking water and basic
+sanitation (MDG target 7C) need special attention. 5 The project, which aims to upgrade basic
+public infrastructure in slums, will contribute to meeting both MDG targets. To address issues of the
+rapid urbanization, the government launched the Cities without Slums Program6 and issued Law
+No. 1, 2011, Housing and Settlement Areas.7 To contribute to the Cities without Slums Program,
+the government requested the Asian Development Bank (ADB) to prepare and partly finance the
+Neighborhood Upgrading and Shelter Project (Phase 2) to help 20 cities improve basic
+infrastructure and living conditions in selected slums.8
+
+7.    The project builds on lessons from the government's foremost poverty reduction program, the
+National Program for Community Empowerment (PNPM Mandiri), which adopts a CDD approach
+and provides nationwide assistance for improving essential social services and basic infrastructure
+by providing block grants to poor communities.9 Addressing poverty issues and basic infrastructure
+needs through CDD is considered more effective, sustainable, and equitable than use of
+centralized arrangements, as communities become active partners in development. The CDD
+approach adopted under the PNPM gives communities control over planning decisions and
+investment resources, and focuses on community empowerment to improve basic infrastructure
+and service delivery. Community participatory planning and design of specific investments is a key
+feature. The community controls resources; hence funds are transferred directly to community-
+managed bank accounts. The community also manages project implementation supported by
+consultants and facilitators when required. The CDD process is designed to systematically mobilize
+the capacity of communities to prioritize their development needs, design activities, seek technical
+assistance, manage resources, and implement and sustain development actions. 10 Building on
+
+
+4
+   According to World Bank estimates published in the Indonesia Economic Quarterly Report (March 2013), 600,000–
+   900,000 housing units are required per year. The number increases as urbanization continues: 700,000–1,000,000
+   housing units are estimated to be needed per year during 2014–2021.
+5
+   The 2015 MDG target for the proportion of the urban population living in slums is 6%; in 2011, 12.6% of the urban
+   population lived in slums. The 2015 MDG target for the proportion of households with sustainable access to an
+   improved water source is 75.5%; in 2011, 40.5% of urban households had access to an improved water source, 72.5%
+   had access to basic sanitation. The proportion of households with access to safe water and basic sanitation in slum
+   areas is assumed to be much lower.
+6
+   The Cities without Slums Program is incorporated in the National Long-Term Development Plan, 2005–2025. It aims to
+   reduce slum areas in cities by 2025 by promoting concerted initiatives by the central and local governments, private
+   sector, and civil society.
+7
+   The law specifies the roles and responsibilities of central and local governments for providing housing and settlements,
+   including housing for the poor, and upgrading slum areas.
+8
+   Relevance of the project is discussed in the Sector Assessment (Summary): Urban Infrastructure (accessible from the
+   list of linked documents in Appendix 2).
+9
+   PNPM Mandiri was launched in 2007. The RPJM, 2010–2014 includes PNPM Mandiri as a development tool to
+   accelerate poverty alleviation with an indicative budget allocation of $6,754 million over 5 years.
+10
+   Encouraged by the success of the PNPM scheme, three ADB-financed infrastructure improvement projects were
+   aligned with the PNPM using the project loan modality and adopting a CDD approach: (i) ADB. 2008. Report and
+   Recommendation of the President to the Board of Directors: Proposed Loan to the Republic of Indonesia for the Rural
+   Infrastructure Support to the PNPM Mandiri Project. Manila; (ii) ADB. 2009. Report and Recommendation of the
+   President to the Board of Directors: Proposed Loan to the Republic of Indonesia for the Rural Infrastructure Support to
+   the PNPM Mandiri Project II. Manila; and (iii) ADB. 2011. Report and Recommendation of the President to the Board of
+   Directors: Proposed Loan and Administration of Technical Assistance Grant to the Republic of Indonesia for the Urban
+   Sanitation and Rural Infrastructure Support to the PNPM Mandiri Project. Manila.
+                                                                                                                       3
+
+lessons of the overall PNPM program and the latest ADB-financed CDD projects, the proposed
+ADB project will follow a similar CDD approach.11
+
+8.       The project builds on lessons from (i) the first Neighborhood Upgrading and Shelter Sector
+Project;12 (ii) the first and second Rural Infrastructure Support to the PNPM Mandiri Projects, and
+(iii) the ongoing Urban Sanitation and Rural Infrastructure Support to the PNPM Mandiri Project
+(footnote 10). The Ministry of Public Works (MPW) has been implementing the projects. Lessons
+incorporated into the project design include (i) involve beneficiaries in the planning and
+implementation of neighborhood upgrading, (ii) support development of strong political commitment
+to support pro-poor urban development, (iii) promote integrated development approaches and link
+upgrading investments of individual communities with overall city development planning, (iv)
+reduce the number of project cities and neighborhoods to lessen transaction costs in project
+management, (v) increase the investment amount per neighborhood to boost means for improving
+living conditions in slums, (vi) provide transparent fund flow and implementation mechanisms, and
+promote community control of decision-making over resources and investment choices; (vii)
+develop strong accountability procedures, such as public disclosure of budgets and contracts; and
+(viii) establish effective mechanisms for operation and maintenance (O&M) of infrastructure.13 The
+project is included in ADB’s country operations business plan, 2013–2014 for Indonesia and will
+contribute to achievement of the targets of the results framework of ADB’s country partnership
+strategy, 2012–2014 for Indonesia and ADB’s Strategy 2020.14 The country partnership strategy
+includes support for government efforts to achieve more inclusive growth by improving basic
+infrastructure for poor communities in selected cities. The project is aligned with ADB's Urban
+Operational Plan, 2012–2020 as it (i) provides support to urban shelter sector programs; (ii)
+contributes to upgrading of local infrastructure in the four core areas of water supply, sanitation,
+water management, and urban transport; and (iii) improves community services, employment
+opportunities, and livelihood development.15
+
+B.       Impact and Outcome
+
+9.     The impact of the project will be improved living conditions in urban areas. The outcome will
+be improved infrastructure and access to service delivery in slum neighborhoods in 20 cities.
+
+C.       Outputs
+
+10.    The project will have three outputs: (i) institutional capacity for managing pro-poor urban
+development strengthened; (ii) infrastructure in slum neighborhoods upgraded; and (iii) new
+settlements for poor families established.
+
+11
+   The project loan modality was applied as the project is limited to providing targeted support to improve basic
+   infrastructure in slum neighborhoods of 20 cities, adopts a CDD approach, and does not address overall policy issues
+   or legal and regulatory frameworks, which would require involving other line ministries and government agencies.
+12
+   ADB. 2003. Report and Recommendation of the President to the Board of Directors: Proposed Loans to the Republic
+   of Indonesia for the Neighborhood Upgrading and Shelter Sector Project. Manila. The project closed in December
+   2010 and is rated successful. ADB. 2011. Completion Report: Neighborhood Upgrading and Shelter Sector Project in
+   Indonesia. Manila.
+13
+   In addition to ADB, other development partners have had a long-standing engagement with Indonesia in infrastructure
+   development. In 1999, the WB started the financing of the Urban Poverty Project, which aimed at reducing urban
+   poverty by increasing income of the urban poor, empower urban communities and improve local government capacity
+   to assist the urban poor. The UPP has created momentum for addressing poverty issues and basic infrastructure
+   needs through CDD, which was further developed under the Government’s PNPM scheme. An overview on the
+   development cooperation related to urban infrastructure is accessible from the list of linked documents in Appendix 6.
+14
+   ADB. 2012. Country Operations Business Plan: Indonesia 2013-2014. Manila; ADB. 2012. Country Partnership
+   Strategy. Indonesia, 2012-2014. Manila; ADB. 2008. Strategy 2020: The Long-Term Strategic Framework of the Asian
+   Development Bank, 2008–2020. Manila.
+15
+   The project will contribute to inclusive development, planning, and governance through capacity building support
+   provided under output 1 and adoption of a CDD approach.
+4
+
+11.     Institutional capacity for managing pro-poor urban development strengthened. The
+project will provide capacity building assistance to local administrations in the project cities for
+(i) community-driven settlement upgrading and new site development (NSD); (ii) building
+community member awareness on sanitation and hygiene; (iii) project management; (iv) public–
+private partnerships for NSD, with special focus on the poor; and (v) O&M of upgraded facilities
+and NSD through community-based efforts. Within the first year of project implementation and with
+the help of consultants, each participating city will conduct a capacity assessment identifying
+challenges and capacity building needs to strengthen spatial planning and pro-poor urban
+development. Based on the results of the assessments, city administrations will prepare capacity
+building and training proposals, which will be consolidated by MPW’s Directorate General of
+Human Settlements (DGHS), the executing agency. DGHS will facilitate joint training and study
+programs, and other capacity building assistance for selected staff from the 20 local
+administrations. To address poverty issues beyond infrastructure upgrading, the project will
+support the preparation of multisector slum improvement action plans. The plans will represent an
+attempt to combine physical environmental improvements with other support mechanisms that will
+require collective efforts from entities beyond MPW.
+
+12.     Infrastructure in slum neighborhoods upgraded. About $60 million of the loan proceeds
+will be allocated for upgrading basic infrastructure in slum neighborhoods in 20 cities. Participating
+cities have been preliminarily selected based on the following criteria: (i) local governments have
+approved spatial plans (RTRWs) and development strategies (SPPIPs) that identify slum areas
+and provide guidance to improve slums; (ii) at least 5,000 households live in slum areas; (iii) at
+least 5% of households located in slum neighborhoods fall in the category of extreme poor;16 (iv)
+formal confirmation of the local government to participate in the project; and (v) confirmation that
+households without legal title to the land (informal dwellers) in the selected slum neighborhoods
+would be allowed to participate in and benefit from the project.17
+
+13.     To be selected to participate in the project, local governments of the project cities will sign a
+memorandum of agreement with DGHS validating their readiness and contributions, including (i)
+establishing a local coordination office (LCO) with experienced and committed staff; (ii) providing
+additional resources to finance complementary infrastructure works and to improve public services
+in slum areas; (iii) ensuring compliance to adopt a CDD approach to identify the specific type and
+mix of interventions to be financed by the project based on needs assessments carried out by the
+communities; and (iv) adjusting and/or revising spatial plans and development strategies based on
+feedback received during the consultation process with slum communities.
+
+14.     Project funds will be allocated for each city based on the number of slums: (i) cities with
+more than 100 slums will receive up to $4.5 million; (ii) cities with 50–100 slums will receive up to
+$3.5 million; and (iii) cities with less than 50 slums will receive up to $2.4 million. Funding for
+infrastructure upgrading investments provided to each slum will vary and depend on the actual
+situation and needs of the communities.
+
+15.     City administrations will identify the specific slum neighborhoods to be supported by the
+project based on a close consultation process with slum communities and agreed selection criteria.
+The final list of project slum neighborhoods will be confirmed by a bupati (mayor) decree and
+
+16
+     Households living on a monthly income of less than Rp2.2 million are considered extreme poor.
+17
+     During project preparation, 50 cities were considered eligible to participate in the project based on the precondition
+     criteria. During a thorough consultation process between DGHS and the candidate cities, which included field visits to
+     explain the project scope and CDD approach to the city administrations and community groups, 20 cities confirmed
+     their commitment to participate in the project. Based on lessons from earlier CDD infrastructure projects executed by
+     MPW, the formal commitment of the city administration to participate in and contribute to project implementation and
+     specify resources is considered crucial. The preliminary list of project cities includes Ambon, Batam, Bandar Lampung,
+     Banjarmasin, Bengkulu, Bima, Bone, Kapuas, Kendari, Makassar, Palangkaraya, Palembang, Palopo, Pasuruan,
+     Pekalongan, Semarang, Serang, Sukabumi, Tanjung Jabung Barat, Tanjung Balai.
+                                                                                                                             5
+
+submitted to ADB by DGHS for endorsement within 3 months after loan effectiveness. The process
+of engaging with slum communities will start with road shows in each project city to inform potential
+slum communities of the project scope and approach, and the selection criteria to be eligible for
+participation in the project. Selection criteria are based on socioeconomic indicators, and the
+readiness and commitment to participate in the project.18 Overall information on the project and the
+selection process will be publicly disclosed in each project city. Cities with more than 100 slum
+locations will nominate at least 20 slum neighborhoods, but not more than 35; cities with 50 to 100
+slum locations will nominate at least 15 slum neighborhoods, but not more than 20; and cities with
+less than 50 slum locations will nominate up to 15.
+
+16.    Each selected neighborhood will work through a community implementation organization
+(BKM). Supported by consultant teams, BKMs will facilitate infrastructure assessments for the slum
+neighborhoods, to be carried out by the community members, to assess basic infrastructure needs
+in the community; evaluate community implementation capacity; establish efficient planning and
+decision-making processes; formulate neighborhood upgrading plans (NUAPs) and specific
+subproject investment plans; prepare simple technical designs; organize works to be carried out by
+the community members; and formulate O&M plans of completed project facilities.
+
+17.      To achieve a wider development impact for cities and address infrastructure issues beyond
+the boundaries of individual slum neighborhoods, LCOs with the help of consultants will establish a
+consultation mechanism for project BKMs, and the city administration to formulate a consolidated
+infrastructure upgrading investment plan, which will integrate the individual NUAPs. In the process
+of preparing the overall infrastructure upgrading investment plan, BKMs, and the city administration
+will jointly evaluate NUAPs from each slum neighborhood, agree on collaboration to link upgrading
+activities between neighborhoods, concur on fund allocations per neighborhood within the overall
+investment amount for the respective project city, and revise individual NUAPs to be aligned with
+the agreed consolidated infrastructure upgrading investment plan for the project city. The
+consolidated city investment plans will be approved by DGHS and ADB and include the revised
+NUAPs with agreed investment amounts for each project slum neighborhood. The project will
+ensure that the consultation process is conducted in a transparent and fair manner. During this
+consultation process, BKMs, and city administrations will assess whether individual NUAPs are
+aligned with spatial plans and development strategies at the city level and agree on any necessary
+adjustments.
+
+18.    Based on the complexity of infrastructure upgrading plans, civil works will be carried out by
+the communities or by firms to be engaged by DGHS. Following the PNPM approach, funds for
+works implemented by communities will be based on contracts between the BKM, and city
+administration19 and transferred through block grants directly from the project imprest account to
+community bank account managed by the BKMs.20 Detailed guidance related to eligibility criteria
+and procedures to use grant funds will be explained in the guidelines (JUKLAK) and
+
+
+18
+   Selection criteria for the project neighborhoods include: (i) the neighborhood must be located in a participating city; (ii)
+   formal confirmation of the head of the neighborhood or BKM verifying (a) interest and willingness to participate in the
+   project, (b) contribution to the planning and implementation of upgrading activities, (c) willingness to establish required
+   O&M arrangements for facilities constructed by the project; and (iii) the neighborhood must be listed as a slum
+   neighborhood in the applicable city development plan.
+19
+   Contracts will specify payment modalities. Detailed information on the fund flow mechanism and implementation of
+   neighborhood upgrading plans is in the Project Administration Manual (accessible from the list of linked documents in
+   Appendix 2).
+20
+   No withdrawal from the imprest account will be made for civil works for output 2 until, among other things: (i) the
+   separate bank account for the BKM of the corresponding slum neighborhood has been opened, (ii) the consolidated
+   investment plan of the corresponding participating town, integrating the NUAPs of project slum neighborhoods has
+   been approved by ADB and DGHS, and (iii) a contract for the relevant subproject has been concluded between the
+   BKM for the relevant slum neighborhood and the city administration.
+6
+
+implementation manuals (JUKNIS) to be developed with the help of consultants and approved by
+DGHS at the beginning of the project.
+
+19.     New settlements for poor families established. A model of partnership for each NSD
+between the central government, local administrations, developers, and financial institutions to
+provide housing for poor people will be developed. The project will take a catalytic role to develop
+examples for replication and promote public–private alliances in five cities 21 whereby: (i) local
+governments will provide land from their own resources and issue land titles for potential new house
+owners (titles are required as collateral to receive loans from financial institutions); (ii) MPW will
+provide the basic infrastructure (roads, water and electricity supply, and sanitation facilities) financed
+by loan proceeds; (iii) private developers will prefinance the house construction, and coordinate
+connections to the main networks of service providers (water and electricity); (iv) financial institutions
+will provide loans to poor families to buy (or construct) new houses; (v) NGOs, in close cooperation
+with the local administration, will organize socialization campaigns to explain the NSD scheme to
+poor families living in slum neighborhoods of the project city, develop transparent criteria to select
+poor beneficiary families to be eligible to apply under the NSD scheme, and facilitate the selection
+process. To establish the basic infrastructure for new settlements, the project will provide about $5.0
+million to finance civil works. The legal title to the land of the NSD sites must be held in the name of
+the participating cities. Within 18 months after loan effectiveness, the project cities will present a full
+NSD proposal, which is endorsed by the bupati (mayor), to ADB and DGHS for review and approval.
+The proposal will include (i) proof of land ownership; (ii) detailed technical designs with cost
+estimates for infrastructure to be financed by the loan proceeds; (iii) basis for the selection of a local
+developer; (iv) proposed loan schemes, including commitments from financial institutions to provide
+loans to poor families under the NSD scheme; and (v) a transparent selection process to identify
+slum dwellers prepared to buy houses at the NSD site. DGHS will ensure that the houses
+constructed under the project will not be sold or resold within 10 years after completion. The
+proposed NSD sites will be vacant and ready for infrastructure development, and will not be subject
+to environmental threats.
+
+D.          Investment and Financing Plans
+
+20.         The project is estimated to cost $102.0 million (Table 1).
+
+                                            Table 1: Project Investment Plan
+                                                             ($ million)
+                                                                                                 a
+ Item                                                                                  Amount
+ A.          Base Cost
+                  Output 1: Institutional capacity strengthened                            5.0
+                  Output 2: Slum neighborhoods upgraded                                   76.4
+                  Output 3: New settlements developed                                     16.2
+                    Subtotal (A)                                                          97.6
+ B.          Contingencies                                                                 0.4
+                                                            a
+ C.          Financing Charges During Implementation                                       4.0
+                             Total (A+B+C)                                               102.0
+ a
+  Includes interest and commitment charges. Interest during construction for the ADB loan has been computed at the
+ 5-year forward London interbank offered rate plus a spread of 0.3%. Commitment charges for the ADB loan are
+ 0.15% per year to be charged on the undisbursed loan amount. Cost includes $1.56 for taxes and duties financed
+ by the government.
+ Source: Asian Development Bank estimates.
+
+21.    The government has requested a loan of $74.4 million from ADB’s ordinary capital
+resources to help finance the project. The loan will have an 18-year term, including a grace period
+
+21
+     The NSD cities will be part of the 20 project cities.
+                                                                                                                   7
+
+of 6 years; an interest rate determined in accordance with ADB’s London interbank offered rate
+(LIBOR)-based lending facility; a commitment charge of 0.15% per annum on any undisbursed
+amount of the loan; and such other terms and conditions set forth in the draft loan agreement. The
+financing plan is in Table 2.
+                                    Table 2: Financing Plan
+ Source                                                            Amount ($ million)        Share of Total (%)
+ Asian Development Bank (ordinary capital resources)                    74.4                        72.9
+ Government                                                             21.6                        21.2
+ Beneficiaries                                                            6.0                        5.9
+         Total                                                         102.0                       100.0
+Source: Asian Development Bank estimates.
+
+E.      Implementation Arrangements
+
+22.     The implementation arrangements are summarized in Table 3 and described in detail in the
+project administration manual (PAM). DGHS will be the executing agency. The project will be
+implemented from July 2014 to December 2017. In each project city, a local project management
+unit will be established with experienced and qualified staff to facilitate project implementation.
+Their tasks are described in detail in the PAM. All procurement financed under the ADB loan will be
+in accordance with ADB’s Procurement Guidelines (2013, as amended from time to time).
+Consultant services will be recruited in accordance with ADB’s Guidelines on the Use of
+Consultants (2013, as amended from time to time).
+
+                                 Table 3: Implementation Arrangements
+ Aspects                             Arrangements
+ Implementation period               July 2014–December 2017
+ Estimated project completion date   31 December 2017
+ Project management
+   (i) Oversight body                 Housing and Settlements Steering Committee
+                                      Members include BAPPENAS, MOF, MOHA, MPW, MPH, BPN, MOH
+   (ii) Executing agency              DGHS within MPW
+   (iii) Key implementing agencies DGHS and administrations of 20 city districts
+   (iv) Project implementation unit Project management unit, DGHS, MPW, 5 staff
+                                      City and district project management units in 20 participating cities and/or
+                                      districts, 3–5 staff in each unit
+ Block grants for basic               Community                    1,000 contracts                    $41.0 million
+ infrastructure upgrading             procurement
+ Complex infrastructure upgrading     Procurement through          70 contracts                        $24.0 million
+                                      DGHS
+ Consulting services                  2,297 person-months of national consultants                     $9.4 million
+ Retroactive financing and/or         Four management consultant packages will be procured using advance
+ advance contracting                  contracting, including the national project management consultant team
+                                      (estimated contract amount $6,623,000). The contract will be signed after the
+                                      loan is declared effective.
+ Disbursement                         ADB loan proceeds will be disbursed in accordance with ADB's Loan
+                                      Disbursement Handbook (2012, as amended from time to time) and detailed
+                                      arrangements agreed between the government and ADB.
+ ADB = Asian Development Bank, BAPPENAS = Badan Perencanaan dan Pembangunan Nasional (National
+ Development Planning Agency), BPN = Badan Pertanahan Nasional (National Land Agency), DGHS = Directorate
+ General of Human Settlements, MOF = Ministry of Finance, MOH = Ministry of Health, MOHA = Ministry of Home
+ Affairs, MPH = Ministry of Public Housing, MPW = Ministry of Public Works.
+ Source: Asian Development Bank.
+8
+
+                                              III.     DUE DILIGENCE
+
+A.         Economic and Financial
+
+23.     About 670,000 low-income households are expected to benefit from the project. The
+expected economic benefits are significant and include (i) improved public health status and
+reduced per capita costs for health care and medical treatment due to increased coverage of
+sanitation services, improved access to safe drinking water, and improved hygiene particularly in
+densely populated neighborhoods; (ii) increased income-generating opportunities through
+improving essential infrastructure; and (iii) considerable short-term employment generation.
+Improving the overall living environments of poor urban neighborhoods where people are engaged
+in informal economic activities will enhance income-earning opportunities of small home industries,
+particularly related to food processing, handicraft, batik, and small repair services. Upgrading roads
+and pathways, and improving water and power supply will improve the overall business conditions
+for informal entrepreneurs (including food-stall owners, small restaurants, repair shops). Improved
+roads will also provide easier and safer access for residents to reach their places of work.
+Transportation costs in general will be reduced to improve access to local markets to deliver goods
+and services and buy products, and to schools and health centers. Improving drainage systems will
+contribute to reducing damage and losses due to flooding.22
+
+B.         Governance
+
+24.     The project will adopt a CDD approach, which is a key feature of instituting good
+governance practices. It will strengthen the ability of communities to articulate their needs and to
+seek support for development plans; it will improve the ability of district governments to respond to
+the demands of poor communities. Evaluations of CDD infrastructure projects suggest that
+community choices are more attuned to local needs; sustainable O&M is more likely as
+infrastructure projects chosen by the community members have a direct benefit. Participation in
+planning and implementing infrastructure projects yields better oversight and less corruption, and
+communities become active partners in development. The project will ensure transparency to
+enable the community to know every aspect of the project decision-making process. Management
+of funds will be transparent and shared with the entire community. ADB’s Anticorruption Policy
+(1998, as amended to date) was explained to and discussed with the government. Within 3 months
+of loan effectiveness, DGHS will establish a project-specific website for public disclosure on use of
+the loan proceeds, including details of procurement and contract awards.
+
+C.         Poverty and Social
+
+25.     The project will target poor communities in slum areas that lack basic services and
+infrastructure. The selected neighborhoods will have higher than average poverty rates and lower
+than average achievement of the MDGs. Improvements of basic infrastructure will increase
+income-earning opportunities and accessibility to education and health services for the poor and
+near poor. Improved sanitation and cleaner environments resulting from project activities will
+reduce diseases linked to unsafe water and poor hygiene, thus contributing to improving the overall
+health status of the poor.23 The project will address the key gender issues, including (i) limited
+participation and leadership of women in local decision-making processes related to community
+infrastructure investments; (ii) insufficient access of women to employment opportunities in local
+civil and maintenance works; and (iii) inadequate opportunities for female government staff to
+access technical training opportunities. The project’s gender action plan includes (i) developing
+slum improvement action plans based on the needs of women and men for public facilities;
+(ii) ensuring women comprise 40% of participants in decision-making activities and 20% of BKM
+22
+     Economic and Financial Analysis (accessible from the list of linked documents in Appendix 2).
+23
+     Summary Poverty Reduction and Social Strategy (accessible from the list of linked documents in Appendix 2).
+                                                                                                                           9
+
+members, in aggregate; (iii) undertaking gender audits of all community investment plans; (iv)
+providing 20% of paid work created by the project to women; (v) ensuring women comprise 30% of
+trainees in all project capacity development activities and 30% of user group members; (vi)
+providing gender training to all key project stakeholders; and (vii) developing and using gender
+indicators to track implementation of the gender action plan and project outcomes for women.24
+
+D.       Safeguards
+
+26.      Land acquisition and resettlement. The project will not include physical displacement;
+less than 10% of productive assets will be lost as a result of involuntary land acquisition. In the
+context of specific neighborhood upgrading activities, i.e., construction of public sanitation facilities,
+small amounts of land may be acquired from community members or donated voluntarily.25 The
+legal title of the land for NSD will be in the name of the project city; the land will be vacant and
+ready for implementation. As the scope of land acquisition is expected to be insignificant with no
+expected resettlement, the project is classified as category B for involuntary resettlement. Since
+communities will be identifying specific interventions during project implementation, potential
+issues related to land acquisition can be identified only after the type of infrastructure upgrading
+and the specific location are agreed on. A resettlement framework was prepared to provide
+guidance to communities on managing land acquisition.26 The NUAPs will record the potential for
+land acquisition.
+
+27.      Environment. Overall, the infrastructure upgrading activities are expected to create
+positive impacts on the environment and improve the livelihoods at slum communities. The project
+is categorized as environment category B. Since it will use a CDD approach, communities will
+identify the specific project locations and types of infrastructure interventions during the first year of
+implementation. An environmental assessment and review framework was prepared to guide the
+environmental assessment process to screen specific infrastructure interventions and set up
+institutional arrangements in relation to environmental management and monitoring. Safeguard
+specialists and trained community advisors, in close collaboration with the communities, will
+conduct assessments in each project neighborhood in the process of preparing the NUAPs. 27 The
+NUAPs will record results of the environmental screening process. For the NSD under output 3,
+initial environmental examinations will be prepared at each site after the project city has formally
+confirmed its readiness to participate in the NSD component and designated the land for the
+project. The report will be part of the NSD proposals to be approved by DGHS and ADB. NSD
+proposals without an initial environmental examination report will not be endorsed.
+
+28.     Indigenous peoples. The project is not expected to have any negative impacts on
+indigenous peoples. It will not discriminate against them or other marginalized groups. Following
+CDD principles, the project will include opportunities for screening project impacts on indigenous
+groups and incorporating mitigation measures, if any, into the consolidated city investment plans.
+In accordance with ADB's Safeguard Policy Statement (2009), the project is classified category C
+for indigenous peoples.28
+
+
+24
+   Gender Action Plan (accessible from the list of linked documents in Appendix 2).
+25
+   Community members will pay for land from their own resources; loan proceeds will not be used.
+26
+   Safeguard specialists will direct and supervise implementation of land acquisition by BKMs, and LCOs based on the
+   resettlement framework, which has been disclosed (accessible from the list of linked documents in Appendix 2).
+27
+   National and regional consultant teams will include environmental safeguard experts, who will guide communities and
+   LCO to carry out environmental screening and supervise the process. The environmental assessment and review
+   framework has been disclosed (accessible from the list of linked documents in Appendix 2).
+28
+   Indigenous people and other vulnerable groups will be part of the capacity-building, planning, implementation, and
+   post-implementation processes; minority and marginalized groups will be represented on BKMs; and indigenous
+   groups will benefit from easier access to service delivery, rural infrastructure, training, and construction-related jobs.
+10
+
+29.     Operation and maintenance. To ensure sustainability of infrastructure investments, DGHS
+will ensure that O&M arrangements are well reflected in the NUAPs. The O&M of facilities
+upgraded under output 2 will be managed through a community participatory approach, involving
+the local BKM and beneficiary communities. In the preparation of the NUAPs, consultant teams will
+guide communities and LCOs to understand the need for O&M provisions and ensure that
+appropriate technical and financial measures for O&M are included. BKMs, supervised by the city
+administrations, will handle O&M of new sites under output 3.
+
+E.         Risks and Mitigating Measures
+
+30.     In the past, some CDD programs have bypassed local government planning procedures.
+The project will mitigate this risk by facilitating a consultation process between BKMs and the city
+administrations to jointly formulate consolidated investment plans and ensure that NUAPs are
+aligned with spatial plans and development strategies. For the NSD, a potential risk involves
+successfully engaging with private stakeholders to establish new housing sites for poor families.
+This risk will be mitigated through targeted awareness campaigns to illustrate the mutual benefits
+for all stakeholders. Project consultants will be engaged to facilitate dialog among developers,
+financial institutions, local administrations, and community members. Previous CDD projects
+indicate a risk of “elite capture”—where wealthy and/or articulate, educated community members
+dominate decision-making processes. This risk will be mitigated by (i) using transparent processes
+in conducting needs assessments and preparing NUAPs; (ii) working through BKMs with elected
+representative from the neighborhoods; and (iii) publicly displaying decision-making processes,
+tender documents, fund transfers, and progress of civil works. Experienced consultant teams will
+support communities in preparing technical designs and implementing civil works to ensure high
+quality of infrastructure and effective O&M arrangements. DGHS will set up units to handle
+complaints at each project city that will review and address grievances from stakeholders.29
+
+                                   IV.     ASSURANCES AND CONDITIONS
+
+31.    The government has assured ADB that implementation of the project shall conform to all
+applicable ADB policies including those concerning anticorruption measures, safeguards, gender,
+procurement, consulting services, and disbursement as described in detail in the project
+administration manual and loan documents. The government has agreed with ADB on certain
+covenants for the project, which are set forth in the loan agreement.
+
+                                           V.       RECOMMENDATION
+
+32.    I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve the loan of $74,400,000
+to the Republic of Indonesia for the Neighborhood Upgrading and Shelter Project (Phase 2), from
+ADB’s ordinary capital resources, with interest to be determined in accordance with ADB’s London
+interbank offered rate (LIBOR)-based lending facility; for a term of 18 years, including a grace
+period of 6 years; and such other terms and conditions as are substantially in accordance with
+those set forth in the draft loan agreement presented to the Board.
+
+
+                                                                               Takehiko Nakao
+                                                                               President
+
+7 March 2014
+
+
+29
+     Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                                       Appendix 1        11
+
+
+                                     DESIGN AND MONITORING FRAMEWORK
+                                  Performance Targets and                Data Sources and
+Design Summary                   Indicators with Baselines             Reporting Mechanisms       Assumptions and Risks
+Impact                                                                                           Assumption
+Improved living                By 2020, in line with the MDG          Central Bureau of          National and local budget
+conditions in urban            target 7D: The proportion of           Statistics (Biro Pusat     funds are adequate and
+areas                          urban population living in             Statistik)                 provided in a timely
+                               slums of the 20 project cities is      MDG progress reports       manner.
+                               reduced to at least 6%                                            Central and local
+                                                         1
+                               Baseline (2011): 12.26%                                           governments continue to
+                                                                                                 prioritize reduction of
+                                                                                                 slums.
+
+
+
+Outcome                                                                                          Assumptions
+Improved infrastructure        By 2017:                              PPMS reports                National and local
+and access to service          At least 670,000 households           Consultant reports          governments continue to
+delivery in slum               living in slum neighborhoods                                      support community-driven
+neighborhoods in 20            benefit from the infrastructure       District and city           development.
+project cities                 upgrading.                            administration evaluation
+                                                                     reports                     Risk
+                               At least 50% of community                                         Natural disasters will
+                               members in project locations,                                     impact the project areas.
+                               of which half are women, are
+                               satisfied with improvements in
+                               roads, provision of drinking
+                               water, sanitation facilities, and
+                               other basic urban
+                               infrastructure (perception
+                               survey to be conducted by
+                               2017)
+Outputs                                                                                          Assumption
+1. Institutional               Local government officials            PPMS reports                Participating local
+   capacities for              involved in developing and/or         Consultant reports          governments continue to
+   managing pro-poor           revising integrated urban                                         be committed to pro-poor
+   urban development           development plans and SIAPs           District and city           spatial planning.
+   are strengthened            adopt community-driven                administration evaluation
+                               development approaches by             reports                     Risk
+                               2017.                                 Feedback from               Informal leaders dominate
+                                                                     communities (survey)        the decision-making
+                                                                                                 process during preparation
+                               At least 100 local government                                     of slum upgrading and
+                               staff (30% women) dealing                                         community investment
+                               with spatial planning trained on                                  plans.
+                               CDD approaches adopted in
+                               urban development; and
+                               environmental subjects related
+                               to water treatment, sanitation,
+                               solid waste management,
+                               project management, O&M,
+                               and other areas identified in
+                               the capacity needs
+                               assessments
+2. Infrastructure in           Individual NUAPs of project           PPMS reports                Assumption
+   slum neighborhoods          neighborhoods integrated in           Consultant reports          Community members
+   upgraded                    consolidated city infrastructure                                  have enough resources to
+                               upgrading investment plans            District and city           carry out simple civil works
+                               and harmonized with approved          administration evaluation
+
+1
+    The baseline will be updated in 2014 after the project slum neighborhoods are confirmed.
+12      Appendix 1
+
+
+                            Performance Targets and             Data Sources and
+Design Summary             Indicators with Baselines          Reporting Mechanisms         Assumptions and Risks
+                         spatial plans and development      reports                       and/or construction.
+                         strategies                         Feedback from
+                         Community implementation           communities (survey)
+                         organizations (BKMs) in all
+                         project neighborhoods
+                         functioning with 40%
+                         representation of women
+                         involved in the decision-
+                         making processes
+                         1,500 km of neighborhood
+                         roads upgraded
+                         134,000 households benefit
+                         from upgraded water supply
+                         facilities and systems
+                         268,000 households benefit
+                         from upgraded sanitation
+                         facilities and systems
+                         At least 80% of infrastructure
+                         works evaluated as being in
+                         accordance with the national
+                         standard and have functioning
+                         O&M arrangements
+3. New settlements for   New housing areas for poor         PPMS reports                  Risk
+   poor families         families constructed in at least   Consultant reports            Engagement with private
+   established           five cities                                                      stakeholders to establish
+                         PPP schemes to finance and         MOUs and agreements           new housing sites for poor
+                         construct new housing areas        between developers,           families is not successful.
+                         for poor families are              financial institutions, and
+                         established in at least five       city administrations;
+                         cities                             contracts with low-income
+                                                            families
+                         At least 800 poor families         District and city
+                         (priority to households headed     administration evaluation
+                         by women) living in slums are      reports
+                         provided with affordable
+                         houses in new housing areas.
+
+                         Housing deeds provided in the
+                         name of husband and wife,
+                         and in the name of the woman
+                         for households headed by
+                         women
+.
+Activities with Milestones                                               Inputs
+1. Institutional capacity for managing pro-poor urban development        Loan
+strengthened                                                             ADB: $74.4 million (ordinary capital
+1.1 Recruit consultant teams to support DGHS and local community         resources)
+      governments in preparing and implementing project activities                                      Amount
+      (starting Q3 2014)                                                 Item                          ($ million)
+1.2 Identify training needs for local government staff (starting Q4       Infrastructure                  60.0
+      2014)                                                              NSD                               5.0
+1.3 Select local government staff to be trained on pro-poor spatial       Support for institutional
+      planning and/or CDD approach (starting Q1 2015)                     development                      1.9
+1.4 Implement training for local government staff dealing with spatial    Consulting services              7.5
+      planning (starting Q2 2015)
+                                                                         Government: $21.6 million
+                                                                                           Appendix 1         13
+
+
+Activities with Milestones                                           Inputs
+1.5 Conduct workshops to develop the national housing and            Land                               5.0
+     settlement network (starting Q1 2015)                           Infrastructure
+1.6 Establish a national housing and settlement network with         improvements                       5.9
+     members from at least 20 cities (Q2 2015)                       Institutional development          1.0
+                                                                     Project management,
+2. Infrastructure investment plans for upgrading slum                monitoring, and
+neighborhoods aligned with overall city development plans and        supervision                         3.7
+implemented in 20 cities                                             Tax and duties                      1.6
+2.1 Socialization of the project scope in all project neighborhoods  Contingency                         0.4
+      (starting Q3 2014)                                             Financing charges during
+2.2 Help project neighborhoods to identify needs and to prepare      implementation                      4.0
+      NUAPs (starting in Q3 2014)                                    Private Sector and Community
+2.3 Integrate NUAPs into consolidated infrastructure upgrading       Contribution: $6.0 million
+      investment plans for each project city (starting Q4 2014)      Infrastructure and/or in-kind       2.0
+2.4 Bupatis (mayors) approve consolidated infrastructure upgrading
+                                                                     Houses (at NSD)                     4.0
+      investment plans (Q4 2014–Q1 2015)
+2.5 Establish user groups in 300 neighborhoods (starting Q1 2015)
+2.6 Award civil work contracts for neighborhood upgrading (starting
+      Q1 2015)
+3. New settlements for poor families established
+3.1 Approve selection criteria for potential beneficiaries (Q4 2014)
+3.2 Complete MOUs between local governments and financial
+      institutions and developers to finance and construct NSDs
+      (Q2 2015)
+3.3 DGHS selects contractors to construct infrastructure at NSDs
+      (starting Q3 2015)
+3.4 Construct infrastructure at NSDs (starting Q4 2015)
+3.5 Construct houses at NSDs (starting Q1 2016)
+3.6 Complete final selection of beneficiaries (Q3 2015)
+3.7 Beneficiaries and banks sign loan agreements (Q2 2016)
+3.8 Develop strategies to share partnership models for NSDs with
+      other local governments (in Q4 2016)
+ADB = Asian Development Bank, BKM = Badan Keswadayaan Masyarakat (Community Empowerment Agency),
+BPS = Biro Pusat Statistik (Central Statistics Bureau), CDD = community-driven development, km = kilometer, MDG
+= Millennium Development Goal, MOU = memorandum of understanding, NSD = new site development, NUAP =
+neighborhood upgrading action plan, OCR = ordinary capital resources, O&M =operation and maintenance, PPMS =
+project performance monitoring system, PPP = public–private partnership, SIAP = slum improvement action plan.
+Source: Asian Development Bank estimates.
+14    Appendix 2
+
+
+
+
+                              LIST OF LINKED DOCUMENTS
+                   http://www.adb.org/Documents/RRPs/?id=46094-001-3
+
+
+1.    Loan Agreement
+2.    Sector Assessment (Summary): Urban Infrastructure
+3.    Project Administration Manual
+4.    Contribution to the ADB Results Framework
+5.    Development Coordination
+6.    Economic and Financial Analysis
+7.    Country Economic Indicators
+8.    Summary Poverty Reduction and Social Strategy
+9.    Gender Action Plan
+10.   Environmental Assessment and Review Framework
+11.   Resettlement Framework
+12.   Risk Assessment and Risk Management Plan
+

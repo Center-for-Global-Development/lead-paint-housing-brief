@@ -1,0 +1,506 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                Project Information Document (PID)
+
+
+Public Disclosure Authorized
+                                               Appraisal Stage | Date Prepared/Updated: 18-Feb-2025 | Report No: PIDIA00822
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Region                     Operation ID              Operation Name
+                                                                                    Financial Inclusion for
+Western and Central Africa                                P181251                   Households and MSMEs in
+                                                                                    the WAEMU
+Financing Instrument           Estimated Appraisal Date   Estimated Approval Date   Practice Area (Lead)
+Investment Project                                                                  Finance, Competitiveness
+                               24-Feb-2025                18-Apr-2025
+Financing (IPF)                                                                     and Innovation
+Borrower(s)                    Implementing Agency
+West African Development       West African Development
+Bank/ Banque Ouest             Bank/ Banque Ouest
+Africaine de                   Africaine de
+Développement (BOAD)           Développement (BOAD)
+
+Proposed Development Objective(s)
+To increase financial inclusion for households and MSMEs in the WAEMU region
+
+Components
+Component 1: Access to Finance by MSMEs
+Component 2: Housing Finance
+Component 3: Technical Assistance
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                 Yes
+Is this project Private Capital Enabling (PCE)?           Yes
+
+SUMMARY
+  Total Operation Cost                                                                                550.00
+
+  Total Financing                                                                                     550.00
+             of which IBRD/IDA                                                                        220.00
+
+
+
+                                                                                                          Page 1
+      The World Bank
+      Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+
+   Financing Gap                                                                                                    0.00
+
+ DETAILS
+   World Bank Group Financing
+     International Development Association (IDA)                                                                 220.00
+       IDA Credit                                                                                                220.00
+   Non-World Bank Group Financing
+     Commercial Financing                                                                                        330.00
+       Unguaranteed Commercial Financing                                                                         330.00
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@envsocriskdecision#doctemplate
+Environmental And Social Risk Classification
+Moderate
+
+
+ Decision
+ The review did authorize the team to appraise and negotiate
+
+
+
+
+Other Decision (as needed)
+
+B. Introduction and Context
+
+Country Context
+
+   1. Achieving the vision of ending extreme poverty and boosting shared prosperity in West and Central Africa is
+      predicated on greater financial inclusion, that is ensuring that individuals and businesses have access to useful
+      and affordable financial products and services that meet their needs delivered in a responsible and sustainable
+      way. By providing access to financial services, individuals and businesses in the region can improve their income-
+      generating activities, manage risks, and reduce their vulnerability to shocks, thereby helping to alleviate poverty.
+      Access to financial services empowers individuals, particularly women and marginalized groups, by giving them
+      the tools to manage their finances, invest in education and health, and improve their overall quality of life. For
+      small and young firms, access to finance enables innovation, job creation, and growth; and this is particularly
+      important for firms facing greater constraints. Additionally, by providing access to affordable housing finance, the
+      region can improve access to affordable housing which is vital for reducing inequality, preventing overcrowding
+      and informal settlements, and fostering sustainable urban growth. Affordable housing development can stimulate
+      economies through creating jobs in contribution and related industries, and as part of integrated housing
+
+                                                                                                                      Page 2
+          The World Bank
+          Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+           development, can reduce strains on urban infrastructure and promote more sustainable water, sanitation and
+           transport services.
+
+       2. The proposed US$ 220 million WAEMU Financial Inclusion for MSMEs and Households Project is an innovative
+          World Bank engagement with the West Africa Development Bank (BOAD) to address the very low levels of
+          financial inclusion—for both households and micro, small, and medium enterprises (MSMEs)—in the WAEMU
+          region, home to 140 million people in eight countries. It will promote access to finance for MSMEs, and to long
+          term housing finance for lower income households in the subregion. This proposed World Bank engagement will
+          work in synergy with MIGA’s recently approved guarantee for private loans to BOAD, and IFC’s ongoing and future
+          cooperation with BOAD. The Project is expected to generate approximately US$330 million in private capital
+          mobilization (PCM), and to directly benefit approximately 16,000 households through affordable housing
+          (estimated 80,000 household members) and 11,400 businesses and create 68,300 direct jobs. This does not
+          include the indirect impact on jobs creation (such as through the MSME suppliers) as well as the impacts in terms
+          of added liquidity for housing and MSME loans. The Project will support firm resilience in the face of climate
+          change, promote green transition, and support household resilience by prioritizing green investments for MSMEs
+          lending and green building standards for housing finance. The project will help close the gender gap in access to
+          finance for MSMEs and housing loans. The Project will promote regional integration through further developing
+          the single WAEMU capital market, making longer term capital available for private investments, working with
+          commercial pan-African banks present in multiple WAEMU countries, and promoting intra-regional learning and
+          demonstration through sharing and dissemination of successful models.
+       3. The WAEMU (West Africa Economic and Monetary Union) is a customs union and a currency union, consisting
+          of eight member countries, which aims to promote economic integration beyond the existing monetary
+          integration1. WAEMU countries implement independent fiscal policies but have a common Central Bank (the
+          BCEAO- Banque Centrale des Etats de l’Afrique de l’Ouest) and a single monetary policy, which makes a strong
+          argument for fiscal-monetary policy coordination. Recent geopolitical events, rising inflation, alongside tightening
+          monetary policy and continued large public financing needs, have accentuated the macro- stability risks. Inflation
+          had historically been low across the region due to the currency peg to the euro, but since 2021, it has increased
+          steadily and has been above the upper limit of the Central Bank’s target range of 3%. Fiscal deficits have been
+          constantly above the targeted levels, due to a combination of external shocks and increasing security concerns in
+          some countries.
+
+    Sectoral and Institutional Context
+WAEMU Financial System Overview
+       4. The WAEMU financial system is dominated by banks, which had total assets of FCFA 64 trillion (about US$ 100
+          billion)—or 58 percent of regional GDP—at end-2022. The banking sector accounts for around 72 percent of the
+          financial system (based on 2020 data), while other financial institutions (microfinance, insurance, and pension
+          funds, as well as securities custodians) account for around 28 percent of the financial system’s assets. Of the 155
+          credit institutions operating in the WAEMU at end-2022, 132 were banks. Their assets’ geographic concentration
+          is broadly in line with that of economic activity, with over half held by credit institutions in the WAEMU two largest
+          economies, Côte d’Ivoire and Senegal (34 percent and 19 percent, respectively). Regional banking groups (34)
+          have emerged as key players, holding nearly 85 percent of banking sector assets. The other players are smaller
+
+1
+    The WAEMU Member Countries are Benin, Burkina Faso Cote d’Ivoire, Guinea Bissau, Mali, Niger, Senegal, and Togo.
+
+                                                                                                                            Page 3
+         The World Bank
+         Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+          unaffiliated domestic private and public banks, accounting for four-fifths and one-fifth of banks’ capital
+          respectively. The 13 banks which are majority publicly owned (with public ownership over 50 percent of total
+          capital), hold 10 percent of banking assets and 13 percent of banking capital in the WAEMU.
+Access to Finance for MSMEs
+      5. Access to financing continues to be a significant hurdle for private sector development in WAEMU, with the
+         financial sector failing to adequately support businesses, in particular micro, small and medium enterprises
+         (MSMEs) which represent between 80 percent and 95 percent of companies identified in the region. Bank credit
+         growth to the private sector was robust in recent years but slowed to 10.3 percent in 2023, down from 14.2
+         percent in 2022. This lending growth outpaced economic growth, reflecting a need for financial deepening.
+         However, the rapid increase in lending poses potential credit risks due to weak economic diversification,
+         information asymmetries regarding borrowers, and structural challenges in the business environment. Only 24.4
+         percent of companies in the region have a loan or a line of credit, with formal borrowing rates notably low across
+         countries, ranging from 10 percent in Burkina Faso to 2.8 percent in Côte d'Ivoire. Although banks are the principal
+         source of finance for MSMEs, only 16 percent of bank lending goes to small enterprises, compared to 35 percent
+         in Morocco for instance. This situation is compounded by high rates of informal borrowing, underscoring a reliance
+         on informal financial networks that is higher than in the East African and non-WAEMU West African region.
+      6. Financial inclusion in the WAEMU has made significant strides yet still falls short of the Sub-Saharan African
+         average and could be accelerated with the expansion of digital financial services. Currently, 43% of adults have
+         access to a transaction account, up from just 8% a decade ago, though this remains below the regional average of
+         55%. Key improvements have been seen in countries like Benin, Senegal, and Togo, driven by efforts from the
+         BCEAO to support nonbank financial services, including mobile money and microfinance institutions. Since the
+         2015 mobile-money reform, the use of digital financial services has grown, with 33% of the adult population now
+         engaged in electronic transactions. The establishment of a strong regulatory framework for electronic money has
+         fostered the growth of e-money accounts and retail adoption of digital payments, particularly in countries like
+         Senegal, Mali, and Côte d'Ivoire. However, the full potential of digital payments is hindered by challenges such as
+         lack of regional interoperability, limited instant payment options, high transaction costs, and inadequate digital
+         skills. To truly accelerate financial inclusion, expanding digital financial services, improving payment systems, and
+         addressing these barriers are essential.
+      7. In the WAEMU region, the loan market is heavily skewed toward short-term lending, with businesses, including
+         SMEs, facing limited access to longer-term financing. In 2022, the average loan maturity in the region was
+         estimated at just 2 years and 9 months, a decline from 3 years in 2021. The breakdown of loan maturities in 2022
+         was as follows: 75.2% of loans were short-term (less than 2 years), 10.2% were medium-term (between 2 and 10
+         years), and only 14.6% were long-term (over 10 years)2. This structure reflects a market where the majority of
+         lending is concentrated in shorter-term products, leaving a gap in the availability of financing for long-term
+         investments to sustain economic growth. Many businesses, especially SMEs, require longer loan terms to finance
+         capital-intensive projects such as infrastructure, equipment, and expansion plans, but the supply of such financing
+         remains limited. The dominance of short-term loans can be attributed to several factors, including high perceived
+         risk by lenders, limited access to long-term funding sources, and a lack of well-developed capital markets. As a
+         result, businesses are often forced to rely on frequent refinancing, which can be costly and restrictive for long-
+         term growth. Addressing this mismatch between loan maturity and business needs is crucial to fostering economic
+         development in the region and unlocking the potential for sustained economic growth.
+Affordable Housing
+
+2
+    BCEAO – Report on Deposit and Lending Rates in WAEMU - 2022
+
+                                                                                                                         Page 4
+         The World Bank
+         Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+      8. The housing deficit in the West African Economic and Monetary Union (WAEMU) region is a significant
+         challenge, exacerbated by rapid urbanization and population growth. The region faces a shortage of
+         approximately 3.5 million housing units. To address this deficit, an estimated 800,000 new housing units need to
+         be constructed annually just to cover the current needs. However, the current supply falls drastically short, with
+         WAEMU banks issuing only about 15,000 new mortgages each year. This shortfall is particularly acute for low- and
+         middle-income households, which struggle to access affordable housing due to high costs and limited financing
+         options. The situation is further complicated by the high growth rates of urbanization, which exceed 3.5%
+         annually, leading to increased land prices and the proliferation of informal settlements.
+
+      9. The housing finance market in the WAEMU has seen gradual development over recent years, driven by efforts
+         to expand access to affordable housing and long-term financing availability for banks and microfinance
+         institutions, thanks to the Caisse Régionale de Refinancement Hypothécaire de l'UEMOA (CRRH-UEMOA), the
+         regional mortgage refinancing company, which has eased liquidity constraints faced previously by local banks,
+         allowing them to offer cheaper and longer housing loans. The number of commercial banks across the region
+         exceeds 100, with most of them offering mortgage products. Mortgage interest rates in WAEMU typically range
+         from 6 percent to 9 percent and have remained fairly stable in the past 2 years despite the rise in inflation.
+         Additionally, urbanization and growing low and middle-class demands are prompting many governments in
+         WAEMU to tackle the severe housing deficit and explore ways to boost housing availability and affordability.
+         However, the market is still underdeveloped, with a mortgage to GDP ratio of only 1%, compared to an average
+         of 20% in the rest of the world.
+
+    C. Proposed Development Objective
+
+
+    Development Objective(s) (From PAD)
+    To increase financial inclusion for households and MSMEs in the WAEMU region
+
+
+    Key Results
+     10. This project is expected to help a total of 27,400 people and businesses with access to finance, leveraging US $330
+         million of private capital mobilization. The achievement of the PDO will contribute to the World Bank Scorecard
+         Corporate Results Indicators “People and businesses using financial services, including the number of women”
+         and “Private Capital Mobilization”. In addition, as the project supports the Participating Financial Institutions to
+         leverage digital technology to increase their outreach to lower-income and financially excluded groups, it also
+         contributes to one more World Bank Scorecard Outcome Indicator “People using digitally enabled services”3. The
+         PDO will be monitored and reported through the following standard Scorecard sub-indicators and custom
+         indicators4:
+
+
+
+3
+  Relevant digitally enabled PDO Indicators will be tagged to Digital Services Outcome in Operations Workspace, hence no other specific PDO-level
+indicators are required for measuring Digital Services. This project is also aligned with the World Bank Global Challenge Program “Accelerating
+Digitalization” launched in October 2024.
+4
+  The new WB Scorecard was launched in June 2024 to enable development outcomes to be monitored more effectively as the WBG works toward
+its goal of eliminating poverty on a livable planet. The Scorecard Indicator “People and businesses using financial services, including the number of
+women” aims to measure the results of operations in a standardized way across various types of financial inclusion interventions by the WBG. In
+this project, the “usage of financial services” refers to the use of loans by beneficiary MSMEs for their business growth, and climate actions; and the
+use of loans by households for housing ownership.
+
+                                                                                                                                                  Page 5
+      The World Bank
+      Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+               •   Number of businesses using debt financing (i.e., Number of MSMEs provided with a loan from the
+                   BOAD Line of Credit)
+                       • Number of women-led businesses using debt financing (i.e., Number of women-led MSMEs
+                            provided with a loan)
+                       • Number of businesses using debt financing for green investments
+               •   Number of people using debt financing (i.e., Number of eligible households provided with a mortgage
+                   loan refinanced by the CRRH-UEMOA)
+                       • Number of people using debt financing for green home ownership
+                       • Number of women using debt financing (i.e., Number of women as sole or joint borrower
+                            provided with a mortgage loan)
+               •   Private Capital Mobilized (i.e., co-financing amounts by Participating Financial Institutions, and bond
+                   issuance through capital markets)
+
+D. Project Description
+
+Component 1: Access to finance by MSMEs
+   11. This component will be implemented by the BOAD with which the World Bank already has extensive experience
+       through the regional US$155 million affordable Housing Finance Project (P161658) and the US$ 225 million
+       Regional Off-Grid Electricity Access Project (P160708). The project will support access to finance by MSMEs
+       through the following two sub-components:
+
+   12. Component 1.1: Line of credit (LoC) to be on lent by the BOAD to PFIs to extend long-term loans to viable
+       MSMEs including for green investments: The World Bank will finance a Line of Credit to the BOAD which will on
+       lend to eligible PFIs operating in WAEMU countries, which will in turn finance viable MSMEs, to fund their diverse
+       financing needs, primarily for investment and working capital. The World Bank financing will allow for longer term
+       loans with maturities of up to 10 years.
+
+   13. Component 1.2: Securitization of MSME portfolios: This sub-component would support the planned
+       Securitization of MSME portfolios in the WAEMU. The BOAD has already been active in Securitization and had
+       issued in 2023 the largest non-sovereign securitization transaction in the WAEMU region valued at 150 billion
+       FCFA (US$240 million).
+
+Component 2. Housing Finance
+
+This component will support the provision of affordable housing finance through refinancing long term housing loans,
+support to the regional housing guarantee product, and incremental housing support through the following sub-
+components:
+
+       Sub-Component 2.1 Line of credit to increase the capacity of the West African mortgage liquidity facility (CRRH-
+       UEMOA) to finance banks and MFIs to offer long term affordable green housing loans. This sub-component will
+       support the CRRH-UEMOA mortgage refinancing window offering banks and microfinance institutions in WAEMU
+       countries long term financing for mortgages under FCFA 25 million (US$ 40000) to low- and middle-income eligible
+       households.
+   14. Sub-component 2.2 Support the Regional Housing Guarantee Product: This sub-component will support the
+       regional housing guarantee product developed by the CRRH-UEMOA and co-managed with the FSA (Fond de
+
+
+                                                                                                                     Page 6
+       The World Bank
+       Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+       Solidarite Africain) to further reach low income households by providing a subsidy that will cover part or total of
+       the guarantee fees for mortgages under XOF 25 million (~US$ 40,000) underwritten (by both commercial banks
+       and SFDs) to low-income households and households with an irregular income.
+   15. Sub-component 2.3 Support through the BOAD for Incremental Housing Finance: This sub-component will
+       consist of a Line of Credit to the West African Development Bank (BOAD) to provide incremental financing to SFDs
+       to help them provide better and more affordable incremental housing finance to low income households and
+       households with irregular income.
+Component 3: Project Implementation support and TA for Greater Impacts
+This component will support the following activities under Component 3.1 related to MSME finance for the BOAD and
+PFIs:
+   •   Component 3.1.1: Support to BOAD
+   16. Training and consulting services to enable the BOAD to effectively implement the project and perform the
+       environmental, social and fiduciary bank requirements. Notably, support BOAD on objective setting, data
+       collection and monitoring and evaluation in terms of gender and climate policy.
+         a. This includes support for expansion of data collection on gender-disaggregated data and the design of
+             suptech (i.e. digital technology for use by supervisors) instruments to accommodate this.
+         b. Support for the development of reporting tools including data portals and publications
+   17. Technical Assistance & Capacity building to support the implementation of BOAD’s Gender Strategy.
+         c. In line with BOAD’s Gender Strategy’s identified and prioritized action plan, conduct assessments of member
+             country legal and regulatory frameworks affecting WSMEs and develop a prioritized reform agenda in line
+             with these findings
+         d. Conduct study on challenges to formalization for WSMEs in the region, also identified as a prioritized action
+             within the BOAD Gender Strategy
+   18. The project will finance and build capacity at the BOAD to establish a project monitoring and evaluation system,
+       consistent with the agreed components and the project results framework.
+   •   Component 3.1.2: For components 1.1, 1.2, and 2.3 technical assistance will be provided to participating
+       financial institutions on MSME Finance
+   19. The technical assistance will be designed to: i) strengthen the MSME risk assessment capabilities of PFIs and
+       support them to adapt their offerings to MSME needs taking into consideration factors such as turnover
+       seasonality, specific investment requirements, and the characteristics of niche sectors where MSMEs operate; (ii)
+       raise awareness and build capacity among all beneficiaries on gender equality, incorporating gender finance into
+       their institutions, as well as climate transition and green finance; (iii) support WMSMEs to engage in climate
+       resistant activities and to transition to value chains better adapted to climate change; iv ) provide technical
+       assistance to PFIs in setting up and applying their Environmental and Social Management Systems (ESMS), v) raise
+       awareness and build capacity among PFIs on usage of alternative digital credit scoring models and of APIs to access
+       transaction data and vi) studies on the standardization of APIs for Open Finance and a review of data protection
+       and consent management framework at a national and regional level in order to further enable the development
+       of Digital Financial Services as a strong driver of financial inclusion; (vii) support to SFDs on incremental housing
+       loans development and monitoring.
+   •   Component 3.2. This component will support the CRRH-UEMOA and BOAD and its members (banks and MFIs)
+       technical assistance needs for housing finance.
+
+
+                                                                                                                       Page 7
+      The World Bank
+      Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@pidaprlegalpolicy#doctemplate
+ Legal Operational Policies                                                           Triggered?
+ Projects on International Waterways OP 7.50                                          No
+ Projects in Disputed Area OP 7.60                                                    No
+
+
+Summary of Screening of Environmental and Social Risks and Impacts
+
+   20. The risks associated with financing micro, small and medium (MSME) activities through BOAD’s Line of Credit (LoC)
+       (Component 1.1), have the potential to lead to occupational and community health and safety impacts in the case
+       of the financing of minor civil works. The LoC may also potentially finance MSME that use child or forced labor. It
+       is expected that thirty percent (30%) of the LoC will be allocated to MSMEs operating in green sectors, which are
+       yet to be defined, and/or for investments in climate change adaptation and mitigation measures, both of which
+       should limit environmental impacts. Moreover, 30 percent of the LOC will benefit women-owned enterprises,
+       which is an important step in narrowing economic gender equality gaps. With regards to the securities component,
+       this activity is being prepared in coordination with IFC, which has undertaken its E&S due diligence. The risks
+       associated with the LoC will be mitigated through the application of BOAD’s Environmental and Social Safeguard
+       Framework (ESSF). updated in 2022, which is in line with the Bank’s, and requires each Participating Financing
+       Institutions (PFIs) to set up and implement their own Environmental and Social Management System (ESMS).
+       While BOAD has competent E&S staff, they remain few in number to adequately oversee their entire FI portfolio.
+       As for the affordable housing financing LoC (Component 2.1) to be implemented by CRRH-UEMOA, E&S risks are
+       limited given that they do not finance private housing developers, but are limited to refinancing long-term housing
+       mortgages for low and middle households, thus limiting the scale of potential civil works. Risks may include
+       community health and safety risks to residents because of improper techniques during construction (e.g. use of
+       hazardous materials, inadequate life and fire safety, weak structural integrity etc.) or inadequate location (e.g.
+       flood or seismic areas, etc…), as well as generic risks associated to minor civil works in the of new constructions.
+       CRRH-UEMOA adopted its Environmental and Social Policy and Procedures in 2017, which is broadly in line with
+       the objectives of ESS9. The E&S Policy has an exclusion list, which excludes financing land acquisition that involved
+       resettlement impacts. The implementation of the Bank-financed WAEMU Affordable Housing Finance project
+       shows mixed results in CRRH-UEMOA implementation of its policy, with limited reporting and several commercial
+       banks not implementing E&S procedures. Each LoC will develop an exclusion list that includes activities to be
+       excluded under BOAD's ESSF or CRRH's E&S Policy, in addition to any subprojects leading to physical relocation,
+       economic loss as a result of land acquisition or restriction of access to land as well as any activity rated High or
+       Substantial for E&S risks. The project's technical assistance component will include the recruitment of E&S
+       expertise to support each institution in conducting the E&S due diligence, supervise the PFIs' ESMS performance
+       and build the capacity of PFIs to manage E&S risks.
+
+
+
+
+                                                                                                                       Page 8
+     The World Bank
+     Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+E. Implementation
+
+Institutional and Implementation Arrangements
+  21. The Implementing Partners would be the BOAD for Component 1, Sub-Component 2.3 and Sub-Component 3.1
+      and CRRH for Sub- Component 2.1, 2.2 , Sub-Component 3.2. BOAD is the development finance institution of
+      the member states of WAEMU. BOAD’s primary objective is to promote balanced development of its member
+      states and to foster economic integration within West Africa by financing priority development projects. The
+      World Bank will directly lend funds to BOAD for Component 1. BOAD will provide a line of credit facility to eligible
+      PFIs operating in eight WAEMU countries. The PFIs will on lend funds to MSMEs and Households based on
+      eligibility criteria to be agreed upon. The project components managed by the BOAD will have to comply with the
+      World Bank’s Guidelines for Financial Intermediary Financing. The CRRH will be responsible for implementing
+      Sub-Components 2.1 and 2.2 for the housing finance lines and the housing guarantee fund to PFIs. The CRRH has
+      extensive experience in refinancing housing loans and has been a successful partner in implementing the recently
+      concluded WAEMU Housing Project.
+  22. Both the BOAD and the CRRH will provide project implementation support. As much as possible, the goal is to
+      work with the existing FM, Procurement, E&S units at the BOAD and the CRRH. Nonetheless, it is expected that
+      additional support would be provided in specialized areas to ensure adequate capacity to meet the project
+      financed reporting and fiduciary requirements.
+
+
+@#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+CONTACT POINT
+
+World Bank
+ Mazen Bouri
+ Lead Financial Sector Specialist
+
+ Safia Hachicha Ep Ben Abdallah
+ Senior Financial Sector Specialist
+
+Borrower/Client/Recipient
+ West African Development Bank/ Banque Ouest Africaine de Développement (BOAD)
+ Corell KPOMALEGNI
+ Manager, Institutional Relations – Americas and the Far East, Institutional Relations Department
+ ckpomalegni@Boad.org
+
+Implementing Agencies
+ West African Development Bank/ Banque Ouest Africaine de Développement (BOAD)
+ Corell KPOMALEGNI
+ Manager ,International Relations
+ ckpomalegni@Boad.org
+
+FOR MORE INFORMATION CONTACT
+
+                                                                                                                      Page 9
+     The World Bank
+     Financial Inclusion for Households and MSMEs in the WAEMU (P181251)
+
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Mazen Bouri, Safia Hachicha Ep Ben Abdallah
+
+Approved By
+
+Practice Manager/Manager:             Douglas Pearce                        18-Dec-2024
+
+Country Director:                     Mohammed Dalil Essakali               18-Feb-2025
+
+
+
+
+                                                                                          Page 10
+

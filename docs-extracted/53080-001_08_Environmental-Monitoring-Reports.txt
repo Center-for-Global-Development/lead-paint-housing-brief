@@ -1,0 +1,1242 @@
+ Environmental Monitoring Report
+
+
+
+PUBLIC
+
+
+# 5 Semestral Report (July–December 2025)
+March 2026
+
+
+
+
+People’s Republic of China: Heilongjiang Green
+Transformation Demonstration Project and Program
+(for RBL Loan)
+
+
+
+
+Prepared by Heilongjiang Provincial Government (HPG) for the Asian Development Bank (ADB).
+ADB Heilongjiang Green Transformation Demonstration Project              RBL EMR No.5
+
+
+                              CURRENCY EQUIVALENTS
+                                (as of 5 January 2026)
+
+                         Currency Unit      –    Chinese Yuan (CNY)
+                                                 US Dollar ($)
+
+                              CNY1.00       =    $0.1433
+                                $1.00       =    CNY 6.9787
+
+
+                                    ABBREVIATIONS
+          ADB       Asian Development Bank
+          CNY       Chinese Yuan
+          DEIA      Domestic environmental impact assessment
+          EA        Executing Agency
+          EHS       Environment, Health and Safety
+          EIA       Environmental Impact Assessment
+          EIR       Environmental Impact Report
+          EIT       Environmental Impact Table
+          EMoP      Environmental Monitoring Plan
+          EMP       Environmental Management Plan
+          EMA       Environmental Monitoring Agency
+          EEB       Ecology and Environment Bureau
+          EED       Ecology and Environment Department
+          GRM       Grievance Redress Mechanism
+          HPDRC     Heilongjiang Provincial Development and Reform Commission
+          HMG       Heihe Municipal Government
+          HPG       Heilongjiang Provincial Government
+          HURDB     Heihe Housing and Urban and Rural Development Bureau
+          IA        Implementing Agency
+          IEE       Initial Environmental Examination
+          LA        Loan Agreement
+          LIEC      loan implementation environmental consultant
+          PA        Project Agreement
+          PAM       Project Administration Manual
+          PIU       Project Implementation Unit
+          PM        Particulate Matter
+          PM10      Particulate Matter with diameter ≤ 10 micrometers
+          PM2.5     Particulate Matter with diameter ≤ 2.5 micrometers
+          PMO       Project Management Office
+          PRC       People’s Republic of China
+          PSSA      Program Safeguard Systems Assessment
+          RBL       results-based lending
+          RP        Resettlement Plan
+          SME       Small- and medium-sized enterprises
+          SPMO      Sub-Project Management Office
+          SPS       Safeguard Policy Statement
+          TSP       Total Suspended Particulates
+  ADB Heilongjiang Green Transformation Demonstration Project               RBL EMR No.5
+
+
+
+                                WEIGHTS AND MEASURES
+                   dB(A)          A-weighted sound pressure level in decibels
+                   ha             hectare
+                   km             kilometer
+                   m              meter
+                   m2             square meter
+                   m³             cubic meters
+                   mg/l           milligrams per liter
+                   mg/m3          milligrams per cubic meter
+                   0
+                    C             degrees Celsius
+
+
+
+
+This environmental monitoring report is a document of the borrower. The views
+expressed herein do not necessarily represent those of ADB's Board of Directors,
+Management, or Staff, and may be preliminary in nature. Your attention is directed to the
+“terms of use” section of ADB’s website.
+
+In preparing any country program or strategy, financing any project, or by making any
+designation of or reference to a particular territory or geographic area in this document,
+ADB does not intend to make any judgments as to the legal or other status of any
+territory or area.
+ADB Heilongjiang Green Transformation Demonstration Project                                                RBL EMR No.5
+
+
+                                                TABLE OF CONTENTS
+
+I.   INTRODUCTION ........................................................................................................ 1
+        A.      Report Purpose and Rationale ........................................................................... 1
+        B.      Project Objective and Components .................................................................... 1
+        C.      Project Implementation Progress ....................................................................... 2
+II. INSTITUTIONAL ARRANGEMENTS FOR EMP IMPLEMENTATION ........................ 3
+III. COMPLIANCE WITH COVENANTS AND EMP IMPLEMENTATION ......................... 5
+IV. IMPLEMENTATION OF EMP...................................................................................... 7
+        A.      Assessment of Project Readiness and EMP Implementation ............................. 7
+        B.      Implementation of Mitigation Measures for EMP ................................................ 8
+V. ENVIRONMENTAL MONITORING ........................................................................... 15
+VI. PUBLIC CONSULTATION AND GRIEVANCE REDRESS MECHANISM ................. 16
+VII. CAPACITY BUILDING AND TRAINING ................................................................... 19
+VIII.        CONCLUSIONS .................................................................................................. 20
+ANNEX 1. ENVIRONMENTAL TESTING IN THE 2ND HALF OF 2025 FOR THE RBL
+     PROGRAM ............................................................................................................... 21
+ADB Heilongjiang Green Transformation Demonstration Project                 RBL EMR No.5
+
+
+                                    I.    INTRODUCTION
+
+    A. Report Purpose and Rationale
+
+1.     This is the 5th Environmental Monitoring Report (EMR) for the results-based lending
+(RBL) program of the Heilongjiang Green Transformation Demonstration Project and
+Program (the project) financed by the Asian Development Bank (ADB). The EMR covers
+the period from July to December 2025. The EMR is prepared by the project management
+consultant (PMC) with the support from Heihe Project Management Office (PMO) and
+Suifenhe PMO under the guidance of Heilongjiang Provincial PMO. Data and information
+in this EMR are provided by the PMOs, the PMC also collected additional information during
+the site visit and testing data offered by EMA.
+
+2.    The purpose of EMR is to document the environmental management activities and
+compliance with the environmental management plan (EMP) of the RBL program. This
+report presents project implementation progress; institutional arrangements for EMP
+implementation and supervision; capacity development and training; public consultation
+and the grievance redress mechanism (GRM).
+
+    B. Project Objective and Components
+
+3.    The total investment of the project is 484.35 million euros, of which 187.4 million
+euros (equivalent to $193 million) will be financed by ADB loans. The loan agreements
+were signed on 1 December 2022, and became effective on 27 February 2023. The closing
+date for the 4215-PRC investment loan is 31 March 2029 and the closing date for 4216-
+PRC RBL program loan is 31 December 2025. The summary of the project information is
+shown in Table 1.
+
+                        Table 1: Basic Information of the Program
+ Loan No.                         4216-PRC
+                                  Heilongjiang Green Transformation Demonstration
+ Project Name
+                                  Project and Program
+ Borrower                         People’s Republic of China (PRC)
+ Loan Agreement Signing Date      1 December 2022
+ Loan Effective Date              27 February 2023
+ Loan Closing Date                31 December 2025
+ Last ADB Mission Review Date 8-17 December 2025
+ Executing Agency                 HPG through HPDRC
+ Project Implementing Agency      Municipal Government of Heihe through Heihe Housing
+                                  and Urban- Rural Development Bureau
+Source: Program Implementation Document
+
+4.     Outputs. The outputs of the project and program includes (i) infrastructure and
+services to enhance climate resilience and livability of Heihe and Suifenhe urban and rural
+areas implemented; (ii) sustainable and efficient logistics facilities and technologies
+demonstrated; (iii) aging residential buildings and public facilities refurbished; (iv)
+environmentally sustainable infrastructure and natural resources management in Heihe
+and Suifenhe cities improved; and (v) knowledge of and institutional capacity on green
+transformation enhanced. The RBL program will be output 3, which is described in more
+detail below.
+
+
+                                              1
+ADB Heilongjiang Green Transformation Demonstration Project               RBL EMR No.5
+
+
+5.     Output 3: Aging residential buildings and public facilities refurbished. This
+output will be delivered through a results-based lending (RBL) program to support the
+Heihe Old Residential Communities Renovation Plan (2021–2025). The program will
+address the refurbishment of 220 old residential buildings in Heihe, improving thermal
+insulation to reduce energy loss, reduce waste, increasing green space and upgrading
+drainage and sanitation facilities to improve climate mitigation, climate resilience, and
+livability. The program will also include behavior change communications and awareness
+campaigns to encourage improvements in energy efficiency within private residences.
+Capacity development activities, including improving stakeholder engagement and
+environmental and social safeguards, have been included in the program action plan.
+
+6.    Outcome and impact. The outputs will contribute to the following outcome:
+environmentally sustainable transportation and urban and regional development enhanced.
+The project and program will be aligned with the following impact: environmental
+improvement in Heilongjiang achieved. The RBL program will complement the larger
+project objectives of green transformation in Heihe and the overall project and program.
+
+    C. Project Implementation Progress
+
+7.   According to the RBL program arrangement and the Five-Year-Plan for Urban Old
+Residential Area Renovation in Heihe (2021-2025), the old residential communities in the
+urban area of Heihe are approved in batches year by year for renovation. The specific
+implementation situation is as follows:
+
+      i)   28 residential complexes refurbishment was organized and implemented by the
+           Heihe Housing and Urban Rural Development Bureau (HURDB) in 2021. The
+           renovation has been completed. Settlement review is being carried out.
+
+      ii) 21 residential complexes refurbishment was organized and implemented by
+          Heihe HURDB in 2022. The renovation has been completed. Settlement review
+          is being carried out.
+
+      iii) 12 residential complexes refurbishment approved, organized and implemented
+           by Aihui District in 2023.
+
+      iv) 7 residential complexes refurbishment was approved and implemented in Aihui
+          District in 2024.
+
+      v) Acceptance was carried out in 2025.
+
+8.    During the period from 2022 to 2025, the PIU completed 68 complexes renovations,
+which exceeds the original target of 49 by 19. The newly added complexes are all under
+the original designed scope.
+
+
+
+
+                                             2
+ADB Heilongjiang Green Transformation Demonstration Project                  RBL EMR No.5
+
+
+        II.   INSTITUTIONAL ARRANGEMENTS FOR EMP IMPLEMENTATION
+
+9.    The Heilongjiang Provincial Government through the Heilongjiang Provincial
+Development and Reform Commission (HPDRC) as the executing agency (EA) of the
+project. The HPDRC established a provincial level project management office (PPMO). The
+PPMO is responsible for providing policy guidance during project implementation. The EA
+is responsible for communication with the ADB, lending and repayment, as well as
+supervision and guidance of the Heihe PMO and implementation agencies (IAs) during the
+project implementation period. The PPMO is responsible for daily management of the
+project implementation on behalf of the EA and under the guidance of the EA.
+
+10. Implementing Agency. The Municipal Government of Heihe (HMG) through Heihe
+HURDB is the IA for the RBL program under output 3. HURBD is responsible for managing
+the implementation of the RBL program, and designates staff to ensure the effective
+implementation of the EMP.
+
+11. Environmental Management Staff. The PPMO designates a qualified
+environmental officer, who has the overall responsibility for supervising the implementation
+of the EMP, and updates of the IEE and EMP if required after the detailed designs are
+completed. The environmental management officer’s specific responsibilities include: (i)
+supervising the implementation of mitigation measures during subproject design,
+construction and operation; (ii) ensuring that environmental management, monitoring, and
+mitigation measures are incorporated into bidding documents, construction contracts and
+operation management manuals; (iii) submitting semi-annual environmental monitoring
+and progress reports to provincial PMO and further to ADB; (iv) coordinating the
+implementation of GRM; and (v) responding to any unforeseen adverse environmental
+impacts. The PPMO Environment Officer will be technically supported by the loan
+implementation environment consultant (LIEC) of the PMC team. Each PIU nominates one
+qualified environmental and social focal staff to check the overall implementation of
+environmental management provisions of the EMP and to work in close coordination with
+the SPMO Environment Officer.
+
+12. Loan Implementation Environment Consultant (LIEC). LIECs are members of the
+PMC consulting team. The LIECs advise the PMO, contractors and the CSCs on all aspects
+of EMP implementation and environmental monitoring for the project. The LIECs will (i)
+assist the PPMO/SPMO to update the EMP and environmental monitoring program as
+necessary; (ii) verify the implementation of the mitigation measures specified in the EMP;
+(iii) review internal and compliance monitoring reports and prepare semi-annual
+environment performance/monitoring report to be submitted to ADB; (iv) provide training to
+PMO, IAs, CSCs, contractors on environmental laws, regulations and policies, ADB SPS,
+EMP implementation, GRM, etc.; (v) identify any environment-related implementation
+issues, propose necessary corrective actions, and reflect these in a corrective action plan;
+and (vi) undertake site visits to check EMP implementation.
+
+13. Construction Contractors should be responsible for implementing the relevant
+environmental mitigation measures and internal monitoring during construction period with
+the help of the construction supervision company and under the supervision of the
+environmental protection department. Each contractor will designate an Environment,
+Health and Safety Officer to oversee contract specific EMP (CEMP) implementation.
+
+14. Construction Supervision Companies. The CSCs should be responsible for
+supervising construction progress and quality, and CEMP implementation on construction
+sites. The CSC must arrange at least one environmental engineer at each construction site:
+(i) supervise the EMP implementation performance of the contractor; (ii) Conduct internal
+environmental inspections and monitoring; and (iii) Submit completed monthly
+
+                                             3
+ADB Heilongjiang Green Transformation Demonstration Project                  RBL EMR No.5
+
+
+environmental performance forms to the PMO.
+
+15. External Environmental Monitoring Agency (EMA). External environmental
+monitoring (EEM) is required by ADB for projects which above Category "A" and "B" for
+environment. The external environmental monitoring will be conducted by an independent
+entity during the project implementation period and the first year of the operation period in
+accordance with the requirements of the Environmental Monitoring Plan (EMoP) in the EMP.
+
+16. Environmental Reporting. The environmental section of quarterly project progress
+reports and semi-annual environmental monitoring reports will present EMP
+implementation status, results of inspections by the PMO, problems encountered during
+construction and operation, if any, and the relevant corrective actions undertaken. The
+semi-annual internal environment monitoring report will be prepared by the PMC, on behalf
+of the PPMO.
+
+
+
+
+                                             4
+ADB Heilongjiang Green Transformation Demonstration Project                     RBL EMR No.5
+
+
+         III. COMPLIANCE WITH COVENANTS AND EMP IMPLEMENTATION
+
+17. Compliance with environmental covenants defined in the Loan Agreement and
+Project Agreement that directly or indirectly refer to EHS is assessed. It’s concluded that
+the project complies with most of the covenants. A list of loan covenants and compliance
+status is shown in Table 2.
+
+          Table 2: Compliance with Environment Related Project Covenants
+
+                                                                             Status of
+  Agreement/Covenant                                         Section
+                                                                            Compliance
+                                                         LA. Sch. 4.    Being complied with.
+  The Borrower shall ensure that the aggregate amount
+                                                         Para. 2
+  of Eligible Expenditures under the Program is equal to
+  or exceeds the Loan proceeds withdrawn by the
+  Borrower for the Program. Such Eligible Expenditures
+  are part of the expenditures incurred under the ORCR
+  Plan, but they exclude any expenditures for (a)
+  procurement of works, goods and services from
+  countries which are not members of ADB; (b)
+  procurement of works, goods and services from
+  persons or entities debarred or suspended by ADB;
+  (c) procurement involving High-Value Contracts; (d)
+  any activities which are classified as category A for
+  environmental impact under the SPS; (e) any activities
+  assessed as likely to have significant adverse impacts
+  that are sensitive, diverse, or unprecedented on
+  environment and/or affected people; and (f) any
+  activities which are prohibited investment activities
+  provided in Appendix 5 of the SPS.
+                                                             PA. Sch.   Being complied with.
+  HPG shall ensure that all Program Actions relating to
+                                                             Para. 8
+  environmental and social safeguards are
+  implemented in a timely and efficient manner.
+                                                             PA. Sch.   Being complied with.
+  HPG shall ensure that no construction or rehabilitation
+                                                             Para. 9
+  works under the Program involve significant adverse
+  environmental or social safeguards impacts that may
+  be classified as category A under the SPS or whi.ch
+  are assessed by ADB to be likely to have significant
+  adverse impacts that are sensitive, diverse, or
+  unprecedented on the environment and/or affected
+  people. Prior to commencing any construction or
+  rehabilitation works under the Program, HPG shall
+  cause HURDB to conduct a screening to ensure that
+  any works that may be classified as Category A for
+  environment impacts within the meaning of SPS or
+  which are assessed by ADB to be likely to have
+  significant adverse impacts that are sensitive, diverse,
+  or unprecedented on the environment and/or affected
+  people are excluded from the Program.
+                                                             PA. Sch.   Being complied with.
+  HPG shall, and shall ensure that HURDB shall, stop
+                                                             Para. 10
+  relevant construction or upgradation works under the
+  Program where any asbestos laden materials are
+  encountered during the implementation. In such
+  event, HPG, through HURDB, shall engage a licensed
+  third-party hazardous waste treatment company for
+
+
+                                                 5
+ADB Heilongjiang Green Transformation Demonstration Project                 RBL EMR No.5
+
+
+                                                                         Status of
+  Agreement/Covenant                                     Section
+                                                                        Compliance
+  treatment and disposal of the asbestos following the
+  Borrower's laws and regulations.
+                                                         PA. Sch.   Being complied with.
+  HPG shall ensure that no asbestos or asbestos
+                                                         Para. 11
+  containing materials are used in any goods or works
+  supported by the Program.
+                                                         PA. Sch.   Being complied with.
+  HPG ensure that the preparation, design,
+                                                         Para. 12
+  construction, implementation, operation and
+  decommissioning of all activities under the Program
+  comply with (a) all applicable laws, regulations and
+  guidelines of the Borrower relating to environment,
+  health and safety; (b) Environmental Safeguards; and
+  (c) all measures and requirements, including
+  monitoring requirements set forth in the PSSA and
+  PAP.
+                                                         PA. Sch.   Being complied with.
+  HPG shall submit Safeguards Monitoring Reports to
+                                                         Para. 13
+  ADB in respect of implementation of and compliance
+  with Environmental Safeguards, the PSSA and the
+  PAP, semiannually during construction and the
+  implementation of the Program and the PAP, and
+  thereafter, annually during implementation of the
+  Program unless a longer period is agreed between
+  ADB and HPG.
+
+
+
+
+                                                6
+ADB Heilongjiang Green Transformation Demonstration Project                      RBL EMR No.5
+
+
+                               IV. IMPLEMENTATION OF EMP
+
+A.    Assessment of Project Readiness and EMP Implementation
+
+18. The project’s readiness in terms of environmental management was assessed based
+on the indicators listed in Table 3, which are derived from the project IEE.
+
+                     Table 3: Project Readiness Assessment Indicators
+
+     Indicators                                 Criteria                        Assessment
+
+ Staffing              (i) Provincial PMO and SPMO established with                Yes
+                       appropriately qualified staff including safeguard
+                       officers.
+                       (ii) PIUs staffed appropriately.
+                       (iii) Qualified LIEC recruited.
+                       (iv) Qualified 3rd party environmental monitoring
+                       agencies engaged.
+ Budgeting             (i) Environment mitigation cost during construction         Yes
+                       and operation is sufficiently and timely allocated.
+                       (ii) Environment monitoring cost is sufficiently and
+                       timely allocated.
+                       (iii) Budget for capacity building is sufficiently and
+                       timely allocated.
+ Monitoring            (i) Compliance monitoring is conducted by PPMO              Yes
+                       safeguard officers and LIEC.
+                       (ii) Ambient air quality, water quality, and noise
+                       monitoring is conducted by 3rd party environmental
+                       monitoring company.
+ Supervision           (i) ADB mission to review EMP implementation at             Yes.
+                       least once a year during the construction phase.
+                       (ii) Local environmental authorities to supervise
+                       monitoring at their discretion.
+ Reporting             (i) Semi-annual environmental monitoring reports            Yes.
+                       prepared by PMO with the support of LIEC, and
+                       submitted to ADB for review and disclosure.
+ Capacity Building     (i) Construction Environmental Management Plans             yes
+                       are developed and in place before substantive
+                       construction activities begin.
+                       (ii) Training on Construction Environmental
+                       Management Plans, ADB safeguard policy, EMP
+                       implementation, and GRM is provided prior to start
+                       of construction.
+                       (iii) Training on implementation of operation phase
+                       EMP and health and safety is provided prior to
+                       project operation.
+ Grievance             (i) GRM contact persons are designated at the               Yes
+ Redress               SPMO and PIU, and GRM contact information
+ Mechanism             disclosed to the public before construction.
+                       (ii) All complains are recorded and processed within
+                       the set time framework in the GRM.
+Source: based on PMC’s review and assessment.
+
+
+                                                   7
+ADB Heilongjiang Green Transformation Demonstration Project                       RBL EMR No.5
+
+
+B.    Implementation of Mitigation Measures for EMP
+
+19. During the reporting period, on-site construction activities mainly included piping
+engineering, roof renovation and ground renovation. The contractor and monitoring have
+implemented mitigation measures in accordance with the EMP.
+
+
+
+
+                      Figure 1: Site Photos in Hehe RBL Program
+
+20. A detailed assessment of the project’s compliance with the EMP for the pre-
+construction, construction, and operation phases is presented in Table 4.
+
+         Table 4: Assessment of EMP Mitigation Measures Implementation
+                       Potential
+                                            Mitigation Measures and/or
+     Category        Impacts and                                                  Assessment
+                                                    Safeguards
+                        Issues
+ A. Detailed Design Phase
+
+                   Include mitigation
+                                        ‒   Environmental mitigation
+                   measures and
+                                            measures and identified in the
+                   environmental                                                  In compliance
+                                            EMP will be incorporated into the
+ Incorporate       monitoring plan in
+                                            detailed design.
+ Mitigation        detailed design
+ Measures and                           ‒   Environmental mitigation
+ Monitoring in     Include mitigation       measures identified in the EMP
+ Detailed Design   measures and             will be incorporated in the bidding
+ and Bidding and   monitoring               documents for the project and will
+ Contracting                                                                      In compliance
+                   program in               be included in contract
+                   bidding                  documents for constructions. All
+                   documents                contractors shall be required to
+                                            strictly comply with the EMP.
+                                        ‒   In accordance with the GRM
+                                            presented in Appendix 3, a staff
+                                            member within the Heihe PMO will
+ Grievance                                  be assigned overall responsibility
+                   Impacts on
+ Redress                                    for the GRM; GRM training will be
+                   project Affected                                               In compliance
+ Mechanism                                  provided for PMO members and
+                   Persons
+ (GRM)                                      GRM access points; and the GRM
+                                            access point phone numbers, fax
+                                            numbers, addresses and emails
+                                            will be disclosed to the public.
+
+ B. Construction Phase
+                                        ‒   Existing toilets in the communities
+                   Surface and              will be provided for the workers.
+ Wastewater                                                                       In compliance
+                   groundwater          ‒   Construction wastewater will be
+                   contamination            collected and discharged to
+
+
+                                              8
+ADB Heilongjiang Green Transformation Demonstration Project                          RBL EMR No.5
+
+
+                        Potential
+                                            Mitigation Measures and/or
+    Category          Impacts and                                                    Assessment
+                                                    Safeguards
+                         Issues
+                   from construction        municipal sewage system for
+                   wastewater, and          treatment.
+                   domestic water       ‒   All necessary measures will be
+                                            undertaken to prevent
+                                            construction materials and waste
+                                            from entering drains.
+                                        ‒   Repair and maintenance of
+                                            construction machinery,
+                                            equipment and vehicles will not
+                                            be allowed on sites to reduce
+                                            wastewater generation.
+                                        ‒   Storage facilities for fuels, oil, and
+                                            other hazardous materials are
+                                            within secured areas on
+                                            impermeable surfaces, and
+                                            provided with bunds with 110% of
+                                            the volume of materials stored
+                                            and cleanup kits.
+                                        ‒   Water will be sprayed on active
+                                            construction sites including where
+                                            fugitive dust is being generated
+                                            on a daily basis, and more
+                                            frequently during windy days.
+                                        ‒   Transport vehicles will be limited
+                                            to low speeds at construction
+                                            sites.
+                                        ‒   Loads will be covered during truck
+                   Dust, vehicle
+ Air Pollution                              transportation to avoid spillage or      In compliance
+                   emissions, H2S
+                                            fugitive dust generation.
+                                        ‒   Transport routes and delivery
+                                            schedules will be planned to
+                                            avoid densely populated and
+                                            sensitive areas, and high traffic
+                                            times.
+                                        ‒   Provide regular maintenance to
+                                            vehicles in order to limit gaseous
+                                            emissions (to be done off-site).
+                                        ‒   Ensure that noise levels from
+                                            equipment and machinery
+                                            conform to PRC standard of
+                                            GB12523-2011 (revised).
+                                            Properly maintain construction
+                                            vehicles and machinates to
+                                            minimize noise.
+                                        ‒   Construction activities, and
+                   Impacts from             particularly noisy ones, are to be
+                   construction noise       limited to reasonable hours during
+ Noise                                                                               In compliance
+                   on sensitive             the day and early evening.
+                   resources            ‒   Construction activities will be
+                                            strictly prohibited during the
+                                            nighttime (22:00 h to 07:00 h).
+                                            Exceptions will only be allowed in
+                                            special cases, and only after
+                                            getting approval of the
+                                            surrounding residents, local EEB
+                                            and other relevant departments.
+                                            And nearby residents should be
+
+                                              9
+ADB Heilongjiang Green Transformation Demonstration Project                       RBL EMR No.5
+
+
+                       Potential
+                                           Mitigation Measures and/or
+    Category         Impacts and                                                  Assessment
+                                                   Safeguards
+                        Issues
+                                           notified of such night time
+                                           activities well in advance.
+                                      ‒    Low-noise equipment will be
+                                           selected as much as possible.
+                                      ‒    Noise PPE will be provided to
+                                           workers.
+                                      ‒    Transportation routes and
+                                           delivery schedules will be
+                                           planned during detailed design to
+                                           avoid densely populated and
+                                           sensitive areas and high traffic
+                                           times.
+                                      ‒    Vehicles transporting construction
+                                           materials or waste will slow down
+                                           and not use their horn when
+                                           passing through or nearby
+                                           sensitive locations, such as
+                                           residential communities, schools
+                                           and hospitals.
+                                      ‒    Existing domestic waste
+                                           containers will be used for
+                                           domestic waste collection at
+                                           construction sites.
+                                      ‒    Domestic waste will be collected
+                                           on a regular basis by the local
+                                           sanitation departments and
+                                           transported for recycling, reuse,
+                                           or disposal at a licensed landfill,
+                                           in accordance with relevant PRC
+                                           regulations and requirements.
+                                      ‒    Construction waste dumpsters will
+                                           be provided at all work sites.
+                                      ‒    Construction waste will be
+                                           collected on a regular basis by a
+                   Inappropriate
+ Solid Waste                               licensed waste collection              In compliance
+                   Waste Disposal
+                                           company and transported for
+                                           recycling, reuse, or disposal at a
+                                           licensed landfill, in accordance
+                                           with relevant PRC regulations and
+                                           requirements.
+                                      ‒    There should be no final waste
+                                           disposal on-site. Waste
+                                           incineration at or near the sites is
+                                           strictly prohibited.
+                                      ‒    Contractors will be held
+                                           responsible for proper removal
+                                           and disposal of any significant
+                                           residual materials, wastes, and
+                                           contaminated soils that remain on
+                                           the site after construction.
+                                      ‒    A hazardous material handling
+                                           and disposal protocol that
+                   Inappropriate
+ Hazardous and                             includes spill emergency
+                   transportation,
+ Polluting                                 response will be prepared and          In compliance
+                   storage, use and
+ Materials                                 implemented by contractors.
+                   spills
+                                      ‒    Storage facilities for fuels, oil,
+                                           chemicals and other hazardous
+
+                                            10
+ADB Heilongjiang Green Transformation Demonstration Project                       RBL EMR No.5
+
+
+                       Potential
+                                           Mitigation Measures and/or
+    Category         Impacts and                                                  Assessment
+                                                   Safeguards
+                        Issues
+                                           materials will be within secured
+                                           areas on impermeable surfaces
+                                           provided with dikes with a 110%
+                                           volume, and at least 300 m from
+                                           drainage structures and important
+                                           water bodies. A stand-alone site
+                                           within the storage facility will be
+                                           designated for hazardous wastes.
+                                      ‒    Signs will be placed at chemicals
+                                           and hazardous materials storage
+                                           sites to provide information on
+                                           type and name of chemicals and
+                                           hazardous materials.
+                                      ‒    Suppliers of chemicals and
+                                           hazardous materials must hold
+                                           proper licenses and follow all
+                                           relevant protocols and PRC
+                                           regulations and requirements.
+                                      ‒    Licensed companies will be hired
+                                           to collect, transport, and dispose
+                                           of hazardous materials in
+                                           accordance with relevant PRC
+                                           regulations and requirements.
+                                      ‒    Under ADB’s List of Prohibited
+                                           Investment Activities (SPS, 2009),
+                                           the use of asbestos is prohibited
+                                           except for the “purchase and use
+                                           of bonded asbestos cement
+                                           sheeting where the asbestos
+                                           content is <20%” (SPS 2009: 76).
+                                           However: (i) in practice, it is
+                                           difficult to assess whether
+                                           asbestos content is <20%; and (ii)
+                                           international development banks
+                                           are increasingly banning the use
+                                           of all asbestos from their projects.
+                                           To ensure international best
+                                           practice for human health and
+                                           safety for this project: no
+                                           asbestos of any kind will be used
+                   Asbestos                                                       In compliance
+                                           in any materials supported by the
+                                           project.
+                                      ‒    Check with the design institute
+                                           and PMO to ensure the proposed
+                                           materials do not include the use
+                                           of asbestos.
+                                      ‒    Construction activities should be
+                                           stopped if asbestos materials are
+                                           identified during construction. IA
+                                           should engage a licensed
+                                           hazardous waste treatment
+                                           company immediately for the
+                                           treatment and disposal of
+                                           asbestos. No construction can be
+                                           resumed until the asbestos have
+                                           been fully removed by the
+                                           licensed company.
+
+                                            11
+ADB Heilongjiang Green Transformation Demonstration Project                      RBL EMR No.5
+
+
+                       Potential
+                                           Mitigation Measures and/or
+    Category         Impacts and                                                 Assessment
+                                                   Safeguards
+                        Issues
+                                       ‒   Transportation routes and
+                                           delivery schedules will be
+                                           planned during detailed design to
+                                           avoid densely populated and
+                                           sensitive areas and high traffic
+                                           times.
+                                       ‒   Vehicles transporting construction
+                                           materials or wastes will slow
+                   Community               down and not use their horn when
+ Socioeconomic
+                   Disturbance and         passing through or nearby             In compliance
+ Resources
+                   Safety                  sensitive locations, such as
+                                           residential communities, schools
+                                           and hospitals.
+                                       ‒   Signs will be placed at
+                                           construction sites in clear view of
+                                           the public, warning people of
+                                           potential dangers.
+                                       ‒   Temporary access road will be
+                                           provided whenever appropriate.
+                                       ‒   Identify and minimize the causes
+                                           of potential hazards to workers.
+                                       ‒   Implement appropriate safety
+                                           measures.
+                                       ‒   Provide training to workers on
+                                           occupational health and safety,
+                                           emergency response, especially
+                                           with respect to using potentially
+                   Worker
+                                           dangerous equipment and
+                   Occupational                                                  In compliance
+                                           storage, handling and disposal of
+                   Health and Safety
+                                           hazardous materials.
+                                       ‒   Ensure that all equipment is
+                                           maintained in a safe operating
+                                           condition.
+                                       ‒   Provide appropriate PPE to
+                                           workers.
+                                       ‒   Ensure regular safety meetings
+                                           with staff.
+ Occupational
+                                       ‒   Prior to any works, inform
+ Health and
+                                           residents and businesses in
+ Safety
+                                           advance through media,
+                                           information boards, and direct
+                                           consultations, of the construction
+                                           activities, dates and duration of
+                                           expected disruption.
+                                       ‒   Record all community feedback
+                                           and solutions discussed and
+                   Community               agreed.
+                                                                                 In compliance
+                   Health and Safety   ‒   Based on feedback from the
+                                           community consultations: (i)
+                                           update contractor site plans as
+                                           needed to incorporate the
+                                           solutions, including revisions in
+                                           work schedules, working hours,
+                                           and construction and/or mitigation
+                                           methods; (ii) revise CSC
+                                           monitoring schedules and
+                                           monitoring criteria as needed to
+
+                                            12
+ADB Heilongjiang Green Transformation Demonstration Project                        RBL EMR No.5
+
+
+                         Potential
+                                             Mitigation Measures and/or
+    Category           Impacts and                                                 Assessment
+                                                     Safeguards
+                          Issues
+                                             reflect the updated contractor site
+                                             management plans.
+                                         ‒   Install signs at construction sites
+                                             to inform people of the project
+                                             GRM, potential dangers (e.g.
+                                             moving vehicles, hazardous
+                                             materials, excavations) and safety
+                                             issues.
+                                         ‒   Install safety barricades around
+                                             all excavations, including open
+                                             trenches.
+                                         ‒   Assign personnel to direct
+                                             pedestrians around dangerous
+                                             work areas.
+                                         ‒   Night time (8:00pm – 6:00am) use
+                                             of heavy machinery is strictly
+                                             prohibited.
+                                         ‒   Record the locations that workers
+                                             have visited/lived immediately
+                                             before and during project work;
+                                         ‒   Schedules for disinfecting /
+                                             cleaning construction sites;
+                                         ‒   Implement temperature checks
+                                             and other health checks on-site;
+                                         ‒   Implement social distancing
+                     COVID- 19
+                                             measures;                             In compliance
+                     protection
+                                         ‒   Mandatory use of PPEs such as
+                                             facemasks, and provision of
+                                             handwashing stations, hand
+                                             sanitizers, and other appropriate
+                                             protective measures;
+                                         ‒   Procedures to be adopted in the
+                                             event a worker is suspected of
+                                             having contracted COVID-19.
+                                         ‒   A construction phase chance find
+                                             procedure will be established and
+                                             activated if any chance finds of
+                                             PCRs are encountered:
+                                         ‒   Construction activities will be
+                                             immediately suspended if any
+                                             PCRs are encountered;
+                                         ‒   Destroying, damaging, defacing,
+                                             or concealing PCRs will be strictly
+                     As yet unknown          prohibited in accordance with
+                     PCRs may be             PRC regulations;
+ Physical Cultural
+                     damaged if proper   ‒   Local Cultural Heritage Bureau        In compliance
+ Resources
+                     precautions are         will be promptly informed and
+                     not taken.              consulted;
+                                         ‒   Construction activities will resume
+                                             only after thorough investigation
+                                             and with the permission of the
+                                             local; Cultural Heritage Bureau;
+                                             and
+                                         ‒   In case of any PCR is found, ADB
+                                             SPS 2009 requirements as well
+                                             as PRC laws and regulations will
+                                             be followed.
+
+                                              13
+ADB Heilongjiang Green Transformation Demonstration Project                     RBL EMR No.5
+
+
+                        Potential
+                                           Mitigation Measures and/or
+    Category          Impacts and                                               Assessment
+                                                   Safeguards
+                         Issues
+ C. Operation Phase
+
+
+                   Discharge of       ‒    Domestic wastewater from staff
+                   Domestic                generated from maintenance and
+ Wastewater                                                                     In compliance
+                   Wastewater              repair will be discharged to the
+                                           municipal sewerage system.
+
+                                      ‒    Waste generated from
+                   Collection and          maintenance and repair will be
+                   Disposal                recycled as much as possible.
+ Solid Waste                                                                    In compliance
+                                           Non-recyclable waste will be
+                                           collected, transported and treated
+                                           by certificated companies.
+                                      ‒    Record the locations that
+                   COVID-19                maintenance workers have
+                   protection              visited/lived immediately before
+                                           and during project work;
+                                      ‒    Implement temperature checks
+                                           and other health checks on-site;
+                                      ‒    Implement social distancing
+ Community and
+                                           measures;
+ Occupational
+                                      ‒    Mandatory use of PPEs such as        In compliance
+ Health      and
+                                           facemasks, and provision of
+ Safety
+                                           handwashing stations, hand
+                                           sanitizers, and other appropriate
+                                           protective measures;
+                                      ‒    Procedures to be adopted in the
+                                           event a maintenance worker is
+                                           suspected of having contracted
+                                           COVID-19
+
+Source: Based on PMC review and assessment.
+
+
+
+
+                                            14
+ADB Heilongjiang Green Transformation Demonstration Project                          RBL EMR No.5
+
+
+                              V. ENVIRONMENTAL MONITORING
+
+21. The scope of environmental monitoring includes internal environmental monitoring
+and external monitoring.
+
+22. Internal monitoring. (i) regular site inspections have been performed by PIU
+Environment Officer with assistance of CSC. The internal monitoring results have been
+prepared by the CSCs and submitted to PIU for review. (ii) irregular site inspections
+performed by PMO; (iii) daily inspection of the implementation of the EMP mitigation
+measures by the contractors and CSCs.
+
+23. External monitoring. The PPMO has hired the external environmental monitoring
+entity, Harbin Xinkang Environmental Pollution Testing Co., LTD, to implement the external
+environmental monitoring plan during the construction (Table 5). The external
+environmental monitoring entity carried out construction site testing from 28 to 31 August
+2025. All indicators of air and noise met the standard. See Table 6 for the testing summary
+and Annex 1 for the test report.
+
+                 Table 5: Environmental Monitoring Plan for RBL Program
+                                (Construction phase only)
+
+  Item                  Indicator                          Sites                   Frequency
+
+    Air       Ambient dust monitoring         10 sensitive locations        Semiannual during
+              (TSP, PM10, PM2.5) following    (rotating) selected by IA     construction season
+              PRC requirements
+   Noise      Ambient noise monitoring        10 sensitive locations        Semiannual during
+              (day and night Leq dB(A))       (rotating) selected by IA     construction season
+              following the Law of the PRC
+              on the Prevention and
+              Control of the Environmental
+              Noise Pollution
+
+                      Table 6: Environmental Testing Result Summary
+ Sampling Sites (Hongzhi             TSP         PM10          PM2.5      Noise during Noise at night
+ Community, Aihui District)         (ug/m3)      (ug/m3)       (ug/m3)    day (dB(A))     (dB(A))
+ Unit 1                               96          42               19        53.1           34.9
+ Unit 2                              102          31               21        52.5           40.9
+ Unit 3                              108          35               23        51.9           36.7
+ Unit 4                               91          50               24        52.4           40.3
+ Unit 5                              104          42               18        53.3           34.6
+ Unit 6                               92          40               22        53.6           35.2
+ Unit 7                               97          33               19        55.3           34.8
+ Unit 8                              102          51               20        52.6           32.9
+ Unit 9                               93          44               24        54.0           32.8
+ Unit 10                             106          37               23        53.2           43.7
+ Standard value                      300         150               75         70             55
+
+
+
+
+                                                15
+ADB Heilongjiang Green Transformation Demonstration Project              RBL EMR No.5
+
+
+    VI. PUBLIC CONSULTATION AND GRIEVANCE REDRESS MECHANISM
+
+24.    Public consultation. Public consultations were carried out for RBL program
+during preparation of the domestic EIA and the EIA according to the Interim Measures
+for Public Consultation on Environmental Impact Assessment in China (2019) and
+ADB’s SPS (2009). Information disclosure and public consultation includes: (i) internet,
+and on-site disclosure; (ii) questionnaire surveys of key stakeholders; (iii) visits to
+communities and households in the project areas.
+
+25.     In November 2023, the local community conducted a round of public
+consultation in 13 communities, and a total of 130 questionnaires were collected. 60%
+of the respondents were "very satisfied" with the comprehensive effect of the project.
+The replies mainly focused on strengthening community greening. In addition, the PIU
+has conducted public consultation surveys on 20 communities renovated in 2019, and
+47% of the respondents are "very satisfied" with the comprehensive effect of the project.
+In addition, 255 comments from residents were collected during the survey process.
+
+26.    In 2024, PIU disclosed the construction information in the official website of
+Auhui District government.
+
+27.    In July 2025, a round of consultation survey about satisfaction was conducted
+around renovated complexed completed in 2023 and 2024, involving a total of 5,260
+residents in 19 renovated complexes, and 399 valid questionnaires were collected.
+Among them, 12 complexes were renovated in 2023 and 7 complexes were in 2024.
+100% of the residents surveyed were satisfied about the project implementation. See
+Figure 2 for the questionnaire template.
+
+
+
+
+                         Figure 2: Questionnaire Template
+
+28.    Grievance Redress Mechanism (GRM). A GRM is established in compliance
+with ADB’s SPS (2009) requirements to prevent and address community concerns,
+and to assist the project to maximize environmental and social benefits. The GRM was
+presented and discussed with potentially affected persons during public consultation
+
+                                          16
+ADB Heilongjiang Green Transformation Demonstration Project                 RBL EMR No.5
+
+
+process. Key elements of GRM are as follows:
+
+    i)     The Environmental and Social Staff of the PPMO and the Environmental and
+           Social Staffs of the City PMOs will lead the coordination of GRM and establish
+           a GRM tracking and document system.
+    ii)    The PPMO coordinates with staff from city PMOs and PIUs, arranges
+           meetings, and conducts on-site visits when necessary, maintains the entire
+           project appeal record or database, and incorporates the appeal situation into
+           the progress report submitted to the ADB.
+    iii) At the level of RBL, the Environmental and Social Staff will guide contractors
+         and the CSCs in implementing the GRM procedure, and coordinate with local
+         environmental protection and other government departments as necessary.
+    iv) PMC experts will provide training and technical support.
+    v)     The contact persons for the GRM have been determined before construction
+           and detailed information is provided in Table 7.
+          Table 7: Contact Information for the Project Public Complaint Unit
+Agency/         Person         in Position              Telephone     Email/Note
+Institution     charge
+PPMO            Li Chenglin      Deputy      Direct   of 136 0361 9330 fgw82603161@126.co
+                                 PPMO                                  m
+Heihe PMO       Lou Benqiang     E & S staff            0456-8226571 yhxmb8226571@163.
+                                                                     com
+PIU of Heihe Qi Yao              Housing          and 15145675471
+RBL program                      Construction Bureau
+                                 of Heihe /E & S staff
+Heilongjiang                     E & S staff
+Construction
+and                                                                   The Contractor   for
+                 Wang Tao                               18646642303
+Installation                                                          2021 Package 1
+Group       Co.,
+Ltd.
+Heihe                            E & S staff
+Longzhu
+Thermal
+                                                                      The Contractor   for
+Power           Wang Yu                                 18545678728
+                                                                      2021 Package 2
+Pipeline
+Installation
+Co., Ltd.
+Heilongjiang                     E & S staff
+Xinqiao
+Computer                                                              The Contractor   for
+                Lin Xiaobo                              13284061700
+Room                                                                  2021 Package 3
+Engineering
+Co., Ltd.
+Heilongjiang                     E & S staff
+No.2
+                                                                      The Contractor   for
+Construction    Miao Yu                                 17689708777
+                                                                      2022 Package
+Engineering
+Co., Ltd.
+
+
+
+
+                                               17
+ADB Heilongjiang Green Transformation Demonstration Project                       RBL EMR No.5
+
+
+Agency/          Person        in Position               Telephone        Email/Note
+Institution      charge
+China Energy                     E & S staff
+Engineering
+Group
+                                                                          The Contractor for
+Northeast
+               Yue Fu                                    18298975161      2023 Package in Aihui
+Electric Power
+                                                                          District
+No.2
+Engineering
+Co., Ltd.
+Heilongjiang                     E & S staff
+Chengzhu                                                                  The Contractor for
+                 Zheng
+Construction                                             15145673393      2024 Package in Aihui
+                 Qianghua
+Engineering                                                               District
+Co., Ltd.
+                                 E & S staff                              Supervisor for 2021
+Heihe Hongxin
+                                                                          Package 1 & Package
+Construction Zhang
+                                                         13845681961      3, 2022 Package, and
+Supervision   Baocheng
+                                                                          2023 Package in Aihui
+Co., Ltd.
+                                                                          District
+Heihe Jiahong                    E & S staff
+Engineering                                                               Supervisor for 2021
+Project                                                                   Package 1 & Package
+              Wang Pengfei                               13904562534
+Management                                                                2, and 2024 Package
+& Consulting                                                              in Aihui District
+Co., Ltd.
+Source: PMOs.
+
+29.   A total of two complaints related to the environment were received as shown in
+Table 7 below. During this reporting period, no complaint about environmental
+safeguards was received.
+
+               Table 8: Summary of Complaints Received and Solutions
+
+Complaint Time       Content                        Solution
+
+                     The drainage well covers        HURDB immediately organized relevant
+                     of Unit 4 and Unit 5 of         personnel to set up warning signs at the
+                     Building C in the               location and carried out emergency
+7 December 2023
+                     Youzheng residential            repairs. The replacement of the new well
+                     area were broken and            covers has gained high recognition from
+                     loose                           the surrounding residents.
+
+                     Room 201, Unit 1,               HURDB immediately contacted the
+                     Building 15 in Shiji            construction unit to conduct a survey on
+                     Huayuan residential area        site. After investigation, the actual cause
+                     of the old residential area     was a broken indoor buried pipeline in the
+February 2024
+                     was renovated. It’s             household. On 20 February 2024,
+                     reported that the entire        contacted the property management for
+                     unit of drainage pipes is       construction and replacement of drainage
+                     frozen.                         pipelines.
+
+
+
+
+                                               18
+ADB Heilongjiang Green Transformation Demonstration Project            RBL EMR No.5
+
+
+                    VII. CAPACITY BUILDING AND TRAINING
+
+30.      The project EMP defines the capacity building and training plan, which adapts
+to the training needs of environmental management during the project implementation
+period to ensure that the contractors, CSCs, PIU staff and PMO staff take appropriate
+environmental protection measures to protect the environment.
+
+31.    The PIU participated in the environmental safeguard training activities
+organized by ADB from19 to 21 August 2024.
+
+32.    On 27 May 2025, LIEC conducted environmental management training at the
+Suifenhe PMO. PIUs in Heihe participated in the training online.
+
+
+
+
+                                          19
+ADB Heilongjiang Green Transformation Demonstration Project             RBL EMR No.5
+
+
+                                VIII. CONCLUSIONS
+
+33. During the report period, mitigation measures were implemented in the
+construction sites. EMA carried out external environmental testing in August 2025. The
+results indicate that they are in compliance with the national air pollutants and noise
+standards.
+
+34. The GRM for the RBL program has been set up by different organizations
+involved in the RBL program implementation. No complaint was received during the
+reporting period.
+
+35. The reviews and assessments of compliance with relevant requirements in the
+Loan Agreement and Project Agreement were carried out. The preparation of
+environmental management and the implementation of mitigation measures meet the
+requirements.
+
+
+
+
+                                          20
+ADB Heilongjiang Green Transformation Demonstration Project   RBL EMR No.5
+
+
+ANNEX 1. ENVIRONMENTAL TESTING IN THE 2nd HALF OF 2025 FOR THE RBL
+         PROGRAM
+
+
+
+
+                                          21
+ADB Heilongjiang Green Transformation Demonstration Project   RBL EMR No.5
+
+
+
+
+                                          22
+

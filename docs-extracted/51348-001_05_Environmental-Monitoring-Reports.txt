@@ -1,0 +1,817 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+INTERNAL
+
+
+Project Number: 51348-005
+October 2022
+
+
+
+
+Proposed Loan for Additional Financing
+Republic of Uzbekistan: Mortgage Market Sector
+Development Program
+
+
+
+
+Distribution of this document is limited until it has been approved by the Board of Directors.
+Following such approval, this document will be reclassified as public and disclosed in accordance
+with ADB's Access to Information Policy.
+                           CURRENCY EQUIVALENTS
+                             (as of 3 October 2022)
+
+                            Currency unit      –     sum (SUM)
+                               SUM1.00         =     $0.000090
+                                   $1.00       =     SUM11,011.31
+
+
+
+                                 ABBREVIATIONS
+
+       ADB           –      Asian Development Bank
+       FIL           –      financial intermediation loan
+       MOF           –      Ministry of Finance
+       PAM           –      project administration manual
+       PBL           –      policy-based loan
+       PFI           –      participating financial institution
+       UzMRC         –      Mortgage Refinancing Company of Uzbekistan
+
+
+
+                                       NOTES
+
+(i)    The fiscal year (FY) of the Government of Uzbekistan and its agencies ends on
+       31 December.
+
+(ii)   In this report, “$” refers to United States dollars.
+Vice-President              Shixin Chen, Operations 1
+Director General            Eugenue Zhukov, Central and West Asia Department (CWRD)
+Deputy Director General     Nianshan Zhang, CWRD
+Senior Advisor              Cindy Malvicini, CWRD
+
+Directors                   Tariq H. Niazi; Public Management, Financial Sector, and Trade
+                                Division (CWPF); CWRD
+                            Enrico Pinali, Officer-In-Charge, Uzbekistan Resident Mission
+                                (URM), CWRD
+
+Team leader                 Syed Ali-Mumtaz H. Shah, Principal Financial Sector Specialist,
+                               CWPF, CWRD
+Team members                Catherine C. Debalucos, Project Analyst, CWPF, CWRD
+                            Bobir Gafurov, Public Management Specialist, CWPF, CWRD
+                            Giacomo Giuseppe Giannetto, Principal Financial Sector
+                               Specialist, CWPF, CWRD
+                            Dmitry Kabrelyan, Senior Public–Private Partnerships Specialist,
+                               Office of the Director General, CWRD
+                            Adham Kuchkarov, Senior Private Sector Development Officer,
+                               URM
+                            Akmal Nartayev; Senior Financial Management Specialist; Public
+                               Financial Management Division; Procurement, Portfolio and
+                               Financial Management Department
+                            Maria Kenneth Pinili, Senior Operations Assistant, CWPF, CWRD
+                            Suma Pollard, Counsel, Office of the General Counsel
+                            Adnan Tareen, Principal Energy Specialist, Energy Division,
+                               CWRD
+                            Rustam Zakhidov, Project Analyst, URM, CWRD
+Peer reviewer               Arup Kumar Chatterjee, Principal Financial Sector Specialist,
+                               Finance Sector Group, Sustainable Development and Climate
+                               Change Department
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                      CONTENTS
+
+                                                         Page
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                         1
+II.    THE PROGRAM                                          1
+       A.   Rationale                                       1
+       B.   Program Description                             2
+       C.   Value Added by ADB                              3
+       D.   Summary Cost Estimates and Financing Plans      4
+       E.   Implementation Arrangements                     5
+III.   DUE DILIGENCE                                        5
+       A.    Summary Due Diligence Results                  5
+       B.    Summary of Risks and Mitigating Measures       7
+IV.    ASSURANCES AND CONDITIONS                            7
+V.     RECOMMENDATION                                       7
+
+APPENDIXES
+1.     Revised Design and Monitoring Framework              8
+2.     List of Linked Documents                            12
+                                                                                        Project Classification Information Status: Complete
+
+
+                                                      PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                     Project Number: 51348-005
+       Project Name                    Mortgage Market Sector Development            Department/Division CWRD/CWPF
+                                       Program (Additional Financing)
+       Country                         Uzbekistan                                    Executing Agency         Ministry of Finance
+       Borrower                        Republic of Uzbekistan
+
+       Country Economic                https://www.adb.org/Documents/LinkedDocs/
+       Indicators                      ?id=51348-005-CEI
+       Portfolio at a Glance           https://www.adb.org/Documents/LinkedDocs/
+                                       ?id=51348-005-PortAtaGlance
+
+    2. Sector                          Subsector(s)                                                      ADB Financing ($ million)
+       Finance                         Housing finance                                                                    150.000
+                                                                                                     Total                150.000
+    3. Operational Priorities                                                        Climate Change Information
+       OP1: Addressing remaining poverty and reducing inequalities                   GHG reductions (tons per                    3,689
+       OP2: Accelerating progress in gender equality                                 annum)
+       OP3: Tackling climate change, building climate and disaster resilience, and   Climate Change impact on the                   Low
+       enhancing environmental sustainability                                        Project
+       OP6: Strengthening governance and institutional capacity
+                                                                                     ADB Financing
+                                                                                     Adaptation ($ million)                      0.000
+                                                                                     Mitigation ($ million)                      7.000
+
+                                                                                     Cofinancing
+                                                                                     Adaptation ($ million)                      0.000
+                                                                                     Mitigation ($ million)                      0.000
+       Sustainable Development Goals                                                 Gender Equity and Mainstreaming
+       SDG 1.4, 1.5                                                                  Effective gender mainstreaming (EGM)
+       SDG 5.c
+       SDG 10.3                                                                      Poverty Targeting
+       SDG 11.1                                                                      General Intervention on Poverty
+       SDG 13.a
+
+    4. Risk Categorization:            Low
+.
+
+
+    5. Safeguard Categorization                   Environment: FI-C Involuntary Resettlement: FI-C Indigenous Peoples: FI-C
+.
+
+
+    6. Financing
+        Modality and Sources                                                               Amount ($ million)
+        ADB                                                                                                                 150.000
+           Sovereign SDP - Credit line (Regular Loan): Ordinary capital resources                                           150.000
+        Cofinancing                                                                                                           0.000
+           None                                                                                                               0.000
+        Counterpart                                                                                                           0.000
+           None                                                                                                               0.000
+        Total                                                                                                               150.000
+
+       Currency of ADB Financing: US Dollar
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.      17062022142249973558                          Generated Date: 16-Sep-2022 14:44:34 PM
+                                          I.      THE PROPOSAL
+
+1.    I submit for your approval the following report and recommendation on a proposed loan to
+the Republic of Uzbekistan for the additional financing of the Mortgage Market Sector
+Development Program.1
+
+2.       The Asian Development Bank (ADB) approved the program on 28 November 2019.2 It
+was designed to increase the availability of affordable market-based residential mortgage credit
+by establishing the premise for improved access to long-term market-based funding and
+enhanced development of competitive housing finance products, as well as reforming the
+inefficient housing subsidy framework and some of its programs. The program’s impact is living
+standards improved for the population of Uzbekistan. The program has three outputs (para. 6).
+The additional financing will expand the scope of output 3 to include supplementary long-term
+funding to the Mortgage Refinancing Company of Uzbekistan (UzMRC) to make long-term local
+currency resources available to identified eligible participating financial institutions (PFIs) to fund
+(i) residential mortgage loans, (ii) housing improvement loans, and (iii) green renovation loans (a
+new loan product). Further improvements are also supported, including the establishment of an
+information and technology system in UzMRC, enhanced gender access to UzMRC funding, the
+operationalization of the green renovation loan tool kit, and UzMRC’s adoption of a strategic
+business plan.3
+
+                                          II.      THE PROGRAM
+
+A.      Rationale
+
+3.     The program is performing well based on the following assessment. The proposed project
+meets the eligibility criteria for additional financing.
+       (i)     Program performance rating. The program’s performance has been rated
+               on track in eOperations since concept approval. This on track rating is expected to
+               continue until the program’s closing dates. As of 15 July 2022, $167.65 million has
+               been disbursed—$25 million under the policy-based loan (PBL) tranche 1 and
+               $142.65 million under the financial intermediation loan (FIL). Of the $142.65
+               million, 70.67% or $100.81 million has been liquidated. The remaining $7.35
+               million under the FIL and the PBL tranche 2 of $25 million will be disbursed in
+               October 2022.
+       (ii)    Delivery of expected outputs. The program is rated successful. It is on track to
+               meet all its outputs and outcomes.
+       (iii)   Safeguard compliance. The program has complied with ADB’s Safeguard Policy
+               Statement (2009). It is categorized FI-C for all three safeguard categories
+               (environment, involuntary resettlement, and indigenous peoples) and is rated
+               on track across all three safeguards categories in eOperations.
+       (iv)    Management of risks. The program’s risk management is rated successful. Risks
+               were identified during the program processing. No major risks or integrity concerns
+               have materialized during implementation.
+
+1 Asian Development Bank (ADB). 2019. Report and Recommendation of the President to the Board of Directors:
+  Proposed Loans and Technical Assistance Grant to the Republic of Uzbekistan for the Mortgage Market Sector
+  Development Program. Manila (Loans 3869-UZB and 3870-UZB).
+2 The total amount approved for the program was $200 million ($50 million ordinary capital resources [concessional
+
+  loan]; $150 million ordinary capital resources [regular loan]).
+3
+  Approved Report and Recommendation of the President for the original project (accessible from the list of linked
+  documents in Appendix 2).
+2
+
+
+4.       Given the good progress under output 3 (para. 7), the government requested ADB support
+to scale up the FIL component of the program—bringing significant improvements by providing
+additional long-term funding for UzMRC to make long-term local currency resources available to
+identified and eligible PFIs. The additional financing is consistent with the government’s National
+Development Strategy, 2022–2026 4 and ADB’s country partnership strategy for Uzbekistan,
+2019–2023,5 which supports inclusive and sustainable economic growth through financial market
+development, access to finance, private sector development, and domestic resource mobilization.
+The additional financing supports key operational priorities of ADB’s Strategy 2030 such as (i)
+addressing remaining poverty and reducing inequalities through broader access to housing
+finance which will contribute to improving living standards; (ii) accelerating progress in gender
+equality and women’s empowerment through women’s enhanced access to mortgage loans; (iii)
+tackling climate change through enhancing environmental sustainability by introducing a green
+renovation loan product; and (iv) strengthening the governance and institutional capacity of
+UzMRC.6
+
+5.      The additional financing will increase the volume of subloans refinanced by UzMRC to
+13,000, of which 800 will be for green renovation loans under output 3. The percentage of the
+ADB loan portfolio that targets women will increase from 30.0% to 32.5%. The new activities under
+the additional financing will be completed by 2025. The additional financing modality is
+appropriate 7 since the added activities supplement actions of the original FIL. The original
+project’s modality, design, and implementation arrangements can also be used efficiently.
+
+B.      Program Description
+
+6.     The program is aligned with the following impact: living standards improved for the
+population of Uzbekistan.8 The program will have the following outcome: availability of affordable
+market-based residential mortgage credit increased. 9 The program’s outputs are (i) policy,
+regulatory, and legal framework for the mortgage finance industry strengthened; (ii) housing
+finance strategy and subsidy framework strengthened; and (iii) the establishment and
+operationalization of the mortgage refinancing company supported with long-term funding. The
+impact, outcome, and outputs will remain unchanged for the program.
+
+7.      Under output 3 of the original project, UzMRC was established with charter capital of
+SUM25 billion by the sole shareholder, the Ministry of Finance (MOF), in November 2019. UzMRC
+was partially privatized as 12 PFIs became shareholders in August 2021. As of 1 April 2022,
+UzMRC has equity of SUM100 billion with 13 shareholders. The MOF remains the largest
+shareholder, with a 25% share in UzMRC. The corporate governance framework and internal
+controls, as well as the environmental and social management framework, are acceptable to ADB.
+This includes the full spectrum of internal policies and procedures—including lending operations,
+financial management, treasury operations, and risk management—to carry out refinancing
+operations that UzMRC fully adopted in 2020. UzMRC and 12 PFIs signed the master refinance
+agreement, which sets out the terms and conditions for accessing UzMRC’s refinancing facilities.
+
+4
+  Government of Uzbekistan. 2022. Development Strategy of New Uzbekistan for 2022–2026. Tashkent.
+5 ADB. 2019. Country Partnership Strategy: Uzbekistan, 2019–2023—Supporting Economic Transformation. Manila.
+6 ADB. 2018. Strategy 2030. Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+
+  Manila.
+7
+  ADB. 2022. Additional Financing. Operations Manual. OM H5. Manila.
+8 Government of Uzbekistan. 2017. National Development Strategy of Republic of Uzbekistan for 2017–2021.
+
+  Tashkent; and Government of Uzbekistan. 2022. Development Strategy of New Uzbekistan for 2022–2026.
+  Tashkent.
+9 The revised design and monitoring framework is in Appendix 1.
+                                                                                                          3
+
+
+UzMRC refinanced 7,336 subloans via the ADB FIL through the liquidation of initial advances of
+$100.81 million, of which 30% of the ADB-funded loan portfolio was provided to women as of
+1 June 2022.
+
+8.       With the additional financing being channeled through output 3, the project will expand
+activities that comprise the provision of long-term funding to UzMRC to make long-term local
+currency resources available to identified eligible PFIs to fund (i) residential mortgage loans,
+(ii) housing improvement loans, and (iii) green renovation loans (a new loan product). Additionally,
+the percentage of ADB-funded loan portfolio provided to women will increase from 30.0% to
+32.5% (by value), and the volume of subloans refinanced by UzMRC will rise to 13,000, of which
+800 subloans will be for green renovation and 4,225 for women. The green renovation loans will
+be for eligible heating and cooling systems, solar roofing, water heaters, doors, and windows to
+help support climate change mitigation. UzMRC will also operationalize the green renovation loan
+tool kit (which includes an eligibility assessment of green renovation products, energy-saving
+calculations, and loan eligibility certificate) to standardize the appraisal of green renovation loan
+projects, establish information and technology systems that will be populated with sex-
+disaggregated data for gender analysis, and adopt a 5-year business plan that will include
+strategies to increase the share of lending to women. Individual consultants and a national survey
+firm will be engaged through a change in scope of ADB’s ongoing technical assistance for the
+Implementing the Mortgage Market Sector Development Program, which has an uncommitted
+and available balance of approximately $304,000 to assist in these endeavors.10
+
+9.      As a result of the expanded scope of output 3, the program’s original outcome indicator
+targets will change: (i) the share of market-based mortgage loans to total mortgage loans of all
+banks will increase from 40% to 90%, and (ii) the average initial tenor of market-based mortgage
+loans will lengthen from 10 years to 15 years.
+
+C.      Value Added by ADB
+
+10.     ADB will continue to broaden access to housing finance across Uzbekistan through the
+provision of critical long-term funding to PFIs. The attainment of a critical mass of mortgage loans
+will ensure UzMRC’s sustainability, act as a catalyst for changes to enabling legislation on
+covered bonds, and help increase the depth of the Uzbek financial markets through the
+introduction of new financial products (mortgage bonds). The introduction of a green renovation
+loan will promote awareness of household energy efficiency. The promotion of financing
+mechanisms to catalyze market-based mortgage finance in Uzbekistan, expand the availability of
+residential mortgage products including green financing, and bring product innovation to the
+banking sector will also lengthen the tenor of market-based mortgage loans, all representing key
+value additions by ADB. ADB’s contribution toward the establishment and operationalization of
+UzMRC on a sustainable basis is unique and differentiates it from the services of other multilateral
+development banks in the housing sector, which are focused on complementary activities such
+as strengthening regulations for building housing codes and upgrading the real property
+registration and cadaster system.
+
+
+
+
+10 ADB. 2019. Technical Assistance to the Republic of Uzbekistan for Implementing the Mortgage Market Sector
+
+  Development Program. Manila (TA 9877-UZB).
+4
+
+
+D.       Summary Cost Estimates and Financing Plans
+
+11.      The overall project is estimated to cost $360 million (Table 1).
+
+12.     Detailed cost estimates by expenditure category and by financier are included in the
+project administration manual (PAM).11
+
+                                    Table 1: Summary Cost Estimates
+                                                ($ million)
+                                                                           Current           Additional
+Item                                                                       Amounta           Financing           Total
+Base Cost
+        1. Outputs 1 and 2: policy, regulatory, and legal framework            50.0                 0.0           50.0
+        for the mortgage finance industry strengthened; and housing
+        finance strategy and subsidy framework strengthened
+        (Policy-based loan)
+         2. Output 3: the establishment and operationalization of the        150.0               150.0           300.0
+        mortgage refinancing company supported with long-term
+        funding (Financial intermediation loan)
+        3. Output 3: Equity of government and commercial banks                10.0                 0.0            10.0
+                            Total                                            210.0               150.0           360.0
+a Refers to the original program.
+
+Source: Asian Development Bank estimates.
+
+13.    The government has requested a regular loan of $150 million from ADB’s ordinary capital
+resources to further finance the project. The loan will have a 20-year term, including a grace
+period of 5 years; an interest rate determined in accordance with ADB’s Flexible Loan Product; a
+commitment charge of 0.15% per year; and such other terms and conditions set forth in the draft
+loan and project agreements. Based on the straight-line method, the average maturity is
+12.75 years and there is no maturity premium payable to ADB. The summary financing plan is in
+Table 2 and is detailed in the PAM (footnote 11).
+
+                                     Table 2: Summary Financing Plan
+                                           Currenta              Additional Financing                      Total
+                                    Amount       Share of         Amount      Share of            Amount       Share of
+Source                             ($ million)  Total (%)        ($ million) Total (%)           ($ million)   Total (%)
+Asian Development Bank
+    OCR (regular loan)             150.0            71.0          150.0         100.0             300.0          83.0
+    OCR (concessional loan)         50.0            24.0            0.0           0.0              50.0          14.0
+Government of Uzbekistan             2.5b            1.0            0.0           0.0               2.5           1.0
+    (project)
+Commercial banks (project)           7.5b            4.0             0.0           0.0              7.5           2.0
+    (loan)
+         Total                     210.0          100.0           150.0         100.0             360.0        100.0
+OCR = ordinary capital resources.
+a Refers to the original program.
+b Actual amount as of 31 December 2021.
+
+Source: Asian Development Bank estimates.
+
+14.   For the proposed additional financing, climate mitigation is estimated to cost $7 million.
+ADB will finance 100% of mitigation costs.12
+
+
+11 Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+12 Climate Change Assessment (accessible from the list of linked documents in Appendix 2).
+                                                                                                                      5
+
+
+E.      Implementation Arrangements
+
+15.     The program’s implementation arrangements will essentially be retained. The MOF (the
+representative of the borrower and the program executing agency for the PBL) remains
+responsible for overall coordination of the program and the additional financing.13 UzMRC (the
+project executing agency for the FIL) will continue to be the executing agency for the additional
+financing.14 UzMRC’s functions will be expanded to be consistent with the project’s upgraded
+gender category of effective gender mainstreaming and its role in catalyzing the green renovation
+loan product for subborrowers with the PFIs. Individual consultants and a national survey firm will
+be engaged under the technical assistance for Implementing the Mortgage Market Sector
+Development Program, which has an uncommitted and available balance of $304,000 to assist
+UzMRC in these endeavors (footnote 10). Retroactive financing will be allowed for up to 20% of
+the FIL loan amount for eligible mortgage subloans, disbursed before loan effectiveness but no
+earlier than 12 months before the signing of the loan agreement. The implementation
+arrangements are described in detail in the PAM (footnote 11). The implementation period is for
+3 years from November 2022 to December 2025.
+
+                                           III.     DUE DILIGENCE
+
+A.      Summary Due Diligence Results
+
+16.    A summary of the due diligence assessments for the proposed additional financing is
+presented in Table 3. The full due diligence assessments are accessible from the list of linked
+documents in Appendix 2.
+
+                         Table 3: Summary of Due Diligence Assessments
+Area of Assessment                                          Summary of Assessment
+Technical                  The project classification is low climate risk.a It does not entail any physical works. Under
+                           the additional financing, $7 million or 5% of the $150 million will finance 800 green
+                           renovation subloans. The parameters for the green renovation subloans will be developed
+                           through ADB’s technical assistance for Implementing the Mortgage Market Sector
+                           Development Program.b The technical support will include conducting market and demand
+                           analysis, enhancing the eligibility criteria for green subloans, and developing and
+                           operationalizing a green renovation loan tool kit.
+Economic and financial     The additional financing will generate significant financial and economic benefits for
+viability                  institutions and households. UzMRC management has proven its ability to operate the
+                           company in a profitable and sustainable manner without any government subsidies. It is
+                           expected that UzMRC will continue to play a catalytic role in developing the mortgage
+                           market in Uzbekistan by further expanding mortgage products in the banking sector and
+                           institutionalizing sound PFI lending practices. The additional financing will allow PFIs to
+                           provide more mortgage loan products with longer tenors and, accordingly, more affordable
+                           monthly payments, which will improve affordability for subborrowers. The additional
+                           financing will allow UzMRC to continue its operations and become one of the first local
+                           entities to issue covered bonds and, subsequently, more sophisticated financial products,
+                           providing a safe investment channel for institutional investors. Based on financial
+                           projections and its business plan, UzMRC is projected to remain profitable with an average
+                           annual growth in profit before tax of 40% during 2021–2025. UzMRC is expected to
+                           continue using its resources efficiently by allocating its revenues to offset operating
+                           expenses and maintaining a solid return on equity ratio of 15% on average during 2022–
+
+13 ADB. 2019. Report and Recommendation of the President to the Board of Directors: Proposed Loans and Technical
+
+   Assistance Grant to the Republic of Uzbekistan for the Mortgage Market Sector Development Program. Manila (Loan
+   3869-UZB). Program Loan Agreement (accessible from the list of linked documents in Appendix 2).
+14
+   ADB. 2019. Report and Recommendation of the President to the Board of Directors: Proposed Loans and Technical
+   Assistance Grant to the Republic of Uzbekistan for the Mortgage Market Sector Development Program. Manila (Loan
+   3870-UZB). Financial Intermediation Loan Agreement (accessible from the list of linked documents in Appendix 2).
+6
+
+
+Area of Assessment                                       Summary of Assessment
+                       2031, reflecting fast growth in the volume of refinancing because of strong demand.
+                       UzMRC is forecast to increase its after-tax profits from SUM11.7 billion in 2023 to
+                       SUM49.9 billion in 2027.c
+Sustainability         As of 1 September 2022, UzMRC has been operational for 23 months. Its initial capital of
+                       SUM25 billion was provided by the MOF. Its capital further increased to SUM100 billion
+                       through the issuance of SUM75 billion worth of shares which were acquired by 12
+                       commercial banks. This transition of UzMRC to a joint stock company, coupled with
+                       refinancing of only high-quality performing loans, successfully helps to ensure
+                       sustainability. UzMRC is expected to increase its paid-in capital from SUM100 billion in
+                       2022 to SUM225 billion in 2027 in line with the expected business growth. The current
+                       shareholding structure is 25% government (through the MOF) and 75% commercial banks.
+                       UzMRC is expected to continue increasing its market share through plans to increase
+                       proceeds from annual covered bonds issuances from $50 million in 2024 to $200 million in
+                       2028 and beyond.c
+Governance             UzMRC’s financial management risks rating improved from high in 2020 to moderate under
+                       the proposal. The setting of UzMRC’s manuals, systems, hiring of key personnel,
+                       compliance with loan and project covenants, and satisfactory financial performance and
+                       project implementation contributed to the improved rating. In addition, audited financial and
+                       project statements are submitted on a timely basis under auditing standards acceptable to
+                       ADB. A project procurement risk classification does not apply considering the scope and
+                       nature of the project and as confirmed by ADB’s Procurement, Portfolio and Financial
+                       Management Department. The procurement of goods, works, and consultancy and non-
+                       consultancy services will follow the ADB Procurement Policy (2017, as amended from time
+                       to time) and the Procurement Regulations for ADB Borrowers (2017, as amended from
+                       time to time).
+                       The integrity risk rating is low. Integrity due diligence was conducted on UzMRC, its
+                       shareholders, and the members of its supervisory and management boards.d They do not
+                       appear to constitute a significant or potentially significant integrity risk to the project as they
+                       do not appear to be the subjects of adverse media. It has been confirmed that they do not
+                       pose potential integrity risks relating to money laundering or terrorism financing in the
+                       project jurisdiction. ADB’s Anticorruption Policy (1998, as amended to date) was explained
+                       to and discussed with the MOF and UzMRC.
+Poverty, social, and   Sustained growth from 2005 to 2021, primarily driven by fixed capital investments, resulted
+gender                 in a substantial reduction in the national poverty level from 25.8% in 2005 to 11.0% in 2019,
+                       but rose to 17.0% in 2021 because of the impact of COVID-19.e Fixed capital investments
+                       accounted for 43.2% of GDP as of 2021 and given relatively well-diversified employment
+                       and GDP by sector, Uzbekistan’s GDP expansion has substantial impact on the poverty
+                       level. The additional financing does not have targeted interventions for poverty reduction.
+                       However, inclusive design features have been incorporated through UzMRC lending
+                       covenants, which include eligibility criteria for PFIs and their lending operations. Broader
+                       access to housing finance will contribute to improving the living standards of lower-earning
+                       market segments and strengthen their resilience to external shocks through asset building.
+                       The project is categorized effective gender mainstreaming. The amount of mortgage loans
+                       to women will be increased, gender will be mainstreamed in UzMRC operations, the gender
+                       capacity of UzMRC and PFIs will be improved, and technical training support will be
+                       provided to facilitate women’s access to mortgage loans. All these are captured in the
+                       gender action plan that is to be implemented under the additional financing.
+Safeguards             The additional financing is expected to have no adverse environmental impacts and no
+                       impacts on involuntary resettlement and indigenous peoples. It is categorized FI-C for all
+                       three safeguard categories (environment, involuntary resettlement, and indigenous
+                       peoples). The required annual environment and social management system report for 2020
+                       and 2021 from UzMRC was accepted by ADB and subsequently disclosed. UzMRC will
+                       continue to comply with its approved environmental and social management system. The
+                       selection of subloans will be according to the eligibility criteria as provided in the PAM (such
+                       as product design, market-based pricing, underwriting practices, loan documentation, and
+                       performance). The screening of subloans for compliance with safeguards will be carried
+                       out by PFIs in line with requirements outlined in the PAM. UzMRC will undertake monitoring
+                       of the compliance of PFIs’ safeguard requirements, as described in the PAM.f
+                                                                                                                   7
+
+
+ADB = Asian Development Bank, COVID-19 = coronavirus disease, GDP = gross domestic product, MOF = Ministry of
+Finance, PAM = project administration manual, PFI = participating financial institution, UzMRC = Mortgage Refinancing
+Company of Uzbekistan.
+a
+  Climate Change Assessment (accessible from the list of linked documents in Appendix 2).
+b
+  ADB. 2019. Technical Assistance to the Republic of Uzbekistan for Implementing the Mortgage Market Sector
+  Development Program. Manila (TA 9877-UZB).
+c
+  Economic Analysis and Financial Analysis (accessible from the list of linked documents in Appendix 2).
+d ADB. 2003. Enhancing the Asian Development Bank’s Role in Combating Money Laundering and the Financing of
+
+  Terrorism. Manila.
+e Summary Poverty Reduction and Social Strategy (accessible from the list of linked documents in Appendix 2).
+f Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+
+Source: Asian Development Bank.
+
+B.      Summary of Risks and Mitigating Measures
+
+17.    There are no high or substantial risks to this program. Risks and mitigating measures are
+described in detail in the risk assessment and risk management plan.15
+
+                               IV.      ASSURANCES AND CONDITIONS
+
+18.    The government and the MOF have assured ADB that project implementation shall
+conform to all applicable ADB requirements, including those concerning anticorruption measures,
+safeguards, gender, procurement, consulting services, financial management, and disbursement,
+as described in detail in the PAM and loan documents.
+
+19.    The government and the MOF have agreed with ADB on certain covenants for the project,
+which are set forth in the draft loan agreement and project agreement.
+
+20.     The government will not make any withdrawals for green renovation mortgages until (i) the
+green loan eligibility criteria have been finalized, and (ii) ADB has completed the requisite due
+diligence on the green renovation mortgages and any issues have been satisfactorily resolved.
+
+                                        V.       RECOMMENDATION
+
+21.     I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve the loan of
+$150,000,000 to the Republic of Uzbekistan for the additional financing of the Mortgage Market
+Sector Development Program, from ADB’s ordinary capital resources, in regular terms, with
+interest to be determined in accordance with ADB’s Flexible Loan Product; for a term of 20 years,
+including a grace period of 5 years; and such other terms and conditions as are substantially in
+accordance with those set forth in the draft loan and project agreements presented to the Board.
+
+
+
+                                                                        Masatsugu Asakawa
+                                                                        President
+10 October 2022
+
+
+
+
+15 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+8      Appendix 1
+
+
+                      REVISED DESIGN AND MONITORING FRAMEWORK
+
+The revised design and monitoring framework strikes out content for deletion and underlines
+content to be added.
+
+Impact the Program is Aligned with
+Living standards improved for the population of Uzbekistan (National Development Strategy, 2017–2021
+and Development Strategy of New Uzbekistan, 2022–2026)a
+                                                       Data Sources and
+                                                          Reporting             Risks and Critical
+Results Chain            Performance Indicators          Mechanisms               Assumptions
+Outcome               By 2024 2026:
+Availability of       a. Share of market-based       a.–b. Annual report of   R: Employment and
+affordable market-    mortgage loans to total        the Central Bank of      income levels
+based residential     mortgage loans of all banks    Uzbekistan               decrease in the
+mortgage credit       increased to 40.0% 90.0%                                country and interest
+increased             (2018 baseline: 28.2%)                                  rates increase, leading
+                      (OP1.2.2; OP6.1; OP6.1.2)                               to reduced demand for
+                                                                              market-based
+                      b. Average initial tenor of                             mortgage loan
+                      market-based mortgage loans                             products.
+                      lengthened to 10 years
+                      15 years (2018 baseline:
+                      7 years)
+                      (OP1.2.2; OP6.1; OP6.1.2)
+
+Outputs               By October 2021:
+1. Policy,            1a. A streamlined and          1a.–b. Government        R: Government
+regulatory, and       consolidated housing finance   resolutions and          commitment to
+legal framework for   program announced by the       decrees                  prioritizing housing
+the mortgage          government (2018 baseline:                              weakens.
+finance industry      not announced) (OP6.1;
+strengthened          OP6.1.2)                                                R: Commercial banks
+(under the policy-                                                            do not invest in
+based loan)           1b. A pilot-based program of                            UzMRC’s equity
+                      progressive, up-front,                                  because the expected
+                      targeted government                                     returns are too low,
+                      subsidies implemented by the                            corporate governance
+                      government for housing unit                             standards are
+                      buyers from vulnerable                                  insufficient, or minority
+                      groups, among which at least                            shareholder protection
+                      30% are women (2018                                     is inadequate.
+                      baseline: not implemented)
+                      (OP6.1; OP6.1.2)
+
+                      1c. A comprehensive            1c. SSC websiteb
+                      information database on the
+                      housing market developed by
+                      SSC, including updated
+                      household income and
+                      housing sector data (2018
+                      baseline: not developed) (OP
+                      6.1; OP6.1.2)
+                                                                                     Appendix 1        9
+
+
+                                                              Data Sources and
+                                                                   Reporting      Risks and Critical
+Results Chain             Performance Indicators                 Mechanisms         Assumptions
+2. Housing finance      By October 2019                     2a.–b. Order of the
+strategy and            2a. Housing finance strategy        Ministry of Finance
+subsidy framework       adopted (2018 baseline: not
+strengthened            adopted) (OP6.1; OP6.1.2)
+(under policy-based
+loan)                   2b. HAU established (2018
+                        baseline: not established)
+                        (OP6.1; OP6.1.2)
+
+                        2c. Monitoring and                  2c. Joint HAU-SSC
+                        information systems for all         reports (annual)
+                        government housing
+                        programs established under
+                        the HAU (2018 baseline: not
+                        established) (OP6.1;
+                        OP6.1.2)
+
+                        2d. A specialized sex-              2d. Order of the
+                        disaggregated database              Ministry of Finance
+                        covering all government
+                        subsidy programs as well as
+                        UzMRC’s refinancing
+                        program established (2018
+                        baseline: not established)
+                        (OP6.1; OP6.1.2)
+
+3. The                  By 2019
+establishment and       3a. UzMRC shareholder               3a. Shareholder
+operationalization of   subscription agreement              agreement
+the mortgage            signed for the initial capital of
+refinancing             at least SUM25 billion (2018
+company supported       baseline: not signed) (OP6.1;
+with long-term          OP6.1.2)
+funding (under the
+financial               3b. Environmental and social        3b.–d. Minutes of
+intermediation loan)    management framework                UzMRC board meeting
+                        adopted (2018 baseline: not
+                        adopted) (OP6.1; OP6.1.2)
+
+                        3c. Procedures and policies
+                        for lending operations,
+                        financial management,
+                        treasury operations, risk
+                        management, and
+                        transparent pricing adopted
+                        by the UzMRC (2018
+                        baseline: not adopted)
+                        (OP6.1; OP6.1.2)
+
+                        3d. Corporate governance
+                        framework acceptable to ADB
+                        and internal controls adopted
+10    Appendix 1
+
+
+                                                        Data Sources and
+                                                           Reporting        Risks and Critical
+Results Chain        Performance Indicators               Mechanisms          Assumptions
+                   (2018 baseline: not adopted)
+                   (OP6.1; OP6.1.2)
+
+                   By 2023                            3e. Master loan
+                   3e. Master refinance               agreement with
+                   agreement, which sets out the      individual PFIs
+                   terms and conditions for
+                   accessing the UzMRC’s
+                   refinancing facilities signed by
+                   the UzMRC and at least three
+                   PFIs (2018 baseline: not
+                   signed) (OP6.2.1)
+
+                   By 2025                            3f.–g. Minutes of
+                   3f. At least 30% 32.5% of the      UzMRC board meeting
+                   ADB-funded loan portfolio
+                   provided to women (2018
+                   baseline: 0) (OP2.1.2)
+
+                   3g. At least 5,000 13,000
+                   subloans refinanced by the
+                   UzMRC through ADB’s
+                   financial intermediation loan,
+                   of which 4,225 subloans
+                   provided to women, and
+                   800 subloans for green
+                   renovation (2018 baseline: 0)
+                   (OP1.2.2; OP2.1.2; OP3.1.1;
+                   OP3.1.5)
+                                                      3h.–j. Minutes of
+                   3h. Operationalization of the      UzMRC board meeting
+                   Green Renovation Loan
+                   Toolkit by June 2023 (2022
+                   baseline: 0) (OP3.1.1;
+                   OP3.1.5)
+
+                   3i. UzMRC information and
+                   technology systems
+                   established, operationalized,
+                   and populated with sex-
+                   disaggregated data for
+                   gender analysis (2022
+                   baseline: 0) (OP6.2.1)
+
+                   3j. UzMRC adopts a strategic
+                   business plan, endorsed by
+                   its board, that includes
+                   strategies on how to increase
+                   women’s share of loans (2022
+                   baseline: 0) (OP6.2.1)
+                                                                                                  Appendix 1        11
+
+
+Key Activities with Milestones
+3. The establishment and operationalization of the mortgage refinancing company supported
+     with long-term funding.
+3.1. Prepare the UzMRC’s organizational chart (completed).
+3.2. Hire senior management (e.g., chief executive and financial officers) and key employees
+     (e.g., internal auditor and risk manager) (completed).
+3.3. Draft master loan agreement governing the lending operations of the UzMRC with PFIs (completed).
+3.4. Prepare and obtain UzMRC board approval for its internal and operational policies (completed).
+3.5. Provide up to $150 $300 million for qualified UzMRC subloans by ADB (ongoing).
+3.6. Implement the Green Renovation Loan Toolkit by UzMRC and the PFIs (by June 2023).
+3.7. Operationalize information and technology systems fully by UzMRC (by December 2024).
+3.8. Prepare and obtain UzMRC board approval for its strategic business plan internal and operational
+     policies (by December 2025).
+Project Management Activities: not applicable
+Inputs
+Asian Development Bank: $150 $300 million (regular ordinary capital resources loan)
+Asian Development Bank: $50 million (concessional ordinary capital resources loan)
+Government (equity): $2.5 million
+Banks (equity): $7.5 million
+Assumptions for Partner Financing
+Not applicable
+ADB = Asian Development Bank, HAU = Housing Assistance Unit, OP = operational priority, PFI = participating financial
+institution, SSC = State Statistics Committee, UzMRC = Mortgage Refinancing Company of Uzbekistan.
+a Government of Uzbekistan. 2017. National Development Strategy of Republic of Uzbekistan for 2017–2021.
+
+  Tashkent; and Government of Uzbekistan. 2022. Development Strategy of New Uzbekistan for 2022–2026.
+  Tashkent.
+b The State Committee of the Republic of Uzbekistan on Statistics.
+
+Contribution to Strategy 2030 Operational Priorities
+The expected values and methodological details for all OP indicators to which this operation will contribute results are
+detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in
+Appendix 2).
+Source: Asian Development Bank.
+12    Appendix 2
+
+
+                              LIST OF LINKED DOCUMENTS
+                   http://www.adb.org/Documents/RRPs/?id=51348-005-3
+
+
+1.    Loan Agreement
+2.    Project Agreement
+3.    Approved Report and Recommendation of the President for the original project
+4.    Sector Assessment (Summary): Finance (Housing Finance)
+5.    Project Administration Manual
+6.    Financial Analysis
+7.    Economic Analysis
+8.    Summary Poverty Reduction and Social Strategy
+9.    Risk Assessment and Risk Management Plan
+10.   Climate Change Assessment
+11.   Gender Action Plan
+12.   Contribution to Strategy 2030 Operational Priorities
+
+Supplementary Documents
+
+13.   Development Coordination
+14.   Financial Management Assessment
+15.   Uzbekistan Housing Sector and Demand Analysis
+

@@ -1,0 +1,1016 @@
+  Report and Recommendation of the President
+  to the Board of Directors
+
+
+
+Project Number: 39295-038
+Loan 3142-BAN/8285(OFID)-BAN
+July 2017
+
+
+
+
+Proposed Loans for Additional Financing
+People’s Republic of Bangladesh: Third Urban
+Governance and Infrastructure Improvement
+(Sector) Project
+
+
+
+
+Distribution of this document is restricted until it has been approved by the Board of Directors.
+Following such approval, ADB will disclose the document to the public in accordance with ADB’s
+Public Communications Policy 2011.
+                          CURRENCY EQUIVALENTS
+                             (as of 15 June 2017)
+
+                         Currency unit    –     taka (Tk)
+                               Tk1.00     =     $0.012
+                                $1.00     =     Tk80.60
+
+
+                               ABBREVIATIONS
+
+       ADB        –     Asian Development Bank
+       GAP        –     gender action plan
+       km         –     kilometer
+       LGED       –     Local Government Engineering Department
+       LIBOR      –     London interbank offered rate
+       O&M        –     operation and maintenance
+       OFID       –     OPEC Fund for International Development
+       PAM        –     project administration manual
+       PIU        –     project implementation unit
+       PMU        –     project management unit
+       PRAP       –     poverty reduction action plan
+       UGIAP      –     urban governance improvement action program
+
+
+                                     NOTES
+
+(i)      The fiscal year (FY) of the Government of Bangladesh and its agencies ends on
+         30 June. “FY” before a calendar year denotes the year in which the fiscal year
+         ends, e.g., FY 2017 ends on 30 June 2017.
+(ii)     In this report, “$” refers to US dollars.
+ Vice-President            W. Zhang, Operations 1
+ Director General          H. Kim, South Asia Department (SARD)
+ Director                  S. Bonu, Urban Development and Water Division, SARD
+
+ Team leader               A. Vogl, Urban Development Specialist, SARD
+ Team members              M. S. Alam, Senior Project Officer (Urban Infrastructure),
+                           Bangladesh Resident Mission (BRM) SARD
+                           J. Nam, Financial Management Specialist, SARD
+                           E. Nava, Senior Operations Assistant, SARD
+                           N. Pajarillaga, Environment Specialist, SARD
+                           N. Pokhrel, Senior Urban Development Specialist, SARD
+                           N. Selim, Social Development Officer (Gender), BRM, SARD
+                           Y. Seo, Senior Counsel, Office of the General Counsel
+                           I. Setyawati, Senior Safeguards Specialist (Resettlement), Viet Nam
+                           Resident Mission, SERD
+                           V. Sharma, Senior Urban Development Specialist, Sustainable
+                           Development and Climate Change Department
+ Peer reviewer             T. Ueda, Principal Evaluation Specialist, Independent Evaluation
+                           Department
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                      CONTENTS
+
+                                                 Page
+PROJECT AT A GLANCE
+MAP
+I.     THE PROPOSAL                                 1
+II.    THE PROJECT                                  1
+       A.   Rationale                               1
+       B.   Impact and Outcome                      4
+       C.   Outputs                                 4
+       D.   Investment and Financing Plans          4
+       E.   Implementation Arrangements             6
+III.   DUE DILIGENCE                                7
+       A.    Technical                              7
+       B.    Economic and Financial                 7
+       C.    Governance                             8
+       D.    Poverty and Social                     8
+       E.    Safeguards                             9
+       F.    Risks and Mitigating Measures          9
+IV.    ASSURANCES                                  10
+V.     RECOMMENDATION                              10
+APPENDIXES
+1.     Revised Design and Monitoring Framework     11
+2.     List of Linked Documents                    15
+                                                                                         Project Classification Information Status: Complete
+
+
+                                                     PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                         Project Number: 39295-038
+       Project Name                   Third Urban Governance and               Department                SARD/SAUW
+                                      Infrastructure Improvement (Sector)      /Division
+                                      Project - Additional Financing
+       Country                        Bangladesh                               Executing Agency          Department of Public Health
+       Borrower                       People's Republic of Bangladesh                                    Engineering, Local
+                                                                                                         Government Engineering
+                                                                                                         Department
+    2. Sector                         Subsector(s)                                                       ADB Financing ($ million)
+       Water and other urban          Other urban services                                                                   20.00
+       infrastructure and services    Urban flood protection                                                                 60.00
+                                      Urban policy, institutional and capacity development                                   11.50
+                                      Urban sanitation                                                                         8.50
+                                      Urban slum development                                                                 14.50
+                                      Urban solid waste management                                                           16.00
+                                      Urban water supply                                                                     29.50
+       Transport                      Urban roads and traffic management                                                     40.00
+                                                                                               Total                       200.00
+
+    3. Strategic Agenda               Subcomponents                            Climate Change Information
+       Inclusive economic growth      Pillar 2: Access to economic             Adaptation ($ million)                            40.00
+       (IEG)                          opportunities, including jobs, made      Mitigation ($ million)                             7.00
+                                      more inclusive                           CO2 reduction (tons per annum)                   15,000
+       Environmentally sustainable    Global and regional transboundary        Climate Change impact on the                    Medium
+       growth (ESG)                   environmental concerns                   Project
+                                      Urban environmental improvement
+    4. Drivers of Change              Components                               Gender Equity and Mainstreaming
+       Governance and capacity        Civil society participation              Gender equity (GEN)
+       development (GCD)              Organizational development
+    5. Poverty and SDG Targeting                                               Location Impact
+       Geographic Targeting           No                                       Urban                                                 High
+       Household Targeting            No
+       SDG Targeting                  Yes
+       SDG Goals                      SDG11
+
+    6. Risk Categorization:           Low
+.
+
+
+    7. Safeguard Categorization             Environment: B Involuntary Resettlement: B Indigenous Peoples: C
+.
+
+
+    8. Financing
+        Modality and Sources                                                                     Amount ($ million)
+        ADB                                                                                                  200.00
+          Sovereign Sector (Regular Loan): Ordinary capital resources                                        100.00
+          Sovereign Sector (Concessional Loan): Ordinary capital resources                                   100.00
+        Cofinancing                                                                                               0.00
+          None                                                                                                    0.00
+        Counterpart                                                                                              68.10
+          Government                                                                                             68.10
+        Total                                                                                                   268.10
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.      06032017150550127034                           Generated Date: 01-Jun-2017 14:11:45 PM
+                                             I.       THE PROPOSAL
+1.      I submit for your approval the following report and recommendation on proposed loans to
+the People’s Republic of Bangladesh for the additional financing of the Third Urban Governance
+and Infrastructure Improvement (Sector) Project.
+
+2.      The current project 1 supports strengthening urban governance and improving urban
+infrastructure and service delivery in pourashavas (municipalities)2 by investing in pourashavas
+based on their governance improvement performance. The additional financing will expand the
+current project, which is performing well, by supporting (i) additional priority infrastructure and
+governance improvements in pourashavas covered by the current project, and (ii) infrastructure
+and governance improvements in five more pourashavas.3
+
+                                              II.       THE PROJECT
+
+A.       Rationale
+
+3.      Urban development challenges of pourashavas. While Bangladesh’s economy
+continues to grow at a healthy pace,4 the government needs to focus on achieving sustainable
+and inclusive growth while addressing the challenges of rapid urbanization. In 2015, only 32% of
+the urban population had piped water supply and 58% of the urban population had access to
+improved sanitation facilities. 5 Although sanitation coverage is improving, fecal sludge
+management remains a major challenge, especially in urban slums. Drainage is underdeveloped
+and poorly maintained, resulting in frequent water logging. Many urban roads are dilapidated
+because of increasing traffic and lack of maintenance. Solid waste management is not systematic,
+and open dumping creates public health risks. The urban challenges are even more acute in
+pourashavas because of inadequate governance, capacity constraints, lack of community
+participation, and sustainable infrastructure deficiencies.6 The Asian Development Bank (ADB)
+has supported infrastructure and governance improvement in pourashavas through the first and
+second Urban Governance and Infrastructure Improvement (Sector) Projects. 7 Although
+improvements have been made through these earlier projects, pourashavas still need significant
+investment to enhance municipal infrastructure service delivery, strengthen urban climate change
+resilience, and reduce regional disparities across the country.
+
+4.      Performance-based incentives for governance improvement. With limited but
+effective incentives for pourashavas to improve their governance, the first project introduced a
+performance-based fund allocation strategy through the Urban Governance Improvement Action
+
+
+1 ADB. 2014. Report and Recommendation of the President to the Board of Directors: Proposed Loan to the People’s
+  Republic of Bangladesh for the Third Urban Governance and Infrastructure Improvement (Sector) Project. Manila.
+2 Bangladesh defines pourashavas per the level of own-source annual revenues, with class A being the highest. As of
+
+  June 2017, the country has 328 pourashavas (class A: 162, class B: 106, and class C: 60).
+3 Project preparation and due diligence was done under the current project loan and a technical assistance grant by
+
+  the Urban Climate Change Resilience Trust Fund under ADB’s Urban Financing Partnership Facility. (ADB. 2015.
+  Technical Assistance for Promoting Urban Climate Change Resilience in Selected Asian Cities. Manila).
+4 Country Economic Indicators (accessible from the list of linked documents in Appendix 2).
+5 World Health Organization. 2015. Progress on Drinking Water and Sanitation: 2015 Update. New York.
+6 Sector Assessment (Summary): Water and Other Urban Infrastructure and Services (accessible from the list of linked
+
+  documents in Appendix 2).
+7 The first project (2003–2010) provided a loan of $65 million to support 27 pourashavas. The second project (2008–
+
+  2016) provided a loan of $87 million and cofinancing of $40.8 million equivalent to support 51 pourashavas. Major
+  infrastructure achievements under both projects include rehabilitation or new construction of 1,665 kilometers (km)
+  of urban roads, 424 km of drains, 44 km of piped water supply, 7 solid waste disposal sites, and 82 municipal facilities.
+2
+
+
+Program (UGIAP), effectively supporting governance reforms. 8 This shaped the Local
+Government (Pourashava) Act (2009) and other urban development projects supported by ADB
+and development partners. 9 Under the first and second projects, targeted pourashavas
+significantly improved their governance performance while receiving investments to meet their
+infrastructure needs.10 Major project governance achievements included (i) the establishment of
+town coordination and ward committees, supporting citizens’ participation, including
+representation of women and the poor; (ii) the development and implementation of gender action
+plans (GAPs) for pourashavas; (iii) computerization of tax and accounting records; and (iv)
+increased local revenue generation.11
+
+5.      Strengthening urban climate resilience. Climate change is a critical development issue
+for Bangladesh. Major climate risks for pourashavas include rising temperature, higher intensity
+and frequency of rainfall and wind loads, storm surges, and riverine flooding. Rising sea levels
+may affect pourashavas in coastal zones and intrude inland, increasing the salinization of both
+groundwater and surface water. Pourashavas will need to enhance their institutional abilities to
+sustain operation and maintenance (O&M) of infrastructure and services, specifically increasing
+the resilience of poor and vulnerable people.
+
+6.      Lessons learned. Lessons from earlier projects suggest that (i) governance-led
+infrastructure improvement has worked well, (ii) the use of a sector lending modality 12 is
+appropriate for a multicomponent project with performance-based fund allocations through a
+phased approach, and (iii) good quality and front-loaded capacity building and strong institutional
+support is required for pourashavas. 13 Thus, the overall project (current project including
+additional financing) adopts the sector lending modality.14 Capacity building support was provided
+during project preparation and continues during implementation.
+
+7.      Current project design. The current project 15 supports pourashavas through two
+schemes. The first scheme, called window A, provides infrastructure funds and capacity
+development support for governance improvement in 30 pourashavas with a total population of
+2.2 million. The support is provided in three phases based on compliance with UGIAP criteria.16
+
+8  The UGIAP for the current project covers (i) citizen awareness and participation, (ii) urban planning, (iii) gender
+   equality and social inclusion, (iv) local resource mobilization, (v) financial management and accountability, (vi)
+   administrative transparency, and (vii) keeping essential pourashava services functional.
+9 ADB: Secondary Towns Water Supply and Sanitation Sector Project (Bangladesh), and Local Governance
+
+   Enhancement Sector Project (Sri Lanka); World Bank: Municipal Governance and Services Project (Bangladesh);
+   Japan International Cooperation Agency: Inclusive Governance Project (Bangladesh). Development Coordination
+   Matrix (accessible from the list of linked documents in Appendix 2).
+10 ADB. 2012. The Urban Governance and Infrastructure Improvement Project in Bangladesh: Sharing Knowledge on
+
+   Community-Driven Development. Manila.
+11 Under the second project, local revenue generation was increased by $4 million (106%) for holding tax and by $11.5
+
+   million (129%) for non-holding tax at the end of the project, compared with baseline figures.
+12 In earlier projects the sector lending modality contributed to a significant improvement in urban development and
+
+   management, and initiated several institutional and sectoral reforms, including the Local Government (Pourashava)
+   Act (2009) and the draft National Urban Policy.
+13 ADB. 2014. Validation Report: Urban Governance and Infrastructure Improvement (Sector) Project in Bangladesh.
+
+   Manila. Overall validation rating is successful.
+14 Sector Development Plan (accessible from the list of linked documents in Appendix 2).
+15 Loan 3142-BAN (footnote 1), an Asian Development Fund loan of $125 million equivalent (now concessional loan
+
+   from ADB’s ordinary capital resources as of 1 January 2017), approved by the ADB Board on 17 July 2014, became
+   effective on 4 November 2014; Loan 8285(OFID) for $40 million from the OPEC Fund for International Development
+   (OFID) became effective on 9 April 2015. ADB administers procurement and disbursement under the OFID loan.
+16 With fulfillment of entry criteria by all 30 window A pourashavas, priority subprojects have been supported (phase 1).
+
+   Based on substantial progress of such investments and compliance with intermediate criteria, additional subprojects
+   are being implemented (phase 2) in all window A pourashavas. Meeting the advanced criteria and progress on the
+                                                                                                                       3
+
+
+The second scheme, called window B, allocates funds based on well-defined performance criteria
+on a competitive basis to all remaining pourashavas in the country. Funding of up to $2 million for
+infrastructure improvement will be provided to each of the top 20 pourashavas in the governance
+assessment, which will be conducted twice during implementation.17
+
+8.     Demand for expanding the current project’s successful model. In the government’s
+Seventh Five-Year Plan, urban development is a national priority to reduce urban poverty and
+improve living conditions through better city governance and service. 18 Given the successful
+performance of the current project and the government’s request to include five additional
+pourashavas under window A,19 additional financing of $200 million was included in the latest
+country operations business plan.20
+
+9.       The proposed additional financing will cover (i) the shortfall from the underestimation of
+the investment requirements under the current project21 to enable the continued financing of (a)
+priority infrastructure and governance improvements in 30 window A pourashavas, and climate
+and disaster resilience aspects 22 under output 1; and (b) infrastructure support for qualifying
+window B pourashavas under output 2; and (ii) the scaling up of the current project by (a)
+supporting additional activities under output 1 and (b) adding five window A pourashavas.
+
+10.      Additional financing eligibility criteria. The additional financing meets ADB’s eligibility
+criteria.23 The overall project (i) remains technically feasible, economically viable, and financially
+sound; (ii) is accorded high priority by the government; and (iii) is consistent with the current
+project’s development objectives, the government’s priorities, and the country partnership
+strategy, which prioritizes inclusive and environmentally sustainable growth, governance
+improvement, and climate- and disaster-resilient infrastructure and services. The current project
+has been rated on track since it started, and implementation progress and results are satisfactory.
+As of 15 June 2017, with 45% of project time elapsed, contracts worth $94.55 million (84% of
+Loan 3142-BAN) and disbursement of $50.38 million (45% of Loan 3142-BAN) had been
+achieved. Overall physical progress stands at 54% overall. 24 The current project has complied
+with safeguard requirements and adequately managed risks. Project readiness for additional
+financing is high. The overall project will contribute to Sustainable Development Goal 1125 and is
+in line with ADB’s urban operational plan.26
+
+
+   earlier phases 1 and 2 subprojects will make window A pourashavas eligible for investment support in phase 3. As
+   allocations of less than $3 million per pourashava for infrastructure improvement under earlier projects was
+   inadequate to meet the demand, window A pourashavas will receive more substantial investment under the overall
+   project, depending upon need and absorption capacity.
+17 For window B, a separate set of UGIAP criteria using objective and measurable governance indicators has been
+
+   prepared. Based on the first assessment in August 2016, the top 20 pourashavas selected are receiving infrastructure
+   investment assistance under the current project.
+18 Government of Bangladesh, Planning Commission. 2015. Seventh Five-Year Plan, FY2016–FY2020. Dhaka.
+19 Selected based on (i) population size, density, and growth; (ii) own-source revenues; (iii) level of past investments;
+
+   (iv) priority for district headquarter towns; and (v) compliance assessment with intermediate UGIAP criteria.
+20 ADB. 2016. Country Operations Business Plan: Bangladesh, 2017–2020. Manila.
+21 The design of the current project envisaged additional financing. Additional financing is even more critical as all 30
+
+   window A pourashavas have performed well, meeting the intermediate criteria for phase 2.
+22 Project preparation, which followed an integrated, consultative process to mainstream climate change adaptation
+
+   and mitigation in pourashavas included (i) climate risk and vulnerability assessments for wards; (ii) updates of urban
+   master plans, incorporating climate and disaster risks and priority interventions; (iii) capacity building; and (iv)
+   feasibility studies for priority subprojects, including climate-responsive engineering designs.
+23 ADB. 2011. Additional Financing. Operations Manual. OM H5/BP. Manila.
+24 Details are in the Summary of Project Performance (accessible from the list of linked documents in Appendix 2).
+25 Sustainable Development Goal 11: Make cities and human settlements inclusive, safe, resilient, and sustainable.
+26 ADB. 2012. Urban Operational Plan, 2012–2020. Manila.
+4
+
+
+B.        Impact and Outcome
+
+11.     The impact will be urban living conditions improved. The outcome will be municipal service
+delivery and urban governance in project towns improved.27 The current and aggregated outcome
+targets as a result of the additional financing are in the revised design and monitoring framework
+in Appendix 1.
+
+C.        Outputs
+
+12.     Based on the reasons for the proposed additional financing (para 9.), the outputs of the
+overall project will be as described in paras. 13–14.28
+
+13.    Output 1: Municipal infrastructure improved and made gender and climate
+responsive. The overall project will provide the following: (i) 600 kilometers (km) of roads
+improved or rehabilitated; (ii) 300 km of drains built or improved; (iii) 180 km of pipes installed or
+upgraded for water supply with 60,000 individual meters; (iv) slum improvement subprojects
+completed in all project towns with slums; (v) sludge management facilities built in 14 project
+towns; (vi) solid waste disposal sites built or improved in 20 project towns (total capacity 200 tons
+per day); (vii) climate issues considered in designing 80% of subprojects and incorporated, if
+necessary; and (viii) about 15,000 tons per year of carbon dioxide emissions reduced.29
+
+14.      Output 2: Capacity of pourashavas in urban service delivery, planning, and financial
+management improved. The overall project will provide the following: (i) town coordination and
+ward committees formed in 35 project towns; (ii) urban master plans developed through gender-
+inclusive processes gazetted in 35 project towns; (iii) standing committees on woman and children
+affairs, poverty reduction, and slum improvement (with 40% women participation) operationalized
+in 35 project towns; (iv) pourashava development plans, GAPs, and poverty reduction action plans
+(PRAPs) approved in 35 project towns; (v) annual O&M plans approved and budget allocated for
+implementation in 35 project towns; (vi) computerized tax records and billing systems made
+functional in 35 project towns; and (vii) top-performing pourashavas under window B awarded
+subproject funding.
+
+15.      Subproject selection criteria. Although selection of subprojects will generally follow the
+priorities set by each pourashava, the overall project will focus on key infrastructure such as roads,
+drainage, water supply, and sanitation, including septic tank sludge management, solid waste and
+fecal sludge management, and slum improvements. Other municipal facilities such as markets
+and bus terminals will be supported if sustainable O&M arrangements are clearly established.
+Subprojects in each phase will be stand-alone to avoid the risk of pourashavas not proceeding to
+the next phase because of poor governance.
+
+D.        Investment and Financing Plans
+
+16.    The overall project is estimated to cost $504.1 million, including additional financing of
+$200.0 million from ADB (Table 1). Detailed cost estimates by expenditure categories and detailed
+cost estimates by financier are in the project administration manual (PAM).30
+
+
+27 ‘Project towns’ refer to preselected pourashavas under window A.
+28 In accordance with ADB’s Updated Design and Monitoring Framework Guidelines (2015), output 3 in the design and
+
+    monitoring framework for current project will be removed and included under key activities with milestones.
+29 Contribution to the ADB Results Framework (accessible from the list of linked documents in Appendix 2).
+30 Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+                                                                                                                       5
+
+
+                                     Table 1: Project Investment Plan
+                                                 ($ million)
+                                                                       Current        Additional
+ Item                                                                  Amounta        Financingb          Total
+ A.        Base Costc
+          1.       Municipal infrastructure improvement                     164.8            218.4         383.2
+          2.       Capacity improvement of pourashavas                        13.6            17.9          31.5
+          3.       Project management and administration                      27.8              0.0d        27.8
+                   Subtotal (A)                                             206.2            236.3         442.5
+ B.        Contingenciese                                                     19.7            22.5          42.2
+ C.        Financing Charges During Implementationf                           10.1              9.3         19.4
+                              Total (A+B+C)                                 236.0            268.1         504.1
+ a Refers to the original amount. Includes taxes and duties of $11.8 million financed by the government.
+ b Includes taxes and duties of $29.4 million to be financed by the government through cash contribution.
+ c In early 2017 prices; exchange rate of $1 = Tk78.4 is used.
+ d For the additional financing, the project management and administration costs are built into outputs 1 and 2, and
+
+   suffice for the current project.
+ e Physical contingencies are computed at 5.0% for civil works and equipment. Price contingencies are computed
+
+   at 1.4%–1.5% on foreign exchange costs and 6.1%–6.3% on local currency costs; includes provision for potential
+   exchange rate fluctuation under the assumption of a purchasing power parity exchange rate.
+ f Include interest and commitment charges. Interest during construction for a regular ordinary capital resources
+
+   (OCR) loan has been computed at the 5-year fixed swap London interbank offered rate plus a spread of 0.5%
+   and a maturity premium of 0.1%. Commitment charges for a regular OCR loan are 0.15% per year to be charged
+   on the undisbursed loan amount. Interest during construction for a concessional OCR loan has been computed
+   at 2.0% per year.
+ Source: Asian Development Bank estimates.
+
+17.       The government has requested a regular loan of $100 million and a concessional loan of
+$100 million, both from ADB’s ordinary capital resources, to help finance the project. The regular
+loan will have a 25-year term, including a grace period of 5 years; an annual interest rate
+determined in accordance with ADB’s London interbank offered rate (LIBOR)-based lending
+facility; a commitment charge of 0.15% per year; and such other terms and conditions set forth in
+the draft loan agreement. Based on the straight-line method, the average maturity is 15.25 years,
+and the maturity premium payable to ADB is 0.10% per year.31 The concessional loan will have a
+25-year term, including a grace period of 5 years; an interest rate of 2.0% per year during the
+grace period and thereafter; and such other terms and conditions set forth in the draft loan
+agreement.
+
+18.    The financing plan is in Table 2. Part of the loan proceeds will be on-lent to pourashavas.
+Revenue-generating subprojects, including water supply, bus terminals, and markets, will be
+financed by a combination of grants and loans, with a grant–loan ratio satisfactory to ADB. Other
+subprojects will be 100% grant-funded. The government will bear the foreign exchange risk in
+repayment to ADB.
+
+
+
+
+31 The maturity-based premium of 0.10% is based on the loan terms and the government’s choice of repayment option
+
+  and dates.
+6
+
+
+                                              Table 2: Financing Plan
+                                               Currenta              Additional Financing                      Total
+                                       Amount ($       Share of     Amount ($       Share of       Amount ($       Share of
+ Source                                  million)     Total (%)      million)       Total (%)         million)     Total (%)
+ Asian Development Bank b                 125.0            53.0        200.0             74.6          325.0           64.5
+   OCR (regular loan)                         0.0           0.0        100.0             37.3          100.0           19.8
+   OCR (concessional loan)                125.0            53.0        100.0             37.3          225.0           44.6
+ OFID (loan)                                40.0           16.9           0.0              0.0           40.0            7.9
+ Governmentc                                71.0           30.1         68.1             25.4          139.1           27.6
+                Total                     236.0          100.0         268.1            100.0          504.1          100.0
+ OCR = ordinary capital resources, OFID = OPEC Fund for International Development.
+ a Refers to the original amount of the current project.
+ b Climate financing of $47 million is included. For details refer to Appendix 3 of the Project Administration Manual
+
+    (accessible from the list of linked documents in Appendix 2).
+ c For additional financing, the government will provide $68.1 million equivalent for (i) part of infrastructure subprojects,
+
+   (ii) land acquisition and resettlement, (iii) incremental recurrent costs, (iv) part of contingencies, and (v) taxes and
+   duties. Under the current project, of the $71 million in government contributions, $2.1 million are from pourashavas;
+   for additional financing, the government will discuss and agree on a share with pourashavas based on finalized
+   subprojects cost.
+ Note: Numbers may not sum precisely because of rounding.
+ Source: Asian Development Bank estimates.
+
+E.       Implementation Arrangements
+19.     The Local Government Engineering Department (LGED) and the Department of Public
+Health Engineering (DPHE) will continue to be the executing agencies for the overall project. The
+pourashavas will be the implementing agencies, supported by consultants for (i) management,
+design, and supervision; and (ii) governance improvement and capacity development.
+Implementation arrangements are summarized in Table 3 and described in detail in the PAM
+(footnote 30). Goods and civil works procured using national competitive bidding will follow the
+national procedures being used in the current project, which are acceptable to ADB. ADB and the
+government have reviewed these to ensure consistency with ADB’s Procurement Guidelines
+(2015, as amended from time to time).32 Consultants will be engaged using ADB’s Guidelines on
+the Use of Consultants (2013, as amended from time to time).
+
+                                   Table 3: Implementation Arrangements
+ Aspects                            Arrangements
+ Implementation period              August 2017–June 2021
+ Estimated completion date          30 June 2021 (loan closing date: 31 December 2021)
+ Management
+ (i) Oversight body                 Inter-ministerial project steering committee, chaired by secretary, LGD: LGED;
+                                    DPHE; Department of Environment; Economic Relations Division; Finance Division;
+                                    Implementation Monitoring and Evaluation Division; LGD; Ministry of Housing and
+                                    Public Works (Urban Development Directorate); Ministry of Women and Children
+                                    Affairs; Municipal Association of Bangladesh; Planning Commission (Physical
+                                    Infrastructure Division); National Institute of Local Government.
+ (ii) Executing agencies            LGED and DPHE
+ (iii) Implementing agencies        Pourashavas
+ (iv) Implementation unit           Pourashavas (total 35), 11 staff each
+ Procurement                        International competitive bidding          About 5 contracts             $4.83 million
+                                    National competitive bidding               About 230 contracts         $174.56 million
+                                    Shopping                                   About 2 contracts             $0.07 million
+                                    Community participation in                 About 170 contracts          $11.80 million
+                                    procurementa
+ Consulting services                Quality- and cost-based selection          3,976 person-months (5        $7.90 million
+                                                                               packages)
+
+32 Universal procurement will continue to apply to the additional financing.
+                                                                                                                       7
+
+
+ Aspects                            Arrangements
+                                    Individual consultant selection         160 person-months                $0.84 million
+ Retroactive financing and/or       Advance contracting is for recruitment of consultants, and procurement of works and
+ advance contracting                goods relating to subprojects in pourashavas. Retroactive financing will apply to up
+                                    to 20% of the loan amount for these contracts, and the establishment and operation
+                                    of project management and implementation units incurred before effectiveness of
+                                    the loan agreement but not earlier than 12 months before signing of the loan
+                                    agreement.
+ Disbursement                       The loan proceeds will be disbursed in accordance with ADB's Loan Disbursement
+                                    Handbook (2015, as amended from time to time) and detailed arrangements agreed
+                                    upon between the government and ADB.
+ADB = Asian Development Bank, DPHE = Department of Public Health Engineering, LGD = Local Government Division,
+LGED = Local Government Engineering Department.
+a For experienced communities, the threshold of $100,000 may be increased to reduce the number of contracts.
+
+Source: Asian Development Bank.
+
+                                              III.     DUE DILIGENCE
+A.       Technical
+20.     Sample subprojects appraised during the current project and developed during
+preparation of the additional financing confirmed the technical viability and compatibility with local
+implementation and O&M capacity. The same approach will be followed for future subproject
+design in accordance with subproject selection and design criteria, considering climate change,
+extreme weather, and natural hazards (footnote 30). Subprojects will be technically and
+operationally most appropriate, sustainable and least-cost, and designed based on whole-of-life
+analysis.33 Engineering designs will take into consideration the impact of climate change (flooding
+and waterlogging and, where relevant, increased salinity and wind loads) on vulnerable people
+and infrastructure systems and services.34
+
+B.       Economic and Financial
+
+21.     Economic analysis. The expected economic benefits are mainly (i) reduced vehicle
+operating costs and travel time savings; (ii) reduced property damage and loss of income from
+flooding; and (iii) improved health and resource savings with getting water from piped supply.
+Results of economic and sensitivity analyses confirm that two sample subprojects are
+economically viable, as base economic internal rates of return are 18.2% and 19.5%, respectively,
+which are above the economic opportunity cost of capital of 9.0%. Sensitivity analysis results are
+satisfactory unless all downside risks are combined. 35 Subprojects to be prepared during
+implementation will need to meet the economic and financial criteria in the PAM (footnote 30).
+
+22.     Financial analysis. A financial analysis was conducted for two sample subprojects with
+a cost recovery objective by estimating the incremental costs and revenues over the project life.36
+The financial internal rates of return were estimated at 4.2% for the water supply subproject and
+4.4% for the market development subproject, higher than the weighted average cost of capital of
+1.9%, indicating sufficient financial returns. For subprojects that will not generate revenue, the
+analysis focused on the pourashava’s financial capacity to meet incremental costs of the
+subprojects. The overall municipal financial position was projected, reflecting incremental
+revenues and expenditures and debt service. The projection confirmed that the sample subproject
+
+33 Refers to the total cost of ownership over the life of an asset.
+34 Project Climate Risk Assessment and Management Reporting (accessible from the list of linked documents in
+   Appendix 2).
+35 Economic Analysis (accessible from the list of linked documents in Appendix 2).
+36 Financial Analysis (accessible from the list of linked documents in Appendix 2).
+8
+
+
+pourashavas would have adequate financial capacity to meet incremental O&M costs and other
+requirements to sustain infrastructure and service delivery for the subprojects.
+
+C.         Governance
+
+23.     The executing and implementing agencies were assessed on ADB’s procurement and
+financial management requirements.37 Procurement contracts financed by ADB are subject to
+ADB’s review and include provisions specifying the right of ADB to audit and examine records
+and accounts of the executing and implementing agencies and all contractors, suppliers,
+consultants, and other service providers as they relate to the additional financing.
+
+24.     The financial management risk rating is moderate. An assessment of LGED, DPHE, and
+the pourashavas indicated that, with support of a dedicated financial management consultant in
+the project management unit (PMU) and a dedicated accountant in each project implementation
+unit (PIU), financial management capabilities and implementation support will be adequately
+strengthened.38 The procurement risk assessment rating is low.39 The LGED has experience in
+procuring goods, works, and consulting services in accordance with ADB procedures and
+requirements. The PMU and loan-funded specialists will support the PIUs in preparing and
+evaluating bid documents. This will be supplemented by regular training on procurement and
+accounting for the PIUs and other staff. Other measures to ensure transparency include the
+presentation of procurement information at public meetings to supplement online disclosure.
+
+25.    ADB’s Anticorruption Policy (1998, as amended to date) was explained to and discussed
+with the government. The specific policy requirements and supplementary measures are
+described in the PAM (footnote 30).
+
+D.         Poverty and Social
+
+26.     Men and women, including the poor living in the pourashavas, will benefit from the overall
+project, which is classified as having a gender equity theme. 40 The project will enhance
+inclusiveness of poor and marginalized groups in municipal decision making by (i) ensuring their
+sufficient representation on town coordination and ward committees; (ii) having each pourashava
+prepare a PRAP and GAP;41 (iii) forming poverty-reduction and slum-improvement committees;
+(iv) improving infrastructure and basic services in slums; and (v) upgrading health, hygiene, and
+the environment through a targeted project awareness-raising program. The design of
+infrastructure improvements will consider women’s needs. Women’s decision-making capacity
+and the focus of services and infrastructure on women will be enhanced. Implementation of
+PRAPs and GAPs, including the pourashavas’ budget allocation, will be monitored. With the
+additional financing, the GAP activities in pourashavas that are included under the current project
+will be continued, and the five new pourashavas will follow the same gender design as under the
+current project. Adequate resources are allocated for implementation and monitoring.
+
+
+
+
+37 ADB reserves the right to investigate, directly, or through its agents, any alleged corrupt, fraudulent, collusive, or
+
+    coercive practices relating to the project.
+38 Financial Management Assessment (accessible from the list of linked documents in Appendix 2).
+39 Procurement Risk Assessment (accessible from the list of linked documents in Appendix 2).
+40 Summary Poverty Reduction and Social Strategy (accessible form the list of linked documents in Appendix 2).
+41 Gender Action Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                                                  9
+
+
+E.       Safeguards
+
+27.    Safeguards compliance. The current project’s compliance with the safeguard
+requirements has been satisfactory and risks have been well-managed. 42 A project-specific
+grievance redress mechanism has been established and is functional. A corrective action plan
+was prepared and is being implemented for one reported complaint.
+
+28.     Environmental and social safeguards. The project remains category B for the
+environment and involuntary resettlement, and category C for indigenous peoples. The additional
+financing will have no significant impacts on environment, involuntary resettlement, and
+indigenous peoples, as subprojects with significant impacts will be excluded in accordance with
+subproject selection criteria. 43 The environmental assessment and review framework,
+resettlement framework, and indigenous peoples planning framework of the current project were
+updated. 44 Five draft initial environmental examinations, prepared for representative sample
+subprojects, confirmed no significant environmental impacts.45 Subprojects are generally small,
+sites are outside sensitive areas, and any impact during construction and operation can be
+avoided or mitigated through proper design, high-quality construction, and O&M practices. Initial
+environmental examinations will be part of the bidding and contract documents. No permanent
+involuntary land acquisition or physical displacement is identified for sample subprojects in two
+pourashavas. 46 Four acres of land from five landowners will be obtained through negotiated
+settlement.47 For the sample road and drainage subprojects, 53 shop owners and/or households
+are expected to temporarily lose access to government lands for economic activities or residence.
+No impacts on indigenous people’s communities were identified in the sample towns, and
+beneficiaries’ population is completely urban. Due diligence report for a sample solid waste
+subproject confirmed the absence of involuntary resettlement and indigenous peoples impacts. 48
+
+F.       Risks and Mitigating Measures
+
+29.     The overall risk assessment is moderate. Major risks and mitigating measures are
+summarized in Table 4 and described in detail in the risk assessment and risk management
+plan.49 Intended benefits are expected to outweigh costs.
+
+
+
+
+42 The current project’s PMU and PIUs have developed institutional capacity to implement and monitor safeguards;
+
+  PMU safeguard managers are in place and supported by loan-funded specialists.
+43 Potential safeguard category A subprojects with significant safeguard impacts will be excluded.
+44 Environmental Assessment and Review Framework, Resettlement Framework, and Indigenous Peoples Planning
+
+  Framework (accessible from the list of linked documents in Appendix 2).
+45 Initial Environmental Examination (IEE): Faridpur Water Supply; IEE: Mymensingh Solid Waste Management; IEE:
+
+   Gopalganj Roads; IEE: Cox’s Bazar Drainage; and IEE: Kushtia Sanitation (accessible from the list of linked
+   documents in Appendix 2).
+46 Resettlement Plan: Mymensingh Roads and Drains and Resettlement Plan: Cox’s Bazar Roads and Drains
+
+   (accessible from the list of linked documents in Appendix 2), prepared in consultation with affected people, are
+   appropriate to the identified potential impacts. Involuntary resettlement impacts were assessed per ADB. 2013.
+   Safeguard Policy Statement. Operations Manual. OM F1/OP. Manila (para 22).
+47 In accordance with ADB’s Safeguard Policy Statement (2009) Safeguard Requirement II, negotiated settlements will
+
+   offer adequate and fair prices for land and/or other assets. An independent external party will be engaged by the
+   borrower to document the negotiated settlement processes and ensure that the land sellers have access to
+   information on fair market price. ADB’s requirements for third party validation, mechanisms for calculating the
+   replacement costs of land and other assets affected, and record-keeping requirements will be met.
+48 Due Diligence Report: Cox’s Bazar Solid Waste Management (accessible from the list of linked documents in
+
+   Appendix 2).
+49 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+ 10
+
+
+                          Table 4: Summary of Risks and Mitigating Measures
+Risks                                                                    Mitigating Measures
+Prolonged process for land acquisition    For subprojects requiring land acquisition, the pourashavas have taken
+will delay implementation.                advanced action, which will be closely monitored by the project management
+                                          unit and the Asian Development Bank. Land acquisition for solid waste
+                                          management subprojects has started and is at an advanced stage for most
+                                          of the pourashavas.
+Solid waste is not properly segregated,   Awareness-raising programs supported by consultants will aim to change
+leading to less resource recovery and     citizens’ attitudes in order to start segregating waste. Collection,
+shortened service life of final disposal  transportation, and management of solid waste are a criterion under UGIAP,
+(landfill) sites.                         requiring pourashavas to improve performance.
+Budget allocation is insufficient to meet Under UGIAP, the pourashavas are required to improve property tax collection
+the increased demand for operation and efficiency and increase collection of indirect taxes, fees, rentals, and lease
+maintenance of facilities built by the    charges annually. Preparation of pourashava operation and maintenance
+project                                   plans, including budget provision, is required. Consultants will provide support
+                                          in achieving UGIAP criteria, and raising public awareness for payment of taxes
+                                          and other charges. Pourashavas will be encouraged to consider service
+                                          outsourcing for better management of revenue-generating facilities.
+UGIAP = Urban Governance Improvement Action Program.
+Source: Asian Development Bank.
+
+                                               IV.     ASSURANCES
+ 30.     The government has assured ADB that implementation of the additional financing shall
+ conform to all applicable ADB policies, including those concerning anticorruption measures,
+ safeguards, gender, procurement, consulting services, and disbursement as described in detail
+ in the PAM (footnote 30) and loan documents. The government has agreed with ADB on certain
+ covenants for the additional financing, which are set forth in the loan agreements.
+
+                                          V.         RECOMMENDATION
+
+ 31.      I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+ Asian Development Bank (ADB) and, acting in the absence of the President, under the provisions
+ of Article 35.1 of the Articles of Agreement of ADB, I recommend that the Board approve
+
+          (i) the loan of $100,000,000 to the People’s Republic of Bangladesh for the additional
+               financing of the Third Urban Governance and Infrastructure Improvement (Sector)
+               Project, from ADB’s ordinary capital resources, in regular terms, with interest to be
+               determined in accordance with ADB’s London interbank offered rate (LIBOR)-based
+               lending facility; for a term of 25 years, including a grace period of 5 years; and such
+               other terms and conditions as are substantially in accordance with those set forth in
+               the draft loan agreement presented to the Board; and
+          (ii) the loan of $100,000,000 to the People’s Republic of Bangladesh for the additional
+               financing of the Third Urban Governance and Infrastructure Improvement (Sector)
+               Project, from ADB’s ordinary capital resources, in concessional terms, with an interest
+               charge at the rate of 2% per year during the grace period and thereafter; for a term of
+               25 years, including a grace period of 5 years; and such other terms and conditions as
+               are substantially in accordance with those set forth in the draft loan agreement
+               presented to the Board.
+
+                                                                               Stephen P. Groff
+                                                                               Vice-President
+ 10 July 2017
+                                                                                               Appendix 1         11
+
+
+                         REVISED DESIGN AND MONITORING FRAMEWORK
+
+Impact the Project is Aligned with
+Current project: Improved living environment in project townsa
+Overall project: Urban living conditions improved (Seventh Five-Year Plan)b
+                                                                              Data Sources
+                          Performance Indicators with Targets and             and Reporting
+Results Chain                           Baselinesc                             Mechanisms             Risks
+Outcome
+Current project         Current project                                   For all
+Improved municipal      By 2020:                                          indicators:           Losing
+service delivery and    a. 40,000 households have new or improved         Project-specific      momentum for
+urban governance in        access to piped water supply.                  monitoring and        improvement
+project townsa          b. 40,000 households have improved solid          evaluation survey     because of
+                           waste collection services (at least twice a    (reports issued by    change in
+                           week).                                         pourashavas and       pourashava
+                        c. 85% holding tax collection efficiency          LGED)                 leadership
+                           achieved in 25 towns (Baseline: 5 towns).
+                        d. Pourashava-specific GAPs have at least 1%
+                           municipal revenue budget earmarked for
+                           implementation, of which 50% spent (Target:
+                           20 towns; Baseline: 5 towns).
+Overall project         Overall project
+Municipal service       By 2021:                                                                Budget allocation
+delivery and urban      a. 60,000 households have new or improved                               is insufficient to
+governance in project      access to piped water supply (Baseline: Not                          meet the
+townsa improved            applicable).                                                         increased
+                        b. 60,000 households have improved solid                                demand for O&M
+                           waste collection services, at least twice a                          of facilities built.
+                           week (Baseline: Not applicable).
+                        c. 85% holding tax collection efficiency
+                           achieved in 29 project towns (Baseline: 5
+                           project towns).
+                        d. Pourashava-specific GAPs have at least 1%
+                           municipal revenue budget earmarked for
+                           implementation, of which 50% spent, in 23
+                           project towns (Baseline: 5 project towns).
+Outputs
+Output 1
+Current project         Current project
+Municipal               By 2020:                                                                Timely
+infrastructure          1a. 300 km of roads improved or rehabilitated.    1a.–1h.               acquisition of
+improved and made       1b. 120 km of drains built or improved.           Annual reports        required land
+gender and climate      1c. 120 km of pipes installed or upgraded for     issued by
+responsive                  water supply with 40,000 individual meters.   pourashavas and
+                        1d. Slum improvement subprojects completed        LGED.
+                            in all project towns that have slums.
+                        1e. Sludge management facilities built in 10
+                            towns.
+                        1f. Final solid waste disposal sites built or
+                            improved in 15 towns (total capacity 150
+                            tons/day).
+                        1g. Climate issues considered in designing
+                            80% of subprojects and incorporated, if
+                            found necessary.
+                        1h. Approximately 10,000 tons of carbon
+                            dioxide emission reduced.d
+Overall project         Overall project
+Unchanged               By 2021:                                          Unchanged             Prolonged
+                        1a. 600 km of roads improved or rehabilitated                           process for land
+                            (Baseline: 0).                                                      acquisition
+12     Appendix 1
+
+
+                                                                           Data Sources
+                          Performance Indicators with Targets and          and Reporting
+ Results Chain                             Baselinesc                       Mechanisms             Risks
+                       1b. 300 km of drains built or improved                                 causes
+                           (Baseline: 0).                                                     implementation
+                       1c. 180 km of pipes installed or upgraded for                          delay.
+                           water supply with 60,000 individual meters
+                           (Baseline: 0).
+                       1d. Unchanged
+                       1e. Sludge management facilities built in 14
+                           project towns (Baseline: 0).
+                       1f. Solid waste disposal sites built or improved
+                           in 20 project towns (total capacity 200
+                           tons/day) (Baseline: 0)
+                       1g. Climate issues considered in designing
+                           80% of subprojects and incorporated, if
+                           necessary (Baseline: Not applicable).
+                       1h. About 15,000 tons per year of carbon
+                           dioxide emission reduced (Baseline: Not
+                           applicable).d
+Output 2
+Current project        Current project
+Improved capacity of   For project towns under window A (except the                           Alternative
+pourashavas in         last target):                                                          funding sources
+urban service          2a. TLCCs (Target: At least 33% women) and         2a. Annual          become
+delivery, planning,         WLCCs (Target: 40% women) formed in 30        reports issued by   available,
+and financial               towns by 2015 (Baseline: 5 towns).            pourashavas and     undermining the
+management                                                                LGED                incentive
+                       2b. Urban master plans developed through           2b. Gazetted        mechanism of
+                           gender-inclusive processes gazetted in 30      urban master        performance-
+                           towns by 2017e (Baseline: 0).                  plans               based fund
+                       2c. WCA and PRSI standing committees               2c. Annual          allocation.
+                           operational in 30 towns by 2016 (Target:       reports issued by
+                           40% women representation; Baseline: 0).        pourashavas
+                       2d. PDP, GAP, and PRAP approved in 30              2d. Approved
+                           towns by 2017 (Baseline: 5 towns).             PDP, GAP, and
+                                                                          PRAP
+                       2e. Annual O&M plan approved and own               2e. Annual
+                           budget allocated for implementation in 30      reports issued by
+                           towns by 2017 (Baseline: 5 towns).             pourashavas and
+                                                                          LGED
+                       2f. Computerized tax records and billing           2f. Annual
+                           system made functional in 30 towns by          reports issued by
+                           2018 (Baseline: 18 towns).                     pourashavas
+                       2g. Top-performing pourashavas under window        2g. Evaluation
+                           B awarded for subproject funding by LGD        reports issued by
+                           by 2017.                                       LGD
+Overall project        Overall project
+Capacity of            For window A project towns (except target 2g):     Unchanged           Removed
+pourashavas in         2a. TLCCs (Target: At least 33% women) and
+urban service              ward committees (Target: 40% women)
+delivery, planning,        formed in 35 towns by 2017 (Baseline: 5
+and financial              towns).
+management             2b. Urban master plans developed through
+improved                   gender-inclusive processes gazetted in 35
+                           towns by 2020e (Baseline: 0).
+                       2c. WCA and PRSI standing committees (with
+                           40% women representation) operational in
+                           35 towns by 2017 (Baseline: 0).
+                       2d. PDP, GAP, and PRAP approved in 35
+                           towns by 2017 (Baseline: Five towns).
+                                                                                               Appendix 1     13
+
+
+                                                                            Data Sources
+                          Performance Indicators with Targets and           and Reporting
+Results Chain                            Baselinesc                          Mechanisms               Risks
+                       2e. Annual O&M plan approved and own
+                           budget allocated for implementation in 35
+                           towns by 2018 (Baseline: 5 towns).
+                       2f. Computerized tax records and billing
+                           system made functional in 35 towns by
+                           2019 (Baseline: 18 towns).
+                       2g. Top-performing pourashavas under window
+                           B awarded subproject funding by LGD by
+                           2018. (Baseline: Not applicable)
+Output 3
+Current project         3a. PMU and PIUs established with core staff       3a. Reports
+Project management          appointed by August 2014.                      issued by LGED
+and administration      3b. Quarterly progress reports and audit           3b. Reports and
+system in place             reports meet ADB requirements and              audit reports
+                            submitted on time, beginning Q4 2014.          issued by LGED
+                                                                           and Foreign Aided
+                                                                           Project Audit
+                                                                           Directorate
+                        3c. Project implemented on time and within         3c. Quarterly
+                            budget.                                        progress reports
+                                                                           issued by LGED
+                        3d. All relevant staff oriented on gender and      3d. Reports
+                            trained on collection and monitoring of sex-   issued by LGED
+                            disaggregated data by 2016.
+Overall project
+Removedf
+Key Activities with Milestones
+1. Municipal infrastructure improved and made gender and climate responsive
+1.1 Prepare phase 1 subprojects in first 10 project towns (Q4 2014) (completed).
+1.2 Procure works for phase 1 subprojects in all project towns that meet entry criteria (Q4 2015) (completed).
+1.3 Procure works for phase 2 subprojects in all project towns that meet intermediate criteria (Q3 2017)
+      (changed).
+1.4 Procure works for phase 3 subprojects in all project towns that meet advanced criteria (Q3 2019) (changed).
+1.5 Procure works for towns receiving support under window B (2016–2018) (unchanged).
+2. Capacity of pourashavas in urban service delivery, planning, and financial management improved
+2.1 Conduct performance assessments (Q3 2014: entry criteria; Q3 2016: intermediate criteria; Q1 2019:
+      advanced criteria) (changed).
+2.2 Conduct performance assessments under window B (Q3 2016, Q3 2017) (changed).
+2.3 Provide governance improvement and capacity building support to project towns (until 2021) (changed).
+Project Management Activities
+(i) PMU and PIUs established with core staff appointed. Loan consultants for current project mobilized.
+(ii) New loan consultants mobilized by Q3 2017.
+(iii) Project performance management system considering poverty, gender, and social development issues
+      developed.
+(iv) Quarterly progress reports and audit reports meet ADB requirements and submitted on time.
+(v) All relevant staff oriented on gender and trained on collection and monitoring of sex-disaggregated data.
+(vi) Project management and monitoring including training undertaken
+Inputsf
+  Asian Development Bank
+         Ordinary capital resources (regular loan)               Ordinary capital resources (concessional loan)
+  $0.0 (current)                                              $125.0 (current)
+  $100.0 (additional)                                         $100.0 (additional)
+  $100.0 (overall)                                            $225.0 (overall)
+  Government of Bangladeshh
+  $71.0 (current)
+  $68.1 (additional)
+  $139.1 (overall)
+14       Appendix 1
+
+
+                                                                                   Data Sources
+                              Performance Indicators with Targets and              and Reporting
+  Results Chain                                 Baselinesc                          Mechanisms             Risks
+  Assumptions for Partner Financing:
+  Current Project
+  OPEC Fund for International Development: $40 million
+  Overall Project
+  Unchanged
+ADB = Asian Development Bank, GAP = gender action plan, km = kilometer, LGD = Local Government Division, LGED
+= Local Government Engineering Department, O&M = operation and maintenance, PDP = pourashava development
+plan, PIU = project implementation unit, PMU = project management unit, PRAP = poverty reduction action plan, PRSI
+= poverty reduction and slum improvement, Q = quarter, TLCC = town-level coordination committee, WCA = women
+and children affairs, WLCC = ward-level coordination committee.
+a “Project towns” refers to preselected pourashavas under window A.
+b Government of Bangladesh. 2015. Seventh Five-Year Plan FY2016–FY2020: Accelerating Growth, Empowering
+
+   Citizens. Dhaka.
+c All baseline data is as of early 2014.
+d This target is indicative; assumptions are detailed in the Project Administration Manual (accessible from the list of
+
+   linked documents in Appendix 2).
+e Gender-inclusive processes will be ensured in 15 project towns where the current project will prepare master plans.
+f In accordance with ADB. 2015. Updated Design and Monitoring Framework Guidelines. Manila, output 3 of the design
+
+   and monitoring framework for current project is now included under Key Activities with Milestones.
+g Reports issued by the Implementation Monitoring and Evaluation Division will also be used when available.
+h Under the current project, of $71 million in government contributions, $2.1 million are from pourashavas; for additional
+
+   financing, the government will discuss and agree on a share with pourashavas based on finalized subprojects cost.
+Source: Asian Development Bank estimates.
+                                                                            Appendix 2   15
+
+                                 LIST OF LINKED DOCUMENTS
+                   http://www.adb.org/Documents/RRPs/?id=39295-038-3
+
+1.    Loan Agreement: Ordinary Operations (Concessional)
+2.    Loan Agreement: Ordinary Operations
+3.    Sector Assessment (Summary): Water and Other Urban Infrastructure and Services
+4.    Project Administration Manual
+5.    Summary of Project Performance
+6.    Contribution to the ADB Results Framework
+7.    Development Coordination
+8.    Financial Analysis
+9.    Economic Analysis
+10.   Country Economic Indicators
+11.   Summary Poverty Reduction and Social Strategy
+12.   Gender Action Plan
+13.   Initial Environmental Examination: Faridpur Water Supply Subproject
+14.   Initial Environmental Examination: Mymensingh Solid Waste Management Subproject
+15.   Initial Environmental Examination: Gopalganj Roads Subproject
+16.   Initial Environmental Examination: Cox’s Bazar Drainage Subproject
+17.   Initial Environmental Examination: Kushtia Sanitation Subproject
+18.   Environmental Assessment and Review Framework
+19.   Resettlement Plan: Mymensingh Roads and Drains
+20.   Resettlement Plan: Cox’s Bazar Roads and Drains
+21.   Resettlement Framework
+22.   Indigenous Peoples Planning Framework
+23.   Risk Assessment and Risk Management Plan
+Supplementary Documents
+24.   Financial Management Assessment
+25.   Project Climate Risk Assessment and Management Reporting
+26.   Due Diligence Report: Cox’s Bazar Solid Waste Management
+27.   Sector Development Plan
+28.   Procurement Risk Assessment
+

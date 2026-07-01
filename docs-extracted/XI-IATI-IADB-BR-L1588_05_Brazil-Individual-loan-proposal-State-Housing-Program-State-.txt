@@ -1,0 +1,1819 @@
+                                                                                                     PUBLIC
+                                                                                   SIMULTANEOUS DISCLOSURE
+
+                        DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                                     BRAZIL
+
+
+
+
+        STATE HOUSING PROGRAM – STATE OF PARANÁ – VIDA NOVA PROJECT
+
+                                                   (BR-L1588)
+
+
+
+         SECOND INDIVIDUAL OPERATION UNDER THE CONDITIONAL CREDIT
+                   LINE FOR INVESTMENT PROJECTS (CCLIP)
+                                “PROMORAR”
+
+                                                  (BR-O0014)
+
+
+
+                                                LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Jorge Silva Herreros, Project Team Leader;
+Dalve Soria and Diego Arcia (CSD/HUD), Alternate Project Team Leaders; Verónica Adler,
+Sofía del Castillo, Gabriel Torres, Dianela Ávila, and Silvia Pérez (CSD/HUD); Bruno Camarano
+(CSC/CBR); Lidia Rebouças, Álvaro Fresno, Adriana Zambrano, and Luciana Vanzan (VPS/ESG);
+Guillermo Eschoyez and Carolina Verissimo da Silva (LEG/SGO); Ana Azevedo, Ángela Radis,
+Juan Carlos Lazo, Fabia de Assis, and David Salazar (VPC/FMP); Jorge Franco (SPD/SDV); Laisa Rachter
+(SCL/GDI); Alexandra Alvear (INE/INE); and Katia Queiroz and Ana Champloni (CSD/CCS).
+
+In accordance with the Access to Information Policy, this document is being released to the public and distributed to
+the Bank's Board of Executive Directors simultaneously. This document has not been approved by the Board. Should
+the Board approve the document with amendments, a revised version will be made available to the public, thus
+superseding and replacing the original version.
+                                                      CONTENTS
+
+
+
+PROGRAM SUMMARY
+
+I.     DESCRIPTION AND RESULTS MONITORING ............................................................... 1
+
+       A.     Background, problem to be addressed, and rationale .................................. 1
+       B.     Objectives, components, and cost................................................................ 9
+       C.     Key results indicators ................................................................................. 12
+
+II.    FINANCING STRUCTURE AND MAIN RISKS .............................................................. 13
+
+       A.     Financing instrument .................................................................................. 13
+       B.     Environmental and social risks ................................................................... 14
+       C.     Fiduciary risks ............................................................................................ 15
+       D.     Other key issues and risks ......................................................................... 15
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN............................................................ 16
+
+       A.     Summary of implementation arrangements ................................................ 16
+       B.     Summary of arrangements for monitoring results ....................................... 18
+
+IV.    ELIGIBILITY CRITERIA ............................................................................................ 19
+                                                       - ii -
+
+
+
+                                                     ANNEXES
+ Annex I         Summary Development Effectiveness Matrix
+
+ Annex II        Results Matrix
+
+ Annex III       Fiduciary Agreements and Requirements
+
+
+                                                      LINKS
+REQUIRED:
+  1     Multiyear execution plan / Annual work plan
+
+  2     Monitoring and evaluation plan
+
+  3     Environmental and social review Summary
+
+  4     Procurement plan
+
+ OPTIONAL:
+  1     Program economic analysis
+
+  2     Analysis of the State of Paraná’s financial, fiscal, and debt situation
+
+  3     Vertical logic
+
+  4     Gender and diversity
+
+  5     Climate change and sustainability
+
+  6     Program Operating Regulations
+
+  7     Bibliographic references
+
+  8     Casa Fácil Paraná Program
+
+  9     Environmental and social safeguards filter
+                                            - iii -
+
+
+
+
+                                        ABBREVIATIONS
+BIM        Building information modeling
+CCLIP      Conditional credit line for investment projects
+COHAPAR    Companhia de Habitação do Paraná (Paraná Housing Company)
+DALY       Disability adjusted life years
+EDGE       Excellence in design for greater efficiencies
+           Instituto Brasileiro de Geografia e Estatística (Brazilian Institute of Geography and
+IBGE
+           Statistics)
+ICAP       Institutional capacity assessment platform
+ICB        International competitive bidding
+IRR        Internal rate of return
+LOA        Annual Budget Law
+MtCO2e     Megatons of carbon dioxide equivalent
+NCB        National competitive bidding
+NDC        Nationally determined contribution
+NPV        Net present value
+PCR        Program completion report
+PEH        Programa Estadual de Habitação (State Housing Program)
+           Plano Estadual de Habitação de Interesse Social do Paraná (Paraná State Plan for
+PEHIS
+           Low-income Housing)
+PMU        Program management unit
+           Sistema Integrado de Administração Financeira [Integrated financial management
+SIAFI
+           system]
+           Sistema de Gerenciamento, Monitoramento e Acompanhamento de Programas e
+SIGMA-PP
+           Projetos (Program and project management, monitoring, and support system)
+           Sistema de Informações Sobre Necessidades Habitacionais do Paraná (Paraná
+SISPEHIS
+           Housing Needs Information System)
+                                                             PROGRAM SUMMARY
+                                                 BRAZIL
+             STATE HOUSING PROGRAM – STATE OF PARANÁ – VIDA NOVA PROJECT (BR-L1588)
+                                      SECOND INDIVIDUAL OPERATION
+       UNDER THE CONDITIONAL CREDIT LINE FOR INVESTMENT PROJECTS (CCLIP) “PROMORAR” (BR-O0014)
+                                                       Financial Terms and Conditions
+ Borrower:                                                                                   Flexible Financing Facility(a)
+ State of Paraná                                                            Amortization period:                       24.5 years
+ Guarantor:                                                                 Disbursement period:                       5 years
+ Federative Republic of Brazil                                              Grace period:                              6 years(b)
+ Executing agency:                                                          Interest rate:                             SOFR-based
+ Paraná Housing Company (COHAPAR)                                           Credit fee:                                (c)
+
+           Source              Amount (US$)                     %           Inspection and supervision fee:            (c)
+
+ IDB (Ordinary Capital):          150,000,000                        80     Weighted average life:                     15.25 years
+ Local:                            37,500,000                        20
+                                                                            Approval currency:                                 United States dollar
+ Total:                           187,500,000                       100
+                                                              Program at a Glance
+ Program objective/description: The program’s general objective is to enhance the quality of life of the socially vulnerable
+ population living in shantytowns, informal favela-like settlements, or unhealthy housing in the State of Paraná, by improving access
+ to decent housing, basic infrastructure conditions, and socioenvironmental actions. Its specific objectives are to: (i) increase access
+ to equitable and sustainable housing and habitat solutions for the socially vulnerable population; and (ii) improve the assistance
+ provided by COHAPAR, through innovative and smart public management. This will be the second individual operation under the
+ ProMorar CCLIP (operation BR-O0014), approved by Resolution DE-57/23, for a total of US$600 million. The program will
+ contribute to the CCLIP’s objective of promoting new housing and habitat improvement strategies in Brazil, by supporting a
+ subnational government entity, i.e. the State of Paraná, in the preparation and implementation of low-income housing programs
+ (paragraph 1.28).
+
+ Special contractual conditions precedent to the first disbursement of the financing: The borrower, through the executing
+ agency, will submit evidence to the Bank of the following: (i) the signing and entry into effect of an agreement between the borrower
+ and the executing agency for the transfer of resources and the execution of program activities; (ii) the approval and entry into effect
+ of the program Operating Regulations, under the terms previously agreed upon with the Bank; and (iii) the creation of the program
+ management unit and appointment of that unit’s staff indicated in paragraph 3.2. Other special contractual conditions may be
+ consulted in the environmental and social action plan and in Annex B of the environmental and social review summary
+ (paragraph 3.5).
+
+ Special contractual conditions for execution: (i) Before activities are undertaken in a program beneficiary município, the
+ executing agency will provide evidence that an agreement has been signed with that municipal government, specifying the
+ responsibilities of both parties in the execution of the project in question, including works maintenance obligations; (ii) before the
+ first service order for program works is issued, the borrower will submit evidence to the Bank that a firm has been contracted to
+ support program management; (iii) prior to the execution of each of the program’s works begins, the executing agency will submit
+ evidence that a firm has been hired for the respective technical and socioenvironmental supervision; and (iv) the deadline for the
+ start of program works will be three years from the effective date of the loan contract. Other special contractual conditions may be
+ consulted in the environmental and social action plan and in Annex B of the environmental and social review summary
+ (paragraph 3.6).
+ Exceptions to Bank policies: None.
+                                                               Strategic Alignment
+ Objectives:(d)                                       O1 ☒                                        O2 ☒                                 O3 ☐
+                                                        OF2-G ☒
+ Operational focus areas:(e)             OF1 ☒                            OF3 ☒           OF4 ☐            OF5 ☐           OF6 ☒            OF7 ☐
+                                                        OF2-D ☒
+(a)
+    Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the amortization
+    schedule, as well as currency, interest rate, commodity, and catastrophe protection conversions. The Bank will take operational and risk management
+    considerations into account when reviewing such requests.
+(b)
+    Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that they do not entail
+    any extension of the original weighted average life of the loan or the last payment date as documented in the loan contract.
+(c)
+    The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the
+    Bank’s lending charges, in accordance with the applicable policies.
+(d)
+    O1 (Reduce poverty and inequality); O2 (Address climate change); and O3 (Bolster sustainable regional growth).
+(e)
+    OF1 (Biodiversity, natural capital, and climate action); OF2-G (Gender equality); OF2-D (Inclusion of diverse population groups); OF3 (Institutional
+    capacity, rule of law, and citizen security); OF4 (Social protection and human capital development); OF5 (Productive development and innovation
+    through the private sector); OF6 (Sustainable, resilient, and inclusive infrastructure); and OF7 (Regional integration).
+                              I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem to be addressed, and rationale
+1.1       Background and general rationale. The State of Paraná, which occupies an area
+          of 199,298 square kilometers [1] 1 in southern Brazil, has an estimated population of
+          11,443,208 (Brazilian Institute of Geography and Statistics (IBGE), 2022). Paraná
+          has the fifth largest state GDP [2], the sixth largest per capita GDP [3], and the fifth
+          highest Human Development Index (0.792 in 2017) of the 26 Brazilian states [4]. It
+          has a payment capacity of “B,” and a sound fiscal situation with low debt indicators
+          and high current savings and liquidity. 2 Despite its strong position in the national
+          context, Paraná still has persistent pockets of poverty and vulnerability. More than
+          40% of households are poor in 36 of the state’s 399 municípios (IBGE, 2010), which
+          is much higher than the state average (18.4%). In Paraná, 33% of the population
+          lives in municípios with a Human Development Index below the Brazilian municipal
+          average, compared to 10% in the other states of the South Region [5].
+1.2       The economic crisis that had afflicted the country since 2014 caused a significant
+          increase in poverty, following a period of sustained poverty reduction. Between 2014
+          and 2021, the poverty rate in Brazil increased by 5 percentage points, from 10.7%
+          to 15.7% [6]. In Paraná, a study by the Getulio Vargas Social Foundation estimates
+          that between 2019 and 2021 alone, poverty increased by 2.51 percentage points
+          [7, 8]. One of the factors contributing to this increase 3 has been the deterioration in
+          access to decent housing for the most vulnerable population. Data from the Paraná
+          State Low-income Housing Plan (PEHIS) show that the housing deficit in Paraná
+          increased from 485,255 dwellings in 2015 to 511,746 in 2020. Of this number,
+          322,533 represent a quantitative deficit. 4 This deficit has grown unevenly and has
+          had a greater impact on the most disadvantaged groups (paragraphs 1.15 and 1.16).
+          Comparing the deficit data with the income of Paraná families who registered with
+          the online applicant register to access a home of their own through the Paraná
+          Housing Company (COHAPAR), shows that 87% of them have incomes of up to
+          three times the minimum wage. A 2022 World Bank report [9] that assessed different
+          affordability measures found that acquiring a home is “far beyond the reach” of this
+          population group in Brazil. This means that most of the families that comprise the
+          deficit are not able to acquire a home 5 on their own or obtain financing through the
+          banking system, and therefore depend directly on the public sector to exercise their
+          constitutional right to housing.
+
+1    A complete bibliography can be found at optional link 7 with references identified by the number in square
+     brackets [#].
+2    For an analysis of the financial, fiscal, and debt situation of the State of Paraná, see optional link 2.
+3    Although the methodology used to measure poverty in Brazil only takes income poverty into account, other
+     methodologies that measure multidimensional poverty consider access to adequate housing as one of the basic
+     structural needs of society.
+4    The quantitative deficit is the need for housing production. It comprises: (i) the applicant register maintained by
+     COHAPAR and a number of municipal governments, from which 30% is subtracted to avoid double counting
+     (because there is no unified applicant register); (ii) informal settlements located in preservation and at-risk areas
+     that require total or partial resettlement; and (iii) precarious collective housing for rent (tenement buildings or
+     cortiços).
+5    The estimated cost of a standard COHAPAR housing unit is currently R$137,106 (US$27,548). This amount
+     does not take into account typology variations (persons with disabilities, and large or blended families), or
+     discounts potentially obtained in the bidding process.
+                                                        -2-
+
+
+
+1.3      Given the shortage of subsidized housing and the scarcity of land that is suitable in
+         terms of location and services to build housing units, many families have decided to
+         occupy urban areas illegally. In many cases, these areas have not been developed
+         owing to their exposure to natural disaster hazards, such as floods and landslides,
+         as well as to the impacts of climate change, including heatwaves and flooding [10]. 6
+         The result has been an increase in the number of dwellings in informal settlements
+         that are located in at-risk areas. In PEHIS 2015, 31,889 households were recorded
+         as requiring resettlement because they were located in at-risk or protection areas.
+         By 2020, this figure had increased significantly (24.5%) for a total of 41,711.
+1.4      The deterioration in access to housing units for the vulnerable population is
+         attributable to two main reasons: (i) insufficient production of qualified housing 7 for
+         this specific population group; and (ii) the deterioration of housing conditions in
+         informal settlements owing to the effects of climate change.
+1.5      Insufficient production of qualified housing units for the vulnerable
+         population. Between 2008 and 2014, Brazil experienced a major real estate boom,
+         at a time when the federal government also made substantial investments in the
+         housing area, generating large-scale production of low-income housing projects
+         targeted to the lower-income population, with several lines of financing subsidized
+         through the Minha Casa, Minha Vida program. During this period, the states and
+         municípios collaborated as supporting entities in a management model centralized
+         in the Ministry of Cities and the federal savings bank, Caixa Econômica Federal.
+         Since 2015, however, as a result of the aforementioned crisis, federal resources for
+         low-income housing have been cut back; and since 2018 funding has only been
+         allocated to projects under construction. 8 This has resulted in a scarcity of housing
+         units available for people with a monthly income of up to three times the minimum
+         wage [11]. In the last five years, the number of housing units built by COHAPAR to
+         serve this population segment averaged 376 per year, which is insufficient to meet
+         the demand in the state. Yet there is practically no private supply in the real estate
+         market, given the financing constraints of these families. This situation is aggravated
+         in municípios with smaller populations located far from large urban centers, where
+         virtually all housing supply for this group is heavily subsidized.
+1.6      Deterioration of dwellings located in informal settlements owing to the effects
+         of climate change. According to a recent study conducted by the National
+         Confederation of Municipal Governments [12], the number of homes that are either
+         damaged or destroyed has been rising in Brazil in recent years. Between 2013 and
+         2022, more than two million housing units were damaged across the country as a
+         result of extreme weather events, and over 107,000 were effectively destroyed,
+         which meant a loss of more than R$26 billion (US$5.3 billion). The South Region has
+         been hit hardest by this phenomenon, with about 46.79% of its housing units
+         damaged or destroyed over the last 10 years. In Paraná, this phenomenon affected
+         146,616 homes. Most of them are located in informal, undeveloped, and illegal
+
+6   Paraná state already acknowledges the effects of climate change and is developing the Paranaense Climate
+    Change Program (2020) to address this challenge.
+7   Qualified housing are housing units that not only meet minimum inhabitability and safety standards, but also
+    respond to the specific social and environmental needs of the families living in them.
+8   Following the delivery of 11,609 federally financed housing units in 2014, the number peaked at 12,455 in 2015.
+    Since then, the number of homes delivered has dropped sharply, reaching a minimum in 2019 when just
+    275 homes were delivered statewide, i.e. a 98% reduction in just five years. In 2022, only 520 federally financed
+    housing units were delivered.
+                                                        -3-
+
+
+
+          settlements, which are in many cases unfit to live in, owing to deficiencies in the
+          provision of basic utilities (or total lack thereof) or because they are located in
+          disaster-prone areas. Although federal housing policies prioritize assistance for
+          families living in at-risk areas, in practice the reduction in funding for low-income
+          housing has made this impossible. Between 2015 and 2019 9 the number of
+          households living in precarious settlements in the state grew by roughly 32% [13],
+          with significant negative impacts on the quality of life of the most socially vulnerable
+          population. These include a major proliferation of serious diseases, 10 reduced life
+          expectancy among the people living in such settlements, a context of violence in the
+          surrounding environment; and the lack of a network of quality public schools, access
+          to public transportation and jobs, among other impacts.
+1.7       To make up for the lack of federal resources, in 2019 the Paraná state government
+          developed a new housing policy, the Casa Fácil State Housing program (PEH), which
+          is being implemented by COHAPAR. One of the missions of this program is to serve
+          families enduring conditions of high social vulnerability, living in favela-type precarious
+          settlements that are susceptible to flooding and/or environmental hazards.
+1.8       COHAPAR is a mixed economy enterprise managed indirectly by the State of
+          Paraná, attached to its Ministry of Cities. It was created in 1965 with the aim of
+          formulating, coordinating, and implementing the state’s housing policy, and planning
+          and executing projects and programs. In its 58 years of operation, COHAPAR has
+          experience with more than 300,000 housing units distributed throughout the state. It
+          has a decentralized structure distributed across 12 regional offices that enable it to
+          supervise and manage projects throughout the state. 11 COHAPAR currently
+          executes a variety of programs to assist vulnerable populations of different types,
+          including financing for families with borrowing capacity, programs targeted to older
+          adults, property titling programs, land regularization, and attention to communities
+          living in precarious settlements in at-risk areas. 12 Its funding comes from: (i) the state
+          treasury, specifically the State Fund to Combat Poverty (FECOP); (ii) the General
+          Budget of the Union; (iii) the Length of Service Guarantee Fund (FGTS); and
+          (iv) private funding and international loans. COHAPAR has an annual budget of
+          approximately US$51 million [14].
+1.9       Although COHAPAR has a robust and well-prepared structure, there is a need to
+          modernize its management and provide continuous training for its teams, in order to
+          expand its potential to provide assistance and expedite the provision of solutions in
+          a socially equitable and environmentally sustainable manner. Currently, the time
+
+9    Data on the impact of COVID19 are not yet available. The SISPEHIS database will only be updated with these
+     data in 2023.
+10   A study conducted between September 2020 and February 2021 in 16 Rio de Janeiro favelas found that their
+     inhabitants have a much higher COVID-19 prevalence rate than previously documented for the state and
+     município of Rio de Janeiro. “Prevalence and Predictors of Anti-SARS-CoV-2 Serology in a Highly Vulnerable
+     Population of Rio de Janeiro: A Population-based Serosurvey.” The Lancet Regional Health - Americas, 15,
+     100338.
+11   The regional offices are responsible for coordinating with the municipal governments and the various local
+     agencies, such as water and energy companies, in addition to maintaining direct contact with the population
+     served by COPAHAR projects. The technical teams carry out field work and monitoring of projects and works,
+     hold meetings, and conduct socioenvironmental monitoring, while also providing all assistance needed to make
+     COHAPAR's programs effective. Its organizational structure includes professionals in the administrative,
+     financial, real estate, social, and engineering areas, as well as a coordination team that manages projects and
+     liaises with headquarters in all areas, and reports directly to COHAPAR’s president.
+12   For more detailed information on the programs implemented by COHAPAR, see optional link 8.
+                                                         -4-
+
+
+
+          COHAPAR spends preparing basic projects averages 9.14 months, 13 despite the fact
+          that available technologies could shorten this time considerably. Also, the increase
+          in housing demand, together with society’s new demands for gender equity and
+          diversity actions (paragraphs 1.15 and 1.16), and an increase in problems
+          associated with climate change (paragraph 1.17) require an institutional framework
+          with the capacity to meet these challenges.
+1.10      Vida Nova Program. This program was created in 2019 14 and forms part of the PEH.
+          It targets small and medium-sized municípios that have limited access to credit
+          operations and need support in managing housing projects, 15 through the
+          construction of housing complexes with units that are fully subsidized (grant). The
+          Vida Nova Program is structured in two lines of action: (i) closed demand, i.e.
+          complete resettlement of groups of families living in informal and precarious
+          settlements (favelas) that are prone to flooding, landslides, and/or other
+          environmental hazards, resettling them in housing projects with adequate
+          infrastructure; and (ii) open demand, i.e. individual housing assistance provided to
+          families in a situation of high social vulnerability dispersed throughout the state,
+          through the construction of comprehensive housing projects.
+1.11      COHAPAR issues a call for proposals open to all of the state’s municípios. Those
+          interested must present the land areas on which the housing complexes are to be
+          built, and indicate the type of demand that the project will address (closed or open).
+          COHAPAR evaluates the feasibility of the land in question, or the conditions needed
+          to acquire them, as the case may be, from the technical, environmental, legal, and
+          urban integration perspectives (need for urban infrastructure such as sanitation,
+          paving, and electricity supply). Once the land is approved, COHAPAR prepares the
+          technical projects for urbanization and construction, and then tenders the
+          corresponding works.
+1.12      COHAPAR has established the following criteria for prioritizing projects: (i) projects
+          that serve families in situations of risk, emergency, and/or public calamity; (ii) projects
+          that involve involuntary resettlement of families; (iii) projects in municípios with fewer
+          than 50,000 inhabitants; (iv) the Human Development Index of the município in
+          question; and (v) the order in which the municípios submit complete documentation of
+          the land to be used in the program.
+1.13      In cases of closed demand, the entire community living in a precarious settlement and
+          in conditions of social vulnerability is selected. Alongside execution of the housing
+          complex, social work is undertaken with the previously identified families, which
+          involves socioenvironmental support, help in the transition to the new housing, and
+          multisectoral activities for their inclusion in state public policies. Upon completion of
+          the works, the families are resettled in the new complex (destination area) and receive
+          assistance according to their degree of vulnerability. This may involve inclusion in
+
+13   The average time is measured from the issuance of the service order for preparation of the basic project though
+     to its final approval by COHAPAR.
+14   The Bank will be providing technical and financial support for the Vida Nova Program, which is already under
+     way.
+15   The Cities Statute requires municípios with more than 20,000 inhabitants to have master plans, which implies
+     the creation of municipal low-income housing plans and the formation of institutional structures such as
+     municipal housing councils and housing secretariats. However, smaller and medium-sized municípios face
+     challenges such as a lack of trained staff and limited budgets to implement housing policies. They also mostly
+     lack the administrative and financial capacity to raise the funds needed to assist a project's target population.
+                                              -5-
+
+
+
+       public policies on health, education, security, the environment, income generation, job
+       offers, and technical training. The old settlement (area of origin) is fenced off and its
+       buildings demolished to prevent it from being repopulated. The land is subject to
+       environmental recovery; and, if possible, it is converted into a useful public space (e.g.,
+       park, plaza, or community facilities).
+1.14   In the case of open demand, at the end of the construction process, beneficiary
+       families are selected from COHAPAR’s applicant register, prioritizing: (i) families
+       residing in at-risk or unhealthy areas, or who have become homeless; (ii) families with
+       a female head of household; (iii) families that include at least one person with a
+       disability; (iv) families benefiting from the Bolsa Família program (PBF) or the
+       Continuous Cash Benefit (BPC) of the Social Assistance Policy; (v) families with
+       dependents under 18 years of age; and (vi) families with an excessive rent burden. In
+       both types of assistance, the entire process is supported by the socioenvironmental
+       team of COHAPAR and the beneficiary municipal government.
+1.15   Gender considerations. Gender gaps in Paraná’s housing deficit, as in the country
+       at large, are significant. According to data of the João Pinheiro Foundation (2019)
+       there is a quantitative deficit of 60% in female-headed households, compared to one
+       of 40% in households headed by men. This disparity is reflected in the three
+       components of the deficit: 54.6% of female-headed households were living in
+       precarious housing, compared to 45.4% of households headed by men; 62.7% of
+       female-headed households were subject to overcrowding, compared to 37.3% of
+       male-headed households; and 61% of female heads of family faced problems of
+       excessive rent, compared to 39% of their male counterparts. In addition, women also
+       have a lower perception of safety in their homes, neighborhoods, and cities. Data for
+       2021 from the sense of safety supplement of the household survey reveal that
+       women feel less safe than men, both in their homes and neighborhoods, and
+       especially in their cities. In the South Region of Brazil, the perception of safety gap
+       is 4.3% in neighborhoods (19% in the case of women versus 14.7% for men) and
+       6% in cities (31.2% versus 25%).
+1.16   Diversity considerations. Data from the 2019 Health Survey for Paraná show that
+       only 62% of persons with disabilities had simultaneous access to the three basic
+       sanitation services [15], compared to 73% among persons without disabilities. The
+       figure is even lower for the visually impaired (57%) and among those with physical
+       impairment of the upper limbs (60%). Brazilian law requires at least 5% of housing
+       to be destined for persons with disabilities, without specifying construction standards
+       that are adapted to their needs. The regulations of the Vida Nova Program already
+       require architectural standards to include housing adapted to the disabilities of its
+       inhabitants, in compliance with the 5% minimum legal requirement.
+1.17   Climate change mitigation and adaptation considerations. The precarious
+       settlements that will benefit from the program are not only located mostly in disaster
+       risk areas, but are also more exposed to the impacts of climate change. Paraná has
+       experienced severe and extreme weather events in terms of rainfall, air humidity,
+       wind, and temperature, associated with changing weather patterns (paragraph 1.6).
+       These are of concern to various sectors of society in terms of susceptibility to
+       damage and the resilience of infrastructure systems [16]. According to climate
+       projections available for the state, spanning 2041-2070, the northeastern part of the
+       state could experience an increase of up to 5.6ºC in temperature and
+       an 18% reduction in rainfall volume, while the southeastern part could be the most
+       affected in terms of the number of consecutive days without precipitation (dry days)
+                                                       -6-
+
+
+
+          in the year. 16 In terms of greenhouse gas emissions, Paraná ranks 12th among
+          Brazilian states, with total emissions of roughly 76 metric tons of CO2e (as of 2020),
+          of which 4.9% of energy sector emissions can be attributed to residential energy
+          consumption [17]. Green and resilient low-income housing provides an opportunity
+          to address these climate challenges and join efforts towards the objectives of the
+          Paris Agreement, while providing social, economic, and environmental benefits to
+          residents.
+1.18      Brazil has made a commitment to combat climate change, with its Nationally
+          Determined Contribution (NDC, 2022) stating that it will reduce greenhouse gas
+          emissions by 37% by 2025 relative to the 2005 baseline and by 50% no later than
+          2030, and that it will achieve carbon neutrality by 2050. The NDC also acknowledges
+          the need to improve development indices in the areas of housing and social inclusion,
+          while contributing to global efforts to mitigate greenhouse gas emissions. The state is
+          developing the Paraná State Climate Change Program (ParanáClima, 2020), guided
+          by the Paraná State Climate Change Policy, established in Law 17,133/2012. This
+          operation contributes to the climate commitments of both Brazil and the state, since
+          the application of environmental sustainability criteria in the development of low-
+          income housing highlights their importance, by promoting the efficient and rational use
+          of natural resources. It also improves habitability conditions, reduces family expenses
+          on basic utilities; and, among other collateral benefits, it contributes to reducing local
+          pollution. In addition, quality housing solutions located in non-hazard-prone areas can
+          reduce the population’s vulnerability to the effects of climate change by implementing
+          resilient design strategies, and by incorporating adaptive measures that mitigate risks
+          and improve the safety and general well-being of both individuals and communities.
+1.19      Rationale. Through the National Housing Department (SNH), the Brazilian
+          government requested the Bank’s support to develop new models of housing and
+          habitat provision, and to formulate policy strategies for the sector, especially for the
+          most vulnerable groups. In response, the Bank created the ProMorar Conditional
+          Credit Line for Investment Projects (CCLIP) (operation BR-O0014), with a 10-year
+          utilization period and an individual operation capacity of up to US$600 million. This
+          project is the second operation under the CCLIP. It aligns with the CCLIP objectives
+          by supporting a subnational agency, in this case COHAPAR, to implement new
+          housing and habitat improvement strategies by adopting several innovations in
+          programs for the socially vulnerable population in Paraná. The operation will draw
+          on the Bank’s experience in the country and sector by proposing the following
+          value-added elements: (i) mainstreaming of gender and diversity in its solutions, by
+          building housing complexes tailored to the specific needs of each family;
+          (ii) incorporation of environmental sustainability and energy and water efficiency
+          criteria in all program housing; (iii) prioritization of nature-based solutions for the
+          recovery of environmentally degraded areas that are subject to high climate risk,
+          including measures to discourage their reoccupation; (iv) incorporation of building
+          information modeling (BIM) technology in the review and approval of projects within
+          COHAPAR; (v) training for COHAPAR staff in the issues mentioned above
+          (i.e., gender and diversity, green housing and infrastructure, and technology
+          systems) to update and improve its capacity to provide assistance; and
+
+16   These data are from an unpublished study that evaluated the climate change vulnerability of 399 Paraná
+     municípios. The research, coordinated by the Oswaldo Cruz Foundation (Fiocruz), forms part of the Climate
+     Change Vulnerability Project, undertaken in partnership with the Ministry of the Environment. The study uses
+     climate projections for the future scenario (2041-2070) compared to the present (1960-1990).
+                                            -7-
+
+
+
+       (vi) implementation of a high-standard environmental and social management
+       system.
+1.20   The Bank’s experience in the country. The program builds on the capacities
+       developed in previous Bank-financed housing and urban development programs in
+       Brazil. Examples include the “Habitar Brasil” Low-income Neighborhood
+       Improvement Program (loan 1126/OC-BR), which sought to address the housing
+       shortage in precarious urban settlements through integrated urbanization projects.
+       This program is also aligned with other operations focused on improving urban and
+       social conditions for vulnerable communities, including the Rio de Janeiro Urban
+       Upgrading Program (Favela Bairro I), loan 898/OC-BR, 1995-2001; Favela Bairro II,
+       loan 1241/OC-BR, 2000-2006; Favela Bairro III, loan 2482/OC-BR, 2010-2019); the
+       Integrated Sustainable Urban Development Program for the Municipality of João
+       Pessoa (loan 4444/OC-BR), the Urban Upgrade Program in the Western Area of
+       Aracaju – Building for the Future (loan 4736/OC-BR), the PROCIDADES programs
+       (loans BR-L1043; 1960/OC-BR; 1961/OC-BR; 1986/OC-BR; 1990/OC-BR;
+       2054/OC-BR; 2121/OC-BR; 2246/OC-BR; 2320/OC-BR; 2752/OC-BR; 2751/OC-
+       BR; and 2999/OC-BR); and in Paraná the “Família Paranaense” Integrated Social
+       Inclusion and Urban Requalification Program (loan 3129/OC-BR). The objective of
+       the first individual operation under the CCLIP (BR-L1596) is for the federal
+       government to provide public, private, and civil society stakeholders with new tools
+       to facilitate and diversify access to low-income housing solutions with a view to
+       enhancing access to decent housing. While the focus of the first operation was on
+       providing tools to access low-income housing solutions, connecting supply with
+       demand, and promoting microfinance programs as a means for improving housing,
+       the second operation underscores the need to directly improve access to decent
+       housing, and improve basic infrastructure and socioenvironmental conditions. By
+       addressing different dimensions of the housing problem—from facilitating and
+       providing financing for buying and improving housing to direct intervention in
+       precarious settlements—both operations work in a comprehensive way to strengthen
+       housing and habitat policy in Brazil, ensuring a sustained impact on reducing the
+       qualitative and quantitative housing deficit, and on promoting more inclusive and
+       sustainable urban development.
+1.21   The Bank’s experience in the region. The Bank’s housing programs promote
+       actions targeting the social and urban inclusion of housing with the rest of the city,
+       working at the scale of the dwellings and that of its surroundings. Regional examples
+       include the following: in Chile, the Program for the Integration of Vulnerable
+       Neighborhoods (loan 5313/OC-CH); in Argentina, the CCLIP for the Barrio
+       Improvement Program (PROMEBA II) (AR-X1004), the Urban Integration and Social
+       and Educational Inclusion Program in the Autonomous City of Buenos Aires (loan
+       4303/OC-AR), the CCLIP for the Social and Urban Integration Program in Greater
+       Buenos Aires (loan 4823/OC-AR), and the Social and Urban Integration Program
+       (loan 4804/OC-AR); in Uruguay, the Neighborhood Improvement Program, Phases I,
+       II, and III (loan UR-X1003); and in Paraguay, the Improvement of Housing and
+       Habitat Program (loan 3538/OC-PR) and the Housing and Rehabilitation Program
+       for Bañado Sur in Asunción (Tacumbú Neighborhood) (loan 4700/OC-PR).
+1.22   The program design is supported by national and international impact evaluation
+       studies of similar housing and neighborhood improvement projects. These include:
+       (i) research conducted on projects that provide low-income populations with housing
+                                                         -8-
+
+
+
+          solutions in certain Mexican cities [18], through a hedonic housing price model, 17 with
+          a difference-in-differences evaluation approach; and (ii) projects that promote
+          integrated neighborhood or urban environment improvement actions [19]. In Brazil,
+          the program design is supported by impact studies such as the Rio de Janeiro
+          Low-Income Neighborhood Urban Development Program – PROAP III (loan
+          2482/OC-BR) which demonstrates that housing improvement and urban
+          redevelopment actions in low-income settlements increase property values in the
+          targeted areas and their surroundings, measured through the difference-in-
+          differences methodology. In addition, a World Bank study in Mexico showed that
+          dwellings with cement floors reduce the prevalence of diarrheal disease in children
+          by 49% and cases of childhood anemia by 81%, compared to dwellings with dirt
+          floors; and enhance cognitive development by up to 96%. Similarly, the Habitat para
+          a Humanidade–Brasil study (2021) identifies a reduction in the prevalence of
+          diarrhea among residents who have been resettled in new low-income housing.
+1.23      Lessons learned. Based on previous Bank experiences with similar operations,
+          both in Brazil and elsewhere in the region, this operation draws on the following
+          lessons learned: (i) the need to address the challenges in a comprehensive manner,
+          incorporating not only housing construction, but also the expansion of urban
+          infrastructure, the rehabilitation of affected ecosystems, and the implementation of
+          projects to address climate change (paragraph 1.13); (ii) coordination with all
+          stakeholders is essential for maximizing the impact of the interventions and
+          optimizing the use of available resources (paragraphs 1.13 and 2.5); (iii) the need for
+          balancing infrastructure works with access to social services, especially when
+          working with highly vulnerable groups (paragraphs 1.13 and 1.14); (iv) the relevance
+          of strengthening the institutional capacities of government teams to ensure the
+          sustainability of the actions undertaken (paragraph 1.9); (v) the need for verifying
+          beforehand the technical and legal feasibility of the land on which the housing
+          projects will be located before including them in the program (paragraph 1.11);
+          (vi) since the works are widely dispersed across the state, it is advisable for the
+          program management unit (PMU) to receive technical support throughout the
+          program in the form of consulting services specializing in program management and
+          supervision (paragraph 2.12); and (vii) the importance of developing a stakeholder
+          engagement plan and communication that informs the affected communities in a
+          timely manner about the housing projects, resettlement alternatives, and available
+          compensation measures, in a timely manner (paragraphs 2.9 and 2.10).
+1.24      Strategic alignment. The program is consistent with the IDB Group Institutional
+          Strategy: Transforming for Scale and Impact (document CA-631) 18 and is in
+          alignment with the objectives of: (i) reducing poverty and inequality, by helping to
+          improve living conditions for families in situations of informality and extreme social
+          and environmental vulnerability; and (ii) addressing climate change, by recovering
+          degraded areas exposed to climate change risk, and by supporting housing
+          developments and housing solutions that incorporate resilience criteria and efficient
+          use of resources in housing units that achieve a level of savings equivalent to
+
+17   The price of land per square meter increased by R$75.5 in real terms in the control group, compared
+     to R$27.7 in the treatment group, i.e. by 3.7 times the real increase in the control group. In cost-benefit terms,
+     the results show that, for each real invested in services, infrastructure, and equipment, R$2.8 were gained
+     through the increase in the value per square meter of land with housing.
+18   This program was designed when the second update to the Institutional Strategy (document AB-3190-2) was
+     in effect.
+                                             -9-
+
+
+
+       “excellence in design for greater efficiencies” (EDGE) certification. The program is
+       also aligned with the following operational focus areas: (i) biodiversity, natural
+       capital, and climate action; (ii) gender equality and the inclusion of diverse population
+       groups; (iii) institutional capacity, rule of law, and citizen security; and
+       (iv) sustainable, resilient, and inclusive infrastructure. The program is also consistent
+       with the IDB Group Country Strategy with Brazil (documents GN-2973 and
+       GN-2973-2), since it contributes to expanding opportunities and reducing social
+       inequalities, by implementing efficient public policies to increase access to housing,
+       and by making government more effective by strengthening COHAPAR’s capacities.
+       It also relates to the previously mentioned crosscutting themes of gender, diversity,
+       and climate change, as well as innovation and digital transformation, by
+       implementing BIM technology in COHAPAR’s work.
+1.25   The program is also aligned in Category 2 with the Employment Action Framework
+       with a Gender Perspective (documents GN-3057 and OP-2289-1) as it envisages
+       analysis, actions, and indicators related to the talent pillar from the standpoint of
+       institutional strengthening and social inclusion. It is also consistent with the
+       cornerstones of strengthening gender equality, diversity, and climate change.
+       Furthermore, the program is consistent with the following sector frameworks:
+       Housing and Urban Development Sector Framework Document (document
+       GN-2732-11), in the dimension of success of promoting access to housing for more
+       vulnerable populations; and Gender and Diversity Framework Document (document
+       GN-2800-13), in the dimension of success of promoting interventions to increase
+       gender equality and social inclusion.
+1.26   An estimated 94.23% of the operation’s resources are allocated to climate change
+       mitigation and adaptation activities, according to the multilateral development banks’
+       joint methodology for tracking climate finance, given the program’s contributions in
+       terms of energy and water efficiency in housing, staff training in environmental
+       certifications and green housing, and nature-based solutions for vacant land
+       reclamation (optional link 5).
+1.27   This operation has been analyzed using the IDB Group’s Joint MDB Assessment
+       Framework for Paris Alignment and the IDB Group Paris Alignment Implementation
+       Approach: Principles, Methodology, and Technical Guidance (document
+       GN-3142-1); and it is deemed to be aligned with the mitigation and adaptation
+       objectives of the Paris Agreement, based on a specific analysis. Alignment was
+       verified on the basis of the following: consistency with climate change adaptation
+       priorities in the production of low-income housing and urban development reflected
+       in Brazil’s NDC; the analysis performed of alternatives for the cooking technologies
+       to be financed. The latter confirms that liquefied petroleum gas (in cylinders) is the
+       cleanest viable technology in the given context, as it involves a low risk of
+       technological dependency and a positive transition to more efficient cooking methods
+       for vulnerable populations benefiting from this operation.
+B.     Objectives, components, and cost
+1.28   Objectives. The program’s general objective is to enhance the quality of life of the
+       socially vulnerable population living in shantytowns, informal favela-like settlements,
+       or unhealthy housing in the State of Paraná, by improving access to decent housing,
+                                                         - 10 -
+
+
+
+          basic infrastructure conditions, and socioenvironmental actions. 19 The specific
+          objectives are to: (i) increase access to equitable and sustainable housing and
+          habitat solutions for the socially vulnerable population; and (ii) improve the
+          assistance provided by COHAPAR, through innovative and smart public
+          management. This will be the second individual operation under the ProMorar CCLIP
+          (operation BR-O0014), approved by Resolution DE-57/23, for a total of
+          US$600 million. The program will contribute to the CCLIP’s objective of promoting
+          new housing and habitat improvement strategies in Brazil, by supporting a
+          subnational government entity, i.e. the State of Paraná, in the preparation and
+          implementation of low-income housing programs.
+1.29      Component 1. Housing assistance to families in situations of
+          socioenvironmental vulnerability (IDB: US$134 million, Local counterpart:
+          US$36.5 million). This component will undertake activities to achieve the program’s
+          first specific development objective. To that end, it will finance: (i) the construction of
+          low-income housing complexes with access to basic utilities (e.g., sanitation, paved
+          streets, electricity, and drinking water), habitat improvements, community
+          equipment, 20 and land purchases, as necessary; 21 (ii) the recovery of vacated areas22
+          subject to high climate risk, prioritizing nature-based solutions: temporary isolation
+          of areas, plan development, implementation of restoration and environmental
+          protection, and construction of public utility infrastructure; and (iii) works technical
+          and socioenvironmental supervision: technical and laboratory tests, works
+          monitoring and supervision, social and environmental monitoring, and multisector
+          activities.
+1.30      Representative sample. To evaluate and dimension the program, a representative
+          sample was prepared equivalent to 26% 23 of the total investments. The sample
+          included the different types of assistance (open and closed demand), territorial
+          dispersion, município size, and number of housing units per project, to ensure that
+          the sample was as representative as possible. This made it possible to establish the
+
+19   This objective will be measured using an indicator that determines the average per-square-meter increase in
+     property values in the program’s areas of intervention. This indicator reflects improvements in the quality of
+     life, inasmuch as property value appraisals are based on a set of factors that account for and impact people’s
+     quality of life. Initially, property values are determined by infrastructure conditions in the region, such as
+     access to drinking water, basic sanitation, reliable electric power supply, streets that are paved and
+     illuminated, and security. Property value is also determined by the improvements made to the conditions of
+     the property itself and its documentation, i.e., the registration and title of the property. The conditions of a
+     property are correlated, among other factors, with the standards of its finishings, the existence of any
+     bathrooms, flooring, plaster/drywall, windows, and doors. Moreover, the property title, in addition to being a
+     security factor for the beneficiaries, provides them with an increase in per capita income and, consequently,
+     an improvement in the quality of life of the beneficiary population. Accordingly, factors attributable to
+     increasing the value of real estate are also directly related to the population’s quality of life.
+20   The housing units and other buildings (such as leisure facilities) to be built will achieve efficiency levels that
+     produce savings—relative to conventional construction—of at least 20% in energy consumption, 20% in water
+     consumption, and 20% in energy embodied in materials, according to sustainable building certification
+     standards such as EDGE or similar.
+21   The loan proceeds may be used to buy land, subject to compliance with the requirements of the Bank's policies,
+     including the expenditure eligibility policy (document GN-2331-5), and subject to the Bank's prior written no
+     objection.
+22   Vacated areas (áreas desocupadas) is the name given to land on which the informal favela-type settlements
+     are located (area of origin), which will be resettled once the families that were living there have vacated them
+     and moved into the new housing complex.
+23   Forty projects were analyzed in 39 municípios, corresponding to a total of 1,652 housing units and representing
+     an investment of approximately US$50 million.
+                                                          - 11 -
+
+
+
+          basic costs of the projects and to develop the corresponding socioenvironmental
+          evaluations and the economic analysis. The sample projects satisfy the program’s
+          technical, economic, and environmental eligibility requirements. All of the program’s
+          category “A” projects were included in this sample.
+1.31      Eligibility criteria. In addition to the projects of the representative sample, the works
+          financed under the program will meet specific criteria. Accordingly, these works
+          must: (a) be related to the construction of housing complexes for (i) families who
+          reside in shantytowns, informal favela-type settlements, or unhealthy housing on
+          public land exposed to environmental, geological, or health risks, 24 requiring
+          complete resettlement; or (ii) families living in extreme conditions of social
+          vulnerability, according to the parameters established by COHAPAR; and (b) be built
+          on land that meets the criteria of the viability analysis conducted by COHAPAR from
+          the technical, environmental, legal, and urban integration perspectives. The specific
+          details of the eligibility criteria will be spelled out in the program Operating
+          Regulations. The program will not finance any Category “A” projects outside of the
+          representative sample, in accordance with the IDB’s Environmental and Social Policy
+          Framework.
+1.32      All works executed under the program will observe the criteria for reducing carbon
+          emissions and be climate-change resilient, in addition to having a gender perspective
+          (prioritization of property titles issued to women heads of household 25 and
+          architectural standards that are gender sensitive), 26 and recognizing the needs of
+          persons with disabilities (houses adapted to their type of disability).
+1.33      Component 2. Institutional strengthening (IDB: US$2.5 million, Local
+          counterpart: US$500,000). This component will undertake activities aimed at
+          achieving the program’s second specific development objective. To that end, it will
+          finance the following for COHAPAR: (i) procurement of information technology
+          equipment (hardware and software); (ii) studies for the implementation of green
+          infrastructure, urban resilience, energy efficiency, and bioclimatic construction of
+          low-income housing developments; (iii) implementation of BIM technology; 27
+          (iv) updating and modernization of housing registration systems; (v) training for
+          personnel in: (a) techniques and system updating; (b) environmental and green
+          housing certifications; and (c) design of projects and initiatives with a gender
+
+
+24   These include areas susceptible to erosion, subsidence, rock fall and rolling boulders, and flooding; as well
+     as hillsides, ravines, rugged terrain, slopes prone to landslides; locations under high-voltage transmission
+     lines, safety areas in ports, airports, highways, railroads, and landfills, contaminated or polluted areas, and
+     other hazard areas as defined by Civil Defense.
+25   The prioritization criteria applicable at levels above the legal thresholds will be defined in the program Operating
+     Regulations.
+26   Gender considerations could include: a well-planned and sufficient lighting design for outdoor and common
+     areas can help increase the perception of safety, by making spaces more visible and deterring criminal activity;
+     an urban design that provides more welcoming and walkable spaces, among other elements of the housing
+     environment.
+27   BIM technology is used at all stages of projects: in planning, a conceptual model is created; in design, elements
+     are detailed and analysis is performed; in construction, activities are planned and quality is controlled; in
+     operation, the model is used for continuous management and maintenance; in future renovations, the model is
+     updated to evaluate changes. In all of these stages, collaboration between teams is essential, and the use of
+     BIM optimizes efficiency and accuracy by minimizing errors and delays in the construction process. Successful
+     implementation of BIM requires an ongoing commitment to staff training, process standardization, and
+     investment in appropriate technology to maximize its benefits.
+                                                          - 12 -
+
+
+
+          approach; (vi) an institutional communications plan; and (vii) studies to improve the
+          financial efficiency of COHAPAR housing programs.
+1.34      Program administration and socioenvironmental compensation (IDB:
+          US$13.5 million, Local counterpart: US$500,000). This item will finance actions to
+          support the program’s technical, social, and environmental management:
+          (i) technical and socioenvironmental consulting services, which will be organized by
+          implementing a technical and socioenvironmental management system for the
+          program in COHAPAR headquarters and its 12 decentralized units throughout the
+          state; (ii) monitoring and evaluation actions; and (iii) socioenvironmental
+          compensation actions.
+C.        Key results indicators
+1.35      Expected outcomes. The expected outcomes will be measured through the
+          following indicators: (i) increase in the number of families in vulnerable situations
+          who are provided with qualified housing solutions; (ii) percentage increase in the
+          number of families, whose members include persons with disabilities, provided with
+          adapted housing; (iii) increase in the percentage of property titles issued to women
+          heads of household assisted by the program; (iv) the reduction in greenhouse gas
+          emissions; (v) areas recovered with nature-based and resilient solutions; and
+          (vi) reduction in the time taken to prepare basic projects 28 at COHAPAR.
+1.36      Beneficiaries. The program will benefit approximately 5,600 families that: (i) live in
+          precarious settlements requiring resettlement actions, implementation of
+          infrastructure, and/or urban improvement and land regularization, registered in the
+          Paraná Housing Needs Information System (SISPEHIS); and (ii) are socially
+          vulnerable, with gross family income not to exceed three times the minimum wage
+          and that are included in COHAPAR’s Unified Applicant Register. 29 In terms of the
+          distribution between the different assistance typologies, an estimated 70% of the
+          housing units will respond to closed demand and the remaining 30% to open
+          demand.
+1.37      Economic viability. The program’s economic viability was analyzed (optional link 1)
+          using a cost-benefit analysis of the representative project sample. Incremental
+          benefits and costs were estimated at efficiency prices over a 20-year period,
+          discounted at a rate of 12% per year. Program returns were assessed on the basis
+          of indicators such as the internal rate of return (IRR), cost-benefit ratio, and net
+          present value. The results of the study indicate a net present value of US$225.10,
+          an IRR of approximately 21.5%, and a cost-benefit ratio of 1.3, which make it
+          economically viable. In addition, sensitivity tests were conducted that assumed
+          higher costs and reduced benefits. The results showed that the program withstands
+          cost increases of up to 34.7% and benefit reductions of up to 25.8%. In addition, two
+          other sensitivity tests were performed: one considering the maximum reduction in
+          the number of housing units built, while maintaining the viability of the program with
+          the current costs; and the other applying a 20% reduction to the disability adjusted
+
+28   Article 6(IX) of the Tendering Act (Law 8,666/93) defines a basic project as “the set of elements that are
+     necessary and sufficient, with an adequate level of precision, to characterize the object of the tender; it must be
+     prepared on the basis of preliminary technical studies, in order to guarantee its technical viability and appropriate
+     treatment of the environmental impact, and make it possible to evaluate the cost and define the methods and
+     terms of execution”.
+29   In both groups, the representation of female heads of household and persons with disabilities is above the state
+     average. These groups will receive special attention during the development of the operation.
+                                                  - 13 -
+
+
+
+      life years (DALYs) value. The results obtained were 3,744 housing units for the first
+      sensitivity test, and an IRR of 16% per year for a 20% reduction in the DALY value.
+
+                        II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.    Financing instrument
+2.1   The program is designed as an investment loan under the global multiple-works
+      modality, which is justified by the nature of the projects. As they are all
+      comprehensive projects that include the construction of low-income housing
+      complexes, community facilities, and the recovery of degraded areas, their
+      definitions, designs, and implementation will have similar characteristics, although
+      the projects themselves will be mutually independent. The total program cost will be
+      US$187.5 million, of which US$150 million will be financed from the proceeds of a
+      loan from the Bank’s Ordinary Capital and US$37.5 million from local counterpart
+      resources (Table 1). For the correct evaluation and dimensioning of the program, a
+      representative sample was prepared, encompassing each of the different project
+      typologies (paragraph 1.30).
+                                  Table 1. Estimated program costs (US$)*
+
+       Component                                             IDB         Local         Total         %
+       Component 1. Housing assistance to
+       families in situations of                       134,000,000 36,500,000 170,500,000           90.93
+       socioenvironmental vulnerability
+
+        a. Actions in the pre-works phase                   2,200,000   2,050,000     4,250,000      2.27
+
+        b. Works                                       123,800,000 34,450,000 158,250,000           84.40
+
+        c. Works supervision                                8,000,000            0    8,000,000      4.27
+
+       Component 2. Institutional strengthening             2,500,000    500,000      3,000,000       1.6
+
+       Program administration and
+                                                           13,500,000    500,000     14,000,000      7.47
+       socioenvironmental compensation
+
+        a. Implementation of technical and
+                                                            3,900,000    500,000      4,400,000      2.35
+           environmental support system
+
+        b. Evaluation reports                                400,000             0      400,000      0.21
+
+        c. Socioenvironmental assistance                    9,200,000            0    9,200,000      4.91
+
+       Total                                           150,000,000 37,500,000 187,500,000 100.00
+
+       * Note: The distribution of funding within the program components and administration is indicative.
+
+
+2.2   The disbursement period will be five years, as shown in Table 2.
+                                              - 14 -
+
+
+
+                            Table 2. Tentative disbursement schedule (US$)
+
+           Source        Year 1          Year 2         Year 3         Year 4         Year 5
+       IDB              16,271,681      41,172,147     50,721,933     34,080,574       7,753,665
+
+       Local             4,788,095       9,801,840     12,484,416      8,985,173       1,440,476
+
+       TOTAL            21,059,776      50,973,987     63,206,349     43,065,747       9,194,141
+
+       %                     11             27              34             23              5
+
+
+B.    Environmental and social risks
+2.3   In terms of environmental and social impact, this program is classified as a
+      category “A” operation, because it is expected to generate significant direct impacts,
+      involving the physical and economic displacement of some 5,600 families living in
+      situations of extreme social vulnerability, and/or located in disaster risk areas and
+      unregulated settlements.
+2.4   Either directly or through COHAPAR, the borrower must have legal possession of the
+      land areas on which the housing developments are to be built. Approximately
+      130 municipal governments will participate in the program. The program actions will
+      generate adverse impacts stemming from infrastructure demolition in favelas located
+      in risk areas; and impacts associated with the construction of new housing units—
+      predominantly single-story homes—located in existing urbanized neighborhoods. The
+      projects will not be undertaken in indigenous or Quilombola territories. However, they
+      do have impacts, recognized by local law, on families of traditional origin.
+2.5   The operation’s environmental and social risk is rated high, owing to the potential
+      loss of livelihoods of a group of traditional fisherfolk (eight families identified thus far);
+      the context of socioenvironmental vulnerability; and the need to strengthen
+      COPAHAR’s institutional capacity and interaction with the respective municipal
+      governments, to perform the socioenvironmental monitoring of multiple projects
+      located throughout the state of Paraná.
+2.6   The program’s disaster and climate change risk is rated moderate since, although
+      the threat of flooding is high-to-moderate, the criticality and vulnerability of the
+      program is moderate. This risk will be managed through specific climate change
+      adaptation and mitigation efforts and integrated disaster risk management actions.
+2.7   In accordance with the environmental and social policy framework (ESPF),
+      COHAPAR has developed an environmental and social management system that
+      contains eligibility criteria for excluding category “A” projects that were not previously
+      analyzed as part of the sample during the preparation phase. For all of the works
+      included in the sample, an environmental and social impact assessment was carried
+      out, along with the preparation of an environmental and social management plan
+      (ESMP) and an involuntary resettlement plan. These tools will be used to collectively
+      assist families in situations of disaster-risk and/or social vulnerability (closed
+      demand), and a housing assistance plan will serve vulnerable families located
+      throughout the state on an individual basis (open demand), which reflect the
+      program’s representative sample projects—a total of 40 spread across
+      39 municípios (see Annex C of the environmental and social review summary
+      (required link 3): Location of the municípios in which the sample projects will be
+      executed).
+                                              - 15 -
+
+
+
+2.8    The guidelines underpinning the socioenvironmental viability of projects that were
+       not included in the sample and for managing the entire program will be set out in an
+       environmental and social management framework. This includes a resettlement
+       framework with compensation and livelihood restoration measures that will form part
+       of the environmental and social management system.
+2.9    A stakeholder engagement plan has been prepared for the entire program and for
+       the sample projects. The plan takes account of the degree of vulnerability and the
+       presence of culturally differentiated families of traditional origin (traditional fisherfolk)
+       among the families to be benefited. The aforementioned documents were made
+       available in suitable versions prior to the analysis mission.
+2.10   All consultations took place between 3 and 15 August 2023. In all, 43 consultations
+       were organized in munícipios of the representative sample. Of these,
+       19 consultations focused exclusively on involuntary resettlement (closed demand);
+       23 on housing assistance projects (open demand); and one was held at COHAPAR
+       headquarters for different stakeholders. The results indicate that the consultations
+       were broad in scope (with a total of 2,652 stakeholders who physically attended and
+       another 1,023 who participated remotely), with an average of 65% of women and
+       35% of men participating. There were a significant number of expressions of interest,
+       as well as questions that were directly answered, demonstrating that the program
+       was well accepted by the population. The main topics covered concerned the supply
+       of public health, education, and social assistance services and facilities, as well as
+       the program’s eligibility criteria, compensation matrix, and scope. For groups of
+       traditional origin, a specific and culturally appropriate event was held on
+       3 August 2023, as a result of a consultation process held in accordance with the
+       requirements of free, prior, and informed consent (FPIC). The environmental and
+       social management framework also includes stakeholder engagement guidelines for
+       projects that were not included in the sample; and a complaints and grievance
+       mechanism has been developed for the entire program, including specific
+       resettlement guidelines. The consultation report and the final version of the
+       socioenvironmental documents have been posted on the Bank’s website.
+C.     Fiduciary risks
+2.11   Three medium-low fiduciary risks have been identified, which will be monitored
+       throughout the program. The greatest risk concerns the contracting of a financial
+       management system which, should it not occur, could delay the first disbursement.
+       The procurement plan will provide for this system to be contracted as soon as the
+       program contract is signed, so that it does not impact execution. The other risks can
+       be consulted in Annex III.
+2.12   Institutional capacity analysis. The Bank evaluated the executing agency using
+       the institutional capacity assessment platform (ICAP), which found that it has
+       institutional capacities classified as strengths in most of the modules analyzed.
+       However, support needs were identified for improvement in all modules.
+D.     Other key issues and risks
+2.13   In view of COHAPAR’s experience, no technical risks were detected, although a
+       number of execution risks were observed. These include the possibility that no
+       construction companies will be available during the contracting of works, owing to
+       the volume of the works and level of demand; and the possibility that COHAPAR
+       may have difficulties in fulfilling the Bank’s socioenvironmental requirements, thereby
+                                             - 16 -
+
+
+
+       impacting the program’s execution deadlines. These risks were classified as
+       medium-high. The former will be mitigated by carefully preparing the terms of
+       reference for works bidding, and maintaining communication with potential bidders.
+       The second risk will be avoided by providing staff training and by hiring firms to
+       provide management support and socioenvironmental supervision. Low and
+       medium-low risks were also identified, related to the population’s resistance to
+       resettlement, changes in mayors during program implementation, and problems with
+       land availability. These risks will be monitored throughout program execution to
+       ensure that they do not materialize.
+2.14   Sustainability. The program will ensure the sustainability of its actions by:
+       (i) incorporating low-carbon and resilient design criteria and the use of green
+       infrastructure in housing and other projects; (ii) developing good practice guidelines
+       for implementing resilient and low-carbon urban and housing projects;
+       (iii) environmentally remediating land in climate risk areas that is vacated through the
+       operation, and creating public spaces and enclosures to promote urban resilience
+       and prevent reoccupation; and (iv) raising awareness among program beneficiaries
+       of the need to foster good practices in terms of reducing water and energy
+       consumption and improving waste management.
+
+                      III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.     Summary of implementation arrangements
+3.1    Execution mechanism. The State of Paraná will be the borrower and the Federative
+       Republic of Brazil will be the guarantor of the borrower’s financial obligations under
+       the loan. The State of Paraná will execute the program through the Paraná Housing
+       Company (COHAPAR), acting as program executing agency, which will create a
+       program management unit (PMU) for that purpose.
+3.2    The PMU will be structured with the following coordination units at minimum:
+       (i) general coordination will be headed by a general coordinator and supported by a
+       deputy coordinator, both of whom will work exclusively for the program and will be
+       responsible for supervising the various thematic coordination units within the PMU;
+       (ii) the technical coordination unit, which will handle matters related to projects,
+       works, and institutional strengthening; (iii) the administrative coordination unit will be
+       responsible for financial, legal, and contracting matters, including the special bidding
+       committee; and (iv) the socioenvironmental coordination unit will focus on
+       environmental and social management, resettlement, and all related safeguards.
+3.3    In addition, COHAPAR’s 12 regional offices will form part of the PMU’s
+       organizational structure, serving as the main provider of information on the status of
+       program actions. The communication department will be in direct contact with
+       general program coordinator and will be responsible for the complaints and
+       grievance mechanism.
+3.4    The PMU will be responsible for coordinating and executing the different actions and
+       interventions, and it will promote communication and integration among the entities
+       involved in the program, serving as COHAPAR’s main interlocutor with the Bank. It will
+       also be responsible for the operation’s financial and accounting management. The
+       PMU’s main functions include: (i) planning the investments; (ii) evaluating the final
+       designs of the projects’ works; (iii) preparing and supporting bidding processes for the
+       procurement of works, goods, and services; (iv) controlling and supporting works
+                                           - 17 -
+
+
+
+      supervision and oversight; (v) coordinating and supervising environmental issues;
+      (vi) controlling accounting and files, and submitting disbursement and accountability
+      requests; (vii) performing physical and financial control, and preparing physical and
+      financial progress reports; (viii) attending to and coordinating compliance with the
+      clauses of the loan contract; (ix) monitoring and evaluating the intermediate results,
+      targets, and indicators of the results matrix; (x) developing the managerial and
+      accounting systems required for physical and financial monitoring; (xi) preparing the
+      operational plans and documents, including the annual work plans; (xii) preparing
+      terms of reference for hiring consulting firms; (xiii) preparing all technical and
+      administrative documentation relevant to the bidding and contracting processes; and
+      (xiv) producing other reports as required by the Bank. Other program functions and
+      issues, such as financial management rules, eligibility criteria, procurement policies,
+      socioenvironmental safeguard policies, the program supervision system, and issuance
+      of no-objection notices, will be specified in the program Operating Regulations.
+3.5   Special contractual conditions precedent to the first disbursement of the
+      financing: The borrower, through the executing agency, will submit evidence
+      to the Bank of the following: (i) the signing and entry into effect of an
+      agreement between the borrower and the executing agency for the transfer of
+      resources and the execution of program activities; (ii) the approval and entry
+      into effect of the program Operating Regulations, under the terms previously
+      agreed upon with the Bank; and (iii) the creation of the program management
+      unit and appointment of that unit’s staff indicated in paragraph 3.2. Other
+      special contractual conditions may be consulted in the environmental and
+      social action plan and in Annex B of the environmental and social review
+      summary.
+3.6   Special contractual conditions for execution: (i) Before activities are undertaken
+      in a program beneficiary município, the executing agency will provide evidence that
+      an agreement has been signed with that municipal government, specifying the
+      responsibilities of both parties in the execution of the project in question, including
+      works maintenance obligations; (ii) before the first service order for program works
+      is issued, the borrower will submit evidence to the Bank that a firm has been
+      contracted to support program management; (iii) prior to the execution of each of the
+      program’s works begins, the executing agency will submit evidence that a firm has
+      been hired for the respective technical and socioenvironmental supervision; and
+      (iv) the deadline for the start of program works will be three years from the effective
+      date of the loan contract. Other special contractual conditions may be consulted in
+      the environmental and social action plan and in Annex B of the environmental and
+      social environmental and social review summary.
+3.7   The deadline for the physical start of the works was established through the planning
+      of project execution, and the way in which the bidding schedule has been structured
+      to enable the last group of works to start on time (required link 1).
+3.8   Financial management and auditing. The program’s financial management will be
+      conducted in accordance with the Financial Management Guidelines for IDB-
+      financed Projects (document OP-273-12), which establishes the disbursement
+      modalities and external audits of the program’s financial statements to be agreed
+      upon with the Bank, among other issues. The program’s financial statements will be
+      audited annually by the Audit Office of the State of Paraná, or by a Bank-eligible
+      independent external audit firm, to be contracted by the executing agency. The
+      audited financial statements of the program will be submitted to the Bank annually,
+                                           - 18 -
+
+
+
+       no later than 120 days after the closing of each fiscal year of the executing agency,
+       in accordance with the procedures and terms of reference previously agreed on with
+       the Bank.
+3.9    Disbursements. The loan proceeds will be disbursed in United States dollars as
+       advances of funds, and will be deposited into a special bank account, opened in the
+       name of the program, for the exclusive use of the loan proceeds. Requests for
+       advances of funds will meet the program’s liquidity needs for a period of up to six
+       months, as documented in the financial plan. For each advance (except for the first),
+       at least 80% of the funds advanced and not yet justified must be accounted for.
+3.10   Procurement of works, goods, and services. Procurement will be conducted in
+       accordance with the Policies for the Procurement of Goods and Works Financed by
+       the Inter-American Development Bank (document GN-2349-15) and the Policies for
+       the Selection and Contracting of Consultants Financed by the Inter-American
+       Development Bank (document GN-2350-15). Procurement operations for works,
+       goods, and services are defined in the procurement plan (required link 4) and will
+       carried out in accordance with the provisions of the Fiduciary Agreements and
+       Requirements (Annex III).
+3.11   Retroactive financing. The Bank may retroactively finance, chargeable against the
+       loan proceeds, up to US$15 million (10% of the proposed loan amount) in eligible
+       expenditures incurred by the borrower and/or executing agency prior to the loan
+       approval date, to make payments for program studies, projects, and works, provided
+       that requirements substantially similar to those established in the loan contract have
+       been met. Such expenditures must have been incurred on or after the project profile
+       approval date (27 February 2023), but will not, under any circumstances, include
+       expenditures incurred more than 18 months before the loan approval date.
+B.     Summary of arrangements for monitoring results
+3.12   Monitoring and tracking system. The executing agency will monitor and control all
+       project management processes, including: (i) semiannual monitoring reports
+       specifying: the achievement of output and outcome indicator targets as described in
+       the results matrix; the physical and financial progress of outputs; progress of the
+       annual work plan; the status of procurement and contracting processes in
+       accordance with the procurement plan (required link 4); compliance with
+       environmental and social safeguards; risk assessment; and updating of planning and
+       monitoring tools; (ii) delivery of the program’s financial statements; and
+       (iii) preparation of the project completion report (PCR) as detailed in the monitoring
+       and evaluation plan (required link 2).
+3.13   Program evaluation. The program provides for a midterm evaluation, covering
+       technical, administrative, and financial aspects, to be performed once 50% of the
+       loan proceeds have been disbursed or when three years have elapsed since the loan
+       contract took effect (whichever occurs first); and a final evaluation, which will be
+       delivered to the Bank within 90 days of the end date of the disbursement period or
+       any extensions thereof. This will also include an ex post economic evaluation and a
+       qualitative assessment (required link 2). In addition, a PCR to be submitted under
+       the Bank’s responsibility will be based on the semiannual execution reports, the
+       results matrix, the progress monitoring report and audited financial statements, and
+       the midterm and final evaluation reports, together with a qualitative assessment that
+       includes the systemization of good practices and the main lessons learned. This will
+       contribute to improving the Bank’s value added in future urban interventions
+                                          - 19 -
+
+
+
+      (required link 2). The PCR will be processed under the applicable rules and
+      procedures.
+
+                               IV. ELIGIBILITY CRITERIA
+
+4.1   Eligibility of the second individual operation under the CCLIP. This second
+      operation fulfills the requirements contained in the policy applicable to the CCLIP
+      instrument (document GN-2246-13), since: (i) the ICAP was used to perform a
+      comprehensive analysis of the institutional capacity of the executing agency,
+      COHAPAR, which was found to have execution capacity as well as areas for
+      improvement and potential risks (paragraph 2.12); (ii) the operation’s objective
+      contributes to the achievement of the CCLIP’s multisector objectives, by promoting
+      new strategies to address the housing deficit for low-income families through support
+      for a subnational government entity, i.e., the State of Paraná, in developing and
+      implementing low-income housing programs (paragraph 1.28); (iii) the operation
+      addresses three sectors of the CCLIP (provision of housing solutions, habitat
+      improvement, and sector strengthening); and (iv) the program includes actions in the
+      areas for improvement identified in the capacity assessment.
+                                                                                                                                                                                           Annex I -BR-L1588
+                                                                                                                                                                                                  Page 1 of 1
+
+
+
+
+                                                                               Development Effectiveness Matrix
+                                                                                         Summary             BR-L1588
+I. Corporate and Country Priorities
+Section 1. IDB Group Institutional Strategy Alignment
+
+
+                                                                                                      -Biodiversity, natural capital, and climate action
+                                                                                                      -Gender equality and inclusion of diverse population groups
+  Operational Focus Areas                                                                             -Institutional capacity, rule of law, citizen security
+                                                                                                      -Sustainable, resilient, and inclusive infrastructure
+
+
+
+
+  [Space-Holder: Impact framework indicators]
+
+2. Country Development Objectives
+
+                                                                                                                                 Priority area: (iv) Reduce social inequality and inequality of
+                                                                                                                                 opportunity by improving the efficiency of public policies.
+   Country Strategy Results Matrix                                                                            GN-2973
+                                                                                                                                 Strategic objective of: (v) Implement efficient policies to
+                                                                                                                                 increase access to housing.
+
+
+
+                                                                                                                                 The intervention is not included in the 2024 Operational
+   Country Program Results Matrix
+                                                                                                                                 Program.
+
+
+ Relevance of this project to country development challenges (If not aligned to country
+ strategy or country program)
+
+II. Development Outcomes - Evaluability                                                                                                     Evaluable
+3. Evidence-based Assessment & Solution                                                                                                            8.1
+     3.1 Program Diagnosis                                                                                                                         2.5
+     3.2 Proposed Interventions or Solutions                                                                                                       1.6
+     3.3 Results Matrix Quality                                                                                                                    4.0
+4. Ex ante Economic Analysis                                                                                                                       7.5
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                                1.5
+     4.2 Identified and Quantified Benefits and Costs                                                                                              3.0
+     4.3 Reasonable Assumptions                                                                                                                    0.0
+     4.4 Sensitivity Analysis                                                                                                                      2.0
+     4.5 Consistency with results matrix                                                                                                           1.0
+5. Monitoring and Evaluation                                                                                                                       8.4
+     5.1 Monitoring Mechanisms                                                                                                                     4.0
+     5.2 Evaluation Plan                                                                                                                           4.4
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                           Medium Low
+Environmental & social risk classification                                                                                                        A
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                                 Budget, Treasury, Accounting and Reporting, External
+                                                                                                                                 Control, Internal Audit.
+                                                                      Fiduciary (VPC/FMP Criteria)               Yes
+                                                                                                                                 Procurement: Information System, Price Comparison,
+                                                                                                                                 Contracting Individual Consultant, National Public Bidding.
+
+
+                                                                                                                                 Monitoring and Evaluation National System, Environmental
+                                                                                      Non-Fiduciary              Yes
+                                                                                                                                 Assessment National System.
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+Additional (to project preparation) technical assistance was provided to the public sector
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+Evaluability Assessment Note:
+The operation´s general objective is to improve the life quality of socially vulnerable population that lives in irregular or precarious settlements, or unhealthy dwellings in the State of Paraná,
+promoting access to decent housing, basic infraestructure and socio-environmental actions. The specific objectives are: (i) increasing access to equitable and sustainable housing solutions
+for socially vulnerable populations; and (ii) improving COHAPAR´s service through innovative and smart management.
+
+The operation will benefit 5,600 families approximately that (i) live in precarious settlements that require infrastructure implementation and/or urban improvement, resettlement actions, and
+land regularization (closed demand); and (ii) socially vulnerable families whose gross family income does not exceed three minimum wages and who are registered in COHAPAR´s unique
+cadastre (open demand). It is estimated that around 70% of the units produced by the program will be delivered to the beneficiaries of the closed demand and remaining 30% will go to
+beneficiaries of the open demand.
+
+Overall, the diagnosis is adequate and has a well-identified problem and clear determinants. The results matrix exhibits a clear vertical logic with specific objectives and SMART indicators
+that would allow the monitoring and evaluating the objectives.
+
+The economic analysis of the program is based in a Cost-Benefit Analysis (CBA) for a period of 20 years, and the project’s Internal Rate of Return (IRR) is 21.5% for the baseline scenario.
+The sensitivity analysis shows that the operation could bear cost increases up to a maximum of 34.7% or decline in the estimated benefits up to a maximum of 25.8% and still remain cost-
+effective in both cases. The Cost-Benefit Analysis includes the monetization of some benefits that go beyond the target beneficiaries of the operation.
+
+The program has a Monitoring and Evaluation Plan that specifies: (i) the minimum monitoring activities; (ii) the evaluation questions; (iii) the methodologies for measuring the indicators; and
+(iv) the data sources and verification protocols, as well as the M&E budget. The Evaluation Plan proposes an evaluation with attribution using the Difference-In-Differences method to
+measure the causal effect of the operation on the achievement of the operation's objectives. The Evaluation Plan also proposes a Before and After approach to measure the theoretical
+contribution of the operation to the result indicators.
+                                                                                                                                                                    Annex II
+                                                                                                                                                                  Page 1 of 6
+
+
+
+                                                                             RESULTS MATRIX
+
+                           The program’s general objective is to enhance the quality of life of the socially vulnerable population living in shantytowns, informal favela-like
+                           settlements, or unhealthy housing in the State of Paraná, by improving access to decent housing, basic infrastructure conditions, and
+   PROGRAM OBJECTIVE:
+                           socioenvironmental actions. Its specific objectives are to: (i) increase access to equitable and sustainable housing and habitat solutions for the
+                           socially vulnerable population; and (ii) improve the assistance provided by COHAPAR, through innovative and smart public management.
+
+                                                                    GENERAL DEVELOPMENT OBJECTIVE
+
+                      Unit of   Baseline      Baseline          Target         Expected year
+    Indicator                                                                                       Means of verification                          Comments
+                     measure     value          year                             achieved
+GENERAL DEVELOPMENT OBJECTIVE: Enhance the quality of life of the socially vulnerable population living in shantytowns, informal favela-like settlements, or unhealthy
+housing in the State of Paraná, by improving access to decent housing, basic infrastructure conditions, and socioenvironmental actions
+Average property      R$/m2      897.73         2024           1,077.27             2028         Report on the program’s        The unit benefit measured by the increase in
+value per square                                                                                 ex ante and ex post            property values (R$/m²), was calculated using the
+meter in the areas                                                                               economic analysis              COHAPAR database, which contains registered
+targeted by the                                                                                                                 housing units in which residents pay rent for use
+program                                                                                                                         of the property. The average property value was
+                                                                                                                                estimated at R$83,744.34. Data obtained from
+                                                                                                                                the sample survey conducted in the project areas
+                                                                                                                                identified an average property area of 90m²,
+                                                                                                                                resulting in a unit value of R$897.73/m².
+                                                                                                                                Target: The expected appreciation is 20% of the
+                                                                                                                                value per square meter.
+                                                                                                                                Exchange rate: US$1 = R$5.50.
+    Annex II
+    Page 2 of 6
+
+
+                                                                            SPECIFIC DEVELOPMENT OBJECTIVES
+                                                             Baseline    End of program        Means of
+             Indicator              Unit of measure                                                                                               Comments
+                                                            value (2024)     (2029)           verification
+    SPECIFIC DEVELOPMENT OBJECTIVE 1: Increase access to equitable and sustainable housing and habitat solutions for the socially vulnerable population
+    Indicator 1. Average        Number of families             376            670         COHAPAR reports     In the last five years, an average of 376 families per year have been provided
+    annual number of families                                                                                 with housing. Implementation of the program is expected to raise this
+    in vulnerable situations1                                                                                 number to an average of 1,120 housing units per year.
+    receiving qualified housing                                                                               Taking account of exchange rate risks and the risks inherent to the
+    solutions                                                                                                 construction of housing units in Brazil, a minimization coefficient of 0.6 was
+                                                                                                              foreseen for the target, resulting in 670 houses/year (an increase of 178%).
+    Indicator 2. Percentage        Percentage                   5%           7.5%         COHAPAR reports     Baseline: COHAPAR currently fulfills the requirement stated in Federal
+    of families that include                                                                                  Law 13,146/2015, i.e., that 5% of the housing units be reserved for families
+    persons with disabilities                                                                                 whose members include persons with disabilities.
+    receiving adapted houses                                                                                  Target: Based on the percentage of families that include persons with
+                                                                                                              disabilities in a representative sample. The closed demand comprises
+                                                                                                              713 families, of which 75 include a person with a disability (10%).
+                                                                                                              Accordingly, the target will be 7.5%.
+                                                                                                              Housing will be adapted according to the needs of each person with a
+                                                                                                              disability identified in the register: e.g., width of doors, fixtures, height of sinks
+                                                                                                              and taps, etc.
+    Indicator 3. Percentage        Number of women-            54%           60%          COHAPAR             Baseline: Although Article 1 of State Law 15,301/2006 stipulates that 20% of
+    of property titles issued to   headed households                                      semiannual report   the units in low-income housing developments and low-income housing
+    women heads of                 benefited, relative to                                                     programs must be assigned to “women heads of household,” in the last three
+    household served by the        the total number of                                                        years COHAPAR assisted 17,000 families in this group (54% of the total).
+    program                        households served                                                          Target: The program seeks to allocate 60% of all housing units to female-
+                                   by the program                                                             headed households with a property title or joint title in their names.
+    Indicator 4. Greenhouse            Percentage               0%           20%          COHAPAR             The new housing units will generate less greenhouse gas emissions than
+    gas emissions reduced or                                                              semiannual report   the standard projects COHAPAR had been building prior to this operation.
+    avoided                                                                                                   Target: According to excellence in design for greater efficiencies (EDGE)
+                                                                                                              simulations shared with the team, the new designs will result in annual
+                                                                                                              greenhouse gas reductions of between 0.1 and 0.2 tCO2e per dwelling,
+                                                                                                              relative to the baseline, i.e., savings of 20-25%.
+                                                                                                              Source: COHAPAR semiannual report demonstrating that the housing units
+                                                                                                              achieve the level of greenhouse gas emission savings using EDGE or a
+                                                                                                              similar tool.
+
+
+
+
+1    Families who live in shantytowns, informal favela-type settlements, or unhealthy housing in a situation of hypo-sufficiency.
+                                                                                                                                                                        Annex II
+                                                                                                                                                                      Page 3 of 6
+
+
+                                                Baseline    End of program        Means of
+        Indicator            Unit of measure                                                                                          Comments
+                                               value (2024)     (2029)           verification
+Indicator 5. Areas              Hectares           0             15.6        COHAPAR                COHAPAR’s definition of the degree of implementation of nature-based
+recovered with resilient                                                     semiannual report      solutions in the total number of hectares recovered.
+nature-based solutions                                                                              Considering the calculation specified in Output indicator 1.2 - Milestone 3,
+                                                                                                    78 hectares of areas of origin are planned for treatment. Therefore,
+                                                                                                    15.6 hectares (20%) of the areas of origin are expected to be recovered with
+                                                                                                    resilient and nature-based solutions.
+                                                                                                    Resilient nature-based solutions can be those that promote ecological
+                                                                                                    restoration and long-term sustainability, such as: protection and restoration
+                                                                                                    of plant cover, planting of native species, creation of ecological corridors, use
+                                                                                                    of natural engineering techniques (e.g., natural structures to stabilize soil,
+                                                                                                    control erosion, and create habitats), water conservation, community
+                                                                                                    education and participation, among other items.
+SPECIFIC DEVELOPMENT OBJECTIVE 2: Improve the assistance provided by COHAPAR, through innovative and smart public management
+Indicator 6. Time taken to       Months           9.14           7.31        COHAPAR reports,       Estimated reduction in time it takes COHAPAR to prepare all projects using
+prepare basic projects at                                                    backed by              the building information modeling (BIM) methodology, not just the projects of
+COHAPAR                                                                      documentation          the program.
+                                                                             recorded in            From 2018 to 2023, the average time it took COHAPAR to prepare basic
+                                                                             COHAPAR’s              projects was 9.14 months. Following implementation of the BIM
+                                                                             electronic processes   methodology, COHAPAR expects project preparation to take an average of
+                                                                             and audited by the     7.31 months, i.e., 20% less time.
+                                                                             Audit Office of the    Importantly, this average time refers to the period running from issuance of
+                                                                             State of Paraná        the work order for preparation of the basic project through to its final approval
+                                                                                                    by COHAPAR.
+                                                                                                    The training envisaged in the program will also contribute to reducing the
+                                                                                                    time taken to prepare basic projects.
+                                                                                                    In addition to the time reduction, projects will be more technically and
+                                                                                                    socioenvironmentally qualified.
+                                                                                                    The data source and means of verification will be supported by
+                                                                                                    documentation recorded in COHAPAR’s electronic processes and audited
+                                                                                                    by the State Audit Office.
+Annex II
+Page 4 of 6
+
+
+                                                                               OUTPUTS
+                                        Baseline
+                              Unit of     value                                                   End of      Means of
+         Indicator                                 Year 1   Year 2   Year 3   Year 4   Year 5                                                    Comments
+                             measure                                                             program     verification
+                                         (2024)
+ COMPONENT 1. Housing assistance to families in situations of socioenvironmental vulnerability
+ 1.1. Engineering studies    Studies       0         1        2        0        0        0          3      Project           Engineering studies and designs approved by
+      and designs                                                                                          management        COHAPAR and the respective municipal
+      approved                                                                                             unit (PMU)        governments for execution of the program works
+                                                                                                           semiannual
+                                                                                                           progress report
+ 1.2. Construction of        Housing       0         _       500     1,900    2,000    1,200      5,600    PMU semi-
+      housing units           units                                                                        annual progress
+                                                                                                           report
+ Milestone 1: Housing        Housing       0         -       500     1,900    2,000    1,200      5,600    PMU semi-         Housing units built in areas not subject to high
+ units built in areas         units                                                                        annual progress   climate risk, with drinking water supply, sewerage,
+ outside high-climate-risk                                                                                 report            and EDGE level 1 certification or similar.
+ areas compatible with                                                                                                       Works execution takes approximately 18 months,
+ EDGE level 1 or similar                                                                                                     so the first group, comprising the housing unit
+                                                                                                                             projects of the representative sample, could begin
+                                                                                                                             in year 1 and finish in year 2.
+ Milestone 2. Low-income     Hectares      0         -        2        9        9        6         26      PMU semi-         Low-income housing complexes with access to
+ housing complexes with                                                                                    annual progress   basic services are defined as the area within the
+ access to basic services                                                                                  report            project perimeter that will be provided with
+                                                                                                                             drinking water supply, sewerage connection or
+                                                                                                                             individual solution, paving, public lighting,
+                                                                                                                             signage, roads, and landscaping.
+                                                                                                                             Calculation: According to COHAPAR, 43% of the
+                                                                                                                             projects in the representative sample will have
+                                                                                                                             paving services. COHAPAR estimated that each
+                                                                                                                             housing complex will have an average of 3,713 m²
+                                                                                                                             of pavement and 895 m² of sidewalks (external
+                                                                                                                             public areas). These values, added together and
+                                                                                                                             multiplied by 43%, result in an urbanized area of
+                                                                                                                             1,981.44 m² per housing complex.
+                                                                                                                             Considering the ratio of the total number of
+                                                                                                                             housing units (5,600) to the historical average of
+                                                                                                                             42 units per housing complex, the program will
+                                                                                                                             have an estimated 133 housing complexes.
+                                                                                                                             Accordingly, it is possible to calculate that the total
+                                                                                                                             urbanized area of the housing complexes will be
+                                                                                                                             263,531.52 m² or 26.35 hectares.
+                                                                                                                                                                    Annex II
+                                                                                                                                                                  Page 5 of 6
+
+
+                                       Baseline
+                            Unit of      value                                                  End of      Means of
+        Indicator                                 Year 1   Year 2   Year 3   Year 4   Year 5                                                   Comments
+                           measure                                                             program     verification
+                                        (2024)
+Milestone 3. Areas of      Hectares                 -        -        7       26       45        78      PMU semi-         The indicator refers to the total number of
+origin receiving urban                                                                                   annual progress   degraded areas that will be treated, prioritizing the
+infrastructure works                                                                                     report            program’s urban resilience elements with a
+                                                                                                                           variety of solutions, including: implementation of
+                                                                                                                           urban infrastructure, public facilities, parks, or
+                                                                                                                           reforestation.
+                                                                                                                           According to program data, a total of
+                                                                                                                           5,600 housing units will be built, of which 70% will
+                                                                                                                           be used to satisfy closed demand, i.e.,
+                                                                                                                           3,920 families living in unregulated settlements
+                                                                                                                           will move into qualified housing units.
+                                                                                                                           The      representative        sample       includes
+                                                                                                                           895 dwellings in the areas of origin with closed
+                                                                                                                           demand. A surface area of 200 m² per dwelling
+                                                                                                                           was considered.
+                                                                                                                           The total number of housing units with closed
+                                                                                                                           demand, 3,920, yields a total value of 78 hectares
+                                                                                                                           in areas of origin that will receive environmental
+                                                                                                                           treatment.
+Milestone 4. Housing       Number of      0         -       10       20       30       20        80      PMU semi-         Projects that incorporate designs in the housing
+complexes that integrate    housing                                                                      annual progress   complexes to enhance the perception of security,
+gender and inclusion       complexes                                                                     report            from the interior of the dwelling to the exterior, in
+perspectives                                                                                                               common areas, and vice versa.
+                                                                                                                           Actions will be confined to the housing complex
+                                                                                                                           polygon and accessibility features inside each lot.
+                                                                                                                           The number of urban developments was
+                                                                                                                           estimated in the description of milestone 2, with a
+                                                                                                                           minimization coefficient of 0.6, resulting in a total
+                                                                                                                           of 80 housing complexes.
+1.3. Technical, social,     Reports       0         0        2        2        2        2         8      PMU semi-         Supervision firms will be hired to produce
+     and environmental     approved                                                                      annual progress   semiannual reports, in accordance with the
+     supervision                                                                                         report            program’s contractual clause on that point,
+                                                                                                                           excluding year 1, when no completed
+                                                                                                                           construction is expected. but only project
+                                                                                                                           development.
+                                                                                                                           Every six months, the PMU will condense the
+                                                                                                                           outputs into a single semiannual report.
+Annex II
+Page 6 of 6
+
+
+                                        Baseline
+                             Unit of      value                                                  End of      Means of
+         Indicator                                 Year 1   Year 2   Year 3   Year 4   Year 5                                                  Comments
+                            measure                                                             program     verification
+                                         (2024)
+ COMPONENT 2. Institutional strengthening
+ 2.1. Procurement and         BIM           0        -       14        -        -        -        14      PMU semi-         Procurement and installation of packages with
+      installation of BIM   packages                                                                      annual progress   14 new high-efficiency computers and installation
+      packages with                                                                                       report            of BIM methodology software. Five additional BIM
+      information                                                                                                           licenses will be added to COHAPAR’s existing
+      technology                                                                                                            computers, and the respective user training will be
+      hardware and                                                                                                          provided, including modules for applying BIM to
+      software                                                                                                              climate change issues.
+ 2.2. COHAPAR staff         Number of       0       15       20       400      20        0        455     PMU semi-         Staff training in: systems techniques and
+      trained               employees                                                                     annual progress   updating; environmental and green housing
+                                                                                                          report            certifications; design of projects and initiatives
+                                                                                                                            with a gender and diversity perspective
+                                                                                                                            (Afro-descendants      and     the   LGBTQIA+
+                                                                                                                            population).
+ 2.3. Paraná Housing          Final         0        -        -        -        1        -         1      PMU semi-         Updating of the Paraná State Low-income
+      Needs Information      report                                                                       annual progress   Housing Plan (PEHIS) every four years. To make
+      System (SISPEHIS)     approved                                                                      report            the plan viable in 2027, seminars will be held,
+      updated                                                                                                               along with training events in the municípios, field
+                                                                                                                            activities coordinated by COHAPAR and
+                                                                                                                            executed locally by Paraná’s municipal
+                                                                                                                            governments.
+                                                                                                        Annex III
+                                                                                                      Page 1 of 5
+
+
+
+         Country: Brazil             Division: HUD               Operation: BR-L1588              Year: 2024
+
+                               FIDUCIARY AGREEMENTS AND REQUIREMENTS
+Executing agency: Paraná Housing Company (COHAPAR)
+Operation name: State Housing Program – State of Paraná – Vida Nova Project
+
+                        I.      FIDUCIARY CONTEXT OF THE EXECUTING AGENCY
+
+1. Use of country systems in the operation1
+
+             Budget               Reporting                Information system            National competitive
+                                                                                         bidding
+             Treasury             Internal audit           Shopping                      Other
+             Accounting           External control         Individual consultants
+
+2. Fiduciary execution mechanism
+
+      Specific features       The State of Paraná will be the borrower and COHAPAR will serve as
+      of fiduciary            executing agency, with responsibility for the program’s technical,
+      execution               administrative, financial, and procurement management.
+
+3. Fiduciary capacity
+
+Fiduciary capacity of         The fiduciary capacity assessment of the executing agency concluded
+the executing agency          that COHAPAR has satisfactory institutional capacity to implement
+                              program. The operation’s fiduciary agreements and requirements take
+                              account of the institution’s track record in executing subcomponent 2.1 of
+                              loan 3129/OC-BR. The program will have Operating Regulations that
+                              address the risk mitigation measures, needs, and specifics of this
+                              program.
+
+4. Fiduciary risks and risk response
+
+    Risk taxonomy                     Risk                 Risk level               Risk response
+
+Human resources              If the executing agency Medium-Low           Financial       and    procurement
+                             does         not      have                   management risks will be
+                             professional staff with                      mitigated       by:   (i) continuous
+                             experience in using the                      strengthening of the executing
+                             Bank’s fiduciary policies,                   agency         through      training,
+                             program startup could be                     assistance, and supervision by
+                             delayed, which would                         the Bank’s fiduciary team;
+                             result in higher costs and                   (ii) creation of a special bidding
+                             a     longer      program                    committee for the program; and
+                             implementation time.                         (iii) inclusion of the detailed
+
+1   Any system or subsystem that is subsequently approved may be applicable to the operation, in accordance with
+    the terms of the Bank’s validation.
+Annex III
+Page 2 of 5
+
+
+
+      Risk taxonomy                Risk              Risk level             Risk response
+
+                                                                   financial requirements in the
+                                                                   program Operating Regulations.
+   Systems                 If    the       program’s Medium-Low     Develop      or     contract     a
+                           financial management                     technological      solution     to
+                           system is not contracted                 manage        the       program’s
+                           by the start of execution,               accounting in United States
+                           the    submission        of              dollars and generate the
+                           financial     information                financial reports required by the
+                           could     be     delayed,                Bank.
+                           thereby compromising
+                           or                delaying
+                           disbursement requests.
+
+  5. Policies and guidelines applicable to the operation: Document OP-273-12 (or its current
+     version) will apply for financial management; and policies GN-2349-15 and GN-2350-15 will
+     apply for procurement under the program.
+  6. Exceptions to policies and/or guidelines: Not applicable.
+
+              II.   CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE LOAN CONTRACT
+
+  Special conditions precedent to the first disbursement: The borrower, through the executing
+  agency, will submit evidence to the Bank of the following: (i) the signing and entry into effect of
+  an agreement between the borrower and the executing agency for the transfer of resources and
+  the execution of program activities; (ii) the approval and entry into effect of the program
+  Operating Regulations, under the terms previously agreed upon with the Bank; and (iii) the
+  creation of the program management unit and appointment of that unit’s staff indicated in
+  paragraph 3.2. of the proposal document. Other special contractual conditions may be consulted
+  in the environmental and social action plan and in Annex B of the environmental and social
+  review summary.
+  Exchange rate: Pursuant to the terms of Article 4.10 of the General Conditions, the parties
+  agree that the applicable exchange rate will be the one stipulated in Article 4.10(b)(i). For the
+  purpose of determining the equivalency of expenditures incurred in local currency chargeable
+  against the local contribution, or the reimbursement of expenditures chargeable against the loan
+  proceeds, the exchange rate will be the one prevailing on the date on which the borrower,
+  executing agency, or any other person or legal entity to which the authority to incur expenditures
+  is delegated effectively makes the respective payments to the contractor, vendor, or beneficiary.
+  Type of audit: Audited financial statements will be submitted annually during program
+  execution, no later than 120 days after each fiscal year end. The program’s external audit will be
+  performed by the State of Paraná Audit Office or by a Bank-eligible external audit firm. The
+  program’s final audited financial statements will be submitted no later than 120 days following
+  the last disbursement date or any extensions thereof.
+                                                                                            Annex III
+                                                                                          Page 3 of 5
+
+
+             III.   AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+    Bidding          Works, goods, and nonconsulting services procured under the Bank’s
+    documents        procurement policies (document GN-2349-15) and requiring international
+                     competitive bidding will use the Bank’s standard bidding documents or those
+                     agreed upon between the executing agency and the Bank for the specific
+                     procurement operation. Consulting services will be selected and contracted in
+                     accordance with the consultant selection policies (document GN-2350-15)
+                     using the standard request for proposals issued by the Bank or a request for
+                     proposals agreed upon between the executing agency and the Bank for the
+                     specific selection.
+    Advance          The Bank may retroactively finance from the loan proceeds up to
+    procurement      US$15 million (10% of the proposed loan amount) in eligible expenditures
+    and              incurred by the borrower prior to the loan approval date for program studies,
+    retroactive      projects, and works, provided that requirements substantially similar to those
+    financing        established in the loan contract have been met. Such expenditures will have
+                     been incurred on or after the project profile approval date (27 February 2023),
+                     but will not, under any circumstances, include expenditures incurred more than
+                     18 months before the loan approval date.
+    Procurement The supervision method will be ex post, except where ex ante supervision is
+    Supervision justified. For procurement operations executed using the country system,
+                supervision will also be conducted using the country supervision system. Use
+                of the (i) ex ante, (ii) ex post, or (iii) country system supervision method will be
+                determined for each selection process. Ex post reviews will be conducted
+                according to the program supervision plan, which may be altered during
+                execution. The thresholds for ex-post review are as follows:
+                                                                                     Consulting
+                         Executing agency          Works        Goods/services
+                                                                                      services
+
+                            COHAPAR             US$10 million     US$5 million      US$1 million
+
+
+Main procurement items
+
+                                                                                 Estimated amount
+  Description of procurement                Selection method    Estimated date
+                                                                                       (US$)
+Goods
+Information technology hardware Shopping                        Jan-2025                   600,000
+and building information modeling
+(BIM) equipment
+Works
+Group 1 - Lots 1, 2, 3                National competitive      Jan-2024                12,555,000
+                                      bidding (NCB)
+Group 1 - Lots 4, 5, 6                NCB                       Feb-2024                12,555,000
+Group 1 - Lots 7, 8, 9                NCB                       Mar-2024                12,555,000
+Annex III
+Page 4 of 5
+
+
+
+                                                                                     Estimated amount
+     Description of procurement           Selection method        Estimated date
+                                                                                           (US$)
+  Group 1 - Lots 10, 11, 12            NCB                        Apr-2024                   12,555,000
+  Group 2 - 12 Lots                    International competitive Sep-2024                    59,420,000
+                                       bidding (ICB)
+  Group 3 - 12 Lots                    ICB                        Jan-2026                   48,610,000
+  Nonconsulting services
+  Works technical and                  Quality- and cost-based Feb-2024                        2,000,000
+  socioenvironmental supervision -     selection (QCBS)
+  First regional
+  Works technical and                  QCBS                       Feb-2024                     2,000,000
+  socioenvironmental supervision -
+  Second regional
+  Works technical and                  QCBS                       Feb-2024                     2,000,000
+  socioenvironmental supervision -
+  Third regional
+  Works technical and                  QCBS                       Feb-2024                     2,000,000
+  socioenvironmental supervision -
+  Fourth regional
+  Implementation of the technical      QCBS                       Feb-2024                     4,400,000
+  and environmental support
+  system
+
+   Link to procurement plan.
+
+                IV.     AGREEMENTS AND REQUIREMENTS FOR FINANCIAL MANAGEMENT
+
+         Programming     Acting through the program management unit (PMU), COHAPAR is
+         and budget      responsible for coordinating the entire planning process for the execution of
+                         activities contained in the multiyear execution plan and in the annual work
+                         plan. Paraná state agencies use planning instruments such as the multiyear
+                         plan, the targets and priorities of the Budget Guidelines Law, and the actions
+                         of the Annual Budget Law (LOA). The budget allocated to program activities
+                         is included in the LOA. The PMU team will ensure that the program’s
+                         budgetary resources, both Bank and local contribution, are duly budgeted and
+                         secured for annual execution in accordance with the program’s operational
+                         programming and financial plan.
+         Treasury and    Disbursements and cash flow. Disbursements will be made in United States
+         disbursement    dollars, in the form of advances of funds or any other modality established in
+         management      the Financial Management Guidelines for IDB-Financed Projects (document
+                         OP-273-12). Funds will be advanced on the basis of a financial plan generated
+                         for a period of up to 180 days. With the exception of the first advance of funds,
+                         subsequent advances may be processed once 80% of the total cumulative
+                                                                                          Annex III
+                                                                                        Page 5 of 5
+
+
+                 balance of advances has been justified. The Online Disbursement Platform
+                 will be used to manage disbursements with the Bank.
+                 The Bank’s resources will be administered through a dedicated bank account
+                 that will make it possible to identify the loan proceeds and bank reconciliations
+                 of these funds.
+                 To account for the loan proceeds and local contribution resources, the
+                 executing agency will use: (i) the exchange rate in effect when the funds
+                 advanced in the currency of the operation are converted to local currency, in
+                 the case of IDB resources; and (ii) the exchange rate in effect on the payment
+                 date, in the case of reimbursement of expenditures and the recognition of
+                 expenses charged against the local contribution. Expenditures deemed
+                 ineligible by the Bank will be reimbursed from local contribution resources or
+                 from other funds, at the borrower’s discretion and with the Bank’s approval,
+                 depending on the nature of the ineligibility.
+Accounting,      State of Paraná public agencies are required to work with the integrated
+information      financial management system (SIAFI) and the program and project
+systems, and     management, monitoring, and support system (SIGMA-PP), and to meet
+reporting        public sector accounting standards. SIAFI affords the Finance Department a
+                 crosscutting view of financial resources and enables efficient management of
+                 all of the state’s financial resources, in national currency. However, the system
+                 does not automatically make it possible to manage the operation in other
+                 currencies or issue reports according to the Bank’s requirements.
+                 SIGMA-PP is linked to SIAFI and integrates budgetary, accounting, and cash
+                 management activities. It was developed to support program planning, record
+                 results and targets, monitor and evaluate program performance, and issue
+                 follow-up, and physical and financial monitoring reports in foreign currencies.
+                 Accordingly, within six months from the signing of the loan contract,
+                 COHAPAR will confirm that SIGMA-PP has been implemented, which will
+                 automatically make it possible to issue financial reports according to the
+                 Bank’s requirements.
+                 To supplement the policies and guidelines applicable to the operation, the
+                 program Operating Regulations will be used with workflows and internal
+                 controls as documented.
+External         The program’s external audit may be performed by the State of Paraná Audit
+control and      Office, or by an independent external audit firm that is eligible to audit
+financial        Bank-financed operations, under terms of reference previously agreed upon
+reports          between the executing agency and the Bank. These may be amended during
+                 the lifetime of the project, depending on the results of the Bank’s supervision.
+                 Audited financial statements will be delivered no later than 120 days after each
+                 fiscal year end; and the final audited statements will be submitted no later than
+                 120 days following the date of the last actual disbursement.
+Financial        The financial supervision plan will be based on the risk and fiduciary capacity
+supervision of   assessments made of COHAPAR. It will provide for onsite supervision visits
+the operation    and desk monitoring, supported by analysis and monitoring of the results of
+                 the audits of the program’s annual financial statements and accompanying
+                 recommendations.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-___/24
+
+
+
+ Brazil. Loan ____/OC-CH to the State of Paraná. State Housing Program – State of Paraná –
+     Vida Nova Project. Second Individual Operation under the Conditional Credit Line for
+                     Investment Projects (CCLIP) ProMorar (BR-O0014)
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be necessary
+with the State of Paraná, as borrower, and with the Federative Republic of Brazil, as guarantor, for
+the purpose of granting the former a financing to cooperate in the execution of the State Housing
+Program – State of Paraná – Vida Nova Project, which constitutes the second individual operation
+under the Conditional Credit Line for Investment Projects (CCLIP) ProMorar (BR-O0014), approved
+by Resolution DE-57/23, on 28 June 2023. Such financing will be for an amount of up to
+US$150.000.000 from the Ordinary Capital resources of the Bank, and will be subject to the
+Financial Terms and Conditions and the Special Contractual Conditions of the Project Summary of
+the Loan Proposal.
+
+
+
+                                (Adopted on ___ __________ 2024)
+
+
+
+LEG/SGO/CSC/EZIDB0000366-620307903-44125
+BR-L1588
+

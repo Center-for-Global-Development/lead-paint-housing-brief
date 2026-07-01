@@ -1,0 +1,15 @@
+Institution,Project_ID,Project_Name,Country,Approval_Date,Status,Total_Commitment_USD,Sector_Codes
+World Bank,P505746,Sindh Flood Emergency Housing Reconstruction Project,Pakistan,2024-12-24,Active,450000000,"YYF,YYH"
+World Bank,P508310,Armenia Housing Response and Mortgage Market Enhancement Project,Armenia,2025-12-23,Active,250000000,"YYF,YYH"
+World Bank,P513953,"Housing Opportunity: Governance, Affordability, Reform in El Salvador",El Salvador,2026-10-20,Pipeline,230000000,"BBH,NNF,NNI,YYF,YYH"
+World Bank,P181251,Financial Inclusion for Households and MSMEs in the WAEMU,Western and Central Africa,2025-05-21,Active,205000000,"FFA,FFK,FFP,YYH"
+World Bank,P507999,"Cameroon Finance for Jobs, Inclusion and Growth",Cameroon,2026-12-17,Pipeline,200000000,"FFL,FFP,NNI,YYH"
+World Bank,P512529,Promoting Sustainable Housing in Brazil Project,Brazil,2026-09-29,Pipeline,200000000,"BBH,LLU,NNI,WWF,YYF,YYH"
+World Bank,P512540,Fortaleza Urban and Fiscal Sustainability Development Policy Loan,Brazil,2026-07-31,Pipeline,177193472,"BBH,NNI,SSA,SSG,TTC,YYH"
+World Bank,P512660,Croatia Disaster Preparedness and Resilience Development Policy Loan with a Catastrophe Deferred Drawdown Option (Cat DDO),Croatia,2025-12-22,Active,115700000,"BBZ,FFD,LLT,SSA,YYH,YYT"
+World Bank,P178986,"Africa Green, Resilient and Inclusive Housing De-Risking (GRIHD) Facility",Eastern and Southern Africa,2025-04-01,Active,95000000,YYH
+World Bank,P510438,Housing Repair for People's Empowerment Project  (HOPE),Ukraine,2025-05-09,Active,84000000,"YYF,YYH"
+World Bank,P500611,Second Real Estate Management Project,Serbia,2024-07-29,Active,32500000,"AAK,BBC,BBH,YYH"
+World Bank,P512048,Integrated Flood Resilience and Adaptation Project,Pakistan,2025-06-27,Active,32000000,YYH
+World Bank,P510584,Maldives Fire Reconstruction and Building Resilience Emergency Project,Maldives,2025-12-18,Dropped,20000000,"BBH,EEF,LLT,NNF,NNI,SSA,SSG,TTC,TTF,WWB,WWF,YYH,YYT"
+World Bank,P505490,Belize  Development Policy Credit with a Catastrophe Deferred Drawdown Option,Belize,2025-07-29,Active,20000000,"BBC,BBZ,FFD,YYH"

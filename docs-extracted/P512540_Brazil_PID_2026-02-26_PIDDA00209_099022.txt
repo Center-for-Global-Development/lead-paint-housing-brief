@@ -1,0 +1,414 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidaprdpfcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                                Appraisal Stage | Date Prepared/Updated: 26-Feb-2026 | Report No: PIDDA00209
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                               Official Use Only
+         The World Bank
+         Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidaprdpfbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)         Operation ID                  Operation Name
+Brazil                           P512540                       Fortaleza Urban and Fiscal Sustainability DPF
+Region                           Estimated Approval Date       Practice Area (Lead)          Financing Instrument
+LATIN AMERICA AND                                                                            Development Policy
+                                 15-Jul-2026                   Urban, Resilience and Land
+CARIBBEAN                                                                                    Financing (DPF)
+Borrower(s)                      Implementing Agency
+                                 Fortaleza Secretariat of
+                                 Finance, Fortaleza Urban
+Municipality of Fortaleza
+                                 and Environment
+                                 Secretariat
+
+Proposed Development Objective(s)
+To promote urban and fiscal sustainability in the municipality of Fortaleza
+
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+Financing (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                      Yes
+Is this project Private Capital Enabling (PCE)?                Yes
+
+SUMMARY
+  Total Financing                                                                                                 194.76
+
+DETAILS
+  Total World Bank Group Financing                                                                                194.76
+    World Bank Lending                                                                                            194.76
+
+@#&OPS~Doctype~OPS^dynamics@pidaprdecision#doctemplate
+Decision
+The review did authorize the team to appraise and negotiate
+
+
+                                                                                                                       Page 1
+
+
+
+                                                                                                               Official Use Only
+        The World Bank
+        Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+
+  Explanation
+
+
+
+
+ B. Introduction and Context
+
+ Country Context
+
+The municipality of Fortaleza has not grown and generated jobs commensurate with its size and economic status due
+to urban fragmentation that prevents the city from reaping the benefits of urban agglomeration and poor fiscal standing
+that hinders its ability to provide public services and infrastructure to support growth and jobs. Despite its size and
+dynamism, Fortaleza’s labor markets, firms, and services remain spatially disconnected. This fragmentation weakens firm-
+worker matching, raises mobility and service-delivery costs, and amplifies exposure to climate and security risks, ultimately
+constraining productivity and employment. At the core of this challenge lies weak and misaligned land-use regulation,
+where zoning and planning instruments have failed to steer compact, mixed-use, and transit-oriented development. This
+operation addresses these challenges by supporting urban policy reforms that permit denser housing near jobs center and
+transport axis, and fiscal reforms to increase revenues and control expenditures.
+
+Despite being a major economic engine in Northeast Brazil, Fortaleza is not fully converting its scale and dynamism into
+productive and inclusive employment. As Brazil’s fourth largest city—with 2.4 million residents1—Fortaleza generates 37
+percent of Ceará’s GDP and employs 53 percent of the state’s workforce.2 Its service-driven economy (83 percent of GDP)
+benefits from strong tourism demand and a growing digital ecosystem, anchored by its strategic coastal location and more
+than fifteen international submarine cables. Tourism plays a central role and it’s a top priority for Fortaleza: the
+municipality receives around 3 million visitors per year, generating about 200,000 direct and indirect jobs, and in the first
+half of 2025 alone, 2.1 million tourists generated R$13 million in economic activity and sustained over 322,000 jobs, a
+year-on-year increase of 55,000.3 This highlights the importance of urban conditions – such as safety, heat mitigation, and
+safety—for the service sectors that underpin local economic growth. Major private investments, including Amazon Web
+Services planned R$7.7 billion data center initiative, underscore Fortaleza’s potential as a regional hub for high-value
+services.4 The Pecém Industrial and Port Complex5 –which will enable clean hydrogen production–also offers important
+spillovers for Fortaleza, particularly as the relocation of fuel storage operations from the Mucuripe Port will free 46.89
+hectares of prime land for mixed-use development.6 Yet these advantages remain underleveraged due to deep-rooted
+structural challenges of spatial fragmentation, environmental and security constraints, and widespread informality.
+
+
+
+1 According to the IBGE, in 2022, the population of Fortaleza was 2,428,708, the population of the metropolitan area 3,903,945 and the population
+
+of the state of Ceará was 8,791,688.
+2 Fortaleza Secretariat of Economic Development, August 2025, formal employment for Fortaleza municipality and Ceara State.
+3 Fortaleza Secretariat of Tourism
+4 World Bank. 2025. Rotas para o Nordeste: Produtividade, Empregos e Inclusão.
+5 Expanding Clean Hydrogen in Brazil – Ceara Green Hydrogen Hub, P181511, Investment Project Financing, US$175 million, approved on July 9, 2025,
+
+finances critical infrastructure to support private investment in clean hydrogen and derivatives production. IFC is also currently in preliminary talks
+with companies pursuing green hydrogen production and storage services in the Pecém Port Industrial Complex (CIPP) such as Fortescue, Casa dos
+Ventos, FRV and Voltalia.
+6 The Fortaleza Master Plan of 2025 (PA4 of the proposed DPF) revises the zoning of this previously industrial area to allow for mixed-use development
+
+in an area with high potential for tourism.
+
+                                                                                                                                                  Page 2
+
+
+
+                                                                                                                                        Official Use Only
+        The World Bank
+        Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+Rapid but unplanned urban expansion has entrenched fragmentation and eroded productivity. Over the last two
+decades, Fortaleza’s urban footprint has expanded by more than 70 percent while population grew by only 20 percent,
+producing one of the highest levels of spatial dispersion among Brazilian state capitals. This pattern reflects zoning and
+land-use regulations that have allowed increased urban sprawl at the periphery while failing to incentivize density, mixed
+use, and redevelopment in serviced areas. The result is a city where households and firms are increasingly distant from
+one another, weakening labor-market integration and raising infrastructure costs. Sprawl has also fueled widespread
+informality. Around 60 percent of residents live in areas with low or very low quality of life, and 856 informal settlements
+house more than 271,539 families with inadequate services. As formal housing near employment centers becomes scarce
+or unaffordable, low-income households are pushed into environmentally fragile or flood-prone areas. This spatial
+mismatch reinforces fragmentation, increases climate exposure, and limits access to jobs—particularly for workers
+dependent on public transport.
+Fragmentation is compounded by mobility inefficiencies and rising climate stress, which directly reduce productivity.
+Peripheral neighborhoods experience average commuting times exceeding 60 minutes each way, shrinking effective job-
+search areas and weakening firm-worker matching. These effects fall disproportionately on low-income households,
+women and informal workers. Environmental pressures intensify these constraints. Consistent with the Country Climate
+and Development Report (CCDR) findings, rising urban heat is emerging as a material drag on productivity, especially in
+service, construction, transport, and tourism sectors.7 Fortaleza exhibits some of the highest urban heat island intensities
+among Brazil’s coastal cities due to vegetation loss, extensive impermeable surfaces, and unregulated construction. Heat
+studies show surface temperatures exceeding 27°C in dense built-up areas in Fortaleza.8 Extreme heat reduces labor
+productivity, raises health costs, and slows economic activity in many cities, with projected GDP losses in major urban
+centers reaching 5 percent or more in the coming decades. 9 Informal settlements—often located in poorly serviced, heat-
+exposed areas—bear the highest burden: households are most exposed, often living in neighborhoods with little green
+space, poor-quality housing, and limited mobility options beyond walking or public transport.
+Severe security challenges further weaken agglomeration benefits. Fortaleza records one of the highest violent crime
+levels in Brazil, with a crime index of 75.85 and very low perceptions of nighttime safety. Homicides rose by 13 percent in
+2024, with some districts experiencing increases above 65 percent.10 Crime patterns overlap spatially with informality,
+poor lighting, heat stress, and weak state presence—areas where fragmentation limits both policing effectiveness and
+informal surveillance. These conditions sharply constrain evening mobility and commercial activity, suppress tourism
+spillovers, and deter private investment. The interaction between fragmentation, heat, and insecurity creates a reinforcing
+cycle in which workers and firms cannot fully exploit proximity, density, and scale—core drivers of urban productivity.
+The proposed US$194.76 million standalone DPF directly addresses these constraints through a coherent reform
+package to support improved zoning, urban upgrading, safety, and fiscal reforms to unlock productivity and job creation
+in the long term. Zoning and land-use actions through a coherent Master Plan tackle fragmentation at its source by
+promoting compact, mixed-use, and transit-accessible development, strengthening agglomeration and labor-market
+integration. 11 Urban upgrading measures—particularly in informal settlements—combine drainage, green infrastructure,
+lighting, and public space improvements to reduce heat exposure, enhance safety, and improve access to jobs. Expanded
+public lighting and surveillance systems address one of Fortaleza’s most acute barriers to productivity and inclusion by
+improving real and perceived safety, enabling evening economic activity, and reinforcing tourism and service-sector
+
+7 World Bank Group. 2023. Brazil Country Climate and Development Report.
+8 Fernandes, Rodrigo; Ferreira, Antonio; Nascimento, Victor; Freitas, Marcos; and Ometto, Jean. Urban Heat Island Assessment in the Northeastern
+
+State Capitals in Brazil using Sentinel-3 SLSTR Satellite Data. Sustainability 2024, 16(11), 4764.
+9 World Bank. 2025. Unlivable: Confronting Extreme Urban Heat in Latin America and the Caribbean.
+10 Secretariat of Public Security and Social Defense of Ceará
+11 World Bank. 2017. Transforming the Urban Space through Transit-Oriented Development.
+
+
+
+                                                                                                                                            Page 3
+
+
+
+                                                                                                                                   Official Use Only
+       The World Bank
+       Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+growth. Fiscal reforms—including cadaster modernization, improved property tax valuation, and strengthened public
+lighting fees—ensure that these spatial and safety gains are financially sustainable. Stable and predictable revenues allow
+the municipality to maintain infrastructure, reduce investor risk, and crowd in private participation. Together, these
+reforms establish a clear results chain: prior actions on zoning, safety, climate resilience, and fiscal sustainability reduce
+fragmentation; reduced fragmentation strengthens agglomeration; stronger agglomeration raises productivity, resilience,
+and inclusive job creation. By explicitly linking spatial planning to economic outcomes, the DPF lays the institutional
+foundation for Fortaleza to convert its scale and assets into sustainable urban development and long-term economic
+transformation.
+
+ Relationship to CPF
+
+The proposed operation is aligned with Brazil’s Country Partnership Framework (CPF) FY2024–FY2028. The Brazil CPF
+for FY24-28 (Report No. CPF0000013) was endorsed by the World Bank Board on April 9, 2024, and is built on three High-
+Level Objectives (HLOs): (i) greater productivity and employment; (ii) greater inclusion of the poor and underserved
+populations; and (iii) a greener economy with reduced vulnerability to climate shocks. The DPF supports HLO1, specifically
+objectives 1.2 (greater and greener competitiveness) and 1.4 (expanded and modernized infrastructure), HLO2,
+specifically objective 2.1 (improve access to essential services and products), and HLO3, specifically objective 3.3
+(promoting green and resilient cities and communities). Aligned with the CPF, the proposed operation aims to strengthen
+the municipality’s urban and fiscal sustainability, improving its planning, management, and funding of interventions across
+several sectors relevant for Fortaleza’s economic competitiveness, including through leveraging private sector capital and
+expertise, while preserving environmental protection areas and providing social housing.
+
+ C. Proposed Development Objective(s)
+ To promote urban and fiscal sustainability in the municipality of Fortaleza
+
+  Key Results
+The measures supported by the operation are expected to catalyze job creation and long-term economic transformation,
+by reducing spatial barriers, strengthening labor mobility, and helping correct the regulatory and land-use distortions that
+fragment labor markets—ultimately supporting a more dynamic urban economy capable of generating better and more
+widely shared jobs. Fiscal reforms will help strengthen public finances, both improving short term fiscal performance and
+safeguarding long-term sustainability.
+
+ D. Project Description
+The DPF strengthens Fortaleza’s urban and fiscal sustainability by establishing the foundations for a more efficient and
+productive pattern of urban development. Reforms promoting compact, transit-oriented growth, stronger environmental
+management, and well-located social housing reduce spatial barriers, support labor mobility, and enhance the city’s
+capacity to generate jobs. Measures advancing climate resilience improve livability and economic performance, while
+expanded funding sources and minimum allocations for social housing help catalyze private investment in inclusive,
+job-enabling urban regeneration. Complementary fiscal reforms—strengthening revenues and improving expenditure
+discipline—help sustain investment and crowd in private participation, reinforcing the conditions for job density, job
+quality, and more equitable growth.
+
+
+
+
+                                                                                                                          Page 4
+
+
+
+                                                                                                                  Official Use Only
+         The World Bank
+         Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+ E. Implementation
+
+ Institutional and Implementation Arrangements
+The Municipal Secretariat of Finance (SEFIN) and Urban and Environment (SEUMA), as the two implementing agencies of
+this operation will be responsible for collecting and monitoring information related to program implementation and
+progress toward the achievement of the results. The Bank team will work closely with SEFIN and SEUMA to define results
+indicators that are measurable and attainable, giving preference to those that are already planned to be collected as part
+of the prior action policy instruments or are otherwise regularly tracked by the municipal agencies.
+
+ F. Poverty and Social Impacts, and Environmental, Forests, and Other Natural Resource Aspects
+
+ Poverty and Social Impacts
+The prior actions contained in Pillar I will have an indirect positive impact on poverty creating fiscal space for pro-poor
+investments. PA1 and PA3 will increase the capacity of public investment by the municipality, implying an improvement
+in the services offered to the population in general, but on which the poorest layers are more directly dependent. Poor
+households will be protected from negative impacts of the changes to the urban property tax cadaster, as low-value
+properties continue to be exempt from the tax and therefore mitigate regressive effects. PA2 will have two positive
+impacts – the reduction of spending by low-income households who become exempt from paying the public lighting fee
+and who benefit from the impacts that derive from the improvement of the public lighting system in terms of mobility
+and safety.12
+
+The prior actions of Pillar II will have direct positive impacts on the poorest and most vulnerable population of the city of
+Fortaleza. These impacts are related to the expansion of the real estate stock and investments for the improvement of
+social housing (PA4 and PA6), the improvement of access to public transport and the reduction of the degree of exposure
+to risks and impacts exacerbated by climate change (PA5). It is estimated that the revision of the Fundurb (PA6) will double,
+between 2025 and 2027, municipal investments in housing improvements and triple the number of families served. This
+action has a significant impact in terms of gender equity and social inclusion: the explicit targeting of social housing policies
+and the establishment of minimum funding allocations ensure that resources reach those most in need, with anticipated
+positive effects on gender equity and the inclusion of marginalized groups.13 Through the Municipal Policy on Climate
+Change, the municipality will prioritize strategies to combat urban heat, reduce the vulnerability of communities exposed
+to extreme events and the effective participation of the most vulnerable social groups in the formulation, execution,
+monitoring and evaluation of public policies related to climate.14
+
+ Environmental, Forests, and Other Natural Resource Aspects
+
+
+
+
+12 It is worth noting that Fortaleza is the fifth most violent state capital in the country (a homicide rate equal to 33.7 homicides/100,000
+
+inhabitants) and which rises in peripheral regions of the city, characterized by low income and poor infrastructure. Magalhães, Marcos; Da Silva,
+Felipe; Neto, Aguimar; Santos, Marcelo; Penna, Christiano. Crime has taken over the city: The belt of insecurity in Fortaleza, Ceará. Brazilian Journal
+of Regional and Urban Studies 18(1), p. 118–149, 2024. Available at: https://revistaaber.org.br/rberu/article/view/1069.
+13 The municipality's Housing Registry Database informs that women and single mothers represent 81% and 37% of registered people, respectively.
+
+In addition, the elderly, people with disabilities and the homeless population (estimated at 9,000 people) represent 8%, 4% and 4% of those
+registered, respectively.
+14 Recent data estimate that one in 5 city residents live in irregular settlements and that 2,500 families live in 66 areas at risk of flooding, landslides
+
+or erosion.
+
+                                                                                                                                                      Page 5
+
+
+
+                                                                                                                                            Official Use Only
+       The World Bank
+       Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+The operation is likely to have potential beneficial effects on Fortaleza’s environmental priorities, particularly under Pillar
+II (PA4 and PA5). Potential significant adverse effects of the operation on the environment, forests, and other natural
+resources are unlikely. The approval of the revised Plano Diretor (PA4) and Municipal Climate Change Policy (PA5) would
+strengthen the municipal environmental policy by increasing the land area designated as zones of relevant environmental
+interest and strengthening regulations to protect green areas and increase soil permeability within the city, as well as by
+increasing strategic arborization to create green corridors and reduce temperatures, contributing to the climate
+adaptation of the urban environment. No significant environmental impact or benefit is expected from the other Prior
+Actions as defined at this stage.
+
+ G. Risks and Mitigation
+
+The overall residual risk rating for the operation is assessed as moderate. The institutional capacity for implementation
+and sustainability is rated substantial risks to the achievement of the PDO. A description of these risks and their respective
+mitigation measures is provided below.
+
+Institutional Capacity for Implementation and Sustainability are substantial. Implementing property tax increases may
+be challenging without penalties for noncompliance. To mitigate this, the reform package will adopt a phased rollout,
+allowing piloting and gradual scaling as institutional capacity strengthens, alongside clearer compliance mechanisms.
+Strong capacity for monitoring and enforcing the new zoning code is essential. While expanding environmental zones and
+earmarking land for social housing may constrain developable land and put upward pressure on prices, this risk will be
+mitigated through targeted land-use planning, coordinated sequencing of zoning changes, and complementary housing
+programs for low-income households. Insufficient funding for the Municipal Climate Change Policy also poses a risk; to
+address this, the municipality will diversify financing sources, prioritize cost-effective actions, and leverage technical
+assistance from the World Bank and other partners. Robust monitoring and evaluation systems will track progress, enable
+adaptive management, and ensure corrective measures can be introduced as needed.
+
+Other key risks are rated as moderate. Macroeconomic risks stem from Brazil’s broader fiscal pressures and exposure to
+external shocks, but Fortaleza’s prudent fiscal management help to mitigate these concerns. Sectoral and technical risks
+reflect the complexity of multi-sector reforms and the need for effective inter-agency coordination, while institutional
+capacity risks are managed through targeted training and leveraging lessons from previous operations. Fiduciary,
+environmental, and social risks are also considered moderate, supported by Fortaleza’s established regulatory frameworks
+and oversight mechanisms. Stakeholder risks are addressed through active engagement and transparent communication.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Hannah Kim
+   Senior Urban Specialist
+
+   Cornelius Fleischhaker
+   Senior Economist
+
+
+
+                                                                                                                          Page 6
+
+
+
+                                                                                                                  Official Use Only
+     The World Bank
+     Fortaleza Urban and Fiscal Sustainability DPF (P512540)
+
+
+Borrower/Client/Recipient
+ Municipality of Fortaleza
+
+Implementing Agencies
+ Fortaleza Secretariat of Finance
+
+ Fortaleza Urban and Environment Secretariat
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                     Hannah Kim, Cornelius Fleischhaker
+
+Approved By
+
+Practice Manager/Manager:                Federica Ranghieri                   28-Jan-2026
+
+Country Director:                        Jorge A. Coarasa                     26-Feb-2026
+
+
+
+
+                                                                                                    Page 7
+
+
+
+                                                                                            Official Use Only
+

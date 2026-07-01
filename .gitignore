@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+
+# Microsoft Office lock files
+~$*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Large downloaded PDFs — regenerate via `make download`
+docs-expanded/*.pdf
+
+# Cached IATI country XML files — regenerate via `make universe`
+.iati_cache/
+.iati_cache_adb/
+
+# Author drafts
+*.docx
+drafts/
+
+# Per-project log files
+outputs/*/*.log

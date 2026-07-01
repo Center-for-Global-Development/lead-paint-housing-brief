@@ -1,0 +1,560 @@
+                                                                                                            PMR Public Report
+Operation Number                    UR-L1146                                                                                 Chief of Operations Validation Date                    05/10/24
+
+Year- PMR Cycle                     Second period Jan-Dec 2023                                                               Division Chief Validation Date                         05/15/24
+
+Last Update                         05/06/24                                                                                 Country Representative Validation Date                 05/15/24
+
+PMR Validation Stage                Validated by Representative
+
+Basic Data
+Operation Profile
+Operation Name                      Neighborhood Improvement Program III                                                     Loan Number                                            4651/OC-UR
+
+Executing Agency                    MINISTERIO DE VIVIENDA ORDENAMIENTO TERRIT. Y MEDIO AMBIENTE                             Sector/Subsector                                       URBAN DEVELOPMENT AND HOUSING-NEIGHBORHOOD UPGRADING
+
+Team Leader                         ADLER, VERONICA                                                                          Overall Stage                                          Disbursing (From eligibility until all the Operations are closed)
+
+Operation Type                      Loan Operation                                                                           Country                                                Uruguay
+
+Lending Instrument                  Investment Loan                                                                          Convergence related Operation(s)
+
+Borrower                            REPUBLICA ORIENTAL DE URUGUAY
+
+Environmental and Social Safeguards
+Impacts Category                    A                                                                                        Was/Were the objective(s) of this operation            NO
+                                                                                                                             reformulated?
+Safeguard Performance               Partially Satisfactory                                                                   Date of approval
+Rating
+Safeguard Performance               Se evidencian mejoras significativas en la gestión socioambiental y en su documentación de respaldo, y en el cumplimiento de acciones acordadas en la misión anterior, sin embargo, falta documentar y
+Rating - Rationale                  sistematizar el proceso de los realojos ya finalizados a través de evaluaciones ex post, para el cumplimiento con la OP 710.
+
+Financial Data
+                                                                           Total Cost and Source                                                                                                       Available Funds (US$)
+
+  Operations               Original IDB               Current IDB            Local Counterpart        Co-Financing / Country        Total Original Cost              Current IDB             Disb. Amount to Date        % Disbursed         Undisbursed Amount
+UR-L1146                           70,000,000                70,000,000                30,000,000                               0             100,000,000                    70,000,000                  24,505,000               35.01%                45,495,000
+
+Aggregated                         70,000,000                70,000,000                30,000,000                               0             100,000,000                    70,000,000                  24,505,000               35.01%                45,495,000
+
+Expense Categories by Loan Contract (cumulative values)
+
+
+
+
+Please note that inactive indicators and outputs are not displayed; totals in the actual cost table may not match the sum of the cost of the outputs displayed, due to the cost of inactive outputs.
+
+
+
+
+                                                                                                                                                        1
+RESULTS MATRIX
+General Development Objectives
+General Development Objectives Nbr. 0: Indicadores de Impacto
+Observation:
+                     Indicator                                                           Unit of Measure           Baseline        Baseline Year      Expected
+                                                                                                                                                       Year of                           EOP 2026
+                                                                                                                                                     Achievement
+0.0                  Diferencial del logaritmo del precio del metro cuadrado promedio           %                      0                2018              2025               P               6
+                     estimado en las viviendas del entorno de los asentamientos                                                                                              A               -
+                     tratados y no tratados
+Details
+Means of Verification: Evaluación de impacto del programa (Plan de Monitoreo y Evaluación).
+
+Observations:
+
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender      No                Pro-Ethnicity    No                 CRF indicator
+
+
+
+
+                     Indicator                                                           Unit of Measure           Baseline        Baseline Year      Expected
+                                                                                                                                                       Year of                           EOP 2026
+                                                                                                                                                     Achievement
+0.2                  Diferencial del logaritmo del precio promedio de venta de las              %                      0                2018              2025               P              20
+                     viviendas antes y después en los asentamientos tratados                                                                                                 A               -
+Details
+Means of Verification: Censos de inicio-cierre.
+
+Observations:
+
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender      No                Pro-Ethnicity    No                 CRF indicator
+
+
+
+
+                     Indicator                                                           Unit of Measure           Baseline        Baseline Year      Expected
+                                                                                                                                                       Year of                           EOP 2026
+                                                                                                                                                     Achievement
+0.3                  Hogares que consideran que el barrio es un lugar bueno para vivir          %                     59                2018              2025               P              67
+                                                                                                                                                                             A               -
+Details
+Means of Verification: Encuesta de censo de inicio y de cierre.
+
+Observations:
+
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender      No                Pro-Ethnicity    No                 CRF indicator
+
+
+
+
+                     Indicator                                                           Unit of Measure           Baseline        Baseline Year      Expected
+                                                                                                                                                       Year of                           EOP 2026
+                                                                                                                                                     Achievement
+0.4                  Existencia de un programa de vivienda pública en alquiler a nivel      Programa                   0                2018              2025               P               1
+                     nacional                                                                                                                                                A               -
+Details
+Means of Verification: El objetivo es mostrar si el piloto fue tomado en cuenta para expandir la iniciativa en mayor escala. La lógica del piloto es ensayar en un marco reducido y bajo una mirada
+atenta una nueva forma de acceso a la vivienda para sectores de bajos ingresos, poniendo a prueba la capacidad del estado de ejecutar y sobre todo gestionar el sistema.
+Observations:
+
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+                                                                                                              2
+Pro-Gender   No   Pro-Ethnicity   No   CRF indicator
+
+
+
+
+                                                       3
+RESULTS MATRIX
+Specific Development Objectives
+Specific Development Objectives Nbr. 0: Objetivos de evaluabilidad 1. Integración urbana: infraestructura básica, equipamientos urbanos y equipamientos sociales con consideraciones de
+cambio climático
+Observation:
+                    Indicator                                                                        Unit of Measure       Baseline         Baseline Year                          2024   2026   EOP 2026
+0.0                 Porcentaje de viviendas que toman el agua para beber y cocinar de la red               %                  55                2018               P                -      -        81
+                    general, por cañería dentro de la vivienda y con servicio en forma regular del                                                                 A                -      -        -
+                    OSE respecto al total de las viviendas censados en los asentamientos
+                    intervenidos
+Details
+Means of Verification: Levantamientos de los censos de inicio y de cierre del programa (preguntas de la sección 2. DATOS DE LA VIVIENDA 12,13 y 14 con código de respuesta =1).
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity     No                CRF indicator
+
+
+
+
+                    Indicator                                                                        Unit of Measure       Baseline         Baseline Year                          2024   2026   EOP 2026
+0.2                 Porcentaje de viviendas con servicio intradomiciliario formal de saneamiento           %                  20                2018               P                -      -        95
+                                                                                                                                                                   A                -      -        -
+Details
+Means of Verification: Levantamientos de los censos de inicio y de cierre del programa (preguntas de la sección 2. DATOS DE LA VIVIENDA 18, 19 y 20 con código de respuesta =1).
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity     No                CRF indicator
+
+
+
+
+                    Indicator                                                                        Unit of Measure       Baseline         Baseline Year                          2024   2026   EOP 2026
+0.3                 Porcentaje de viviendas que cuenta con servicio de electricidad formal de UTE          %                  43                2019               P                -      -        88
+                    respecto al total de las viviendas censadas en los asentamientos intervenidos                                                                  A                -      -        -
+Details
+Means of Verification: Levantamiento de los censos de inicio y cierre del programa (pregunta de la sección 2. DATOS DE LA VIVIENDA 17=1).
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity     No                CRF indicator
+
+
+
+
+                    Indicator                                                                        Unit of Measure       Baseline         Baseline Year                          2024   2026   EOP 2026
+0.4                 Porcentaje de hogares en los asentamientos que reportan haber usado al                 %                   0                2018               P                -      -        30
+                    menos uno de los equipamientos barriales construidos por el programa al                                                                        A                -      -        -
+                    menos una vez en el último mes
+Details
+Means of Verification: Relevamiento para la evaluación de cierre del programa.
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity     No                CRF indicator
+
+
+
+
+                                                                                                          4
+                    Indicator                                                                          Unit of Measure   Baseline   Baseline Year       2024   2026   EOP 2026
+0.6                 Porcentaje de hogares en los asentamientos que reportan haber usado al                     %            0           2018        P    -      -        30
+                    menos uno de los espacios públicos construidos por el programa al menos una                                                     A    -      -        -
+                    vez en el último mes
+Details
+Means of Verification: Relevamiento para la evaluación de cierre del programa
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                                          Unit of Measure   Baseline   Baseline Year       2024   2026   EOP 2026
+0.6                 Número de medidas de mitigación y adaptación reportadas en el marco de la           # medidas de        0           2018        P    -      -        10
+                    Contribución Determinada a Nivel Nacional que la entidad ejecutora reportara          mitigación                                A    -      -        -
+                    ante la Dirección de Cambio Climático del MVOTMA
+Details
+Means of Verification: Contabilidad de cambio climático (EEO#7)
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+Specific Development Objectives Nbr. 1: Objetivo de evaluabilidad 2. Garantía de tenencia segura
+Observation:
+                    Indicator                                                                          Unit of Measure   Baseline   Baseline Year       2024   2026   EOP 2026
+1.0                 Porcentaje de viviendas que reportan haber realizado reformas o mejoras en el              %           45           2018        P    -      -        55
+                    último año en la vivienda o en el terreno (no financiadas por ningún programa)                                                  A    -      -        -
+Details
+Means of Verification: Línea de base (LB) censo de inicio de la muestra y para el resultado final censo de cierre.
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                                          Unit of Measure   Baseline   Baseline Year       2024   2026   EOP 2026
+1.2                 Porcentaje de viviendas que reportan que disponen de heladera y calentador de              %           51           2018        P    -      -        81
+                    agua                                                                                                                            A    -      -        -
+Details
+Means of Verification: Para la LB es el levantamiento de la muestra, y para la meta final es el censo de cierre.
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+Specific Development Objectives Nbr. 2: Objetivo de evaluabilidad 3. Mejora del capital social
+Observation:
+
+
+
+
+                                                                                                              5
+                    Indicator                                                                         Unit of Measure        Baseline   Baseline Year       2024   2026   EOP 2026
+2.0                 Porcentaje de hogares que reportan que la relación entre los vecinos del                 %                 64            2018       P    -      -        78
+                    asentamiento es buena o muy buena                                                                                                   A    -      -        -
+Details
+Means of Verification: Encuesta de censo inicial y final de los asentamientos.
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                                         Unit of Measure        Baseline   Baseline Year       2024   2026   EOP 2026
+2.2                 Porcentaje de hogares que reportan que el barrio es seguro o muy seguro                  %                 27            2018       P    -      -      30.78
+                                                                                                                                                        A    -      -        -
+Details
+Means of Verification: Encuesta de censo inicial y final de los asentamientos.
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                                         Unit of Measure        Baseline   Baseline Year       2024   2026   EOP 2026
+2.2                 Porcentaje de mujeres que reportan que el barrio es seguro o muy seguro sobre            %                  0            2018       P    -      -      30.78
+                    el total de mujeres que responden                                                                                                   A    -      -        -
+Details
+Means of Verification: Encuesta de censo inicial y final de los asentamientos
+Observations: Se planea levantar la información en los relevamientos de inicio de los asentamientos por intervenir.
+
+Evaluation Methodology: -
+Pro-Gender     Yes              Pro-Ethnicity    No                CRF indicator
+
+
+
+
+Specific Development Objectives Nbr. 3: Objetivo de Evaluabilidad 4. Prevención de conformación de nuevos asentamientos con enfoque social
+Observation:
+                    Indicator                                                                         Unit of Measure        Baseline   Baseline Year       2024   2026   EOP 2026
+3.0                 Porcentaje de hogares que habitan en las viviendas del programa después de               %                  0            2018       P    -      -       100
+                    seis meses, sobre el total de hogares a los que se les asignó una vivienda                                                          A    -      -        -
+Details
+Means of Verification: Evaluación de procesos del programa con base a [fuente]
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                CRF indicator
+
+
+
+
+                    Indicator                                                                         Unit of Measure        Baseline   Baseline Year       2024   2026   EOP 2026
+3.2                 Porcentaje de morosidad en el pago de alquiler después de seis meses del total           %                  0            2018       P    -      -        10
+                    de hogares a los que se les ofreció la vivienda.                                                                                    A    -      -        -
+Details
+Means of Verification: Evaluación de procesos del programa con base a datos del Fondo de Garantía de Alquileres de DINAVI.
+
+                                                                                                            6
+Observations:
+
+Evaluation Methodology: -
+Pro-Gender      No                  Pro-Ethnicity      No                CRF indicator
+
+
+
+
+RESULTS MATRIX
+OUTPUTS: ANNUAL PHYSICAL AND FINANCIAL PROGRESS
+
+Component Nbr. 1 Componente I. Mejoramiento de Barrios
+                                                                                                                                               PHYSICAL PROGRESS                 FINANCIAL PROGRESS
+
+           Output                                                                                           Unit of Measure             2023                  EOP 2026        2023               EOP 2026
+
+           Numero de anteproyectos integrales aprobados                                             # API                        P                    2                   2          1,168,000         3,338,000
+   1.01                                                                                                                         P (a)                 -                   -                  -                0.01
+                                                                                                                                 A                    -                   -                  -                   -
+           Número de proyectos ejecutivos diseñados y aprobados                                     # PE                         P                    2                   2                  -         2,798,000
+   1.02                                                                                                                         P (a)                 1                   2                  -                0.01
+                                                                                                                                 A                    1                   2                  -                   -
+           Número de proyectos ejecutivos con obras iniciadas                                       #PE                          P                    1                  14      11,532,000           75,784,000
+   1.03                                                                                                                         P (a)                 6                  15      18,278,748           49,879,441
+                                                                                                                                 A                    4                   9          5,901,043        15,107,479
+           Proyectos de Mejoramiento de Barrios ejecutados                                          #PE                          P                    1                  14           123,000           881,000
+   1.04                                                                                                                         P (a)                 3                   8            65,000          7,874,804
+                                                                                                                                 A                    1                   1          1,803,996         2,952,673
+           Fondos de iniciativa barrial realizados                                                  # fondos aproba-dos          P                    3                  14            88,000           275,000
+   1.05                                                                                                                         P (a)                 1                   7             7,000           293,811
+                                                                                                                                 A                    1                   1            29,601               78,485
+
+Component Nbr. 2 Componente II. Proyecto Piloto de Recuperación de Inmuebles Degradados en Áreas Centrales con Enfoque Social
+                                                                                                                                               PHYSICAL PROGRESS                 FINANCIAL PROGRESS
+
+           Output                                                                                           Unit of Measure             2023                  EOP 2026        2023               EOP 2026
+
+           Proyectos Ejecutivos de Recuperación de inmuebles Aprobados                              #PE                          P                    -                   3                  -         4,497,000
+   2.01                                                                                                                         P (a)                 -                   1            29,514          61,449.01
+                                                                                                                                 A                    1                   1            31,318               61,449
+           Obras finalizadas                                                                        #Obras                       P                    2                   3          2,040,000         5,455,000
+   2.02                                                                                                                         P (a)                 -                   1          1,650,509         2,475,384
+                                                                                                                                 A                    -                   -           179,608           179,608
+           Diseño de los Modelos de Gestión de Alquileres finalizados                               #Modelos                     P                    -                   1                  -                   -
+   2.03                                                                                                                         P (a)                 1                   2            15,648               41,013
+                                                                                                                                 A                    -                   1                  -                   -
+           Número de unidades alquiladas por año.                                                   # unidades                   P                  59                   68                  -                   -
+   2.04                                                                                                                         P (a)                 -                  10                  -                0.01
+                                                                                                                                 A                    -                   -                  -                   -
+
+
+
+
+                                                                                                                 7
+Component Nbr. 3 COMPONENTE III. FORTALECIMIENTO INSTITUCIONAL
+                                                                                                                                     PHYSICAL PROGRESS                    FINANCIAL PROGRESS
+
+             Output                                                                                 Unit of Measure           2023                  EOP 2026           2023               EOP 2026
+
+             Número de talleres de capacitación realizados en la unidad ejecutora             # Talleres               P                    2                     14             6,000               42,000
+   3.01                                                                                                               P (a)                 2                      2               998                8,906
+                                                                                                                       A                    -                      -             6,549                6,549
+             Personas del organismo ejecutor capacitadas en temas de género                   Personas                 P                    -                     45                  -                   -
+   3.02                                                                                                               P (a)               45                       4                  -                0.01
+                                                                                                                       A                    2                      4                  -                   -
+             Número de técnicos contratados                                                   # contratos              P                  65                     390          1,115,000         6,930,000
+   3.03                                                                                                               P (a)               34                      86           939,392          3,183,810
+                                                                                                                       A                  28                      52           710,841          1,336,325
+             Página web reformulada y mostrando información básica a nivel de cada proyecto   # web                    P                    -                      1                  -                   -
+   3.04                                                                                                               P (a)                 -                      1                  -                0.01
+                                                                                                                       A                    -                      1                  -                   -
+
+
+Other Cost
+                 Administración y monitoreo                                                                            P                                          0
+
+                                                                                                                      P (a)      1,326,433                 5,712,073
+
+                                                                                                                       A         1,502,117                 2,450,330
+
+Total Cost
+                  Total Cost                                                                                           P        16,072,000               100,000,000
+
+                                                                                                                      P (a)     22,313,242           69,530,691.06
+
+                                                                                                                       A        10,165,073                22,172,898
+
+
+
+
+                                                                                                            8
+CHANGES TO THE MATRIX
+         Section                                   Name                                    Type of Change                       Sub type                   Modified By   Entered in System
+
+Output                  Diseño de los Modelos de Gestión de Alquileres          Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                        finalizados                                                                             by a change in the Financial P(a).
+                        Fondos de iniciativa barrial realizados                 Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                        Numero de anteproyectos integrales aprobados            Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                        Número de proyectos ejecutivos con obras iniciadas      Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                                                                                                                Modify Physical EOP P(a) value - caused    CONRADOM          4/1/2024
+                                                                                                                by a change in the Physical P(a).
+                        Número de proyectos ejecutivos diseñados y aprobados    Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                        Número de talleres de capacitación realizados en la     Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                        unidad ejecutora                                                                        by a change in the Financial P(a).
+                        Número de técnicos contratados                          Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                                                                                                                Modify Physical EOP P(a) value - caused    CONRADOM          4/1/2024
+                                                                                                                by a change in the Physical P(a).
+                        Número de unidades alquiladas por año.                  Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                        Obras finalizadas                                       Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                        Página web reformulada y mostrando información básica   Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                        a nivel de cada proyecto                                                                by a change in the Financial P(a).
+                        Personas del organismo ejecutor capacitadas en temas de Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                        género                                                                                  by a change in the Financial P(a).
+                        Proyectos de Mejoramiento de Barrios ejecutados         Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                                                                                                                by a change in the Financial P(a).
+                                                                                                                Modify Financial Historical Actual         CONRADOM          4/1/2024
+
+                        Proyectos Ejecutivos de Recuperación de inmuebles       Modify Output                   Modify Financial EOP P(a) value - caused   CONRADOM          5/6/2024
+                        Aprobados                                                                               by a change in the Financial P(a).
+                                                                                                                Modify Physical EOP P(a) value - caused    CONRADOM          4/1/2024
+                                                                                                                by a change in the Physical P(a).
+                                                                                                                Modify Physical Historical Actual          CONRADOM          4/1/2024
+
+
+
+
+                                                                                                            9
+RISKS AND PLANNED RESPONSES
+    Risk ID                          Risk Status                                   Risk Taxonomy
+
+                                       Active                                 Institutional Environment
+
+
+              Response Actions
+      1                                            Management Strategy                  Status
+                             1.01                       MITIGATE                       ACTIVE
+
+
+
+
+    Risk ID                          Risk Status                                   Risk Taxonomy
+
+                                       Active                                       Sustainability
+
+
+              Response Actions
+      2                                            Management Strategy                  Status
+                                 2
+
+
+
+
+    Risk ID                          Risk Status                                   Risk Taxonomy
+
+                                       Active                                    Goods, and Services
+
+
+              Response Actions
+      3                                            Management Strategy                  Status
+                             3.01                       MITIGATE                       ACTIVE
+
+
+
+
+    Risk ID                          Risk Status                                   Risk Taxonomy
+
+                                       Active                                    Political Environment
+
+
+              Response Actions
+                                                   Management Strategy                  Status
+                             4.01                       MITIGATE                       ACTIVE
+      4
+
+                                                   Management Strategy                  Status
+                             4.02                        EXPLOIT                       ACTIVE
+
+
+
+
+    Risk ID                          Risk Status                                   Risk Taxonomy
+
+                                       Active                            Economic and Financial Environment
+
+
+              Response Actions
+      5                                            Management Strategy                  Status
+                                 5
+
+
+
+
+                                                                            10
+Risk ID                          Risk Status                                Risk Taxonomy
+
+                                   Active                             Organizational Structure
+
+
+          Response Actions
+  6                                            Management Strategy               Status
+                             6
+
+
+
+
+Risk ID                          Risk Status                                Risk Taxonomy
+
+                                   Active                                 Political Environment
+
+
+          Response Actions
+  7                                            Management Strategy               Status
+                         7.01                       MITIGATE                    ACTIVE
+
+
+
+
+Risk ID                          Risk Status                                Risk Taxonomy
+
+                                   Active                            Institutional Environment
+
+
+          Response Actions
+  8                                            Management Strategy               Status
+                         8.01                       MITIGATE                    ACTIVE
+
+
+
+
+                                                                     11
+IMPLEMENTATION STATUS AND LEARNING
+
+
+                                                    Lesson Learned - Categories
+Others - Organizational and Managerial Dimensions
+
+Acquisitions and Procurement - Bidding Stage
+
+
+
+
+                                                                            12
+

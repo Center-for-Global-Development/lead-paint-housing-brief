@@ -1,0 +1,1502 @@
+                                                                                       PUBLIC
+                                                                     SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                          ECUADOR
+
+
+
+
+                FINANCING LOW-INCOME HOUSING IN ECUADOR
+
+
+
+                                          (EC-U0001)
+
+
+
+
+                                   GUARANTEE PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Joan Prats (IFD/CMF),
+Project Team Leader; Beatriz Uribe (CSD/HUD), Alternate Project Team Leader;
+Manuel Fernandini, Omar Villacorta, Enrique Nieto, Gloria Lugo, Isabelle Braly-Cartillier,
+Alejandro Tamola, and Cecilia Bernedo (IFD/CMF); Nora Ruth Libertun de Duren,
+Paloma Silva, and Beatriz González (CSD/HUD); Luis Gomez (IFD/FMM); Gabriela Mera
+(INO/FLI); Juan Carlos Dugand Ocampo (VPC/FMP); Carolina Escudero (FMP/CEC);
+Pilar Jiménez de Aréchaga (LEG/SGO); Ramón Ruiz, Laura Fan, Claudia Franco, and
+Arturo Pita (FIN/TRY).
+
+
+
+
+This document is being released to the public and distributed to the Bank’s Board of Executive
+Directors simultaneously. This document has not been approved by the Board. Should the Board
+approve the document with amendments, a revised version will be made available to the public, thus
+superseding and replacing the original version.
+                                                    CONTENTS
+
+
+
+PROJECT SUMMARY
+
+I.     DESCRIPTION AND RESULTS MONITORING ................................................................ 1
+
+       A.    Background, problem addressed, and rationale ............................................ 1
+       B.    Objectives, components, and cost ................................................................ 9
+       C.    Key results indicators ................................................................................. 10
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ............................................................... 11
+
+       A.    Financing instruments ................................................................................ 11
+       B.    Environmental and social risks ................................................................... 15
+       C.    Fiduciary risks ............................................................................................ 15
+       D.    Other project risks ...................................................................................... 15
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 16
+
+       A.    Summary of implementation arrangements ................................................ 16
+       B.    Summary of arrangements for monitoring results ....................................... 17
+
+
+
+
+                                                   APPENDIXES
+
+
+Proposed resolution
+                                                  - ii -
+
+
+
+                                                 ANNEXES
+
+Annex I     Summary Development Effectiveness Matrix
+Annex II    Results Matrix
+Annex III   Fiduciary Agreements and Requirements
+
+
+
+                                                  LINKS
+
+
+REQUIRED
+
+1.   Monitoring and evaluation plan
+2.   Environmental and social management report
+
+OPTIONAL
+
+1.   Economic analysis of the project
+2.   IDB technical-cooperation operation: Design of the Support Program for Financing Low-income
+     Housing in Ecuador
+3.   Sector Note on the Housing and Urban Development Sector in Ecuador
+4.   Green Social & Sustainability Bonds - Overview
+5.   Inter-American Development         Bank   Group       Country   Strategy   with   Ecuador   2018-2021
+     (document GN-2924)
+6.   Draft project Operating Regulations
+7.   Safeguard Policy Filter
+                                   - iii -
+
+
+
+                             ABBREVIATIONS
+
+
+BIESS    Banco del Instituto Ecuatoriano de Seguridad Social [Bank of the
+         Ecuadorian Social Security Institute]
+CPT      Casa para Todos [Home for All]
+ENEMDU   Encuesta Nacional de Empleo, Desempleo y Subempleo [National
+         Survey of Employment, Unemployment, and Underemployment]
+ESRMS    Environmental and Social Risk Management System
+FOMVIP   Programa para el Fomento de la Vivienda de Interés Público [Program to
+         Promote Public-Interest Housing]
+IFI      Intermediate financial institution
+MEF      Ministry of Economy and Finance
+MIDUVI   Ministry of Urban Development and Housing
+PCU      Project coordinating unit
+PIH      Public-interest housing
+RMT      Resource management trust
+                                              PROJECT SUMMARY
+
+                                             ECUADOR
+                             FINANCING LOW-INCOME HOUSING IN ECUADOR
+                                            (EC-U0001)
+
+                               Partial Credit Guarantee for Investment Projects
+                                        Financial Terms and Conditions
+Guarantee issuer: Inter-American                                Flexible Guarantee Instrument
+Development Bank
+                                              Maximum guarantee period:                  Up to 25 years
+Secured debtor: Republic of Ecuador
+                                              Original WAL:                              Up to 15.25 years
+Secured creditors: Investors in the
+                                                                                         (a)
+social bond                                   Guarantee fee:
+Counterguarantor: Republic of Ecuador         Standby fee:                               (a)
+
+Execution unit: Ministry of Economy and       Inspection and supervision fee:            (a)
+Finance
+                                              Approval currency:                         U.S. dollars
+                                              Guarantee period:                          Five years
+Source                                        Amount (US$)                               Percentage
+IDB (Ordinary Capital)                        300 million                                100%
+                                                 Project at a Glance
+Project objective/description: The overall objective of the project is to help reduce the housing deficit in
+Ecuador by providing mortgage loans for affordable housing through intermediate financial institutions. The
+specific objective is to increase access to public-interest housing for families with the ability to pay by providing
+mortgage loan solutions.
+Conditions precedent to provision of the guarantee. Provision of the guarantee will be subject to the
+following conditions: (i) that the project Operating Regulations have been approved under terms previously
+agreed between the Bank and the Ministry of Economy and Finance; (ii) that the members of the project
+coordinating unit have been appointed; (iii) that the secured debtor has reimbursed the Bank for any applicable
+costs; (iv) that the counterguarantee agreement between the secured debtor and the Bank and all other
+documents relating to issuing the social bond have been signed; and (v) that the Bank is satisfied with the
+findings of the due diligence review conducted when structuring the social bond and has received to its
+satisfaction such legal opinions as it may reasonably request (paragraph 2.7).
+For fiduciary conditions precedent to provision of the guarantee, see paragraph 5.1 of Annex III.
+Exceptions to Bank policies: None.
+                                                 Strategic Alignment
+Challenges:(b)                              SI                         PI                       EI
+
+Crosscutting themes:(c)                    GD                          CC                       IC
+(a)   The guarantee, standby, and inspection and supervision fees will be established periodically by the Board of
+      Executive Directors as part of its review of the Bank’s lending charges, in accordance with the
+      relevant policies.
+(b)   SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration).
+(c)   GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC
+      (Institutional Capacity and Rule of Law).
+                           I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+1.1       Macroeconomic context. From 2000 to 2014, Ecuador experienced a prolonged
+          phase of growth and stability, leading to significant drops in the incidence of
+          poverty and inequality.1 However, since late 2014 the country has been suffering
+          the effects of a macroeconomic shock caused by a fall in international oil prices,
+          which led to a sudden slowdown in growth. Currently, Ecuador’s economy is
+          showing signs of recovery, and 2017 closed with GDP growth of 2.4%. However,
+          the first and second quarters of 2018 saw a cooldown of the economy, which
+          expanded at year-on-year rates of 1.6% and 0.9%, respectively. The International
+          Monetary Fund estimates that real GDP will grow by 1.1% in 2018, 0.7% in 2019,
+          and 1.3% in 2020. The recovery could be fragile, since the macroeconomic
+          imbalances created by the oil shock have yet to be resolved.2 The country faces
+          the challenge of resuming growth that will enable it to sustain and strengthen the
+          social gains achieved. This requires a change in the composition of growth, with
+          private investment increasing its share. In this transition, social policy also plays an
+          important role in mitigating the risk that the macroeconomic situation will translate
+          into a higher incidence of poverty.3
+1.2       Access to housing, development, and quality of life. Housing is essential for
+          people to have a decent life; as such, the right to housing is enshrined in several
+          constitutions across the world, including that of Ecuador. Overcoming problems
+          such as overcrowding and lack of access to affordable4 housing are crucial for
+          improving the lives of households and promoting economic and social
+          development. Housing influences people’s living conditions, health, and
+          educational attainment, which are key to poverty reduction and economic growth.5
+          Access to affordable housing is vital for people to have adequate living conditions
+          without having to resort to informal solutions lacking complete services, often in
+          high-risk areas.
+
+
+
+1    Between 2007 and 2014 the poverty rate fell from 36.7% to 22.5%, while the extreme poverty rate fell
+     from 16.5% to 7.7%. Since then, the incidence of poverty in the country has risen slightly, up to 24.5% in
+     June 2018 (9% in the case of extreme poverty). As of June 2018, the poverty line stood at US$84.7 per
+     person per month and the extreme poverty line at US$47.74 per person per month. The Gini index rose
+     from 0.55 to 0.46 between 2007 and December 2017.
+2    The total deficit of the nonfinancial public sector closed 2016 at 7.4% of GDP, compared to a deficit of
+     5.2% of GDP in 2015. Also, in 2017, following the surplus recorded in 2016 (+1.3% of GDP) the current
+     account once again fell into a deficit (-0.3% of GDP) as a result of weak aggregate economic demand
+     and trade restrictions adopted in the year. To cover these dual deficits, the country depends on external
+     financing flows.
+3    Inter-American Development Bank Group Country Strategy with Ecuador 2018-2021
+     (document GN-2924).
+4    In this particular operation, because it is focused on the mortgage market and, therefore, on people with
+     access to credit, affordable housing is understood to mean housing for the middle class that meets
+     reasonable standards of location and quality and whose cost would not entail sacrificing basic needs.
+5
+     For a review of the literature and empirical evidence on the effects of access to housing on people’s
+     development and quality of life, see: Boullón, César Patricio (editor), Room for Development: Housing
+     Markets in Latin America and the Caribbean. IDB. Desarrollo en las Américas. 2012. See also Urban
+     Development and Housing Sector Framework Document (document GN-2732-6). October 2016.
+                                                    -2-
+
+
+
+1.3       The housing sector in Ecuador—housing deficit. The housing gap in Ecuador
+          is large and growing. The country is home to 4.36 million households, 69% of
+          which are urban and 31% rural. The housing deficit affects nearly half of
+          households (67% in rural areas and 38% in urban areas). At the urban level, 21%
+          of the deficit is quantitative (252,013 households in 2017), while the remaining 79%
+          is qualitative (957,335 households in 2017).6 At the rural level, 62% is qualitative
+          and 38% quantitative. The housing deficit in Ecuador is estimated to be growing at
+          a rate of 40,000 homes per year,7 mainly due to the formation of new households
+          as a result of: (i) a high rate of population growth (even higher in urban areas);8
+          (ii) a mostly young9 population structure; and (iii) a sustained reduction in the
+          annual growth rate in household size (-1.1%).10 These factors help explain why,
+          comparatively, Ecuador stands out due to the relative magnitude of its quantitative
+          deficit, which is nearly twice the average for Latin America.11
+1.4       The housing deficit mainly affects low-income households. While in the three
+          lowest income deciles the housing deficit (quantitative and qualitative) reaches
+          almost 70%, in the three highest deciles it stands at 30%.12 In turn, the deficit
+          mainly affects households located in the Amazon and on the coast, where it
+          reaches 61% and 58%, respectively. At the regional level, the Bolívar, Los Rios,
+          and Manabí provinces have the largest housing deficits, with levels close to 70%.
+
+
+
+
+6    The qualitative deficit refers to dwellings that do not meet minimum standards, are overcrowded
+     (three people per room), or lack basic services (drinking water, sewerage, garbage collection, or
+     electricity). The quantitative deficit refers to the need for new housing for inhabitants who form new
+     households or need to replace their home because it cannot be salvaged.
+7    The quantitative deficit in Ecuador in 2009 was 10%, while the Latin American and Caribbean average
+     was 6%. For more information, see Silva, J. Nota Sectorial sobre el Sector de Vivienda y Desarrollo
+     Urbano en Ecuador. IDB. 2017.
+8    The population growth rate in the last intercensal period (2001-2010) was 1.95% and is expected to
+     move towards 1.5% annually until 2030. Projections by the Instituto Nacional de Estadística del Ecuador
+     [National Statistics Institute of Ecuador].
+9    The population under 15 represents 27.5% of the total and, at the other end of the spectrum, the
+     population over 65 represents 7.25%. According to World Bank data (2016), the fertility rate is
+     2.49 children per woman, which is high when compared to other countries in the region such as Brazil
+     (1.73), Chile (1.77), and Colombia (1.85).
+10   The number of persons per household decreased from 4.2 in 2001 to 3.68 in 2014. Between 2017 and
+     2020 an estimated 115,000 to 119,000 households (70% urban) will be formed each year.
+11   Op. cit. 3.
+12   Encuesta Nacional de Empleo, Desempleo y Subempleo [National Survey of Employment,
+     Unemployment, and Underemployment] (ENEMDU). Instituto Nacional de Estadísticas y Censos
+     [National Statistics and Census Institute] 2017.
+                                                     -3-
+
+
+
+                       Table 1. Housing deficit by income decile in Ecuador - 2017
+
+                                Acceptable        Qualitative     Quantitative         Total
+                                   (%)            deficit (%)      deficit (%)       dwellings
+            Total                   52.87             33.73            13.40         4,285,602
+            Poorest 10%             26.85             42.60            30.55           351,137
+            Decile 2                29.86             42.14            28.01           377,127
+            Decile 3                36.08             42.60            21.32           393,724
+            Decile 4                41.47             41.66            16.87           408,804
+            Decile 5                48.72             37.47            13.81           408,019
+            Decile 6                50.21             38.09            11.69           425,222
+            Decile 7                55.78             34.09            10.13           460,240
+            Decile 8                61.41             30.13             8.46           483,419
+            Decile 9                69.02             26.67             4.31           533,137
+            Richest 10%             80.25             16.99             2.77           644,773
+
+              Source: ENEMDU, 2017.
+
+
+1.5       The construction sector in Ecuador. The construction sector has been a major
+          player in Ecuador’s economy. In the 2008˗2016 period, the sector’s GDP showed
+          average growth of 5.7% (1.6x the economy’s growth). In 2016, the share of
+          construction GDP in total GDP touched 9.8%. This growth in the sector created
+          more than 132,000 jobs, rising from 397,000 in 2007 to 530,000 in 2016. Thus,
+          employment in the sector grew more than proportionally vis-à-vis total employment
+          in the economy (33% vs. 24%).13
+1.6       Housing deficit and savings capacity. The main causes of the housing deficit
+          are the population’s limited savings capacity and the absence of a financial system
+          that provides mortgage loans at affordable rates to a large portion of the
+          population.14 In all, 23.1% (16.8 million) of Ecuador’s population lives below the
+          poverty line, although this percentage is higher in the rural population (41%) than
+          in the urban population (14.6%).15 The distribution of the population by income
+          decile shows that the first two deciles are at or below the poverty line and,
+          therefore, can barely save after covering their consumption needs. The personal
+          savings rate does not become positive until the fifth decile of the income
+          distribution.16
+
+
+
+13   The Ministry of Housing of Colombia estimates that, in Colombia, there is elasticity of -0.49 between the
+     unemployment rate and housing starts. This means that a 10% increase in housing starts is associated
+     with a 5% decrease in the unemployment rate.
+14   Other structural (such as low population density/relative land abundance, poor land-use planning in the
+     urban model combined with rapid population concentration) and institutional factors (such as the slow
+     functioning of mortgage foreclosures and the registry and cadastral system) are added difficulties,
+     although they have not slowed down the production and sale of homes to the same extent, i.e. these
+     factors more affect the quality of city development and transaction costs.
+15   ENEMDU. 2017.
+16   Galdeman, N. A Comparison of Saving Rates: Micro Evidence from Seventeen Latin American and
+     Caribbean Countries (IDB Working Paper Series IDB-WP-602). July 2015.
+                                                    -4-
+
+
+
+1.7       Housing deficit and access to finance. Given the size of the transaction,
+          purchasing a home is the most important investment decision for the majority of
+          the population; the ability to do so depends critically on their ability to secure a
+          mortgage loan. However, given the distribution of income in Ecuador, according to
+          ENEMDU 2017, only 20% of families bring in monthly income above US$1,527,
+          allowing them to assume payment of a 10-year mortgage of US$35,299, for
+          example.17 This means that the demand for credit met by banks focuses
+          exclusively on high-income segments of the population, with the rest of the
+          population having to secure financing at interest rates and repayment terms
+          appropriate to their income flows. In addition to families’ low savings/purchasing
+          capacity, as shown below, there is also a limited supply of credit in the housing
+          market.
+1.8       The main reason for the financial sector’s scant attention to the demand for
+          housing credit is that its medium- and long-term funding is scarce. This is due to
+          structural factors, such as the aforementioned low level of savings and,
+          consequently, of long-term deposits; insufficient leveraging; and a negligible
+          presence of money, debt, and capital markets (see Superintendency of Banks
+          Financial Bulletin 07/2018). Added to this is the incipient development of
+          institutional investors needing to make long-term investments (pension fund
+          administrators or life insurance companies). Ecuador has not reformed its pension
+          systems to promote the privatization of management based on the accumulation of
+          funds in individual accounts under a system that incentivizes the good
+          administration of funds and accumulation of funds over time. This deprives the
+          country of important sources of funds to invest in long-term financial instruments,
+          as has occurred in other countries in the region, such as Chile and Colombia.
+          These factors affect the possibility of financing private investment in long-term
+          assets, which has led to: (i) a housing supply concentrated in units with a high
+          square footage and/or a high price per square meter for the highest income decile;
+          and (ii) affordable housing being in very short supply, as the relative investment of
+          the builder is higher, as are the commercial risks.
+1.9       Housing finance in Ecuador. The Ecuadorian regulated financial system has two
+          types of institutions: (i) those supervised by the Superintendency of Banks; and
+          (ii) those supervised by the Superintendency of the Popular and Solidarity-Based
+          Economy (SEPS). The banking system under the Superintendency of Banks
+          consists of three public banks and 24 private ones. An examination of its total
+          portfolio shows that as of July 2018, 64% of loans were concentrated in terms of
+          up to 360 days. At that date, the balance of the gross portfolio of private banks
+          totaled US$26.407 billion, of which only 8% (US$2.202 billion) related to
+          housing.18,19 This ratio is low compared to neighboring countries such as
+          Colombia (13%)20 and Peru (17%).21 The financial institutions regulated by the
+
+
+17   Own calculations, assuming local market conditions with a maximum of 30% of income servicing the
+     mortgage and a 10% annual interest rate. This loan, with a 70% loan-to-value ratio, enables access to a
+     property valued at US$50,427.
+18   Superintendency of Banks. Statistics Portal.
+19   The supervised public banking system does not have a significant portfolio in the housing sector.
+20   Financial Superintendency of Colombia. Performance of loan portfolio.
+                                                    -5-
+
+
+
+          Superintendency of the Popular and Solidarity-based Economy include four mutual
+          entities and 625 savings and loan cooperatives. As of July 2018, the balance of the
+          gross portfolio of this sector totaled US$9.668 billion, which mainly centered on
+          consumer finance (51%) and microcredit (36%), followed by housing at less than
+          1% (US$898 million). In all, 29% of the financial system’s housing loans are
+          extended by these entities (33,088 transactions as of July 2018), while the
+          remaining 71% is extended by banks supervised by the Superintendency of Banks.
+1.10      Housing finance and gender. The level of access to mortgage loans in Ecuador
+          is low compared to countries with similar per capita income. In turn, as in the rest
+          of Latin America and the Caribbean and unlike other upper middle-income
+          countries, the percentage of the adult population in Ecuador holding a mortgage
+          loan has fallen significantly from 13% to 7% (from 10% to 5% in Latin America and
+          the Caribbean). However, Ecuador has a particularly low level of access to
+          mortgage loans for women. Only 5% of Ecuadorian women hold a mortgage loan,
+          compared to twice as many women in other middle-income countries. This
+          reduction in women’s access is particularly relevant, as illustrated in Table 2 below.
+          This reality is rooted in women’s reduced access to the financial system and credit,
+          derived in part from their lower levels of income and education and from the
+          cultural factors behind these circumstances.22
+
+                       Table 2. Percentage of the population with a mortgage loan
+                                        (population over age 15)
+
+                                                    Total             Men             Women
+                                                2014      2017    2014     2017    2014     2017
+          Ecuador                                13%        7%     15%      10%     12%       5%
+          Latin America and the Caribbean        10%        5%     11%       7%       8%      4%
+          Upper middle-income countries          10%        11%    11%      13%       9%     10%
+
+          Source: Global Findex Database.
+
+
+1.11      Public policy for financing low-income housing in Ecuador—recent efforts.
+          The Ministry of Urban Development and Housing (MIDUVI) is the lead agency for
+          sector policy in Ecuador and has structured its housing policy through the
+          Casa para Todos [Home for All] (CPT) program. This program is divided into two
+          segments, based on housing price:23,24 (i) housing for up to US$21,000 for
+          households living in poverty or extreme poverty whose income comes mainly from
+          an informal activity, who do not have credit, and who will receive subsidies; and
+          (ii) housing below US$70,000 for households in the formal employment market that
+          can borrow to purchase their first new home, referred to as public-interest housing
+
+21   Superintendency of Banking, Insurance, and Pension Fund Administrators, Performance of the
+     Financial System.
+22   For a summary of the literature on these issues and the related impact on education, employment, and
+     health, see World Development Report 2012: Gender Equality and Development.
+23   As part of the 2017-2021 Development Plan, the Government of Ecuador structured the CPT strategy.
+     CPT’s goal is to support the financing of at least 250,000 low-income housing solutions.
+24   Housing value ceilings are set and updated by the housing policy, for which the lead agency is MIDUVI.
+                                                    -6-
+
+
+
+          (PIH).25 There are two government interventions for financing of housing for the
+          second group. First, in 2015, the Monetary and Financial Policy and Regulation
+          Board created a temporary funding mechanism whereby the Central Bank of
+          Ecuador invested funds at 0.1% in a PIH securitized mortgage portfolio of
+          intermediate financial institutions (IFIs).26 As of July 2018, the PIH portfolio placed
+          by the system totaled US$361 million. Enactment in August 2018 of the Organic
+          Law to Boost Production, Attract Investment, Create Jobs and Promote Fiscal
+          Stability and Balance has restricted the use of the central bank’s surplus liquidity.
+          In view of this, it is important to find a financing mechanism for this PIH program
+          and to improve its functioning in terms of territorial scope, targeting the middle
+          class, and attention to gender issues.27
+1.12      Second, the Banco del Instituto Ecuatoriano de Seguridad Social [Bank of the
+          Ecuadorian Social Security Institute] (BIESS)28 has been serving members of the
+          Instituto Ecuatoriano de Seguridad Social [Ecuadorian Social Security Institute]
+          and retirees in the PIH segment as well with mortgage loans covering 100% of the
+          home’s value for a 25-year term at a 6% annual interest rate, which are very
+          advantageous terms compared to the market (see paragraph 1.7). As of
+          May 2018, the BIESS’s property portfolio for the PIH segment totaled
+          US$414.7 million. However, its financing offering is expected to contract sharply in
+          the short term as its funds are already invested and new placements will depend
+          on maturity of the loans, since no surpluses are expected from new contributions
+          from its members to back new placements. This makes finding an additional
+          mechanism to support the financing of affordable housing in Ecuador even more
+          important.
+1.13      Banks’ portfolio devoted to affordable housing has been growing, showing that
+          there is demand for this type of housing to improve the supply of financing. As
+          shown in Table 3, there is strong demand for PIH, which has continued to grow
+          since its launch in 2015 without causing a reversal in the total placements of
+          commercial banks to non-PIH housing. PIH placement averages US$100 million
+          per year, accounting for 18% of the average placement for the last four years.
+          At the same time, unlike the region’s other countries, Ecuador does not have a
+          public development bank that acts as a long-term provider of funds for
+          affordable housing.
+
+
+
+
+25   The thresholds establishing the maximum cost for each type of housing are set by the country’s housing
+     policy. That policy considers PIH to include any segment with units with a sale price of US$20,000 to
+     US$40,000, for which the government has additional policy instruments including a subsidy for the down
+     payment of up to US$6,000, together with copayment mechanisms to purchase or lease-to-own housing.
+26   This mechanism also made it possible to offer mortgage loans on advantageous terms (a 4.99%
+     effective annual rate with 20-year terms, compared to the 10% annual 10-year market rate).
+27   At present, the PIH program design shows the following issues that can be improved: (i) an excessive
+     focus on Quito and Guayaquil and on housing between US$60,000 and US$70,000; and (ii) absence of
+     minimum income thresholds for access, which allows approximately 15% of program beneficiaries to
+     have high incomes (above US$3,500).
+28   The BIESS was created in 2009 as a public investment bank to administer the public pension funds of
+     the Ecuadorian Social Security Institute.
+                                                       -7-
+
+
+
+              Table 3. New housing loan placements by type of financial system institution
+                                           (in US$ millions)
+
+                                                                                                       2018
+                                                          2014       2015       2016       2017
+                                                                                                     (at May)
+     Total housing loans                                 1,870.0    1,904.5    1,705.4    1,909.4       862.7
+     Private commercial banking                            528.3      558.0      528.7      718.7       302.9
+       Of which PIH                                                     27.6      90.9      142.9         70.1
+     BIESS                                               1,261.1    1,249.2    1,095.2      914.8       368.2
+       Of which PIH                                                     65.2     154.3      142.3         52.9
+     Popular and solidarity-based economy entities           78.1       97.3      81.5      275.9       191.6
+       Of which PIH                                           0.0        0.0        0.2      13.0         16.4
+     Public banks                                             2.5        0.0        0.0        0.0         0.0
+
+     Source: Superintendency of Banks and BIESS.
+
+
+1.14      Housing financing policy challenges in Ecuador. The drying up of sources of
+          financing for affordable housing and, in particular, the PIH described above, as well
+          as the absence of a mechanism or entity providing long-term second-tier financing
+          in the housing sector make it necessary to design and implement a new financing
+          mechanism for low-income housing through the private sector so as to address the
+          country’s large housing deficit and improve the functioning of the current PIH
+          program. In particular, the current functioning of the PIH system can be improved
+          by: (i) paying greater attention to the regions in the country where the housing
+          deficit is largest; (ii) establishing maximum income thresholds for program
+          beneficiaries; and (iii) monitoring loans granted to women under the program and
+          taking corrective action if necessary.29
+1.15      Proyecto para el Fomento de la Vivienda de Interés Público [Project to
+          Promote Public-Interest Housing] (FOMVIP) in Ecuador. This project is aimed
+          at promoting affordable housing in Ecuador, defined as PIH, through a second-tier
+          mechanism through which funds are provided to the IFIs that will provide mortgage
+          loans for this type of housing. This solution responds to the growing housing deficit
+          in Ecuador and, in particular, the quantitative deficit reflected in the absence of
+          new housing, catering to households that, while creditworthy, do not have access
+          to it due to the absence of long-term funds in the system that would provide them
+          access at reasonable rates. At the same time, the project addresses the need to
+          create a new financing framework to institutionalize a mechanism that sustainably
+          provides long-term funds to the sector following best practices and, in particular:
+          (i) highly professional and technical management; (ii) access to funds by IFIs
+          through transparent, competitive, and nondiscriminatory mechanisms; and
+          (iii) rigorous management of financial, legal, and fiduciary risks.
+
+
+
+
+29
+     Currently, 44% of PIH loans are for women. However, given the existing gap in Ecuador between men
+     and women in access to mortgage loans, it has been considered advisable to introduce a system of
+     explicit monitoring of women’s level of access to credit so that corrective measures can be taken if it falls
+     below a certain threshold.
+                                                   -8-
+
+
+
+1.16      Analysis of the demand and size of the project. The project is relatively small
+          compared to the magnitude of the problem in Ecuador. In a best-case scenario, if
+          the IDB guarantee were to leverage US$600 million in funding30 used entirely for
+          mortgage loans to extend an average loan of US$40,000, this component could
+          finance approximately 15,000 homes, which is less than 10% of the potential
+          demand for 160,206 homes corresponding to the quantitative deficit of families in
+          income deciles six to nine (see Tables 1 and 4). The proposed project seeks to
+          unleash a comprehensive move by the main public and private actors involved in
+          developing a housing finance system (public and private banks, applicable
+          ministries, and construction companies, among others).
+1.17      Bank experience and lessons learned. Over the last 20 years, the Bank has
+          maintained dialogue and financial support to develop the country’s housing and
+          urban development sector, as reflected in six loan operations and 12 technical-
+          cooperation projects. The loan under the most recent National Social Housing
+          Program (loan 2797/OC˗EC) was approved in 2013 and has been fully disbursed
+          (US$100 million), benefiting nearly 17,000 households (an average of 3,400 per
+          year). Notable among the lessons learned from this operation are the following:
+          (i) the need to strive to create financing mechanisms that contribute decisively to
+          closing the country’s housing gap; and (ii) the importance of seeking innovative
+          mechanisms that reduce over time the potential weight of low-income housing
+          programs on the country’s public finances. The lessons learned from support for
+          public-sector banks in developing mortgages in the region31 should also be
+          highlighted, including: (i) the importance of long-term funding to consolidate the
+          private mortgage financing market, especially for lower segments with access to
+          credit; (ii) the countercyclical role of public financial mechanisms; (iii) the relevance
+          of the public drive to reach segments of the population with which the private
+          sector is not accustomed to working and in which the perceived risk is high; and
+          (iv) the importance of sound institutions in managing intermediate financial
+          resources. All the lessons described have been considered in the project design.
+1.18      IDB Group coordination and initiatives. The IDB Group is undertaking a
+          comprehensive support strategy for the housing sector in Ecuador, through
+          complementary actions. In addition to serving eligible borrowers with this
+          operation, Ecuador has expressed an interest in working on another low-income
+          housing investment operation for the 2019-2020 period to serve low-income
+          households under the technical-cooperation project, which would aim to facilitate
+          the purchase or construction of housing by urban and rural households that are
+          living in poverty and lack access to mortgage loans. In turn, IDB Invest has been
+          active in identifying lending opportunities for developers and builders, as well as
+          providing solutions for the securitization of mortgage loans on the local securities
+          market. It is currently preparing a second operation with Compañía de Titulización
+          Hipotecaria (12283-01) consisting of a warehousing loan for up to US$15 million
+
+
+30   See Section II (Summary of Implementation Arrangements, paragraphs 3.1–3.9) to understand how the
+     guarantee works and its ability to leverage resources for the program.
+31
+     See for example the individual operations with Sociedad Hipotecaria Federal in Mexico under the CCLIP
+     ME-X1006 for the Development of Efficient and Inclusive Mortgage Markets. See also the operation with
+     Agencia Financiero de Desarrollo in Paraguay for the Development of the Mortgage Financing Market in
+     Paraguay (loan 3853/OC-PR).
+                                                     -9-
+
+
+
+          that will allow the client to originate, purchase, and accumulate a residential
+          mortgage portfolio for future securitization on the capital markets.
+1.19      Strategic alignment. This operation is consistent with the Update to the
+          Institutional Strategy 2010-2020 (document AB-3008) and aligns with the
+          development challenges of social inclusion and equality through actions that
+          promote access to PIH in the country and, therefore, expand access to affordable
+          housing to underserved populations and reduce overcrowding rates. This
+          operation is also aligned with the crosscutting theme of gender equity and diversity
+          by promoting actions to increase the percentage of women who have access to a
+          mortgage loan. Additionally, it is aligned with the Corporate Results Framework
+          2016-2019 (document GN-2727-6), since the proposed intervention will increase
+          the number of households that will benefit from housing solutions by facilitating
+          access to formal credit for segments of the population that have difficulties in
+          gaining such access. It also aligns with the IDB’s Country Strategy with Ecuador
+          2018-2021 (document GN-2924) in its strategic objectives to: (i) facilitate access to
+          investment financing; and (ii) foster access to housing. The actions in this
+          operation are aligned with the Sector Strategy on Institutions for Growth and Social
+          Welfare (document GN˗2587-2), under the component of providing access to
+          financial services for the majority, and are also consistent with the IDB’s Urban
+          Development and Housing Sector Framework (document GN-2732-6), particularly
+          in its activity to promote private-sector and tertiary-sector participation in the
+          development of affordable housing with low environmental impact and in the
+          creation of new mortgage instruments. In turn, the actions respond to the
+          government’s National Development Plan 2017-2021, namely its objective of
+          guaranteeing access to decent housing. Lastly, the operation is included in the
+          Update of Annex III of the 2018 Operational Program Report
+          (document GN˗2915˗2).
+B.        Objectives, components, and cost
+1.20      The overall objective of the project is to help reduce the housing deficit in Ecuador
+          by providing mortgage loans for affordable housing through IFIs. The specific
+          objective is to increase access to PIH for families with the ability to pay by
+          providing mortgage loan solutions.
+1.21      The operation will have a single component, as described below.
+1.22      Single component. Mortgage credit for PIH (up to US$300 million). This
+          component will be aimed at expanding the mortgage loan frontier for PIH
+          solutions.32 The project will place its resources in a PIH mortgage portfolio through
+          eligible33 IFIs that will in turn be responsible for financing mortgage loans to the
+
+
+
+
+32   New housing and housing within the PIH segment are expected to be financed. The PIH segment
+     currently includes homes up to US$70,000. However, this value was established in 2015 and,
+     accordingly, is expected to be reviewed based on the cost of living in the country and the performance of
+     the real estate market.
+33   Eligible IFIs must have at least local investment grade or higher and may also include cooperatives that
+     meet this criterion.
+                                                     - 10 -
+
+
+
+             population eligible under the project.34 The project would also create incentives for
+             lending to women, serving the most disadvantaged territories, and for low-cost
+             housing.35 Further details will be provided in the project Operating Regulations (see
+             paragraph 3.4).
+1.23         Beneficiaries. The beneficiaries of this component will be households with the
+             ability to pay for PIH housing. As detailed in the project’s Results Matrix,
+             4,560 housing solutions are expected to be provided. The ability to pay analysis
+             shown in Table 4 below indicates that potential beneficiaries of the project will be
+             households below income decile nine.36
+
+                                    Table 4. Ability to pay analysis
+                    Maximum loan amount for families, by income decile and interest rate*
+                                                (In US$)
+
+              Decile       5.0%        6.5%          7.0%          7.5%         8.5%         10.0%
+                1            4,680        4,165        4,013         3,870         3,608        3,267
+                2           11,088        9,868        9,509         9,170         8,549        7,740
+                3           18,353       16,334       15,739        15,178        14,150       12,812
+                4           22,942       20,417       19,674        18,973        17,688       16,015
+                5           27,622       24,583       23,687        22,843        21,296       19,282
+                6           33,540       29,850       28,763        27,738        25,860       23,413
+                7           41,570       36,996       35,648        34,378        32,050       29,019
+                8           52,307       46,552       44,856        43,258        40,328       36,514
+                9           70,063       62,355       60,083        57,942        54,019       48,909
+               10          112,551     100,168        96,518        93,080        86,777       78,568
+
+         * 20-year loans. Families are assumed to devote a maximum of 30% of family income to
+           paying the mortgage.
+         Source: ENEMDU, 2018.
+
+
+C.           Key results indicators
+1.24         The project’s expected outcomes are formulated in terms of: (i) the percentage of
+             PIH mortgage loans in relation to total mortgage loans; (ii) total PIH loans placed
+             by private banks and entities in the popular and solidarity-based economy; (iii) the
+             quantitative housing deficit in households with family income between deciles six
+             and nine; and (iv) the percentage of PIH mortgage loans provided to women.
+             Project impact will be measured as: (i) the overcrowding rate in deciles six to nine;
+
+
+34   The eligible population must be below income decile nine. Eligible beneficiaries cannot exceed a
+     maximum income threshold based on the Unified Basic Salary in the country. Currently, one Unified
+     Basic Salary equals US$386.
+35   The project Operating Regulations will establish a system of incentives in the interest rate for loans
+     granted for housing in areas where the housing deficit is greatest, as well as for housing below a certain
+     price threshold (e.g. US$40,000).
+36   It follows that households between deciles six and nine can afford to pay under any interest rate scenario
+     for a home purchase of US$20,000 to US$70,000—the range currently included in the PIH program.
+                                                    - 11 -
+
+
+
+          (ii) the value-added in construction activities in the PIH segment; and (iii) the
+          percentage of women over 15 with an active mortgage loan.
+1.25      Economic analysis. The project’s economic effects are quantified based on the
+          increases in value-added associated with the investment stage (especially value-
+          added in construction and real estate brokerage services) and the difference in
+          imputed income (with respect to the situation without the project). These flows are
+          considered in real terms and discounted at the social rate of 12% in line with the
+          Bank’s evaluation guidelines. Excluding externalities associated with the
+          improvement to housing and quality of life, the project’s net present value is
+          calculated at US$23.8 million.37 These outcomes have been put to a sensitivity
+          analysis of the value-added variables of the producers and of the performance of
+          imputed income (see Economic Analysis).
+
+                           II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       This operation would use a guarantee, under the partial credit guarantee for
+          investment projects modality, for up to US$300 million to secure funds to finance
+          the project for the FOMVIP. Support for issuing a social bond of the Republic of
+          Ecuador through a partial credit guarantee fulfills the purposes of this instrument
+          as outlined in its policy (Proposed Policy for a Flexible Guarantee Instrument for
+          Sovereign-Guaranteed Operations, document GN-2729-2) and operational
+          guidelines (Guarantee Instruments for Sovereign-Guaranteed Operations,
+          document GN-2729-4), particularly as regards: (i) enhancing credit standing and
+          leveraging resources; and (ii) developing market creation.
+2.2       Additionality of the guarantee. In the proposed model, the Bank will provide a
+          guarantee to back a social bond issue38 by the Republic of Ecuador, the proceeds
+          of which will be used to finance the project. There are several advantages to using
+          the guarantee: it (i) promotes the mobilization of international resources towards
+          sector financing in the country, attracting and familiarizing investors with these
+          types of projects; (ii) facilitates the social bond issue, thus boosting the social bond
+          market in Ecuador and the region as a whole, generating important learning
+          economies;39 (iii) provides a leverage effect as a partial guarantee, expanding
+          public resources and the potential impact of sector interventions;40 (iv) maintains
+          the benefits over a longer term and reduces borrowing costs just as a regular Bank
+
+
+37   This calculation is based on the program using US$300 million in funds. This is a conservative
+     assumption in which the value of the sovereign guarantee equals the funds secured.
+38   The IDB will support the structuring of social bonds in compliance with international standards (Social
+     Bond Principles). An independent review of these standards will be conducted, together with an analysis
+     of their alignment with the sustainable development goals. As far as possible, the same social bond
+     would also include green and sustainability criteria. Such support will be made with funds from the
+     technical-cooperation operation (ATN/FG˗16735-EC) approved in March 2018 for US$750,000 and
+     currently being executed.
+39   Although there are several sovereign green bonds, this would be the first social bond ever issued by
+     a sovereign.
+40   Although this scenario is not anticipated, the guarantee policy (document GN-2729-2) allows for
+     complete guarantees.
+                                                   - 12 -
+
+
+
+          loan does; (v) strengthens the country’s technical capacity in managing
+          international social bond issues and builds capacity in risk management and the
+          use of financial resources in second-tier systems for low-income housing; and
+          (vi) improves the resource execution framework, as well as the follow-up and
+          monitoring of project outcomes, since it is subject to social bond issue standards
+          and the requirements set out in the project Operating Regulations.
+2.3       Objective of the guarantee. The guarantee will cover the principal and/or interest
+          payment obligations of the obligations issued by the Republic of Ecuador under the
+          social bond.
+2.4       Guarantee terms and conditions—general considerations. The guarantee will
+          comply with the Flexible Guarantee Instrument Policy (document GN-2729-2),
+          including notably: (i) once the guarantee has been issued (see guarantee provision
+          conditions in paragraph 2.7), it will be irrevocable; (ii) the maximum term will be
+          25 years with a weighted average life of up to 15.25 years; (iii) the guarantee fee
+          will be equal to the IDB sovereign-guaranteed variable loan spread applicable to
+          the maximum guaranteed amount;41 (iv) the guarantee will not cover debt
+          acceleration;42 and (v) the standby fee will be equal to the credit fee for IDB
+          sovereign-guaranteed loans. The guarantee will be triggered in the event the
+          Republic of Ecuador fails to service the debt under the social bond.
+2.5       Terms and conditions of the counterguarantee.43 The guarantee will bear the
+          sovereign counterguarantee of the Republic of Ecuador, by virtue of which, in the
+          event the Bank needs to make a payment under the guarantee, the amount paid
+          by the Bank will be reimbursed within 180 days. As from the date of the payment
+          by the Bank, the total amount to be reimbursed will accrue interest at the same
+          rate applicable to sovereign-guaranteed loans from the Bank’s Ordinary Capital
+          and will be subject to applicable policies. The Bank and the Republic of Ecuador
+          may agree on a different repayment profile, which in no instance may exceed the
+          final amortization date or the remaining term of the weighted average life of the
+          social bond.
+2.6       Noncompliance and remedies. The counterguarantee agreement will stipulate
+          that whenever the Bank has determined that there is a breach of environmental
+          and social safeguard requirements, integrity requirements (determination of the
+          existence of prohibited practices), any contractual obligation and/or use of
+          resources established in the Operating Regulations (see paragraph 3.4), the Bank
+          may make an advance disbursement and deposit the amount of the guarantee with
+          a third party for the benefit of the social bond holders, which in turn will trigger the
+          sovereign counterguarantee to indemnify the Bank for the amount deposited from
+          the guarantee and any related expenses (see footnote 43 of policy GN-2729-2).
+
+
+41   The fee may be paid in advance to cover the entire guarantee period; however, at the end of the
+     guarantee period, adjustments must be made to cover the difference between the actual variable
+     guarantee fee levels and what has been paid upfront (“true-up, true-down”).
+42   Any disbursements under the guarantee will adhere to the original amortization schedule for the social
+     bond. Social bond holders cannot claim accelerated payment of the total amount guaranteed (see
+     footnote 37 of the guarantee policy, document GN-2729-2).
+43   Using the terminology of the Republic of Ecuador, a counterguarantee is a “contingent repayment
+     agreement.”
+                                                      - 13 -
+
+
+
+2.7       Conditions precedent to provision of the guarantee. Provision of the
+          guarantee will be subject to the following conditions: (i) that the project
+          Operating Regulations have been approved under terms previously agreed
+          between the Bank and the Ministry of Economy and Finance (MEF); (ii) that
+          the members of the project coordinating unit (PCU) have been appointed;
+          (iii) that the secured debtor has reimbursed the Bank any applicable costs;44
+          (iv) that the counterguarantee agreement between the secured debtor and
+          the Bank and all other documents relating to the social bond issue have
+          been signed; and (v) that the Bank is satisfied with the findings of the due
+          diligence review conducted when structuring the social bond and has
+          received to its satisfaction such legal opinions as it may reasonably request.
+          These conditions are required to issue the guarantee following the principles of
+          due diligence and compliance with Bank policies (document GN˗2729-2), as well
+          as to ensure due compliance with the project’s operational aspects and to mitigate
+          fiduciary risks for the Bank.
+2.8       Structure of the guarantee and social bond. The final structure of the guarantee
+          will be determined when structuring the social bond based on market conditions
+          and following Bank policies and the provisions of this document. The final
+          conditions of amount, term, and rate will not be known in detail until issue. The
+          guarantee coverage level will be such that, at a minimum, it enables the bond to
+          obtain investment grade. This is key to reach a broad group of institutional
+          investors and thus boost demand and significantly reduce the price.45 In order to
+          align with the project, the structuring will take into consideration the following
+          criteria: (i) the term of the issue will be aligned with that of the mortgage loans
+          granted to reduce mismatches; and (ii) the amount of the issue must enable a
+          substantial portion of expected PIH demand to be funded in the next five years. In
+          order to increase the efficiency of the guarantee: (i) the guaranteed percentage
+          must balance the effect that a lower guarantee percentage has on a greater
+          leveraging of resources with the opposite effect on reducing the social bond rate;
+          (ii) a transferable or rolling46 guarantee is planned to be used for its beneficial
+          effects over time in terms of the credit enhancement of the social bond; and (iii) the
+          issue may be made in different tranches to facilitate placement and the
+          management of resources, align it with anticipated PIH demand.
+
+
+
+
+44   Transactional and legal costs incurred by the Bank in providing the guarantee, including due diligence
+     expenses, will be financed with the technical-cooperation resources mentioned in paragraph 2.9. Should
+     those fund not be enough, the secured debtor will be responsible for reimbursing the costs to the Bank.
+45   To achieve investment grade, given the current risk level in Ecuador, the guarantee should cover at least
+     40%-50% of the value of the social bond. In view of this, an issue of approximately US$600 million to
+     US$750 million can be expected.
+46   Given its value to investors, this structure has been used in other sovereign issues guaranteed by
+     multilateral organizations like the World Bank (for example in Ghana or Colombia). Under this structure
+     the guarantee covers a certain number of bond payments (for example, the first three or four coupons)
+     and, as the country meets these payments and, therefore, the guarantee is not called, it is transferred to
+     the next coupons. Under this type of structure, the guaranteed percentage of the issue grows as the
+     secured debtor meets its obligations, which improves the credit rating of the social bond over time. This
+     characteristic gives the bond a relevant value for investors since it reduces the rising risk over time seen
+     in bond issues that do not have a guarantee.
+                                                     - 14 -
+
+
+
+2.9       Structuring of a social bond. Investors increasingly want their portfolio, or at
+          least part of it, to be earmarked for projects with measurable social benefits.47 For
+          an issuer, a moderate percentage of social bonds provides: (i) an important signal
+          of commitment to public policy; (ii) greater capacity to mobilize resources from a
+          broader investor base; (iii) a follow-up and monitoring system that increases the
+          credibility of public policy; (iv) greater portfolio diversification; and (v) improvements
+          in issue prices.48 The latter may be relevant in the case of Ecuador, whose issues
+          may be subject to liquidity premiums, curve extension, not belonging to an index,
+          or other factors. The proposed operation of an IDB-backed social bond issue by
+          the Republic of Ecuador marks an important step in technical and institutional
+          capacities. In support of this effort, through technical-cooperation operation
+          ATN/FG-16735-EC for US$750,000, the technical capacities of the executing
+          agency will be strengthened in terms of the financial, economic, legal, and
+          institutional analysis necessary to launch the issue and execute the project. At the
+          same time, through technical-cooperation operation ATN/SU-15599-RG the
+          aspects relating to the social certification of the social bond issued will be
+          supported. For more details see the summary of implementation arrangements
+          (paragraphs 3.1–3.9).
+2.10      Special considerations. The social bond is expected to be issued to institutional
+          investors in the international market under U.S. federal regulations that regulate
+          the private offering of securities.49 Since it would be the first operation in which the
+          Bank would be guaranteeing an international issue of this nature, both the
+          Republic of Ecuador and the Bank should have the support of external firms to:
+          (i) ensure compliance with applicable regulations including, inter alia, that the
+          social bond is not offered or sold to the general public; and (ii) conduct due
+          diligence to ensure that the information relating to the Republic of Ecuador and the
+          Bank contained in the bond prospectus and other marketing materials is true,
+          correct, and complete.50 Among other measures aimed at reducing additional risks
+          relating to the social bond and the guarantee, it will be clarified, both in the
+          prospectus and in marketing the social bond, that: (i) the Bank is only responsible
+          for the accuracy of its own information; (ii) the Bank’s guarantee is limited to the
+          maximum amount guaranteed; and (iii) the guarantee does not cover debt
+          acceleration.51 In addition, the agreements to be entered into by the Bank in
+          connection with the issue of the social bond and the guarantee include, inter alia,
+          the aforementioned counterguarantee agreement under which the Republic of
+          Ecuador must reimburse the Bank for any payment it makes if the guarantee is
+
+
+
+
+47   Social, green, and sustainable social bond issues totaled US$145 billion, representing growth of 39% in
+     terms of number of transactions and 41% in volume issued.
+48   There is evidence that: (i) investors look not only at credit risk when analyzing an investment; and
+     (ii) investors in green bonds pay on average higher rates (approximately 20 basis points). See Ehlers, T.
+     and Packer, F. Green bond finance and certification. BIS Quarterly Review. September 2017.
+49   The issue is not expected to be registered with the Securities and Exchange Commission under
+     Regulation S (offers and sales to investors outside the United States) or Rule 144A (private offers and
+     sales in the United States to qualified institutional buyers).
+50   Regarding the costs to be incurred by the Bank and their reimbursement, see footnote 44.
+51   See footnote 42.
+                                           - 15 -
+
+
+
+       triggered, as well as to indemnify it for any claim it may receive in connection
+       therewith, among other matters.
+B.     Environmental and social risks
+2.11   In accordance with the Bank’s Environment and Safeguards Compliance Policy
+       (document OP-703), Directive B.13, this project cannot be classified ex ante, and
+       after the due diligence exercise it is considered low risk (FI-3). Only Category “C”
+       projects will be eligible for funding from project resources. The potential
+       environmental, social, health, and safety impacts associated with the project are
+       considered low, and effective mitigation measures are already in place primarily
+       through compliance with applicable local regulations and an extended exclusion
+       list. These risks and impacts will be managed through an Environmental and
+       Social Risk Management System (ESRMS), which will include an exclusion list of
+       certain types of projects. The ESRMS will be part of the project Operating
+       Regulations, and the completion and approval by the IDB of those Operating
+       Regulations will be a condition for provision of the guarantee. Through the PCU,
+       the executing agency will ensure the project’s compliance with the ESRMS. For
+       further information, please see the project’s Environmental and Social
+       Management Report.
+C.     Fiduciary risks
+2.12   Fiduciary risk. There is a medium-level fiduciary risk that the funds raised through
+       the issue of social bonds are not used for the intended purposes. As mitigation
+       measures, there needs to be a resource management trust (RMT) where the funds
+       raised will be managed, and the necessary budget item needs to be in place for
+       the transfer of funds to the trust. This risk is also mitigated by the remedies
+       identified in paragraph 2.6 on noncompliance.
+D.     Other project risks
+2.13   Public management and governance risk. The implementation of a new
+       financing framework through a financial intermediation project requires the
+       development of an institutional framework and new functions that require technical
+       and management capacities that are not currently present in the Government of
+       Ecuador. This is a high risk for the project and for this reason the country is
+       supported through technical assistance to strengthen the managerial, legal, and
+       financial capacities necessary to build the institutional scaffolding and manage
+       both the project and the social bond issue (see paragraph 2.9).
+2.14   Sustainability of results. Due to its limited amount, this project does not provide a
+       definitive solution to the housing deficit problem in Ecuador. Even so, there is a
+       medium risk that the activities it supports will be discontinued because the new
+       procedures to support low-income housing in the country are not institutionalized.
+       For this reason, the project lays out conditions that improve access to and the
+       sustainability of affordable housing financing in Ecuador through: (i) the creation of
+       a second-tier funding mechanism for low-income housing in the country;
+       (ii) learning effects on the entire banking system as experience and information are
+       gained on the PIH portfolio; and (iii) associated learning through a market fund
+       mechanism through a social bond issue. The project therefore establishes
+       channels in the private financial system through IFIs that enable the mortgage
+       portfolio and the construction industry to grow in terms of affordable housing,
+                                                    - 16 -
+
+
+
+          supported by sound banking practices and the existence of long-term funding. In
+          the future, were a trend of good performance of these portfolios to set in, the
+          private sector could originate all or part of these funds. At the same time, a clause
+          will be included in the Operating Regulations to incentivize the standardization of
+          loan agreements for PIH, making future securitization on the capital market more
+          feasible and thus helping to secure new resources to fund a larger PIH portfolio.
+
+                          III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.        Summary of implementation arrangements
+3.1       Secured debtor and executing agency. The secured debtor will be the Republic
+          of Ecuador, which will issue a social bond. The executing agency will be the
+          Ministry of Economy and Finance (MEF) through the project coordinating unit
+          (PCU) for the administration, control, and monitoring of operation resources.
+3.2       PCU—composition and functions. The PCU is to be composed of: (i) a general
+          coordinator; (ii) an administrative coordinator; (iii) a legal expert; and (iv) a financial
+          management expert. The PCU will constitute the basis of the coordination and
+          governance mechanism to perform the functions required for issuing the social
+          bond and to establish the execution and administration structure for FOMVIP
+          project resources in accordance with the Operating Regulations. In connection with
+          the social bond issue, the PCU will be responsible for: (i) defining the roadmap for
+          issuing the social bond, including the itemized budget and origin of resources;
+          (ii) coordinating with the investment bank on structuring the issue (preparation of
+          the necessary legal and financial documentation, etc.); (iii) coordinating with the
+          IDB technical team on the structure of the guarantee associated with the issue and
+          the required supporting legal and financial documentation; (iv) preparing and
+          participating in the roadshow in coordination with the IDB and the investment bank
+          and supporting relationships with international investors; (v) coordinating with the
+          MEF’s legal and public credit team and other government agencies where needed;
+          and (vi) coordinating with the company in charge of social validation of the social
+          bond issued (preparation of basic documentation, compilation of indicators, and
+          reporting system). In relation to administration of the FOMVIP program, the PCU
+          will be responsible for: (i) preparing and coordinating with the competent entity the
+          formation of the RMT; (ii) coordinating with MIDUVI and the MEF on project
+          implementation; (iii) monitoring and reporting twice a year to the Bank on the
+          activity of the RMT in accordance with the Operating Regulations; (iv) coordinating
+          follow-up on the project’s monitoring and evaluation requirements; and
+          (v) submitting the audited financial statements of the RMT.52
+3.3       Resource management trust. The PCU will coordinate with the competent public
+          entity the creation of a trust to manage the low-income housing financing project
+          funds in accordance with the Operating Regulations. The funds raised by issuing
+          the social bonds will initially be deposited in the Treasury Single Account in one of
+          the accounts held with the Central Bank of Ecuador and will subsequently be
+          transferred to the trust’s bank account, which must also be opened at the Central
+
+
+52   The project will be audited by the supreme audit institution or a Bank-eligible independent audit firm,
+     following the procedures established in the new audit guidelines in force.
+                                              - 17 -
+
+
+
+      Bank of Ecuador, since it is the depositary of public funds. The RMT will be
+      administered by an entity of recognized solvency, capacity, experience, and
+      knowledge in the management of lines of financing for the housing market. The
+      Bank must give no objection. The trust will be structured observing the Monetary
+      and Financial Organic Code, the Securities Market Law, and the applicable
+      legislation in force.
+3.4   Operating Regulations. The Operating Regulations will establish the terms and
+      conditions applicable to project implementation and will outline, inter alia, the
+      following: (i) essential characteristics of eligible housing under the project;
+      (ii) eligibility criteria for IFIs; (iii) characteristics of eligible beneficiaries; (iv) pass-
+      through mechanisms and conditions; (v) conditions for recovering loans; and
+      (vi) incentives for serving the most disadvantaged territories and for low-cost
+      housing. It will detail the PCU’s functions, responsibilities, and organizational
+      structure. With regard to the RMT, it will establish: (i) its organizational structure
+      and functions; (ii) the mechanisms for transferring funds to the IFIs (mechanics and
+      pricing); (iii) the periodic reporting obligations to the PCU, as well as auditing of the
+      RMT’s financial statements; and (iv) the reporting and independent external audit
+      requirements arising from the project’s monitoring and evaluation needs.
+3.5   Disbursements and execution period. The proceeds from the social bond issue
+      will be committed and disbursed within a maximum term of 60 months from the
+      effective date of social bond issue.
+3.6   Procurement. Procurements for projects that benefit from the funds raised
+      through the issue of the collateralized social bonds must ensure that the principles
+      of economy and efficiency are followed and that the procedures contribute to
+      diligent and efficient project execution. Procurement processes must meet three
+      conditions: (i) be of satisfactory quality and compatible with the other project
+      objectives; (ii) be delivered or completed on time; and (iii) have a price that does
+      not adversely affect the project’s economic and financial feasibility.
+3.7   Financial management and audits. Since the disbursement of funds by the IDB
+      is contingent, audited financial reports of the project, similar to those required in
+      investment projects, do not need to be requested. However, the trust will have an
+      independent external audit by an auditing firm acceptable to the IDB under
+      previously agreed terms of reference. The annual external audit report of the
+      trust will be submitted to the IDB within 120 days following the end of the financial
+      year while the guarantee remains in force. On liquidation and termination of the
+      trust, the external audit report will be submitted within 120 days of the termination
+      date.
+B.    Summary of arrangements for monitoring results
+3.8   Monitoring. The project will be monitored through half-yearly reports prepared by
+      the PCU and submitted to the IDB no later than 60 days after the halfway point and
+      at the close of each year, measuring progress on outcome indicators and
+      compliance with eligibility criteria at the project level, as well as a final report at the
+      conclusion of project execution. Investments made through project funding will be
+      monitored through information included in half-yearly reports and requested from
+      IFIs pursuant to the Operating Regulations.
+                                         - 18 -
+
+
+
+3.9   Evaluation. The PCU will provide the IDB with the necessary information,
+      indicators, and parameters requested to prepare a project completion report to be
+      completed no later than six months after the end of the project. Regular follow-up
+      meetings will also be organized. The Monitoring and Evaluation Plan provides for
+      an ex post economic analysis for project evaluation.
+                                                                                                                                                                         Annex I - EC-U0001
+                                                                                                                                                                                 Page 1 of 1
+
+
+
+
+                                                                           Development Effectiveness Matrix
+
+                                                                                    Summary
+I. Corporate and Country Priorities
+1. IDB Development Objectives                                                                                                             Yes
+
+                                                                                                -Social Inclusion and Equality
+   Development Challenges & Cross-cutting Themes                                                -Gender Equality and Diversity
+
+
+
+                                                                                                -Households benefitting from housing solutions (#)*
+   Country Development Results Indicators                                                       -Beneficiaries of improved access to formal financial services (#)*
+
+
+2. Country Development Objectives                                                                                                         Yes
+
+                                                                                                                          (I) Facilitate access to investment financing; and (ii) foster
+   Country Strategy Results Matrix                                                                      GN-2924
+                                                                                                                          access to housing
+
+
+                                                                                                                          The intervention is included in the 2018 Operational
+   Country Program Results Matrix                                                                      GN-2915-2
+                                                                                                                          Program.
+
+
+   Relevance of this project to country development challenges (If not aligned to country
+   strategy or country program)
+
+II. Development Outcomes - Evaluability                                                                                              Evaluable
+3. Evidence-based Assessment & Solution                                                                                                    7.1
+     3.1 Program Diagnosis                                                                                                                 2.4
+     3.2 Proposed Interventions or Solutions                                                                                               1.7
+     3.3 Results Matrix Quality                                                                                                            3.0
+4. Ex ante Economic Analysis                                                                                                               9.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                        3.0
+     4.2 Identified and Quantified Benefits and Costs                                                                                      3.0
+     4.3 Reasonable Assumptions                                                                                                            0.0
+     4.4 Sensitivity Analysis                                                                                                              2.0
+     4.5 Consistency with results matrix                                                                                                   1.0
+5. Monitoring and Evaluation                                                                                                               7.9
+     5.1 Monitoring Mechanisms                                                                                                             2.5
+     5.2 Evaluation Plan                                                                                                                   5.4
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                      Medium
+                               Identified risks have been rated for magnitude and likelihood                                             Yes
+                                    Mitigation measures have been identified for major risks                                             Yes
+                      Mitigation measures have indicators for tracking their implementation                                              Yes
+Environmental & social risk classification                                                                                               B.13
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+                                                                                                                          Financial Management: Budget, Treasury, Accounting and
+                                                                                                                          Reporting, External Control, Internal Audit.
+                                                                 Fiduciary (VPC/FMP Criteria)             Yes
+
+
+
+
+                                                                                Non-Fiduciary
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+
+Additional (to project preparation) technical assistance was provided to the public
+                                                                                                          Yes                         ATN/FG-16735-EC; ATN/SU-15599-RG
+sector entity prior to approval to increase the likelihood of success of the project
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+
+This is US$300 million operation aimed at guaranteeing a Social Bond oriented to the financing of social housing (or housing of public interest, VIP in Spanish). The target
+population of this program (individuals in deciles 6 to 9, given the expected amounts of credit; individuals in lower deciles could also be eligible) suffers a qualitative housing
+deficit of around 30% and a quantitative deficit of around 10 %, and has had very limited access to mortgage credit. Only 8% of the portfolio of private banks in Ecuador is
+housing-oriented, and the vast majority of these loans are aimed at high-income individuals. By 2017, only 7% of the population over 15 years of age in Ecuador had a
+mortgage loan (5% for women). Since 2015, financing for mortgage credit for VIP was generated in Ecuador thanks to temporary funding from the Central Bank of Ecuador,
+funding US$360 million in mortgage loans. However, this funding has been interrupted since August 2018. Therefore, the Social Bond that will be guaranteed with this
+operation will be the main source of funding for loans to the VIP segment.
+
+The economic analysis of the project was based on the changes in the added value of the product generated by the increase in construction in the VIP segment. The analysis is
+adequate, with reasonable sensitivity analyzes, and finds a net present value of US$23.8 million.
+
+The monitoring and evaluation plan is adequate and proposes an ex-post economic analysis to evaluate the impact of the project. This analysis does not allow attribution of
+the results, but it does allow to measure the efficiency of the project ex-post.
+                                                                                                                                                           Annex II
+                                                                                                                                                         Page 1 of 4
+
+
+
+
+                                                                           RESULTS MATRIX
+
+                        The overall objective of the project is to help reduce the housing deficit in Ecuador by providing mortgage loans for affordable housing
+ Project objective:
+                        through IFIs. The specific objective is to increase access to PIH for families with the ability to pay by providing mortgage loan solutions.
+
+
+                                                                            EXPECTED IMPACT
+
+                                                         Baseline                       Target
+         Indicator                 Unit                                                                    Means of verification                Comments
+                                                 Value              Year        Value            Year
+Overcrowding rate of deciles   Percentage         6.14              2017         6.05            2022   ENEMDU                         In the absence of the
+six to nine.                                                                                                                           project, the overcrowding
+                                                                                                                                       rate in households with
+                                                                                                                                       family income between
+                                                                                                                                       deciles six and nine is
+                                                                                                                                       projected at 6.24%. With the
+                                                                                                                                       project, this rate is projected
+                                                                                                                                       at 6.05%. The calculations
+                                                                                                                                       are conservative and do not
+                                                                                                                                       consider demonstration
+                                                                                                                                       effects that increase credit
+                                                                                                                                       beyond the project.
+                                                                                                                                       Overcrowding is defined as
+                                                                                                                                       a ratio of people to
+                                                                                                                                       bedrooms greater than
+                                                                                                                                       three; the overcrowding rate
+                                                                                                                                       refers to the percentage of
+                                                                                                                                       households confirmed to
+                                                                                                                                       have overcrowding under
+                                                                                                                                       that definition.
+Annex II
+Page 2 of 4
+
+
+                                                    Baseline                  Target
+         Indicator               Unit                                                            Means of verification                Comments
+                                             Value             Year   Value            Year
+Value-added in construction   US$ millions   59.4         Average     68.2         Average    Administrative information:     In the absence of the
+activities in the PIH                                    2015-2017                2020-2022   The MEF's Information           project, the value-added of
+segment.                                                                                      System through                  construction in the PIH
+                                                                                              administrative information      segment is expected to be
+                                                                                              collected from IFIs, national   reduced to 23.1 million.
+                                                                                              accounts (Central Bank of       For purposes of this
+                                                                                              Ecuador) and an ex post         calculation, the PIH
+                                                                                              cost-benefit analysis report.   segment is considered to be
+                                                                                                                              new housing between
+                                                                                                                              US$20,000 and US$70,000.
+                                                                                                                              The projected values
+                                                                                                                              assume that the value-
+                                                                                                                              added to final value ratio
+                                                                                                                              remains at the averages
+                                                                                                                              observed over the last three
+                                                                                                                              years in the data from the
+                                                                                                                              national accounts.
+Women over 15 with an         Percentage      5                2017    6               2022   Global Findex Database.         Both through the direct
+active mortgage loan                                                                                                          effect and possible
+                                                                                                                              spillover/demonstration
+                                                                                                                              effects, the project is
+                                                                                                                              expected to encourage
+                                                                                                                              greater borrowing in the
+                                                                                                                              mortgage segment.
+                                                                                                                                                                Annex II
+                                                                                                                                                              Page 3 of 4
+
+
+                                                                            EXPECTED OUTCOMES
+
+                                                          Baseline                        Target
+    Expected outcomes               Unit                                                                      Means of verification                 Observations
+                                                  Value              Year         Value            Year
+Mortgage loans for PIH in       Percentage         14.4         Average           12.6         Average     Administrative information: The   In the absence of the
+relation to total mortgage                                     2015-2017                      2020-2022    MEF's Information System          project, the percentage of
+loans.                                                                                                     through administrative            PIH mortgage loans in
+                                                                                                           information collected from IFIs   relation to total mortgage
+                                                                                                           and information from the          loans is expected to be
+                                                                                                           Superintendency of Banks.         approximately 4.2%.
+                                                                                                                                             For purposes of this
+                                                                                                                                             calculation, the PIH
+                                                                                                                                             segment is considered to be
+                                                                                                                                             new housing between
+                                                                                                                                             US$20,000 and US$70,000.
+Total PIH loans placed by       US$ millions       361         Cumulative         300         Cumulative   Superintendency of Banks of       Between 2015 and 2018, a
+private banks and popular                                         total                          total     Ecuador and Superintendency       total of US$361 million in
+and solidarity-based                                           2015-20181                     2019-2022    of the Popular and Solidarity-    PIH loans were placed
+economy entities.                                                                                          Based Economy.                    through lines provided by
+                                                                                                                                             the Central Bank of
+                                                                                                                                             Ecuador. After approval of
+                                                                                                                                             the Law to Boost Production
+                                                                                                                                             in 2018, the Central Bank of
+                                                                                                                                             Ecuador's financing lines
+                                                                                                                                             were ended (see
+                                                                                                                                             paragraph 1.11 of the
+                                                                                                                                             Guarantee Proposal for
+                                                                                                                                             more details). Without this
+                                                                                                                                             Central Bank funding, it is
+                                                                                                                                             assumed that there would
+                                                                                                                                             be no PIH funding between
+                                                                                                                                             2019 and 2022. In this
+                                                                                                                                             period, with the introduction
+                                                                                                                                             of the project, PIH loans
+                                                                                                                                             totaling US$300 million are
+                                                                                                                                             expected to be financed.
+
+
+
+
+1   Total cumulative from 2015 to 2018, the period in which the Central Bank has been financing the PIH project.
+Annex II
+Page 4 of 4
+
+
+                                                        Baseline                   Target
+    Expected outcomes               Unit                                                                Means of verification                Observations
+                                                 Value             Year    Value            Year
+Quantitative housing deficit     Percentage       7.5              2017    7.39             2022     Administrative information:      On the basis of in-house
+in households with family                                                                            The MEF's Information            calculations, in the absence
+income between deciles six                                                                           System through                   of the project the
+to nine of the distribution.                                                                         administrative information       percentage of households
+                                                                                                     collected from IFIs and          with a quantitative deficit in
+                                                                                                     ENEMDU.                          2022 is estimated at 7.62%.
+                                                                                                                                      See footnote 7 of the
+                                                                                                                                      Guarantee Proposal for a
+                                                                                                                                      definition of quantitative
+                                                                                                                                      deficit.
+Mortgage loans in the PIH        Percentage       44               2017     50              2022     Administrative information:      The Operating Regulations
+segment provided to women.                                                                           The MEF's Information            will articulate regulations,
+                                                                                                     System and information           incentives, and restrictions
+                                                                                                     from the Superintendency of      aimed at increasing the
+                                                                                                     Banks.                           participation of women as
+                                                                                                                                      recipients of mortgage loans
+                                                                                                                                      in the PIH segment (see
+                                                                                                                                      paragraph 1.10 of the
+                                                                                                                                      Guarantee Proposal).
+
+                                                                          OUTPUTS
+
+                            Estimated cost                  Baseline                                                          Final
+        Outputs                                 Unit                      2020                2021            2022                         Means of verification
+                                (US$)                        2019                                                            target2
+PIH mortgage loans for      US$300 million    Number of            0      1,520              1,520            1,520           4,560        Administrative
+individuals through                             loans                                                                                      information: MEF
+financial intermediaries.                                                                                                                  Information System.
+
+
+
+
+2   Cumulative value in the three years.
+                                                                                       Annex III
+                                                                                     Page 1 of 3
+
+
+                      FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+
+
+Country:                 Ecuador
+
+Project number:          EC-U0001
+
+Project name:            Financing Low-income Housing in Ecuador
+
+Executing agency:        Ministry of Economy and Finance
+
+Prepared by:             Carolina Escudero and Juan Carlos Dugand (FMP/CEC)
+
+
+
+                                I. EXECUTIVE SUMMARY
+
+1.1   This document contains the fiduciary agreements for procurement and financial
+      management for project implementation, drawn up on the basis of: (i) the country’s
+      fiduciary context; (ii) the fiduciary risk evaluation; and (iii) inputs from meetings with
+      the teams and entities involved. Since this is a guarantee operation, in which
+      disbursements are contingent and there are no direct procurements using IDB
+      funds, the fiduciary agreements are limited to the provisions of the Proposed Policy
+      for a Flexible Guarantee Instrument for Sovereign-Guaranteed Operations
+      (document GN-2729-2).
+
+                       II. THE COUNTRY’S FIDUCIARY CONTEXT
+
+2.1   Country procurement system. The agreement accepting partial use of the
+      system was signed on 13 May 2014; implementation of the use of the country
+      system was launched on 24 September 2014; and Resolution RE˗SERCOP-2014-
+      0000014 was published on 4 November 2014. Use of the system applies to the
+      procurement of: (i) goods and nonconsulting services and works with an estimated
+      value below the IDB’s threshold for international competitive bidding; and
+      (ii) consulting services provided by firms, with an estimated value of less than
+      US$200,000, for which the shortlist may be composed entirely of domestic firms in
+      accordance with the policies for consultants.
+2.2   Financial management system. Central government entities use the financial
+      management system (e-SIGEF), which integrates budget, accounting, and
+      treasury processes. Government entities are subject to control and oversight by
+      the State Comptroller General’s Office (CGE). In general, country financial
+      management systems are adequately developed, but need to be complemented in
+      terms of financial reporting with off-book records and external auditing with Bank-
+      eligible audit firms. The concept of a treasury single account is used. The
+      government is implementing a new system to replace the e-SIGEF that is
+      scheduled to begin operation in 2020.
+Annex III
+Page 2 of 3
+
+
+                   III. THE EXECUTING AGENCY’S FIDUCIARY CONTEXT
+
+3.1     The Ministry of Economy and Finance (MEF) will act as the executing agency and
+        in turn as the borrower’s representative. The structuring and issue of the social
+        bond will also be coordinated by the MEF. The MEF has extensive experience
+        executing IDB-financed programs and issuing bonds on both international and
+        local markets; however, this will be the first issue of a bond collateralized by a
+        multilateral. The executing agency will act through the project coordinating unit
+        (PCU) for the administration, execution, control, and monitoring of operation
+        resources.
+
+               IV. FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS
+
+4.1     There is a medium-level fiduciary risk that the funds raised through the issue of
+        social bonds are not used for the intended purposes. As mitigation measures, a
+        trust will administer the funds raised, and the necessary budgetary item is
+        requested for the transfer of funds to the trust. This risk is also mitigated by the
+        remedies identified in paragraph 2.6 on noncompliance in the Guarantee Proposal.
+4.2     The trust also lends confidence to the IFIs regarding the existence of funds
+        earmarked for financing public-interest housing (PIH) and makes it possible for the
+        funds to reach them. It gives the bond holders confidence about the use of the
+        funds and enables the generation of the reports required by virtue of these being
+        social bonds.
+
+V. CONSIDERATIONS IN THE CONTRACTS AND/OR PROJECT OPERATING REGULATIONS
+
+5.1     Conditions precedent to provision of the guarantee. The resource
+        management trust has been created, and there is an annual or multiyear
+        budgetary certification, as appropriate, for the transfer of funds to the trust.
+        This condition is critical because it allows the funds raised through the issue of
+        social bonds to be used only in accordance with the Operating Regulations and
+        makes it possible to transfer funds from the treasury single account to the trust and
+        then to the IFIs.
+5.2     Operating Regulations. The project Operating Regulations will stipulate that the
+        trust established to manage the proceeds from the issue will have an independent
+        external audit (see paragraph 7.5).
+
+         VI. AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+6.1     Procurement execution. Procurements for projects that benefit from the funds
+        raised through the issue of the collateralized social bonds must ensure that the
+        principles of economy and efficiency are followed and that the procedures
+        contribute to diligent and efficient project execution. Procurement processes must
+        meet three conditions: (i) be of satisfactory quality and compatible with the other
+        project objectives; (ii) be delivered or completed on time; and (iii) have a price that
+        does not adversely affect the project’s economic and financial feasibility.
+                                                                                   Annex III
+                                                                                 Page 3 of 3
+
+
+6.2   Since this is a guarantee operation (and does not involve direct contracting of
+      consultants or works or the procurements of goods), procurements made with the
+      proceeds from the issue of the social bonds must follow the principles and
+      conditions mentioned in the previous paragraph, as per document GN˗2729-2
+      (paragraph 3.11).
+
+        VII.    FINANCIAL MANAGEMENT AGREEMENTS AND REQUIREMENTS
+
+7.1   Programming and budget. The Organic Code of Planning and Public Finance
+      sets out the rules governing the programming, preparation, approval, execution,
+      control, evaluation, and liquidation of the budgets. These standards are applied to
+      the execution of IDB-financed programs in Ecuador. The e-SIGEF integrated
+      system and the new system developed by the government instrumentalize and
+      standardize the application of these rules throughout the national public
+      management apparatus. Since the national government is the issuer, the MEF will
+      carry out the procedures necessary for the budgetary registration of the issue of
+      social bonds and of the use of the funds.
+7.2   Accounting and information systems. The trust that will be formed to manage
+      the proceeds from the issue will be responsible for keeping the accounting records.
+7.3   Disbursements and cash flow. Since this is a guarantee instrument,
+      disbursements are contingent and would only be made in the event of a default by
+      the issuer in the payment of interest and/or principal to the social bond holders. If
+      the guarantee is triggered, the funds will be disbursed as set out in the Operating
+      Regulations.
+7.4   Internal control and internal auditing. The CGE is responsible for managing the
+      public sector control system. The MEF has an internal audit area that reports
+      directly to the CGE, which as part of its function can carry out controls relating to
+      the social bond issue process.
+7.5   External control and reports. Since the disbursement of funds by the IDB is
+      contingent, audited financial reports of the project do not need to be requested.
+      The funds raised through the issue of social bonds will be used as provided in the
+      project Operating Regulations, and reports will be requested on the use of the
+      funds raised, for which the trust will have an independent external audit in
+      accordance with the provisions of the Superintendency of Companies, Securities,
+      and Insurance. The annual external audit report of the trust submitted to the
+      Superintendency will also be submitted to the IDB within 120 days following the
+      end of the financial year while the guarantee remains in force. On liquidation and
+      termination of the trust, the external audit report will be submitted within 120 days
+      of the termination date.
+7.6   Financial supervision. Financial supervision will be based on the audited reports
+      of the trust and other reports that are submitted, as well as on visits to the trustee
+      and to the housing projects constructed with the funds from the issue of the social
+      bonds.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-___/18
+
+
+
+         Ecuador. Guarantee ____/OC-EC. Financing Low-income Housing in Ecuador
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contracts as may be necessary for the
+purpose of granting a credit guarantee to support the financing and implementation of the program
+“Financing Low-income Housing in Ecuador”, which will have the Republic of Ecuador as
+counter-guarantor. The credit guarantee may be granted for the amount of up to US$300,000,000
+chargeable to the resources of the Bank’s Ordinary Capital, on terms substantially as set forth in
+the Project Summary of the Guarantee Proposal.
+
+
+
+                               (Adopted on __ ____________ 2018)
+
+
+
+LEG/SGO/CAN/EZSHARE- 263631146-16322
+EC-U0001
+

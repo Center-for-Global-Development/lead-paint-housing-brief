@@ -1,0 +1,1747 @@
+                                                                                        PUBLIC
+                                                                      SIMULTANEOUS DISCLOSURE
+
+                 DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                          PARAGUAY
+
+
+
+
+HOUSING AND REHABILITATION PROGRAM FOR BAÑADO SUR IN ASUNCIÓN
+                   (TACUMBÚ NEIGHBORHOOD)
+
+
+
+                                           (PR-L1152)
+
+
+
+
+                                        LOAN PROPOSAL
+
+
+
+
+ This document was prepared by the project team consisting of: Roberto Camblor
+ (CSD/HUD), Project Team Leader; Gloria Visconti (CSD/CCS), Alternate Project Team
+ Leader; Verónica Adler (CSD/HUD); Milagros Aimé (VPS/ESG); María Elena Castro
+ (VPS/ESG); Sandra López Tovar (CSD/CCS); Viviana Maya (LEG/SGO); Alonso Chaverri-
+ Suárez (LEG/SGO); José Manjarres (INE/WSA); Ruth Aquino (CSC/CPR); Beatriz
+ González (CSD/HUD), Paloma Acevedo (SPD/SDV); Jorge Luis González (VPC/FMP);
+ Fernando Glasman (VPC/FMP); and Catarina Mastellaro (CSD/HUD).
+
+
+
+
+ This document is being released to the public and distributed to the Bank's Board of Executive
+ Directors simultaneously. This document has not been approved by the Board. Should the Board
+ approve the document with amendments, a revised version will be made available to the public, thus
+ superseding and replacing the original version.
+                                                    CONTENTS
+
+
+
+PROJECT SUMMARY
+
+
+I.     DESCRIPTION AND RESULTS MONITORING ................................................................ 1
+
+       A.    Background, problem addressed, and rationale ............................................ 1
+       B.    Objectives, components, and cost ................................................................ 8
+       C.    Key impact and results indicators ............................................................... 10
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ............................................................... 11
+
+       A.    Financing instruments ................................................................................ 11
+       B.    Environmental and social risks ................................................................... 12
+       C.    Fiduciary risks ............................................................................................ 14
+       D.    Other project risks ...................................................................................... 14
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 15
+
+       A.    Summary of implementation arrangements ................................................ 15
+       B.    Summary of arrangements for monitoring results ....................................... 16
+                                                   - ii -
+
+
+
+                                                ANNEXES
+Annex I        Summary Development Effectiveness Matrix (DEM)
+Annex II       Results Matrix
+Annex III      Fiduciary Agreements and Requirements
+
+
+                                                  LINKS
+REQUIRED
+1.   Multiyear execution plan and annual work plan
+2.   Monitoring and evaluation plan
+3.   Environmental and social management report (ESMR)
+4.   Procurement plan
+OPTIONAL
+1.  Economic analysis
+2.  Involuntary resettlement plan
+3.  Draft Operating Regulations
+4.  Analysis of compliance with the Bank’s Public Utilities Policy
+5.  Disaster risks and climate-change adaptation in the communities and infrastructure of riverside
+    Asunción
+6. Safeguard Policy Filter (SPF) and Safeguard Screening Form (SSF)
+7. Risk management in the urban context - the case of Asunción 2018
+8. Social investment in housing. Informative leaflet No. 20
+9. Diagnostic assessment of the housing sector in Paraguay
+10. Map 1 of the Tacumbú neighborhood
+11. ASUviva initiative
+12. Tacumbú neighborhood strategy
+13. Bibliography
+                                 - iii -
+
+
+
+                           ABBREVIATIONS
+
+
+ANDE    National Electricity Administration
+APUF    Asociación de Barrios Unidos por la Franja [Association of
+        Neighborhoods United for the Riverfront]
+BOD5    5-day biochemical oxygen demand
+DIPE    Office of Strategic Projects
+ESSAP   Empresa de Servicios Sanitarios del Paraguay, S.A. [Sanitation
+        Services Company]
+LIBOR   London interbank offered rate
+masl    meters above sea level
+MCA     Municipality of the City of Asunción
+MUVH    Ministry of Urban Planning, Housing, and Habitat
+MOPC    Ministry of Public Works and Communications
+PCU     Program coordination unit
+PDFC    Riverfront development program
+PDUA    Urban and environmental development plan of the municipality of
+        Asunción
+SIAF    Sistema Integrado de Administración Financiera [Integrated Financial
+        Management System]
+WAL     Weighted average life
+                                             PROJECT SUMMARY
+                                                 PARAGUAY
+                      HOUSING AND REHABILITATION PROGRAM FOR BAÑADO SUR IN ASUNCIÓN
+                                         (TACUMBÚ NEIGHBORHOOD)
+                                                (PR-L1152)
+                                               Financial Terms and Conditions
+                                                                                    Flexible Financing Facility(a)
+Borrower: Republic of Paraguay                                        Amortization period:         23.5 years
+                                                                      Disbursement period:         6 years
+Executing agency: The borrower, acting through the Ministry of        Grace period:                6.6 years(b)
+Public Works and Communications (MOPC)
+                                                                      Interest rate:                 LIBOR-based
+         Source              Amount (US$)              %
+                                                                                                     (c)
+                                                                      Credit fee:
+IDB (Ordinary Capital):            100,000,000              100       Inspection and                 (c)
+                                                                      supervision fee:
+                                                                      Original WAL:                 15.25 years(d)
+Total:                             100,000,000              100                                      U.S. dollars from the
+                                                                      Approval currency:
+                                                                                                     Ordinary Capital
+                                                        Project at a Glance
+Project objective/description: The general objective of the program is to improve the quality of life of the riverside population
+of the southern area of the city of Asunción (Bañado Sur) through: (i) the construction of quality urban infrastructure and
+affordable housing for the relocation of the Tacumbú neighborhood in line with sustainable urban planning standards; (ii) the
+environmental recovery of lagoons, streams, and wetlands and the protection of natural buffer zones; and (iii) the creation of
+conditions of economic and institutional sustainability and the improvement of the families’ adaptive capacities.
+Special contractual conditions precedent to the first disbursement of the loan: The borrower will provide evidence to the
+Bank’s satisfaction of the following: (i) approval of the program Operating Regulations by the competent authority of the
+executing agency, under the terms previously agreed upon with the Bank, including, among other documents, the program’s
+environmental and social documents; (ii) approval by the Municipality of the City of Asunción (MCA) of the master urban plan,
+including, among other items, the program area, under the terms previously agreed upon with the Bank; (iii) assignment of the
+program to the Office of Strategic Projects (DIPE) at the Ministry of Public Works and Communications (MOPC) through a
+ministerial resolution; (iv) creation of the program execution unit and commencement of the process of appointing the members
+thereof, in accordance with the profiles agreed upon with the Bank; and (v) entry into force of a coordination and partnership
+agreement or agreements for program execution and the subsequent maintenance of the works, between the MCA and the
+institution or institutions responsible for the works associated with construction of the housing, based on the master urban plan,
+and in the case of the MCA, for the subsequent maintenance and transfer of the program works, residential utilities, and the
+mechanisms for legalizing land ownership (paragraph 3.5). See other special contractual conditions precedent to the first
+disbursement in Annex B to the environmental and social management report.
+Special contractual conditions of execution: Prior to the call for the first tender for Component 1 works, evidence will be
+presented of the entry into force of partnership agreements between the executing agency and ANDE and ESSAP for the
+delivery of services under the terms set forth in the master urban plan, and the Ministry of Urban Planning, Housing, and
+Habitat (MUVH) under the terms previously agreed upon with the Bank (paragraph 3.6). Furthermore, the borrower will fulfill the
+special contractual conditions of execution set forth in Annex B to the environmental and social management report.
+Exceptions to Bank policies: None
+                                                        Strategic Alignment
+Challenges:(e)                                     SI                         PI                           EI
+
+Crosscutting themes:(f)                           GD                          CC                           IC
+        Project Summary                                                                                                   Page 2 of 2
+
+
+(a)
+      Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes in the
+      amortization schedule as well as currency and interest rate conversions. The Bank will take operational and risk management
+      considerations into account when reviewing such requests.
+(b)
+      Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that
+      they do not entail any extension of the original weighted average life of the loan or the last payment date as documented in the loan
+      contract.
+(c)
+      The credit fee and the inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its
+      review of the Bank’s lending charges, in accordance with applicable policies.
+(d)
+      The original weighted average life may be shorter depending on the signature date of the loan contract.
+(e)
+      SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration).).
+(f)
+      GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule of
+      Law).
+                           I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+1.1       Asunción’s informal human settlements. The city of Asunción has the most
+          important and populated urban agglomeration in Paraguay. The Asunción
+          metropolitan area has a total of 2.7 million inhabitants (40% of Paraguay’s total
+          population),1 of whom approximately 422,000 (optional link 13) [1]2 are living in
+          poverty. Because of its geographical location on the bank of the Paraguay River,
+          the city is increasingly exposed to the effects of climate change. The amount of
+          rainfall has increased, with serious consequences for the city and its inhabitants. A
+          diagnostic assessment of the metropolitan area shows that Asunción’s high level of
+          vulnerability is multicausal but mainly results from the following factors: (i) poorly
+          controlled urban sprawl, with informal housing going up on riverbeds, riverbanks,
+          wetlands, and flood zones; (ii) inadequate water, storm drainage, and sanitation
+          infrastructure; and (iii) the expansion of impervious cover [2].
+1.2       Most of the informal human settlements in the Asunción metropolitan area are
+          located in the so-called Bañado Norte and Bañado Sur3 areas of the city that lie
+          adjacent to the river. These settlements are the country’s largest and most
+          complex in terms of urban, social, and environmental aspects. According to the
+          most recent census (2012), around 80,000 of Asunción’s 515,587 residents live in
+          the riverside Bañados zones. These communities are highly vulnerable, living in
+          situations like the one described above, with the aggravating factor that because
+          they are built on flood-prone land, the impacts of climate change are far worse in
+          terms of affected population and material losses. The most recent floods in
+          January 2018, caused by the rising Paraguay River, affected around 23,000
+          people living in the Bañados zones.4 These figures are worsening annually, every
+          time the Paraguay River floods.
+1.3       The Bañado Sur has an area of 1,000 hectares with a total of 7,300 families and
+          42,000 inhabitants divided between three neighborhoods: (i) San Cayetano;
+          (ii) Tacumbú; and (iii) Santa Ana. Most of the homes were gradually self-built by
+          their owners at altitudes below 62 masl (meters above sea level). As the number of
+          families has grown and they have settled in low areas through landfilling, the
+          impact of the floods has worsened [3]. The number of dwellings in Bañado Sur has
+          grown at an average rate of 10% per year, while the population has grown at an
+          average annual rate of 15%. All told, 26% of the population has been living in the
+          same zone for 25 to 34 years, and 24% has lived there for 15 to 24 years. The
+          oldest, with 65 years or more, make up 1% of the resident population [4].
+
+
+1    According to data from the 2012 census, Paraguay has a population of 6.7 million inhabitants and
+     1.4 million households. Bureau of Statistics, Surveys, and Censuses.
+2    Optional link 13 contains the bibliographic references identified by the number in brackets [#].
+3    The “bañados” are the areas surrounding the city that lie adjacent to the Paraguay River. As a rule, they
+     flood periodically and are home to the poorest sectors of society, forming a true “poverty belt.”
+4    The Paraguay River has an altitude of 51 masl, while the Yrupé lagoon is at 62 masl. The informal
+     settlements, streets, and houses are currently also at this level. The Paraguay River floods cyclically,
+     and accordingly, in the Bañado Sur there is a local “culture of floods and the flooded.” Every flood
+     washes away homes, facilities, streets, power lines, and water and drainage systems, and causes the
+     loss of jobs, worksites, and sources of production.
+                                                    -2-
+
+
+
+
+1.4       Most of the families have built their homes without having regularized their
+          properties, since all land below the altitude of 62 masl is considered flood-prone
+          and therefore not fit for occupancy. Consequently, the inhabitants are considered
+          to be illegally occupying the properties on which their homes are built, which are
+          actually owned by the municipality or come under the jurisdiction of the national
+          Navy.5 In general, the areas around the lagoon have access to basic water and
+          electricity services, albeit through informal connections.6 There are no records of
+          use or activation/connection with the responsible authorities—the National
+          Electricity Administration (ANDE) and the Sanitation Services Company (ESSAP).
+1.5       In addition to the foregoing, the lack of a sewage system for sanitation and the
+          inadequate disposal of waste and excreta7 further lower the families’ quality of life.
+          This situation is compounded by: (i) the lack of waste collection and disposal;
+          (ii) the conditions of the sewage and storm drainage systems of Asunción’s high
+          area (above the altitude of 64 masl); and (iii) the lack of quality public spaces8 and
+          of recreational and social facilities.
+1.6       Tacumbú. Tacumbú is one of the neighborhoods located in Asunción’s Bañado
+          Sur, on the bank of the Paraguay River, with a surface area of 60 hectares. It is a
+          fragile zone exposed to the flooding of the Paraguay River, in which the homes
+          have been built on land filled by the residents themselves. The neighborhood has
+          grown rapidly. Today, it has 2,517 dwellings (2017 census) and some 10,000
+          inhabitants, all residing below 64 masl.
+1.7       According to the census data on utilities, most residents (91%) state that they have
+          electricity, but studies show that up to 60% of their connections could be illegal. 9
+          For sanitation, 73% use cesspits or septic tanks that are in no way guaranteed to
+          be well-built or to not pollute the aquifers,10 while 13% empty waste directly into a
+          water source (stream, lagoon, or river). In all, 91% of the population has piped
+          water services. For solid waste, most burn their trash, and only 21% use a
+          municipal garbage collection service. Among registered households, 81% have
+          mobile telephone services [5].
+1.8       The majority of this population migrated from rural areas in the country’s interior in
+          search of better job opportunities and a better quality of life. However, gaps in their
+          education and training mean that their sources of employment are limited or that
+          they can only access informal jobs.11 While 92.7% of residents indicated that they
+
+5    The areas where the program will be executed are all municipal properties.
+6    In this zone 80% of connections are informal, Aspectos Sociodemográficos del Bañado Tacumbú,
+     Consultora Global, 2017.
+7    All told, 100% of the population lacks access to the sewerage network and only 21% has trash collection
+     services, which pass down the neighborhood’s main street. Bañado Sur census, 2017.
+8    In Bañado Sur, the amount of public space in square meters is below the World Health Organization’s
+     recommendations of 15 m2 of green spaces per inhabitant as optimal and 10 m 2 per inhabitant at a
+     minimum.
+9    Aspectos Sociodemográficos del Bañado Tacumbú, Consultora Global, 2017.
+10   The aquifers hold groundwater at different levels in the subsoil.
+11
+     The illiteracy rate in Tacumbú is 10.6%, which is the highest rate in the Bañado Sur and more than
+     double the rate in the municipality of Asunción. Furthermore, 85% of the neighborhood population only
+     has some grade-school education. And 40.1% of the labor force in Tacumbú are independent or self-
+     employed workers, compared with 29.8% in the rest of the bañado. Bañado Sur census, 2017.
+                                                       -3-
+
+
+
+
+          perform some kind of economic activity, 7.3% stated that they do not. The
+          residents engaged in economic activities indicated various occupations: builders,
+          housekeepers, independent professionals, drivers, merchants, teachers, domestic
+          workers and cleaners, civil servants, and mechanics. Other residents fish in the
+          Paraguay River or collect recyclable waste [6].
+1.9       Some groups living in the neighborhood are even more vulnerable, due to their
+          housing conditions and the lack of formal services.12 Notable among them are low-
+          income women, principally single mothers and female heads of household. For
+          example, according to the neighborhood survey prepared by the Association of
+          Neighborhoods United for the Riverfront (APUF) in 2017, 70% of neighborhood
+          households are headed by women, compared with the rest of the bañado where
+          the figure is 55%. Moreover, 63% of these women are employed in the service
+          industry (as domestic workers, housekeepers, cooks, or in cleaning or childcare),
+          meaning that their jobs are more informal and lower paid.13 The lack of access to
+          basic services, community facilities, and property titles disproportionately impacts
+          the women living in precarious areas. Furthermore, gender discrimination
+          manifests in violence against women. In Paraguay, domestic gender-based
+          violence is one of the most prevalent forms of violence.14
+1.10      Urban planning and the riverfront. The Government of Paraguay, acting through
+          the Ministry of Public Works and Communications (MOPC) and in partnership with
+          the Municipality of the City of Asunción (MCA), is spearheading a a multistage
+          riverfront development program (PDFC)15 that encompasses the city’s Bañado
+          Norte and Bañado Sur. The objective of the PDFC is to comprehensively develop
+          Asunción’s Bañados areas, since they are repeatedly affected by the cyclical
+          flooding of the Paraguay River. The Riverfront Master Plan governing the PDFC
+          follows the guidelines of the MCA’s urban and environmental development plan
+          (PDUA) which is the plan in effect that has been approved by order of the
+          municipal council.16 To support the efforts being made by the Paraguayan
+12   A comparison of indicators of unmet basic needs in the project area and in Asunción reveals that in the
+     former, housing quality is worse by a factor of three, health infrastructure by a factor of four, and lack of
+     access to education by a factor of slightly more than two, while the indicator of insufficient income is
+     nearly 50% higher. In short, quality of life in the project area is worse across all indicators. DGEEC,
+     National Housing and Population Census, 2012.
+13   Nationally, more men than women work in the construction and agricultural sectors (which employ 11.1%
+     and 28.4% of the male population, respectively), while women hold more weight in the commercial
+     sector (which employs 29.5% of women) and community services (39.6%). The average income for
+     female heads of household (G 1,902) is lower than for male heads of household (G 2,609). Likewise, the
+     quality of housing and the health infrastructure is lower in female-headed households.
+     Source: UN Women (2015). Igualdad de género y principales brechas en Paraguay.
+14   The first survey on domestic gender-based violence found that 18.5% of persons suffer domestic
+     violence and that women are the most affected; 74.6% of victims of physical violence are women.
+     Therefore, the crosscutting inclusion of gender in urban programs is fundamental to ensuring the
+     minimum conditions for the economic and social development of women and their families.
+15   In addition to this program, the riverfront development program includes the following works:
+     (i) construction of Costanera Sur Avenue, for which the MOPC is conducting the private-financing
+     bidding process based on Law 5074; and (ii) the hydraulic filling of 65 hectares for the construction of
+     some 1,500 dwellings in the Capitán Bozzano area (which neighbors Tacumbú) and in zone 1 of Bañado
+     Tacumbú with funds from the national government.
+16   Among other issues, the master plan establishes how the land will be occupied, improved, and used,
+     regulating residential and commercial zones and green and protected areas.
+                                                      -4-
+
+
+
+
+          government, the Inter-American Development Bank (IDB) has recently
+          collaborated on Asunción’s urban planning process through the Emerging and
+          Sustainable Cities Initiative (ESCI), whose action plan prioritizes the floodplain
+          master plan and the Bañado Tacumbú project. Through operation ATN/OC-14255-
+          PR, the Bank also financed the ASUviva initiative, which involved updating the
+          PDUA and several of its instruments, including the riverfront master plan (optional
+          link 11).
+1.11      In this context, this program fits within a new stage of the PDFC, in which the
+          families living in Bañado Tacumbú are the target population. The aim is to help
+          them improve their living conditions and avoid the recurring impacts of the floods.
+          The Bank intervention will focus on the construction of a new affordable housing
+          project—located above the flood line—for some 1,500 families, to include
+          infrastructure for services, public spaces, and facilities, as well as the cleanup and
+          recovery of wetlands, streams, and lagoons near Tacumbú. The program’s direct
+          beneficiaries will be the 1,500 families to be resettled in new dwellings in the new
+          Tacumbú neighborhood. Future stages of the PDFC include expanding the number
+          of beneficiaries to all households in Tacumbú.
+1.12      The Tacumbú neighborhood is represented by several social organizations that
+          have been working alongside the MCA, with support from the Paraguayan
+          government, to find a definitive solution to the flooding problems that force, with
+          growing frequency, the Tacumbú population to abandon their homes in advance of
+          the rising river. The government, the MCA, the Tacumbú social organizations, and
+          the direct impact of flooding from the Paraguay River on the neighborhood were all
+          key factors in the selection of the project’s area of influence.
+1.13      The proposal to transform the Tacumbú neighborhood includes actions to improve
+          residents’ quality of life as well as to reduce the risks caused by the frequent
+          flooding of the Paraguay River and Yrupé lagoon. In particular, the new Tacumbú
+          neighborhood will be integrated into the city and will have a full array of climate-
+          resilient public spaces, social facilities, public services, and affordable housing in
+          line with sustainable urban planning.17 A subsequent stage will incorporate private
+          investments to improve access to public services for all Bañado Sur residents and,
+          in general, make the area an attractive destination for the people of Asunción.
+1.14      The MOPC has been working with the Tacumbú families for around three years
+          now to choose the households that will be resettled, and it has completed a
+          population census and established preliminary agreements (optional link 2) on the
+          need for relocation, the size of the properties, and the type of housing that each
+          family will receive under the program. Specifically, the Municipality is already
+          working with the Tacumbú community on transitioning away from the informal
+          occupation of the land in a way that adheres to the national and municipal legal
+          frameworks and is acceptable to the families. Although the program will not finance
+          the purchase of land, it will provide assistance to help the Municipality develop a
+          financing plan to buy property from residents who have individual lots. By law,
+          property ownership may only be transferred against payment, even if the amount is
+          symbolic. The housing will be fully subsidized in all cases (housing on individual or
+          multifamily lots). To ensure sustainability of the investments, the families will be
+
+17   Disaster risks and climate change adaptation (optional link 5).
+                                                    -5-
+
+
+
+
+          supported with educational and income-generating activities to ensure that the
+          community takes care of and preserves the works.
+1.15      Program strategy. The program is part of the Municipality of the City of
+          Asunción’s PDFC and the PDUA, which include a set of initiatives that are
+          spearheaded by the MOPC, including the ones mentioned in paragraph 1.10, and
+          which receive complementary financial support from Itaipú Binacional.18
+1.16      Specifically, in line with the PDFC and the PDUA, the program complements the
+          construction of road works in the zone, including the construction of Costanera Sur
+          Avenue19 and a 65-hectare area of hydraulic fill in Bañado Tacumbú. Likewise, with
+          funds from Itaipú Binacional, the government is in the process of building some
+          1,000 dwellings in the Capitán Bozzano area (adjacent to Tacumbú) and in zone 1
+          of Bañado Tacumbú. The government program will serve the community via two
+          different sources of financing (Itaipú and the IDB). The housing solutions are
+          similar and in line with the general guidelines of the Master Plan. The beneficiary
+          population for the entire program comprises 2,517 families, of which 1,500 will also
+          benefit from the Bank program. The remaining 1,000 families will be the
+          beneficiaries of government resources.
+1.17      The decision to prioritize Tacumbú was made together with the Paraguayan
+          government within the framework of the PDFC and the PDUA. The prioritization
+          criteria were established based on: (i) vulnerability to risks, inasmuch as Tacumbú
+          is the community that lies closest to the river and, therefore, is the lowest lying area
+          (footnote or annex: at the 56 masl mark, compared with other neighborhoods in the
+          Bañado, which are at the 59 masl mark) and the first to flood; (ii) socioeconomic
+          criteria, inasmuch as Tacumbú is home to the most vulnerable population (see
+          paragraph 1.9 and footnotes 11-13), a condition that is exacerbated by economic
+          losses during floods. However, due to the permanent state of emergency there, it
+          also happens to be one of the best organized neighborhoods in terms of social and
+          community aspects.20 As previously mentioned, this operation focuses on providing
+          a solution consisting of a single master plan and housing types to alleviate the
+          situation of the 2,517 families living in Tacumbú. However, the Bank intervention
+          will focus on the construction of a 1,500-unit affordable housing project, with
+          infrastructure for services, public spaces, and facilities, as well as the cleanup and
+          recovery of wetlands, streams, and lagoons near Tacumbú. The 1,500 beneficiary
+          families of the Bank intervention were selected on the basis of geographic criteria,
+          taking into account that the government will handle zone 1 of Tacumbú (the
+          northern part) and the IDB will provide support for the remaining families in the
+          southern part. The program involves a resettlement process, which will be carried
+          out in stages and will: (i) relocate the families living in the risk zone that cannot be
+
+18   The entity Itaipú Binacional was created by Paraguay and Brazil through an international treaty dated
+     26 April 1973. It is in charge of developing the hydropower potential of the Paraná River, where the
+     Itaipú hydropower plant is located. At the request of the country’s executive, Itaipú Binacional is
+     financing a number of social projects with its own funds for Paraguay.
+19   The Costanera Sur project will be 7.9 km long, with a 4-lane avenue and 15-meter-wide central
+     promenade. The project also includes construction of a 1,000-meter linear park and 1,000-meter beach
+     for the population. The avenue will border the Paraguay River from Colón to Lambaré Hill, crossing the
+     Bañado Sur area, and in particular, the Tacumbú neighborhood.
+20   There are 30 community organizations under the umbrella of APUF.
+                                                  -6-
+
+
+
+
+          mitigated; (ii) better integrate the neighborhood with the rest of the city;
+          (iii) establish spaces that promote community engagement, such as public spaces
+          and community facilities; and (iv) help create better economic opportunities for the
+          population. To this end, a master plan has been designed that will focus on:
+          environmental impact, climate change, integrated public spaces, and the balance
+          between urban density and territorial integrity (optional link 12).21
+1.18      Construction of the new Tacumbú neighborhood presupposes that the MOPC and
+          Itaipú Binacional will complete the hydraulic filling of the project’s 65 hectares,
+          make the necessary agreements with the community, and perform the necessary
+          social work for the relocation of the population currently living in flood-prone zones.
+1.19      Lastly, upon completion of the program, the cleared areas will be available to
+          MOPC for other urban interventions, such as the extension of the riverfront
+          avenue, new parks, and/or private enterprises (optional link 10). Program
+          execution is therefore a priority in order to move ahead with construction of
+          Costanera Sur Avenue, which can only proceed once execution of the program is
+          completed.
+1.20      Lessons learned. The program will benefit from the lessons learned from housing
+          improvement programs financed by the Bank in the region. The design of the
+          operation incorporates lessons learned from the execution of loans and technical-
+          cooperation operations in the housing and urban development sector that the Bank
+          has supported in Paraguay and other Latin American countries, as well as from
+          experiences gleaned from the literature on this type of intervention. The program
+          incorporates experience from the Improvement of Housing and Habitat loan
+          program (3538/OC-PR) in Paraguay, especially the practice of involving the
+          community in the project and the importance of complementing the physical works
+          with support for productive activities.
+1.21      The program also draws on lessons learned from other programs that involve
+          resettling a large number of families, like the National Urban Development
+          Program in Ecuador (2679/OC-EC). That program highlights the importance of
+          performing an exhaustive census, ensuring social support is provided during
+          implementation of the resettlement plan, and activating communication and
+          participation mechanisms throughout the entire process.
+1.22      Strategic alignment. The program is consistent with the Update to the Institutional
+          Strategy 2010-2020 (document AB-3008) and the Corporate Results Framework
+          2016-2019 (document GN-2727-6), specifically with the development challenge of
+          social inclusion and equality via the eradication of extreme poverty, by offering
+          inclusive infrastructure and greater access to quality public services and by helping
+          to reduce the housing shortage. It is also aligned with the crosscutting themes of
+          (i) sustainability and climate change, by improving the quality of life of the residents
+          of Bañado Sur as well as the adaptive capacity of the community; and (ii) gender
+          equality and diversity, by promoting home ownership by women and couples and
+          by ensuring that the minimum conditions are in place to support the social and
+          economic development of women and their families. Approximately 72.11% of
+          program resources are invested in climate change mitigation and adaptation
+
+21   Final adjustments are currently being made to this master plan and it should be approved by the MCA
+     municipal council once the municipal executive sends the final version.
+                                             -7-
+
+
+
+
+       activities, according to the joint methodology of the multilateral development banks
+       for tracking climate finance. These resources contribute to the IDB Group target of
+       increasing financing for climate-related projects to 30% of approvals by the end of
+       2020.
+1.23   Likewise, the comprehensive nature of the intervention, as with most neighborhood
+       improvement programs, is supported by the international evidence gathered in the
+       Urban Development and Housing Sector Framework Document (document
+       GN-2732-6), which reflects the basic principles for the development of sector
+       policies and programs, such as: (i) multisector interventions with territorial integrity,
+       designed as a function of the territory’s specific characteristics; (ii) sustainable and
+       effective interventions, taking into account the short- and long-term impact on
+       society, the environment, public finances, and urban governance; and
+       (iii) interventions focused on the citizenry, improving quality of life and inclusion in
+       the productive activities of urban households, particularly the most vulnerable
+       ones. This sector framework document also maintains that comprehensive
+       improvement programs like the one proposed herein have been evaluated
+       positively in terms of access to and coverage of basic services and health and
+       education services, satisfaction with living standards and security, and increased
+       property values.
+1.24   The program also contributes to the third and fourth dimensions of success of the
+       Climate Change Sector Framework Document (document GN-2835-5), associated
+       with: (i) effectively promoting climate-resilient low-carbon development; and (ii) the
+       incorporation of climate considerations in sectors. It is aligned with the Gender and
+       Diversity Sector Framework Document (document GN-2800-8), in that it aims to
+       improve the wellbeing of women and children through an increase in access to
+       culturally relevant quality public services. The operation is aligned with the Bank
+       Country Strategy with Paraguay 2014-2018 (document GN-2769), and is included
+       in the Update to Annex III of the 2018 Operational Program Report (document
+       GN-2915-2). In addition, this operation contributes to one of the three priority pillars
+       of the Government and Investment Plan 2015-2018 (Decree 1,560 of the
+       Presidency of the Republic), namely, the poverty reduction and social development
+       pillar, seeking to provide adequate, sustainable homes for families in the lowest
+       income groups.
+1.25   Evidence of the effectiveness of other programs. Despite the IDB’s long track
+       record of support for neighborhood improvement programs, evidence from impact
+       assessments is scarce and, where it exists, focused on “in situ” neighborhood
+       improvement [7]. The evaluation of the Favela Bairro II program showed that the
+       infrastructure and urban services improvement program had an impact on access
+       to services, housing values, and income. It also had an impact on school
+       attendance. However, there was little evidence of any impact on employment,
+       participation in social and recreational activities, or other behavioral changes [8].
+1.26   The literature also includes evaluations that focus on specific aspects of the
+       infrastructure improvements that are applicable to the program, such as roads and
+       housing improvements. The evaluation of the PROCIDADES program in Campo
+       Grande, which combined an urban mobility component with a downtown
+       revitalization component, found that the urban mobility component increased
+       citizen wellbeing, reflected in a 6% increase in prices, while the revitalization
+                                            -8-
+
+
+
+
+       component did not appear to have a significant impact. An experimental study in
+       Mexico City shows how paving local roads increased housing sales prices by 16%
+       and also increased residents’ investments in their own homes [9]. Furthermore,
+       there is evidence that street lighting, public spaces, and recreational activities
+       increase residents’ satisfaction with their lives. Likewise, several evaluations of
+       housing improvement programs show that the beneficiary communities ended up
+       more satisfied with their housing and their lives [10]. This correlation is robust to
+       studies based on the ability to pay for services and in studies that quantify the
+       services’ monetary value equivalent [11].
+1.27   Evidence from training programs to help vulnerable populations improve their
+       employment conditions shows positive short-term results, especially for the
+       younger population (Card, 2005) and for women (Acevedo, 2018, and Attanasio,
+       2008) [12].
+1.28   Compliance with the Public Utilities Policy (document GN-2716-6). The
+       program and the country’s sector objectives are consistent with the policy
+       principles set out in document GN-2716-6 and fulfill the economic evaluation and
+       financial sustainability conditions. ANDE has collected sufficient revenue to cover
+       service costs and make payments on its debt. In 2017, the government raised
+       electricity rates for several categories of customer (except residential customers),
+       in a measure intended to strengthen ANDE’s financial position. An analysis of the
+       financial information indicates that ESSAP had sufficient operating income to cover
+       all operating costs and maintenance, as reflected in an EBITDA margin of 18.9%,
+       and obtain net positive earnings of 11.5% for the 2016 fiscal year. Recently, in
+       August 2018, ESSAP adjusted the rates it charges for water and sewer services,
+       raising them by 22% and 100%, respectively, in order to improve its operating cash
+       flow, which will allow it to generate enough revenue to cover its operating and
+       maintenance costs. It will also use this cash flow to finance a portion of its
+       long-term investment plan, though it will need the national government’s support
+       and external financing to execute it in its entirety. The works to be financed under
+       the project are viable from a socioeconomic perspective. Both ESSAP and ANDE
+       charge a subsidized rate for low-income households, and there is an adequate
+       institutional framework in the sector (optional link 4).
+B.     Objectives, components, and cost
+1.29   The general objective is to improve the quality of life of the riverside population of
+       the southern area of the city of Asunción (Bañado Sur) through: (i) the construction
+       of quality urban infrastructure and affordable housing for the relocation of the
+       Tacumbú neighborhood in line with sustainable urban planning standards; (ii) the
+       environmental recovery of lagoons, streams, and wetlands and the protection of
+       natural buffer zones; and (iii) the creation of conditions of economic and
+       institutional sustainability and the improvement of the families’ adaptive capacities.
+       This will be achieved through the following components:
+1.30   Component I. Sustainable urban infrastructure (US$72,650,000). This
+       component will finance the following: (i) the construction of approximately 1,500
+       housing solutions for the population at risk of floods (30% of the dwellings will be
+       multifamily units and the rest will be single family units based on length of time in
+       the locale and family size); (ii) the provision of basic public services, such as
+       drinking water, sanitation, street lighting, electricity, and road access; (iii) the
+                                                      -9-
+
+
+
+
+          establishment of quality urban public spaces and facilities, including community
+          institutions like daycare centers and schools. To that end, and prior to bidding for
+          works, criteria for sustainable, resilient construction will be developed for the
+          infrastructure and the housing solutions (design, materials, construction, and use),
+          to reduce the flood risk and ensure climate change adaptation. Accordingly, the
+          component will finance the preliminary technical designs for the works to be built.22
+          A financing strategy will also be developed to help vulnerable families pay for
+          housing and basic services, with the emphasis on low-income female heads of
+          household, older adults, and families that include persons with disabilities.
+1.31      Component II. Green infrastructure and resilience (US$9,822,000). This
+          component will finance: (i) the environmental sanitation and recovery of the
+          existing streams, lagoons, and wetlands in the intervention area, through the
+          cleanup and treatment of the bodies of water and the elimination of the sources of
+          pollution of the lagoon and streams (solid waste and informal connections); (ii) the
+          protection of natural buffer zones through the creation of biological corridors with
+          natural species native to the area, which will help improve the hydrological,
+          biological, and ecological functioning of the area of intervention and the interaction
+          between lagoon, wetland, fill, and river, as well as reduce storm runoff and
+          preserve the Asunción Bay ecological reserve;23 (iii) climate change adaptation
+          measures like structural and nonstructural strategies for reducing storm runoff
+          through green infrastructure, to lessen the pressure on the gray drainage
+          infrastructure during extreme events, and for reducing the heat island effect in the
+          Tacumbú neighborhood by creating public spaces and planting trees, thereby
+          improving the levels of comfort in those public spaces, pedestrian zones, bicycle
+          paths, and dwellings; and (iv) integrated waste management through the design of
+          a sustainable waste collection system that includes recycling, which will in turn
+          reduce the risk of floods resulting from clogged bodies of water.
+1.32      Component III. Social and institutional sustainability (US$12,300,000). This
+          component will finance initiatives to establish social sustainability and improve the
+          families’ adaptive capacities, through local development actions such as job
+          training and business development with a gender focus, adapted to the specific
+          needs of low-income or unemployed individuals, to improve their socioeconomic
+          situation, including a program to train and hire local workers for the infrastructure
+          works. This component also calls for actions to improve governance and
+          government and community management mechanisms to help institutions sustain
+          the program-financed interventions. In addition, the component will implement the
+
+
+
+
+22   The preliminary designs of the works to be built will be financed through the supporting technical-
+     cooperation operation ATN/OC-16934-PR, to ensure that they are available before loan eligibility.
+23
+     Reserve zone due to the concentration of biodiversity and for conserving native and migratory bird
+     species. Asunción is considered to be one of the cities with the most biodiversity in the urban area, with
+     353 species of native birds that represent 49% of the country’s bird species (Reference: 2008 inventory
+     performed by Guyrá Paraguay and Birdlife International).
+                                                        - 10 -
+
+
+
+
+          “Neighborhood without Violence” program, with activities for the prevention of
+          domestic and gender-based violence.24
+1.33      In addition, US$3,028,000 will be provided to finance program audits and
+          evaluations and cover the executing agency’s expenses and contingencies. The
+          executing agency’s expenses will include the costs of hiring: (i) the general
+          coordinator for the program; (ii) technical specialists; (iii) financial administration
+          specialists; (iv) procurement specialists; (v) a social sector specialist; (vi) a
+          communications specialist; and (vii) an environmental specialist.
+1.34      Program costs. The program will cost US$100 million, to be financed with
+          Ordinary Capital resources. The table below presents the costs by component.
+
+                                    Table 1. Summary of program costs (in US$)
+                   Component                                                 IDB*                   %
+                   Component I. Sustainable urban infrastructure           72,650,000              72.65
+                   Component II. Green infrastructure and resilience        9,822,000               9.82
+                   Component III. Social and institutional sustainability  12,300,000              12.30
+                   Administration, supervision, and auditing                3,028,000               3.03
+                   Contingencies                                            2,200,000               2.20
+                   Total                                                  100,000,000             100.00
+                   * These amounts include local taxes, in accordance with the Bank’s policies.
+
+C.        Key impact and results indicators
+1.35      The impact indicators identified for the program include: (i) the difference between
+          the logarithm of the cost per dwelling in the new Tacumbú neighborhood (per m2)
+          and the post-project sales price thereof (per m2); (ii) the reduction in the average
+          economic value of losses per household due to climate disasters, specifically
+          floods, in the Tacumbú neighborhood (%); (iii) the reduction in municipal expenses
+          incurred due to flooding from the Paraguay River (%); and (iv) the percentage of
+          households that indicate that their living situation has improved (%).
+1.36      The outcome indicators include: (i) quality urban infrastructure and affordable
+          housing financed in the Tacumbú neighborhood in line with sustainable urban
+          planning standards; (ii) upgrading of Tacumbú’s green infrastructure, to include the
+          environmental recovery of lagoons, streams, and wetlands, as well as the
+          protection of natural buffer zones; and (iii) the creation of conditions of economic
+          and institutional sustainability and improvement of the families’ adaptive capacities
+          (details in Annex II: Results Matrix). Specifically, the program should improve the
+          quality of life of the riverside population in the southern zone of the city of Asunción
+          as a result of the resettlement of approximately 1,500 families in the new dwellings
+          in Tacumbú and the planned investments in sanitation, drainage, containment, and
+
+24   The “Neighborhood without Violence” program will finance: (i) participatory diagnostic assessments to
+     identify the vulnerabilities of the resettled population by group (older adults, children, young people,
+     women, single mothers, etc.); (ii) climate change and environmental and health education workshops
+     (use of sanitation equipment, drain maintenance, trash collection and disposal, education on caring for
+     the environment, home maintenance, adaptive capacity, etc.); (iii) development of a financing plan to
+     help the vulnerable families pay for basic services, housing, and the maintenance thereof; (iv) household
+     support and job training activities for productive development (the households to receive support will be
+     determined depending on the specific needs identified during the social work with the community);
+     (v) activities to prevent domestic, gender-based, and neighborhood violence.
+                                                    - 11 -
+
+
+
+
+          stream and lagoon recovery works, in line with resilient and sustainable design and
+          construction parameters.
+1.37      Economic analysis. An economic evaluation of the program was performed
+          based on an analysis of Component I. This focus on Component I is justified by its
+          importance within the program objective in terms of results and economic
+          importance, inasmuch as 76% of program funds are allocated to Component I.
+          Although the activities in the other components are important to the program
+          objective, they are difficult, by their nature, to evaluate economically. Furthermore,
+          the assumption is that their impact will be positive for the program. Within this
+          framework, the cost-benefit analysis method was used to evaluate the economic
+          return generated by the interventions. This analysis yielded a net present value of
+          US$25,665,807 with an internal rate of return of 15%, indicating that the program
+          will be economically viable.
+1.38      A sensitivity analysis was also performed, and it showed that the variable to which
+          the program is most sensitive is flood frequency. The program’s rate of return is
+          virtually unaffected by any modification in the cost of the investment or in the dollar
+          cost per square meter of the houses to be built. In contrast, an increase in the
+          frequency of flooding pushes up the rate of return by underscoring the importance
+          of the program for resolving the plight of the affected families. In other words, the
+          more frequently that floods occur, the greater that the program’s rate of return will
+          be, inasmuch as it seeks to resolve: (i) the plight of the affected families; and
+          (ii) the costs associated with each flood.
+
+                           II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       The Bank will provide US$100 million in financing for this operation,25 which will be
+          delivered in the form of a specific investment loan as a charge against the Bank’s
+          Ordinary Capital, under the Flexible Financing Facility. The table below shows the
+          disbursement schedule.
+2.2       Disbursement period and schedule. The disbursement period will be six years
+          from the date of signature of the loan contract, and disbursements will be made
+          according to the schedule below:
+                                   Table 2. Disbursement schedule (US$ million)
+            Year       Year 1       Year 2      Year 3     Year 4    Year 5           Year 6       Total
+           IDB          4.56         8.97        28.59     35.47      20.85            1.56         100
+           %           4.56%        8.97%       28.59%    35.47%     20.85%           1.56%        100%
+
+
+25   This operation is part of the “Strengthening Urban Resilience in Riverside Asunción Program,” which is
+     being designed in order for the Bañado Norte and Bañado Sur to both obtain access to concessional
+     resources from the Green Climate Fund (GCF). The program was conceptualized under technical
+     cooperation operation ATN/OC-15382-RG, “Regional Support for the Green Climate Fund (GCF),” for
+     US$70,000. The studies necessary for the GCF financing proposal are being prepared under the
+     technical cooperation operation ATN/AC-16705-PR, for US$450,000, and with US$548,205 in funds
+     from the GCF Project Preparation Facility, which were notified as approved on 19 October 2018. The
+     GCF resources will be used to scale up the project to Bañado Norte and to incorporate stronger
+     sustainability and resilience elements not only in the design phase but also during construction of the
+     housing units, public spaces, equipment, and services infrastructure. See chapter 5 in optional link 5.
+                                                    - 12 -
+
+
+
+
+B.        Environmental and social risks
+2.3       The program has been classified as a category “A” operation, in accordance with
+          the Bank’s Environment and Safeguards Compliance Policy. The activated policies
+          include: (i) Environment and Safeguards (operational policy OP-703); (ii) Disaster
+          Risk Management (operational policy OP-704); (iii) Involuntary Resettlement
+          (operational policy OP-710); (iv) Access to Information (operational policy OP-102);
+          and (v) Gender Equality in Development (operational policy OP-761).
+2.4       Overall, the program will have a positive impact on the families who are repeatedly
+          affected by flooding from the Paraguay River, and it will contribute to the urban
+          planning of the city of Asunción. However, given the magnitude of the operation, its
+          proximity to the river, and the complexity of the facilities involved, some
+          environmental and social impacts have been identified that must be prevented and
+          mitigated. In that regard, and in compliance with the requirements of the
+          Environment and Safeguards Compliance Policy (OP-703) and the Access to
+          Information Policy (OP-102), the socioenvironmental documents suitable for
+          disclosure were published for consultation prior to the analysis mission, and the
+          final versions are available on the Bank’s website. In addition to the existing
+          preliminary environmental and social impact assessment approved for the program
+          area, complementary studies have been prepared for the associated dredging
+          works, construction of housing, and integration of the new neighborhood into the
+          regular municipal public utilities system. A study was also performed on the Yrupé
+          lagoon and wetlands and found that these areas harbored a natural habitat,
+          despite being in very poor condition and showing evidence of degradation caused
+          by human activity. The study recommended adjusting the design of the master
+          urban plan to make it compatible with the lagoon recovery and management plan.
+2.5       The four environmental and social sustainability issues identified as high-level risks
+          that could affect proper implementation of the program are explained below.
+2.6       The first risk is that the resettlement plan will be improperly planned and executed,
+          which could undermine existing support for the program. To mitigate this risk, the
+          executing agency will: (i) provide a specialized team to work exclusively on
+          resettlement and on coordination with the execution of the works; and (ii) maintain
+          the same participatory approach that it has used throughout program preparation.
+          To that end, Component III will finance an outreach and participation plan to be
+          implemented over the course of program execution, as well as actions to support
+          and strengthen the various community organizations. Furthermore, as an essential
+          element for the success of the project, the executing agency will keep the channel
+          of communication with the community open until the program is eligible.
+2.7       From the social perspective, the relocation of the families to the new neighborhood
+          will not only improve their current living conditions but also allow them to maintain
+          their social cohesion and organization, which is one of the program’s strengths. In
+          this operation, resettlement is a project objective,26 since the idea is to protect the
+          families that are repeatedly affected because they live in a flood zone. To address
+
+
+
+
+26   Operational policy OP-710 Chapter IV Special Considerations: 2. Relocation as a Project Objective.
+                                                       - 13 -
+
+
+
+
+          this situation, the government analyzed two technical alternatives,27 and carried out
+          a consultation process (2017) prior to the official start of the Bank’s intervention.28
+          In this process, most of the Tacumbú neighborhood families opted for the so-called
+          riverfront proposal and initial agreements for the move to the new neighborhood
+          were established (optional link 2). The preparation of the program draws on these
+          agreements for the design of the master plan as a key element. This master plan
+          presents a flexible model for matching beneficiaries, size of properties, types of
+          dwellings, and social and services infrastructures that will be financed by the
+          program. In the framework of this category “A” program, two significant public
+          consultations were held, on 27 September 2018 and 4 October 2018, after
+          interested and affected parties had been identified. During the consultations, the
+          resettlement plan and socioenvironmental analyses were presented, the
+          attendees’ questions and concerns were addressed, and their suggestions and
+          recommendations were heard.
+2.8       The prepared resettlement plan includes: (i) a population census (2,517 families)
+          and an analysis of the families’ vulnerability; (ii) a tally of the productive activities in
+          the area;29 (iii) an inventory of the services infrastructure; (iv) an evaluation of the
+          community organizations; (v) identification of the impacts; and (vi) the mitigation
+          options, with costs and responsibilities. The resettlement plan was developed
+          using a participatory approach that included consultations with the grassroots
+          organizations (100 community leaders) and directly with residents in every section
+          of the Tacumbú neighborhood. This process made it possible to corroborate the
+          census of beneficiaries and their approval of the program, as well as to identify
+          their priorities, which will be incorporated into the master plan, and their concerns,
+          which will be addressed in the mitigation proposals.
+2.9       Since one of the high-level risks identified was the potential for resistance from the
+          fishermen’s association, the program calls for the design and execution of a
+          specific strategy within the master plan for a specific type of dwelling that will allow
+          them to stay in their current locations but avoid flood damage. Good
+          communication and community relationships should be able to mitigate this risk.
+          Furthermore, measures have been incorporated into the environmental and social
+
+27   Two alternatives were presented for relocating the affected individuals in the Tacumbú neighborhood:
+     (i) the flood protection project, and (ii) the riverfront project. The flood protection project consists of the
+     construction of an embankment to prevent the river from reaching the currently inhabited flood-prone
+     zones. The riverfront project is the technical option of filling the entire flood zone, taking into account all
+     aspects of the project (environmental sanitation, housing, avenues, streets, squares, parks, and basic
+     services). Most of the residents expressed their preference for the second option, which was selected.
+28   All told, the Centro de Ayuda Mutua de Salud para Todos [Health for All Mutual Assistance Center] led
+     60 informational workshops with the active participation of MOPC and MCA technical staff.
+     Subsequently, a popular consultation was held to determine which project the residents preferred.
+     According to the consultation, 91% of residents preferred the riverfront project, 7% preferred the flood
+     protection project, and 1% were undecided. After the elections, the community formed an organization to
+     represent the entire Bañado population in favor of the riverfront option and to bring together
+     organizations like neighborhood committees, the Centro de Ayuda Mutua de Salud para Todos, the
+     association of longline fishermen, fishermen, cooperatives, and individuals who do not belong to any
+     organizations. This led to the formation of APUF, with 122 representatives, 4 officers, and 4 alternates
+     per zone, all elected in their sectors.
+29   The master plan includes the construction of homes and businesses that will be based on the census in
+     the resettlement plan.
+                                           - 14 -
+
+
+
+
+       management plan to ensure that the works associated with dredging operations do
+       not negatively impact the fishing areas.
+2.10   Another high-level risk that was identified is that implementation of the works could
+       exacerbate the risk of floods in nearby areas. Accordingly, a disaster risk analysis
+       is being prepared, taking into account climate change factors, which will provide
+       inputs for the incorporation of structural and nonstructural measures for risk
+       reduction in the detailed designs. The findings of the study will be included in the
+       final design of the master plan, as well as in the bidding documents for the
+       construction and operation phases of the works (optional link 5). The study will be
+       available in the third quarter of 2019, prior to the first disbursement under the
+       program.
+2.11   Lastly, to ensure that the program interventions do not have the effect of triggering
+       the emergence of new informal settlements on municipal land in Bañado Sur
+       beyond the already affected area, the program proposes to boost municipal and
+       social coordination by training and strengthening organizations. Agreements are
+       being established with the local population to institute a social control mechanism
+       to prevent new occupations of land within the project area. The MCA planning also
+       includes urban regulation actions with the same purpose. In addition, the program
+       includes recovery of the Yrupé lagoon and a management plan with protected
+       areas to check the advance of urban sprawl into the ecosystem.
+C.     Fiduciary risks
+2.12   The executing agency will be the Ministry of Public Works and Communications
+       (MOPC), acting through the Office of Strategic Projects (DIPE). A program
+       coordination unit (PCU) will be created for execution and will be responsible for
+       coordinating the fiduciary execution and supervising the procurement processes. It
+       will also guarantee: (i) financial management; (ii) the presentation of reports;
+       (iii) program auditing; and (iv) compliance with Bank policies. The growing portfolio
+       of projects under MOPC administration entails a medium-level fiduciary risk. To
+       mitigate this risk, the Bank will provide training on procurement and financial
+       issues.
+D.     Other project risks
+2.13   The project team, together with its counterpart in the country, also identified a
+       medium-level public management and governance risk, since a low level of
+       commitment from and/or participation of certain relevant participating institutions
+       could affect the program’s potential for success. Effective communication,
+       coordination, and monitoring by the MOPC and the other participating institutions,
+       as well as with the community at large, will be necessary for the development and
+       implementation of the program. The planned mitigation action involves establishing
+       institutional agreements through the formalization of new contracts with Tacumbú
+       neighborhood community organizations, to guarantee the participation of actors
+       important to the project. It also involves actions to strengthen the executing
+       agency’s capacity to coordinate the various entities involved in the program.
+                                          - 15 -
+
+
+
+
+                   III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+3.1   Borrower and executing agency. The borrower is the Republic of Paraguay,
+      which, acting through the Ministry of Public Works and Communications (MOPC),
+      will also be the executing agency. Within the MOPC, program execution will be
+      handled by the Office of Strategic Projects (DIPE). For program execution, the
+      DIPE will incorporate environmental and social specialists with the ability to
+      oversee compliance with the program’s environmental and social management
+      plan, and in particular, a team in charge of resettlement that will coordinate
+      execution with the planned works.
+3.2   The executing agency will be in charge of the overall coordination, monitoring, and
+      evaluation of the program components as well as monitoring of the planning
+      instruments: the multiyear execution plan, annual work plan, and procurement
+      plan. Specifically, the executing agency will be responsible for fiduciary execution,
+      supervising the procurement processes and guaranteeing: (i) financial
+      management; (ii) the presentation of reports; (iii) program auditing; and
+      (iv) compliance with Bank policies.
+3.3   To ensure that program activities are coordinated under the terms to be specified
+      in the program Operating Regulations, an interinstitutional body (the
+      Interinstitutional Committee for the Tacumbú Neighborhood Project) will be
+      established to coordinate the institutions whose participation is fundamental for
+      successful program implementation, including: the MCA, ANDE, ESSAP, MOPC,
+      and the Ministry of Urban Planning, Housing, and Habitat (MUVH). The committee
+      will facilitate coordination of program activities to ensure deadlines are met and to
+      minimize the risk of delays. Itaipú Binacional will be invited to participate in this
+      committee. The MOPC may also form other coordinating bodies that will include
+      public and private sector organizations that provide services and support to the
+      Bañado Sur community.
+3.4   The environmental impact study and the resettlement plan will be part of the
+      program Operating Regulations. The responsibilities and functions assigned to the
+      MCA and/or to other entities in the Operating Regulations will also be included in
+      the agreements referred to in item (iii) of the following paragraph and item (ii) of
+      paragraph 3.6.
+3.5   The specific conditions for the execution of each component will be described in
+      detail in the draft program Operating Regulations. As special contractual
+      conditions precedent to the first disbursement of the loan, the borrower will
+      provide evidence to the Bank’s satisfaction of the following: (i) approval of
+      the program Operating Regulations by the competent authority of the
+      executing agency, under the terms previously agreed upon with the Bank,
+      including, among other documents, the program’s environmental and social
+      documents; (ii) approval by the Municipality of the City of Asunción (MCA) of
+      the master urban plan, including, among other items, the program area,
+      under the terms previously agreed upon with the Bank; (iii) assignment of
+      the program to the Office of Strategic Projects (DIPE) at the Ministry of
+      Public Works and Communications (MOPC) through a ministerial resolution;
+      (iv) creation of the program execution unit and commencement of the
+                                            - 16 -
+
+
+
+
+       process of appointing the members thereof, in accordance with the profiles
+       agreed upon with the Bank; and (v) entry into force of a coordination and
+       partnership agreement or agreements for program execution and the
+       subsequent maintenance of the works, between the executing agency, the
+       MCA, and the institution or institutions responsible for the works associated with
+       construction of the housing, based on the master urban plan, and in the case of
+       the MCA, for the subsequent maintenance and transfer of the program
+       works, residential utilities, and the mechanisms for legalizing land
+       ownership, and in the case of the Itaipú Binational Entity, for the
+       construction of the housing units as provided in the master urban plan. The
+       first two conditions are justified by the need for the detailed regulatory framework
+       for program execution that is provided in the Operating Regulations and by the
+       need to ensure the legality of the DIPE’s role through the corresponding delegation
+       of functions established in the aforementioned resolution.
+3.6    Special contractual conditions of execution. Prior to the call for the first tender
+       for Component 1 works, evidence will be presented of the entry into force of
+       partnership agreements between the executing agency and ANDE and ESSAP for
+       the delivery of services under the terms set forth in the master urban plan, and the
+       National Department of Housing and Habitat (SENAVITAT) under the terms
+       previously agreed upon with the Bank. The first condition is necessary in order to
+       ensure the legality and stability of the program’s urban planning.
+3.7    Procurement of works, goods, and services. Goods, works, related services,
+       and consulting services will be procured in accordance with the Policies for the
+       Procurement of Goods and Works Financed by the Inter-American Development
+       Bank (document GN-2349-9) and the Policies for the Selection and Contracting of
+       Consultants Financed by the Inter-American Development Bank (document
+       GN-2350-9). The goods, works, and services to be procured are defined in the
+       procurement plan and will be procured in accordance with Annex III: Fiduciary
+       Agreements and Requirements.
+3.8    Auditing. During the disbursement period, the borrower will submit the program
+       financial statements, audited by an independent external auditing firm acceptable
+       to the Bank, within 120 days after the close of each borrower fiscal year. The final
+       audited financial statements will be presented within 120 days after the date of the
+       last disbursement.
+B.     Summary of arrangements for monitoring results
+3.9    Monitoring and supervision system. To ensure adequate supervision of this
+       operation, the following and other activities will be carried out: (i) monitoring of the
+       program through the results matrix, multiyear execution plan, annual work plan,
+       and procurement plan; (ii) preparation of semiannual and annual progress reports;
+       and (iii) audits of the program’s financial management and technical verification.
+3.10   The monitoring and evaluation plan will track program execution according to the
+       targets and progress indicators defined in the results matrix. For program
+       evaluation, the executing agency will commission and monitor the following
+       activities: (i) the initial baseline evaluation, the objective of which will be to
+       establish the baseline values corresponding to the impact and results indicators.
+       The evaluation will be performed by consultants or consulting firms that have staff
+                                          - 17 -
+
+
+
+
+       members in all of the evaluation areas with solid, proven experience in evaluating
+       housing and/or social development programs financed with funds from multilateral
+       organizations. The terms of reference for the evaluations will be agreed upon with
+       the Bank; and (ii) the final evaluation, which will be based on a closing survey
+       showing the status of project execution, will evaluate the impacts, outcomes, and
+       outputs of the three loan components, as established in the results matrix. The
+       final evaluation will include: evaluation of processes, results, and impacts and an
+       ex post cost-benefit evaluation of the program.
+3.11   The evaluation will be performed on a timeline and in accordance with terms of
+       reference agreed upon with the Bank. The budget for evaluation was agreed upon
+       with the executing agencies and is included in the monitoring and evaluation plan
+       (required link 2).
+                                                                                                                                                                                    Annex I- PR-L1152
+                                                                                                                                                                                           Page 1 of 1
+
+
+
+
+                                                                           Development Effectiveness Matrix
+                                                                                   Summary
+I. Corporate and Country Priorities
+1. IDB Development Objectives                                                                                                          Yes
+                                                                                               -Social Inclusion and Equality
+                                                                                               -Gender Equality and Diversity
+   Development Challenges & Cross-cutting Themes
+                                                                                               -Climate Change and Environmental Sustainability
+
+
+                                                                                               -Property value within project area of influence (% change)*
+                                                                                               -Households benefitting from housing solutions (#)*
+                                                                                               -Households with new or upgraded access to drinking water (#)*
+                                                                                               -Households with new or upgraded access to sanitation (#)*
+   Country Development Results Indicators                                                      -Households with wastewater treatment (#)*
+                                                                                               -Households with solid waste disposed in a sanitary landfill (#)*
+                                                                                               -Households protected from flood risk (#)*
+                                                                                               -Households with new or improved access to electricity supply (#)*
+
+
+2. Country Development Objectives                                                                                                      Yes
+
+   Country Strategy Results Matrix                                                                     GN-2769          Equity and Social Inclusion
+
+
+                                                                                                                        The intervention is included in the 2018 Operational
+   Country Program Results Matrix                                                                     GN-2915-2
+                                                                                                                        Program.
+
+   Relevance of this project to country development challenges (If not aligned to
+   country strategy or country program)
+
+II. Development Outcomes - Evaluability                                                                                           Evaluable
+3. Evidence-based Assessment & Solution                                                                                                 8.5
+     3.1 Program Diagnosis                                                                                                              2.4
+     3.2 Proposed Interventions or Solutions                                                                                            3.6
+     3.3 Results Matrix Quality                                                                                                         2.5
+4. Ex ante Economic Analysis                                                                                                            8.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                     3.0
+     4.2 Identified and Quantified Benefits and Costs                                                                                   3.0
+     4.3 Reasonable Assumptions                                                                                                         0.0
+     4.4 Sensitivity Analysis                                                                                                           2.0
+     4.5 Consistency with results matrix                                                                                                0.0
+5. Monitoring and Evaluation                                                                                                            7.2
+     5.1 Monitoring Mechanisms                                                                                                          1.8
+     5.2 Evaluation Plan                                                                                                                5.4
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                     Low
+                              Identified risks have been rated for magnitude and likelihood                                            Yes
+                                   Mitigation measures have been identified for major risks                                            Yes
+                     Mitigation measures have indicators for tracking their implementation                                             Yes
+Environmental & social risk classification                                                                                              A
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+                                                                                                                        Financial Management: Budget, Treasury, Accounting and
+                                                                                                                        Reporting, External Control, Internal Audit.
+                                                                Fiduciary (VPC/FMP Criteria)             Yes
+                                                                                                                        Procurement: Information System, Price Comparison.
+
+                                                                               Non-Fiduciary             Yes            Monitoring and Evaluation National System.
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+Additional (to project preparation) technical assistance was provided to the public
+                                                                                                         Yes
+sector entity prior to approval to increase the likelihood of success of the project
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+The Bañado Sur Rehabilitation and Housing Program in Asunción (Barrio Tacumbú) aims to improve the quality of life of the coastal population of the southern area of the
+city of Asunción (Bañado Sur) through: (i) the construction of housing of social interest and quality urban infrastructure under sustainable urbanism standards for the
+reallocation of the population; (ii) the environmental recovery of lagoons, streams and wetlands, and the protection of natural buffer zones; and (iii) the generation of
+conditions of economic and institutional sustainability and improvement of the adaptive capacity of families. The program expects to benefit 1,500 of the 2,517 households
+surveyed that live in flood-prone areas of the Tacumbú neighborhood. The continuity of future stages within the framework of the Coastal Strip Development Program
+contemplates expanding the number of beneficiaries to the rest of the neighborhood's population. The vertical logic presented in the POD is consistent, covering the
+activities, products, results and impacts. The diagnosis presents the main problems that the project must address in the settlements, and presents robust evidence for most
+of them, although it must be reinforced for socioeconomic problems.
+
+The results matrix includes indicators of the main outputs, results and impacts of the program and these comply with the SMART criteria, including the initial values and goals
+except for some of the outcome indicators, whose baseline values are not yet known. The impact indicators associated with the first component include the price differential
+of old homes compared to new ones, the reduction in the economic value of household losses in climate disasters (calculated on the basis of a model), and an index for
+satisfaction of the households. The outcome indicators related to infrastructures include variables related to the sustainability of the rehousing and the sustained formal use
+of basic water, sanitation and electricity services, the increase in patrimony and the use of social facilities. On the side of environmental sustainability, they include the quality
+of the Laguna's water, the percentage of households that count with the garbage collection service, and the number of mitigation and adaptation measures to climate change
+reported by the Strategic Projects Directorate (DIPE) to the Ministry. As part of the results of the economic sustainability component, indicators of certification of the offered
+courses, increase in the knowledge of environmental care, reduction of unemployment and reduction of the acceptance of intrafamily violence are included.
+
+The Executing Agency will be the MOPC, through the DIPE. The DIPE will be the unit that represents the executor in the administration aspects of the program, for which it will
+create a Program Coordination Unit (PCU) who will have to work in coordination with the VMAF and the UOC. Monitoring and evaluation activities have been planned and
+budgeted. The program presents an economic analysis that shows the economic viability of the project, although the inclusion of some assumptions must be justified and
+there is no clear link between the benefits of the report and those of the results matrix. An evaluation of results and an ex-post cost-benefit evaluation have also been
+budgeted.
+                                                                                                                                                                                   Annex II
+                                                                                                                                                                                 Page 1 of 6
+
+
+
+                                                                                    RESULTS MATRIX
+
+
+    Project objective:                      The general objective is to improve the quality of life of the riverside population of the southern area of the city of Asunción
+                                            (Bañado Sur) through: (i) the construction of quality urban infrastructure and affordable housing for the relocation of the
+                                            Tacumbú neighborhood in line with sustainable urban planning standards; (ii) the environmental recovery of lagoons,
+                                            streams, and wetlands and the protection of natural buffer zones; and (iii) the creation of conditions of economic and
+                                            institutional sustainability and the improvement of the families’ adaptive capacities.
+
+                                                                                   EXPECTED IMPACT
+
+                                               Unit of                          Baseline                          Final
+                Indicators                                       Baseline                         Year                                         Means of verification
+                                             measurement                          year                           target
+
+    IMPACT #1
+    Difference between the
+    logarithm of the cost per dwelling
+    in the new Tacumbú                                                                                                        Real estate experts’ measurements of housing
+                                                    %                 0           2018            2026             15
+    neighborhood (per m 2) and the                                                                                            prices in the existing and new Tacumbú
+    price per dwelling in the current                                                                                         neighborhoods
+    Tacumbú neighborhood (per m 2)
+    Reduction in the average
+    economic value of losses per                                                                                              Indicator of expected annual loss resulting from the
+    household due to climate                        %               N/A           2018            2026            501         climate risk evaluation model measurements of the
+    disasters, specifically floods, in                                                                                        existing and new Tacumbú neighborhoods
+    the Tacumbú neighborhood (%)
+    % of households that report that
+    they are satisfied with where                   %              2018            N/A            2026             15         Censuses taken at program start and end
+    they live
+
+
+
+
+1    This percentage will be reviewed when the model is run to establish the baseline, at which time it will be possible to make a better estimate since the risk is mitigated not eliminated.
+Annex II
+Page 2 of 6
+
+
+                                                                   EXPECTED OUTCOMES
+
+                                               Unit of                 Year      Year     Final
+                 Indicators                                Baseline                                              Means of verification
+                                             measurement              Baseline   2026    target1
+  OUTCOME #1:
+  Component I: Quality urban infrastructure and affordable housing financed in the Tacumbú neighborhood in line with sustainable urban planning
+  standards
+                                                                                                   Baseline and follow-up surveys of a panel of
+  Household wealth index                        Index        N/A       2018      12%     +12%
+                                                                                                   families
+  % of households with formal ANDE
+  electricity services that have paid for
+                                                                                                   ANDE report with the number of connected
+  the services in the past month over all        %           N/A       2018       90       90
+                                                                                                   households that paid in the past month
+  households surveyed (measured at
+  6 months after relocation)
+
+  % of households with formal ESSAP                                                                Final works report
+  water and sanitation services that have                                                          Technical verification audit reports
+  paid for the services in the past month        %           N/A       2018       90       90      Semiannual and annual program monitoring
+  over all households surveyed                                                                     reports prepared by the DIPE
+  (measured at 6 months after relocation)                                                          Censuses taken at program start and end
+  Percentage of households that report                                                             Censuses taken at program start and end
+  having used at least one community             %           N/A       2018      +30%    +30%      Community facilities include: 2 community
+  facility at least once in the past month                                                         centers and 1 fishermen’s center
+  Percentage of households that report                                                             Censuses taken at program start and end
+  having used at least one social facility       %           N/A       2018      +30%    +30%      Social facilities include: 2 schools and 2 health
+  at least once in the past month                                                                  centers
+  Percentage of households that live in                                                            Semiannual and annual program monitoring
+  the program dwellings after six months,                                                          reports prepared by the DIPE
+                                                 %            0        2018       90       90
+  over the total households assigned a
+  dwelling                                                                                         Final program census
+                                                                                                                                                     Annex II
+                                                                                                                                                   Page 3 of 6
+
+
+
+                                                 Unit of                     Year      Year     Final
+                Indicators                                       Baseline                                             Means of verification
+                                               measurement                  Baseline   2026    target1
+OUTCOME #2:
+Component II: Upgrading of Tacumbú’s green infrastructure
+Improvement of the quality of the Yrupé
+                                               BOD5 in mg/l        24        2018       10       10      Water quality reports at program start and end
+lagoon
+% of dwellings with collection services
+                                                     %             21        2018      100      100      Censuses taken at program start and end
+over total dwellings registered
+Number of climate change mitigation
+                                               # of mitigation
+and adaptation measures reported by
+                                                    and                                                  Semiannual and annual program monitoring
+DIPE to the National Climate Change                                 0        2018       10       10
+                                                 adaptation                                              reports prepared by the DIPE
+Office of the Ministry of Environment
+                                                 measures
+and Sustainable Development
+OUTCOME #3:
+Component III. Creation of conditions of economic and institutional sustainability and improvement of the families’ adaptive capacities
+% of households that have knowledge                                                                      Survey of a panel of households at program start
+                                                     %             N/A       2018      +30      +30
+of basic environmental care activities                                                                   and end
+% of participants in the job training
+                                                     %             N/A       2018       90       90      Censuses taken at program start and end
+activities that obtain certificates
+% of female participants in the job
+                                                     %             N/A       2018       50       50      Censuses taken at program start and end
+training activities that obtain certificates
+Difference in the unemployment rate in
+                                                                                                         Censuses taken at program start and end and
+the neighborhood compared to the                 Percentage
+                                                                   -3%       2018      -2.7%   -2.7%     comparison of the difference from data from the
+average employment rate in the                     points
+                                                                                                         Bureau of Statistics, Surveys, and Censuses
+Asunción metropolitan area
+                                                                                                         Based on the questions on the acceptance of
+Decrease in social acceptance of                 Percentage                                              intimate partner violence in the Demographic and
+                                                                   N/A       2018      20%      20%
+domestic gender-based violence                     points                                                Health Surveys empowerment module
+                                                                                                         (5 questions listed under item 826)
+Annex II
+Page 4 of 6
+
+
+                                                                     OUTPUTS
+                                                 Year 1   Year 2   Year 3   Year 4   Year 5   Year 6    Final
+   Output indicators        Unit      Baseline                                                                       Means of verification
+                                                  2020     2021     2022     2023     2024     2025    target
+ COMPONENT I. SUSTAINABLE URBAN INFRASTRUCTURE
+ P1. Hydraulic filling
+                          Hectares       0       10.25    18.46     6.29       0       0        -       35      Works progress certificate
+ completed
+ P2. Urban
+                             #                                       1                          -        1      Works progress certificate
+ infrastructure built
+ P2.1. Number of
+                                                                                                                Detailed designs for:
+ detailed designs            #           0         1        2        -         -       -        -        3
+                                                                                                                (i) infrastructure and (ii) housing
+ completed
+ P2.2. Linear meters of
+ drinking water network    Meters        0         -      2,949    2,051       -       -        -      5,000    Works progress certificate
+ installed
+ P2.3. Number of
+                            # of
+ individual residential
+                          connec-        0         -      1,000     500        -       -        -      1,500    Works progress certificate
+ sanitary sewer
+                           tions
+ connections
+ P2.4. Linear meters of
+ sanitation network        Meters        0         -      2,949    2,051       -       -         -     5,000    Works progress certificate
+ installed
+ P2.5. Number of
+                            # of
+ individual residential
+                          connec-        0         -      1,000     500        -       -         -     1,500    Works progress certificate
+ water connections
+                           tions
+ finished
+ P2.6. Square meters
+ of roadways
+ constructed (including
+                            m2           -         -      52,260   36,240      -       -        -      88,500   Works progress certificate
+ pavement, storm
+ drainage, and street
+ lighting)
+
+ P3. Number of              # of                                                                                Works progress certificate. The
+                                         -         -        -       433      567      500       -      1,500    dwellings fulfill the basic
+ dwellings built          dwellings
+                                                                                                                characteristics and
+                                                                                                                                       Annex II
+                                                                                                                                     Page 5 of 6
+
+
+                                               Year 1   Year 2   Year 3   Year 4   Year 5   Year 6    Final
+  Output indicators       Unit      Baseline                                                                      Means of verification
+                                                2020     2021     2022     2023     2024     2025    target
+                                                                                                              classifications established in
+                                                                                                              the master plan and agreed
+                                                                                                              upon with the community:
+                                                                                                              (1) 90 m2 plot and 60 m2
+                                                                                                              dwelling; (2) 140 m2 plot and
+                                                                                                              60 m2 dwelling; (3) 180 m2 plot
+                                                                                                              and 80 m2 dwelling; (4) 70 m2
+                                                                                                              duplex.
+COMPONENT II. GREEN INFRASTRUCTURE AND RESILIENCE
+P4. Environmental
+                                                                                                              Works progress certificate. The
+sanitation works and
+                                                                                                              works will include cleaning and
+recovery of bodies of
+                           #           0         -        -        2        -        1        -        3      strengthening the riverbanks
+water in the existing
+                                                                                                              and the removal of waste and
+Tacumbú
+                                                                                                              sediment.
+neighborhood area
+                                                                                                              Works progress certificate. The
+                                                                                                              natural zones will be
+P5. Natural buffer                                                                                            rehabilitated and protected
+zone areas                                                                                                    through forestation with native
+                        Hectares       0        10       20        0        0        0        -        30
+rehabilitated and                                                                                             flora, the creation of biological
+protected                                                                                                     corridors, and plans for the
+                                                                                                              management of unoccupied
+                                                                                                              areas.
+COMPONENT III. SOCIAL AND INSTITUTIONAL SUSTAINABILITY
+                                                                                                              Construction of social and
+                                                                                                              community facilities to include
+P7. Social and
+                          # of                                                                                2 community centers,
+community facilities                   0         -        -        -       11        -        -        11
+                        buildings                                                                             1 fishermen’s center, 2
+built
+                                                                                                              schools, 2 health centers, and
+                                                                                                              4 squares.
+P8. % of temporary
+                                                                                                              Transfer for the
+accommodation plan         %           0         -       20       30       30       20        -       100
+                                                                                                              accommodation plan
+executed
+Annex II
+Page 6 of 6
+
+
+                                                Year 1   Year 2   Year 3   Year 4   Year 5   Year 6    Final
+   Output indicators        Unit     Baseline                                                                      Means of verification
+                                                 2020     2021     2022     2023     2024     2025    target
+ P9. Number of health,
+ climate change, and
+ environmental                #         0         -        -        -        2        3        3        8      List of workshop participants
+ education workshops
+ held
+ P10. Number of job
+ training workshops                                                                                            List of training workshop
+                              #         0         -        -        1        2        2        1        6
+ with a gender focus                                                                                           participants
+ held
+ P11. Number of
+ workshops and
+ activities organized as
+ part of the
+ “Neighborhood without
+ Violence” program,
+ including activities to     #          0         -        -        1        3        3        3        10     List of activity participants
+ prevent gender and
+ domestic violence in
+ the neighborhood, as
+ part of the
+ neighborhood
+ outreach strategy
+                                                                                                               1 report with draft strategy and
+ P12. Outreach
+                             #          0         -        1        1        1        -        -        3      2 reports with evidence of
+ strategy developed
+                                                                                                               implementation
+ P13. Assisted             Persons
+                                        0         -        -       15       15       15       15        60     Contracts signed
+ resettlement               hired
+                                                                                     Annex III
+                                                                                   Page 1 of 6
+
+
+
+
+                     FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+
+
+ Country:                 Paraguay
+ Project name:            Housing and Rehabilitation Program for Bañado Sur in
+                          Asunción (Tacumbú neighborhood)
+ Project number:          PR-L1152
+ Executing agency:        Ministry of Public Works and Communications (MOPC)
+
+ Prepared by:             Fernando Glasman, Bruno Candia, and Jorge Luis Gonzalez
+                          (VPC/FMP)
+
+                               I.   EXECUTIVE SUMMARY
+
+1.1   The institutional assessment for the fiduciary management of the project was
+      conducted based on: (i) the fiduciary context of the country; and (ii) the findings from
+      the fiduciary risk assessment and the project risk management workshop; and
+      (iii) working meetings with the project team. This assessment was used to prepare
+      the fiduciary agreements on procurement and financial management applicable to
+      project execution.
+
+      II. FIDUCIARY CONTEXT OF THE COUNTRY AND THE EXECUTING AGENCY
+
+2.1   Overall, the country systems for financial management have a medium level of
+      development. However, these systems must be supplemented for the execution of
+      Bank-financed projects. Specific financial reports are prepared through auxiliary
+      accounting systems. Financial control tools such as the Integrated Financial
+      Administration System (SIAF), the Integrated Accounting System, and other
+      subsystems allow executing agencies to manage payment transfers to suppliers
+      under acceptable conditions through the Central Bank of Paraguay. The integration
+      of these tools will make it possible to prepare audited financial statements for a
+      program or project in the SIAF in the future. Until then, parallel systems are used.
+      External control is currently handled by private auditing firms.
+2.2   The efficiency and transparency of the country system for public procurement has
+      greatly improved as a result of the creation of the governing body, the National Public
+      Procurement Department, which has made it possible to implement a transactional
+      platform for procurements with electronic procedures like the electronic reverse
+      auction, a system of suppliers, and the statistical information system. For Bank-
+      financed operations, the public procurement information system has been used, as
+      have the national electronic reverse auction and competitive bidding subsystems,
+      for the amounts and categories established in the agreement on the use thereof
+      signed by Paraguay and the Bank on 17 June 2014.
+2.3   The executing agency will be the MOPC, acting through the Office of Strategic
+      Projects (DIPE). The DIPE will be the unit that represents the executing agency in
+Annex III
+Page 2 of 6
+
+
+        program administration aspects. To that end, it will create a program coordination
+        unit (PCU) that will work together with the Office of the Deputy Minister for
+        Administration and Finance and the procurement operations unit.
+2.4     From the fiduciary management perspective, the executing agency is considered
+        medium risk, since the PCU and the fiduciary team that will be in charge of the
+        operation have yet to be created. However, historically, the MOPC has proven to do
+        good work and has: (i) a long track record in executing and managing similar
+        projects; (ii) proven prior experience in procurement under IDB regulations; and
+        (iii) solid internal control, financial, and administrative processes.
+
+               III. FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS
+
+3.1     The evaluations of the DIPE show that the opportunities for improvement should
+        focus on:
+        a. the design and development of the profiles of the PCU positions;
+        b. strengthening the accounting and internal control areas in Bank financial
+           management policies through courses and training sessions;
+        c. strengthening the procurement area with regard to Bank procurement policies.
+3.2     Procurement management. The DIPE was established in 2014 to strengthen the
+        execution of MOPC strategic projects. Today, the growing portfolio of projects under
+        MOPC administration represents a challenge to future execution. To mitigate this
+        risk, the DIPE will contract the fiduciary support of the Office of the Deputy Minister
+        for Administration and Finance and the procurement operations unit. Furthermore,
+        a program coordination unit (PCU) will be formed under the DIPE for project
+        execution. This new structure must be fortified with staff members who have
+        competence in and knowledge of the policies of multilateral organizations and
+        through specific workshops and courses on IDB procurement policies.
+3.3     Financial management. The program coordination unit must be created, which
+        means that a team must be assembled. To mitigate this risk, the Bank will provide
+        training on procurement and financial issues.
+
+      IV. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE LOAN CONTRACT
+
+4.1     The following agreements and requirements should be included in the special
+        provisions:
+        a. For the purposes of Article 4.10 of the General Conditions, the parties agree
+           that the exchange rate to be applied will be the one indicated in section (b)(i)
+           thereof. The agreed-upon exchange rate will therefore be the exchange rate in
+           effect on the date on which the approval currency or disbursement currency is
+           converted to the local currency of the borrower’s country. This program does
+           not have a local counterpart contribution. To determine the equivalent
+           expenditure amount to be reimbursed from the loan proceeds, the agreed-upon
+           exchange rate will be the exchange rate on the date of the reimbursement
+           request.
+                                                                                          Annex III
+                                                                                        Page 3 of 6
+
+
+         b. The annual financial statements for the program will be submitted within
+            120 days after the close of the fiscal year, and the final financial statements
+            will be submitted within 120 days after the date of the last disbursement.
+
+    V. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+5.1      The procurement policies that apply to this loan are the Policies for the Procurement
+         of Goods and Works financed by the Inter-American Development Bank (document
+         GN-2349-9) and the Policies for the Selection and Contracting of Consultants
+         financed by the Inter-American Development Bank (document GN-2350-9). The
+         Bank’s Board of Executive Directors also approved (document GN-2538-11) the use
+         of Paraguay’s public sector contracting electronic reverse auction and competitive
+         bidding subsystems (Law (2051/03). Use of other country systems approved after
+         project approval will be adopted automatically and so indicated in the procurement
+         plan.
+         Procurement execution
+5.2      Procurement of works, goods, and nonconsulting services. Contracts for
+         works, goods, and nonconsulting services1 subject to international competitive
+         bidding (ICB) will be executed using the standard bidding documents issued by the
+         Bank. In turn, the bidding processes subject to national competitive bidding (NCB)
+         will be executed using national competitive bidding documents agreed upon with the
+         Bank. The project’s sector specialist will be responsible for reviewing the technical
+         specifications for procurement during the preparation of selection processes. No
+         direct selection processes are initially planned.
+5.3      Selection and contracting of consultants. Contracts for consulting services
+         generated under the project will be executed using the standard request for
+         proposals issued by or agreed upon with the Bank. The project's sector specialist is
+         responsible for reviewing the terms of reference for procuring consulting services.
+         a. Selection of individual consultants. Pursuant to procurement policies
+            contained in document GN-2350-9.
+         b. Training. Procurement workshops will be held.
+         c. Use of country systems. Pursuant to document GN-2538-11 of
+            October 2013, the use of Paraguay’s public procurement system electronic
+            reverse auction and competitive bidding subsystems in Bank-financed
+            operations will apply to:
+               (i)   All contracts for goods and nonconsulting services subject to the use of
+                     the electronic reverse auction procedure under Paraguay’s public
+                     procurement system and involving amounts below the Bank’s
+                     established threshold for the shopping method for off-the-shelf goods
+                     (for reference, US$250,000);
+              (ii)   All contracts for works involving amounts below the Bank’s established
+                     threshold for use of the shopping method for complex works (for
+
+1   Policies for the Procurement of Goods and Works Financed by the Inter-American Development Bank
+    (document GN-2349-9) paragraph 1.1: Nonconsulting services are treated as goods.
+Annex III
+Page 4 of 6
+
+
+                         reference, US$250,000), and contracts for goods and nonconsulting
+                         services up to the amount established by the Bank for the use of the
+                         shopping method for complex goods and services (for reference,
+                         US$50,000).
+                 (iii)   Contracts for amounts equal to or greater than the aforementioned
+                         amounts will be governed by Bank policies (document GN-2349-9).
+5.4        Section 1 of the Bank policies (document GN-2349-9) will remain applicable to all
+           executed contracts, regardless of the amount or procurement method. Any system
+           or subsystem approved subsequently will be applicable to the operation. The
+           procurement plan for the operation and updates thereto will indicate which
+           procurement processes are to be executed using the approved country systems.2
+5.5        Advance procurement/Retroactive financing. Not planned under this operation.
+5.6        Domestic preference. Not planned under this operation.
+
+          Table 1. Thresholds for international competitive bidding and international short list (US$)
+                                                  ICB goods and                  International shortlist for
+           Method           ICB works
+                                               nonconsulting services               consulting services
+          Threshold          3,000,000               250,000                              200,000
+
+
+                                         Table 2. Main procurement items
+                                                                                                    Estimated
+                                                                                      Process
+                                 Activity                                 Method                     amount
+                                                                                      number
+                                                                                                      (US$)
+    Works
+    Contracting of construction firm to build the dwellings. (Two sets)    ICB            3         45,000,000
+    Contracting of construction firm for public utilities works            ICB            2         11,160,000
+    Contracting of construction firm for the hydraulic filling             ICB            1         9,765,000
+    Contracting of construction firm for the recovery of riverbeds,
+    cleanup of the Yrupé lagoon, and recovery of the natural buffer        ICB            4         8,709,780
+    zones
+    Contracting of construction firm for social and community
+                                                                           ICB            5         5,000,000
+    facilities
+    Nonconsulting services
+    Temporary relocation plan                                              ICB                      3,750,000
+    Consulting firms
+    Contracting of oversight for the construction of the housing          QCBS           10         3,150,000
+    Consulting service to develop the detailed designs and permits
+                                                                          QCBS            8         2,000,000
+    for urban infrastructure and housing
+
+
+
+
+2    If another system or subsystem is approved by the Bank, it will be applicable to the operation, in
+     accordance with the loan contract.
+                                                                                                   Annex III
+                                                                                                 Page 5 of 6
+
+
+                                             Table 3. Categories
+                                 Categories                 Total amounts (US$)
+                                   Works                          79,364,180
+                                   Goods                             350,000
+                          Nonconsulting services                   3,750,000
+                              Consulting firms                    11,237,220
+                           Individual consultants                  2,296,800
+                             Training sessions                       500,000
+                          Total, procurement plan                 97,768,800
+
+
+
+5.7       Procurement supervision. All procurement and/or contracting processes
+          governed by the procurement policies GN-2349-9 and GN-2350-9 will be subject to
+          ex ante review by the Bank, taking into account the position of the Ministry of Finance
+          on the matter. Supervision of all procurement processes governed by Paraguay's
+          public sector contracting electronic reverse auction and competitive bidding
+          subsystems (document GN-2538-11) will be conducted under the country system.3
+5.8       Special provisions. No special provisions are anticipated other than those
+          indicated in paragraph 4.1.
+5.9       Records and files. Project reports will be prepared and filed using the systems,
+          formats, and procedures available to or agreed upon with the Bank.
+
+       VI. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR FINANCIAL EXECUTION
+
+      Financial management
+6.1       Programming and budget.
+          a. The DIPE, under the authority of the Office of the Minister for Public Works and
+             Communications, will centrally coordinate execution, with support from the
+             Office of the Deputy Minister for Finance and its bureaus, as necessary.
+          b. The PCU, under the DIPE, will be responsible for budget programming,
+             administration, and execution, under the zero-based budget system.
+6.2       Accounting and information systems. The country uses modified cash basis
+          accounting; however, cash basis accounting is used for IDB-financed project
+          accountability processes.
+          a. Information systems. The DIPE will have access to the SIAF through the
+             Financial Management Department. The country systems do not issue the
+             reports required by the Bank. These reports are prepared using different
+             systems, which creates additional work for the DIPE and the procurement
+             operations unit.
+          b. Disbursements and cash flow. Program disbursements will typically be made
+             through advances of funds, which must be corroborated through the monthly
+             presentation of one itemized financial plan for up to six months, and one for a
+
+3   Depending on the scope of system use, supervision may be supplemented by project audits. If so, it should
+    be indicated herein.
+Annex III
+Page 6 of 6
+
+
+               longer period, which can be used to determine the program’s actual demand
+               inferred from the multiyear execution plan, annual work plan, and procurement
+               plan. The second and subsequent disbursements will be subject to justification
+               of at least 80% of the previous advance. If requested, disbursements may also
+               be made as direct vendor payments or reimbursements for payments made.
+        c. Exchange rate. The exchange rate agreed upon with the executing agency for
+           reporting will be the monetization exchange rate, unless the Ministry of Finance
+           in its capacity as borrower decides otherwise during the loan negotiations.
+        d. Internal control and internal audit. There is an advanced level of internal
+           control.
+        e. External control and reports. The executing agency will deliver annual
+           program audit reports prepared by an independent auditing firm acceptable to
+           the Bank, in accordance with the terms of reference previously approved by
+           the Bank. The project’s financial statements include a cash flow statement,
+           statement of accrued investment income, the notes to these financial
+           statements, and the statement from the project management team (executing
+           agency). The audit report will include an evaluation of the internal control
+           system.
+        f.     An eligible-level independent auditing firm will be selected for the project.
+        g. External audits will be paid for with loan proceeds and are estimated to cost
+           US$250,000 over the planned six years of loan execution.
+        h. Financial supervision plan. Financial supervision may be adjusted based on
+           project execution and audit reports.
+
+                                        Table 4. Financial supervision plan.
+
+                                                Nature/scope                                 Frequency
+
+             Ex post review of disbursements                                                  1 per year
+             Financial audit and delivery of financial statements                               Annual
+                                                                                             2 or 3 times
+             Review of disbursement requests and attached reports
+                                                                                               per year
+             Inspection visit/analysis of internal controls and control environment at the
+                                                                                               Annual
+             executing agency
+
+
+6.3     Execution mechanism: As defined in section III. A of the loan proposal.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-__/18
+
+
+
+     Paraguay. Loan ____/OC-PR to the Republic of Paraguay. Housing and Rehabilitation
+               Program for Bañado Sur in Asunción (Tacumbú Neighborhood)
+
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be necessary
+with the Republic of Paraguay, as Borrower, for the purpose of granting it a financing to cooperate in
+the execution of the Housing and Rehabilitation Program for Bañado Sur in Asunción (Tacumbú
+Neighborhood). Such financing will be for an amount of up to US$100,000,000 from the Ordinary
+Capital resources of the Bank, and will be subject to the Financial Terms and Conditions and the
+Special Contractual Conditions of the Project Summary of the Loan Proposal.
+
+
+
+                              (Adopted on ___ ____________ 2018)
+
+
+LEG/SGO/CSC/EZSHARE-746870777-11447
+PR-L1152
+

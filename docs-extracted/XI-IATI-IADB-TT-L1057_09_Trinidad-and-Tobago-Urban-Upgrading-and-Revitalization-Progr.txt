@@ -1,0 +1,2009 @@
+                                                                                         PUBLIC
+
+
+
+                    DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                      TRINIDAD AND TOBAGO
+
+
+
+
+                 URBAN UPGRADING AND REVITALIZATION PROGRAM
+
+                                       (TT-L1056 AND TT-L1057)
+
+
+
+
+                                            LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Robin Rajack, Team Leader
+(HUD/CBA); Gilberto Chona, Alternate Team leader; Paloma Silva, Dianela Avila and Beatriz
+González (CSD/HUD); Luca Marini, and Maria Elena Castro-Munoz (VPS/ESG); Leonor Corriols,
+Paula Louis-Grant and Jeremy Valentine-Harry (FMP/CTT); Kavita Maharaj and Priya
+Ramsumair-John (CCB/CTT); Christopher Persaud (INE/TSP); Marcelo Consolo (TSP/CTT);
+Gilroy Lewis (WSA/CTT); Ana Cuesta (SPD/SDV); Juliana Almeida and Esperanza Gonzalez
+(CSD/CCS); and Louis Francois Chretien (LEG/SGO).
+
+
+Under the Access to Information Policy, this document is subject to public disclosure.
+                                                       CONTENTS
+
+
+
+PROJECT SUMMARY ........................................................................................................... 1
+
+
+I.     PROJECT DESCRIPTION AND RESULTS MONITORING ................................................... 2
+
+        A.      Background, problem addressed, and justification .............................. 2
+        B.      Objective, components, and cost ......................................................... 9
+        C.      Key results indicators ......................................................................... 13
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ................................................................. 14
+
+        A.      Financing instruments ........................................................................ 14
+        B.      Environmental and social safeguard risks ......................................... 15
+        C.      Fiduciary risk...................................................................................... 16
+        D.      Other risks and key issues ................................................................. 16
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................. 18
+
+        A.      Summary of implementation arrangements ....................................... 18
+        B.      Summary of arrangements for monitoring results .............................. 20
+                                            - ii -
+
+
+
+
+                                         ANNEXES
+Annex I     Summary Development Effectiveness Matrix (DEM)
+Annex II    Results Framework
+Annex III   Fiduciary Arrangements
+
+                             REQUIRED ELECTRONIC LINKS (REL)
+REL#1       Pluriannual Execution Plan (PEP) / Annual Operational Plan (AOP)
+REL#2       Monitoring and Evaluation Arrangements
+REL#3       Environmental and Social Management Report (ESMR)
+REL#4       Procurement Plan
+
+
+                             OPTIONAL ELECTRONIC LINKS (OEL)
+OEL#1       Analysis of Project Cost and Economic Viability
+OEL#2       Operating Manual (Operating Regulations for Component 3)
+OEL#3       Gender Analysis
+OEL#4       Project Completion Report for TT-L1016; 2469/OC-TT
+OEL#5       Public Utilities Policy
+OEL#6       Climate Change Analysis
+OEL#7       Reference list
+OEL#8       Safeguard Policy Filter (SPF) and Safeguard Screening Form (SSF)
+                                       - iii -
+
+
+                              ABBREVIATIONS
+AOP      Annual Operational Plan
+CTB      Central Tenders Board
+EPOSDC   East Port of Spain Development Company
+ESA      Environment and Social Assessments
+ESMF     Environmental and Social Management Framework
+ESMP     Environmental and Social Management Plan
+ESMR     Environmental and Social Management Report
+ESS      Environmental and Social Strategy
+GDP      Gross Domestic Product
+HDC      Housing Development Corporation
+IDB      Inter-American Development Bank
+LSA      Land Settlement Agency
+MDB      Multilateral Development Bank
+MHUD     Ministry of Housing and Urban Development
+MWP      Multiple Works Program
+NIPDEC   National Insurance Property Development Company Limited
+NPV      Net Present Value
+NSDS     National Spatial Development Strategy
+NUP      Neighborhood Upgrading Program
+OM       Operating Manual
+OPR      Office of Procurement Regulation
+PCR      Project Completion Report
+PEFA     Public Expenditure and Financial Accountability
+PEP      Pluriannual Execution Plan
+PFMS     Public financial management systems
+PMCEU    Program Management, Coordinating and Evaluation Unit
+PMR      Progress Monitoring Report
+POS      Port of Spain
+PPDPP    Public Procurement and Disposal of Public Property
+PPS      Public-Private Partnerships
+SAI      Supreme Audit Institution
+SIL      Specific Investment Loan
+THA      The Tobago House of Assembly
+TTMF     Trinidad and Tobago Mortgage Finance Company
+WASA     Water and Sewerage Authority
+                                                     PROJECT SUMMARY
+                                                    TRINIDAD AND TOBAGO
+                                         URBAN UPGRADING AND REVITALIZATION PROGRAM
+                                                     (TT-L1056 AND TT-L1057)
+                                                   Financial Terms and Conditions
+ Borrower                                                                                     Flexible Financing Facility(a)
+ Republic of Trinidad and Tobago                                                   Amortization Period:        24 Years
+ Executing Agency                                                                  Disbursement Period:        6 Years
+ Ministry of Housing and Urban Development (MHUD)
+                                                                                   Grace Period:               6.5 Years (b)
+                                         Amount
+           Source                      (US$ million)            Total      %
+                                                                                   Interest rate:              LIBOR Based
+                                 TT-L1056        TT-L1057
+                                                                                                               (c)
+ IDB (Ordinary Capital):           32.5            17.5        50.0      100       Credit Fee:
+                                                                                   Inspection and              (c)
+                                                                                   Supervision Fee:
+                                                                                   Weighted Average Life
+                                                                                                               15.25 Years
+                                                                                   (WAL):
+ Total:                            32.5            17.5        50.0      100
+                                                                                                               Dollars of the United
+                                                                                   Currency of Approval:
+                                                                                                               States of America
+                                                         Project at a Glance
+ Project Objective/Description: The general objective of the program is to contribute to the improvement of the quality of the urban
+ built environment. The specific objectives are to: (i) improve the habitability in urban settlements on State-owned lands; and
+ (ii) improve the physical quality and economic performance of urban public spaces; (iii) enhance housing conditions for low income
+ households; and (iv) strengthen the capacity of supply side stakeholders to satisfy effective housing demand.
+ Special Contractual Clauses prior to the First Disbursement: the executing agency will provide evidence to the satisfaction of
+ the Bank of: (i) the establishment of the Program Management, Coordinating and Evaluation Unit (PMCEU) and of the assignment
+ or hiring by the executing agency of a program director, a financial specialist, a monitoring and evaluation specialist, a procurement
+ specialist, and an environmental and social specialist; and (ii) its approval of the Operating Manual (OM) of the program, in
+ accordance with the terms previously agreed upon with the Bank (¶3.4). See also other special contractual conditions in Annex B of
+ the Environmental and Social Management Report (ESMR).
+ Special Contractual Clauses of Execution: the executing agency will provide evidence to the satisfaction of the Bank: (i) prior to
+ the disbursement of loan resources for Component 1 activities in Trinidad, that an agreement has been entered into between the
+ executing agency and the Land Settlement Agency (LSA) for the execution for such activities; and (ii) prior to the disbursement of
+ loan resources for the execution of Components 1, 2 and 3 activities in Tobago, that an agreement has been entered into between
+ the executing agency and the Tobago House Assembly (THA) for the execution of such activities (¶3.5). See also other special
+ contractual conditions in Annex B of the Environmental and Social Management Report (ESMR).
+ Exceptions to Bank Policies: None.
+                                                                Strategic Alignment
+ Challenges(d):                                 SI                              PI                             EI
+
+ Cross-Cutting Themes(e):                      GD                              CC                              IC
+(a)
+      Under the Flexible Financing Facility (document FN-655-1), the borrower has the option to request modifications to the amortization schedule, as
+      well as currency, interest rate and commodity conversions. In considering such requests, the Bank will take into account operational and risk
+      management considerations.
+(b)
+      Under the flexible repayment options of the Flexible Financing Facility (FFF), changes in the grace period are possible as long the Original
+      Weighted Average Life (WAL) and the last payment date, as documented in the loan agreement, are not exceeded.
+(c)
+      The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors during its review of the
+      Bank’s lending charges, in accordance with the relevant policies.
+(d)
+      SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration).
+(e)
+      GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional Capacity and Rule of Law).
+                                                        -2-
+
+
+
+
+                      I.       PROJECT DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and justification
+
+1.1       Trinidad and Tobago is slowly recovering from a deep economic recession. The
+          economy contracted by 6.5% in 2016, another 1.9% in 2017 and remained roughly
+          flat in 2018 and 2019 [22].1 As a result of a fiscal consolidation program, public
+          debt has stabilized, measuring 62.2% of Gross Domestic Product (GDP) [2] at
+          the end of 2018. Going forward, the economy is expected to grow by 1.5% in
+          2020 [22], however, volatility in energy prices and production volumes,
+          underscores the need for continued discipline in public expenditure, even as the
+          Government of Trinidad and Tobago attempts to stimulate growth and reduce
+          inequity.
+
+1.2       The Government is committed to improving equity, efficiency, and sustainability in
+          the urban built environment.2 This program will finance a needed extension of
+          informal settlement upgrading, affordable housing finance programs, and
+          institutional strengthening activities implemented under the recently concluded
+          Neighborhood Upgrading Program - NUP (TT-L1016; 2469/OC-TT). It will,
+          however, prioritize upgrading and improvements in housing quality in the main
+          urbanized corridors and also contribute to the revitalization of urban centers,3 as
+          part of a strategy to foster a pattern of more sustainable built development. The
+          program will be executed through two different loan modalities, a Multiple Works
+          Program (MWP), TT-L1056, and a Specific Investment Loan (SIL), TT-L1057.
+
+1.3       High incidence of informal settlement. An international analysis of 87 countries
+          found that with close to 30% of its urban population squatting 4 in 2005, Trinidad
+          and Tobago has a much higher incidence of slum population than expected,5 given
+          its high GDP per capita [14]. One in every five households is squatting [30] and in
+          2019, the Land Settlement Agency (LSA) mapped 250 squatter sites that are
+          known to be predominantly on State lands, with the most populous located in urban
+          areas. The LSA identified a further 60 sites as also possibly being predominantly
+          on State land. In Trinidad, which is 71% urbanized, such settlements in urban
+          areas are often on hillsides or close to water courses, increasing their vulnerability
+          to natural disasters and high impact rainfall events associated with climate
+          change-vulnerability that upgrading interventions typically reduce. In squatter
+          sites, not only are the land tenure, road layout and buildings typically irregular, but
+          squatter households are twice as likely (15% vs 8%) to lack piped-water and three
+          times more likely (26% vs 9%) to use pit-latrines, than non-squatter households,
+          which poses potential implications for household health and disproportionate
+          impacts on women and female-headed households [1]. Squatter sites are also
+
+1     Optional electronic link OEL#7 contains the bibliographic references identified by the number in brackets [#].
+2     Commonly understood to include man-made features such as buildings, infrastructure, and public facilities in
+      urban centers and along urban corridors.
+3     Commonly understood as city or town areas where there is proximity to a range of commercial, retail, and
+      public administration activities and a concentration of employment opportunities.
+4     Squatting is commonly understood as the occupation of land without the expressed authorization of the
+      owner.
+5     Generally understood as heavily populated urban areas characterized by substandard housing and poor living
+      conditions due to deficient or missing basic services.
+                                                      -3-
+
+
+          notable for irregular and sometimes illegal electricity connections, and for a lack of
+          fire hydrants, increasing their risks of significant fire-related losses. More generally,
+          inadequate housing and infrastructure conditions have been shown to be
+          associated with lesser life satisfaction [23, 6].
+
+1.4       Improving the habitability in informal settlements will improve the quality of the
+          urban built environment and directly impact the quality of life of low-income
+          households6 living in those communities since among other things, it will provide
+          the convenience and security of an access to each home that does not require
+          passing through a neighbor’s yard, drain, river, or informal path. In many cases,
+          vehicles, will now be able to travel directly to the homes, providing significant
+          convenience and improved safety. Improved habitability will also reduce the
+          inconvenience, risks and costs associated with not having potable water supply
+          and indoor water closet toilets – an inconvenience disproportionately borne by
+          women who do the majority of household chores such as: cooking, laundry, and
+          cleaning. Servicing greenfield sites located close to economic centers with basic
+          infrastructure and systematically allocating the serviced-plots to low-income
+          households will also help to improve the urban built environment by providing an
+          alternative to new informal settlement.
+
+1.5       Housing unaffordability. Nationally, the House-Price-to-Wages ratio was
+          consistently over 10:1 for the period between the mid-1990s and 2015 [18], much
+          higher than the 3:1 threshold of affordability defined by international standards [4].
+          This is likely the result of a mismatch between demand and formal supply. The
+          National Spatial Development Strategy (NSDS) of 2013 estimated an annual
+          housing demand of 5,000 units per year up to 2033 to cater for the formation of
+          new households, as well as replacement of aging housing stock [9]. There is,
+          however, an acute shortage of formal housing for low-income- households,7
+          evidenced in part by squatting (settlement on land without the authorization of the
+          owners – described above) and a waiting list for state-supplied housing that
+          exceeds 175,000 applicants according to the Housing Development Corporation
+          (HDC) of which approximately 50% do not meet the minimum qualification criteria
+          for a state subsidized mortgage for the typical unit produced by the HDC. In the
+          housing production chain, the country’s rankings in the World Bank’s 2019 Doing
+          Business Rankings [36] for enforcing contracts, land registration and construction
+          permitting, of 174th, 158th and 125th, respectively, are illustrative of systemic
+          challenges in improving formal housing supply efficiency.
+
+1.6       Women, and in particular low-income households headed by women,8 are
+          disproportionately affected by housing unaffordability, given that the ratio of
+          women's earnings to men's is estimated at 0.64 [37] and that women are 15
+          percentage points less likely than men to borrow from financial institutions.9 In
+          addition, almost 1 in 3 women have or will experience some form of physical or
+
+6     To be understood as household income of TT$96,000 or less per year or TT$8,000 or less per month -slightly
+      less than the TT$8,500 median monthly, household income as determined by the CSO from its 2014,
+      Continuous Sample Survey of Population (CSSP).
+7     To be understood as having a household income of TT$8,000 or less per month or TT$96,000 or less per
+      year.
+8
+      40% of households were female-led in 2018 [27].
+9     According to data from the Global Findex, only 20% of the women in Trinidad and Tobago borrowed from a
+      financial institution in 2017, compared to 35% of men [34].
+                                                 -4-
+
+
+          sexual violence in their lifetime in Trinidad and Tobago [28], which indicates the
+          importance of ensuring that women and their children have access to adequate
+          housing and the means to be financially independent. However, gender challenges
+          also extend to adolescent and young men who are at-risk of joining street gangs
+          and engaging in violence (many of whom live in informal settlements in urban
+          areas), given their lower performance and expected years of schooling.10 (See
+          OEL#3).
+
+1.7       These affordability and informal settlement challenges occur in a context of
+          sub-urbanization and the neglect of urban centers. The main urban centers,
+          including Port of Spain (POS), San Fernando and Chaguanas in Trinidad, and
+          Scarborough in Tobago, have all seen a significant increase in suburban
+          development (residential and mixed-use development on the outskirts of the urban
+          centers), while their core areas are congested by slow-moving vehicular traffic,
+          lacking in new investments and high quality public space, and aesthetically
+          unattractive. As in San Fernando, the waterfront in Scarborough is
+          underdeveloped and underutilized. In fact, a 2012 regional analysis based on
+          2007 Gallup Survey data ranked local respondents’ overall satisfaction with the
+          city or area in which they live 21st out of 24 countries [14].
+
+1.8       While the POS waterfront was significantly redeveloped with the completion of the
+          International Waterfront Center in 2009, the Central Business District has not seen
+          comparable investment, and in some sections, value is being undermined by
+          vacant sites in prime locations; old and poorly maintained facilities, such as public
+          malls. One of them, Eastside Plaza on Charlotte Street, a building of historical
+          import given that it was the site of the original market of the city and has rare
+          architectural features, is badly in need of retrofits and modernization. Such facilities
+          and vacant sites, blight surrounding properties and are sometimes characterized
+          by unsafe conditions for tenants and customers.
+
+1.9       In this context, the national pattern of housing and built environment expansion is
+          unsustainable. The administratively determined capital city, POS, and the second
+          city, San Fernando, experienced declines of 24% and 12% respectively [7],
+          between the 2000 and 2011 censuses [9]. At the same time, five of the six Regional
+          Corporations in Trinidad that experienced the largest population growth between
+          the 2000 and 2011 censuses have extremely low population densities by urban
+          standards (less than five persons per hectare). Similarly, a 2018 analysis found
+          that the rapid spatial expansion of the Scarborough and Roxborough built up areas
+          in recent decades has been very inefficient [21]. Overall, this pattern of dispersed
+          housing and built-environment growth is creating a growing fiscal and
+          environmental cost [5].
+
+1.10      Improving the physical quality and economic performance of public spaces in
+          urban centers will contribute to the improvement in the quality of the urban built
+          environment by creating conditions that enhance productivity and encourage more
+          customer and visitor traffic. Project investments in structural features such as site
+          infrastructure, building reinforcements, updated mechanical and electrical
+          systems, cost-saving green-building technologies, and better site layout
+          functionality, will facilitate higher levels of productivity and lower risk for those who
+
+10    According to the United Nations Development Programme (UNDP) 2018 Human Development Index.
+                                                  -5-
+
+
+         perform economic activities on the site. Streetscaping infrastructure (e.g.
+         sidewalks, benches, exercise and play equipment, and shade trees), as well as
+         design features that maximize site views, more functional circulation of visitors,
+         better visibility for shop frontages, improved accessibility (e.g. elevators and
+         ramps), and attention to comforts and safety (e.g. air-conditioning and security
+         cameras), enhance the visitor experience, encouraging more visitors, longer stays,
+         higher demand to host events on site, all of which should add to patronage of
+         businesses on or proximate to the site. Overall, the project investments should
+         generate higher economic rents and more employment for the target sites and
+         adjacent areas, adding to the attractiveness of the urban area.
+
+1.11     Qualitative urban housing deficits. In addition to the high incidence of
+         informality, housing in urban areas is older than the rest of the stock and suffers
+         from significant qualitative deficits. According to the 2011 Census, 71% of the stock
+         in POS, and over 50% in the adjoining populous urban areas of Diego Martin and
+         San Juan/Laventille, as well as in San Fernando, was built prior to 1980. Analysis
+         of the 2014 nationally representative Survey of Living Conditions shows that
+         16.5% of the poorest households (lowest income quintile), had outer walls of their
+         houses made of wood or galvanize.11 In the same 2014 Survey, more than a third
+         (34.1%) of low-income households,12 was living in overcrowded conditions.13
+         Moreover, 2012 UN-Habitat Urban Profiling exercises found poor housing in terms
+         of durability, adequacy and design in the Greater POS Area [32], San Fernando
+         [33], and Scarborough, Tobago [34].
+
+1.12     Improving housing conditions for low-income households through home
+         construction and home improvement subsidies will directly enhance the urban built
+         environment and the quality of life of low-income households since it will alleviate
+         daily frustrations and burdens associated with inadequate living conditions such
+         as overcrowding, a leaking roof, an insecure outer wall, or an outdoor toilet facility
+         (pit latrine). Savings in usage on electricity and water through inclusion of
+         green technologies in new homes will also provide benefits associated with more
+         disposable income.
+
+1.13     Institutional capacity gaps. Beyond fixing the above-described short-term
+         problems in the existing housing stock, there is a need for sector studies to help
+         fill information gaps and position government policy and programming in the
+         medium-term. For example, systematic analyses of drainage, flood abatement and
+         waste-water management in the Diego Martin River Basin is needed. Similarly, a
+         determination of what constitutes appropriate development standards in densely
+         populated, urban, hillside-communities is needed if longer-term goals for full
+         regularization, including land titling are to be achieved. Likewise, medium-term
+         housing and urban development planning in Tobago would benefit from the
+         development of an Infrastructure Plan. Better-targeted interventions in informal
+         settlements and low-income housing programs require up-to-date socio-economic
+         information from an ongoing national survey of those settlements, and proper
+         analysis of the existing, extensive HDC application database. At the sector scale,
+         a more systematic analysis of housing demand and supply-chain constraints is
+
+11
+     Zinc-coated sheets of metal commonly used for roofing or fences.
+12   Lowest 2 income quintiles.
+13   Households were classified as overcrowded when there were 2 or more persons per bedroom.
+                                                         -6-
+
+
+         needed. Meanwhile, the Ministry of Housing and Urban Development (MHUD)
+         needs capacity strengthening to perform broader urban development roles, given
+         the findings of a recent SWOT analysis14 documented in its Strategic Plan
+         2018-2023, that noted lack of clarity in its urban development mandate and limited
+         innovation in solving housing problems [13]. This includes strengthening of
+         technical and information systems capacity in real estate management and spatial
+         analysis, and broader exposure to international learning through global and
+         regional conferences and exchanges with Spanish speaking counterparts in the
+         region.
+
+1.14     Government’s strategy for addressing the challenges of unaffordability and
+         informality have been dual-pronged. On the one hand there has been a systematic
+         program of informal settlement regularization on State lands for the last three
+         decades. On the other hand, with respect to affordability, the government has
+         augmented housing supply through construction of public housing units by the
+         Housing Development Corporation (HDC), servicing of some greenfield sites with
+         residential infrastructure, and by expanding housing finance. Regarding housing
+         finance, this has included subsidized interest rates through the Trinidad and
+         Tobago Mortgage Finance Company (TTMF) which in December 2018 received a
+         partial-credit guarantee of TT$120 million from IDB Invest – the IDB’s private
+         sector arm.
+
+1.15     At a more direct and modest scale, approximately four thousand low income
+         households benefitted from Home Improvement Subsidies and Home Construction
+         Subsidies under the operation 2469/OC-TT [12]. By the end of the operation
+         2469/OC-TT in 2017 there were hundreds of pre-screened applicants who were
+         deemed eligible but did not receive grants due to limitations on funding. These
+         limitations are reflected in the fact that the average recurrent expenditure allocated
+         to the MHUD in the 2017-2018 and 2018-2019 budget cycles was 34% less than
+         the allocation in 2012-2013.
+
+1.16     Regarding suburbanization and the neglect of urban centers, Government aims to
+         improve the functionality and attractiveness of urban centers as places to recreate,
+         do business, and even reside. As the NSDS puts it: “constraining the spatial
+         expansion of urban areas will only be effective if efforts and resources are
+         simultaneously directed towards improving the efficiency and quality of existing
+         urban areas” [8]. The Government is pursuing such measures through initiatives
+         such as the San Fernando Waterfront Redevelopment Project; the revitalization of
+         Skinner Park in San Fernando; the completion of the Government campus near
+         the waterfront in POS; and the restoration of several landmark, heritage buildings
+         in POS. With respect to Tobago, the NSDS calls for strengthening the urban fabric
+         of Scarborough to harness its cultural and tourism potential, and the Tobago
+         House of Assembly (THA) has begun to design a waterfront initiative to this effect.
+         Additionally, several regeneration investments in POS were identified in the
+         IDB-financed Sustainable POS Action Plan [16].
+
+
+
+
+14
+     SWOT analysis (strengths, weaknesses, opportunities and threats analysis) is a framework for identifying and
+     analyzing the internal and external factors that can have an impact on the viability of a project, product, place,
+     institution or person.
+                                            -7-
+
+
+1.17   Climate change and sustainability. Sustainability is an emerging theme in the
+       country’s development agenda. Trinidad and Tobago ranks 90th in the ND-GAIN
+       index [27] and faces hazards such as tropical storms, flooding, wind and heavy
+       rainfall. With climate change, expected temperature increases will result in longer
+       warm spells, longer hot and dry spells, an increase in intense rainfall, and
+       moderate to extreme drought. In 2018 the country experienced its worst flooding
+       in history, affecting 150,000 people and causing an estimated of US$3.7 million in
+       economic damages [3]. In some informal settlements, indiscriminate disposal of
+       solid waste into drainage channels and watercourses exacerbates flooding
+       vulnerabilities. In light of these threats, infrastructure and building designs need to
+       incorporate climate resilience and the sustainable use of energy and water,
+       consistent with Government’s policy on the greening of its operations [10].
+
+1.18   Program strategy. The program to be funded by this operation is part of the
+       MHUD’s ongoing strategy to address informal settlement regularization on State
+       lands, reduce the qualitative and quantitative housing deficits, and revitalize urban
+       centers. The program’s emphasis on consolidating the build development footprint
+       in urban centers and along the main urban corridors, and on minimizing dislocation
+       of households from economic and social networks, is fully consistent with the
+       emphasis of the New Urban Agenda developed at the United Nations flagship 2016
+       forum, HABITAT III. It is also consistent with the development approach embodied
+       in the National Spatial Development Strategy of 2014 [8,9] and guided by the 2010
+       Local Area Spatial Development Plans for practically all urban centers and areas
+       alongside the main urban corridors. In the case of proposed investments in or
+       around Port of Spain, there is also consistency with the Sustainable Port of Spain
+       Action Plan [16] produced under the IDB’s Emerging and Sustainable Cities
+       Initiative in 2015. Finally, the development strategy emphasized in this program is
+       congruent with the Government’s focus on sustainable urban mobility as embodied
+       in ongoing Technical Cooperation exercises, as well as the 2016 Analysis of Mass
+       Transit Alternatives for POS and the Main Urban Corridors of Trinidad [17].
+1.19   Sector knowledge. Based on Caribbean experiences, a recent IDB study found
+       that direct subsidies for self-construction were successful in addressing housing
+       deficits and that infrastructure upgrading was effective in reaching vulnerable
+       populations [19]. In relation to home construction subsidies, it has been shown that
+       the mechanism of combining household savings and the grant-voucher, was
+       successful in targeting poor populations [24]. In addition, according to other
+       regional studies in Latin America and the Caribbean, infrastructure upgrading
+       interventions can contribute to increased land and property values. Moreover,
+       research on Trinidad and Tobago has shown that augmenting perceptions of
+       tenure security through infrastructural works can be a reliable contributor to greater
+       home improvement and repair [29]. Looking at the English experience, Tyler et al
+       [31] concluded that benefit-cost ratios for urban regeneration projects range
+       between 2.4 and 3.5 on average, and between 5.9 to 7.9 for the kind of
+       regeneration projects included in the present program (urban markets and plazas).
+1.20   Lessons Learned. Regarding 2469/OC-TT, the Final Evaluation similarly
+       concluded that the housing subsidies/grants program was very successful in
+       controlling the amount of public investment, while leveraging private sweat equity
+       and cash contributions [12]. The Project Completion Report (PCR) for 2469/OC-TT
+       (OEL#4), recommends selecting future upgrading sites with high baseline
+       population density, and proximity to income-generating economic activities [20],
+                                            -8-
+
+
+       consistent with the focus in this new operation. Additional recommendations from
+       the PCR that were incorporated into the program design include: (i) inclusion of
+       regulatory agencies in the Steering Committee to facilitate better coordination on
+       regulatory approvals; (ii) inclusion of a dedicated Monitoring and Evaluation
+       Officer, in the executing agency; and (iii) timing the execution of institutional
+       strengthening activities to make use of potentially valuable inputs, and better
+       inform investment decisions.
+
+1.21   Strategic alignment. This operation is consistent with the Second Update to the
+       Institutional Strategy - UIS (AB-3190-2) and is expected to contribute to the
+       Corporate Results Framework 2020-2023 - CRF (GN-2727-12) through the
+       development challenge of: (i) Social Inclusion and Equality, by facilitating the
+       integration of informal settlers; and (ii) Productivity and Innovation, through its
+       contributions to enhanced economic performance of urban public spaces. It also
+       aligns to the cross-cutting themes of: (i) Gender Equality and Diversity, through its
+       targeting of female-headed households for housing grants and targeting of women
+       as well as at-risk young men for community-sourced labor in the upgrading of living
+       conditions in informal settlements; (ii) Climate Change and Environmental
+       Sustainability, through its drainage and flood-mitigation initiatives within upgrading
+       sites, and incorporation of green building technologies; and (iii) Institutional
+       Capacity and Rule of Law, through its training and information systems
+       management investments. According to the joint Multilateral Development Bank
+       (MDB) approach on climate finance tracking, 37.5% of total IDB funding result in
+       climate change mitigation and adaptation activities. The program contributes to the
+       IDBG’s climate finance goal of 30% of approvals by year’s end 2020” (OEL#6).
+
+1.22   The operation is consistent with the IDB Group Country Strategy with the Republic
+       of Trinidad and Tobago 2016-2020 (GN-2888), through the Strategic Area of
+       Fostering Human Development and the Strategic Objective of Increasing Access
+       to Quality Housing. It is also consistent with the Bank’s Disaster Risk Management
+       Policy (GN-2354-5) and the Urban Development and Housing Sector Framework
+       (GN-2732-6) through the following Lines of Action: (i) support programs for the
+       improvement of informal neighborhoods; (ii) improve the maintenance, coverage,
+       quality, and environmental sustainability of urban services and infrastructure;
+       (iii) foster and expand access to public and private financing for housing services
+       for the poorest households or in areas of high environmental, climate-related, or
+       geophysical vulnerability; (iv) foster and expand the supply of housing services
+       with low environmental and climate impact in areas with access to services and
+       job markets; (v) reinforce the capacity of the institutions involved in producing,
+       financing, and regulating affordable housing; (vi) revitalize degraded urban areas
+       and preserve the historical heritage of the cities without harming the residents of
+       these areas; and (vii) expand the supply and improve the accessibility and quality
+       of urban green areas. It is also consistent with the Climate Change Sector
+       Framework (GN-2835-8) through the Line of Action to mainstream climate action;
+       the Gender and Diversity Sector Framework (GN-2800-8) through the Line of
+       Action to improve the well-being of women and children by expanding access to
+       quality public services that are culturally relevant; and the Public Utilities Policy
+       (GN-2716-6). This operation is also consistent with the policies of the Government
+       as reflected in several key policy documents such as the Vision 2030 Strategy [11].
+       Lastly, TT-L1056 is included in the 2020 Operational Program Report (GN-2991-
+       1).
+                                            -9-
+
+
+1.23   Gender. Several of the gender-sensitivities raised in the diagnostic ¶1.6 and in
+       OEL#3 are addressed in the program design through the following: (i) targeting of
+       women as well as at-risk young men for community-sourced labor in Component
+       1; (ii) investments in improved access to homes, street lighting, as well as in-house
+       piped potable water supply in Component 1 to decrease the security risks that
+       women and girls face in their daily activities; (iii) improving the conditions for more
+       productive and safer enterprise in Eastside Plaza where women are the vast
+       majority of existing tenants, under Component 2; and (iv) targeting of
+       female-headed households in Component 3 to increase women’s financial
+       independence.
+
+1.24   Compliance with the Public Utilities Policy (OEL#5). The program complies
+       with the conditions of financial sustainability and economic evaluation and is
+       aligned with the goals and principles of the Public Utilities Policy (GN-2716-6) and
+       with the objectives and principles of the Policy as it relates to the provision of
+       water and sanitation, solid waste and electricity services to the beneficiary
+       households under the program. The Water and Sewerage Authority (WASA) is
+       mandated by its 1965 Act to provide water and sewerage services for Trinidad and
+       Tobago. WASA has been able to meet its O&M costs through a combination of
+       tariffs and timely and transparent subsidies from the Government. Additionally,
+       WASA recently commissioned a Business Plan and Price Control Proposal
+       (2019 – 2024) that seeks to improve the operational and financial sustainability of
+       the utility. This is in addition to current Institutional Strengthening under
+       TT-L1026 (LO2890/OC-TT). The Trinidad and Tobago Electricity Commission, a
+       corporatized entity, provides electricity service and the Municipal Corporations Act
+       (Act 21 of 1990) mandates the collection and disposal of solid waste. Finally, the
+       infrastructure services to be financed under the program are socio-economically
+       viable according to Net present Value (NPV) and Internal Rate of Return (IRR)
+       calculated by the economic evaluation (OEL#1).
+
+B.     Objective, components, and cost
+
+1.25   Objective. The general objective of the program is to contribute to the
+       improvement of the quality of the urban built environment. The specific objectives
+       are to: (i) improve the habitability in urban settlements on State-owned lands;
+       (ii) improve the physical quality and economic performance of urban public spaces;
+       (iii) enhance housing conditions for low income households; and (iv) strengthen
+       the capacity of supply-side stakeholders to satisfy effective housing demand.
+
+       Component 1. Urban Residential Infrastructure (US$15.0 million)
+1.26   This Component will finance a cohort of independent, urban residential
+       infrastructure sub-projects of similar scope, to either upgrade living conditions in
+       informal settlements on State lands or to develop planned, residential sub-divisions
+       in well-located State-owned greenfield sites, for systematic allocation to low-
+       income households. Locationally, the focus will be on the main urban corridors,
+       and on sites not previously upgraded. This component’s specific investments will
+       include: (i) construction or upgrading of resilient site infrastructure, including
+       drainage systems, waste-water management systems, road and accessibility
+       systems, streetlights, potable water supply, fire-hydrants and social infrastructure,
+       such as community centers and recreational facilities (with gender-sensitive
+                                                   - 10 -
+
+
+         designs), when appropriate; (ii) solid-waste management, including installation of
+         recycling collection points and receptacles within upgraded settlements; and
+         (iii) regularization of electricity supply. Infrastructure will be designed to cope with
+         anticipated climate change effects and common natural hazard threats.
+         Community labor, including women and at-risk young men, would be engaged in
+         construction activities where appropriate. In densely populated, urban, hillside
+         communities, early and emergency works will be the focus, primarily improving
+         accessibility to homes through paved pathways, stairways and railings, as well as
+         alleviating urgent drainage and land slippage challenges.
+
+1.27     The Multiple Works Program (MWP) sample for this component comprises three
+         sites in the highly-urbanized East-West corridor, including two sites (Sahadeen
+         Trace and Bois Bande C) in the Sangre Grande region which saw very significant
+         population growth between the last two censuses. The third sample site is Factory
+         Road in the Diego Martin region which is home to some of the nation’s largest
+         informal settlements,15 and is representative of sites that will receive the more
+         limited treatment of early and emergency infrastructure works.
+
+1.28     The Pre-construction activities including surveying, land use planning, engineering
+         designs, and environmental and social assessments for these three sites are
+         complete. Tender documents are also close to finalization. The MWP sample
+         represents 38% of the cost of Component 1.
+
+1.29     Both the MWP sample and other eligible projects under Component 1 are subject
+         to the following Eligibility Criteria which require that they: (i) are focused on
+         residential infrastructure; (ii) are for sites wholly or predominantly State-owned;
+         (iii) are located in an urban center or along a main urban corridor; and (iv) cannot
+         be classified as Category A according to Bank’s Environmental and Social
+         Safeguards Compliance Policy, OP-703. In the case of informal settlement
+         upgrading, sites must: (v) have a majority of households with gross annual
+         household incomes of TT$96,000 or less; (vi) have infrastructure deficits as
+         measured by indicators such as paved roads per hectare and amenities per unit
+         of population; and (vii) be at least 70% occupied. For greenfield sites, where
+         systematic allocation of serviced plots will occur, beneficiaries must have:
+         (viii) average gross annual household incomes of TT$96,000 or less.
+
+         Component 2. Urban Regeneration (US$15.5 million)
+
+1.30     This component will finance a cohort of independent, urban regeneration initiatives
+         of similar scope, with an emphasis on improving the physical quality and economic
+         performance of urban public spaces. This is an innovation since globally, such
+         investments are today seen as integral to harnessing the potential of urbanization.
+         Since it is an emerging development front in the country, the MWP modality will
+         allow the flexibility to define some of the investments after local contextualization
+         and prioritization have improved. This component’s specific investments will
+         include building refurbishment, site and streetscaping infrastructure, and
+         landscaping to increase the attractiveness, resilience, and sustainable use of
+         urban public spaces and facilities. This component may finance some land
+         assembly/acquisition in exceptional cases. An Operations and Maintenance Plan
+
+15   According to LSA’s 2018 mapping and survey of informal settlements on State lands.
+                                           - 11 -
+
+
+       will also be financed for each upgraded place/facility, to help promote
+       sustainability. This component will be supported by an awareness campaign to
+       promote empowerment and ownership of beneficiaries in urban public spaces,
+       including reducing littering and increasing recycling, financed under Component 4.
+
+1.31   The MWP sample project for this component is the renovation of Eastside Plaza,
+       a publicly-owned urban mall on lower Charlotte Street in POS which houses about
+       150 service and retail facilities as well as production workshops. The economic
+       performance and attraction of this nearly century-old facility that once served as
+       the capital city’s historic market, is expected to be significantly boosted by the
+       project interventions that will include a more efficient, accessible, and functional
+       layout of the facility; addition of about 20 booths for new tenants (existing tenants,
+       who are majority female, will all be retained); improvements in the health and
+       safety conditions through major electrical, mechanical, plumbing, air-conditioning
+       and surveillance system revamps; and introduction of cost-saving green-building
+       technologies such as thermal insulation for the roof, installation of a chill-water
+       air-conditioning system, enhanced natural lighting, efficient lights controlled by
+       sensors, dual flush toilets, and low-flow faucet aerators.
+
+1.32   Pre-construction activities for the Eastside Plaza renovation, including conceptual
+       designs, architectural designs, mechanical and electrical designs, engineering
+       designs for construction, and environmental and social assessments are complete.
+       The MWP sample represents 39% of the cost of Component 2.
+
+1.33   Both the MWP sample and other eligible projects under Component 2 must comply
+       with the following Eligibility Criteria: (i) be focused on the rehabilitation or
+       construction of buildings or public space in an urban center; (ii) have a significant
+       commercial land use element (either on-site or directly adjacent); and (iii) cannot
+       be classified as Category A according to Bank’s Environmental and Social
+       Safeguards Compliance Policy (OP-703). One such candidate project under
+       design is the redevelopment of the esplanade and waterfront market area in
+       Scarborough, Tobago.
+
+       Component 3. Affordable Housing Subsidies (US$15.0 million)
+
+1.34   This component will finance specific investments to further improve habitability for
+       low-income households through reducing the qualitative and quantitative housing
+       deficits, as well as sustainability of the built environment. It will provide subsidies
+       nationwide to finance: (i) selective home improvements for currently-occupied
+       homes, which qualitatively enhance the basic living conditions of eligible
+       low-income households; and (ii) new construction or acquisition of basic homes on
+       property that is already owned, which directly services the housing needs of
+       low-income households. Subsidy caps will be the same as used under
+       2469/OC-TT, as these limits proved to be adequate and the Government is
+       increasingly trying to reach more households with limited resources (¶1.26). A
+       family income threshold of TT$8,000 per month will be part of the eligibility criteria
+       (see OEL#2).
+
+1.35   Approximately 3,500 households who were not granted subsidies under earlier
+       IDB-financed operations will receive subsidies, 2.460 for home improvement, and
+       1056 for new construction. A significant innovation is that subsidies will be
+                                                    - 12 -
+
+
+         administered in a manner that facilitates more sustainable outcomes. In particular,
+         at least 75% of all subsidies will be for households located proximate to the main
+         highway networks,16 thus contributing to the consolidation of the housing stock in
+         areas that are well serviced by existing infrastructure and accessibility. At least
+         10% of home improvement subsidies (HISs) will be reserved for projects that
+         include the addition of a self-contained housing solution, within existing premises,
+         which will augment the supply of housing in the existing built up areas. At least
+         75% of construction subsidies (HCSs) will be conditional on the agreement of the
+         beneficiary to include eco-technologies that reduce the consuming of water and
+         electricity. Such criteria will also be mandated for at least 15% of home
+         improvement subsidies.17 Finally, at least 40% of all subsidies will be allocated to
+         women-headed households, to help redress the disproportionate vulnerability that
+         such households experience.
+
+1.36     Under Component 3, for HISs, following an open application window, households
+         and proposed projects will be screened by technical officers of the MHUD
+         and largely implemented as owner-managed projects without public procurement
+         of goods or labour. For HCSs, a two-tranche system will be used as under
+         2469/OC-TT, whereby disbursement of the second tranche will be contingent upon
+         certification of satisfactory completion of the pre-agreed first phase activities. While
+         it is anticipated that most HISs and HCSs will be for owner-managed projects, a
+         notable innovation is that the subsidies will also be payable directly to an
+         intermediary such as one of the more established Credit Unions or to a
+         pre-qualified Executing Developer certified by MHUD, on behalf of an eligible
+         beneficiary household, according to criteria established in the OM. Under such
+         arrangements the focus remains on household beneficiaries and no developer-led
+         housing construction projects in greenfield sites will be financed under this
+         component.
+
+         Component 4. Strengthening of Housing and Urban Development Sector
+         Stakeholders’ Capacities (US$2.0 million)
+
+1.37     This component will finance a range of activities which will better equip supply-side
+         stakeholders to address the medium-term housing and sustainable urban
+         development needs of the country. Among them will be various sector studies,
+         including a national housing market study; a drainage and waste-water
+         management Plan for the Diego Martin area; and a Study of appropriate
+         development standards in dense, hillside, urban communities. For the Tobago
+         House of Assembly (THA), a key activity will be the preparation of an Infrastructure
+         Investment Plan to guide sustainable development. All of these studies will
+         strengthen the underlying physical planning framework for public policy and
+         investments. For the MHUD and its line Agencies, capacity building in real-estate
+         management and analysis, will be financed with the aim of better understanding
+         dynamic land and housing market trends and improving the strategic management
+         of real estate assets under the control of MHUD and its line agencies. This will be
+         complemented by financing: the completion of the nationwide survey of squatters
+         on State-owned lands; cleaning and analysis of the HDC application database;
+
+16
+     Proximity will be further defined in the OM, however an IDB 2016 Mass Transit Technical Cooperation Report
+     noted that 72% of the population of Trinidad lives within 3km of the main highway network.
+17   The OM will include the list of eco-technologies and associated guidelines.
+                                                       - 13 -
+
+
+          building of an information system for Real Estate Management and housing market
+          updates; purchase and installation of geographic information software for the HDC;
+          MHUD’s ongoing Communications campaign, and an impact evaluation of past
+          regularization efforts. Conference participation of key sector stakeholders, training
+          in business and conversational Spanish, update of the Yardi software, and
+          purchase of equipment and a vehicle will also to be financed. Most of the Sector
+          studies to be undertaken in this component will be executed during the first two
+          years of the operation, so that the information they yield can be factored into
+          sub-project selection under Components 1 and 2. Such studies may also benefit
+          from preliminary data releases from the 2020 national population Census.
+
+1.38      In addition, the Program’s administrative,18 auditing, monitoring and evaluation
+          expenses will be financed. This amounts to US$2.5 million of which US$2.0 million
+          will be under TT-L1056 and US$0.5 million will be under TT-L1057.
+
+C.        Key results indicators
+
+1.39      Expected results. The program is expected to achieve the following outcomes:
+          (i) an increase in the proportion of households in the project sites with an indoor
+          water closet toilet; (ii) a decrease in the proportion of households in the project
+          sites with inadequate access to their home; (iii) an increase in the proportion of
+          low-income households that live in houses with adequate quality; (iv) water savings
+          in new dwellings; (v) energy savings in new dwellings; (vi) an increase in average
+          weekly revenues of retail units at each regenerated site; (vii) an increase in the
+          number of events per year hosted at each regenerated site; (viii) water savings in
+          each regenerated site; (ix) energy savings in each regenerated site; (x) a reduction
+          in the average number of months in the project cycle to complete housing solutions
+          (home improvement and home construction); and (xi) an increase in the proportion
+          of housing solutions developed by MHUD and its line agencies that is affordable
+          to low income households.
+1.40      The economic evaluation (OEL#1) measured the expected benefit and cost
+          streams for the sample interventions. For Component 1, information on local
+          housing prices in the sample sites was gathered and compared with prices from a
+          district with better infrastructure, Kangalee Village; the area represents the
+          scenario of the impact that infrastructural works at Bois Bande C, Sahadeen and
+          Factory Road could have after the intervention. The evaluation for Component
+          1 was based on both land and housing prices, and the total cost of implementing
+          the project. Additional assumptions include a discount rate of 12%, an evaluation
+          period of 10 years, and full capture of benefits and complete valuation of land and
+          housing at the third year. The analysis for Component 1 showed a NPV of
+          TT$13.590.028, and an IRR of 49%. The analysis for Component 2 included
+          benefits related to an increase in jobs, sales and energy savings in East Side
+          Plaza. The analysis showed an NPV of TT$10.097.121, and an IRR of
+          18%. Additional sensitivity analyses were carried out for Component 1 (Bois
+          Bande, Sahadeen, and Factory Road) and Component 2 (East Side Plaza). The
+          results of the sensitivity analysis showed that in the eventuality that there were
+          external shocks that increased costs and reduced benefits by 25% the project
+
+18
+     Administrative expenses may include recurrent expenses for the payment of utilities and office operating costs,
+     advertisement costs, remuneration of consultants to be hired to strengthen the capacity of the PMCEU and
+     LSA, as well as travel related costs for the PMCEU members.
+                                                - 14 -
+
+
+       works are still deemed to be financially viable. The analysis for Component
+       3 includes as benefit the increase in wealth of the beneficiaries of home
+       improvement through the increase in house value. The average property value of
+       dwellings in fair, poor and very poor condition is TT$67,500 and the project
+       estimates to reach 2,460 households. The aggregated estimated benefit would be
+       an increase in the property values of TT$65,390,490. As such, the benefit-cost
+       ratio is 1.33.
+1.41   Beneficiary population. The primary beneficiaries of this operation will be
+       low-income households currently residing in inadequate housing and settlement
+       conditions. According to the 2014 Survey of Living Conditions, 14% of all
+       households were living in inadequate housing at that time. And as noted earlier in
+       ¶1.3, approximately 20% of all households are estimated to be squatting.
+       A secondary set of beneficiaries will be current and potential users of urban public
+       spaces.
+
+                             II.           FINANCING STRUCTURE AND MAIN RISKS
+
+A.     Financing instruments
+
+2.1    The project’s estimated cost is US$50 million, as shown in Table 2. It will
+       be financed through an Investment loan with the following modalities: (i) a Multiple
+       Works Program (MWP) for US$32.5 million (TT-L1056) chargeable to the Ordinary
+       Capital (OC) of the Bank; and (ii) a Specific Investment Loan (SIL) for
+       US$17.5 million (TT-L1057) also chargeable to the OC of the Bank. The structure
+       was chosen for the program in order to differentiate the scope and nature of each
+       component, and to facilitate orderly monitoring by financing modality. Components
+       1 and 2 satisfy the requirements for a MWP since they have the purpose of
+       financing similar work groups (a sample of which have been completely defined)
+       with the following characteristics: (i) they are physically similar, but independent of
+       each other; (ii) its feasibility does not depend on the execution of a particular
+       number of work projects; and (iii) its individual size does not justify that the Bank
+       directly manages the operation. Components 3 and 4 will be financed through a
+       SIL since they satisfy the requirements for a SIL in that the activities they finance
+       are defined at the time the Bank’s loan is approved and represent several specific
+       projects within a sectoral program. The disbursement period for both modalities
+       will be six years, as follows in Table 1:
+
+                        Table 1. Disbursement Schedule (in US$ million)
+
+              Source               Year 1      Year 2    Year 3   Year 4   Year 5    Year 6
+
+                IDB                 13.4        11.9      13.1     4.8      5.9        0.9
+
+                %                   27           24       26        9       12          2
+                                             - 15 -
+
+
+                       Table 2. Summary of Program costs (in US$ million)
+                                                                               IDB (OC)
+       Components                               TT-L1056       TT-L1057                    %
+                                                                                 Total
+      Component 1. Urban Upgrading and            15.0              -            15.0      30
+      Service-sites
+      Comprehensive residential                   11.7              -            11.7     23.4
+      infrastructure civil works
+      Emergency civil works                       3.3               -            3.3       6.6
+      Component 2. Urban Regeneration             15.5              -            15.5      31
+      Urban buildings regeneration                 9.3             -             9.3      18.6
+      Public space regeneration                    6.2             -             6.2      12.4
+      Component 3. Affordable Housing               -             15.0           15.0      30
+      Subsidies
+      Home improvement subsidies                      -            7.8           7.8      15.6
+      Home construction subsidies                     -            7.2           7.2      14.4
+      Component 4. Strengthening of                   -            2.0           2.0       4
+      Housing and Urban Development
+      Sector Stakeholders’ Capacities
+      Sector studies                                -              1.7           1.7       3.4
+      Training                                      -              0.2           0.2       0.4
+      Nationwide squatters survey                   -              0.1           0.1       0.2
+      Administration, auditing and M&E             2.0             0.5           2.5        5
+      Total                                      32.5            17.5            50.0     100.0
+      Note: The sub-category estimates for Components 1 and 2 are indicative
+
+
+B.    Environmental and social safeguard risks
+
+2.2   TT-L1056 is expected to have mostly positive impacts; identified social and
+      environmental impacts are short-term, localized, and can be mitigated. Therefore,
+      it has been classified as category “B”, according to the Bank’s Environmental and
+      Social Safeguards Compliance Policy, OP-703. Environmental impacts are those
+      typically related to construction and will mitigated following standard protection
+      procedures. Upgrading and green-field development under Component 1 will focus
+      on state-owned lands and the provision of standard urban infrastructure (water,
+      sanitation, street-lighting, waste collection) that will not require land acquisition; as
+      in the previous programs, involuntary resettlement is expected to be exceptional,
+      as shown for the MWP representative sample for this Component. The MWP
+      representative sample for Component 2 (Eastside Plaza) is expected to cause
+      temporary displacement. Accordingly, a Temporary Relocation and Livelihood
+      Restoration Plan was prepared in consultation with the affected population.
+      Several alternatives have been analyzed to minimize this impact and offer
+      compensations for potential economic displacement considering the options
+      proposed by the affected population. Because the country is prone to suffer from
+      natural disasters, OP-704 has been triggered to ensure construction meets
+      adequate standards. The project will also apply the Gender Equality Policy
+      (OP-761) to ensure women’s access to project benefits. Women participated in
+      consultations conducted during preparation and will continue to do so under the
+      program.
+
+2.3   Because TT-L1056 has been designed under the MWP modality, an Environment
+      and Social Assessment (ESA) and Environmental and Social Management Plan
+      (ESMP) have been prepared for each specific project sample. Based on the
+      findings and recommendations of these studies, an overall Environmental and
+                                                      - 16 -
+
+
+          Social Management Framework (ESMF) has been prepared in compliance with
+          OP-703, B.6 to guide the ESA and ESMP preparation for other projects to be
+          undertaken under the Program. Draft and Final versions of the ESMF, sample
+          project assessments, and respective mitigation plans were consulted with the
+          public and disclosed according to Bank Policy. The executing agency, together
+          with a consultant, conducted meaningful stakeholder consultation meetings at all
+          sample project locations. Key recommendations of the consultations for
+          Component 2 referred to the works to be conducted within Eastside Plaza and
+          have been taken into consideration in the Management Plan. Also,
+          recommendations from consultations in the three sample settlements included in
+          Component 1 (timing of the work, communication, interaction with neighbors,
+          improvements to the settlement) were included in the respective Management
+          Plan.
+
+2.4       The operation TT-L1057 is not expected to have environmental and social impacts
+          and has been categorized as “C” according to OP-703. The focus of this operation
+          will be mainly on institutional strengthening and on the provision of affordable
+          housing subsidies. The subsidies will be managed by the executing agency, and
+          will finance: (i) selective home improvements for currently occupied homes, which
+          qualitatively enhance the basic living conditions of eligible low income households;
+          and (ii) new basic home construction on land already owned by beneficiaries and
+          acquisition of new homes, which directly services the housing needs of low income
+          households. Being a category “C” project, no Environmental and Social
+          Assessment and consultations are required.
+
+C.        Fiduciary risk
+
+2.5       Fiduciary assessments of the MHUD and LSA were undertaken and the overall
+          fiduciary risks have been ranked as Medium. The main fiduciary risk identified, as
+          described in Annex III, is that limited fiduciary capacity within the PMCEU and LSA
+          may create bottlenecks and delays in addressing fiduciary matters. Mitigating
+          actions are being addressed through: (i) recruitment or appointment of a
+          procurement specialist and for LSA as well as one for MHUD/PMCEU and, a
+          Financial Specialist for the MHUD/PMCEU; and (ii) training sessions on Bank’s
+          policies and procedures for both PMCEU and LSA.
+
+D.        Other risks and key issues
+
+2.6       Institutional Capacity Assessments for the MHUD and the LSA were conducted
+          and identified mitigations measures for various public management and
+          governance risks, and development risks. The high Public Management and
+          Governance Risk of inadequate coordination between the MHUD and the LSA and
+          the MHUD and the THA (for works conducted by the MHUD in Tobago) will be
+          countered by inter-Agency MOUs and by a Steering Committee that will provide
+          oversight of compliance with the terms of those agreements.19 Another high
+          Public Management and Governance Risk that a change of administration after
+
+19    The Steering Committee will include representation from: MPD; MHUD; LSA; THA; WASA; Trinidad and
+      Tobago Electricity Corporation (T&TEC); Ministry of Works and Transport – Drainage Division; Ministry of
+      Agriculture, Lands and Fisheries – Commissioner of State Lands and Lands and Surveys Division; and
+      Habitat for Humanity. The role, responsibilities, and composition of the Steering Committee will be included
+      in the OM.
+                                          - 17 -
+
+
+      the 2020 General Election can lead to reprioritization of intervention sites, causing
+      delays, is countered by the MWP design and ESMF of TT-L1056 which provide
+      some flexibility to adapt sub-project selection. A medium Public Management and
+      Governance Risk, that if the Government maintains its fiscal conservatism, the
+      MHUD may not receive enough budgetary allocations to facilitate the timely award
+      of contracts and payment of contractors, is mitigated by the PMCEU committing
+      project resources against fiscal space allocated in the national budget as early as
+      possible through signed contracts. Intensive liaison with target communities, and
+      explicit provisions for the use of community labor where appropriate, will help to
+      counter the high Development Risk of contractors and authorities being denied
+      free access to the site due to concerns about inadequate use of local labor.
+      Additionally, clear and early demarcation of public rights of way and communal
+      plots, as well as inter-Agency information sharing and coordination, will be used to
+      counter the medium Development Risk of indiscriminate new squatting in project
+      sites that can increase the cost of construction and delay execution.
+
+2.7   Section 7(2)(b) of the Public Procurement and Disposal of Public Property
+      (PPDPP) Act, 2015, could create challenges with the implementation of the
+      program as it states that, in the event of a conflict between the Act and an
+      agreement with an international financing institution, the procurement of goods,
+      works or services shall be governed by the Act. However, the Act is not yet fully in
+      force since several Sections, including Section 7, are not yet proclaimed, and
+      approval of the Procurement Regulations by Parliament is still pending. The
+      Government has also signaled its intention to propose an amendment to Section 7.
+      Consequently, it is not clear what effect if any this Act will have on the program,
+      however, the Bank is currently engaging the Government in order to address any
+      potential conflict.
+
+2.8   Sustainability. In comprehensive upgrading sites under Component 1, adherence
+      to all pertinent local development standards would make ongoing operational and
+      maintenance (O&M) needs in those sites, the responsibility of the respective local
+      governments, who in turn can represent those needs in their annual budgetary
+      requests. Sustainability in Component 2 investments is promoted by the
+      incorporation of cost-saving green technologies and the requirements to produce
+      and implement Operation and Maintenance Plans for the upgraded facilities.
+      Subsidies granted under Component 3 are predominantly for sites where
+      households are already living (either in a home that needs repair or in one in need
+      of complete replacement), reducing the risk that has plagued many government
+      housing programs in other countries (e.g. Mexico, Brazil, South Africa), whereby
+      the effective demand for houses in locations picked by governments is often
+      overestimated, leading to under-occupation, informal sub-letting, or even
+      abandonment. Invested sweat equity is also likely to deepen the sense of
+      ownership that usually drives maintenance. Finally, the capacity building efforts
+      under Component 4 are expected to continue bearing fruit after the loan operations
+      close since the LSA is a long-established institution of the Government with an
+      ongoing mandate, and the PMCEU is being established to serve a wider and
+      longer-term role within the MHUD.
+                                          - 18 -
+
+
+                     III.    IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+
+3.1   Borrower and executing agency. The borrower is the Republic of Trinidad and
+      Tobago. The executing agency will be the MHUD, through the PMCEU for all
+      Components of the program, with the LSA as a sub-executing agency for
+      Component 1 sites in Trinidad only. Among other responsibilities, the MHUD will
+      be: (i) performing technical and operational coordination of the program;
+      (ii) preparing and updating the Pluriannual Execution Plan (PEP), Annual
+      Operational Program (AOP); Procurement Plan (PA); Risk Matrix (RM); and the
+      Progress Monitoring Report (PMR). The MHUD will be responsible for maintaining
+      all formal communication with the Bank.
+3.2   The MHUD will assign responsibility for program coordination, monitoring, and
+      financial and procurement management to the PMCEU, within the MHUD for the
+      purposes of the Program. The PMCEU duties will include planning (including
+      procurement planning for the entire program), coordination and monitoring of all
+      aspects of the program implementation including social and environmental
+      safeguards, as well as, report preparation, procurement management (except for
+      some sites in Component 1), disbursement of program resources, and interface
+      with the Bank, LSA, THA, and Government of Trinidad and Tobago officials.
+3.3   For sites in Trinidad, implementation of Component 1 (Urban Upgrading and
+      Serviced Sites) will be the main responsibility of the LSA under the coordination
+      and monitoring of the PMCEU. In such cases, the LSA will be responsible for all
+      procurement processes, supervision of all consultants and contractors working on
+      the sites, as well as for the acquisition of all statutory approvals for the
+      development of the sites. For some sites under Component 2, and for some sites
+      in Tobago, under Component 1, MHUD has decided to hire the National Insurance
+      Property Development Company Limited (NIPDEC) to provide project
+      management and procurement management services (see ¶3.8 below and
+      paragraph 5.1 (iv) of Annex III). In Tobago, the THA will participate in contract
+      evaluation processes, provide technical input and general oversight.
+
+3.4   Special Contractual Clauses prior to the First Disbursement: the executing
+      agency will provide evidence to the satisfaction of the Bank of: (i) the
+      establishment of the Program Management, Coordinating and Evaluation
+      Unit (PMCEU) and of the assignment or hiring by the executing agency of a
+      program director, a financial specialist, a monitoring and evaluation
+      specialist, a procurement specialist, and an environmental and social
+      specialist; and (ii) its approval of the Operating Manual (OM) of the program,
+      in accordance with the terms previously agreed upon with the Bank.
+      Condition (i) will ensure that the EA has an execution unit with the adequate
+      personnel in place to initiate and conduct program execution while condition (ii) will
+      allow for the proper execution of the program by detailing the guiding principles for
+      execution and coordination of activities.
+
+3.5   Special Contractual Clauses of Execution: the executing agency will provide
+      evidence to the satisfaction of the Bank: (i) prior to the disbursement of loan
+      resources for Component 1 activities in Trinidad, that an agreement has been
+                                           - 19 -
+
+
+       entered into between the executing agency and the Land Settlement Agency (LSA)
+       for the execution of such activities; and (ii) prior to the disbursement of loan
+       resources for the execution of Components 1,2 and 3 activities in Tobago, that an
+       agreement has been entered into between the executing agency and the Tobago
+       House Assembly (THA) for the execution of such activities. These conditions are
+       justified to ensure a clear understanding of responsibilities and reporting
+       requirements to facilitate an efficient execution of the program. Condition (i) and
+       (ii) are deemed important in order to establish the institutional framework between
+       the entities collaborating in the program execution and the EA, and to expedite the
+       program’s implementation.
+
+3.6    The OM will establish standards and procedures for the EA with regards to
+       programming activities, execution plan, coordination with other entities involved in
+       the program, procurement, fiduciary management arrangements, environmental
+       and social requirements, and Monitoring and Evaluation (M&E) arrangements,
+       among others, which will govern program execution.
+
+3.7    Procurement execution. Procurement activities will be carried out in
+       accordance-with the Policies for the Procurement of Works and Goods Financed
+       by the Inter-American Development Bank – IADB (GN-2349-15) of May 2019, and
+       the Policies for the Selection and Contracting of Consultants Financed by the IDB
+       (GN-2350-15) of May 2019. They will also be subject to the provisions established
+       in the Loan contract.
+
+3.8    Single sourcing. The National Insurance Property Development Company
+       Limited (NIPDEC) will be hired through a Single-Source Selection to
+       provide project management and procurement management services for some
+       Component 2 projects and for some Component 1 sites in Tobago. NIPDEC is
+       considered to have experience of exceptional worth for the assignment as the
+       Company has collaborated with Government Ministries and the THA on
+       infrastructure projects for more than four decades with satisfactory results. As
+       such, a single-source selection is acceptable based on subsection (d) of paragraph
+       3.11, GN-2350-15. Given that NIPDEC is a state-owned enterprise, the MHUD
+       conducted a legal analysis to confirm that the IDB eligibility requirements stated in
+       paragraph 1.13 (b) of the GN-2350-15 are met by NIPDEC.
+
+3.9    Audits. The MHUD will be responsible for the recruitment of the external auditor,
+       who will perform the financial audit of the program as outlined in Annex III.
+
+3.10   Retroactive financing. It is anticipated that the project may finance retroactively
+       under the loan, eligible expenses incurred by the Borrower prior to the date of loan
+       approval up to the amount US$156,566 (0.31% of the proposed loan amount), for
+       project management fees under Components 1 and 2; and project administration
+       consultant remuneration expenses for the Financial Specialist, Monitoring and
+       Evaluations Specialist, Procurement Specialist, Environmental/ Health and Safety
+       Officer, Social/ Community Engagement Specialist, and Housing Development
+       Inspectors). These expenses must have been incurred or on after September 13th,
+       2019 (approval date of the Project Profile), and under no circumstances shall
+       expenditures incurred more than 18 months prior to the loan approval date be
+       included.
+                                            - 20 -
+
+
+B.     Summary of arrangements for monitoring results
+
+3.11   Monitoring. The monitoring and evaluation of this program will be carried out
+       based on verifiable and objective product indicators directly related to expected
+       outcomes. These indicators will be measured annually during program
+       implementation in order to determine the achievement of targets and the
+       completion of products in the specific projected periods. Annex II - RM, contains
+       the detailed annual programming of the result indicators, expected products, and
+       their means of verification, consistent with the AOP and the PEP, including the
+       baseline against which project execution will be measured; the units of measure,
+       associated costs, annual targets and end-of-project targets. These targets have
+       been defined based on the sample of representative investments identified for this
+       program and the target value estimates for other investments that the executing
+       agency could propose. Target values will be adjusted and updated as other
+       specific investments are declared eligible for financing under this program. The
+       evolution of the verifiable indicators, products and milestones will be collected
+       semi-annually in the project progress reports submitted by the MHUD.
+3.12   Evaluation. The evaluation of the investment works, and subsidies financed
+       through this loan will seek to determine whether the program fulfilled its specific
+       objectives. Two evaluations will be performed: a midterm and a final evaluation,
+       which will be carried out by independent consultants upon the disbursement of
+       50% and 90% of loan resources, respectively. The midterm report will include:
+       (i) the outcomes of the physical-financial execution; (ii) the degree of fulfillment of
+       targets in the RM; (iii) the degree of fulfillment of environmental requirements; (iv) a
+       summary of the results of the audits and of the improvement plans; and (v) a
+       summary of the main lessons learned. The final evaluation will also include an
+       ex post-economic analysis (cost-effectiveness) (see REL#2).
+                                                                                                                                                                            Annex I - TT-L1056; TT-L1057
+                                                                                                                                                                                             Page 1 of 1
+
+
+
+
+                                                                           Development Effectiveness Matrix
+
+                                                                                   Summary      TT-L1056 & TT-L1057
+I. Corporate and Country Priorities
+1. IDB Development Objectives                                                                                                          Yes
+
+                                                                                               -Social Inclusion and Equality
+                                                                                               -Productivity and Innovation
+                                                                                               -Gender Equality and Diversity
+   Development Challenges & Cross-cutting Themes
+                                                                                               -Climate Change and Environmental Sustainability
+                                                                                               -Institutional Capacity and the Rule of Law
+
+
+
+                                                                                               -Households benefitting from housing solutions (#)*
+                                                                                               -Households with new or upgraded access to drinking water (#)*
+                                                                                               -Households with new or upgraded access to sanitation (#)*
+   Country Development Results Indicators                                                      -Government agencies benefited by projects that strengthen technological and
+                                                                                               managerial tools to improve public service delivery (#)*
+                                                                                               -Households with new or improved access to electricity supply (#)*
+
+
+2. Country Development Objectives                                                                                                      Yes
+
+
+   Country Strategy Results Matrix                                                                     GN-2888          Increase access to quality housing.
+
+
+
+                                                                                                                        The intervention is included in the 2020 Operational
+   Country Program Results Matrix                                                                     GN-2991-1
+                                                                                                                        Program.
+
+
+
+   Relevance of this project to country development challenges (If not aligned to
+   country strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                           Evaluable
+3. Evidence-based Assessment & Solution                                                                                                 9.3
+     3.1 Program Diagnosis                                                                                                              3.0
+     3.2 Proposed Interventions or Solutions                                                                                            3.6
+     3.3 Results Matrix Quality                                                                                                         2.7
+4. Ex ante Economic Analysis                                                                                                            8.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                     3.0
+     4.2 Identified and Quantified Benefits and Costs                                                                                   3.0
+     4.3 Reasonable Assumptions                                                                                                         0.0
+     4.4 Sensitivity Analysis                                                                                                           2.0
+     4.5 Consistency with results matrix                                                                                                0.0
+5. Monitoring and Evaluation                                                                                                            7.7
+     5.1 Monitoring Mechanisms                                                                                                          1.8
+     5.2 Evaluation Plan                                                                                                                6.0
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                   Medium
+                               Identified risks have been rated for magnitude and likelihood                                          Yes
+                                   Mitigation measures have been identified for major risks                                           Yes
+                      Mitigation measures have indicators for tracking their implementation
+Environmental & social risk classification                                                                                B for TT-L1056; C for TT-L1057
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                        Financial Management: Budget, Treasury, External Control.
+                                                                Fiduciary (VPC/FMP Criteria)             Yes
+
+
+
+
+                                                                               Non-Fiduciary
+
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+
+
+Additional (to project preparation) technical assistance was provided to the public
+sector entity prior to approval to increase the likelihood of success of the project
+
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+
+The objective of the program is to contribute to the improvement of the quality of the urban built environment. The specific objectives are to: (i) improve the habitability in urban
+settlements on State-owned lands; (ii) improve the physical quality and economic performance of urban public spaces; (iii) enhance housing conditions for low income
+households; and (iv) strengthen the capacity of supply side stakeholders to satisfy effective housing demand and urban development needs.
+
+The project presents a complete diagnosis; with a precise description of the challenges related to living conditions of households in urban settlements in State-owned lands,
+public spaces, and access to housing for low-income households. The results indicators included in the results matrix reflect the vertical logic of the program and have means
+of verification.
+
+The economic analysis of the project was carried out through separate cost-benefit analyses (CBA) that focus on expected benefits related to the valuation of real estate assets
+in the area of intervention (habitability and access to housing), and benefits related to increase in jobs, sales and energy savings in the upgraded public spaces. The CBA has an
+adequate sensitivity analysis. The analysis concludes that the urban upgrading components are economically viable with an ERR of 49% for the habitability component and an
+ERR of 18% for the upgraded public spaces, using a rate 12% discount. The access to housing component analysis concludes that the housing improvement subsidies have a
+benefit-cost ratio of 1.33.
+
+The project includes a monitoring and evaluation plan that is consistent with Bank standards. The effectiveness of the proposed intervention will be measured following an ex-
+post cost-efficiency and a before and after analysis.
+                                                                                                                              Annex II – TT-L1056 and TT-L1057
+                                                                                                                                                    Page 1 of 8
+                                                                     RESULTS MATRIX
+                                The general objective is to contribute to the improvement of the quality of the urban built environment. The specific objectives are to:
+Project Objective:              (i) improve the habitability in urban settlements on State-owned lands; and (ii) improve the physical quality and economic performance
+                                of urban public spaces; (iii) enhance housing conditions for low income households; and (iv) strengthen the capacity of supply-side
+                                stakeholders to satisfy effective housing demand.
+
+                                                                 EXPECTED OUTCOMES
+
+                                                   Baseline       Baseline
+       Indicators           Unit of measure                                     Final Target       Means of verification                   Observations
+                                                    Value          Year
+
+Component 1: Urban Residential Infrastructure
+
+Specific Objective 1: Improve the habitability in informal settlements on State-owned lands
+Average proportion of         Households in           74%            2019            90%          Surveys to be                See question 27 in LSA baseline
+households with a water      comprehensive                                                        conducted by LSA in          socio-economic survey.
+closet                      upgrading project                                                     the neighborhoods,
+                            sites with a water                                                    before and after the         Contributes to CDRI #4:
+                            closet toilet/ Total                                                  intervention.                ‘Households with improved access
+                            of households in                                                                                   to water and sanitation (#)’.
+                             comprehensive
+                            upgrading project
+                                   sites
+
+Average proportion of        Households in            30%            2019            10%          Surveys to be                Inadequate access is defined as
+households in the project     project sites                                                       conducted by LSA in          accessing the home by “Along
+sites that have               without direct                                                      the neighborhoods,           drain or river” or “neighbor’s yard”
+inadequate access to          access to the                                                       before and after the         or informal paths” (see question 23
+their home                   road from their                                                      intervention.                in LSA baseline socio-economic
+                            homes (earthen                                                                                     survey).
+                            or paved)/ Total
+                            of households in
+                              project sites
+
+Component 2: Urban Regeneration
+
+Specific Objective 2: Improve the physical quality and economic performance of urban public spaces
+Average weekly revenue             TT$               10,000          2019           13,000        Data collected during        Contributes to CRFI #4: Growth
+of retail units                                                                                   the Survey of Tenants        rate of GDP per person employed
+                                                                                                  of Eastside Plaza            (%).
+                                                                                                                         Annex II – TT-L1056
+                                                                                                                                  Page 2 of 8
+
+                                                Baseline   Baseline
+       Indicators          Unit of measure                            Final Target   Means of verification              Observations
+                                                 Value      Year
+Number of events per             Event             2        2018           4                                 Events with        20    or more
+                                                                                     Management records
+year hosted at each                                                                                          participants that require advanced
+                                                                                     of the facilities
+regenerated site                                                                                             authorization for use of the facility
+                                                                                                             by management.
+
+Water savings in the          m3 /month           520       2018          416        WASA bills based on     The baseline was set based on the
+East-Side Plaza                                                                      installed meter         upper bound of water consumption
+                                                                                                             for which the East-Side Plaza was
+                                                                                                             billed in 2018.
+Energy savings in the        MWh/ month           79        2018          63         T&TEC bills             The baseline was set with the
+East-Side Plaza                                                                                              electricity consumption bill of the
+                                                                                                             East-Side Plaza in 2018.
+
+                                                                                                             Contributes to CRFI #12: “CO2
+                                                                                                             emissions from fuel combustion
+                                                                                                             (tons)”; and to: CDRI # 19:
+                                                                                                             “Emissions avoided (annual tons
+                                                                                                             CO2 equivalent)”.
+
+Component 3: Affordable Housing Subsidies
+
+Objective 3: Enhance housing conditions for low-income households
+Proportion of low-income    Households in a      86%*       2016         87%         Nationally             Definition of adequate quality
+households that live in         nationally                                           representative, annual houses:
+houses with adequate         representative                                          Labor Force Survey     • Outerwall material: Brick
+quality                     sample that live                                                                    (plastered or not plastered)
+                              in houses of                                                                      /concrete; wood and
+                           adequate quality /                                                                   brick/concrete
+                           Total residents in                                                               • Toilet facilities: WC linked to
+                               a nationally                                                                     the sewer; WC not linked to
+                             representative                                                                     the sewer
+                                 sample                                                                     • Water Supply: public piped into
+                                                                                                                dwelling; public piped into
+                                                                                                                yard; private piped into
+                                                                                                                dwelling
+                                                                                                            • Source of lighting: electricity
+                                                                                                                             Annex II – TT-L1056 and TT-L1057
+                                                                                                                                                   Page 3 of 8
+
+                                                     Baseline       Baseline
+       Indicators             Unit of measure                                    Final Target      Means of verification                  Observations
+                                                      Value          Year
+                                                                                                                              Contributes to CDRI #4:
+                                                                                                                              “Households with improved access
+                                                                                                                              to water and sanitation”.
+
+                                                                                                                              *Note that the baseline and target
+                                                                                                                              values shown here are national
+                                                                                                                              statistics and will be updated to
+                                                                                                                              reflect low-income households
+                                                                                                                              only.
+Water savings in the new          m3 /month              36           2018            28.8        Savings proved in the       The baseline was calculated with
+dwellings                                                                                         literature from the list    the following assumptions: 377
+                                                                                                  of     eco-technologies     liters per capita/day 1 and average
+                                                                                                  included in the loan        household size: 3.2. 2
+                                                                                                  requirements       and
+                                                                                                  guidelines.
+Energy savings in the            kWh/month            1390            2018          1112                                      The baseline was calculated
+new dwellings                                       kWh/month                     kWh/month                                   according to the electricity
+                                                                                                  Savings proved in the       consumption in a typical
+                                                                                                  literature from the list    household. 3
+                                                                                                  of     eco-technologies
+                                                                                                  included in the loan        Contributes to CRFI #12: “CO2
+                                                                                                  requirements       and      emissions from fuel combustion
+                                                                                                  guidelines.                 (tons)”; and to: CDRI # 19:
+                                                                                                                              “Emissions avoided (annual tons
+                                                                                                                              CO2 equivalent)”.
+Component 4: Strengthening of Housing and Urban Development Sector Stakeholders’ Capacities
+
+Specific Objective 4: Strengthen the capacity of supply-side stakeholders to satisfy effective housing demand
+Average number of                  Months                6            2018            4.8         MHUD case                   Cycle is measured from approval
+months in the project                                                                             management system           of the subsidy until verification of
+cycle to complete housing                                                                                                     use and completion of the subsidy.
+
+
+
+1   Castalia, “Business Plan and Price Control Proposal for the Water and Sewerage Authority,” 2019.
+2   Ministry of Social Development and Family Services, Central Statistical Office, and UNICEF, “Trinidad and Tobago Multiple Indicator Cluster Survey 2011, Key
+    Findings & Tables.,” Port of Spain, 2017.
+3   N. C. M. Fernando, C. Cañeque, J. Klein, and D. Loy, “A Unique Approach for Sustainable Energy in Trinidad and Tobago,” 2015 and Renewable Energy
+    Committee, “Framework for Development of a Renewable Energy Policy for Trinidad and Tobago,” no. January, pp. 1–74, 2011.
+                                                                                                                       Annex II – TT-L1056
+                                                                                                                                Page 4 of 8
+
+                                              Baseline   Baseline
+       Indicators           Unit of measure                         Final Target   Means of verification             Observations
+                                               Value      Year
+solutions (home                                                                                            Contributes to CFRI #15:
+improvement subsidies)                                                                                     “Government effectiveness
+                                                                                                           (average LAC percentile)”.
+Average number of               Months           9        2018           7         MHUD case               Cycle is measured from approval
+months in the project                                                              management system       of the subsidy until verification of
+cycle to complete housing                                                                                  use and completion of the subsidy.
+solutions (home
+construction subsidies)                                                                                    Contributes to CFRI #15:
+                                                                                                           “Government effectiveness
+                                                                                                           (average LAC percentile)”.
+Proportion of housing         Percentage        10**      2018          20         MHUD case               Low income household is defined
+solutions developed by                                                             management system       as household income of TT$8,000
+MHUD and its line                                                                                          or less per month. Affordable is
+agencies that is                                                                                           defined as monthly payment at
+affordable to low income                                                                                   prevailing interest rates not to
+households                                                                                                 exceed 30% of gross monthly
+                                                                                                           income.
+
+                                                                                                           ** Note the baseline value is to be
+                                                                                                           updated with more refined data
+                                                                                                           from MHUD.
+                                                                                                       Annex II – TT-L1056 and TT-L1057
+                                                                                                                             Page 5 of 8
+
+                                                               OUTPUTS
+
+                  Unit of    Baseline Baseline   Year   Year    Year   Year   Year   Year   End of     Means of
+  Outputs                                                                                                                Observations
+                 measure      Value    Year       1      2       3      4      5      6     project   verification
+
+Component 1: Urban Residential Infrastructure
+Resilient          Sites        0       2019      0      3       2       0     0      0       5        Program       Contributes to CDRI
+sites built or                                                                                          reports      #21: “Habitat that is
+upgraded                                                                                                             sustainably managed
+                                                                                                                     using ecosystem-
+                                                                                                                     based approaches
+                                                                                                                     (hectares)”.
+Early and        Contracts      0       2019      3      3       4       0     1      1       12       Program       Contributes to CDRI
+emergency                                                                                               reports      #21: “Habitat that is
+civil works                                                                                                          sustainably managed
+investment                                                                                                           using ecosystem-
+packages                                                                                                             based approaches
+completed                                                                                                            (hectares)”.
+
+Component 2: Urban Regeneration
+Revitalization   Projects       0       2019      0      0       2       0     1      0       3        Program       Contributes to IDNGPI
+Projects                                                                                                reports      # 2: “Projects
+completed                                                                                                            supporting productivity
+                                                                                                                     and innovation (%
+                                                                                                                     of new approvals/
+                                                                                                                     commitments)”.
+
+Benchmark:         Plan         0       2019      0      0       2       0     1      0       3        Approved
+Operations                                                                                               Plan
+and
+Maintenance
+Plan
+                                                                                                                   Annex II – TT-L1056
+                                                                                                                            Page 6 of 8
+
+                 Unit of    Baseline Baseline   Year   Year   Year   Year   Year   Year   End of     Means of
+  Outputs                                                                                                               Observations
+                measure      Value    Year       1      2      3      4      5      6     project   verification
+
+Component 3: Affordable Housing Subsidies
+Home            Subsidies      0       2019     492    492    492    492    492     0     2,460      Program       Criteria outlined in the
+Improvement                                                                                           reports      OM.
+Subsidies
+                                                                                                                   Contributes to IDBGPI
+                                                                                                                   #1: “Projects
+                                                                                                                   supporting social
+                                                                                                                   inclusion and equality
+                                                                                                                   (% of new approvals/
+                                                                                                                   commitments)”.
+
+Benchmark:      Subsidies      0       2019     196    196    196    196    196     0      980       Program       40% of HIS.
+Home                                                                                                  reports
+Improvement
+Subsidy
+beneficiaries
+(female led
+households)
+Home            Subsidies      0       2019     211    211    211    211    212     0     1,056      Program       Criteria defined in the
+Construction                                                                                          reports      OM.
+Subsidies
+                                                                                                                   Contributes to IDBGPI
+                                                                                                                   #1: “Projects
+                                                                                                                   supporting social
+                                                                                                                   inclusion and equality
+                                                                                                                   (% of new approvals/
+                                                                                                                   commitments)”.
+Benchmark:      Subsidies      0       2019     84     84     84     84     84      0      420       Program       40% of HCS.
+Home                                                                                                  reports
+Construction
+Subsidies
+(female led
+households)
+                                                                                                     Annex II – TT-L1056 and TT-L1057
+                                                                                                                           Page 7 of 8
+
+                 Unit of    Baseline Baseline   Year   Year   Year   Year   Year   Year   End of     Means of
+  Outputs                                                                                                              Observations
+                measure      Value    Year       1      2      3      4      5      6     project   verification
+Benchmark:      Subsidies      0       2019     50     50     50     50     50      0      250       Program       10% of all HIS.
+Home                                                                                                  reports
+Improvement                                                                                                        Contributes to IDBGPI
+Subsidies for                                                                                                      #1: “Projects
+an additional                                                                                                      supporting social
+housing                                                                                                            inclusion and equality
+solution on                                                                                                        (% of new approvals/
+the                                                                                                                commitments)”.
+beneficiary
+plot
+
+Benchmark:      Subsidies      0       2019     528    528    527    527    527     0      2637      Program       75% of all subsidies.
+Home                                                                                                  reports
+Improvement
+and Home
+Construction
+Subsidies for
+housing
+solutions
+near a main
+transport
+network
+
+Benchmark:      Subsidies      0       2019     50     50     50     50     50      0      250       Program       Approximately 25% of
+Home                                                                                                  reports      HCS.
+Construction
+subsidies
+paired with
+credit from a
+financial
+intermediary
+                                                                                                                    Annex II – TT-L1056
+                                                                                                                             Page 8 of 8
+
+                 Unit of    Baseline Baseline   Year   Year   Year   Year   Year   Year   End of     Means of
+  Outputs                                                                                                                Observations
+                measure      Value    Year       1      2      3      4      5      6     project   verification
+Benchmark:      Subsidies      0       2019     232    232    232    232    233     0     1,161       Program       75% HCS, 15% HIS.
+Home                                                                                                   reports
+Construction
+subsidies and
+Home
+Improvement
+subsidies
+incorporating
+green
+housing
+solutions
+Component 4: Strengthening of Housing and Urban Development Sector Stakeholders
+Sector           Studies       0       2019      0      1      2      2      0      0        5       Approved
+Studies                                                                                             documents
+
+Training        Workshops      0       2019      0      1      1      1      0      0        3        Program       Contributes to CDRI
+workshops                                                                                              reports      #26: “Government
+                                                                                                                    agencies with
+                                                                                                                    strengthened digital
+                                                                                                                    technology
+                                                                                                                    and managerial
+                                                                                                                    capacity’’.
+
+Nationwide       Survey        0       2019      0      1      0      0      -      -        1      Final version
+survey of                                                                                              of the
+squatters                                                                                              Survey
+completed
+                                                                  Annex III - TT-L1056 and TT-L1057
+                                                                                         Page 1 of 7
+
+
+
+                                FIDUCIARY ARRANGEMENTS
+
+COUNTRY:                 Trinidad and Tobago
+PROJECT #:               TT-L1056 and TT-L1057
+NAME:                    Urban Upgrading and Revitalization Program
+EXECUTING AGENCY:        Ministry of Housing and Urban Development (MHUD)
+
+
+                                 I.    EXECUTIVE SUMMARY
+
+1.1   The executing agency is the MHUD through the Program Management and
+      Coordinating Execution Unit (PMCEU) and with participation of the Land Settlement
+      Agency (LSA) as a sub-executing agency. The PMCEU has successfully executed the
+      recently concluded Neighborhood Upgrading Program - 2469/OC-TT.
+1.2   Institutional assessments of the MHUD and LSA were conducted in September 2019
+      using the PACI methodology. The assessments and the previous experiences of the
+      Bank in working with MHUD and LSA concluded a medium fiduciary risk. Supervision
+      and mitigation actions will be focused on efforts to strengthen the fiduciary capacity. A
+      re-evaluation of the fiduciary risks will be conducted during execution to ensure efficient
+      support to project execution.
+1.3   Fiduciary context of the country. The most recent evaluations of the public financial
+      management systems (PFMS) in Trinidad and Tobago were the 2013 Public
+      Expenditure and Financial Accountability (PEFA) and the 2016 Supreme Audit
+      Institution Performance Measurement Framework (SAI-PMF) assessments. The PEFA
+      concluded that PFMS would require further improvements in the areas of accounting
+      and reporting, internal controls and procurement to conform to levels consistent with
+      fiduciary management of Bank-funded projects. The areas of budgeting, treasury and
+      external control are considered satisfactory and are used in sovereign guaranteed
+      operations. The SAI-PMF assessment concluded that the SAI is severely constrained
+      by external factors related to its legal, financial and operational independence and
+      mandate. The Public Procurement and Disposal of Public Property (PPDPP) Act,
+      2015, was assented to in January 2015 and was partially proclaimed in July 2015 to
+      allow for the establishment of the Office of Procurement Regulation (OPR). The
+      Regulations necessary to achieve its full proclamation were drafted in November 2018
+      and are still pending from approval by Parliament. The full proclamation of the PPDPP
+      Act will mean the disbandment of the Central Tenders Board (CTB). Although the
+      implementation of the PPDPP Act is expected to commence once it is proclaimed, the
+      OPR has indicated that there will be a transitional period to the decentralized
+      procurement system established in the act in which the CTB will conclude any ongoing
+      procurement processes. However, Section 7(2)(b) of the PPDPP could create
+      challenges with the implementation of the program, since it states, that in the event of
+      a conflict between the Act and an agreement with an international financing institution,
+      the procurement of goods, works or services shall be governed by the Act. The Act is
+      not yet fully in force since several Sections, including Section 7, are not yet proclaimed,
+      and approval of the Procurement Regulations by Parliament is still pending. The
+      Government has also signaled its intention to propose an amendment to Section 7.
+      Consequently, it is not clear what effect if any this Act will have on the program,
+      however, the Bank is currently engaging the Government in order to address any
+                                                                Annex III - TT-L1056 and TT-L1057
+                                                                                       Page 2 of 7
+
+
+      potential conflict. Since the national procurement system has not yet been validated by
+      the Bank, its use is not contemplated for this operation.
+
+                      II.   EXECUTING AGENCY’S FIDUCIARY CONTEXT
+
+2.1   The MHUD through the PMCEU will be responsible for the overall execution of the
+      Loan. The PMCEU was designed to execute the MHUD’s projects and to actively
+      participate in the design of any new donor funded project, in order to improve the
+      delivery and provide administrative savings and eventual knowledge transfer to the
+      Ministry. In order to strengthen the execution capacity of PCMEU and LSA, a dedicated
+      Financial Specialist and Procurement Specialist should be recruited or seconded to the
+      PCMEU to discharge the expected fiduciary duties for the duration of the Loan.
+2.2   The MHUD use a manual accounting system for the financial management of the
+      MHUD. It Is recommended that this program use an automated integrated accounting
+      system for the financial management of the Program.
+2.3   The MHUD is subject to the CTB Act. All procurement activities with an estimated
+      amount above the Permanent Secretary’s financial limits must be conducted by the
+      CTB on behalf of the Ministry; contracts awarded by the CTB must be prepared by the
+      Chief State Solicitor (CSS) Office for the Ministry’s signature. Section 20(A)(c) of the
+      CTB Act allows the Government to act on its own behalf by entering into a contract with
+      the National Insurance Property Development Company Limited or a company which
+      is wholly owned by the State. LSA is a body corporate established under the State Land
+      (Regularisation of Tenure) Act; it is not subject to the CTB Act. Procurement decisions
+      are made by their Board (Land Settlement Committee) and contracts are signed by the
+      LSA’s Corporate Secretary.
+
+               III.    FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS
+
+3.1   The Project Team in consultation with the MHUD and other stakeholders developed a
+      Risk Matrix which is included in the documents of this operation. The Bank and MHUD
+      will undertake joint reviews of the matrix on a yearly basis and introduce adjustments
+      as deemed necessary.
+3.2   The financial management risk has been classified as medium. The recruitment of a
+      financial Specialist for PMCEU coupled with the provision of training on Bank policies
+      and procedures for both PMCEU and LSA should mitigate the existing risk and
+      strengthen the control environment.
+3.3   Regarding procurement, it is estimated that the overall level of risk is also medium. The
+      MHUD and LSA have experience following the IDB Procurement Policies. The risks
+      associated to the procurement function will be mitigated through the recruitment of
+      Procurement Specialists for both the MHUD and LSA. Additionally, training sessions
+      on the IDB’s Procurement Policies will be conducted by the Bank with the participation
+      of officials from the MHUD and LSA. The use of standardized bidding documents,
+      contracts and templates will be a requirement to make sure all procurement activities
+      are properly documented. Lastly, all national and international competitive bidding
+      processes will be subject to ex-ante review by the Bank.
+                                                                       Annex III - TT-L1056 and TT-L1057
+                                                                                              Page 3 of 7
+
+
+                      IV.     ASPECTS TO BE CONSIDERED IN THE LOAN CONTRACT
+
+4.1         Given the assessment, the following fiduciary arrangements should be considered in
+            the Special Conditions: Exchange Rates, For purposes of accountability and
+            justification of expenses to the Bank, the equivalent amount to be reported in the project
+            currency, shall be determined using the effective exchange rate on the payment date,
+            without regard to the source of the financing used. Applicable rate of exchange shall be
+            the Central Bank of Trinidad and Tobago’s selling rate.
+
+                V.          FIDUCIARY ARRANGEMENTS FOR PROCUREMENT EXECUTION
+
+5.1         Procurement execution: Procurement activities will be carried out in accordance with
+            the Policies for the Procurement of Works and Goods Financed by the Inter-American
+            Development Bank (GN-2349-15), of May 2019, and the Policies for the Selection and
+            Contracting of Consultants Financed by the Inter-American Development Bank
+            (GN-2350-15), of May 2019. They will also be subject to the provisions established in
+            the Loan contract. In addition, the MHUD is required to prepare and submit to the Bank,
+            a General Procurement Notice as well as an initial procurement plan which will be
+            updated in accordance with the applicable sections of the Policies and the Loan
+            Agreement.
+       i.      Procurement of works, goods and non-consulting services: Contracts for
+               works, goods, and non-consulting services subject to International Competitive
+               Bidding will be carried out using the Standard Bidding Documents and standard
+               contracts issued by the Bank. The procurement processes subject to National
+               Competitive Bidding and Price Comparison will be carried out using bidding
+               documents, request for quotations and form of contracts agreed to by the Bank.
+               Templates of evaluation reports provided by the Bank will be used in conducting all
+               procurement activities. The review of technical specifications is a responsibility of
+               the Project Team Leader.
+      ii.       Selection and contracting of consultants: The consulting services contracts will
+                be executed using the Standard Request for Proposals and standard form of
+                contracts issued by the Bank. Templates of evaluation reports provided by the
+                Bank will be used in conducting all procurement activities. The review of terms of
+                reference is a responsibility of the Project Team Leader.
+      iii.      Selection of individual consultants: Individual consultants will be selected in
+                accordance with Section V of GN-2350-15. The review of terms of reference is a
+                responsibility of the Project Team Leader.
+      iv.       The following Single-Source Selection is envisaged: National Insurance
+                Property Development Company Limited (NIPDEC) at an estimated cost of
+                US$1,014,000.00 to provide procurement and project management services for all
+                civil works under Component 3, and for civil works in Tobago under Component 1.
+                NIPDEC is considered to have experience of exceptional worth for the assignment
+                given that for more than four decades it has successfully provided such services
+                on numerous projects, including housing development projects, on behalf of the
+                Government and the THA. As such, a single-source selection is acceptable based
+                on subsection (d) of paragraph 3.11, GN-2350-15. Given that NIPDEC is a
+                state-own enterprise, the MHUD conducted a legal analysis to confirm that the
+                eligibility requirements stated in paragraph 1.13 (b) of the GN-2350-15 are met by
+                NIPDEC.
+                                                                                      Annex III - TT-L1056 and TT-L1057
+                                                                                                             Page 4 of 7
+
+
+       v.        Recurrent expenses: The project may finance recurrent expenses for the
+                 payment of utilities and office operating costs such as security, janitorial and
+                 maintenance services related to the PMCEU office space, purchasing of office
+                 supplies for the PMCEU, costs associated to advertisements of procurement
+                 activities and contracts award notices in national newspapers, remuneration of the
+                 consultants to be hired to strengthen the PMCEU and LSA’s capacity to implement
+                 the program as well as the cost of air travel and per diem, and other transportation
+                 costs for the PMCEU members.
+      vi.        Retroactive financing: It is anticipated that the project may finance retroactively
+                 under the loan, eligible expenses incurred by the Borrower prior to the date of loan
+                 approval up to the amount US$156,566 (0.31% of the of eligible expenses
+                 proposed loan amount), for project management fees under Components 1 and 2;
+                 and project administration consultant remuneration expenses for the Financial
+                 Specialist, Monitoring and Evaluations Specialist, Procurement Specialist,
+                 Environmental/ Health and Safety Officer, Social/ Community Engagement
+                 Specialist, and Housing Development Inspectors). These expenses must have
+                 been incurred or on after September 13th, 2019 (approval date of the Project
+                 Profile), and under no circumstances shall expenditures incurred more than 18
+                 months prior to the loan approval date be included.
+
+                              Table 1. Trinidad and Tobago’s thresholds Table (US$’000)
+                                                                             Goods and non-
+                     Procurement method                       Works                                   Consulting Firms
+                                                                            consulting services
+             International Competitive Bidding              > 3,000                > 250                       -
+             National Competitive Bidding                   > 250 *               > 50 *                       -
+             Price Comparison                                < 250                 < 50                        -
+             International Shortlist                           -                     -                       > 200
+             Shortlists solely by Nationals                    -                     -                       < 200
+             * When procuring simple works and common goods and their amount is under the International Competitive
+             Bidding thresholds, Price Comparison may be used
+
+5.2         Procurement plan: The Procurement Plan for the operation covering the first
+            18 months of project execution can be accessed through the following REL#4. The
+            online Procurement Plan Execution System, or any other electronic tool developed by
+            the Bank, will be used for the management and publication of the Procurement Plan
+            during the implementation of the project. The MHUD/PMCEU will be responsible for
+            preparing and maintaining up to date the procurement plan for the entire operation. The
+            table below includes the list of the main procurement activities for this Loan.
+
+                                            Table 2. Main procurement activities1
+                          Activity                 Procurement           Estimated period for        Estimated amount
+                                                     method               commencing the
+                                                                              process
+              Civil Works
+              Sahadeen Trace                            NCB                     IQ 2020                    2,352.9
+              Bois Bande C                              NCB                     IQ 2020                    2,647.06
+              Factory Road*                             PC*                   I-IVQ 2020                    735.29
+              Roads work at Wallerfield                 NCB                     IQ 2020                     1,500
+
+
+1
+    Components 1 and 2 will be executed as a Multiple Works Program (MWP). The details below only includes contracts
+    identified as part of a sample.
+                                                                                   Annex III - TT-L1056 and TT-L1057
+                                                                                                          Page 5 of 7
+
+
+                    Activity                  Procurement            Estimated period for          Estimated amount
+                                                method                commencing the
+                                                                          process
+        Guapo, Point Fortin                         ICB                     IVQ 2020                     4,029.41
+        Diego Martin*                               PC*                IIQ 2020 – IQ 2023                2,478.56
+        Riseland                                   NCB                       IIQ 2020                    1,256.71
+        Eastside Plaza regeneration                 ICB                      IIQ 2023                    6,029.41
+        Scarborough Esplanade                       ICB                      IQ 2022                     5,522.39
+        Project 3                                   ICB                      IQ 2022                      2,934.2
+        Consulting services
+        Procurement services and                    SSS                     IIIQ 2020                      1,014
+        project management services
+        (NIPDEC)
+        National Squatter Survey                   CQS                      IVQ 2020                        150
+        Study on appropriate                       CQS                       IIQ 2020                        50
+        development standards for
+        hillside development
+        Infrastructure Investment                  QCBS                      IIQ 2020                       250
+        Plan for Tobago
+        Wastewater Management                      QCBS                     IIIQ 2020                       300
+        Plan and Drainage Plan for
+        Diego Martin area
+        National Housing Market                    QCBS                     IIIQ 2020                       250
+        Study
+        Information Systems (Real                  CQS                       IIQ 2020                       130
+        Estate Management and
+        Housing Market) updates
+        Impact evaluation of squatter              CQS                       IIQ 2020                       100
+        regularization
+        *Several packages. Considering that this are simple works, separate procurement process will be carried out
+        using Price Comparison method. The estimated amount for each one of the processes is below the ICB threshold
+
+                                   Table 3. Threshold for ex-post review (US$’000)*
+
+                                                    Goods and non-consulting
+                      Works                                                                    Consulting services
+                                                            services
+
+                    Up to 250                                  Up to 50                                  N/A
+        *The established threshold amounts for ex-post review are applied based on the fiduciary capacity of the
+        executing agency and can be modified by the Bank, if the level of capacity varies during implementation
+
+
+5.3   Procurement supervision. The following considerations will apply: (i) All procurement
+      activities to be partially or in whole funded with loan resources will be listed in the
+      procurement plan indicating the applicable supervision method; (ii) ICBs and NCBs
+      processes will be subject to ex-ante review; (iii) Ex-post review visits will be performed
+      every 6 months; the reports will be uploaded to the Supervision Plan in Convergence;
+      and (iv) It will be conducted at least one physical inspection visit per year to verify the
+      existence of works or goods; the sample covered by the visit will correspond at least to
+      10% of the revised contracts.
+5.4   Records and files. It has been agreed that the MHUD and LSA shall maintain the files
+      and records of the project according to accepted best practices and be kept for up to
+      three years beyond the end of the operation’s Last Disbursement Date. Contracts let to
+                                                                    Annex III - TT-L1056 and TT-L1057
+                                                                                           Page 6 of 7
+
+
+      third parties will require retention of documents and records related to the
+      Bank-financed activities for seven (7) years after completion of the work contemplated
+      in the relevant contract. The minimum content of procurement files will be established
+      in the Operating Manual.
+
+                               VI.    FINANCIAL MANAGEMENT
+
+6.1   Reports and audited financial statements: (i) annual financial statements of the
+      project, audited by the Auditor General of Trinidad and Tobago or an eligible
+      independent Audit firm are to be submitted to the Bank within 120 days at the end of
+      each fiscal year, beginning with the fiscal year in which the first project expenditures
+      are incurred; and (ii) a final audited financial report of the program is to be submitted
+      within 120 days after the date of the last disbursement.
+6.2   Programming and budget. The Ministry of Planning and Development will liaise with
+      the MHUD to facilitate the assignment of a Budget Line in the National Budget. to allow
+      for drawdowns under the proposed loan.
+6.3   Accounting and information systems. An off-shelf automated accounting system will
+      facilitate the recording and classification of all financial transactions.
+6.4   Treasury (disbursements and flow of funds). The MoF will establish, a special
+      account, denominated in US Dollars at the Central Bank of Trinidad and Tobago for
+      project resources. The main disbursement methodology will be the Advance of Funds
+      based on a 6 month cash flow needs. The trigger for new advances will be
+      80% justification of the previous advance. In order to request disbursements from the
+      Bank, the EA will present the following:
+
+                            Table 4. Forms and supporting documents
+             Type of                                               Optional forms/ information that
+                                     Mandatory Forms
+          Disbursement                                                can be requested by the IDB
+       Advance of Funds     Disbursement Request/ Financial Plan   List of Commitments
+                                                                   Physical/Financial Progress
+                                                                   Reports
+       Reimbursements of    Disbursement Request/ Project          List of Commitments
+       Payments Made        Execution Status/ Statement of         Physical/Financial Progress
+       (Direct Payment to   Expenses                               Reports
+       Borrower)
+       Direct Payment to    Disbursement Request/ Statement of     List of Commitments
+       Supplier             Expenses/Acceptable Supporting         Physical/Financial Progress
+                            Documentation                          Reports
+
+
+6.5   Supporting documentation for disbursements will be kept at the office of the EA and be
+      reviewed by the Bank on an ex-post basis.
+6.6   Internal controls and internal audit. The MHUD will assume the responsibility for
+      designing and implementing internal controls for the project which will be documented
+      in the OM and provide reasonable assurance that: (i) the project funds are used for
+      their intended purpose; (ii) project assets are properly safeguarded; (iii) project
+      transactions, decisions and activities are properly authorized, documented, recorded
+      and supported; and (iv) project transactions are executed in accordance with the
+      established policies, practices and procedures delineated in the legal agreements.
+                                                               Annex III - TT-L1056 and TT-L1057
+                                                                                      Page 7 of 7
+
+
+6.7   External control and reporting. The MHUD through the PCMEU will submit annual
+      Financial Reports of the Program and one final Audited Financial Report at the end of
+      the Program, audited by the Auditor General of Trinidad and Tobago or an eligible
+      independent audit firm.
+6.8   Financial supervision. Financial Supervision will be developed based on the initial
+      and subsequent risk assessments carried out for the project. Execution mechanism.
+      MHUD through PMCEU will be the EA with responsibility for the financial administration
+      of the program. The responsibilities will include: (i) preparation of required project
+      reports; (ii) monitoring product, output and outcomes achievement using established
+      indicators; (iii) preparation and submission of disbursement requests to the Bank and
+      justification of expenses; (iv) preparation of financial reports; (v) ensure compliance
+      with all aspects of the Operating Manual; and (vi) maintain adequate documentation
+      filing system.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-__/20
+
+
+
+        Trinidad and Tobago. Loan ____/OC-TT to the Republic of Trinidad and Tobago
+                        Urban Upgrading and Revitalization Program
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with the Republic of Trinidad and Tobago, as borrower, for the purpose of granting it a
+financing to cooperate in the execution of the Urban Upgrading and Revitalization Program. Such
+financing will be for the amount of up to US$32,500,000 from the resources of the Bank’s Ordinary
+Capital, and will be subject to the Financial Terms and Conditions and the Special Contractual
+Conditions of the Project Summary of the Loan Proposal.
+
+
+
+                              (Adopted on ___ ___________ 2020)
+
+
+
+LEG/SGO/CCB/EZSHARE-1327018462-4051
+TT-L1056
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-__/20
+
+
+
+        Trinidad and Tobago. Loan ____/OC-TT to the Republic of Trinidad and Tobago
+                        Urban Upgrading and Revitalization Program
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with the Republic of Trinidad and Tobago, as borrower, for the purpose of granting it a
+financing to cooperate in the execution of the Urban Upgrading and Revitalization Program. Such
+financing will be for the amount of up to US$17,500,000 from the resources of the Bank’s Ordinary
+Capital, and will be subject to the Financial Terms and Conditions and the Special Contractual
+Conditions of the Project Summary of the Loan Proposal.
+
+
+
+                              (Adopted on ___ ___________ 2020)
+
+
+
+LEG/SGO/CCB/EZSHARE-1327018462-4052
+TT-L1057
+

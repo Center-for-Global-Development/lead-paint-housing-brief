@@ -1,0 +1,1429 @@
+Land Acquisition and Involuntary Resettlement
+Due Diligence Report
+
+PUBLIC
+
+Project Number: 54355-001
+March 2026
+
+
+
+
+Bhutan: Green and Resilient Affordable Housing
+Sector Project-Samtse
+
+Package No.: CW-10
+
+
+
+
+ Prepared by the National Housing Development Corporation Ltd. for the Royal
+ Government of Bhutan and the Asian Development Bank (ADB).
+          CURRENCY EQUIVALENTS
+               (As of 25 March, 2026)
+     Currency unit – Bhutanese Ngultrum
+         (Nu.) Nu. 1.00= $ 0.011
+            $1.00 = Nu. 94.25
+
+
+
+              ABBREVIATIONS
+
+ADB      –   Asian Development Bank
+AHDP     –   Affordable Housing Development Project
+BDBL     –   Bhutan Development Bank Limited
+BHRM     –   Bhutan Resident Mission (Of ADB)
+BOB      –   Bank Of Bhutan
+BPC      –   Bhutan Power Corporation
+COVID    –   Corona Virus Disease
+DDR      –   Due Diligence Report
+DMS      –   Detailed Measurement Survey
+DPR      –   Detailed Project Report
+EHS      –   Environment Health & Safety
+FGD      –   Focus Group Discussion
+FYP      –   Five-Year Plan
+GBV      –   Gender Based Violence
+GRAHSP   –   Green Resilient and Affordable Housing Sector Project
+GRC      –   Grievance Redressal Committee
+GRM      –   Grievance Redress Mechanism
+LAP      –   Local Area Plan
+LUC      –   Land Use Certificate
+MASL     –   Meters Above Sea Level
+NCWC     –   National Commission for Women and Children
+NHDCL    –   National Housing Development Corporation Limited
+NKRA     –   National Key Result Area
+NLC      –   National Land Commission
+NOC      –   No Objection Certificate
+PIAC     –   Project Implementation Assistance Consultant
+PIU      –   Project Implementation Unit
+PMU      –   Project Management Unit
+PSC      –   Project Steering Committee
+RGOB     –   Royal Government of Bhutan
+RICBL    –   Royal Insurance Corporation of Bhutan Limited
+ROW      –   Right Of Way
+SPS      –   Safeguard Policy Statement
+SSMR     –   Semi-Annual Social Monitoring Reports
+SCE      –   Samtse College of Education
+SLSS     –   Samtse Lower Secondary School
+                              Dzongkha Terminology
+
+                   Ngultrum            –      Bhutanese Currency
+                   Thromde             –      Municipality
+                   Mani Dungkhor       –      Prayer wheel
+                   Tshogpa             –      Village Representative
+                   Chorten             –      Temple
+                   Dzongkhag           –      District head quarter
+                   Dungkhag            –      Sub-district
+                   Chhu                –      River
+                   Kidu                –      Grant
+                   Gewog               –      Block
+
+
+
+
+                                             NOTE
+
+                         In this report, "$" refers to United States dollars.
+This land acquisition and involuntary resettlement due diligence report is a document of the
+borrower. The views expressed herein do not necessarily represent those of ADB's Board of
+Directors, Management, or Staff, and may be preliminary in nature. Your attention is directed to
+the “terms of use” section of ADB’s website.
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, ADB does not intend to
+make any judgments as to the legal or other status of any territory or area.
+                                                           Table of Contents
+
+I.            INTRODUCTION ................................................................................................................... 1
+
+     A.       Project Overview ................................................................................................................... 1
+
+     B.       Subproject Rationale ............................................................................................................. 1
+
+     C.       Scope and Objective of the Due Diligence Report ................................................................. 2
+II.           SUBPROJECT DESCRIPTION ............................................................................................. 3
+
+     A.      Project Location and Area ....................................................................................................... 3
+
+     B.      Subproject Alternatives and Site Selection.............................................................................. 6
+
+     C.    Subproject Components and Design ........................................................................................ 7
+III.          LAND AVAILABILITY ......................................................................................................... 18
+
+     A.       Land Acquisition and Involuntary Resettlement ................................................................... 18
+
+     IMPACT ON INDIGENOUS PEOPLES ........................................................................................... 21
+IV.           CONSULTATION PARTICIPATION AND DISCLOSURE ................................................... 21
+V.            INFORMATION DISSEMINATION ...................................................................................... 23
+VI.           GRIEVANCE REDRESS MECHANISM .............................................................................. 23
+VII.          CONCLUSION .................................................................................................................... 26
+VIII.         NEXT STEPS ...................................................................................................................... 26
+
+                                                           List of Figures
+
+
+ Figure 1: Map of Bhutan with Subproject Location .............................................................................. 3
+ Figure 2: Proposed Subproject site..................................................................................................... 4
+ Figure 3: Proposed Entry/Exit routes to the Project Site ..................................................................... 4
+ Figure 4: Vicinity Map of Subproject Site Showing Immediate Surroundings ...................................... 5
+ Figure 5: Subproject Site .................................................................................................................... 6
+ Figure 6: The Proposed Layout of the Buildings, Access and Parking .............................................. 10
+ Figure 7: External Façade or Building Sections ................................................................................ 11
+ Figure 8: Layout Plan for Category III ............................................................................................... 13
+ Figure 9: Layout Plan for Category IV ............................................................................................... 14
+ Figure 10: Layout Plan for One Bedroom Apartment ........................................................................ 15
+ Figure 11: Grievance Redressal Mechanism .................................................................................... 25
+                                                              List of Tables
+
+
+Table 1: Details of the housing complex at Samtse Subproject .......................................................... 8
+Table 2: Details of subproject component at Samtse Subproject ........................................................ 9
+Table 3: Daily Water Requirement Calculation ................................................................................. 17
+Table 4: Details of the plot allocated for developing the housing project at Samtse .......................... 18
+Table 5: Subproject Components and their Land Acquisition and Resettlement Impacts for the
+Samtse housing site ......................................................................................................................... 18
+Table 6: Details of land availability, ownership, and status of No Objection Certificate (NOC) .......... 20
+Table 7: Public Consultations Conducted ........................................................................................ 22
+Table 8: Schedule of Consultation and Disclosure Activities ............................................................. 23
+
+                                                                 Appendices
+
+
+Appendix 1: Land Use Certificate (LUC) ........................................................................................... 27
+Appendix 2: Minutes of Meeting for Consultation .............................................................................. 29
+Appendix 3: Involuntary Resettlement Impact Categorization Checklist ............................................ 33
+Appendix 4: Grievance Registration Format ..................................................................................... 34
+Appendix 5: Vacant Land Transfer Letter ......................................................................................... 35
+Appendix 6: Construction Permit ...................................................................................................... 36
+Appendix 7:NOL from the Samtse Dzongkhag administration for the use of Municipal Road and
+Water Supply .................................................................................................................................... 37
+Appendix 8: Site photographs........................................................................................................... 38
+Appendix 9: Minutes of Meeting with Stakeholders, Samtse ............................................................. 39
+Appendix 10: Condition Assessment of Old Structures by Regional Office, Phuentsholing ............... 45
+Appendix 11: Provision of Alternative Housing Options .................................................................... 46
+Appendix 12: Notification on voluntary vacation by CFO .................................................................. 47
+Appendix 13: Work Award Letter for Dismantling of structures ......................................................... 48
+                                                                                                   1
+
+
+
+                                          I.      INTRODUCTION
+
+A.     Project Overview
+
+1.     The Green Resilient and Affordable Housing Sector Project (GRAHSP) will assist the
+Royal Government of Bhutan (RGOB) in establishing housing infrastructure (i.e. shelters and
+other facilities) and provide services i.e., business development, child care centers (crèches), to
+marginalized urban workers including survivors of Gender-Based Violence (GBV), vulnerable
+women (victims/survivors of violence, poor working mothers caring for children and marginalized
+informal sector workers) in Thimphu, Phuentsholing municipalities (Thromde), Nganglam,
+Trashiyangtse, Samdrup Jongkhar, Pemagatshel, Chhukha and Samtse while also adopting
+climate adaptation and disaster risk reduction in housing projects. The Project is in line with ADB’s
+Strategy 2030, the Country Partnership Strategy (2019-2023), ADB Safeguard Policy Statement
+2009 (SPS 2009), and the 12th Five-Year Plan’s national key result area (NKRA) of sustainable
+human settlements and gender equality. In the 12th Five-Year Plan, one of the aims is to remove
+barriers (including GBV) that limit the opportunities and potentials of women and girls by creating
+enabling policies and providing adequate support services.1 The Project is also aligned with the
+Disaster Management Act (2013) and supports a systematic approach to disaster risk
+management.
+
+2.     The project investments will include (1) housing for marginalized urban workers in
+Thimphu, Phuentsholing, Trashiyangtse, Samdrup Jongkhar, Pemagatshel, Chhukha, Samtse
+and Nganglam, comprising civil servants, workers from corporations and private companies who
+earn low incomes and for whom the affordable housing is intended. (2) Integrated service centers
+in affordable housing colonies comprising facilities with services such as crèches for working
+mothers (operated on the Public-private partnership (PPP) model), health services including
+awareness campaigns on preventive measures for COVID-19 infection and similar diseases,
+psychological counseling, legal assistance, court representation, police protection, temporary
+shelter, livelihood and employment skills development, and assistance in community
+reintegration to be operated by the National Commission for Women and Children (NCWC), an
+autonomous agency in Bhutan. (3) investment in disaster and climate resilient designs and related
+technologies. The implementation agency is the National Housing Development Corporation Ltd.
+(NHDCL).
+
+B.     Subproject Rationale
+
+3.      Over the past decades, the growth in urban population due to increasing rural-urban
+migration and increasing development in urban areas has exerted great pressure on existing
+services. The rise in urban population is primarily driven by rural-to-urban migration, motivated
+by better socioeconomic opportunities such as employment, education, and access to services2.
+Urbanization is the key driver of housing demand in Bhutan’s urban centers. The urban
+population rose from 15% in 1999 to 30.9% by 2005 and reached 37.8% in 2017. Currently, it
+stands at around 40% and is projected to grow to 56.8% by 20473. The rapid development of the
+Dhamdhum and Norbugang Industrial Parks, along with the government’s plans for a dry port at
+Gawadrong and enhanced connectivity through the upcoming railway link, is expected to
+significantly increase housing demand in Samtse4. With 14 industries already operational in
+Dhamdhum Industrial Park with more industries under construction and additional medium, light,
+and heavy industries planned across both parks, including eight large ferro industries in
+Norbugang, the Dzongkhag will attract new settlers into the region, including a substantial influx
+of workers, technicians, and service providers. This anticipated influx will add considerable
+pressure to an already strained housing market5, where newcomers struggle to find affordable
+
+1 National Happiness Commission. 2019. 12th Five Year plan. 2018-2023. Thimphu.
+2 Ministry of Works and Human Settlement 2019. National Housing Policy (Revised).
+3 ADB 2021. Report on Housing Market Demand Survey.
+4 The Bhutanese 2024. https://thebhutanese.bt/samtse-to-be-an-industrial-hub/
+5 Bhutan Broadcasting Services 2022, https://www.bbs.bt/165600 /
+2
+
+accommodation, rents continue to rise, and even civil servants and business owners face acute
+shortages. Furthermore, with only a limited number of residential buildings available, rental prices
+have soared, forcing many people to share spaces with friends or relatives or stay outside the
+town area. Some residents report searching for months without success, while others struggle
+to cope with rising rents that are comparable to those in larger towns like Phuentsholing and
+Thimphu. The situation has become so challenging that hotel owners have converted their rooms
+into temporary residential units, all of which are already occupied. Residents attribute the chronic
+housing crunch to a growing population and the limited number of buildings in the town, with only
+about 18 structures serving both commercial and residential purposes. Although a few new
+buildings are nearing completion, the current supply still falls far short of the rising demand,
+highlighting the urgent need for more housing development in Samtse6. As Samtse positions
+itself as a key industrial hub due to its strategic border location, logistics advantages, and
+resource availability, the gap between housing supply and demand is expected to widen unless
+additional residential infrastructure is developed.
+
+4.     Under the 12th Five-Year Plan (FYP), the Government has a designated NKRA that aims
+to improve livability, safety and sustainability of human settlements through access to adequate,
+affordable housing, efficient and effective municipal services, and clean and green public spaces
+for social engagement. An integral part of NKRA 15 is the provision of affordable housing, which
+is the primary objective of this subproject.
+
+C.     Scope and Objective of the Due Diligence Report
+
+5.     The proposed subproject under GRAHSP Samtse has been assessed for the involuntary
+resettlement impact based on ADB SPS 2009. It has been confirmed that no involuntary
+resettlement impacts are anticipated for the construction of the proposed components. The main
+objective of the due diligence exercise is to confirm that the subproject is free of involuntary
+resettlement impacts such as land acquisition, physical displacement, economic displacement,
+adverse impact on livelihood, community properties, or any other impacts, based on a review of
+land records, stakeholder consultations, and field visits to proposed project locations. This
+document describes the findings and provides copies of relevant documents, stakeholder
+consultation, public consultation, minutes of meetings, and photographs.
+
+6.     Due diligence was carried out for subproject components of the Samtse that include: (i)
+construction of Category III (Type II)-1 block of 16 units, (ii) construction of Category IV (Type III)
+- 2 blocks with 32 units, (iii) construction of 1 BHK-1 block with 16 units, (iv) parking and internal
+road for tenants; (v) Provision for water storage tank; (vi) drinking water reservoir tank; (vii)
+substation; and (viii) solid waste station.
+
+7.     During the project preparation stages, due diligence involved site visits and discussions
+with relevant key stakeholders such as the Dzongkhag Administration and residents of the
+project vicinity. Consultations were held to inform and engage local stakeholders about the
+proposed developments and to incorporate community insights into the project planning process.
+The presentation followed discussions revolving around the housing sites, housing stock to be
+constructed, the size and layout of apartments, and rental rents. Potential environmental and
+social impacts during construction were discussed, along with proposed mitigation measures.
+The Grievance Redress Mechanism (GRM) was also explained, including procedures for
+submitting and resolving complaints.
+
+8.     This Due Diligence Report (DDR) has been prepared following the finalization of the
+detailed design, for which the construction permit was granted under Letter No. SD/ENGG-
+13/2025-2026/2081 dated 22 October 2025 (see Appendix 6), and based on the Detailed
+Measurement Survey (DMS) conducted on 19 January 2026. Before the start of civil work, in
+case any involuntary resettlement impacts are identified, this report will be updated (including
+revision of the project impact category) and submitted to ADB for approval and will be published
+on the ADB and NHDCL websites for public disclosure.
+
+6 https://www.bbs.bt/165600/
+                                                                                                      3
+
+                                    II.   SUBPROJECT DESCRIPTION
+
+
+A.     Project Location and Area
+
+9.     The proposed site is in Samtse Dzongkhag. Samtse Dzongkhag is bordered by Chhukha
+Dzongkhag to the east, Haa Dzongkhag to the north, and lies at an elevation of 200-4,4007
+meters above sea level and falls within the subtropical monsoon climate zone, characterized by
+substantial forest cover. Monthly temperatures range from around 15°C in winter to 30°C in
+summer, with an annual rainfall of 1,500-4,000 mm. Summers are generally hot and humid, while
+winters are dry and moderately cool. The subproject location is provided in Figure 1. The
+subproject site, located within Samtse Thromde, is adjacent to the Samtse College of Education
+(26°53'57"N 89°06'03"E) at an elevation of 454.43 m. The total site area required for the
+infrastructure work is 1.43 acres, and the Land User Certificate (LUC) (plot number ST1-670)
+has been issued to the NHDCL by the National Land Commission (NLC) (Appendix 1).
+
+                       Figure 1: Map of Bhutan with Subproject Location
+
+
+
+
+ Source: Google Earth Website
+
+10. The project site is accessible from the road junction where one route leads to Samtse
+Phuentsholing Highway and the other to Samtse College of Education and Samtse Higher
+Secondary School. The proposed subproject is located to the North of the existing NHDCL
+housing colony situated below the Samtse College of Education, which currently comprises 4
+residential bungalows.
+
+11. The project area is bounded by roads connecting to the Samtse-Phuentsholing Highway
+and to nearby schools and the college, ensuring convenient and reliable access during
+construction and later during operation when the housing complex is occupied.
+
+
+
+
+7 MoWHS, 2021. https://www.moit.gov.bt/wp-content/uploads/2022/05/Samtse-Flood-Management-Plans.pdf
+4
+
+                              Figure 2: Proposed Subproject site
+
+
+
+
+Source: NHDCL
+
+12. The site falls within an urban village and is considered a built-up area with existing
+residential and institutional establishments in the vicinity. It is accessible via a road junction
+where one route leads to the Samtse-Phuentsholing Highway and the other to the Samtse
+College of Education and Samtse Higher Secondary School. The proposed site will feature two
+entry and exit points from the existing Local Area Plan (LAP) road that links to the Samtse
+College of Education and the Samtse Higher Secondary School. A figure showing the access
+roads is provided in Figure 3 for reference.
+
+                   Figure 3: Proposed Entry/Exit routes to the Project Site
+
+
+
+
+Source: NHDCL
+                                                                                                5
+
+13. The proposed site is surrounded by residential, commercial, and institutional
+establishments. Educational institutions, including the Samtse College of Education, Samtse
+Lower Secondary School, and Samtse Higher Secondary School, are located approximately 245
+m, 251 m, and 322 m from the proposed site. The nearest Physical and Cultural Resource (PCR)
+is the Samtse Dzong and Sigdrok Khorlo Chorten, located about 650 m away. Other Physical
+and Cultural Resource (PCRs), such as the Shivalaya Hindu Mandir, Drodul Chorten, a chorten
+in the core town, and Samtse Dratshang, are situated more than 1.2 km from the project site.
+The crematorium in Majathang is located approximately 3.10 km away from the project site. The
+vegetable market and hospital are located approximately 500 m and 2.2 km away, respectively.
+The Dhamdum Industrial Park is located over 3.5 km away. Financial institutions, including the
+Bank of Bhutan (BOB), Royal Insurance Corporation of Bhutan Limited (RICBL), Bhutan National
+Bank (BNB), Bhutan Development Bank Limited (BDBL), and Druk Punjab National Bank (Druk
+PNB), are situated in the town core, approximately 1.5 km from the site.
+
+        Figure 4: Vicinity Map of Subproject Site Showing Immediate Surroundings
+
+
+
+
+ Source: NHDCL
+
+14. The Samtse subproject site previously accommodated two single-storey bungalow
+structures, one of which served as the official residence of the Chief Forestry Officer, while the
+other remained vacant due to its old and dilapidated condition. A formal condition assessment
+carried out by the Regional Office on 24 February 2025 (Appendix 10) concluded that both
+structures required extensive repair and maintenance, which could not be accommodated within
+the 2025 budget. Consequently, the Regional Office initiated arrangements to provide alternative
+housing through the NHDCL Dzongkhag focal, who identified two alternative housing options as
+reported in Appendix 11. However, the Chief Forestry Officer voluntarily vacated the residence
+on 31 July 2025 (Appendix 12) and subsequently relocated to government provided housing
+within the Forest Range Office premises.
+
+15. Following the voluntary vacation, the Regional Office, Phuentsholing, proceeded with
+dismantling of the structures by awarding the work to Mr. Anup Agarwal Scrap, Jaigaon, on 28
+August 2025, which was completed within a month (Appendix 13). Upon full clearance of the
+site, the Regional Office formally transferred the land to GRAHSP on 30 September 2025 for
+future development. The handing over letter for the project site is attached as Appendix 5.
+
+16. It is emphasized that the relocation of the occupant and removal of structures were entirely
+undertaken by the Regional Office as part of routine asset management and were not associated
+with the project. The project commenced subsequent activities only after the land was officially
+handed over in vacant condition, including obtaining the construction permit on 22 October 2025
+(Appendix 6).
+6
+
+                                           Figure 5: Subproject Site
+
+
+
+
+                     Subproject Site
+
+
+
+
+B.        Subproject Alternatives and Site Selection
+
+17. The Samtse subproject will be developed on the identified site due to its suitability and
+availability. There are no project alternatives because of the shortage of housing in the
+municipality. Since the plot has already been allocated to NHDCL by National Land Commission
+Secretariat (NLCS), land acquisition is not required. The site is also highly convenient for
+potential future residents, given its proximity to the town center and key institutions, including
+schools. This location will help reduce travel time and associated costs for future occupants. The
+government has placed great emphasis on improving livability and reducing disparities in access
+to affordable housing for low-income groups, and this subproject is part of the government’s effort
+to reduce housing shortages.
+
+18. Overall, while the housing development is intended for the low-income groups, the site
+selection has considered several factors that will ensure avoidance of minimal environmental
+impacts, and will safeguard the welfare and well-being of the future occupants, such as, but not
+limited to, the following:
+       (i)     Comply with all requirements of relevant national, state and local laws, rules and
+               regulations;
+       (ii)    Complies with all requirements of ADB SPS, 2009;
+       (iii)   Does not involve components, processes and technologies that pose significant
+               threat to public health and the environment, such as incinerators, etc.;
+       (iv) Does not involve works within or near environmentally sensitive locations (must be
+               at minimum distance of 500m), including sites with national or international
+               designation for nature conservation, cultural heritage, or any other purposes:8
+       (v)     Does not result in destruction of or encroachment onto physical cultural resources
+               such as archaeological monuments; heritage sites; and movable or immovable
+               objects, sites, structures, groups of structures, and natural features and landscapes
+               that have archaeological, paleontological, historical, architectural, religious,
+               aesthetic, or other cultural significance:
+       (vi) Does not lead to degradation of cultural properties, and loss of cultural heritage
+               values and tourism revenues;
+       (vii) Not located in flood zones and/or adjacent to natural water courses (must not be
+               within 30 meters from the edge of major streams, and/or within 15 meters from the
+               edge of small streams);
+       (viii) Does not lead to alteration of surface water hydrology of streams/waterways
+               through diversion of flow or reclamation;
+
+
+8
+    The subproject shall comply with Bhutan Building Regulations 2023
+                                                                                                       7
+
+         (ix)    Not located in areas that can cause adverse impact on human health, such as but
+                 not limited to the following:
+                 ●      Municipal solid waste dumps (approximately 4 km away);
+                 ●      Sewerage Treatment Plants (STPs) (must be at least 500 m away);
+                 ●      Industrial area with polluting industries (must be at least 500 m away or at a
+                        distance wherein pollutants will not affect the ambient air quality at the site,
+                        whichever is stricter); and
+                 ●      High-tension cables (distance must be in compliance with the guidelines of
+                        the Bhutan Power Corporation and Bhutan Electricity Authority to avoid long
+                        term exposure to high electromagnetic fields (EMF)). The distance from high
+                        tension cable should ensure that the EMF is reduced to safe exposure level;9
+         (x)    Area that has sufficient space for all allied infrastructures. If there is no centralized
+                septage management in the town, the area shall have sufficient space for septic
+                tanks/chambers designed to accommodate target number of occupants;
+         (xi) Avoids area with risk of landslides, unstable lands, etc. based on historical data,
+                including geotechnical studies, if possible;
+         (xii) Avoids removal of trees where possible. When mature trees must be removed, new
+                trees must be planted following the compensatory replacement required by the
+                government;
+         (xiii) Area that is included in territorial jurisdiction of the municipality/town/city (Samtse
+                municipality for this subproject), compliant with land use regulations, and any urban
+                development plans or master plans of the national or local government;
+         (xiv) Area where access to basic services can be practically built or established. These
+                basic services include water supply, sewerage system, electricity,
+                telecommunication, sanitation/solid waste management, etc.;
+         (xv) If area is outside the periphery of the urban center, the area should be accessible
+                via public transport and/or has road infrastructures leading to civic centers, markets,
+                institutions such as hospitals, schools, etc.;
+         (xvi) Does not adversely affect the existing community resources/ facilities, such as
+                roads, sanitation services, water supply, solid waste management, power supply,
+                parking spaces, etc.; and
+         (xvii) Ensures that the subproject design will not lead to depletion of water supply and
+                degradation of groundwater and surface water in the area. The following should be
+                considered:
+                ●       Conservation measures integrated into the design;
+                ●       Water supply is sufficient during the operation phase. Liaising with water
+                        supply provider should be part of the consultation and assessment; and
+                ●       Not to overburden the sewerage system and other infrastructures in the area.
+
+C.      Subproject Components and Design
+
+19. The subproject at Samtse is one of the 12 subprojects designed by the NHDCL that will
+provide affordable housing in six Dzongkhags, bringing the benefits to an estimated 801 urban
+households-mostly low-income civil servants, corporate employees, and wage workers.
+
+20. For this subproject, the development works involve the construction of four buildings in
+total, which include one Category III building with 16 residential units, two Category IV buildings
+with 32 units, and one 1BHK building with 16 units. All residential buildings will have four floors,
+resulting in a total of 64 residential units. Details are provided in Table 1.
+
+
+
+
+9
+    US EPA: Questions and Answers About Electric and Magnetic Fields (EMFs).
+8
+
+
+
+
+                      Table 1: Details of the housing complex at Samtse Subproject
+
+     Sl.                                Number of
+     No.           Building Type        Buildings              Total                      Measurements
+         1       Category III               1                 16 units            Plinth area (1st Floor): 386.1m2
+                 (Type II)                             (1 Bldg. x 4 floors x 4    (4,154.4 sq.ft.)
+                                                               units)             Unit area: 80.7 m2 (868.3sq.ft)
+        2        Category IV                2                 32 units            Plinth Area (1st Floor): 289.4m2
+                 (Type III)                            (2 Bldg. x 4 floors x 4    (3,113.9 sq.ft)
+                                                               units)             Unit Area: 62.7 m2 (674.6sq.ft)
+        3        1 BHK Building             1                 16 units            Plinth Area (1st Floor): 213.4 m2
+                                                       (1 Bldgs. x 4 floors x 4   (2,296.2 sq.ft.)
+                                                               units)             Unit Area 46.8 m2 (503.6sq.ft.)
+                 Total                      4                    64               See details under description
+
+                 Facilities                         Description                               Total Area
+        4        Internal road and To fit 48 light vehicles and 26 2-wheelers               1183.3m2
+                 parking
+        5        Other facilities
+                     • Pedestrian footpath
+                     • Drinking water storage tanks
+                     • Sub-station
+                     • Waste station
+Source: Design Section, NHDCL
+
+
+
+
+1.           Building Design
+
+21. The buildings are designed keeping in mind the location within the Local Area Plan and
+Development control regulation 2022, Bhutan Building Regulation 2023 and the Bhutan Building
+Code 2018. These set out the requirements that apply to the construction of buildings. These
+regulations and codes prescribe the building dimensions, circulation space requirements, design
+standards, detailing of structures, light and ventilation requirements, water supply and sanitary
+control, electrical requirements and standards, fire safety, access, parking and provisions for
+disabled persons.
+
+22. The structural design is in line with the following Special Publications and Indian
+Standards:
+
+              i.         IS 13920_2016 (Ductile Design of Reinforced Concrete Structures);
+              ii.        SP16 (Design Aids for Reinforced Concrete to IS 456);
+              iii.       IS 1893 Part 1 - 2016 (Criteria for Earthquake Resistant Design of Structures);
+              iv.        IS 4326-2013 (Earthquake Resistant Design and Construction of Buildings);
+              v.         IS 800 (Code of Practice for General Construction in Steel);
+              vi.        IS 875_1 (Code of Practice for Design Loads-Dead Loads);
+              vii.       IS 875_2 (Code of Practice for Design Loads- Live Loads);
+              viii.      IS 875_3 (Code of Practice for Design loads- Wind loads); and
+              ix.        SP 34 (Handbook on Concrete Reinforcement and Detailing).
+
+23. The designs also comply with the Bhutan Green Building Guidelines 2013, Bhutanese
+Architecture Guidelines 2014, Bhutan Building Color Code 2014 and the Design Guidelines for
+Differently Abled Friendly Construction, 2011.
+
+24. Each unit of (Category III type-2) buildings will include 1 Living room, 2 Bedrooms, 2
+Toilets, 1 Kitchen and 1 Balcony. The plinth area (1st floor) will be 386.1 m2 (4,154.4 sq.ft.). Each
+                                                                                                              9
+
+     unit of (Category IV type-3) buildings will include 1 Living room, 2 Bedrooms, 2 Toilets, 1 Kitchen,
+     and 1 Balcony. The plinth area (1st floor) will be 289.4 m2 (3,113.9 sq.ft.). Each unit of (1
+     Bedroom Unit) building will include 1 Living room, 1 Bedroom, 1 Toilet, 1 Kitchen, and 1 Balcony.
+     The plinth Area (1st Floor) will be 213.4 m2 (2,296.2 sq.ft.).
+
+
+
+                   Table 2: Details of subproject component at Samtse Subproject
+
+                                                                                                 Land coverage in
+S. No     Subproject Components                       Quantity of Structure                       (square meters)
+                                                                                                 required by each
+                                                                                                     structure
+
+1.        Housing Blocks              I. Construction of 1 no. of Category-III type-2 building       386.1m2
+                                         of 16 units of housing apartments on government
+          A. Category III-(Type-2)       land. The building is of the following dimensions:
+                                         20.65 m x 18.75 m.
+
+          B. 1 BHK                   II. Construction of 1 no. of 1 Bedroom unit building of
+                                         16 units of housing apartments on government                213.4m2
+                                         land. The building is of the following dimensions:
+          C. Category IV(Type-3)         19.5 m x 9.975 m.
+
+                                     III. Construction of 2 nos. of Category-IV-Type-3               289.4m2
+                                          buildings of 16 units each of housing apartments on
+                                          government land. The buildings are of the following
+                                          dimensions: 23.3 m x 13.7 m.
+2.        Parking lot                 Parking lot of area 5,871.7 feet ongovernment land             545.7m2
+3.        Approach and internal       Road of total length 109.1 km with off-take from               637.6m2
+          road                        government road (assured right-of- way) and aligned
+                                      all within the plot allotted by ADB to NHDCL
+5.        Pedestrian footpath        Footpath of total length 11.14 m located within the             11.9m2
+                                     demarcated plot registered in NHDCL’s name
+6.        Septic tank and soak pit   Septic tank of 7.65 m x 2.8 m and soak pit (3 m dia)           21.42m2
+7.        Drinking water tank        Tank of dimensions 4000 MM Dia located within the             61.8 (Water
+                                     demarcated plot registered in NHDCL’s name                    Tank Area)
+8.        Substation                 Substation of dimensions (6m x 6m) located within the             36
+                                     demarcated plot registered in NHDCL name
+9.        Green Space                1, 567 Sq.m                                                      27.1%
+
+     Source: Design Section, NHDCL
+10
+
+                                Figure 6: The Proposed Layout of the Buildings, Access and Parking
+
+
+
+
+Source: Design Section, NHDCL
+                                                                   11
+
+
+               Figure 7: External Façade or Building Sections
+
+ Category                       External Façade/Building Section
+
+Category III
+Building
+
+
+
+
+ Category IV
+ Building
+12
+
+     1 BHK Building
+
+
+
+
+Source: Design Section, NHDCL
+                                                                         13
+
+                                Figure 8: Layout Plan for Category III
+
+
+
+
+Source: Design Section, NHDCL
+ 14
+
+
+                                Figure 9: Layout Plan for Category IV
+
+
+
+
+Source: Design Section, NHDCL
+                                                                                   15
+
+
+
+
+                                Figure 10: Layout Plan for One Bedroom Apartment
+
+
+
+
+Source: Design Section, NHDCL
+                                                                                                  17
+
+25. Site preparation works. This will include site clearance and handing over the site to the
+Contractor free of encumbrance.
+
+26. Water supply details. The supply of water for the housing complex will be from the
+municipality through the existing water supply line in the area. The municipality is responsible for
+ensuring a regular supply of water to all buildings within the locality. The design assumes five
+people to reside in each unit in the larger category apartments, and three to reside in the single
+bedroom apartment, which translates to about 288 total residents in this housing complex. 1 BHK
+building will be provided with 4 nos. of 2,000L water storage tanks. Category IV buildings will be
+provided with 4 nos. of 2,000L water storage tanks. Category III buildings will be provided with 8
+nos. of 2,000L water storage tanks. On average, domestic water consumption for each person
+will be about 135 liters of water per day.
+
+27. The drinking water supply for Samtse is primarily sourced from the Beurikhola stream, with
+a capacity of 1.50 million liters per day. To further enhance water security, Samtse Dzongkhag
+has successfully completed a bore-well water supply project for Samtse Throm on 26th June
+2025 as part of its ongoing efforts to strengthen the municipal water supply system. A NOL from
+the Samtse Dzongkhag administration for the use of Municipal Road and Water Supply for the
+sub-project has been obtained vide letter no. SD/Engg-19/2025-2026/3848 dated 13 January
+2026 (Appendix 7). The proposed new water supply connection for the subproject is not expected
+to result in any significant adverse impact on the existing municipal water supply system, as it
+will be supported by both the primary and supplementary sources, ensuring adequate availability
+and reliability. In terms of drainage, an internal drainage system has been incorporated into the
+project design to effectively manage stormwater runoff. Building drains are designed to run
+around each building structure, collecting surface runoff and directing it into secondary
+stormwater drains within the site. These secondary drains will ultimately be connected to the
+existing main municipal stormwater drainage system, ensuring proper discharge and preventing
+waterlogging or localized flooding within and around the project area.
+
+                        Table 3: Daily Water Requirement Calculation
+
+ Sl.No.    Total Number of Units            Number of Persons           Water Consumption
+
+   1        64 units (48 2BHK Units, 16     48*5 persons = 240     288 persons*135L/person =
+                    1BHK Units)             persons                38,880 liters
+                                            16*3 persons = 48
+                                            persons
+                  Total for Residential Buildings                  38,880 liters
+Source: NHDCL, 2025
+
+28. Electrical power supply. Although the existing buildings adjacent to the site are already
+connected to the power supply, due to the substantial increase in the number of apartments, this
+will not suffice. The NDHCL will outsource the design and technical requirements for this to the
+Bhutan Power Corporation (BPC) which will assess the electrical requirements, provide the
+technical specifications and install the substation and required distribution lines. The cost of this
+will be borne by NHDCL.
+
+29. Septic tank and soak pits. The design of the septic tanks will ensure that the grey water
+from the septic tank will be fed to a series of a soak pits. The septic tank will receive both Water
+Closet waste and sullage from the buildings. In this housing complex, one septic tank and soak
+pit is proposed. Based on the number of buildings connecting to the septic tank, the standard
+dimensions of the septic tank including the wall are 11.15m x 3.9m. The septic tank will have 2
+soak pits (3m x 2.5m diameters). The septic tank will have two sections; Settling chamber 1 (3.5m
+x 3.5m) and settling chamber 2 (7.0m x 3.5m). The water will seep from the soak pit into the
+ground. The proposed septic tank has a capacity of 62.4 cu.m. Since the area falls under the
+Dzongkhag municipality, the septic tank will be emptied once annually for maintenance, and the
+tanker for this service will be provided by the municipality.
+18
+
+30. Plumbing and Sanitation. The plumbing and sanitation design is in compliance with the
+applicable plumbing code of practice. The designs include details on kitchen, bathroom and WC
+outlets; manhole; and layout plan of the internal plumbing system of each floor, with details of
+pipe sizes and material. Water meters will be provided for each building; the building drains will
+be connected to the secondary stormwater drain and will be connected to the existing main
+municipal stormwater drain.
+
+31. Site accessibility, entry, exit and internal roads. The site will have two entry/exit points
+from the existing LAP road that links to the Samtse College of Education and Samtse Higher
+Secondary School. Figure 4 shows the layout of the access road and parking details. From the
+parking area, internal roads will provide connectivity to each building within the site. The housing
+complex will be secured with a combination of boundary wall and chain link fence along the entire
+plot boundary.
+
+
+
+                                    III.        LAND AVAILABILITY
+
+A.      Land Acquisition and Involuntary Resettlement
+
+32.    The proposed construction works at Samtse will be undertaken in vacant land free from
+any encumbrances. Therefore, the proposed project does not envisage any land acquisition or
+permanent resettlement impacts. The components are proposed to be constructed within the
+Government land owned by NHDCL. The efforts to minimize the resettlement impact have been
+made by careful design, as all the implementation activities under the project will be confined to
+the available existing Right of Way (ROW) and government land. Therefore, the project is
+categorized as “Category C” project.
+
+33.      At the Samtse site, the implementation of proposed subproject components will not have
+an impact on private assets. The checklist for the involuntary settlement impact categorization is
+attached to Appendix 3. All the project components, namely the housing blocks, parking lots,
+approach and internal roads, septic tank and soak pit, footpath, drinking water tanks, and
+electricity substations, will be constructed and located within the plot allotted to NHDCL by the
+NLC. The details of the plot in which the housing will be developed are presented in Table 4.
+
+     Table 4: Details of the plot allocated for developing the housing project at Samtse
+ Name        of    Name of Urban           Plot No.      Area of Plot    Present land use
+ village/town      authority                             (Acre/sq. ft)
+ Samtse            Samtse                  ST1-670       1.43 / 62,261   Vacant and unused land
+Source: NHDCL 2025
+
+34. The details of the sub-components that will be developed as part of the housing project at
+Samtse site are presented in Table 5.
+
+ Table 5: Subproject Components and their Land Acquisition and Resettlement Impacts
+                            for the Samtse housing site
+
+Sl.        Name of the              Permanent
+No.        Components             Impact on Land
+                                  Acquisition and Temporary                 Remarks
+                                   Resettlement    Impact
+
+
+ 1    Construction of 4 blocks             No            No     The housing      blocks will   be
+      totaling 64 residential                                   constructed on unused vacant
+      units covering an area of                                 government land, the ownership of
+      1178.3 m2                                                 which is with NHDCL supported by
+                                                                the LUC (Appendix 1).
+                                                                                 19
+
+ 2    The parking lot and         No   No   The parking lot and the internal road
+      internal road for housing             will be constructed within the plot
+      colony tenants with                   (around the middle of the plot flanked
+      spaces for 48 light                   by the approach road, housing
+      vehicles and 26 2-                    buildings, and a green area). The plot
+      wheelers covering an                  has been demarcated for developing
+      area of 545.7 m2                      the     housing     subproject,     the
+                                            ownership of which is with NHDCL.
+                                            The plot is vacant and is not used by
+                                            any person/entity. No involuntary
+                                            resettlement impact is anticipated.
+  3   Pedestrian     footpath     No   No   The pedestrian footpath will be
+      covering an area of 11.9              constructed      within    the     plot
+      m2                                    demarcated for developing the
+                                            housing subproject (around the
+                                            parking lot with access to the
+                                            buildings), the ownership of which is
+                                            with NHDCL. The plot is vacant and is
+                                            not used by any person/entity. No
+                                            involuntary resettlement impact is
+                                            anticipated.
+  4   Drinking        water       No   No   The drinking water tank will be
+      reservoir tank covering               constructed      within    the     plot
+      an area of 61.8 m2                    demarcated for developing the
+                                            housing subproject, the ownership of
+                                            which is with NHDCL. The plot is
+                                            vacant and is not used by any
+                                            person/entity.      No     involuntary
+                                            resettlement impact is anticipated.
+  5   Approach and internal       No   No   The approach and internal road will
+      road covering an area of              be constructed within the plot
+      637.6 m2                              demarcated for developing the
+                                            housing subproject, the ownership of
+                                            which is with NHDCL. The plot is
+                                            vacant and is not used by any
+                                            person/entity.      No     involuntary
+                                            resettlement impact is anticipated.
+  6   Septic tank and soak pit    No   No   The septic tank and soak pit will be
+      covering 21.42 m2                     constructed      within    the     plot
+                                            demarcated for developing the
+                                            housing subproject, the ownership of
+                                            which is with NHDCL. The plot is
+                                            vacant and is not used by any
+                                            person/entity.      No     involuntary
+                                            resettlement impact is anticipated
+  7   Substation covers an        No   No   The substation will be constructed
+      area of 36 m2                         within the plot demarcated for
+                                            developing the housing subproject,
+                                            the ownership of which is with
+                                            NHDCL. The plot is vacant and is not
+                                            used by any person/entity. No
+                                            involuntary resettlement impact is
+                                            anticipated
+  8   Green Space covers an       No   No   The green space will be constructed
+      area of 27.1 m2                       within the demarcated plot for
+                                            developing the housing subproject,
+                                            the ownership of which is with
+                                            NHDCL. The plot is vacant and is not
+                                            used by any person/entity. No
+                                            involuntary resettlement impact is
+                                            anticipated
+Source: Design Section, NHDCL
+20
+
+35. For each sub-component of the project, details of land available to establish each
+structure, the status of ownership of the land, the area of the plot on which the structure will be
+constructed, and the status of no objection certification for use of each plot for structures is
+presented in Table 6.
+
+  Table 6: Details of land availability, ownership, and status of No Objection Certificate
+                                            (NOC)
+Project                Location        Ownership       Area of        Area           NOC Status
+Component                                           government      required
+                                                   land available     (m²)
+                                                        at the
+                                                      location
+                                                        (m²)
+ Construction      Allotted   plots,    NHDCL          1178.3        1178.3    No NOC required; land
+ of 4 blocks of    Samtse                                                      transferred to NHDCL
+ 64 units                                                                      with adequate area for
+                                                                               housing amenities.
+ The parking lot   Allotted   plots,    NHDCL         545.7          545.7     No NOC required; land
+ and approach      Samtse                                                      transferred to NHDCL
+ internal road                                                                 with adequate area for
+ for housing                                                                   housing amenities.
+ colony tenants
+ Pedestrian        Allotted   plots,    NHDCL         11.9            11.9     No NOC required; land
+ footpath          Samtse                                                      transferred to NHDCL
+                                                                               with adequate area for
+                                                                               housing amenities.
+ Drinking water    Allotted   plots,    NHDCL          61.8           61.8     No NOC required; land
+ tank              Samtse                                                      transferred to NHDCL
+                                                                               with adequate area for
+                                                                               housing amenities.
+ Approach and      Allotted   plots,    NHDCL         637.6           637.6    No NOC required; land
+ internalroad      Samtse                                                      transferred to NHDCL
+                                                                               with adequate area for
+                                                                               housing amenities.
+ Septic    tank    Allotted   plots,    NHDCL         21.42           21.42    No NOC required; land
+ and soak pit      Samtse                                                      transferred to NHDCL
+                                                                               with adequate area for
+                                                                               housing amenities.
+ Substation        Allotted   plots,    NHDCL           36             36      No NOC required; land
+                   Samtse                                                      transferred to NHDCL
+                                                                               with adequate area for
+                                                                               housing amenities.
+ Green Space       Allotted   plots,    NHDCL          27.1           27.1     No NOC required; land
+                   Samtse                                                      transferred to NHDCL
+                                                                               with adequate area for
+                                                                               housing amenities.
+Source: Design Section, NHDCL
+
+36. During site visit and physical verification of the entire plot and DMS conducted on 19
+January 2026 to assess the potential impact of the project's subcomponents, it was confirmed
+that the implementation of the subproject will not result in any involuntary resettlement impact
+such as loss of livelihood, structural loss, or any form of adverse impact on common property
+resources. Furthermore, there were no existing structures within the project area.
+                                                                                                                        21
+
+                                  IMPACT ON INDIGENOUS PEOPLES
+
+37.        No impacts to Indigenous people/communities due to the subproject involving direct or
+indirect impacts to the dignity, human rights, livelihood systems or territories, or natural or cultural
+resources that are used, owned, occupied, or claimed by Indigenous peoples as their ancestral
+domain or asset, are assessed. The implementation of the project will not affect areas that are
+culturally sensitive to indigenous peoples’ or infringe on their customary rights.
+
+38. The field visits and consultations undertaken on 19 January 2026 reveal that no
+Indigenous people are living at or near the housing site. Consequently, no impacts on indigenous
+peoples are anticipated under the Samtse subproject site. As per ADB SPS 2009, Indigenous
+people’s safeguards are triggered if a project directly or indirectly affects the dignity, human
+rights, livelihood systems, or culture of Indigenous peoples’ or affects the territories or natural or
+cultural resources that Indigenous peoples own, use, occupy, or claim as their ancestral
+domain10. Consequently, no Indigenous Peoples Plan is required for this subproject.
+
+                          IV. CONSULTATION PARTICIPATION AND DISCLOSURE
+
+39. The consultation, participation and disclosure constitution is an integrated process in the
+project design, preparation, and implementation. As required by ADB SPS 2009, NHDCL will
+disseminate information to communities and consult with them to assess any potential land
+acquisition or involuntary resettlement impacts, inform and educate stakeholders about the
+project and develop a community-inclusive design. Disclosing information will precede
+consultation.
+
+40. The consultations aimed to inform stakeholders about the project objectives, potential
+impacts, and mitigation measures, as well as to gather their feedback and suggestions.
+Participants expressed interest in the upcoming housing project, recognizing its potential to
+address housing and social needs by prioritizing the provision of adequate and quality housing
+solutions for residents living nearby.
+
+41.      During the team visit on 16 January 2025, the Project Management Unit (PMU) presented
+an overview of GRAHSP, highlighting ongoing and upcoming subprojects, with a detailed plan
+for the Samtse subproject. The Dzongkhag team emphasized the project’s importance in
+addressing Samtse housing shortage, noting opportunities created by the relocation of
+ferrosilicon factories from Jigmeling Industrial Park in Sarpang to Norbugang Industrial Park in
+Samtse. They also highlighted their support for the project’s focus on green, resilient, and
+affordable housing solutions. (See Appendix 2)
+
+42. Furthermore, one-on-one consultations with residents near the project site were held on
+19 January 2026 to inform local stakeholders about the proposed housing developments and
+gather community inputs. Participants were briefed on GRAHSP objectives, planned housing
+designs, timelines, and benefits, with emphasis on support for low-income households, non-civil
+servants, and female-headed families. Potential environmental and social impacts during
+construction were discussed, along with proposed mitigation measures. The GRM was also
+explained, including procedures for submitting and resolving complaints, and assurances were
+given that regular consultations would continue throughout project implementation to ensure
+transparency and community engagement.
+
+43. Additional stakeholder consultations were conducted on 16 April 2026 for the Samtse
+Subproject. At Samtse Higher Secondary School, the discussion focused on potential impacts
+arising from the project’s proximity to the school and the frequent use of the adjacent road by
+
+10 ADB SPS 2009 uses the term indigenous peoples in a generic sense to refer to a distinct, vulnerable, social and
+
+cultural group possessing the following characteristics: (i) self-identification as members of a distinct indigenous
+cultural group and recognition of this identity by others; (ii) collective attachment to geographically distinct habitats or
+ancestral territories in the project area and to the natural resources in these habitats or territories; (iii) customary
+cultural, economic, social or political institutions that are separate from those of the dominant society and culture; and
+(iv) a distinct language, often different from the official language of the country or region.
+22
+
+students. Key concerns included noise, dust, traffic congestion, and safety risks. The team
+assured that appropriate mitigation measures would be implemented, including site barricading,
+dust control through regular water sprinkling, and restricting heavy vehicle movement during
+peak school hours and Friday cleaning activities. School timings (8:00 AM–3:30 PM, and during
+co-curricular activities happening at school the school timing extend until 5:00 PM) and the
+weekly waste management initiative were also considered to ensure proper alignment of
+construction activities. The principal emphasized student safety, especially during cleaning
+hours, and the team committed to strict traffic control, contractor briefing, and proper waste
+management.
+
+
+44. The team visited at Bhutan Power Corporation (BPC) office and outlined the beneficiaries
+and grievance redressal mechanism, followed by discussions on deposit works for internal
+electrical installations, including the ring network, distribution pillars, and substation location. The
+BPC team informed the team that the existing 500 kVA transformer would be insufficient to meet
+the project’s estimated demand of over 800 kW, though it could support construction-phase
+needs. To improve cost efficiency, BPC recommended relocating the proposed substation closer
+to the road and existing transformer to avoid extensive underground cabling and additional costs,
+a suggestion the team agreed to review with the PMU design team.
+
+45. Further the team visited Samtse College of Education (SEC) and discussed potential
+impacts on the college due to its proximity to the project site, particularly the girls’ hostel above
+the construction area. Key concerns included noise and dust, for which the team assured
+mitigation measures such as full site barricading with green net fencing and regular water
+sprinkling. The College President appreciated the consultation highlighting it as the first of its
+kind and noted that most academic facilities are located far from the site, limiting disruption, with
+the girls’ hostel being the primary concern; however, he acknowledged that proposed mitigation
+measures would adequately address impacts. He also informed that ongoing campus
+construction works are expected to be completed by November 2027. The Real Estate Manager
+raised concerns about the initial substation location near the hostel due to risks during monsoon,
+to which the team confirmed its relocation closer to the roadside.
+
+46. Lastly, the team did consultation at Forest Range office focusing on revalidation of
+threatened species identified through IBAT analysis in coordination with the Forest Range Office.
+Although 108 IUCN Red List species were identified within a 50 km radius, only 10 species were
+confirmed within 1 km of the site, and further validation indicated minimal likelihood of their
+presence within the actual project footprint. It was also confirmed that most trees within the
+project site cannot be retained due to construction requirements and safety concerns, and
+compensatory plantation will be carried out in consultation with the Forest Office. All the minutes
+of meeting with the stakeholders are attached in Appendix 9.
+
+                               Table 7: Public Consultations Conducted
+
+ Sl.No.               Date                           Target audience                Number of
+                                                                                   Participants
+  1 i.        16 January 2025            Samtse Dzongkhag Administration              2 Male
+  2            19 January 2026           Residents of the project vicinity     8 (5 Male & 3 Female)
+  3                                      Samtse Higher Secondary School               1 Male
+  4                                      Samtse College of Education             2 Male & 3 Female
+                 16 April 2026
+  5                                      Bhutan Power Corporation                     2 Male
+  6                                      Forest Ranger Office                         1 Male
+Source: Consultations Minutes of the Meeting during field visit
+
+47. Community engagement, public consultations, and disclosure will be an ongoing process
+throughout the subproject planning and implementation phase. An indicative list of consultations
+to be conducted in the future and a schedule is presented in Table 8. Progress of achievements
+in this respect will be reported in the semi-annual social monitoring reports (SSMR) by the Project
+                                                                                                         23
+
+Implementation Assistance Consultant (PIAC), Social Safeguards Consultant, and PMU Social
+Safeguard Officer.
+
+                  Table 8: Schedule of Consultation and Disclosure Activities
+
+     Activities                    Target Group             Responsible Agency              Timeline
+
+Awareness                Key stakeholder agencies         PIU, PMU,     and     the   During       detailed
+generation     about     namely            Dzongkhag      contractor                  design, before the
+the project activities   Municipal and staff of                                       start of construction,
+                         government            offices,                               and            during
+                         institutions (such as Samtse                                 construction
+                         College      of    Education,
+                         Samtse Lower and Higher
+                         Secondary School) located
+                         near the project vicinity
+Disclosure       of      Beneficiaries (site-specific     PIU/Contractor, PMU         During construction
+construction             consultations)
+schedule, potential
+temporary
+disturbances, and
+GRM
+Source: NHDCL
+
+
+
+
+                                   V.    INFORMATION DISSEMINATION
+
+48. The project implementation authorities will ensure that the DDR is available in the offices
+of the PIU, PMU at NHDCL Head Office and posted on ADB’s website and on the website of
+NHDCL for easy access to all stakeholders including the local community of the town.
+
+                             VI.        GRIEVANCE REDRESS MECHANISM
+
+49. A common GRM will be established to receive, evaluate, and facilitate the resolution of
+social, environmental, or any other project-related grievances. The GRM provides a time-bound
+and transparent mechanism for the aggrieved to voice and resolve their concerns. The GRM
+developed in consultation with stakeholders requires further dissemination for awareness of the
+project and its grievance redress procedures also among the poor and vulnerable and others to
+avail of the GRM. The multi-tier GRM has time-bound schedules and designated persons to
+address grievances at each stage. The Environmental and Social Safeguard Officer of PMU will
+oversee timely grievance redress on environmental and social safeguards issues.
+
+50. Complainers are stakeholders who are directly or indirectly affected by the project either
+by themselves or through a recognized representative who can register comments, complaints,
+queries, and suggestions about safeguard compliance, design-related issues, compensation,
+service delivery, or any other issues or concerns related to the project.
+
+51. The complaint must provide details of the name, date, address/contact details of the
+complainant, and location of the problem area, along with the problem. A sample grievance
+registration form is provided in Appendix 3. The primary unit for receiving and lodging a complaint
+is the Contractors’ field office but also dropped in suggestion boxes or conveyed through phone
+or e-mails. Complainants may also register grievances personally with the Central Complaint Cell
+located at PMU /PIU offices which will represent NHDCL to handle grievances including those of
+non-literate persons and those received over the telephone. The concerned NHDCL staff
+(deputed at PMU, PIU) /contractor’s site engineer/ Environment Health & Safety (EHS) Officer of
+the Contractor will monitor the grievance record books and take necessary actions to redress
+complaints.
+24
+
+52. The primary unit for receiving and lodging a complaint is the Contractors’ field office but also
+dropped in suggestion boxes or conveyed by phone or e-mails. Complainants may also register
+grievances personally with the Central Complaint Cell located at PMU /PIU offices which will
+represent NHDCL to handle grievances including those of non-literate persons and those
+received over the telephone. The concerned NHDCL staff (deputed at PMU, PIU) /contractor’s
+site engineer/ EHS Officer of the Contractor will monitor the grievance record books and take
+necessary actions to redress complaints.
+
+53. PMU will maintain a Central Complaint Cell at the NHDCL office headed by a designated
+Grievance Officer. The Complaint Cell will also serve as a Public Information Centre, where,
+apart from grievance registration, information on the project and its social and environmental
+safeguards can be provided. Under ADB Guidelines, an independent Grievance Redressal
+Committee (GRC) had to be established under NHDCL to address the grievances of people
+affected due to the implementation of the project.
+
+54. PMU with the support of PIU will have the overall responsibility for timely grievance
+redress, registration of grievances, related disclosure, and communication with the aggrieved
+party. In case of grievances that are immediate and urgent in the perception of the complainant,
+the Contractor and supervision personnel from the PIU will provide the most easily accessible or
+first level of contact for the quick resolution of grievances. Contact phone numbers and names
+of the staff concerned and contractors will be posted conspicuously at all construction sites.
+
+55. Process and Timeframe: The grievance redress process and timeframe involved in the
+GRM are described below:
+
+     a. 1st Level Grievance (Field Level): For immediate and urgent grievances, the officer
+     concerned of PIU will direct the contractor to resolve the complaint and ensure that it is
+     resolved. If the grievance is not under the contractor’s scope, the PIAC will resolve this issue
+     with the support of the respective PIU and will resolve all grievances within seven days from
+     the date of receipt of a complaint/grievance. The government and other representatives can
+     be consulted as and when required.
+
+     b. 2nd Level Grievance (PIU): Grievances unresolved at the first level within seven days
+     can be referred to the Complaint Cell at the PIU level. The designated officer of NHDCL,
+     namely the Project Manager based at the PIU, will try to resolve the grievance/ complaint
+     within a timeframe of seven days with the assistance of the Environment and Social
+     Safeguard Officers at the PMU level. The government and other representatives can be
+     consulted as and when required. Any unresolved complaint at the second level will be taken
+     up to the third level.
+
+     c. 3rd Level Grievance (PMU): Grievances unresolved at the first level and 2nd level by
+     PIU will be brought to the third level which will meet once a month to determine the merit of
+     each grievance brought to the committee. The GRC, led by the Project Director, at PMU, will
+     resolve the grievance within fourteen days of receiving the complaint from the second level.
+     The Social Safeguards Officer, PMU will provide feedback to the complainant. Any critical or
+     unresolved matter may be taken to the Project Steering Committee (PSC) for a solution.
+
+56. The process of the GRM is presented in Figure 11 shows the process of GRM lists at each
+level (in the blue shaded boxes), the individuals or agencies who will be involved at the site (level
+1), PIU (level 2), and PMU (level 3). These designated officers will comprise the GRC members
+at each level.
+                                                                                                         25
+
+                           Figure 11: Grievance Redressal Mechanism
+
+
+
+
+GRC=grievance redress committee; GRM=grievance redress mechanism, NHDCL=National Housing Development
+Corporation Ltd., PIAC = project implementation assistance consultant, PIU= project implementation unit, PMU
+=project management unit, PSC= project steering committee
+
+57. Information Dissemination Methods about GRM. The Grievance Redress Process will
+be discussed with the different stakeholders during stakeholder consultation meetings. These
+meetings will be held with affected people (if impacted), and community members (beneficiaries)
+and the concerned local government representatives where civil works are proposed. The
+process and timelines for grievance redress and contact details of the people responsible for
+grievance redress will be shared in the stakeholder meetings. Action taken with respect to all
+complaints will be communicated to the complainant by letter, over the phone or e-mail, or text
+messaging.
+
+58. Consultation Arrangements for GRM. This will include group meetings and discussions
+with affected people (if impacted directly or indirectly), to be announced in advance and conducted
+at the time of day agreed on with affected persons and to address general/common grievances;
+and if required with the Environment/Social Specialist of PMU/PIU for one-on-one consultations.
+Non-literate affected persons/vulnerable affected persons will be assisted in understanding the
+grievance redress process, at the site office of the Social Safeguards Officer of the contractor,
+and the PIU level, the Grievance Officer or any other official appointed to receive grievances will
+assist the non-literate affected persons to register complaints and follow-up with actions at
+different stages in the process.
+
+59. Record Keeping. Records of all grievances received, including contact details of the
+complainant, date of receiving complaint/grievance, nature of the grievance, agreed with actions
+and measures, the date these were affected, and the outcome will be kept by PIU. The number
+of grievances recorded and resolved, and the outcomes will be displayed/disclosed in the PIU
+office, and on the website of PMU, as well as reported in the SSMR to be submitted to ADB. The
+Environmental Officer and the Social Safeguard Officer will be responsible for maintaining the
+grievance record.
+
+60. Periodic Review and Documentation of Lessons Learned. The PMU, and PIUs,
+supported by the PIAC will periodically review the functioning of the GRM and record information
+on the effectiveness of the mechanism, especially on the PIU’s ability to prevent and address
+grievances.
+
+61. Costs. All costs involved in resolving the complaints (meetings, consultations,
+communication, and reporting/information dissemination) will be borne by the PMU. Cost
+estimates for grievance redress shall be included in resettlement cost estimates.
+26
+
+62. ADB Accountability Mechanism. If the established GRM is not in a position to resolve
+the issue, the affected person can use the ADB Accountability Mechanism to directly contact (in
+writing) the Complaint Receiving Officer at ADB headquarters or the ADB Resident Mission in
+Bhutan (BHRM). Before submitting a complaint to the Accountability Mechanism, it is
+recommended that affected person make an effort in good faith to resolve their problems by
+working with the concerned ADB operations department (in this case, the BHRM). Only after
+doing that, and if they are still dissatisfied, could they approach the Accountability Mechanism.
+The ADB Accountability Mechanism information will be included in the project-relevant
+information to be distributed to the affected communities, as part of the project GRM.
+
+63. The project GRM, notwithstanding, would ensure that an aggrieved person shall have
+access to the country's legal system at any stage, and accessing the country's legal system can
+run parallel to accessing the GRM and is not dependent on the negative outcome of the GRM.
+In case of grievance related to land acquisition, resettlement, and rehabilitation, the affected
+persons if not satisfied with the land or monetary compensation, or both, as provided by the
+implementing agency together with the local government (Dzongkhag, Dungkhag and Gewog),
+they have recourse to the legal system in the country namely the court of law.
+
+64. People who are, or may in the future be, adversely affected by the project may submit
+complaints to ADB’s Accountability Mechanism. The Accountability Mechanism provides an
+independent forum and process whereby people adversely affected by ADB-assisted projects
+can voice, and seek a resolution of their problems, as well as report alleged violations of ADB’s
+operational policies and procedures. Before submitting a complaint to the Accountability
+Mechanism, affected person should try in good faith to solve their problems by working with the
+concerned ADB operations department. Only after doing that, and if they are still dissatisfied,
+should they approach the Accountability Mechanism.11
+
+
+
+                                          VII.     CONCLUSION
+
+65. The executions of proposed civil works under the project at Samtse will not trigger any
+land acquisition and involuntary resettlement impacts. The identified sites for the proposed
+housing construction works are proposed on ROW or unused, vacant and encumbrance-free
+government land parcels owned by NHDCL. Temporary disruptions in traffic movement during
+construction will be mitigated by the contractor through a traffic management plan, scheduling
+material transportation or deliveries outside peak traffic hours and avoiding school drop-off and
+pick-up times. Furthermore, simple measures such as proper stacking/storing of construction
+materials will also be implemented. In case any involuntary resettlement impact is identified at
+any stage of the project implementation, a resettlement plan will be prepared.
+
+66. During the implementation of the civil works, the project implementation team will pursue
+a participatory approach and always adhere to the dissemination of information. A GRM will also
+be established in the project by the PIU and contractor. The Executing Agency will ensure
+compliance with all applicable laws and the ADB SPS, 2009.
+
+                                           VIII.    NEXT STEPS
+
+67. This DDR has been prepared after the finalization of the detailed design and DMS. During
+the time of the start of civil work, in case any unforeseen involuntary resettlement impacts are
+identified, this report shall be further revised (including revision of the project impact category)
+and submitted to ADB for approval.
+
+68. Formal and informal consultations will be carried out, including but not limited to focus
+group discussions (FGDs), public meetings, community discussions, and in-depth and key
+informant interviews. Once the contract work is awarded to the contractor, the PIU and contractor
+
+11 Accountability Mechanism. http://www.adb.org/Accountability-Mechanism/default.asp.
+                                                                                         27
+
+will be given training on GRM and other ADB policies and principles based on ADB SPS 2009.
+
+69. Stakeholder consultations and engagement shall be carried out throughout the entire
+project planning and implementation phase.
+
+70. Any updates on project progress performance shall be a continuous process which shall
+be reflected in SSMR.
+
+71. During the stakeholder consultation held on 16 April, the team was unable to meet with
+Samtse Lower Secondary School (SLSS) as the school was fully engaged in its annual
+ritual/puja. The team plans to conduct the consultation with SLSS in the next phase.
+                                         27
+
+
+Appendix 1: Land Use Certificate (LUC)
+28
+
+
+
+                                              Transcript
+                                         Royal Government of
+                                        Bhutan National Land
+                                        Commission Land Use
+                                             Certificate
+
+ Username                                     National Housing Development Corporation
+                                              Limited
+ City/ Municipal                              Samtse
+ Users Certificate Number                     468
+ Type of user certificate                     Corporation
+
+ Place Name            Land Number            Land Types             Area (sq.ft.)
+ Samtse                ST1-670                Urban Village (UV-3) 62,261 sq.ft
+ Reasons               National Housing Development Corporation Limited
+                                                  29
+
+Appendix 2: Minutes of Meeting for Consultation
+30
+31
+32
+     Photographs of Public Consultation
+                                                                                                                  33
+             Appendix 3: Involuntary Resettlement Impact Categorization Checklist
+
+
+Probable Involuntary Resettlement Effects                                        Not
+                                                               Yes      No      Known
+                                                                                                   Remarks
+
+Involuntary Acquisition of Land
+1. Will there be land acquisition?                                       √              No private land will be acquired
+
+2. Is the site for land acquisition known?                      √                       Government owned land
+
+3. Is the ownership status and current usage of land to be      √
+acquired known?
+
+4. Will easement be utilized within an existing Right of        √
+Way (ROW)?
+
+5. Will there be loss of shelter and residential land due to             √
+land acquisition?
+
+6. Will there be loss of agricultural and other productive               √
+assets due to land acquisition?
+
+7. Will there be losses of crops, trees, and fixed assets                √
+due to land acquisition?
+
+8. Will there be loss of businesses or enterprises due to                √
+land acquisition?
+
+9. Will there be loss of income sources and means of                     √
+livelihoods due to land acquisition?
+Involuntary restrictions on land use or on access to legally designated parks and protected areas
+10. Will people lose access to natural resources,                        √
+communal facilities, and services?
+
+11. If land use is changed, will it have an adverse impact               √
+on social and economic activities?
+
+12. Will access to land and resources owned                              √
+communally or by the state be restricted?
+
+Information on Displaced Persons:
+Any estimate of the likely number of persons that will be displaced by the Project?      [√] No      [ ] Yes
+If yes, approximately how many?
+
+
+Are any of them poor, female-heads of households, or vulnerable to poverty risks?        [√ ] No      [ ] Yes
+Are any displaced persons from indigenous or ethnic minority groups?                      [√] No      [ ] Yes
+   34
+
+                           Appendix 4: Grievance Registration Format
+
+                    (To be translated and made available in local language(s))
+
+
+The                                                      Project     welcomes        complaints,
+suggestions, queries and comments regarding project implementation.
+Aggravated persons may provide grievance with their name and contact information to enable us
+to get in touch for clarification and feedback.
+In case, someone chooses not to include personal details and wants that the information provided
+to remain confidential, please indicate by writing/typing *(CONFIDENTIAL)* above Grievance
+Format.
+Thank you.
+
+                    Date                                Place of registration
+                           Contact Information/Personal Details
+         Name                                       Gender *Male                    A
+                                                           *Female                  g
+                                                                                    e
+   Home Address
+          Place
+        Phone no.
+         E-mail
+Complaint/Suggestion/Comment/Question Please provide the details (who, what,
+where and how) of your grievance below:
+       If included as attachment/note/letter, please tick here:
+
+How do you want us to reach you for feedback or update on your
+comment/grievance?
+
+
+
+                                  FOR OFFICIAL USE ONLY
+ Registered by: (Name of Official registering grievance)
+ Mode of communication:
+ Note/Letter E-mail
+ Verbal/Telephonic
+
+
+
+
+ Reviewed by: (Names/Positions of Official(s) reviewing grievance)
+ Action Taken:
+
+ Whether Action Taken Disclosed:                            Yes No
+
+
+ Means of Disclosure:
+                                          35
+Appendix 5: Vacant Land Transfer Letter
+36
+
+     Appendix 6: Construction Permit
+                                                                                   37
+
+Appendix 7:NOL from the Samtse Dzongkhag administration for the use of Municipal
+                           Road and Water Supply
+38
+     Appendix 8: Site photographs
+
+
+
+
+              Subproject Site
+
+
+
+
+                    Subproject Site
+                                                           39
+Appendix 9: Minutes of Meeting with Stakeholders, Samtse
+40
+41
+42
+43
+44
+                                                                                    45
+Appendix 10: Condition Assessment of Old Structures by Regional Office, Phuentsholing
+46
+
+     Appendix 11: Provision of Alternative Housing Options
+                                                         47
+Appendix 12: Notification on voluntary vacation by CFO
+48
+     Appendix 13: Work Award Letter for Dismantling of structures
+49
+

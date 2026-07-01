@@ -1,0 +1,2042 @@
+                                                                                       PUBLIC
+                                                                     SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                         ARGENTINA
+
+
+
+
+                  SOCIAL AND URBAN INTEGRATION PROGRAM
+
+
+
+                                          (AR-L1306)
+
+
+
+
+                                       LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Felipe Vera, Project Team
+Leader (CSD/HUD); Ignez Tristao, Project Team Co-leader (SCL/SPH); Veronica Adler,
+Diego Arcia, Dianela Avila, Mariana Poskus (CSD/HUD); Cecilia Ares (CSC/CAR); Roberto
+Laguado (FMP/CAR); Analía La Rosa (FMP/CCH); Melissa Barandiaran (VPS/ESG); Julia
+Miguez Moráis (VPS/ESG); Paloma Acevedo (CSD/HUD); Jennifer Doherty (CSD/CCS);
+Natalia Benasso (VPC/CAR); Jorge Oyamada (INE/WSA); Edwin Malagon (INE/ENE);
+Andrea Monje (SCL/GDI); Claudia Vásquez (SCL/LMK); and Alonso Chaverri-Suarez
+(LEG/SGO).
+
+
+
+
+This document is being released to the public and distributed to the Bank's Board of Executive
+Directors simultaneously. This document has not been approved by the Board. Should the Board
+approve the document with amendments, a revised version will be made available to the public, thus
+superseding and replacing the original version.
+                                                    CONTENTS
+
+
+
+PROJECT SUMMARY
+
+
+I.     PROJECT DESCRIPTION AND RESULTS MONITORING ................................................. 1
+
+       A.    Background, problem to be addressed, and rationale ................................... 1
+       B.    Objectives, components, and cost ................................................................ 9
+       C.    Key results indicators ................................................................................. 11
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ............................................................... 11
+
+       A.    Financing instruments ................................................................................ 11
+       B.    Environmental and social risks ................................................................... 12
+       C.    Fiduciary risks ............................................................................................ 13
+       D.    Other risks and key issues .......................................................................... 13
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 15
+
+       A.    Summary of implementation arrangements ................................................ 15
+       B.    Summary of monitoring and evaluation arrangements ................................ 17
+                                                   - ii -
+
+
+
+                                                ANNEXES
+PRINTED ANNEXES
+
+Annex I        Summary Development Effectiveness Matrix (DEM)
+Annex II       Results matrix
+Annex III      Fiduciary Agreements and Requirements
+
+
+                                                  LINKS
+
+REQUIRED
+
+1. Multiyear execution plan / Annual work plan (AWP)
+2. Monitoring and evaluation plan
+3. Environmental and social management report (ESMR)
+4. Procurement plan
+
+OPTIONAL
+
+1. Economic analysis of the program
+2. Draft Operating Regulations
+3. Analysis of program compliance with the Public Utilities Policy
+4. Representative project sample
+5. Typology of neighborhoods
+6. Diagnostic assessment of gender inequality and overburdened services in informal neighborhoods
+7. Climate change diagnostic assessment
+8. Program vertical logic
+9. FOPISU project cycle
+10. Annualized financial progress on outputs
+11. Lessons learned
+12. Economic viability
+13. Environmental and social analysis (ESA) and environmental and social management plan (ESMP) for
+    the representative project sample, including consultation reports
+14. Resettlement plan for the representative project sample
+15. Environmental and social management framework (ESMF)
+16. Supplementary footnote information
+17. Bibliography
+18. Safeguard Policy Filter (SPF) and Safeguard Screening Form (SSF)
+                                     - iii -
+
+
+
+                               ABBREVIATIONS
+
+
+AWP        Annual work plan
+DGPECI     Dirección General de Proyectos Especiales y Cooperación
+           Internacional [Office for Special Projects and International Cooperation]
+ENES       Encuesta Nacional de Estructura Social [National Social Structure
+           Survey]
+ESMF       Environmental and social management framework
+ESMR       Environmental and social management report
+GOM        Global multiple works operation
+ICAS       Institutional Capacity Assessment System
+MSyDS      Ministry of Health and Social Development
+PROMEBA    Barrio Improvement Program
+RENABAP    Registro Nacional de Barrios Populares [National Registry of Informal
+           Neighborhoods]
+SEDRONAR   Secretaría de Políticas Integrales sobre Drogas de la Nación Argentina
+           [National Secretariat for Comprehensive Drug Policies]
+SISU       Secretaría de Integración Socio Urbana del MSyDS [Secretariat for
+           Social and Urban Integration under the MSyDS]
+UEPEX      Unidad Ejecutora de Préstamos Externos [external loan execution unit]
+                                                   PROJECT SUMMARY
+
+                                               ARGENTINA
+                                  SOCIAL AND URBAN INTEGRATION PROGRAM
+                                               (AR-L1306)
+
+                                             Financial Terms and Conditions
+  Borrower:                                                                  Flexible Financing Facility(a)
+  Argentine Republic                                        Amortization period:                       25 years
+  Executing agency:                                         Disbursement period:                       5 years
+  The borrower through the Ministry of Health
+                                                            Grace period:                              5.5 years (b)
+  and Social Development (MSyDS)
+                                  Amount
+           Source                                     %     Interest rate:                             LIBOR-based
+                                   (US$)
+                                                                                                       (c)
+  IDB (Ordinary                                             Credit fee:
+                               50,000,000          100
+  Capital):                                                 Inspection and supervision fee:            (c)
+
+
+                                                            Weighted average life (WAL):               15.25 years
+  Total:                       50,000,000          100
+                                                            Currency of approval:                      U.S. dollar
+                                                      Project at a Glance
+  Program objective/description: Promote social and urban integration of the country’s vulnerable
+  neighborhoods, prioritizing those included in the National Registry of Informal Neighborhoods (RENABAP).
+
+  Special contractual conditions precedent to the first loan disbursement: (i) MSyDS approval and entry
+  into force of the program Operating Regulations on terms previously agreed upon with the Bank (paragraph
+  3.6). See Annex B of the environmental and social management report (ESMR) for other special contractual
+  conditions precedent to the first disbursement.
+  Special contractual condition for execution: Before transferring loan proceeds to a beneficiary province
+  or municipio under the program, the MSyDS will sign an agreement with the relevant province or municipio
+  establishing the obligations regarding the execution of the resources and the activities of the respective
+  project, including the obligation to comply with the provisions of the loan contract and the program Operating
+  Regulations, as well as the arrangements for operation and maintenance of the works, as applicable
+  (paragraph 3.7). See Annex B of the ESMR for other special contractual conditions for execution.
+
+  Exceptions to Bank policies: None.
+                                                      Strategic Alignment
+  Challenges:(d)                                 SI                            PI                             EI
+
+  Crosscutting themes:(e)                      GD                             CC                              IC
+(a)
+      Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting
+      changes in the amortization schedule as well as currency, interest rate, and commodity conversions. The Bank will
+      take operational and risk management considerations into account when reviewing such requests.
+(b)
+      Under the flexible reimbursement options of the Flexible Financing Facility, changes to the grace period are permitted
+      provided that they do not entail any extension of the original weighted average life of the loan or the last payment date
+      as documented in the loan contract.
+(c)
+      The credit fee and the inspection and supervision fee will be established periodically by the Board of Executive Directors
+      as part of its review of the Bank’s lending charges, in accordance with applicable policies.
+(d)
+      SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration).
+(e)
+      GD (Gender Equality and Diversity); CC (Climate Change and Environmental Sustainability); and IC (Institutional
+      Capacity and Rule of Law).
+                    I. PROJECT DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem to be addressed, and rationale
+1.1       Argentina is one of the most urbanized countries in Latin America, with more than
+          92% of the population residing in towns of more than 2,000 inhabitants [1].1 The
+          growth of Argentina’s cities, as elsewhere in Latin America, has been
+          characterized by expansive, diffuse development, with areas of limited social mix
+          and limited mix of uses. In the last decade, the density of the country’s main urban
+          centers decreased by 10.8%, while the urban area growth rate rose from 1.22% to
+          1.8% per year.2 This accelerated expansion created greater demand for local and
+          provincial governments to increase the provision of quality services and
+          infrastructure, making it more difficult for provinces and municipios to ensure a
+          quality habitat for all.3
+1.2       The country has for decades been contending with significant housing deficits,4 as
+          a result of the formal market’s insufficient response to the rise in demand. It is
+          estimated that Argentina’s housing deficit affects 3.8 million households,5 at least
+          2.1 million of which face problems related to housing quality (qualitative deficit).6
+          These shortcomings have hit the lower-income sectors: it is estimated that 49.2%
+          of the deficit is concentrated in the two lowest income quintiles.7 Consequently, the
+          population that is not served by the formal market in solving its housing needs has
+          responded by resorting to informal urbanization and self-help construction [2]. The
+          population residing in these neighborhoods faces numerous limitations in terms of
+          increasing its human development. These limitations interact with and reinforce
+          one another, creating a “poverty trap” that cannot be overcome through an isolated
+          approach.
+1.3       In 2016, in an unprecedented effort to measure and understand the informal
+          habitat and the status of shantytowns (villas) and unregulated settlements, the
+          government joined forces with civil society organizations to conduct a national
+          survey, which led to the creation of the National Registry of Informal
+          Neighborhoods (RENABAP).8 According to the definition adopted for the survey,
+          an informal neighborhood is any neighborhood consisting of at least eight families
+          grouped together or living contiguously and where more than half the population
+          lacks ownership title to the land and regular access to at least two of the three
+          basic services (running water system, electricity with residential meter, and/or
+          sewer network). This is the first official mapping and characterization survey of
+
+1    Optional link 17 contains the bibliographic references identified by the bracketed number [#].
+2    Over the 2010-1016 period, 78% of the expansion in the country’s 33 largest urban centers was for
+     residential uses. For more information, see optional link 16.
+3    These requirements have been addressed through a coordinated effort by various government programs
+     (optional link 16).
+4    According to a World Bank 2016 document, 230,000 households are created annually in Argentina, and
+     the formal market only manages to produce 190,000 units per year.
+5    The government works to cover the housing deficit by producing new housing through the Institutos
+     Provinciales de Vivienda [Provincial Housing Institutes].
+6    According to data from the National Statistics and Census Institute.
+7    Households in the two lowest income quintiles show a qualitative deficit rate almost twice that of the
+     average for Argentina (IDB Group Country Strategy with Argentina 2016-2019).
+8    Decree 358/2017 provides formal recognition of the RENABAP (optional link 16).
+                                                     -2-
+
+
+
+
+          informal settlements in Argentina. The RENABAP identified 4,416 informal
+          neighborhoods housing approximately 935,000 families, for a total of close to
+          4 million people living in vulnerable conditions.
+1.4       These neighborhoods are characterized by a lack of urban and social integration.
+          In urban terms, they are not part of land-use planning efforts and are marked by
+          precarious land tenure status, resulting in an adverse impact on the quality of life of
+          their inhabitants. This situation has limited residents’ access to quality
+          infrastructure, facilities, and public services, helping to create poverty,
+          marginalization, and social fragmentation.9 The registry shows that 55% of informal
+          neighborhoods predate the year 2000, while 26% sprang up in the first decade of
+          the century and 19% between 2010 and 2016. In general, these urbanizations
+          have come into being in peripheral areas on contaminated residual soil and are
+          exposed to floods and heat waves that have intensified in recent years as a
+          consequence of climate change.10
+1.5       The diagnostic assessment shows that informal neighborhoods face barriers to
+          urban development due to: (i) weak land-use planning, since these neighborhoods
+          are not included in urban planning instruments [23,24]; (ii) insecure tenure, since
+          more than 50% of their residents lack ownership title; and (iii) limited access to
+          basic services;11 according to RENABAP data, it is estimated that 93.81% of
+          households lack access to the formal running water system, 98.81% lack access to
+          the formal sewer network, and 70.69% lack access to the formal electricity grid. At
+          the same time, there is a shortage of public spaces and recreational areas,
+          hindering social cohesion and limiting the possibilities for development. For
+          example, only 24% of informal settlements in Argentina have squares or parks [3].
+          The survey shows that informal neighborhoods tend to be located in urban fringe
+          areas,12 where the population is particularly sensitive to public transportation
+          inefficiency.13 In addition, these neighborhoods have limited access to
+          telecommunication services, restricting digital connectivity for their residents.14
+1.6       Residents of informal neighborhoods face barriers to human capital accumulation.
+          According to data from the National Social Structure Survey (ENES) (2015), only
+          38% of adults aged 25 to 45 have completed high school, compared to 61%
+          nationwide. The main limitations are: (i) low effective coverage of basic health
+          services (only 30% of the population received at least one basic health service
+          over the past 12 months);15 (ii) limited access to child development and early
+9    Decree 358/2017.
+10   Urban expansion has been characterized by informal settlements in low-lying and flood-prone areas
+     (optional link 16) [12].
+11   Basic services are understood to refer to a running water system, electricity with residential meter,
+     and/or sewer network.
+12   See optional link 16.
+13   The lack of transportation coverage and limited accessibility in marginal areas contribute to the rise in
+     sociospatial inequalities. Between 2016 and 2017, there were approximately 7,200 deaths due to unsafe
+     roads [45].
+14   The program will establish a baseline for use in the initial diagnostic assessment and for subsequently
+     measuring the outcomes (optional link 16).
+15   Estimates made through studies of gender gaps in informal neighborhoods, applying the definition of
+     informal neighborhood to data from the ENES (2015). The estimates were based on data from the
+     SUMAR plan for the population of the areas included in the representative project sample.
+                                                      -3-
+
+
+
+
+          stimulation services (80% of children aged 0-4 do not attend child care centers);16
+          (iii) early use of psychoactive substances (according to the National Secretariat for
+          Comprehensive Drug Policies (SEDRONAR), it starts an average of two years
+          earlier than in the rest of the nation’s population);17 and (iv) low educational level
+          (according to the National Social Structure Survey (ENES), only 15.5% of young
+          people aged 18 to 24 in informal neighborhoods attain higher education, compared
+          to 29.7% nationwide).18
+1.7       In addition, residents of informal neighborhoods are vulnerable in terms of
+          employment due to their low skill level and productivity, which affects their
+          income.19 According to the RENABAP, 44.5% of adults in these neighborhoods are
+          economically inactive (including housewives, full-time students, retirees and
+          pensioners), 39.4% are in a vulnerable employment situation (22% have a job with
+          no retirement contributions, 9.4% are precariously self-employed, and 8% are
+          unemployed), and only 16.1% have a registered job.
+1.8       In terms of the capacities of local governments, there are serious territorial
+          management weaknesses.20 While the municipal governments are responsible for
+          land-use planning, in most cases they fail to utilize all available planning
+          instruments to guide the development of their territory, giving rise to uncontrolled
+          growth and high informality rates.21 In addition, the municipios have financial
+          limitations and low revenue collection capacity, hindering their ability to make
+          investments in informal neighborhoods. For example, in the 1993-2013 period,
+          while national and provincial tax collection grew by more than 70% in relation to
+          the gross domestic product, municipal taxes, duties, and contributions grew by less
+          than 20%.22 This exacerbates the lack of local capacity to address demand for
+          services and infrastructure as well as to mitigate the negative impacts of
+          informality.23
+1.9       There is evidence that the implementation of public management at the
+          subnational level becomes more efficient and sustainable as social capital is
+          strengthened and coordination between public agencies and civil society is
+          reinforced.24 Subjective community networks are an indicator for measuring this
+          situation, since they describe the interrelationship level of participants. Thus,
+16   Idem.
+17   Internal data provided to the MSyDS by the National Secretariat for Comprehensive Drug Policies
+     (SEDRONAR). See optional link 16.
+18   The average dropout age is 15; in the case of women, the rates of unwanted teenage pregnancy are an
+     aggravating factor.
+19   The main areas of activity are: construction, 41.5%; neighborhood commerce, 7.3%; work on public
+     roads, 5.9%; waste-picking (cartoneros) and similar, 4.2%; textiles, 4.0%; and food preparation 4.0%
+     (optional link 16).
+20   The difficulties experienced by the municipios in charge of managing Argentine cities are related to their
+     limited competencies, low capacity, and limited fiscal autonomy (optional link 16) [47].
+21   Balan, (2016). Capacidades Estatales en las Provincias Argentinas. Universidad Di Tella.
+22   Most municipios depend on legal authorization from the provinces to develop alternative resource-
+     generation instruments such as surplus capture [47].
+23   Experts identify greater problems [6,7], see optional link 16.
+24   Using the methodology for social network analysis, the MSyDS estimates the network’s “amplitude”
+     (number of nodes) and “density” ratio (ratio of existing relationships to possible relationships among
+     nodes) [46].
+                                                       -4-
+
+
+
+
+          greater network density denotes higher social capital and better coordination with
+          governmental actors and civil society organizations. As a diagnostic mechanism,
+          the Ministry of Health and Social Development (MSyDS) has begun to explore
+          mapping the informal neighborhoods’ social fabric and community organizations,
+          as well as the existing relationships in the subjective community networks. For a
+          sample of RENABAP neighborhoods,25 the densification of the subjective
+          community networks is calculated at 43%, indicating that more than 50% of the
+          possible relationships can still be strengthened.
+1.10      With regard to gender issues in informal neighborhoods (2015),26 there is a gap in
+          the distribution of responsibilities for the care of dependents and the time devoted
+          to unpaid activities. In informal neighborhoods, 67% of women aged 24 to 65
+          address the demand for direct care of children and/or persons with disabilities. In
+          the case of men, this proportion drops to 41.7%. Argentine women devote 42
+          hours per week to unpaid tasks, compared to 17 hours per week in the case of
+          men, and 24, 32, and 36 hours in the case of women in Brazil, Colombia, and
+          Uruguay, respectively.27 These responsibilities limit women’s access to income-
+          generating activities.28 These data show the importance of recognizing and
+          understanding the specific needs of women regarding their role as caregivers
+          (whether tending to small children, senior adults, or persons with disabilities) and
+          of implementing actions that can alleviate this work overload, especially in contexts
+          of material and economic deprivation, so as to contribute to reducing the gender
+          gaps.29
+1.11      With regard to the problem of climate change, 45% of informal neighborhoods are
+          located in areas subject to some type of environmental risk.30 This occupancy
+          pattern puts greater pressure on factors that aggravate the effects of floods and
+          the vulnerability of the population [9,10]. In addition, basic services in informal
+          neighborhoods are more exposed and vulnerable to storms, heat waves, and other
+          phenomena [11,12].31
+1.12      Rationale. The Government of Argentina, through the MSyDS, requested a loan
+          operation to promote social and urban integration of informal neighborhoods, with
+          a view to providing innovative and comprehensive responses in terms of
+          infrastructure, human and productive development, urban planning, and land
+          tenure security. Since the program will finance works that are similar to, but
+          physically independent from, one another and the viability of which is not
+          contingent on the implementation of a given number of the planned works, it has
+          been structured as a global multiple-works operation (GOM).
+
+25   For the list of neighborhoods used in calculating the densification percentage, see optional link 16.
+26   See optional link 16.
+27   CEPALSTAT, 2013. Average time devoted to paid and unpaid work.
+28   The activity rate of women aged 24 to 65 living in informal neighborhoods is 61.5%, 30% lower than that
+     of men and 7% lower than that of women in the same age living in formal neighborhoods (optional
+     link 16).
+29   Optional link 6
+30   See optional link 16.
+31   Over the 1960-2010 period there was a rise in average temperature in most of the country. See optional
+     link 16.
+                                                       -5-
+
+
+
+
+1.13      The Social and Urban Integration Program will prioritize the RENABAP
+          neighborhoods, where it will adopt a comprehensive intervention model that will
+          seek to provide basic infrastructure to coordinate existing State social programs
+          and services, using various models to address the specific deficits of each
+          neighborhood. The MSyDS classifies the universe of informal neighborhoods
+          under four types (optional link 5)32 based on level of risk and degree of
+          consolidation. The types are: (i) non-urbanizable informal neighborhoods;33
+          (ii) informal neighborhoods that are urbanizable with restrictions;34 (iii) informal
+          neighborhoods that may be subject to interventions through various operations
+          without the need of special investments to mitigate environmental risks and with
+          minimal needs of population resettlement;35 and (iv) new urbanizations on parcels
+          located within the neighborhood’s extended perimeter.36 The program will focus on
+          neighborhoods classified as the third of these types and allowing for a
+          comprehensive intervention.37
+1.14      The program seeks to integrate informal neighborhoods into their environment,
+          promoting channels to link them to the urban, social, and productive fabric of the
+          formal city. It will begin by strengthening the social fabric through an early,
+          intensive, and targeted delivery of social services for the human and productive
+          development of the beneficiaries and for the physical improvement of the
+          neighborhoods.38 By providing infrastructure, the program will seek to improve
+          access to basic services and quality of life for their population. In addition, by
+          strengthening the human and productive capital, the program expects to improve
+          the social mobility of these communities and, in the long term, help to break the
+          intergenerational cycle of poverty and thus prevent the creation of new informal
+          settlements. Figure 1 summarizes the program’s theory of change and optional
+          link 8 shows the vertical logic for each specific objective.
+
+
+
+
+32   Details on the types identified by the Secretariat for Social and Urban Integration (SISU).
+33   Those subject to an environmental risk affecting more than 30% of their surface area and requiring the
+     relocation of an equivalent percentage of their population (optional link 5 i).
+34   Neighborhoods subject to risks that affect less than 30% of their surface area and for which the risk
+     mitigation and management measures are proportional to the priorities in the cities in which they are
+     located (optional link 5 ii).
+35   This type is in turn divided into three subtypes: (i) 3a- central; (ii) 3b- urban; and (iii) 3c- urban fringe
+     (optional link 5 iii and optional link 12).
+36   Intended to develop solutions consisting of lots with services to house the population voluntarily
+
+     relocated due to interventions in neighborhoods of other types (optional link 5 iv).
+37   Specifically, the program will target three subtypes known as 3a, 3b, and 3c, from which different lessons
+     may be drawn.
+38   This aims to solve the three key problems of neighborhood improvement programs, as set out in the
+     Urban Development and Housing Sector Framework Document (document GN-2732-6). For details, see
+     optional link 16.
+                                            -6-
+
+
+
+                     Figure 1. Diagram of the program’s theory of change
+
+
+
+
+1.15   Evidence of effectiveness of the interventions. The following evidence on
+       neighborhood improvement effectiveness is worth noting due to its relevance for
+       the design of the program. The quasi-experimental evaluation of the Rio de Janeiro
+       Urban Upgrading Program, “Favela-Bairro” in Brazil [25] showed an improvement
+       in access to services, infant mortality, literacy, and income, as well as in general
+       well-being (under a hedonic price model) [26]. There are other rigorous evaluations
+       that focus on specific aspects of the effectiveness of some of the components of
+       these programs.
+1.16   Regarding the effects of property titling, a study conducted in Argentina [27] found
+       that the delivery of property title increases investment in the home, children’s
+       education, and access to credit markets, while at the same time resulting in
+       improved health for children in the beneficiary households [28]. In addition, quasi-
+       experimental studies of titling interventions in Peru [29, 30, 31] show improvements
+       in private household investment, access to credit markets, and job offerings. With
+       regard to the provision of infrastructure, an experimental study in Morocco [32]
+       found that a connection to the formal water system improves health, mental well-
+       being, use of time, employment outcomes, and relationships among the
+       beneficiaries. Another experimental study, in Mexico [33] showed that paving the
+       street improves investment in the home, employment outcomes, household
+       consumption, and satisfaction with the government. Similarly, a quasi-experimental
+       evaluation of road improvement in Brazil [34] revealed a 6% improvement in the
+       quality of life of residents, making it a highly cost-effective intervention.
+1.17   There is evidence that expanding effective coverage of certain social services,
+       such as primary health care and child care, generates high social returns. In the
+       former case, an expansion in the coverage of health prevention and promotion
+                                               -7-
+
+
+
+
+         services leads to a reduction in preventable hospitalizations and morbimortality
+         [35,36]. In the latter case, evaluations show that child care services have positive
+         effects on both long- and short-term child development measurements [37,38]. The
+         evidence regarding tutoring is limited, but a qualitative study of tutoring in the
+         context of Argentina suggests that it is an instrument that favors inclusion [44].
+1.18     With regard to the effectiveness of job productivity programs, rigorous job training
+         programs in vulnerable neighborhoods [39, 40, 41] yield positive effects in terms of
+         job outcomes for some segments of the population. An impact evaluation using
+         quasi-experimental methods found that the Business Development Support
+         Program (operation 989/OC-AR) yielded significant positive outcomes for the
+         employment level and wages of the beneficiary MSMEs [42, 43].
+1.19     Sector experience. This program will build on the capacities developed through
+         the neighborhood improvement programs in the region and through the social and
+         productive development programs. In the area of neighborhood improvement, the
+         Bank has experience in Argentina at the national and subnational levels. In terms
+         of operations entailing national execution and provincial and municipal
+         subexecution, the Bank has worked on PROMEBA (CCLIP AR-X1004), a remedial
+         program that has upgraded informal neighborhoods throughout the country. In
+         addition, the Bank has supported the city of Buenos Aires through the Urban
+         Integration and Social and Educational Inclusion Program in the Autonomous City
+         of Buenos Aires (operation AR-O0005), working at the subnational level through a
+         comprehensive intervention model. In the region: Favela-Bairro (operation
+         BR-0250) in Brazil, Neighborhood Improvement Program in Uruguay (CCLIP
+         UR-X1003), and others. In terms of production, the Bank has experience in
+         Argentina fostering the development of small productive units (MSMEs) and the
+         creation of new businesses by providing technical and financial assistance
+         (operations 989/OC-AR, 1884/OC-AR, and 2923/OC-AR). On the social side, the
+         Bank has for years been working with the MSyDS on various programs that have
+         generated key lessons for the design of this program. This includes the MSyDS’s
+         work experience in the Program to Support the National Early Childhood Plan and
+         the Policy for Universalization of Early Childhood Education (operation
+         4229/OC-AR), strengthening the national network of early childhood facilities, and
+         the Hacemos Futuro [Forging Our Future] program, focused on training the most
+         vulnerable segments of the population to join the workforce (operation
+         4648/OC-AR). There are two related technical cooperation operations39 that will
+         deliver inputs to strengthen execution, including a guide for the inclusion of climate
+         change issues in infrastructure, property title regularization strategies, and
+         development of new management models.
+1.20     Lessons learned. The Bank has been implementing comprehensive
+         neighborhood improvement programs for approximately 20 years40 and has
+         conducted numerous evaluation studies [19, 20, 21] which confirm the programs’
+         positive impacts on quality of life but at the same time underscore the need to
+         place greater emphasis on participatory work, address the issue of citizen security,
+         and improve social capital. These lessons may be consulted at optional link 11.
+39   Support to GEF Project: ATN/OC-14155-AR; Support for the Preparation of the Urban and Social
+     Integration Program: ATN/OC-17140-AR.
+40   List of programs in optional link 16.
+                                             -8-
+
+
+
+
+1.21   Strategic alignment. The program is consistent with the Update to the Institutional
+       Strategy 2010-2020 (document AB-3008) and with the Corporate Results
+       Framework 2016-2019 (document GN-2727-6) through the development
+       challenges of: (i) social inclusion and equality, by reducing the housing deficit,
+       expanding access to urban services for all segments of the population, increasing
+       the number of people who benefit from health services, and increasing the number
+       of children living in poverty who receive early childhood development services; and
+       (ii) productivity and innovation, by strengthening the neighborhood’s productive
+       units and their link to economic activities in the city and developing human and
+       economic capital. In addition, the program is aligned with the following crosscutting
+       themes and is consistent with the following Sector Framework Documents:
+       (i) Gender and Diversity (document GN-2800-8), by facilitating titling in the name
+       of, or shared by, women, developing safe public spaces, promoting women’s
+       employability, and expanding the coverage of social services that facilitate
+       women’s economic empowerment; and (ii) Climate Change (document
+       GN-2835-8), including the Integrated Strategy for Climate Change Adaptation and
+       Mitigation, and Sustainable and Renewable Energy (document GN-2609-1), by
+       engaging in climate change adaptation and mitigation activities such as LED public
+       lighting and resilient infrastructure, and by investing an estimated 30.2% of the
+       operation’s resources in these activities in accordance with the joint methodology
+       of the multilateral development banks for tracking climate change adaptation
+       finance. These resources contribute to the IDB Group target of increasing financing
+       for climate-related projects to 30% of total operational approvals by the end of
+       2020. The operation is also consistent with the following Sector Framework
+       Documents: Health and Nutrition (document GN-2735-7), by promoting and
+       incentivizing the use of health services; Social Protection and Poverty (document
+       GN-2784-7), by promoting the delivery of services that favor comprehensive
+       development of the vulnerable population and fostering the reinforcement of child
+       care and development services; Labor (document GN-2741-7), by seeking to
+       expand access to formal employment and ensure equality of opportunities; and
+       Urban Development and Housing (document GN-2732-6) (paragraph 1.14); and it
+       is aligned with the Sector Strategy on Institutions for Growth and Social Welfare
+       (document GN-2587-2) through the institution-strengthening component. Lastly,
+       the program is aligned with the IDB Group Country Strategy with Argentina 2016-
+       2019 (document GN-2870-1), through its contribution to the priority area of poverty
+       and inequality reduction and to job creation by proposing improved habitat and
+       access to basic services in informal neighborhoods and by promoting prevention
+       and early detection of noncommunicable chronic diseases, closing of the coverage
+       gap in early childhood care services, and increased employability of the population
+       and women’s participation in the job market. The operation is included in the 2019
+       Operational Program Report (document GN-2948).
+1.22   Compliance with the Public Utilities Policy (document GN-2716-6). The
+       program meets the policy’s conditions of financial sustainability and economic
+       evaluation and is consistent with its principles (optional link 3). In addition, the
+       interventions to be financed meet criteria of: (i) social sustainability, by promoting a
+       formal connection to public utilities, enabling families to have access to a reliable
+       and affordable service through a low-income rate; (ii) financial sustainability, by
+       providing a cost-efficient service through a connection to the distribution networks;
+       and (iii) environmental sustainability, by not creating significant impacts on the
+                                                    -9-
+
+
+
+
+          environment and promoting efficient use of water and energy. Furthermore, both
+          the energy and water sectors have an adequate institutional structure, with entities
+          responsible for policy and planning as well as for utilities regulation, setting rates
+          that recover the cost of services and targeted subsidies;41 and private-sector
+          participation, promoting transparency in the delivery of services (running water,
+          sanitation, electricity, and gas).
+B.        Objectives, components, and cost
+1.23      The objective of the operation is to promote the social and urban integration of the
+          country’s vulnerable neighborhoods, prioritizing those included in the RENABAP.
+          The specific objectives of each component are as follows:
+1.24      Component 1. Land-use planning and land-tenure security (US$2.0 million).
+          The specific objective of this component is to incorporate the area within the
+          informal neighborhoods into the land-use planning processes for inclusion in urban
+          planning, ensuring land-tenure security and promoting property title regularization.
+          The component will finance primarily: (i) technical and legal studies;
+          (ii) development of a draft ordinance for amendment of urban codes; (iii) expenses
+          related to the communities’ participation in the processes of preparing plans;
+          (iv) survey maps; (v) demarcations; (vi) cadastral inclusion of new parcels;
+          (vii) legal regularization of lots as needed to transfer property title; and (viii) family
+          assistance in titling, with a gender approach. Under this component, an effort will
+          be made to incorporate new technologies, such as blockchain titling, survey
+          actions, and community mapping.
+1.25      Component 2. Human and productive development (US$6.0 million). This
+          component is divided into two strategic subcomponents:
+          a. Subcomponent 2.1: Human development. The specific objective is to
+             enhance the presence of governmental agencies and civil society
+             organizations in the neighborhood, expanding the coverage of, and
+             community participation in, social programs. The subcomponent will finance
+             primarily: (i) social diagnostic assessments and studies of gaps in existing
+             social services (e.g., mapping of early childhood centers, healthcare
+             establishments, schools), with a gender perspective; (ii) development of
+             intervention plans; (iii) health and environmental campaigns on priority issues
+             and coordination with other promotion or prevention actions or initiatives;
+             (iv) training of health workers; (v) campaigns, facilities, and operations on
+             issues such as health, the environment, sports, recreation, and culture;
+             (vi) training caregivers; (vii) upgrade of community centers; (viii) school
+             dropout awareness campaigns; (ix) tutoring for young people on priority
+             subjects; (x) training, education, and implementation of mechanisms for
+             preventing and addressing substance abuse; and (xi) design and
+             implementation of an ongoing awareness-raising, dissemination, and
+             promotion strategy for gender policies. The subcomponent may also finance
+             temporary structures such as stands and stalls for providing social services.42
+
+41
+     See optional link 16.
+42   Structures similar to those currently enabling actions under the program “El Estado en tu barrio” [The
+     State in Your Neighborhood] will be considered eligible expenditures under this item. See optional link
+     16.
+                                                          - 10 -
+
+
+
+
+          b. Subcomponent 2.2: Productive development. The specific objective is to
+             promote the development of human capital and economic activities in the
+             neighborhood, with a focus on linking them to economic activities in the city.
+             The subcomponent will finance primarily: (i) social and productive diagnostic
+             assessments of the neighborhood and its environment; (ii) intervention plans
+             by neighborhood; (iii) technical and/or financial assistance for new productive
+             units and the strengthening of existing productive units; (iv) mentoring and
+             training in skills related to local job market demand;43 and (v) improvement of
+             infrastructure associated with the neighborhood’s productive apparatus. A
+             gender approach will be adopted, seeking to boost the economic
+             empowerment of women.
+1.26      Component 3. Urban infrastructure (US$39.5 million). The specific objectives
+          are to: (i) promote household connection to formal public services; (ii) improve the
+          accessibility and connectivity of urban road and pedestrian networks; and
+          (iii) strengthen social capital through community facilities and public spaces that
+          ensure the neighborhoods’ integration into the structures of their respective cities.
+          The component will finance primarily: (i) baseline diagnostic assessment;
+          (ii) formulation of final project designs, including the technical documents to set up
+          the bidding terms and conditions and technical specifications for comprehensive
+          project works and their preliminary studies; (iii) construction of drinking water,
+          sewer, storm drainage, gas distribution,44 electricity, public lighting, and
+          telecommunications service networks; (iv) construction of household water and
+          sewer connections; (v) construction of mobility systems such as road and
+          pedestrian networks; (vi) construction of safe public spaces and green areas,
+          fostering the use of digital technologies and mapping in their design; and (vii) smart
+          urban facilities, community facilities, such as multipurpose rooms, meeting centers,
+          social service delivery centers, and the required associated climate change
+          mitigation and adaptation works, such as LED public lighting, green infrastructure,
+          and resilient design of public spaces.45 The program will finance new housing if any
+          resettlement is required.
+1.27      Component 4. Strengthening of governmental and community institutions:
+          (US$1.5 million). The objective of this component is to promote a more efficient
+          implementation of neighborhood integration plans. To this end, the component will
+          seek to improve the institutional capacities of, and the links between, governmental
+          and civil society actors. This is expected to optimize the sustainability of the
+          interventions in the neighborhoods. The component will finance primarily:
+          (i) studies and consulting services in preparation for the formation of urban and
+          social integration roundtables; (ii) expenses arising from the formation of urban and
+          social integration roundtables, including the cost of workshop space and travel
+          costs for participants; (iii) training of community leaders, civil society organizations,
+          and governmental actors; (iv) dissemination events, communication campaigns,
+          and meetings associated with the neighborhood integration roundtables and with
+          the neighborhood integration plan validation and monitoring process; and
+          (v) expenses for the subexecution units associated with program management.
+
+43   See optional link 16.
+44   In areas of the country in which there is coverage.
+45   Identified actions that will favor inclusion are listed in optional link 16.
+                                                   - 11 -
+
+
+
+
+1.28      Administration and supervision (US$1.0 million). Includes administration
+          expenditures; specific consulting services required to support program
+          management from the central unit; external auditing expenditures; and consulting
+          services for program monitoring and evaluation.
+C.        Key results indicators
+1.29      Approximately 5,000 families residing in about 14 informal neighborhoods will
+          benefit from the program. The impact indicator to evaluate the urban and social
+          integration of the informal neighborhoods will be the vulnerability index based on
+          the SIEMPRO46 Social File and the urban and social integration indicator. The
+          expected outcomes are to: (i) incorporate the area within the informal
+          neighborhoods into the land-use planning processes and ensure land tenure
+          security; (ii) improve the presence of governmental agencies and civil society
+          organizations in informal neighborhoods, expanding the coverage of, and
+          community participation in, social programs; (iii) promote the development of
+          human capital and economic activities in the neighborhoods; (iv) promote
+          household connection to formal public services; (v) improve accessibility and
+          connectivity to urban road and pedestrian networks; (vi) strengthen social capital
+          through the use of community facilities and public spaces; and (vii) improve the
+          institutional capacities of, and the links between, governmental and civil society
+          actors. Annex II, the Results Matrix, lists the indicators for measuring the extent of
+          the outcomes and specific objectives and their projected values.
+1.30      Economic viability. A cost-benefit analysis of a representative project sample was
+          performed for an economic evaluation of the program. This evaluation was based
+          on a comparison of incremental costs and benefits at economic prices in with- and
+          without-project scenarios (optional link 12). The analysis of the sample, performed
+          using a 12% annual discount rate, yielded a net present value of US$1,184,277
+          and an internal rate of return (IRR) of 21%. In addition, the sensitivity analysis
+          showed that the operation can support a 10% increase in investment and yield an
+          IRR of 14.3%.
+
+                           II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       Cost and financing. This operation will be financed by means of a US$50 million
+          loan from the Bank’s Ordinary Capital. Table 1 shows the distribution of resources.
+
+
+
+
+46   SIEMPRO is the Spanish-language acronym for Sistema de Información, Evaluación y Monitoreo de
+     Programas Sociales [Social Program Information, Evaluation, and Monitoring System]. See optional link
+     16.
+                                              - 12 -
+
+
+
+
+                       Table 1. Estimated program costs (in millions of U.S. dollars)
+       Components                                                         IDB         Total      %
+        1. Land-use planning and land tenure security                         2.0       2.0      4.0
+        2. Human and productive development                                   6.0       6.0     12.0
+        3. Urban infrastructure                                             39.5       39.5     79.0
+        4. Strengthening of governmental and community institutions           1.5       1.5      3.0
+        Administration and supervision                                        1.0       1.0      2.0
+        Total                                                                  50        50      100
+
+2.2   Technical considerations. The representative project sample that was analyzed
+      consists of three projects with complete technical designs for an amount of
+      US$16.4 million, which represents 32.8% of the planned financing. The projects
+      included in this representative sample are located in the province of Corrientes;
+      they are: (i) Punta Taitalo, which encompasses 274 lots and 236 families within a
+      well-defined area of 18 hectares, categorized as 3c; (ii) Río Paraná, which
+      encompasses 436 lots and 448 families within a well-defined area of
+      18.8 hectares; and (iii) Dr. Montaña, which encompasses 1,050 lots and
+      327 families within an area of 17 hectares, categorized as 3b.
+2.3   Eligibility criteria. Eligibility will apply to the country’s provinces and municipios
+      that have neighborhoods included in the RENABAP and classified as type 3
+      (optional link 5) according to the MSyDS definition, which will be included in the
+      program Operating Regulations. A neighborhood will be eligible if it meets the
+      following conditions: (a) it is located in areas not affected by environmental risk
+      and/or regulatory restrictions; (b) it is located on government-owned land where
+      title conditions make it feasible to legalize land tenure; and (c) obtaining basic
+      residential services (water, sanitation, and power) is technically feasible.
+2.4   This operation will be structured as an investment loan using the global multiple-
+      works operation (GOM) modality (paragraph 1.12). The estimated timeframe for
+      the material commencement of works will be no later than six months prior to the
+      end of the original disbursement period, to ensure that interventions can be started
+      in the informal neighborhoods during most of the execution period. The program
+      will be disbursed over a five-year period from the effective date of the loan
+      contract, as shown in Table 2.
+
+                      Table 2. Disbursement schedule (in millions of U.S. dollars)
+                   Financing/Year                1         2       3       4        5         TOTAL
+                        IDB                     11.8      21      8.7     5.9      2.6          50
+                         %                       24       42      17       12       5          100
+
+
+B.    Environmental and social risks
+2.5   In accordance with the Bank’s Environment and Safeguards Compliance Policy
+      (Operational Policy OP-703), this program has been classified as a category “B”
+      operation. Its adverse environmental and/or social impacts are expected to be
+      moderate and subject to existing mitigation measures. Since this is a GOM, an
+      environmental and social management framework (ESMF) and an environmental
+      and social analysis (ESA) have been prepared along with their respective
+                                           - 13 -
+
+
+
+
+      environmental and social management plan (ESMP), including a resettlement plan,
+      for the three projects in the sample (Dr. Montaña, Río Paraná, and Punta Taitalo
+      neighborhoods in the city of Corrientes). According to the ESA, the main impact is
+      the relocation of 142 families whose dwellings are in environmental risk areas or in
+      areas adversely affected by the projects’ works (102 in the Dr. Montaña
+      neighborhood, 47 in Río Paraná, and 9 in Punta Taitalo). The resettlement plan
+      includes a socioeconomic census of all those adversely affected and identifies the
+      different types of impacts and compensation options: rehabilitation works for the
+      affected dwelling, which remains on the same lot (34 cases); construction of a new
+      home on the same lot (20 cases); or construction of a new home on a different lot
+      in the same neighborhood (104 cases). All resettlement will take place within the
+      same neighborhood to avoid disrupting the social fabric of the families involved.
+2.6   From 11 to 13 April, the ESA/ESMP and the ESMF were consulted with the
+      residents of the three neighborhoods in the sample. The resettlement plan was
+      submitted to two rounds of consultations with those affected. In the first round, held
+      on 11 April in the Dr. Montaña neighborhood, on 12 April in Río Paraná, and on
+      13 April in Punta Taitalo, all individuals included in the census of those affected by
+      the resettlement were invited. The second round, held on 22 April in all three
+      neighborhoods, was held with the committee of representatives of affected
+      individuals formed during the first round. The concerns of consultation participants
+      are essentially related to the compensation options and the participants’ specific
+      situations. There was no stated opposition to or dissatisfaction with the projects
+      from any participant.
+2.7   Since the program acts on socially sensitive areas, there is a risk that the
+      community may not participate in formulating the projects. To mitigate this risk,
+      projects will be prioritized in jurisdictions in which there is an organized community
+      and residents are available to work.
+C.    Fiduciary risks
+2.8   Based on the risk analysis and taking the findings of the ICAS assessment into
+      account, the following fiduciary risks have been identified: (i) restrictions on fiscal
+      headroom adversely affecting the budget available for investments, to be mitigated
+      by allowing the participating provinces to incur debt by signing subsidiary
+      agreements, which will also be a contractual condition for execution; (ii) the
+      MSyDS’s lack of prior experience in the procurement of Bank-financed
+      infrastructure works; and (iii) the difficulty of ensuring proper fiduciary management
+      (disbursements, appropriate control environment, and timely procurement
+      management) in view of the potential for operational overload, to be mitigated by
+      hiring fiduciary staff or support firms for specific interventions. There are no
+      expected waivers of or exceptions to Bank policies.
+D.    Other risks and key issues
+2.9   Aside from the environmental, social, and fiduciary risks, the following additional
+      risks have been identified: (i) macroeconomic and fiscal sustainability risk: should
+      the restrictions on fiscal headroom continue at the national and provincial levels,
+      this could affect the scope of the program and its execution timeline. To mitigate
+      this risk, projects in jurisdictions with fiscal headroom will be given priority;
+      (ii) public management and governance risk: (a) the MSyDS’s possible lack of prior
+                                                - 14 -
+
+
+
+
+         experience in executing infrastructure programs financed by the Bank could give
+         rise to delays in the program implementation timeframes. To mitigate this risk, the
+         executing agency team will be strengthened through additional staff for specific
+         interventions and will train and supervise the subexecuting agencies, and the hiring
+         of competent and properly trained staff will be its performance indicator; and (b) in
+         the event of shortcomings in communications between the various government
+         levels (national, provincial, and municipal), the program implementation timeframes
+         could be adversely affected. To mitigate this risk, the program’s project cycle
+         (optional link 9) envisages mechanisms for keeping all three government levels
+         and the community informed.
+2.10     Prioritization criteria. Provinces and municipios will be prioritized in accordance
+         with their institutional, financial, and legal capacity to enter into agreements with
+         the MSyDS and assume the responsibility of executing the specific projects. In
+         addition, priority will be given to informal neighborhoods in which: (i) the area of
+         intervention is part of a local strategic project; (ii) the intervention generates
+         positive impacts on the urban and social environment; (iii) there is an organized
+         community and residents are available to work on the project; and (iv) there has
+         been a prior social intervention by the MSyDS. All projects are required to meet all
+         program criteria and technical requirements.
+2.11     The intervention strategy will be outlined in the neighborhood integration plans,
+         which will be the main investment coordination instrument and where the various
+         national and subnational actors (ministry, province, municipio), together with the
+         community, will agree on the investments to be made, which will already have
+         been aligned with municipal plans in execution in each informal neighborhood.47
+         The neighborhood integration plans will incorporate priority investments in social
+         programs and infrastructure on a coordinated basis and will define strategies for
+         the program’s actions and presence in the territory, helping to intensify State action
+         in the targeted informal neighborhoods. To this end, the following tasks will be
+         carried out: (i) urban planning recommendations to incorporate informal
+         neighborhoods into the municipal planning instruments; (ii) definition of strategies
+         to address tenure security; (iii) definition of social and productive approach
+         strategies that will build on existing programs and initiatives (such as El Estado en
+         tu Barrio [The State in Your Neighborhood] or Salud en tu Barrio [Health in Your
+         Neighborhood]), enabling the delivery of social services from the outset of the
+         program; (iv) design of infrastructure works and reduction of environmental
+         vulnerability; (v) prefeasibility studies of infrastructure services; (vi) preliminary
+         projects for infrastructure interventions; (vii) definition of actions for community
+         reinforcement; and (viii) strategies to ensure the sustainability of the investments,
+         such as by preparing the communities or signing sustainability agreements. The
+         civil society organizations may carry out a part of the above-described tasks, and
+         the specific mechanism governing their participation will be described in the
+         program’s Operating Regulations. The neighborhood integration plans will be
+         developed taking into account the importance of fostering the inclusion of issues
+         such as gender equality and climate change48 in program planning and
+
+47   Optional link 5.
+48   A work team has been created in the context of the operation under the sustainable construction
+     roundtable. See optional link 16.
+                                                - 15 -
+
+
+
+
+         implementation. The following eligibility criteria will be included in the program
+         Operating Regulations: infrastructure projects will comply with the Public Utiltiies
+         Policy and wil have a rate of return similar to that reflected in the representative
+         project sample. In addition, in formulating the plans, priority will be given to actions
+         that contribute to resolving gender problems identified in the Diagnostic
+         assessment of gender inequality and overburdened services in informal
+         neighborhoods (optional link 6).
+2.12     Sustainability of the interventions. One of the benefits of the program is the
+         greater emphasis to be placed on working with the community via social projects,
+         which represent the guiding principle of the operation. This will lead to greater
+         empowerment of the community and the local governments, as well as to an
+         improvement and consolidation of the relationship between the two. Thus, the
+         intent is to train the communities for when the program is ended to ensure greater
+         ownership and care of the works carried out under the program. Similarly, the
+         program calls for transferring the responsibility for maintenance of the works to the
+         service providers (electricity and water companies, etc.) by means of investment
+         sustainability agreements.
+
+                        III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.       Summary of implementation arrangements
+3.1      The Argentine Republic will execute the program through the Ministry of Health
+         and Social Development (MSyDS), which will act by means of the Urban and
+         Secretariat for Social and Urban Integration (SISU) as the entity responsible for
+         program coordination and for technical supervision of the individual projects. In
+         turn, the Office for Special Projects and International Cooperation (DGPECI) will
+         support the SISU and be responsible for fiduciary management (including financial
+         management and procurement planning) and monitoring of the program, as well as
+         other tasks. The duties and responsibilities of each of the areas of the MSyDS
+         involved in executing the program will be described in the program Operating
+         Regulations.
+3.2      The activities included in the various components may be carried out in
+         decentralized fashion, with the beneficiary provinces and municipios49 acting as
+         subexecuting agencies.50 The projects will be formulated and managed by the
+         subexecution units, which will be responsible for the procurement processes,
+         certification of progress on the works, financial monitoring, payments, and other
+         tasks, all of which will be described in the program Operating Regulations. Prior to
+         starting these tasks, the institutional capacity of each subexecution unit will be
+         evaluated by the executing agency. In addition, the MSyDS may also execute
+         projects directly.
+3.3      The MSyDS will sign agreements with the program’s beneficiary provinces and
+         municipios for execution of the individual projects and transfer of the loan
+         proceeds. These agreements will include a requirement to comply with the
+
+49   The Autonomous City of Buenos Aires is included for purposes of the program.
+50   An ICAS assessment will be conducted to determine the institutional capacity of the subexecuting
+     agencies. See optional link 16.
+                                          - 16 -
+
+
+
+
+      provisions of the loan contract and the program Operating Regulations, and
+      arrangements for the operation and maintenance of the works, as applicable. The
+      loan proceeds, depending on the national and provincial fiscal headroom, may be
+      transferred to the beneficiary provinces and municipios as: (i) reimbursable
+      resources (loans) or as (ii) nonreimbursable resources.
+3.4   The provinces and municipios may provide financing for land-title regularization,
+      undertakings by productive units, and household connections in accordance with a
+      mechanism (e.g., fund managed by housing institutes) that will be subject to
+      access conditions, eligibility criteria, and other operational considerations to be
+      described in the program Operating Regulations. Before committing resources for
+      such financing, the MSyDS will be required to update the program Operating
+      Regulations with the Bank’s prior no objection, so as to include the operational
+      regulations applicable to the financing mechanism as an annex thereto.
+3.5   The program Operating Regulations will include the following: (i) programming and
+      management of the projects financed under the program, including the project
+      cycle; (ii) criteria for prioritizing provinces and municipios and for eligibility of
+      informal neighborhoods; (iii) financial execution of the program; (iv) monitoring,
+      evaluation, and reporting; (v) modalities of linkages with and responsibilities of
+      subexecuting agencies, when applicable; (vi) access conditions, eligibility criteria,
+      and other operational considerations for financing that may be granted by
+      provinces and municipios using program resources; and (vii) environmental and
+      social management requirements, including those set forth in the program’s ESMF.
+3.6   A special contractual condition precedent to the first loan disbursement will
+      be MSyDS approval and entry into force of the program Operating
+      Regulations on terms previously agreed upon with the Bank. This condition is
+      necessary to ensure that, through the program Operating Regulations, there is the
+      operational framework necessary to start up program execution.
+3.7   As a special contractual condition for execution, before transferring loan proceeds
+      to a beneficiary province or municipio under the program, the MSyDS will sign an
+      agreement with the relevant province or municipio establishing the obligations
+      regarding the execution of the resources and the activities of the respective
+      project, including the obligation to comply with the provisions of the loan contract
+      and the program Operating Regulations, as well as the arrangements for operation
+      and maintenance of the works, as applicable. This condition is necessary so the
+      respective municipio or province legally commits to use the resources in
+      accordance with the applicable contractual conditions and program Operating
+      Regulations.
+3.8   Financial management and procurement. Annex III contains the fiduciary
+      arrangements for execution in terms of disbursement modalities, financial
+      administration and procurement systems, and auditing arrangements. The loan
+      proceeds will be disbursed in the form of advances of funds, the frequency of
+      which will be determined on the basis of the financial programming and its
+      consistency with other planning and financial instruments, such as the annual work
+      plan (AWP) and the procurement plan. The Bank may advance more funds,
+      preferably on a six-monthly basis, provided that at least 70% of all previously
+      advanced funds has been accounted for. This percentage is due to the complexity
+      of the program’s execution, including a funds flow circuit that involves
+                                          - 17 -
+
+
+
+
+       subexecution units in all provinces and the concomitant fragmentation of
+       processes and expenses, which could considerably delay the receipt and analysis
+       process. The procurement of works, goods, and consulting services will be
+       undertaken in accordance with the Policies for the Procurement of Works and
+       Goods Financed by the IDB (document GN-2349-9) and the Policies for Selection
+       and Contracting of Consultants Financed by the IDB (document GN-2350-9). For a
+       description of procurement mechanisms for achieving the objectives of Component
+       II, see Annex III-(A) Procurement execution, paragraphs 4.2(b) and 4.8.
+3.9    Retroactive financing. The Bank may retroactively finance, as a charge against
+       the loan proceeds, up to US$10 million (20% of the proposed loan amount) in
+       eligible expenditures incurred by the borrower prior to the approval date of the
+       operation for the procurement of works, goods, consulting and nonconsulting
+       services, and social interventions in the informal neighborhoods targeted by the
+       program, provided that requirements substantially similar to those established in
+       the loan contract have been met. Such expenditures will have been incurred on or
+       after 15 March 2019 (the project profile approval date), but will under no
+       circumstances include expenditures incurred more than 18 months prior to the loan
+       approval date.
+3.10   Audits. During the execution period, the DGPECI will submit audited financial
+       statements for the program on an annual basis, pursuant to the requirements
+       established by the Bank in its policies. The audited financial statements will be
+       submitted within 120 days after the close of the fiscal year. The closing audit
+       reports for the program will be delivered within 120 days after the last
+       disbursement. Audits for this program may be conducted by the Auditoría General
+       de la Nación [National General Auditing Office] or an independent auditing firm
+       acceptable to the Bank.
+B.     Summary of monitoring and evaluation arrangements
+3.11   The executing agency will have an execution monitoring system in place that will
+       make it possible to define the agreed upon output and outcome indicators at the
+       project level, as well as the associated targets for each period. The program
+       website will provide access to the files for the informal neighborhoods targeted by
+       each project.
+3.12   Program planning, updating, and monitoring of the execution actions will be carried
+       out through instruments such as the Results Matrix, multiyear execution plan,
+       AWPs, progress monitoring reports, annual reports, onsite supervision plan, and
+       periodic updates of the risk matrix.
+3.13   Fiduciary considerations will be monitored using country systems satisfactory to
+       the Bank. All project transactions will be performed using the UEPEX system. The
+       required financial reports are: (i) financial execution plan for the six months
+       following the request for an advance; (ii) annual audited financial statements; and
+       (iii) other reports that may be required by the Bank. Procurement will be monitored
+       through the SEPA.
+3.14   The midterm evaluation will focus on the program’s operational considerations and
+       processes. The final evaluation will review these considerations, as well as the
+       final achievement of output, outcome, and impact targets in accordance with the
+       Results Matrix and a closing economic analysis of the intervention following the
+                                  - 18 -
+
+
+
+
+guidelines agreed upon with the Bank. An ex post impact evaluation will be
+conducted (including causal attribution) to measure the degree of achievement of
+the outcome and impact indicators. Details are included in the monitoring and
+evaluation plan (required link 2).
+                                                                                                                                                                                                                    Annex I - AR-L1306]
+                                                                                                                                                                                                                             Page 1 of 1
+
+
+
+
+                                                                                       Development Effectiveness Matrix
+
+                                                                                               Summary
+I. Corporate and Country Priorities
+1. IDB Development Objectives                                                                                                                                 Yes
+
+
+                                                                                                            -Social Inclusion and Equality
+                                                                                                            -Productivity and Innovation
+   Development Challenges & Cross-cutting Themes                                                            -Gender Equality and Diversity
+                                                                                                            -Climate Change and Environmental Sustainability
+
+
+
+
+                                                                                                            -Beneficiaries receiving health services (#)*
+                                                                                                            -Beneficiaries of on-the-job training programs (#)*
+                                                                                                            -Women beneficiaries of economic empowerment initiatives (#)*
+                                                                                                            -Micro / small / medium enterprises provided with non-financial support (#)*
+                                                                                                            -Households with new or upgraded access to drinking water (#)*
+   Country Development Results Indicators                                                                   -Households with new or upgraded access to sanitation (#)*
+                                                                                                            -Roads built or upgraded (km)*
+                                                                                                            -Government agencies benefited by projects that strengthen technological and managerial
+                                                                                                            tools to improve public service delivery (#)*
+                                                                                                            -Children receiving early childhood development services targeted to the poor (#)*
+
+
+
+2. Country Development Objectives                                                                                                                             Yes
+
+                                                                                                                                           3.5 Improve the habitat and access to basic services, particularly
+   Country Strategy Results Matrix                                                                                   GN-2870-1
+                                                                                                                                           in lower-income regions.
+
+
+
+   Country Program Results Matrix                                                                                     GN-2948              The intervention is included in the 2019 Operational Program.
+
+
+
+ Relevance of this project to country development challenges (If not aligned to country
+ strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                                                Evaluable
+3. Evidence-based Assessment & Solution                                                                                                                      8.9
+     3.1 Program Diagnosis                                                                                                                                   2.4
+     3.2 Proposed Interventions or Solutions                                                                                                                 4.0
+     3.3 Results Matrix Quality                                                                                                                              2.5
+4. Ex ante Economic Analysis                                                                                                                                 6.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                                          3.0
+     4.2 Identified and Quantified Benefits and Costs                                                                                                        3.0
+     4.3 Reasonable Assumptions                                                                                                                              0.0
+     4.4 Sensitivity Analysis                                                                                                                                0.0
+     4.5 Consistency with results matrix                                                                                                                     0.0
+5. Monitoring and Evaluation                                                                                                                                 10.0
+     5.1 Monitoring Mechanisms                                                                                                                               2.5
+     5.2 Evaluation Plan                                                                                                                                     7.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                                         Medium
+                                    Identified risks have been rated for magnitude and likelihood                                                           Yes
+                                         Mitigation measures have been identified for major risks                                                           Yes
+                           Mitigation measures have indicators for tracking their implementation                                                            Yes
+Environmental & social risk classification                                                                                                                   B
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                                           Financial Management: Budget, Accounting and Reporting.
+                                                                           Fiduciary (VPC/FMP Criteria)                 Yes
+                                                                                                                                           Procurement: Information System.
+
+
+
+
+                                                                                            Non-Fiduciary
+
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries and/or
+public sector entity in the following dimensions:
+
+
+
+Additional (to project preparation) technical assistance was provided to the public sector
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+Note: (*) Indicates contribution to the corresponding CRF’s Country Development Results Indicator.
+
+
+Evaluability Assessment Note: The general objective of the operation is to promote the social and urban integration of the “barrios populares” (BP) of Argentina. In order to achieve this objective,
+the proposal defines the following specific objectives: (i) to incorporate the polygons of the BPs to the processes of territorial planning; (ii) improve the presence of government and civil society
+organizations in the neighborhoods; (iii) promote the development of human capital and impulse economic activities in the neighborhood, (iv) promote the connection of families to formal public
+services; (v) improve the accessibility and connectivity of urban roads and pedestrian networks; (vi) strengthen social capital through improving community facilities and public spaces.
+The proposal diagnoses that the BPs are not integrated socio-urbanistically, which is a gap that can be improved with technical and legal studies to address problems of territorial ordering and
+allocation of property rights. It is identified that the inhabitants of the BP both, have low levels of human capital and find it difficult to insert themselves productively in the labor market, with which the
+implementation of programs of productive insertion, human capital investments and training are conceived as strategies to overcome these barriers. It is proposed to address problems of limited
+access of the inhabitants of the BP to social services with demand studies that will allow dimensioning, designing and implementing investment projects in health, early childhood, and pregnancy
+prevention (among others). It is proposed to invest in infrastructure to fill the gap in accessibility and connectivity to road and pedestrian networks, as well as access to basic public services, public
+spaces and recreation facilities. The program will invest in studies, workshops and training to fill the existing gaps in the institutional capacity of subnational governments for the management of the
+territory. The quantification of these needs is disaggregated, and their magnitudes expressed quantitatively.
+The vertical logic is clear since the products can be straightforwardly connected with the achievement of results and, whenever those results are achieved it is to be expected that the objective of
+promoting social and urban integration will be achieved. Although the ex ante cost-benefit analysis is complete, this analysis is based on estimates of a model built with insufficient data to credibly
+estimate the economic benefits of the PISU program.
+The monitoring will be carried out with data from a series of monitoring and evaluation reports that will be combined with statistical data (census of the neighborhoods and BP investment program
+data). The program includes a non-experimental evaluation (propensity score matching methods) to estimate the effects of the program on the changes in housing prices. The evaluation plan
+contemplates exploring innovative evaluation options to estimate the effects of the PISU program on employment opportunities of the beneficiaries using the “Audits Contract” method..
+                                                                                                                                                                      Annex II
+                                                                                                                                                                   Page 1 of 10
+
+
+
+                                                                                    RESULTS MATRIX
+
+
+    Program objective:                       The objective of the program is to promote social and urban integration of the country’s vulnerable neighborhoods, prioritizing
+                                             those included in the National Registry of Informal Neighborhoods (RENABAP).
+
+
+
+                                                                                    EXPECTED IMPACT
+
+                                  Unit of                           Baseline      Year   Year   Year   Year   Year                         Means of
+         Indicators                                Baseline                                                            Final target                          Comments1
+                                 measure                              year         1      2      3      4      5                          verification
+
+    IMPACT 1
+
+    Neighborhood                Standard         Neighborhood 2019-2020                                               20% decrease        SIEMPRO          Synthetic
+    vulnerability index         deviations          census                                                                              Social File data   vulnerability index
+                                                                                                                                                           based on the
+                                                                                                                                                           neighborhood
+                                                                                                                                                           census
+                                                                                                                                                           (expanded
+                                                                                                                                                           SISFAM)
+
+
+
+
+1      (#) For more details, see the monitoring and evaluation plan (required link 2).
+Annex II
+Page 2 of 10
+
+
+                                                                     EXPECTED OUTCOMES
+
+                                         Unit of
+               Indicators                               Baseline     Baseline year   Final target           Means of verification                    Comments
+                                        measure
+
+ OUTCOME 1. Land-use planning and land tenure security: incorporate the area within the informal neighborhoods into the land-use planning processes
+ for inclusion in urban planning, ensuring land-tenure security and promoting property title regularization.
+
+ Informal neighborhoods added to
+                                      Percentage of                                                 Website of Ministry of Interior, Urban
+ the municipal land-use planning                            -          2019 - 2020      100%                                                   (#)
+                                      neighborhoods                                                 Planning Secretariat, city codes by city
+ instruments
+
+ Families signing the
+                                                                                                    Reports delivered by the
+ administrative document that         Percentage of
+                                                            -          2019 - 2020      100%        organizations/institutions assisting the   (#)
+ launches the formal                     families
+                                                                                                    families
+ regularization process
+
+ Families signing the
+ administrative document that
+ launches the formal                  Percentage of
+                                                            -          2019 – 2020      30%         Same as above                              (#)
+ regularization process, with title      families
+ in a woman’s name or shared by
+ men and women
+
+ OUTCOME 2. Human development: enhance the presence of governmental agencies and civil society organizations in the neighborhood, expanding the
+ coverage of, and community participation in, social programs.
+
+                                                                                                    Administrative data from the SUMAR
+ People with effective basic          Percentage of     Neighbor-                                   national health program and the
+                                                                       2019-2020        50%                                                    (#)
+ coverage                             the population   hood census                                  neighborhood census (health module,
+                                                                                                    question S2)
+
+ Unmet demand for early
+ childhood (ages 1½ months to
+                                                                                                    Results of neighborhood census
+ 4 years) care and rearing in         Percentage of     Neighbor-
+                                                                       2019-2020        50%         (SISFAM child care and education           (#)
+ public, private, or community        the population   hood census
+                                                                                                    module)
+ centers and for community and
+ family assistance
+                                                                                                                                                     Annex II
+                                                                                                                                                  Page 3 of 10
+
+
+                                       Unit of
+           Indicators                                  Baseline    Baseline year   Final target           Means of verification                 Comments
+                                      measure
+
+                                                                                                  Mapping of actors and data provided
+                                                       Mapping
+Spaces related to the issue of        Number of                                                   by the urban and social integration
+                                                       and field     2019-2020         42                                                 (#)
+substance abuse                        spaces                                                     roundtable (human development and
+                                                        work
+                                                                                                  approach roundtable)
+
+Consultations on substance
+abuse attended by agents             Number of                                                    Data gathered by the urban and social
+                                                          0          2019-2020        1,680
+trained under the local protocol    consultations                                                 integration roundtable
+designed by this intervention
+
+Tutoring completed by school-
+                                                                                                  Neighborhood census and
+age youth at risk of dropping out   Percentage of
+                                                          0          2019-2020        15%         administrative data from local
+or who have dropped out of the      young people
+                                                                                                  educational institutions
+obligatory basic education cycle
+
+                                                       Mapping
+Spaces related to the issue of        Number of                                                   Data provided by the urban and social
+                                                       and field     2019-2020         42
+gender violence                        spaces                                                     integration roundtable
+                                                        work
+
+OUTCOME 3. Productive development: promote the development of human capital and economic activities in the neighborhood, with a focus on linking
+them to economic activities in the city.
+
+Productive units created by the                                                                   Subexecution units and DISP
+program that remain in operation     Percentage of                                                monitoring team based on a monitoring
+                                                          0          2019-2020        50%                                                 (#)
+12 months after the conclusion of   productive units                                              plan for productive units at the
+the productive project                                                                            neighborhood level
+
+                                     Percentage of
+Productive units formalized                               0          2019-2020        50%         Same as above
+                                    productive units
+
+Individuals joining the job
+placement actions/processes         Percentage of
+                                                          0          2019-2020        40%         Same as above
+(performed by private or public        people
+providers)
+
+Productive units that mitigate       Percentage of
+                                                          0          2019-2020        30%         Same as above
+labor and environmental risks       productive units
+Annex II
+Page 4 of 10
+
+
+                                            Unit of
+               Indicators                                   Baseline     Baseline year   Final target          Means of verification                 Comments
+                                           measure
+
+    Social and productive projects
+    implemented that promote
+                                         Percentage of
+    economic activities with climate                           0           2019-2020        30%         Same as above
+                                           projects
+    change mitigation and/or
+    adaptation impact
+
+    Women-led productive units                                                                          Same as above. Subexecution units
+                                         Percentage of
+    strengthened                                               0           2019-2020        30%         and DISP monitoring team based on a    (#)
+                                        productive units
+                                                                                                        monitoring plan for productive units
+
+    OUTCOME 4. Urban infrastructure: (i) promote household connection to formal public services.
+
+    Families formally disposing of
+                                         Percentage of      Neighbor-
+    wastewater six months after the                                        2019-2020        90%         (*)2                                   (#)
+                                            families       hood census
+    intervention
+
+    Families making use of the
+                                         Percentage of      Neighbor-                                   Neighborhood census. Information
+    formal water service six months                                        2019-2020        90%                                                (#)
+                                            families       hood census                                  from users’ meters.
+    after the intervention
+
+    Families with formal household       Percentage of      Neighbor-                      To be
+                                                                           2019-2020                    (*), SISFAM
+    natural gas connection                  families       hood census                   determined
+
+    Families with formal household       Percentage of      Neighbor-
+                                                                           2019-2020        40%         (*), SISFAM
+    electric power connection               families       hood census
+
+    OUTCOME 5. Urban infrastructure: (ii) improve the accessibility and connectivity of urban road and pedestrian networks.
+    Index of accessibility and                              Neighbor-                                   (*), expanded SISFAM
+    connectivity to road and                  SD                           2019-2020        +15%
+                                                           hood census
+    pedestrian networks
+                                                                                                        Modified neighborhood census
+    Families making use of internet      Percentage of      Neighbor-
+                                                                           2019-2020        +30%        (SISFAM dwellings module, question
+    service in the neighborhood             families       hood census
+                                                                                                        B15).
+
+
+
+
+2        (*) Neighborhood census. Housing module.
+                                                                                                                                               Annex II
+                                                                                                                                            Page 5 of 10
+
+
+                                       Unit of
+           Indicators                                Baseline     Baseline year   Final target           Means of verification          Comments
+                                      measure
+
+OUTCOME 6. Urban infrastructure: (iii) strengthen social capital through community facilities and public spaces that ensure the neighborhoods’
+integration into the structures of their respective cities.
+
+Families that report having used
+                                    Percentage of    Neighbor-                                   Neighborhood census. Expanded
+the neighborhood’s community                                        2019-2020        +40%
+                                       families     hood census                                  SISFAM
+and/or recreational facilities
+
+OUTCOME 7. Strengthening of governmental and community institutions: promote a more efficient implementation of neighborhood integration plans.
+To this end, the component will seek to improve the institutional capacities of, and the links between, governmental and civil society actors.
+
+                                                      To be
+Increase in density of the             Density      determined                                   Data yielded by UCINET software
+                                                                    2019-2020        25%
+community networks                   percentage        in the                                    based on field work
+                                                     mapping
+
+Municipios submitting
+comprehensive urbanization
+projects for informal
+neighborhoods (not served by
+the Social and Urban Integration
+Program) to the Sistema de
+                                    Percentage of
+Identificación y Ponderación de                         0           2019-2020        20%         SIPPE
+                                     municipios
+Proyectos Estratégicos [Strategic
+Project Identification and
+Weighting System] (SIPPE) and
+achieving level 3 out of all
+municipios that participated in
+the program
+Annex II
+Page 6 of 10
+
+
+                                                                       OUTPUTS
+
+                                  Unit of                Baseline    Year   Year   Year            Year    Final       Means of
+           Outputs                            Baseline                                    Year 4                                         Comments
+                                 measure                   year       1      2      3               5     target      verification
+
+ Component 1. Land-use planning and land tenure security
+
+ Diagnostic assessments of      Number of        0       2019-2020    5      9      -       -       -     14       Subexecution unit
+ existing city land-use codes    reports                                                                           diagnostic reports
+ performed
+
+ Projects to modify existing    Number of        0       2019-2020    3      7      4       -       -     14       Subexecution unit
+ city land-use codes carried     projects                                                                          projects
+ out
+
+ Technical and legal studies    Number of        0       2019-2020    5      9      -       -       -     14       Subexecution unit
+ on tenure security              reports                                                                           reports
+ performed
+
+ Regularization projects        Number of        0       2019-2020    3      7      4       -       -     14       Subexecution unit
+ carried out                     projects                                                                          project
+
+ Operational guide to ensure    Number of        0       2019-2020    3      7      4       -       -     14       Operational guide
+ tenure security submitted to    guides                                                                            prepared by the
+ and validated by the                                                                                              subexecution unit
+ community
+
+ Families assisted in the       Number of        0       2019-2020    -     180    420     420     180    1,200    Subexecution unit    (#)
+ regularization process          families                                                                          reports
+
+ Component 2. Human and productive development
+
+ Subcomponent 2.1 – Human development
+
+ Diagnostic assessments          Number of       0       2019-2020    5      9      -       -       -       14     Subexecution unit
+ performed per neighborhood      diagnostic                                                                        reports
+ on existing social problems,   assessments
+ extent of social services
+ coverage, and unmet
+ demand
+                                                                                                                                                 Annex II
+                                                                                                                                              Page 7 of 10
+
+
+                                 Unit of                Baseline    Year   Year   Year            Year    Final       Means of
+          Outputs                            Baseline                                    Year 4                                          Comments
+                                measure                   year       1      2      3               5     target      verification
+
+Projects for coordination       Number of       0       2019-2020    4      7      3       -       -      14      Subexecution unit
+between the community and        projects                                                                         projects
+social programs submitted
+to and validated by the
+community
+
+Human development               Number of       0       2019-2020    -      -      -       -      14      14      Final report of the
+projects completed               projects                                                                         urban and social
+                                                                                                                  integration
+                                                                                                                  roundtable
+
+➔   Milestone: Number of        Number of       0       2019-2020   30     35     25      12      10      112     Six-monthly
+    training and                 trainings                                                                        management report
+    apprenticeship                                                                                                of the urban and
+    opportunities                                                                                                 social integration
+                                                                                                                  roundtable
+
+Subcomponent 2.2 Productive development
+
+Diagnostic assessments of       Number of       0       2019-2020    5      9      -       -       -      14      Subexecution units
+the productive fabric by        diagnostic                                                                        and SISU
+neighborhood and its           assessments
+environment carried out
+(with a gender perspective)
+
+Comprehensive social and        Number of       0       2019-2020    3      7      4       -       -      14      Same as above
+productive development            plans
+plans designed
+Social and productive           Number of       0       2019-2020    -      5     12      18       -      35      Same as above
+projects implemented             projects
+➔   Milestone: trained          Number of       0       2019-2020   140    490    560     210      -     1,400    Same as above         (#)
+    individuals who complete     people
+    the courses offered by
+    the program
+Annex II
+Page 8 of 10
+
+
+                                   Unit of                Baseline    Year   Year    Year             Year    Final       Means of
+           Outputs                             Baseline                                      Year 4                                        Comments
+                                  measure                   year       1      2       3                5     target      verification
+
+ ➔   Milestone: trained           Number of       0       2019-2020   50     165     185      67       -      467     Same as above       (#)
+     individuals who complete       men
+     the courses offered by
+                                  Number of       0       2019-2020   90     325     375      143      -      933
+     the program,
+                                   women
+     disaggregated by gender
+ ➔   Milestone: productive        Number of       0       2019-2020   10      20      35      33       -      98      Same as above
+     units strengthened by the    productive
+     program                         units
+ ➔   Milestone: productive        Number of       0       2019-2020    -      3       6        5       -      14      Same as above
+     units strengthened by the      men
+     program, disaggregated
+                                  Number of       0       2019-2020    -      2       12      14       -      28
+     by gender
+                                   women
+ ➔   Milestone: productive        Number of       0       2019-2020    -       -      2        4       -       6      Same as above       (#)
+     units created by the         productive
+     program with climate            units
+     change mitigation and/or
+     adaptation impact
+ Component 3. Urban infrastructure
+
+ Urban diagnostic                 Number of       0       2019-2020    5      9        -       -       -      14      Subexecution unit
+ assessments performed on         diagnostic                                                                          report
+ the level of infrastructure     assessments
+ coverage, facilities, and
+ accessibility
+ Final infrastructure project     Number of       0       2019-2020    -      3       4        5       2      14      Subexecution unit
+ designs completed                 projects                                                                           report
+ ➔   Milestone: final             Number of       0       2019-2020    4      6       4        -       -      14      Subexecution unit
+     infrastructure project        projects                                                                           project
+     designs presented and
+     validated by the
+     community
+
+ ➔   Milestone: lots with         Number of       0       2019-2020   500    1,000   1,500   1,700    300    5,000    Work progress
+     electric power                 lots                                                                              report
+     connection installed
+                                                                                                                                                  Annex II
+                                                                                                                                               Page 9 of 10
+
+
+                                   Unit of                 Baseline    Year   Year    Year             Year    Final       Means of
+           Outputs                              Baseline                                      Year 4                                      Comments
+                                  measure                    year       1      2       3                5     target      verification
+
+➔   Milestone: lots with gas      Number of        0       2019-2020   500    1,000   1,500   1,700    300    5,000    Work progress
+    connection installed            lots                                                                               report
+
+➔   Milestone: dwellings with     Number of        0       2019-2020   500    1,000   1,500   1,700    300    5,000    Work progress
+    formal household water        dwellings                                                                            report
+    connections
+
+➔   Milestone: dwellings with     Number of        0       2019-2020   500    1,000   1,500   1,700    300    5,000    Work progress
+    household sewer               dwellings                                                                            report
+    connections installed
+
+➔   Milestone: linear meters      Number of        0       2019-2020   0.4     0.8     1.2     1.3     0.3      4      Work progress     (#)
+    of street with storm          kilometers                                                                           report
+    drainage built
+
+➔   Milestone: linear meters      Number of        0       2019-2020   0.8     1.6     2.4     3.0     0.2      8      Work progress
+    of street with LED public     kilometers                                                                           report
+    lighting
+
+➔   Milestone: neighborhoods      Number of        0       2019-2020    0      3       4        6       1      14      Work progress
+    that have carried out a        projects                                                                            report
+    telecommunication
+    services project
+
+➔   Milestone: road and           Number of        0       2019-2020   0.8     1.6     2.4      2      1.2      8      Work progress
+    pedestrian networks built     kilometers                                                                           report
+
+➔   Milestone: new or             Number of        0       2019-2020    0      0       2        3       1       6      Work progress     (#)
+    upgraded public spaces         spaces                                                                              report
+    that incorporate green
+    infrastructure guidelines
+
+➔   Milestone: urban facilities   Number of                2019-2020    8      13      15      12       2      50      Work progress
+    installed                      facilities                                                                          report
+
+➔   Milestone: community          Number of        0       2019-2020    -      1       2        2       -       5      Work progress
+    facilities installed and/or    facilities                                                                          report
+    upgraded
+Annex II
+Page 10 of 10
+
+
+                                     Unit of                  Baseline    Year   Year   Year            Year    Final       Means of
+           Outputs                                 Baseline                                    Year 4                                         Comments
+                                    measure                     year       1      2      3               5     target      verification
+
+ ➔   Milestone: supplementary      Number of          0       2019-2020    -      1      2       2       -       5      Work progress
+     works completed                 works                                                                              report
+
+ Component 4. Strengthening of governmental and community institutions
+
+ Subexecution unit officials       Number of          0       2019-2020   15     25     20       5       5      70      SISU report
+ trained in participatory           people
+ management and
+ organizational improvement
+ of urban and social
+ integration projects with a
+ gender approach
+ Civil society organizations     Number of civil      0       2019-2020    5     11      8       2       2      28      Same as above
+ trained in participatory           society
+ management and                  organizations
+ organizational improvement
+ of urban and social
+ integration projects with a
+ gender approach
+ Governmental and                  Number of          0       2019-2020    2      3      2       -       -       7      Same as above        (#)
+ community units receiving           units
+ technical assistance
+ Mapping of subjective             Number of          0       2019-2020    4      8      2       -       -      14      Mapping of actors/
+ community network actors          mappings                                                                             SISU
+ prepared using the network
+ analysis methodology
+ Events held in the context of     Number of          0       2019-2020    2      2      2       2       -       8      SISU report
+ strengthening the urban and        events
+ social integration roundtable
+                                                                                        Annex III
+                                                                                      Page 1 of 8
+
+
+
+
+                             FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+
+
+    Country:                      Argentina
+    Project number:               AR-L1306
+    Name:                         Urban and Social Integration Program
+    Executing agency:             Ministry of Health and Social Development (MSyDS)
+    Fiduciary team:               Roberto Laguado and Analía La Rosa (FMP/CAR)
+
+
+                                        I.   EXECUTIVE SUMMARY
+
+          The executing agency of the program will be the Ministry of Health and Social
+          Development (MSyDS) through the Secretariat for Social and Urban Integration
+          (SISU). The execution mechanism calls for decentralization through provincial and
+          municipal interventions, with the provinces and municipios acting as subexecuting
+          agencies in compliance with the Bank’s procurement policies.
+          The Bank used the Institutional Capacity Assessment System (ICAS) to evaluate
+          the executing agency’s institutional capacity to plan, execute, and implement the
+          program. Based on its findings, the fiduciary risk is considered medium.
+
+                       II. THE EXECUTING AGENCY’S FIDUCIARY CONTEXT
+
+          The MSyDS has experience with Bank projects, having executed the following
+          operations: the Program to Support the National Early Childhood Plan and the
+          Policy for Universalization of Early Childhood Education (operation 4229/OC-AR)
+          and the Program to Support the Equity and Effectiveness of the Social Safety Net
+          in Argentina (operation 4648/OC-AR). The ministry’s structure and responsibilities
+          are set out in Decree 174/2018.1
+          The SISU will have technical responsibility over the program, and its primary task
+          will be to coordinate and supervise the urban and social integration projects.
+          Together with the provinces and municipios, the SISU will identify, prioritize, and
+          agree on the projects to be financed by developing neighborhood improvement
+          plans as an investment planning and monitoring instrument (loan proposal,
+          paragraph 2.11). The ministry’s Office for Special Projects and International
+          Cooperation (DGPECI) will support the substantive area and be in charge of
+          administrative coordination and financial supervision of the projects.
+          The ICAS institutional capacity assessment performed on the MSyDS in its
+          capacity as executing agency found a medium risk. This assessment and its
+          findings take into account the challenges associated with an execution
+          arrangement based on coordination of activities among various levels of execution
+
+1    See note 50 in optional link 16.
+Annex III
+Page 2 of 8
+
+
+        authority (national-provincial-municipal). In addition, the ICAS assessment
+        includes a description of the points that need to be strengthened in order for the
+        MSyDS to qualify as an optimal control environment.
+        The program’s Operating Regulations will lay out the standard responsibilities of
+        the subexecuting agencies. These responsibilities will also be included in an
+        agreement or equivalent establishing compliance with the Bank’s policies and
+        standards for fiduciary management of the resources.
+        For execution of the operation, and based on the ICAS assessment, the following
+        fiduciary risks have been identified: (i) restricted fiscal headroom affecting the
+        budget available for investments, to be mitigated through the subsidiary
+        agreements with the provinces, which will be a contractual condition for execution;
+        (ii) lack of MSyDS experience in works procurement for Bank-financed
+        infrastructure programs; and (iii) difficulties in ensuring proper fiduciary
+        management (disbursements, appropriate control environment, and timely
+        procurement management) in view of the potential for operational overload, to be
+        mitigated by hiring additional fiduciary staff or support firms for specific
+        interventions. There are no expected waivers of or exceptions to Bank policies.
+        The recommended risk mitigation measures are as follows: (i) formalize the
+        interagency support mechanisms by signing agreements to ensure fulfillment of
+        the program objectives; (ii) review, improve, and ensure that the program
+        Operating Regulations reflect administrative, fiduciary, and control environment
+        procedures (including a financial and accounting chapter setting out the
+        programming and budget, treasury, accounting and reporting systems,
+        disbursement and cash flow, internal control and internal auditing, and external
+        control processes) as well as specific responsibilities based on the execution
+        arrangements (centralized or decentralized); (iii) update and/or develop relevant
+        manuals, ministerial resolutions, or annexes to the program Operating Regulations
+        for their proper functioning; (iv) encourage the filling of vacant positions so as to
+        reinforce the control environment and address the rise in work volume and
+        procurement processes; and (v) implement a fiduciary training plan for DGPECI
+        staff and particularly for those in charge of decentralized execution.
+
+              III. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF CONTRACTS
+
+3.1     The Bank may grant a new advance of funds when the executing agency has
+        accounted for at least 70% of the cumulative advances not previously justified (see
+        loan proposal, paragraph 3.8).
+3.2     For purposes of Article 4.10 of the General Conditions of the loan contract, the
+        applicable exchange rate will be the rate provided in subparagraph (b)(i) of the
+        aforementioned article. To determine the equivalence for reimbursement of
+        expenditures chargeable against the loan, the agreed-upon exchange rate will be
+        the prevailing rate on the first business day of the month in which the
+        reimbursement request is submitted.
+3.3     For purposes of Article 7.03 of the General Conditions, the external financial audit
+        report and other reports identified, as of the date of execution of the loan contract,
+        as necessary for supervising financial management of the program are the
+        program’s audited financial statements. These financial statements are to be
+                                                                                          Annex III
+                                                                                        Page 3 of 8
+
+
+         submitted to the Bank within 120 days following the close of each fiscal year of the
+         executing agency during the original disbursement period and any extensions
+         thereof, duly audited by external auditors acceptable to the Bank. The last of these
+         audited financial statements will be submitted to the Bank within 120 days following
+         the end of the original disbursement period or any extensions thereof. For
+         purposes of Article 7.03(a) of the General Conditions, the fiscal year of the program
+         is the period from 1 January to 31 December of each year.
+3.4      In the context of program execution, the possibility has been envisaged of
+         introducing a transfer mechanism to provide compensation (subsidies) for land title
+         regularization, household connections, and strengthening of productive units.
+         Similarly, plans call for exploring arrangements for the use of loans for land title
+         regularization and household connections. These arrangements will be subject to
+         the Bank’s procurement and financial management policies, on a case-by-case
+         basis, once their scope has been determined and agreements have been signed
+         with the relevant entities to the Bank’s satisfaction. In the case of loans, it is also
+         suggested that the respective credit regulations be a special condition for the
+         release of funds associated with the loans. The details for extending, recognizing,
+         and auditing these subsidies and loans, as well as their recognition as eligible
+         expenditures will need to be approved by the Bank and set out in the program
+         Operating Regulations.
+
+          IV. AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+         The fiduciary agreements and requirements for procurement establish the
+         provisions that will govern all procurement provided for under this program.
+A.       Procurement execution
+         The Policies for the Procurement of Goods and Works Financed by the IDB
+         (document GN-2349-9), of April 2011, and the Policies for the Selection and
+         Contracting of Consultants Financed by the IDB (document GN-2350-9), of April
+         2011, will apply.
+         a. Procurement of works, goods, and nonconsulting services. Contracts for
+            works, goods, and nonconsulting services2 generated under the program and
+            subject to international competitive bidding (ICB) will use the Bank’s standard
+            bidding documents (SBD). Contracts subject to national competitive bidding
+            (NCB) will use national bidding documents agreed upon with the Bank.
+         b. Procurement involving community participation. Procedures for community
+            participation in procurement processes may be used to execute human
+            development activities under Component 2, based on a basic survey of needs,
+            followed by a selection of small-scale builders or contractors at the neighborhood
+            level with a geographic presence in the neighborhood. These builders or
+            contractors will be responsible for activities including the following: calculating
+            and preparing an itemized budget for interventions on each dwelling, providing
+            materials, managing the labor with community participation, and certifying the
+            functional status of the infrastructure installed and built so as to promote
+
+2    Policies for the Procurement of Goods and Works Financed by the IDB (GN-2349-9) paragraph 1.1:
+     Nonconsulting services will be treated similarly to goods.
+ Annex III
+ Page 4 of 8
+
+
+               knowledge transfer. The selection of small-scale builders and contractors will be
+               based on unit-price/rate quotes (on a lowest-cost basis) and availability. The
+               execution details will be set out in the program Operating Regulations.
+          c. Selection and contracting of consultants. Consulting service contracts
+             generated under the program will be executed using the standard request for
+             proposals (RFP) issued by the Bank.
+          d. Selection of individual consultants. Individual consultants will be selected
+             through competitive processes on the basis of their qualifications to do the
+             work, comparing the qualifications of at least three candidates.
+          The program sector specialist will be responsible for reviewing the technical
+          specifications for the procurement of goods or works and the terms of reference
+          for the contracting of consulting services.
+          Of the country subsystems approved by the Bank, the information system will be
+          used for this program.
+
+       Table 4.1 Threshold amounts for international competitive bidding and international shortlist
+                 Works                                     Goods                      Consulting services
+International     National      Shopping International      National     Shopping International     Shortlist
+ competitive    competitive                  competitive competitive                advertising      100%
+   bidding        bidding                      bidding       bidding                 consulting     national
+                                                                                      services
+                <25,000,000                               <1,500,000
+>25,000,000                    <350,000* >1,500,000                      <100,000    >200,000      <1,000,000
+                 >350,000                                   >100,000
+  (*) Simple works and off-the-shelf goods for an amount below the ICB threshold may be procured through
+  the shopping method.
+
+ B.       Main procurement items
+
+                                  Table 4.2 Procurement method and amounts
+                                                            Procurement    Estimated        Estimated
+                            Activity
+                                                              method         date**        amount (US$)
+ Infrastructure works and urban services                    NCB (several)                    38,000,000
+ Early intervention works                                        S                              700,000
+ Equipment to strengthen three subexecution units                S                              300,000
+ Consulting services for works inspection                       CQS                             200,000
+ Hiring of management service for installation of household
+                                                                CQS                              150,000
+ connections and home improvement
+ Hiring of company for urban planning                           CQS                              200,000
+ Company to support the land title regularization process       CQS                              200,000
+ Social assistance                                               S                               250,000
+ Hiring of technical teams to strengthen subexecution units     3CV                              125,000
+ Consultants to form the local social team                      3CV                              180,000
+ Consultant for the design, formulation, and implementation
+                                                                3CV                              120,000
+ of business plans
+ Hiring of an expert consultant for tenure security studies     3CV                              180,000
+ Hiring of an expert consultant for physical and legal
+                                                                3CV                              165,000
+ regularization of land parcels
+ (**) Estimated date to be determined.
+                                                                               Annex III
+                                                                             Page 5 of 8
+
+
+C.   Procurement supervision
+     Procurement will be supervised as indicated in the procurement plan but generally
+     ex ante, with the exception of shopping, consulting firms selected on the basis of
+     qualifications, and individual consultants, which will be subject to ex post
+     supervision. The ex post review visits will be conducted every 12 months. At least
+     10% of the reviewed contracts will be subject to physical inspection during the
+     program.
+     The threshold amounts established for ex post review apply based on the fiduciary
+     capacity for execution of the MSyDS as examined during the program design, and
+     may be modified by the Bank should that capacity change.
+
+                       Table 4.3 Thresholds for ex post review (US$)
+                                                                       Individual
+            Works                Goods           Consulting services
+                                                                       consulting
+          <7,500,000            <900,000               <600,000         <50,000
+
+
+D.   Special provisions
+     Measures to prevent prohibited practices. These are addressed in the
+     provisions of the policies contained in documents GN-2349-9 and GN-2350-9
+     regarding prohibited practices (lists of companies and individuals declared
+     ineligible by multilateral agencies).
+     Procurement arrangements based on community participation (document
+     GN-2349-9, paragraph 3.17) may be implemented in the case of activities under
+     Component 2. Similarly, in the case of these activities, services or technical and
+     administrative support may be contracted from nongovernmental organizations or
+     public or private agencies specialized in housing project management.
+E.   Records and files
+     The bidding process documents will be filed in the offices of the MSyDS as the
+     entity with overall responsibility for program procurement. For ex post review
+     purposes, records and files of all documents generated in the procurement
+     processes will be kept duly ordered, classified, and updated. In the event that
+     execution is modified in favor of a decentralized approach, process-related
+     documents will continue to be kept at least in the same MSyDS offices, in addition
+     to other original documents kept at the provincial level.
+     Retroactive financing. The Bank may retroactively finance, as a charge against
+     the loan proceeds, up to US$10 million (20% of the proposed loan amount) in
+     eligible expenditures incurred by the borrower prior to the approval date of the
+     operation for the procurement of works, goods, consulting and nonconsulting
+     services, and social interventions in the informal neighborhoods targeted by the
+     program, provided that requirements substantially similar to those established in
+     the loan contract have been met. Such expenditures will have been incurred on or
+     after 15 March 2019 (the project profile approval date), but will under no
+     circumstances include expenditures incurred more than 18 months prior to the loan
+     approval date the IDB.
+Annex III
+Page 6 of 8
+
+
+                               V. FINANCIAL MANAGEMENT
+
+        The Financial Management Guidelines for IDB-financed Projects (document
+        OP-273-6) and the Financial Management Operational Guidelines for
+        IDB-financed Projects (document OP-274-2) will apply.
+A.      Programming and budget
+        The executing agency will be responsible for the process of formulating and
+        programming its annual budget and be in charge of taking all steps to consolidate
+        the annual budget for approval. If there is a need to expand or reallocate items,
+        the executing agency will request the changes and takes steps to secure their
+        approval. Budgetary credits are executed through quarterly and monthly
+        commitment quotas on an accrual basis, allocated by the National Budget Office
+        (Ministry of Finance).
+        The budget allocation should be made in advance to ensure that the operation is
+        executed within the established time frame.
+B.      Treasury
+        Payments under centralized execution will be made through the DGPECI treasury
+        at the MSDS. In the case of decentralized execution, it will depend on the
+        arrangements set out in the specific agreements, which may provide for payments
+        to be made through the DGPECI treasury or directly by the provincial execution unit.
+        Disbursements will be made to the program’s executing agency pursuant to a
+        detailed financial plan, the model for which has been agreed upon by the
+        authorities of the Ministry of Treasury and Public Finance and the Office of the
+        Chief of Cabinet.
+C.      Accounting, information systems, and reporting
+        The executing agency will use the external loan execution unit (UEPEX) system
+        as its financial management system, which identifies the program funds as well as
+        the sources of financing. The UEPEX system classifies program investments by
+        expenditure matrix category in accordance with the chart of accounts approved by
+        the Bank. Accounting records will be cash-based and will observe the International
+        Financial Reporting Standards when applicable, in accordance with national
+        criteria. The following financial reports will be required: (i) financial management
+        plan for up to 180 days after the request for an advance; (ii) annual audited
+        financial statements; and (iii) other reports as required by the fiduciary specialists.
+        The DGPECI is responsible for the following activities in relation to the loan:
+        (i) making accounting entries for execution of the program in the UEPEX system;
+        (ii) preparing the disbursement requests and monitoring their approval and the
+        respective credits in the bank accounts; (iii) checking the balances of the special
+        accounts in dollars on a monthly basis and reconciling the program’s bank
+        accounts; (iv) analyzing the accounting balances on a monthly basis and issuing
+        the balances of reconciled amounts and balances in pesos and dollars;
+        (v) preparing the financial reports required by the agencies; and (vi) preparing the
+        financial statements for the loan and submitting them to the external auditors for
+        preparation of the corresponding reports.
+                                                                                    Annex III
+                                                                                  Page 7 of 8
+
+
+D.   Disbursements and cash flow
+     Disbursements of loan proceeds and financial management of the loan will be
+     carried out in accordance with the Bank’s policies and the provisions of
+     paragraph 3.8 of the loan proposal. The funds requested from the Bank in the form
+     of advances will be deposited in an account set up in dollars and will be converted
+     to local currency in accordance with operating needs in an account set up in pesos
+     for the exclusive use of the program. This account will be used for paying program
+     expenditures and for investments, as planned. The executing agency should
+     ensure strict and effective control of the use of advanced funds by means of
+     mechanisms that allow it to confirm and reconcile the balances in its records with
+     those for the same charges in the Bank’s records (LMS1 report).
+     The Bank may advance more funds, preferably on a six-monthly basis, provided
+     that at least 70% of all previously advanced funds has been accounted for. This
+     percentage is due to the complexity of program execution, including a funds flow
+     circuit that involves subexecution units in various jurisdictions and the concomitant
+     fragmentation of processes and expenses, which will considerably delay the
+     receipt and analysis process.
+E.   Internal control and internal auditing
+     The national body responsible for internal control is the Office of the Comptroller
+     General of the Nation (SIGEN). The internal audit of each executing agency is
+     performed by the Internal Audit Unit. That unit reports directly to the minister, and
+     is responsible for performing audits and making recommendations in accordance
+     with the authority conferred under Law 24,156 (Law on Financial Management and
+     Control Systems, 30 September 1992). The MSyDS’s Internal Audit Unit will
+     perform the program’s internal audits.
+F.   External control: external financial auditing and program reports
+     In 2011 the Bank concluded a diagnostic assessment of governmental auditing
+     practices by the Auditoría General de la Nación [National General Auditing Office]
+     (AGN) in accordance with the Bank’s guidelines to determine the development
+     level of the public financial management systems. In light of the assessment’s
+     findings, the AGN was validated as auditor of Bank projects.
+     With a view to having flexibility and being able to adjust the loan portfolio to the
+     AGN’s auditing capacity at any given time, it is recommended that both the AGN
+     and independent auditing firms be contractually eligible to conduct program audits.
+G.   Financial supervision plan
+     The financial supervision plan will be designed on the basis of the risk and fiduciary
+     capacity assessments carried out in accordance with the onsite and “desk” reviews
+     planned for the program, as well as on the basis of the reports issued by the
+     external auditors. It includes the scope of operational, financial, and accounting
+     actions, compliance, and legality. In principle, plans call for one financial inspection
+     visit per year; this frequency may be reviewed based on the program risk
+     evaluation. Disbursements will be subject to ex post review.
+H.   Execution arrangements
+     The MSyDS will act through the SISU as the party responsible for program
+     coordination and technical supervision of the specific projects. In turn, the DGPECI
+Annex III
+Page 8 of 8
+
+
+        will support the SISU and will be responsible for the management of fiduciary
+        considerations (including the planning of financial management and procurement)
+        and program monitoring, as well as other tasks. The duties and responsibilities of
+        each of the areas of the MSyDS involved in program execution will be specified in
+        the program Operating Regulations, and the details of program execution are
+        described in Chapter III of the loan proposal.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-__/19
+
+
+
+     Argentina. Loan ____/OC-AR to the Argentine Republic. Social and Urban Integration
+                                         Program
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with the Argentine Republic, as borrower, for the purpose of granting it a financing to
+cooperate in the execution of the Social and Urban Integration Program. Such financing will be
+for an amount of up to US$50,000,000 from the resources of the Bank’s Ordinary Capital, and will
+be subject to the Financial Terms and Conditions and the Special Contractual Conditions of the
+Project Summary of the Loan Proposal.
+
+
+
+                              (Adopted on ___ ____________ 2019)
+
+
+
+LEG/SGO/CSC/EZSHARE-1044359933-17787
+AR-L1306
+

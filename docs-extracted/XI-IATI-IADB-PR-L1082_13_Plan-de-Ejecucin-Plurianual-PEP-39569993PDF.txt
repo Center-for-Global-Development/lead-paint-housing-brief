@@ -1,0 +1,220 @@
+ID           Task      Task Name                                                                    Duration    Start           Finish        Cost             1st Half
+             Mode                                                                                                                                                Qtr 1
+     1                 PROGRAMA DE MEJORAMIENTO DE VIVIENDA Y EL HABITAT (PR-L1082) 1305 days                   Thu 5/5/16 Wed 5/5/21 $30,000,000.00
+     2                 Aprobacion del Préstamo                                      0 days                      Wed 7/1/15 Wed 7/1/15 $0.00
+     3                 Firma del Contrato                                           40 days                     Wed 7/1/15 Tue 8/25/15 $0.00
+     4                 Remision del contrato al PL                                  40 days                     Wed 8/26/15 Tue 10/20/15 $0.00
+     5                 Aprobacion Legislativa                                       120 days                    Wed 10/21/15Tue 4/5/16 $0.00
+     6                 Ratificacion del Poder Ejecutivo                             22 days                     Wed 4/6/16 Thu 5/5/16 $0.00
+     7                 Ejecución del Programa                                       1304 days                   Fri 5/6/16  Wed 5/5/21 $30,000,000.00
+     8                    Cumplimiento Condiciones Previas                          90 days                     Fri 5/6/16  Thu 9/8/16 $0.00
+     9                    Componente I. Mejoramiento y ampliación de viviendas en el Area           1201 days   Fri 9/9/16  Fri 4/16/21  $14,000,000.00
+                          Metropolitana de Asunción (AMA)
+     10                     Producto: Familias de bajos ingresos del AMA con Viviendas mejoradas 1201 days      Fri 9/9/16      Fri 4/16/21   $14,000,000.00
+                            y/o ampliadas
+     11                        Convenio Marco AFD/SENAVITAT                                         33 days   Fri 9/9/16  Tue 10/25/16 $0.00
+     12                        Campaña de Difusion Producto financiero                              90 days   Fri 9/9/16  Thu 1/12/17 $0.00
+     13                        Transferencia de subsidios a requerimientos                          1180 days Mon 10/10/16Fri 4/16/21 $14,000,000.00
+     14                   Componente II. Mejoramiento integral del Barrio La Chacarita Alta         1260 days Fri 5/6/16  Thu 3/4/21   $14,000,000.00
+     15                     Producto: Viviendas en la Chacarita Alta con conexión domiciliaria      1260 days Fri 5/6/16  Thu 3/4/21 $14,000,000.00
+                            formal a la red de agua potable, energía electrica, y alcantarillado
+                            sanitario
+     16                        Convenio Marco MOPC/ESSAP/MCA/ANDE                                   60 days     Fri 9/9/16      Thu 12/1/16   $0.00
+     17                        SBCC: Firma consultora para diseño Urbano                            275 days    Fri 5/6/16      Thu 5/25/17   $150,000.00
+     18                          Manifestacion de interes                                           35 days     Fri 5/6/16      Thu 6/23/16   $0.00
+     19                          Proceso de Contratación                                            60 days     Fri 6/24/16     Thu 9/15/16   $0.00
+     20                          Ejecución de Contrato                                              180 days    Fri 9/16/16     Thu 5/25/17   $150,000.00
+     21                        SBCC: Firma consultora para diseño Constructivo                      275 days    Fri 9/16/16     Thu 10/5/17   $350,000.00
+     22                          Manifestacion de interes                                           35 days     Fri 9/16/16     Thu 11/3/16   $0.00
+
+                                   Task                                        Inactive Task                            Start-only
+                                   Split                                       Inactive Milestone                       Finish-only
+                                   Milestone                                   Inactive Summary                         Deadline
+Project: PEP SENAVITAT - 5 mayol
+                                   Summary                                     Manual Task                              Progress
+Date: Wed 5/13/15
+                                   Project Summary                             Duration-only                            Slippage
+                                   External Tasks                              Manual Summary Rollup
+                                   External Milestone                          Manual Summary
+
+                                                                               Page 1
+ID           Task      Task Name                                                                     Duration    Start           Finish      Cost           1st Half
+             Mode                                                                                                                                             Qtr 1
+     23                           Proceso de Contratación                                            60 days     Fri 11/4/16 Thu 1/26/17 $0.00
+     24                           Ejecución de Contrato                                              180 days    Fri 1/27/17 Thu 10/5/17 $350,000.00
+     25                        LPI: Contratacion de firma para construccion de obras                 1070 days   Fri 1/27/17 Thu 3/4/21 $13,269,908.48
+     26                           Licitación                                                         220 days    Fri 1/27/17 Thu 11/30/17 $0.00
+     27                           Ejecución del contrato                                             850 days    Fri 12/1/17 Thu 3/4/21 $13,269,908.48
+     28                        SBCC: Firma consultora para fiscalizacion de obras                    959 days    Mon 7/3/17 Thu 3/4/21 $230,092.00
+     29                           Manifestacion de interes                                           35 days     Mon 7/3/17 Fri 8/18/17 $0.00
+     30                           Proceso de Contratación                                            90 days     Mon 8/21/17 Fri 12/22/17 $0.00
+     31                           Ejecución de Contrato                                              834 days    Mon 12/25/17Thu 3/4/21 $230,092.00
+     32                        Títulos de propiedad inscritos en registro de propiedad               600 days    Fri 1/27/17 Thu 5/16/19 $0.00
+     33                        Talleres de trabajo social con la comunidad                           180 days    Mon 6/13/16 Fri 2/17/17 $0.00
+     34                   Componente III. Fortalecimiento de Gestión                                 425 days    Fri 9/9/16  Thu 4/26/18 $815,000.00
+     35                     Producto: Sistema de información y gestión de subsidios y proyectos de   425 days    Fri 9/9/16  Thu 4/26/18 $815,000.00
+                            vivienda diseñado e implementado
+     36                       SBCC: Firma consultora para desarrollo de software y capacitacion      425 days    Fri 9/9/16      Thu 4/26/18 $502,000.00
+     37                          Manifestacion de interes                                            35 days     Fri 9/9/16      Thu 10/27/16 $0.00
+     38                          Proceso de Contratación                                             90 days     Fri 10/28/16    Thu 3/2/17 $0.00
+     39                          Ejecución de Contrato                                               300 days    Fri 3/3/17      Thu 4/26/18 $502,000.00
+     40                       CP: Adquisisción de equipos Informaticos                               60 days     Fri 10/28/16    Thu 1/19/17 $313,000.00
+     41                          Proceso de contratación                                             30 days     Fri 10/28/16    Thu 12/8/16 $0.00
+     42                          Ejecucion de contrato                                               30 days     Fri 12/9/16     Thu 1/19/17 $313,000.00
+     43                   Administracion del Programa                                                1304 days   Fri 5/6/16      Wed 5/5/21 $1,185,000.00
+     44                     Administracion                                                           1300 days   Fri 5/6/16      Thu 4/29/21 $890,000.00
+     45                       3CV: Contratación Coordinador Programa                                 1210 days   Fri 9/9/16      Thu 4/29/21 $180,000.00
+     46                          Proceso de contratación                                             60 days     Fri 9/9/16      Thu 12/1/16 $0.00
+                                   Task                                      Inactive Task                               Start-only
+                                   Split                                     Inactive Milestone                          Finish-only
+                                   Milestone                                 Inactive Summary                            Deadline
+Project: PEP SENAVITAT - 5 mayol
+                                   Summary                                   Manual Task                                 Progress
+Date: Wed 5/13/15
+                                   Project Summary                           Duration-only                               Slippage
+                                   External Tasks                            Manual Summary Rollup
+                                   External Milestone                        Manual Summary
+
+                                                                              Page 2
+ID           Task      Task Name                                                              Duration    Start           Finish   Cost         1st Half
+             Mode                                                                                                                                 Qtr 1
+     47                          Ejecución                                                    1150 days   Fri 12/2/16 Thu 4/29/21 $180,000.00
+     48                       3CV: Contratación Coordinador Componente I                      1160 days   Fri 9/9/16  Thu 2/18/21 $148,800.00
+     49                          Proceso de contratación                                      60 days     Fri 9/9/16  Thu 12/1/16 $0.00
+     50                          Ejecución                                                    1100 days   Fri 12/2/16 Thu 2/18/21 $148,800.00
+     51                       3CV: Contratación Asistente Coordinador Tecnico Componente I    1060 days   Fri 9/9/16  Thu 10/1/20 $82,992.00
+     52                          Proceso de contratación                                      60 days     Fri 9/9/16  Thu 12/1/16 $0.00
+     53                          Ejecución                                                    1000 days   Fri 12/2/16 Thu 10/1/20 $82,992.00
+     54                       3CV: Contratación Coordinador Componente II                     1210 days   Fri 9/9/16  Thu 4/29/21 $148,800.00
+     55                          Proceso de contratación                                      60 days     Fri 9/9/16  Thu 12/1/16 $0.00
+     56                          Ejecución                                                    1150 days   Fri 12/2/16 Thu 4/29/21 $148,800.00
+     57                       3CV: Contratación Asistente Tecnico Coordinador Componente II   960 days    Fri 9/9/16  Thu 5/14/20 $82,992.00
+     58                          Proceso de contratación                                      60 days     Fri 9/9/16  Thu 12/1/16 $0.00
+     59                          Ejecución                                                    900 days    Fri 12/2/16 Thu 5/14/20 $82,992.00
+     60                       3CV: Contratación Asistente Tecnico Administrativo Financiero   1210 days   Fri 9/9/16  Thu 4/29/21 $82,992.00
+     61                          Proceso de contratación                                      60 days     Fri 9/9/16  Thu 12/1/16 $0.00
+     62                          Ejecución                                                    1150 days   Fri 12/2/16 Thu 4/29/21 $82,992.00
+     63                       3CV: Contratación Asistente Tecnico de Adquisiciones            960 days    Fri 5/6/16  Thu 1/9/20 $82,992.00
+     64                          Proceso de contratación                                      60 days     Fri 5/6/16  Thu 7/28/16 $0.00
+     65                          Ejecución                                                    900 days    Fri 7/29/16 Thu 1/9/20 $82,992.00
+     66                       3CV: Contratación Especialista Ambiental                        660 days    Fri 5/6/16  Thu 11/15/18 $80,432.00
+     67                          Proceso de contratación                                      60 days     Fri 5/6/16  Thu 7/28/16 $0.00
+     68                          Ejecución                                                    600 days    Fri 7/29/16 Thu 11/15/18 $80,432.00
+     69                     Auditoría y Evaluación                                            1304 days   Fri 5/6/16  Wed 5/5/21 $295,000.00
+     70                       SBCC: Firma consultora para Evaluacion de Medio Término         185 days    Mon 2/12/18 Fri 10/26/18 $40,000.00
+     71                          Manifestacion de interes                                     35 days     Mon 2/12/18 Fri 3/30/18 $0.00
+                                   Task                                  Inactive Task                            Start-only
+                                   Split                                 Inactive Milestone                       Finish-only
+                                   Milestone                             Inactive Summary                         Deadline
+Project: PEP SENAVITAT - 5 mayol
+                                   Summary                               Manual Task                              Progress
+Date: Wed 5/13/15
+                                   Project Summary                       Duration-only                            Slippage
+                                   External Tasks                        Manual Summary Rollup
+                                   External Milestone                    Manual Summary
+
+                                                                          Page 3
+ID           Task      Task Name                                                              Duration   Start           Finish     Cost           1st Half
+             Mode                                                                                                                                    Qtr 1
+     72                          Proceso de Contratación                                         60 days     Mon 4/2/18 Fri 6/22/18 $0.00
+     73                          Ejecución de Contrato                                           90 days     Mon 6/25/18 Fri 10/26/18 $40,000.00
+     74                        SBCC: Firma consultora para Evaluacion Final                      185 days Mon 7/6/20 Fri 3/19/21 $40,000.00
+     75                          Manifestacion de interes                                        35 days     Mon 7/6/20 Fri 8/21/20 $0.00
+     76                          Proceso de Contratación                                         60 days     Mon 8/24/20 Fri 11/13/20 $0.00
+     77                          Ejecución de Contrato                                           90 days     Mon 11/16/20Fri 3/19/21 $40,000.00
+     78                        SBCC: Firma consultora para la Auditoría Anual y de Aseguramiento del ProgramaFri 5/6/16
+                                                                                                 1304 days               Wed 5/5/21 $215,000.00
+     79                          Manifestacion de interes                                        35 days     Fri 5/6/16  Thu 6/23/16 $0.00
+     80                          Proceso de Contratación                                         60 days     Fri 6/24/16 Thu 9/15/16 $0.00
+     81                          Ejecución de Contrato                                           1209 days Fri 9/16/16 Wed 5/5/21 $175,000.00
+     82                          SBCC: Firma consultora para Evaluación Ambiental y Reasentamiento
+                                                                                                 677 days Tue 8/16/16 Wed 3/20/19 $40,000.00
+     83                             Manifestacion de interes                                     35 days     Tue 8/16/16 Mon 10/3/16 $0.00
+     84                             Proceso de Contratación                                      90 days     Tue 10/4/16 Mon 2/6/17 $0.00
+     85                             Ejecución de Contrato                                        552 days Tue 2/7/17 Wed 3/20/19 $40,000.00
+
+
+
+
+                                   Task                                  Inactive Task                           Start-only
+                                   Split                                 Inactive Milestone                      Finish-only
+                                   Milestone                             Inactive Summary                        Deadline
+Project: PEP SENAVITAT - 5 mayol
+                                   Summary                               Manual Task                             Progress
+Date: Wed 5/13/15
+                                   Project Summary                       Duration-only                           Slippage
+                                   External Tasks                        Manual Summary Rollup
+                                   External Milestone                    Manual Summary
+
+                                                                         Page 4
+1st Half            1st Half             1st Half              1st Half           1st Half               1st Half            1st Half              1st Half           1st Half
+            Qtr 3     Qtr 1     Qtr 3      Qtr 1      Qtr 3      Qtr 1    Qtr 3     Qtr 1       Qtr 3      Qtr 1     Qtr 3     Qtr 1    Qtr 3        Qtr 1    Qtr 3     Qtr 1    Qtr 3
+
+           7/1
+
+
+
+
+                                              Task                                           Inactive Task                              Start-only
+                                              Split                                          Inactive Milestone                         Finish-only
+                                              Milestone                                      Inactive Summary                           Deadline
+           Project: PEP SENAVITAT - 5 mayol
+                                              Summary                                        Manual Task                                Progress
+           Date: Wed 5/13/15
+                                              Project Summary                                Duration-only                              Slippage
+                                              External Tasks                                 Manual Summary Rollup
+                                              External Milestone                             Manual Summary
+
+                                                                                             Page 5
+1st Half            1st Half             1st Half              1st Half           1st Half               1st Half            1st Half              1st Half           1st Half
+            Qtr 3     Qtr 1     Qtr 3      Qtr 1      Qtr 3      Qtr 1    Qtr 3     Qtr 1       Qtr 3      Qtr 1     Qtr 3     Qtr 1    Qtr 3        Qtr 1    Qtr 3     Qtr 1    Qtr 3
+
+
+
+
+                                              Task                                           Inactive Task                              Start-only
+                                              Split                                          Inactive Milestone                         Finish-only
+                                              Milestone                                      Inactive Summary                           Deadline
+           Project: PEP SENAVITAT - 5 mayol
+                                              Summary                                        Manual Task                                Progress
+           Date: Wed 5/13/15
+                                              Project Summary                                Duration-only                              Slippage
+                                              External Tasks                                 Manual Summary Rollup
+                                              External Milestone                             Manual Summary
+
+                                                                                             Page 6
+1st Half            1st Half             1st Half              1st Half           1st Half               1st Half            1st Half              1st Half           1st Half
+            Qtr 3     Qtr 1     Qtr 3      Qtr 1      Qtr 3      Qtr 1    Qtr 3     Qtr 1       Qtr 3      Qtr 1     Qtr 3     Qtr 1    Qtr 3        Qtr 1    Qtr 3     Qtr 1    Qtr 3
+
+
+
+
+                                              Task                                           Inactive Task                              Start-only
+                                              Split                                          Inactive Milestone                         Finish-only
+                                              Milestone                                      Inactive Summary                           Deadline
+           Project: PEP SENAVITAT - 5 mayol
+                                              Summary                                        Manual Task                                Progress
+           Date: Wed 5/13/15
+                                              Project Summary                                Duration-only                              Slippage
+                                              External Tasks                                 Manual Summary Rollup
+                                              External Milestone                             Manual Summary
+
+                                                                                             Page 7
+1st Half            1st Half             1st Half              1st Half           1st Half               1st Half            1st Half              1st Half           1st Half
+            Qtr 3     Qtr 1     Qtr 3      Qtr 1      Qtr 3      Qtr 1    Qtr 3     Qtr 1       Qtr 3      Qtr 1     Qtr 3     Qtr 1    Qtr 3        Qtr 1    Qtr 3     Qtr 1    Qtr 3
+
+
+
+
+                                              Task                                           Inactive Task                              Start-only
+                                              Split                                          Inactive Milestone                         Finish-only
+                                              Milestone                                      Inactive Summary                           Deadline
+           Project: PEP SENAVITAT - 5 mayol
+                                              Summary                                        Manual Task                                Progress
+           Date: Wed 5/13/15
+                                              Project Summary                                Duration-only                              Slippage
+                                              External Tasks                                 Manual Summary Rollup
+                                              External Milestone                             Manual Summary
+
+                                                                                             Page 8
+

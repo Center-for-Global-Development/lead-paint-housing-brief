@@ -1,0 +1,314 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidcondpfcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                               Program Information Document (PID)
+
+
+
+Public Disclosure Authorized
+                                               Concept Stage | Date Prepared/Updated: 03-Mar-2025 | Report No: PIDIC00146
+
+
+
+
+Public Disclosure Authorized
+     The World Bank
+     Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+@#&OPS~Doctype~OPS^dynamics@piddpfbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+
+Project Beneficiary(ies)       Operation ID                 Operation Name
+                                                            Belize Development Policy Credit with Catastrophe
+Belize                         P505490
+                                                            Deferred Drawdown Option
+Region                         Estimated Approval Date      Practice Area (Lead)           Financing Instrument
+LATIN AMERICA AND                                                                          Development Policy
+                               29-Jul-2025                  Urban, Resilience and Land
+CARIBBEAN                                                                                  Financing (DPF)
+Borrower(s)                    Implementing Agency
+Ministry of Finance,           Ministry of Finance,
+Economic Development           Economic Development
+and Investment                 and Investment
+
+Proposed Development Objective(s)
+To PDO is to enhance the Government of Belize's institutional, technical, and financial capacity to manage risk
+resulting from the occurrence of natural or health-related hazards, including the adverse effects of climate change and
+disease outbreaks.
+
+@#&OPS~Doctype~OPS^dynamics@pidpfrprojectfinancing#doctemplate
+Financing (US$, Millions)
+
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                    No
+Is this project Private Capital Enabling (PCE)?              No
+
+SUMMARY
+  Total Financing                                                                                                 20.00
+
+DETAILS
+  Total World Bank Group Financing                                                                                20.00
+    World Bank Lending                                                                                          20.00
+
+@#&OPS~Doctype~OPS^dynamics@piddpfdecision#doctemplate
+
+
+
+
+                                                                                                                    Page 1
+          The World Bank
+          Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+
+Decision
+The review did authorize the preparation to continue
+
+
+
+
+    B. Introduction and Context
+
+    Country Context
+    Belize has the smallest population in Central America, with an estimated 430,191 people as of 2021. As a small economy
+    that is primarily reliant on tourism, the exportation of agricultural products, and an energy sector that is dependent on
+    oil imports, Belize is highly vulnerable to fluctuations in international commodity prices and external economic shocks.
+    Between 1999 and 2008, real gross domestic product (GDP) growth averaged 5.6 percent, supported by expansionary
+    monetary and fiscal policies, before falling to 1.8 percent between 2009 and 2019, which, combined with a similar rate
+    of population growth, resulted in GDP per capita near stagnation over the past decade. As a result of the country's
+    underperforming economy, the poverty rate increased from 34 percent in 2002 to 52 percent in 2019, with 9 percent
+    of the population living in extreme poverty, a trend that contrasts sharply with poverty reductions in other parts of
+    Latin America. The economy was deeply affected by the coronavirus disease 2019 (COVID-19) pandemic but has been
+    recovering quickly following the reopening of the country to tourists.
+
+    Belize’s disaster and climate risk profile underscores the urgent need for a coordinated approach to disaster risk
+    management (DRM) and climate adaptation across sectors. Ranked third in disaster risk and fifth in climate change risk
+    among small island developing states, Belize faces increasing threats from hurricanes, floods, and coastal erosion,
+    exacerbated by rising sea levels.1 Approximately 57.9 percent and 36.2 percent of the population of Belize reside within
+    25 km of the coast and in low elevation zones respectively, and an additional 25 percent of the population resides on
+    riverbanks, exposing them to increased inland flooding. Additionally, the country has seen an increase in mean annual
+    temperatures of approximately 0.45°C since 1960, along with a higher frequency of hot days and nights.2 Belize’s coastal
+    areas, including its critical coral reefs and marine ecosystems, are particularly threatened by rising sea levels at an
+    alarming rate of 3–5 mm per year. This rise, combined with more frequent and severe storms, poses a significant risk
+    to coastal infrastructure and livelihoods, particularly in sectors such as tourism, agriculture and fishing.3 These
+    vulnerabilities are compounded by unsustainable land development and settlement practices, which have made them
+    even more vulnerable to climate change.
+
+    Belize has faced a diverse range of disasters over the past 15 years, significantly affecting its economy and underscoring
+    the need for improved fiscal and institutional resilience. Various disasters, including hurricanes, tropical storms,
+    earthquakes, droughts, floods, and landslides, public health emergencies (that is, epidemics and pandemics), frequently
+    affect the country. According to the Climate Risk Index for 1997–2016, Belize ranks within the top 5 percent globally for
+
+
+1
+ Economically, the country has recently witnessed high loss caused by Hurricane Lisa in 2022, estimated at about 10 percent of Belize’s national
+budget. (Statement by Hon. Orlando Habet, Minister of Sustainable Development, Climate Change and Disaster Risk Management at the 27th
+Conference of the Parties to the United Nations Framework Convention on Climate Change.
+https://unfccc.int/sites/default/files/resource/BELIZE_cop27cmp17cma4_HLS_ENG.pdf)
+2
+  https://climateknowledgeportal.worldbank.org/country/belize/vulnerability ---
+https://climateknowledgeportal.worldbank.org/country/belize/climate-data-historical
+3
+  https://www.worldbank.org/en/news/feature/2021/03/24/resilience-and-conservation-in-a-changing-climate-the-case-of-belize
+
+                                                                                                                                              Page 2
+         The World Bank
+         Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+    economic losses and within the top 12 percent for fatalities due to climate-related disasters.4 Since 2016, Belize has
+    encountered a prolonged drought in 2019; the COVID-19 pandemic, which contracted GDP by 13.4 percent in 2020;
+    Hurricane Nana in 2020, and Hurricane Lisa in 2022. These events caused extensive damage to agriculture,
+    infrastructure, and livelihoods. Based on probabilistic modeling and historic losses, it was estimated that the
+    Government of Belize (GoB) would need to cover losses of roughly US$29.5 million, or 1.69 percent of Belize’s GDP,
+    annually to address contingent liabilities related to hurricanes and floods.
+
+    Relationship to CPF
+
+    The Country Partnership Framework (CPF) for FY2025–29, which is under preparation, aims to support Belize in
+    achieving inclusive, resilient, and sustainable growth. The program is fully aligned with the existing CPF FY 2018-22,
+    which has two Focus Areas: (a) Fostering Climate Resilience and Environmental Sustainability; and (b) Promoting
+    Financial Inclusion and Social Resilience, and CPF FY2025-29 that three core objectives: promoting healthier lives with
+    reduced learning poverty, strengthening climate resilience, and reducing vulnerability to natural shocks. It emphasizes
+    building Belize’s institutional, technical, and financial capacity to effectively manage risks from natural and health-
+    related hazards, including the impacts of climate change and disease outbreaks. Additionally, the program fortifies
+    economic, financial, and infrastructure resilience to climate and disaster risks. The program directly contributes to two
+    of CPF FY2025-29 proposed country-level outcomes. The first, Increased climate resilience, aims to preserve Belize's
+    natural resources and wealth, while the second, Reduced vulnerability to Natural Shocks, aims to establish a reliable,
+    low-cost, and sustainable energy system that incorporates renewable sources, enhance resilience, and foster private
+    investment. In alignment with these goals, the program reduces vulnerability to natural shocks by strengthening
+    economic, financial, and infrastructure resilience. This involves fortifying Belize’s DRM and resilience framework and
+    enhancing emergency preparedness and response (EP&R) systems through improved operational management
+    structures, planning and construction practices, and access to financing following an emergency.
+
+    C. Proposed Development Objective(s)
+
+
+    To PDO is to enhance the Government of Belize's institutional, technical, and financial capacity to manage risk
+    resulting from the occurrence of natural or health-related hazards, including the adverse effects of climate change
+    and disease outbreaks.
+
+
+    Key Results
+
+    The proposed policy actions aim to strengthen policy and legislative reforms to improve climate and disaster resilience
+    in construction, planning, preparedness, and response activities by strengthening emergency preparedness, land use
+    management, construction standards, fiscal stability, and the insurance sector. Updating the National Preparedness
+    and Response Plan (PA1) will improve disaster response in urban areas, protecting vulnerable populations, while the
+    National Land Use Policy (PA2) promotes sustainable land management to reduce climate vulnerabilities and updating
+    the Belize Building Act and Building Codes (PA3) ensures safer, more resilient infrastructure. Financial and fiscal
+    resilience will be bolstered through the Disaster Risk Financing Policy (PA4), which enables rapid access to financial
+    resources for disaster response, and the Fiscal Strategy Plan (PA5), which ensures fiscal transparency and disaster
+    preparedness. Lastly, approval of Microinsurance Regulations (PA6) strengthens the sector’s capacity to handle
+
+4
+    IMF Country Report No 18/329, Belize Climate Change Policy Assessment, November 2018.
+
+                                                                                                                          Page 3
+       The World Bank
+       Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+ disaster-related claims, reducing economic hardship and government fiscal burdens. Together, these actions aim to
+ protect communities, stabilize public finances, and foster sustainable development.
+
+ D. Concept Description
+
+The proposed Development Policy Credit with a Catastrophe-Deferred Drawdown Option (Cat DDO) addresses these
+challenges by enhancing Belize’s institutional and financial capacity to manage disaster and climate risks. Policy reforms
+are organized under two pillars: Pillar 1— Strengthening Infrastructure Resilience and Multi-Sector Capacity for Disaster
+Preparedness and Response —will support the development and updating of key policies and legislation to strengthen
+disaster preparedness and response, improve land use management, and enhance climate-adaptive infrastructure. Pillar
+2—Strengthening Financial Fiscal Resilience Against Natural Hazards and Climate Change —will support the adoption of
+key financial policies to enhance financial resilience and risk management, expand access to risk insurance markets, and
+ensure fiscal stability in the face of natural hazards and climate change. The program is closely aligned with country’s
+Disaster Preparedness and Response (DPR) Act of 2000 (DPR Act, 2000), National Hazard Mitigation Policy, Plan Belize
+(2023), the updated Nationally Determined Contribution (NDC 2021), Low Emissions Development Strategy and Action
+Plan, and the National Adaptation Plan, etc.
+
+Under Pillar 1, PAs prioritizes reforms supporting the integration of disaster risk considerations in building codes and land
+use planning and building robust preparedness and response systems to manage multi-hazard risk across government
+entities and geographical areas. Key activities include updating legislation on building practices; reviewing and refining
+policies related to spatial and land use planning; and improving operational procedures for DRM to ensure they effectively
+reduce vulnerabilities to climate change and disasters. PAs under Pillar 1 include PA1. Updating of the National
+Preparedness and Response Plan, PA2. Approval of the National Land Use Policy, and PA3. Updating of the Belize Building
+Act and Building Codes.
+
+Pillar 2 is foundational to Belize's disaster risk management strategy, enabling both rapid recovery and sustained resilience
+against the growing risks posed by climate change and natural hazards. PAs under Pillar 2 include PA4. Approval of a
+Disaster Risk Financing Policy and Implementation Plan, PA5. Preparation and Publication of Fiscal Strategy Plan with a
+Medium-Term Fiscal Framework, and PA6. Approval of the Microinsurance Regulations.
+
+
+ E. Poverty and Social Impacts, and Environmental, Forests, and Other Natural Resource Aspects
+
+ Poverty and Social Impacts
+ The policy reforms under pillar 1 are expected to moderately decrease household vulnerabilities and mitigate the
+ effects of future climate-related disasters. Updating the NDPRP (PA1), will strengthen disaster response capabilities,
+ providing protection to those impacted by climate-related crises. Adoption of a National Land Use Policy (PA2),
+ promotes sustainable agricultural practices and protects natural resources essential for rural livelihoods, reducing
+ vulnerability to climate shocks. Updating the Belize Building Act (PA3) is expected to improve construction standards to
+ ensure safer housing that can withstand extreme weather, including in poor, high-risk areas. Pillar 2 has the potential
+ to strengthen the country’s fiscal resilience to natural disasters with mostly indirect implications for poverty. The
+ adoption of a DRF Policy (PA4) will provide a structured approach to managing financial risks associated with natural
+ hazards, improving fiscal stability and enabling quicker fund mobilization for disaster response and recovery. The
+ incorporation of adaptive social protection mechanisms to shield vulnerable populations from disaster impacts could
+ potentially have important poverty mitigating effects in the event of a natural disaster. The requirement for the Ministry
+ of Finance to annually prepare and publish a Fiscal Strategy Plan (PA5) and the adoption of regulations for the insurance
+
+                                                                                                                         Page 4
+       The World Bank
+       Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+ sector (PA6) aim to strengthen the country’s capacity to absorb shocks and preparedness to respond to natural disaster-
+ related, which may have longer-term indirect implications for poverty reduction.
+
+
+ Environmental, Forests, and Other Natural Resource Aspects
+
+The proposed policy actions are likely to have positive environmental impacts by reducing Belize’s vulnerability to climate
+change and strengthening resilience against natural hazards. PA1. National Disaster Preparedness and Response Plan is
+expected to have positive effects as it directly contributes to the environmental protection in Belize by ensuring close
+coordination with environmental authorizes in case of emergency. PA2. Sustainable Land Use Practices is likely to have
+significant positive effects over the long term as it aims to enhance sustainable, and environmentally sound land use
+practices, and reduce Belize’s carbon footprint by reducing greenhouse gas emissions. PA3. Strengthening Building
+Regulations and Standards is expected to have significant positive effects on the environment as building practices will
+become more sustainable, supporting long-term economic growth and environmental conservation.
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+   Jared Phillip Mercadante
+   Senior Disaster Risk Management Specialist
+
+   Anton Dobronogov
+   Senior Economist
+
+ Borrower/Client/Recipient
+  Ministry of Finance, Economic Development and Investment
+  Joseph Waight
+  Financial Secretary
+  joseph.waight@mof.gov.bz
+
+ Implementing Agencies
+  Ministry of Finance, Economic Development and Investment
+  Joseph Waight
+  Financial Secretary
+  joseph.waight@mof.gov.bz
+
+ FOR MORE INFORMATION CONTACT
+
+
+
+
+                                                                                                                       Page 5
+     The World Bank
+     Belize Development Policy Credit with Catastrophe Deferred Drawdown Option(P505490)
+
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                  Jared Phillip Mercadante, Anton Dobronogov
+
+Approved By
+
+Practice Manager/Manager:             Federica Ranghieri                    03-Feb-2025
+
+Country Director:                     Federico E. Baechli                   03-Mar-2025
+
+
+
+
+                                                                                           Page 6
+

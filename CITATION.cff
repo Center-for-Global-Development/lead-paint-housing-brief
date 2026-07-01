@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+title: "Lead paint in World Bank and IDB housing projects: code and data"
+authors:
+  - family-names: Crawfurd
+    given-names: Lee
+    affiliation: Center for Global Development
+type: software
+license: MIT
+repository-code: "https://github.com/Center-for-Global-Development/lead-paint-housing-brief"
+abstract: >-
+  An automated audit of the World Bank and Inter-American Development
+  Bank's active housing and urban-renovation portfolios for lead-paint
+  testing, removal, and specification commitments. Companion to the
+  drinking-water lead-testing audits (lead-testing-world-bank-brief,
+  lead-testing-iadb-brief), integrating both institutions into one
+  combined analysis. Pipeline pulls project metadata from the WB
+  Projects API and IDB's IATI-published activity files, downloads
+  project documents, runs multilingual (English/Spanish/Portuguese/
+  French) keyword search and context classification, and produces a
+  per-project verdict on lead-paint commitments.
+keywords:
+  - lead exposure
+  - lead paint
+  - housing
+  - World Bank
+  - Inter-American Development Bank
+  - LMIC
+  - environmental health
+date-released: 2026-07-01

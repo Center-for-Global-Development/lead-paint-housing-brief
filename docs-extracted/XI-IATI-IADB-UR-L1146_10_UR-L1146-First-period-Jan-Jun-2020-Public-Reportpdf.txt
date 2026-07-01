@@ -1,0 +1,434 @@
+                                                                                            PMR Operational Report
+     Operation Number           UR-L1146                                                                            Chief of Operations Validation Date         11/05/20
+
+     Year- PMR Cycle            First period Jan-Jun 2020                                                           Division Chief Validation Date
+
+     Last Update                11/04/20                                                                            Country Representative Validation
+                                                                                                                    Date
+
+     PMR Validation Stage       Validated by Chief of Operations
+
+ Basic Data
+
+  Operation Profile
+     Operation Name             Neighborhood Improvement Program III                                                Loan Number                                 4651/OC-UR
+
+     Executing Agency           MINISTERIO DE VIVIENDA ORDENAMIENTO TERRIT. Y MEDIO                                 Sector/Subsector                            URBAN DEVELOPMENT AND HOUSING-NEIGHBORHOOD
+                                AMBIENTE                                                                                                                        UPGRADING
+
+     Team Leader                ADLER, VERONICA                                                                     Overall Stage                               Disbursing (From eligibility until all the Operations are closed)
+
+     Operation Type             Loan Operation                                                                      Country                                     Uruguay
+
+     Lending Instrument         Investment Loan                                                                     Convergence related Operation(s)
+
+     Borrower                   REPUBLICA ORIENTAL DE URUGUAY
+
+ Environmental and Social Safeguards
+
+     Impacts Category                         A                                                             Was/Were the objective(s) of this operation reformulated?                 NO
+
+     Safeguard Performance Rating             Partially Satisfactory                                        Date of approval
+
+     Safeguard Performance Rating -           Hay un retraso significativo en la ejecución de obras que no se está gestionando con un plan de comunicación y relacionamiento comunitario adecuado. El equipo de profesionales de la
+     Rationale                                Unidad Coordinadora del Programa (UCP) se ha reducido considerablemente y hay nuevos profesionales que requieren capacitación en las salvaguardias y buenas prácticas
+                                              ambientales y sociales.
+
+ Financial Data
+                                                                       Total Cost and Source                                                                                       Available Funds (US$)
+        Item
+                      Original IDB         Current IDB        Local Counterpart        Co-Financing / Country           Total Original Cost       Current IDB         Disb. Amount to Date             % Disb     Undisbursed Amount
+
+  UR-L1146                70,000,000           70,000,000               30,000,000                                 0              100,000,000          70,000,000                      2,055,000         2.94%                      67,945,000
+
+  Aggregated              70,000,000          70,000,000                30,000,000                                0               100,000,000         70,000,000                      2,055,000          2.94%                      67,945,000
+
+ Expense Categories by Loan Contract (cumulative values)
+
+                                                                                                             Disbursed
+          Mejoramiento de Barrios 01000000
+                                                                                                             Undisbursed
+
+   Recuperación inm. degradado 02000000
+
+                   Fort. Institucional 03000000
+
+    Adm, evaluación y monitoreo 04000000
+
+                                                      0%      20%      40%     60%      80%     100%
+
+
+
+
+Please note that inactive indicators and outputs are not displayed; totals in the actual cost table may not match the sum of the cost of the outputs displayed, due to the cost of inactive outputs.
+                                                                                                                       -1-
+                                                                                 PMR Operational Report
+ RESULTS MATRIX
+IMPACTS
+Impact Nbr. 0: Indicadores de Impacto
+Observation:
+                         Indicator                              Unit of     Baseline     Baseline               2024        EOP 2024
+                                                               Measure                    Year
+
+ 0.0    Diferencial del logaritmo del precio del metro     %              0.00         2018              P                  6.00
+        cuadrado promedio estimado en las viviendas del
+        entorno de los asentamientos tratados y no                                                       P(a)               6.00
+        tratados
+                                                                                                         A
+
+                                                                                               Details
+Means of verification: Evaluación de impacto del programa (Plan de Monitoreo y Evaluación).
+Pro-Gender                        No                                                   Pro-Ethnicity                   No
+
+
+                         Indicator                              Unit of     Baseline     Baseline               2024        EOP 2024
+                                                               Measure                    Year
+
+ 0.2    Diferencial del logaritmo del precio promedio de   %              0.00         2018              P                  20.00
+        venta de las viviendas antes y después en los
+        asentamientos tratados                                                                           P(a)               20.00
+
+                                                                                                         A
+
+                                                                                               Details
+Means of verification: Censos de inicio-cierre.
+Pro-Gender                        No                                                   Pro-Ethnicity                   No
+
+
+                         Indicator                              Unit of     Baseline     Baseline               2024        EOP 2024
+                                                               Measure                    Year
+
+ 0.3    Hogares que consideran que el barrio es un lugar   %              59.00        2018              P                  67.00
+        bueno para vivir
+                                                                                                         P(a)               67.00
+
+                                                                                                         A
+
+                                                                                               Details
+Means of verification: Encuesta de censo de inicio y de cierre.
+Pro-Gender                        No                                                   Pro-Ethnicity                   No
+
+
+                         Indicator                              Unit of     Baseline     Baseline               2024        EOP 2024
+                                                               Measure                    Year
+
+ 0.4    Existencia de un programa de vivienda pública en   Programa       0.00         2018              P                  1.00
+        alquiler a nivel nacional
+                                                                                                         P(a)               1.00
+
+                                                                                                         A
+
+
+                                                                                                -2-
+                                                                             PMR Operational Report
+RESULTS MATRIX
+IMPACTS
+
+                                                                                                Details
+Means of verification: El objetivo es mostrar si el piloto fue tomado en cuenta para expandir la iniciativa en mayor escala. La lógica del piloto es ensayar en un marco reducido y bajo una mirada
+atenta una nueva forma de acceso a la vivienda para sectores de bajos ingresos, poniendo a prueba la capacidad del estado de ejecutar y sobre todo gestionar el sistema.
+Pro-Gender                      No                                                      Pro-Ethnicity                   No
+
+
+
+
+                                                                                                  -3-
+                                                                                    PMR Operational Report
+ RESULTS MATRIX
+OUTCOMES
+Outcome Nbr. 0: Objetivos de evaluabilidad 1. Integración urbana: infraestructura básica, equipamientos urbanos y equipamientos sociales con consideraciones de cambio climático
+Observation:
+                         Indicator                                 Unit of   Baseline   Baseline             2026                       EOP 2024
+                                                                  Measure                Year
+
+ 0.0    Porcentaje de viviendas que toman el agua para        %              55.00      2018       P                                    81.00
+        beber y cocinar de la red general, por cañería
+        dentro de la vivienda y con servicio en forma                                              P(a)                                 81.00
+        regular del OSE respecto al total de las viviendas
+        censados en los asentamientos intervenidos                                                 A
+
+                                                                                                   Details
+Means of verification: Levantamientos de los censos de inicio y de cierre del programa (preguntas de la sección 2. DATOS DE LA VIVIENDA 12,13 y 14 con código de respuesta =1).
+Pro-Gender                        No                                                                      Pro-Ethnicity         No
+
+                         Indicator                                 Unit of   Baseline   Baseline             2026                       EOP 2024
+                                                                  Measure                Year
+
+ 0.2    Porcentaje de viviendas con servicio                  %              20.00      2018       P                                    95.00
+        intradomiciliario formal de saneamiento
+                                                                                                   P(a)                                 95.00
+
+                                                                                                   A
+
+                                                                                                   Details
+Means of verification: Levantamientos de los censos de inicio y de cierre del programa (preguntas de la sección 2. DATOS DE LA VIVIENDA 18, 19 y 20 con código de respuesta =1).
+Pro-Gender                        No                                                                      Pro-Ethnicity         No
+
+                         Indicator                                 Unit of   Baseline   Baseline             2026                       EOP 2024
+                                                                  Measure                Year
+
+ 0.3    Porcentaje de viviendas que cuenta con servicio de    %              43.00      2019       P                                    88.00
+        electricidad formal de UTE respecto al total de las
+        viviendas censadas en los asentamientos                                                    P(a)                                 88.00
+        intervenidos
+                                                                                                   A
+
+                                                                                                   Details
+Means of verification: Levantamiento de los censos de inicio y cierre del programa (pregunta de la sección 2. DATOS DE LA VIVIENDA 17=1).
+Pro-Gender                        No                                                                      Pro-Ethnicity         No
+
+                         Indicator                                 Unit of   Baseline   Baseline             2026                       EOP 2024
+                                                                  Measure                Year
+
+ 0.4    Porcentaje de hogares en los asentamientos que        %              0.00       2018       P                                    30.00
+        reportan haber usado al menos uno de los
+        equipamientos barriales construidos por el                                                 P(a)                                 30.00
+        programa al menos una vez en el último mes
+                                                                                                   A
+
+                                                                                                   Details
+                                                                                                       -4-
+                                                                                     PMR Operational Report
+ RESULTS MATRIX
+OUTCOMES
+Means of verification: Relevamiento para la evaluación de cierre del programa.
+Pro-Gender                         No                                                                      Pro-Ethnicity   No
+
+                         Indicator                                  Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                   Measure                Year
+
+ 0.6     Porcentaje de hogares en los asentamientos que        %              0.00       2018       P                           30.00
+         reportan haber usado al menos uno de los
+         espacios públicos construidos por el programa al                                           P(a)                        30.00
+         menos una vez en el último mes
+                                                                                                    A
+
+                                                                                                    Details
+Means of verification: Relevamiento para la evaluación de cierre del programa
+Pro-Gender                         No                                                                      Pro-Ethnicity   No
+
+                         Indicator                                  Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                   Measure                Year
+
+ 0.6     Número de medidas de mitigación y adaptación          # medidas de   0.00       2018       P                           10.00
+         reportadas en el marco de la Contribución             mitigación
+         Determinada a Nivel Nacional que la entidad                                                P(a)                        10.00
+         ejecutora reportara ante la Dirección de Cambio
+         Climático del MVOTMA                                                                       A
+
+                                                                                                    Details
+Means of verification: Contabilidad de cambio climático (EEO#7)
+Pro-Gender                         No                                                                      Pro-Ethnicity   No
+
+Outcome Nbr. 1: Objetivo de evaluabilidad 2. Garantía de tenencia segura
+Observation:
+                         Indicator                                  Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                   Measure                Year
+
+ 1.0     Porcentaje de viviendas que reportan haber            %              45.00      2018       P                           55.00
+         realizado reformas o mejoras en el último año en la
+         vivienda o en el terreno (no financiadas por ningún                                        P(a)                        55.00
+         programa)
+                                                                                                    A
+
+                                                                                                    Details
+Means of verification: Línea de base (LB) censo de inicio de la muestra y para el resultado final censo de cierre.
+Pro-Gender                         No                                                                      Pro-Ethnicity   No
+
+                         Indicator                                  Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                   Measure                Year
+
+ 1.2     Porcentaje de viviendas que reportan que disponen     %              51.00      2018       P                           81.00
+         de heladera y calentador de agua
+
+                                                                                                        -5-
+                                                                                    PMR Operational Report
+ RESULTS MATRIX
+OUTCOMES
+ 1.2     Porcentaje de viviendas que reportan que disponen    %              51.00      2018       P(a)                        81.00
+         de heladera y calentador de agua
+                                                                                                   A
+
+                                                                                                   Details
+Means of verification: Para la LB es el levantamiento de la muestra, y para la meta final es el censo de cierre.
+Pro-Gender                        No                                                                      Pro-Ethnicity   No
+
+Outcome Nbr. 2: Objetivo de evaluabilidad 3. Mejora del capital social
+Observation:
+                         Indicator                                 Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                  Measure                Year
+
+ 2.0     Porcentaje de hogares que reportan que la relación   %              64.00      2018       P                           78.00
+         entre los vecinos del asentamiento es buena o muy
+         buena                                                                                     P(a)                        78.00
+
+                                                                                                   A
+
+                                                                                                   Details
+Means of verification: Encuesta de censo inicial y final de los asentamientos.
+Pro-Gender                        No                                                                      Pro-Ethnicity   No
+
+                         Indicator                                 Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                  Measure                Year
+
+ 2.2     Porcentaje de hogares que reportan que el barrio     %              27.00      2018       P                           30.78
+         es seguro o muy seguro
+                                                                                                   P(a)                        30.78
+
+                                                                                                   A
+
+                                                                                                   Details
+Means of verification: Encuesta de censo inicial y final de los asentamientos.
+Pro-Gender                        No                                                                      Pro-Ethnicity   No
+
+                         Indicator                                 Unit of   Baseline   Baseline             2026              EOP 2024
+                                                                  Measure                Year
+
+ 2.2     Porcentaje de mujeres que reportan que el barrio     %              0.00       2018       P                           30.78
+         es seguro o muy seguro sobre el total de mujeres
+         que responden                                                                             P(a)                        30.78
+
+                                                                                                   A
+
+                                                                                                   Details
+Means of verification: Encuesta de censo inicial y final de los asentamientos
+Observations: Se planea levantar la información en los relevamientos de inicio de los asentamientos por intervenir.
+
+
+                                                                                                       -6-
+                                                                                  PMR Operational Report
+RESULTS MATRIX
+OUTCOMES
+Pro-Gender                        No                                                                    Pro-Ethnicity        No
+
+Outcome Nbr. 3: Objetivo de Evaluabilidad 4. Prevención de conformación de nuevos asentamientos con enfoque social
+Observation:
+                         Indicator                               Unit of   Baseline   Baseline             2026                   EOP 2024
+                                                                Measure                Year
+
+ 3.0    Porcentaje de hogares que habitan en las            %              0.00       2018       P                                100.00
+        viviendas del programa después de seis meses,
+        sobre el total de hogares a los que se les asignó                                        P(a)                             100.00
+        una vivienda
+                                                                                                 A
+
+                                                                                                 Details
+Means of verification: Evaluación de procesos del programa con base a [fuente]
+Pro-Gender                        No                                                                    Pro-Ethnicity        No
+
+                         Indicator                               Unit of   Baseline   Baseline             2026                   EOP 2024
+                                                                Measure                Year
+
+ 3.2    Porcentaje de morosidad en el pago de alquiler      %              0.00       2018       P                                10.00
+        después de seis meses del total de hogares a los
+        que se les ofreció la vivienda.                                                          P(a)                             10.00
+
+                                                                                                 A
+
+                                                                                                 Details
+Means of verification: Evaluación de procesos del programa con base a datos del Fondo de Garantía de Alquileres de DINAVI.
+Pro-Gender                        No                                                                    Pro-Ethnicity        No
+
+
+
+
+                                                                                                     -7-
+                                                                                         PMR Operational Report
+RESULTS MATRIX
+OUTPUTS: ANNUAL PHYSICAL AND FINANCIAL PROGRESS
+
+Component Nbr. 1 Componente I. Mejoramiento de Barrios
+                                                                                                                                                  PHYSICAL PROGRESS           FINANCIAL PROGRESS
+       Output                                                                                                        Unit of Measure               2020       EOP 2024          2020        EOP 2024
+ 1.1   Numero de anteproyectos integrales aprobados                                                                  # API                  P             0               2            0      3,338,000
+                                                                                                                                           P(a)           0               2            0      3,338,000
+                                                                                                                                            A             0               0            0               0
+ 1.2   Número de proyectos ejecutivos diseñados y aprobados                                                          # PE                   P             0               2            0      2,798,000
+                                                                                                                                           P(a)           0               2            0      2,798,000
+                                                                                                                                            A             0               0            0               0
+ 1.3   Número de proyectos ejecutivos con obras iniciadas                                                            #PE                    P             2              14     2,235,000    75,784,000
+                                                                                                                                           P(a)           1              14     2,235,000    75,784,000
+                                                                                                                                            A             1               1     1,809,871     1,809,871
+ 1.4   Proyectos de Mejoramiento de Barrios ejecutados                                                               #PE                    P             0              14        12,000       881,000
+                                                                                                                                           P(a)           0              14        12,000       881,000
+                                                                                                                                            A             0               0       245,129       245,129
+ 1.5   Fondos de iniciativa barrial realizados                                                                       # fondos aproba-dos    P             5              14            0        275,000
+                                                                                                                                           P(a)           5              14            0        275,000
+                                                                                                                                            A             0               0                            0
+
+Component Nbr. 2 Componente II. Proyecto Piloto de Recuperación de Inmuebles Degradados en Áreas Centrales con Enfoque Social
+                                                                                                                                                  PHYSICAL PROGRESS           FINANCIAL PROGRESS
+       Output                                                                                                        Unit of Measure               2020       EOP 2024          2020        EOP 2024
+ 2.1   Proyectos Ejecutivos de Recuperación de inmuebles Aprobados                                                   #PE                    P             0               3       309,000     4,497,000
+                                                                                                                                           P(a)           0               3       309,000     4,497,000
+                                                                                                                                            A             0               0            0               0
+ 2.2   Obras finalizadas                                                                                             #Obras                 P             0               3            0      5,455,000
+                                                                                                                                           P(a)           0               3            0      5,455,000
+                                                                                                                                            A             0               0            0               0
+ 2.3   Diseño de los Modelos de Gestión de Alquileres finalizados                                                    #Modelos               P             1               1            0               0
+                                                                                                                                           P(a)           0               1            0               0
+                                                                                                                                            A             0               0            0               0
+ 2.4   Número de unidades alquiladas por año.                                                                        # unidades             P             0              68            0               0
+                                                                                                                                           P(a)           0              68            0               0
+                                                                                                                                            A             0               0            0               0
+
+
+
+
+                                                                                                         -8-
+                                                                                        PMR Operational Report
+RESULTS MATRIX
+OUTPUTS: ANNUAL PHYSICAL AND FINANCIAL PROGRESS
+
+Component Nbr. 3 Componente III. Fortalecimiento Institucional
+                                                                                                                                  PHYSICAL PROGRESS            FINANCIAL PROGRESS
+       Output                                                                                            Unit of Measure           2020        EOP 2024          2020           EOP 2024
+ 3.1   Número de talleres de capacitación realizados en la unidad ejecutora                              # talleres         P              2              14            6,000         42,000
+                                                                                                                           P(a)            0              14               0          42,000
+                                                                                                                            A              0               0               0               0
+ 3.2   Personas del organismo ejecutor capacitadas en temas de género                                    personas           P             45              45               0               0
+                                                                                                                           P(a)            0              45               0               0
+                                                                                                                            A              0               0               0               0
+ 3.3   Número de técnicos contratados                                                                    # contratos        P             65          390                  0       6,930,000
+                                                                                                                           P(a)           65          390                  0       6,930,000
+                                                                                                                            A              0               0               0               0
+ 3.4   Página web reformulada y mostrando información básica a nivel de cada proyecto                    # web              P              1               1               0               0
+                                                                                                                           P(a)            0               1               0               0
+                                                                                                                            A              0               0               0               0
+
+
+
+Total Cost
+
+       Total Cost                                                                                                           P                                     2,562,000       100,000,000
+
+                                                                                                                           P(a)                                   2,556,000       100,000,000
+
+                                                                                                                            A                                     2,055,000         2,055,000
+
+
+
+
+                                                                                                  -9-
+                                            PMR Operational Report
+CHANGES TO THE MATRIX
+
+No information available for this section
+
+
+
+
+                                                     - 10 -
+                                     PMR Operational Report
+IMPLEMENTATION STATUS AND LEARNING
+
+                                     Lesson Learned - Categories
+Project Management Capacity
+
+Project Monitoring & Evaluation
+
+
+
+
+                                                - 11 -
+

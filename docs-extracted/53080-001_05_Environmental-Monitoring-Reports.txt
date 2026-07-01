@@ -1,0 +1,1864 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+INTERNAL
+
+
+Project Number: 53080-001
+August 2022
+
+
+
+
+Proposed Project Loan and Results-Based Loan
+People’s Republic of China: Heilongjiang Green
+Transformation Demonstration Project and Program
+
+
+
+
+Distribution of this document is limited until it has been approved by the Board of Directors.
+Following such approval, this document will be reclassified as public and disclosed in accordance
+with ADB's Access to Information Policy.
+                     CURRENCY EQUIVALENTS
+                       (as of 11 August 2022)
+
+                   Currency unit         –        yuan (CNY)
+                       CNY1.00           =        $0.1487
+                          $1.00          =        CNY6.7238
+                       CNY1.00           =        €0.1444
+                          €1.00          =        CNY6.9248
+
+
+                          ABBREVIATIONS
+
+ADB            –      Asian Development Bank
+COVID-19       –      coronavirus disease
+CWIS           –      Citywide Inclusive Sanitation
+DLI            –      disbursement-linked indicator
+EMP            –      environmental management plan
+FIRR           –      financial internal rate of return
+FTZ            –      free trade zone
+GHG            –      greenhouse gas
+HMG            –      Heihe Municipal Government
+HPG            –      Heilongjiang Provincial Government
+HURDB          –      Heihe Housing and Urban–Rural Development Bureau
+IEE            –      initial environmental examination
+iRAP           –      international road assessment program
+NDC            –      nationally determined contribution
+NMT            –      nonmotorized transport
+O&M            –      operation and maintenance
+PAM            –      project administration manual
+PID            –      program implementation document
+PIU            –      project implementing unit
+PMO            –      project management office
+PRC            –      People’s Republic of China
+RBL            –      results-based loan
+SCG            –      Suifenhe City Government
+SDGAP          –      social development and gender action plan
+
+                                 NOTE
+
+In this report, “$” refers to United States dollars and € refers to euros.
+Vice-President              Ahmed M. Saeed, Operations 2
+Director General            M. Teresa Kho, East Asia Department (EARD)
+Director                    Sujata Gupta, Sustainable Infrastructure Division (EASI), EARD
+
+Team leaders                Rebecca Stapleton, Transport Specialist, EASI, EARD
+                            Yun Zhou, Senior Environment Specialist, EASI, EARD
+Deputy team leader          Aihua Wu, Economics Officer, People’s Republic of China Resident
+                                Mission, EARD
+Team members                Tsolmon Begzsuren, Social Development Specialist (Gender and
+                                Development), Office of the Director General (EAOD), EARD
+                            Yan Yee Chu, Procurement Specialist, Procurement Division 2,
+                                Procurement, Portfolio, and Financial Management Department
+                            Precious Le Bonne Dungca, Project Analyst, EASI, EARD
+                            Belinda Hewitt, Senior Disaster Risk Management Specialist,
+                                Climate Change and Disaster Risk Management Division,
+                                Sustainable Development and Climate Change Department
+                                (SDCC)
+                            Arndt Christoffer Husar, Senior Public Management Specialist
+                                (Digital Transformation), Digital Technology for Development
+                                Unit, SDCC
+                            Veronica Mendizabal Joffre, Senior Gender and Social
+                                Development Specialist, Office of the Director General,
+                                Southeast Asia Department
+                            Mark Allister U. Robis, Senior Financial Management Officer,
+                                EAOD, EARD
+                            Rosalynn Madeleine C. Serafica, Senior Communications Officer,
+                                Media and External Relations Division, Department of
+                                Communications
+                            Yashna Shrawani, Counsel, Office of the General Counsel
+                            Jasmin S. Sibal, Senior Economics Officer, Economic Analysis and
+                                Operational Support Division, Economic Research and
+                                Regional Cooperation Department
+                            Izza Waheed, Financial Management Specialist, EAOD, EARD
+                            Christian Walder, Water Supply and Sanitation Specialist, Water
+                                Sector Group, SDCC
+                            Jian Zhou, Social Development Specialist (Safeguards), EASI,
+                                EARD
+Peer reviewer               Oleg Samukhin, Senior Transport Specialist, Transport and
+                                Communications Division, Central and West Asia Department
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                        CONTENTS
+
+                                                                                       Page
+PROJECT AT A GLANCE
+MAP
+I.     THE PROPOSAL                                                                        1
+II.    THE PROJECT AND ITS PROGRAM COMPONENT                                               1
+       A.   Rationale                                                                      1
+       B.   Strategic Context for the Results-Based Loan Component                         3
+       C.   Project and Program Description                                                6
+       D.   Value Added by ADB                                                             7
+       E.   Summary Cost Estimates and Financing Plan                                      8
+       F.   Implementation Arrangements                                                    9
+III.   DUE DILIGENCE                                                                       10
+       A.    Technical                                                                     10
+       B.    Economic and Financial Viability                                              11
+       C.    Sustainability                                                                11
+       D.    Governance                                                                    12
+       E.    Poverty, Social, and Gender                                                   13
+       F.    Safeguards                                                                    13
+       G.    Summary of Risk Assessment and Risk Management Plan                           15
+IV.    ASSURANCES AND CONDITIONS                                                           15
+V.     RECOMMENDATION                                                                      15
+
+APPENDIXES
+
+1.     Design and Monitoring Framework                                                     16
+2.     List of Linked Documents                                                            21
+3.     Disbursement-Linked Indicators, Verification Protocols, and Disbursement Schedule   22
+                                                                                           Project Classification Information Status: Complete
+
+
+                                                      PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                   Project Number: 53080-001
+       Project Name                    Heilongjiang Green Transformation           Department/Division EARD/EASI
+                                       Demonstration Project and Program (formerly
+                                       Green Transformation in Heilongjiang)
+       Country                         China, People's Republic of                 Executing Agency      Heilongjiang Province,
+       Borrower                        People's Republic of China                                        Heilongjiang Provincial
+                                                                                                         Development and Reform
+       Country Economic                https://www.adb.org/Documents/LinkedDocs/                         Commission
+       Indicators                      ?id=53080-001-CEI
+       Portfolio at a Glance           https://www.adb.org/Documents/LinkedDocs/
+                                       ?id=53080-001-PortAtaGlance
+
+    2. Sector                          Subsector(s)                                                          ADB Financing ($ million)
+       Transport                       Multimodal logistics                                                                   61.000
+                                       Urban roads and traffic management                                                      3.670
+       Agriculture, natural            Rural sanitation                                                                        0.500
+       resources and rural             Water-based natural resources management                                                9.500
+       development
+       Information and                 ICT infrastructure                                                                         41.000
+       communication technology
+       Water and other urban           Other urban services                                                                       53.000
+       infrastructure and services     Renovation and protection of cultural heritage                                              5.000
+                                       Urban housing                                                                              19.330
+                                                                                                        Total                    193.000
+    3. Operational Priorities                                                           Climate Change Information
+       OP1: Addressing remaining poverty and reducing inequalities                      GHG reductions (tons per                   62,400
+       OP2: Accelerating progress in gender equality                                    annum)
+       OP3: Tackling climate change, building climate and disaster resilience, and      Climate Change impact on the              Medium
+       enhancing environmental sustainability                                           Project
+       OP4: Making cities more livable
+                                                                                        ADB Financing
+       OP5: Promoting rural development and food security
+                                                                                        Adaptation ($ million)                     17.643
+       OP6: Strengthening governance and institutional capacity
+                                                                                        Mitigation ($ million)                     26.098
+       OP7: Fostering regional cooperation and integration
+
+                                                                                        Cofinancing
+                                                                                        Adaptation ($ million)                      0.000
+                                                                                        Mitigation ($ million)                      0.000
+       Sustainable Development Goals                                                    Gender Equity and Mainstreaming
+       SDG 1.5                 SDG 10.2                                                 Effective gender mainstreaming (EGM)
+       SDG 3.6                 SDG 11.1, 11.2, 11.4, 11.7
+       SDG 5.1, 5.5            SDG 12.2                                                 Poverty Targeting
+       SDG 6.2, 6.5, 6.6       SDG 13.a                                                 General Intervention on Poverty
+       SDG 9.1, 9.4
+    4. Risk Categorization:       Complex
+.
+
+
+    5. Safeguard Categorization                   Environment: A Involuntary Resettlement: B Indigenous Peoples: B
+.
+
+
+    6. Financing
+        Modality and Sources                                                                  Amount ($ million)
+        ADB                                                                                                                    193.000
+          Sovereign Project (Regular Loan): Ordinary capital resources                                                         173.670
+          Sovereign Results Based Lending (Regular Loan): Ordinary capital resources                                            19.330
+        Cofinancing                                                                                                              0.000
+          None                                                                                                                   0.000
+        Counterpart                                                                                                            305.831
+           Government                                                                                                          305.831
+        Total                                                                                                                  498.831
+
+       Currency of ADB Financing: Euro
+
+Source: Asian Development Bank
+This document must only be generated in eOps.      16082022151156435446                             Generated Date: 26-Aug-2022 10:20:12 AM
+HEILONGJIANG PROVINCE PROJECT AREAS
+
+                                                                                                                                                 RUSSIAN FEDERATION
+
+
+
+
+                                                                                                                                      MONGOLIA
+
+
+
+
+                                                                                                                                                        (
+                                                                                                                                                        ^
+                                                                                                                                                        H
+                                                                                                                                         Beijing
+
+
+
+
+                                                               Heihe                                                                                         Legend
+                         Hulunbuir                                                                                                                                          Project Areas
+
+                                                                                                                                                                 (
+                                                                                                                                                                 ^
+                                                                                                                                                                 H          National Capital
+
+                                                                                                                                                                 !
+                                                                                                                                                                 P          Provincial Capital
+
+                           Inner                                                                                                                                            City
+                          Mongolia
+                                                                                                                                                                            Heilongjiang
+                                                  Qiqihar            Heilongjiang
+                                                                                         Jiamusi                                                                            Other Provinces
+    MONGOLIA
+                                                            Daqing                                                                                                          Road
+                                 Hinggan
+                                 League                                                                                                                                     Province Boundary
+                                                                      Harbin                                                                                                Country Boundary
+                                       Baicheng                      !
+                                                                     P                           Jixi
+
+                                           Songyuan
+                                                                                    Mudanjiang
+                                                                                                        Suifenhe
+
+                                                                                                                                                              ¯
+Xilingol
+League
+                                                    Changchun             Jilin
+                                     Tongliao                !
+                                                             P                                                                           0                                            250
+
+                                                      Siping               Jilin      Yanbian                                                           Kilometers
+                                                                                                                   PROOF ONLY – NOT FOR PUBLICATION
+                                                               Liaoyuan                                            This map was produced by the cartography unit of the Asian Development Bank. The boundaries,
+                                                                                                                   colors, denominations, and any other information shown on this map do not imply, on the part of
+                                                                                                                     the Asian Development Bank, any judgement on the legal status of any territory, or any other
+               Chifeng                     Liaoning                                                                     endorsement or acceptance of such boundaries, colors, denominations, or information.
+      Hebei
+                                          I.       THE PROPOSAL
+
+1.     I submit for your approval the following report and recommendation on (i) a proposed project
+loan, and (ii) a proposed results-based loan, to the People’s Republic of China (PRC) for the
+Heilongjiang Green Transformation Demonstration Project and Program.
+
+2.      The proposed Heilongjiang Green Transformation Demonstration Project and Program
+will assist Heilongjiang to promote sustainable, climate-resilient, low-carbon, and green
+development in the cities of Heihe and Suifenhe adopting a comprehensive approach targeting
+the main sources of environmental pollution and greenhouse gas (GHG) emissions, as well as
+environmental restoration. 1 This would be achieved by (i) supporting river and wetland restoration,
+sponge cities, flood protection, climate-resilient infrastructure, smart city systems, and capacity
+building; (ii) improving operations and energy efficiency of port and logistics facilities, economic
+and free trade zones (FTZs), and institutional capacity to support sustainable supply chain
+logistics; and (iii) supporting the government plans to improve the energy efficiency of buildings.
+The project and program will promote regional public goods by reversing the negative impacts of
+pollution within and beyond the PRC and play a demonstrative role for municipalities with
+pervasive ecological pressures, and leverage counterpart financing from the Heihe Municipal
+Government (HMG) and Suifenhe City Government (SCG) of Heilongjiang Province.
+
+                     II.      THE PROJECT AND ITS PROGRAM COMPONENT
+
+A.      Rationale
+
+3.      Heilongjiang is in the northeast PRC, with a population of 38 million in an area of 454,000
+square kilometers. The region was one of the main heavy industrial and mining bases during 1950–
+1980, which incurred economic losses after reforms were implemented in the 1990s. The PRC
+State Council has initiated a strategy for revitalizing the industrial base and focusing on the
+development of an environment-friendly and climate-resilient economy, with an increased focus
+on education, health care, and cultural projects.2 As of 2020, Heilongjiang has legacy environmental
+degradation and remains one of the poorest provinces in the PRC, with gross domestic product per
+capita that ranks 30th out of 31 provinces.3
+
+4.      The project and program area includes Aihui District of Heihe Municipality (0.19 million
+population, including 50.5% females) and Suifenhe City (0.07 million population, including 50.1%
+females).4 Heihe is in the northern part of Heilongjiang Province and lies on the western side of
+Heilongjiang River. Heihe is considered a key node under the national strategy of revitalizing the
+PRC’s northeast industrial bases. Suifenhe is in southeast Heilongjiang Province with two class I
+inland ports (highway and railway) on the border. It is a key inland-port city and a main trade channel.
+Heihe and Suifenhe were chosen to host two of six new FTZs identified by the national government
+in 2019 to diversify Heilongjiang’s economy.5 They face several development challenges including
+aging urban infrastructure, poor connectivity and logistics practices, climate risks, water and air
+pollution, limited knowledge of green technologies, and absence of a coordinated multisector
+
+
+
+1 Green development supported under the project refers to economic activities and/or growth that have environmental
+  impacts that may be managed at the targeted level to ensure environmental improvement and sustainability.
+2 State Council. 2003. Strategy of Revitalizing the Old Industrial Base in Northeast China. Beijing.
+3 National Bureau of Statistics of China. 2021. 2021 China Statistical Yearbook. Beijing.
+4 Heihe Municipality includes both urban and rural areas. Suifenhe City is only urban.
+5 Government of the PRC. 2019. Notice of the State Council on Public Disclosure of the Master Plans of Establishing
+
+  the Six New Free Trade Zones. Beijing.
+2
+
+
+approach. Modernizing and greening the port and logistic infrastructure is crucial to reducing
+pollution as trade and industry play a dominant economic role in the two cities.
+
+5.       River ecological pollution, climate adaptation, and mitigation. The existing sewerage
+systems in the project and program area were designed as combined stormwater and sewerage
+systems, and were not systematically planned, nor designed to cope with the pace of urbanization.
+As a result, sewerage overflows occur during storm season (June to September), with sewage
+directly discharged into streams and waterways. This leads to seasonal fluctuation of water quality
+in the river system, from class III to class IV or V.6 Heihe and Suifenhe cities face significant
+climate risks, including extreme rainfall and storm events, pluvial and fluvial flooding, and extreme
+low temperatures. Climate impacts are exacerbated by inadequate and poorly maintained
+infrastructure. The frequency and severity of extreme weather events, including storms, floods,
+extreme cold and hot temperatures, and drought are projected to increase, leading to
+environmental degradation, negative impacts on infrastructure, and decreased urban well-being.
+The project and program will (i) address these challenges by supporting river and wetland
+restoration, sponge cities, flood protection, climate-resilient infrastructure, and smart city systems
+for climate risk management; and (ii) support the PRC in implementing its nationally appropriate
+mitigation actions and nationally determined contributions (NDCs) by delivering nonmotorized
+transport (NMT), energy efficiency upgrades, and increased urban green space.
+
+6.      Supply chain management. The provincial government prioritizes logistics and supply
+chain management improvement in the 14th Five-Year Plan.7 Heihe and Suifenhe are important
+nodes for supply chains that deal with agricultural products, textiles, petroleum, timber, steel,
+manufacturing parts, and manufactured goods. Heihe river port is currently located downtown,
+which compounds congestion and increases pollution. The current facilities and logistics services
+are inefficient, polluting and have been strained by the health and quarantine requirements of the
+coronavirus disease (COVID-19) pandemic. The project will develop a new green river port in
+Heihe and improve logistics efficiency in Heihe and Suifenhe.
+
+7.      Regional environment improvement. Industrial development is located along riverbanks
+and in the city centers, which has polluted the urban environment and water sources. The
+pollutants eventually flow into international river basins, and on to the Pacific Ocean. To mitigate
+this pollution, enhance livability, and drive more sustainable economic development, the project
+will support the government to develop well-connected economic and FTZs based on green
+building principles and to rehabilitate several river sections. This will improve regional public
+goods, particularly improved water quality and discharge into the Pacific Ocean.
+
+8.       Tourism. Rural tourism is developing rapidly in Heihe due of its unique geographical
+location, natural scenery, and folk culture. Suifenhe is also a popular medical tourism destination.
+However, tourism growth is challenged by (i) aging infrastructure; (ii) COVID-19 pandemic; and
+(iii) lack of institutional and human capacity to promote sustainable tourism, and investment
+capital. Women have limited opportunities for employment in the sector. The project will develop
+infrastructure and institutional capacity to support sustainable and community-based tourism with
+a focus on women-oriented capacity building and training.
+
+9.      Smart city development. In 2019, Heihe established a data center, and in 2020, began
+to develop the Heihe Phase 1 Smart City program to improve citizen- and business-oriented
+online services and urban management. However, the current platforms only allow simple data
+analytics, with limited ability to derive information to inform urban management and planning.
+
+6   Rivers in the PRC are classed according to water quality, with class I being the best quality and class V the worst.
+7   Heilongjiang Provincial Government. 2020. 14th Five-Year Plan for Economic and Social Development. Harbin.
+                                                                                                                  3
+
+
+Improvements and additional features are needed to (i) generate insights on the urban environment,
+(ii) promote efficiencies, and (iii) bring more government services online. The project will develop
+Smart City Phase 2, improving integration of local and provincial institutions responsible for
+environment, forestry, district heating, water resources, early flood warning, disaster response (fire
+and flood), and logistics and port management. The emphasis will be on functionalities that
+improve the efficiency, sustainability, and climate resilience of Heihe, improve coordination across
+sectors, enable informed decision-making, and enhance public service delivery.
+
+10.      Energy-intensive building sector. The building sector is responsible for 40% of global
+energy-related annual GHG emissions.8 The PRC ranks second globally for energy consumed by
+the building sector, and first for energy consumed by residential buildings. To cope with cold
+winters and the harsh climate, buildings in Heilongjiang require significant heating, which is highly-
+energy intensive; however, the region has been slow to adopt green building standards for new
+building development. The project will support the use of international green building standards
+including passive building design, water-saving features, and intelligent building energy and
+management systems. This will demonstrate best practice in sustainable building construction
+and management and support the PRC in achieving its NDCs by promoting significant (up to 60%)
+energy savings in the building sector compared with conventionally constructed buildings. Many
+existing, older residential buildings in the region are energy-intensive and were built to poor
+insulation standards and need refurbishment to reduce energy losses.9 To ensure a system wide
+approach to reducing emissions in the building sector, a results-based loan (RBL) component (para.
+12) will be included to retrofit old buildings.
+
+11.     Institutional Strengthening. Heilongjiang’s focus on an environment-friendly and
+climate-resilient economy requires comprehensive cross-sector planning, interagency
+coordination and alignment with national priorities and objectives. National objectives devolve to
+the provincial level but need to be implemented at the county and city level. Implementation
+requires developing competent institutions, strategies, and plans. For example, in the transport
+sector, lack of an NMT network plan, which is uncoordinated with other civic infrastructure in
+Suifenhe and Heihe, constrains the decarbonization of the transport sector, and achievement of
+a cleaner and safer urban environment. The project will develop a NMT masterplan for each city,
+identify strategies for implementing the highest priority corridors and projects and provide key
+policies and safety measures. The project will support the development of green port investment
+plans that include replacement of diesel-powered port handling and other equipment with electric
+and non-fossil energy equipment, and introduction of smart port systems for reduction of
+congestion and emissions at port gates.10 Further, interagency coordination between local and
+provincial institutions, which is not in place needs to be established and enhanced. Improved
+coordination across sectors, would enable informed decision-making, and enhance public service
+delivery.
+
+B.      Strategic Context for the Results-Based Loan Component
+
+12.  The PRC’s NDCs include energy saving renovation of existing buildings.11 In July 2020, the
+PRC State Council issued Guiding Opinions on Promoting Renovation of Old Residential
+8  United Nations Environment Programme. 2018. A Guide for Incorporating Buildings Actions in NDCs: Incorporating
+   Fundable Buildings Sector Green House Gas Emission Mitigation Actions in Nationally Determined Contributions.
+   Nairobi.
+9 Q. He, et al. 2020. Retrofitting High-Rise Residential Building in Cold and Severe Cold Zones of China: A
+
+   Deterministic Decision-Making Mechanism. Sustainability 2020, 12 (14): 5831.
+10 Ministry of Transport's 14th Five-Year Plan (2021–2025) sets new priorities for “greening” the shipping industry.
+11 Ministry of Ecology and Environment, People's Republic of China. 2021. China’s Achievements, New Goals and New
+
+   Measures for Nationally Determined Contributions. Beijing.
+4
+
+
+Communities in Towns and Townships,12 recognizing the importance of retrofitting aging residential
+buildings to meet the NDCs. Based on this guidance, in November 2020 the Heilongjiang Provincial
+Government (HPG) issued its Work Plan for Renovation of Old Residential Communities in Towns
+and Townships of Heilongjiang Province,13 requiring municipal governments to develop plans to
+renovate their old residential buildings. HMG developed the Heihe Old Residential Communities
+Renovation Plan (2021–2025) and implemented a pilot in 2020.14 The government program is being
+implemented in a phased manner, and the RBL will support activities within this program from 2022
+to 2025 (footnote 14). The linkages between the broader government program and the RBL program
+are listed in Table 1.
+
+                                              Table 1: Program Scope
+    Item                          Broader Government Program                      Results-Based Lending Program
+    Outcome                  Accessibility and livability of town and      Environmentally sustainable transportation and
+                             township residents and community              urban and regional development enhanced
+                             management system improved
+    Key outputs              (i) 587 old residential buildings             (i) 220 old residential buildings retrofitteda
+                                  retrofitted                              (ii) Improvement of community management
+                             (ii) Improvement of community                      wherever possible
+                                  management wherever possible
+    Activity types           Repairing and painting exterior and           Repairing and painting exterior and interior walls
+                             interior walls with insulation paint to       with insulation paint to prevent heat loss;
+                             prevent heat loss; retrofitting rooftops.     retrofitting rooftops.
+                             Repairing heating and water supply            Waste classification and behavior change
+                             valves and pipes at the checkup wells.        campaigns.
+                             Repairing public assets,b greening            Replacing or repairing indoor and exterior lighting
+                             public areas, constructing parking lots,      systems.
+                             and establishing public security offices,     Repairing public assets,b and increasing carbon
+                             to improve livability and accessibility for   sinks as part of the program design through
+                             residents.                                    greening public areas of the communities,
+                                                                           reducing carbon dioxide emissions and improving
+                                                                           livability.
+    Expenditure size        €77.64 million                                  €43.21 million
+    Main financiers and     Heihe Municipal Government (HMG):              HMG: €24.44 million
+    their respective total  €43.27 million (2021–2025)                     ADB: €18.77 million
+    amounts                 ADB: €18.77 million (2021–2025)
+                            HMG: €15.60 million (2020)
+  Geographic coverage       Heihe municipality                       Heihe municipality
+  Implementation period     2020–2025c                               2022–2025d
+ a For detailed outputs, see Program Results Framework (accessible from the list of linked documents in Appendix 2 of
+
+   the report and recommendation of the President).
+ b Assets include public access roads, heating and water supply valves and pipelines in the checkup wells, septic tanks,
+
+   fitness equipment, bicycle sheds, garbage and recycling bins, and accessible rest areas.
+ c The pilot program was conducted in 2020. The residential renovation plan (2026–2030) was completed in July 2022.
+ d The results-based lending may finance prior results achieved prior to loan effectiveness, but not earlier than 12
+
+   months prior to the signing of the loan agreement.
+ Sources: Asian Development Bank and Heihe Housing and Urban–Rural Development Bureau.
+
+13.     Link to Strategy 2030, country partnership, and government strategies. The project
+and program are aligned with the Strategy 2030 of the Asian Development Bank (ADB)15 and the
+following operational priorities: (i) addressing remaining poverty and reducing inequalities; (ii)
+
+12 State   Council. 2020. Guiding Opinions on Promoting Renovation of Old Residential Communities in Towns and
+   Townships. Beijing.
+13 Heilongjiang Provincial Government. 2020. Work Plan for Renovation of Old Residential Communities in Towns and
+
+   Townships of Heilongjiang Province. Harbin.
+14 Government of Heihe. 2020. Heihe Old Residential Communities Renovation Plan, 2021–2025. Heihe. In 2020, a
+
+   pilot of the program was implemented, demonstrating the capacity of the government to deliver the program.
+15 ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific. Manila.
+                                                                                                                          5
+
+
+accelerating progress in gender equality; (iii) tackling climate change, building climate and disaster
+resilience, and enhancing environmental sustainability; (iv) making cities more livable; (v) promoting
+rural development and food security; (vi) strengthening governance and institutional capacity; and
+(vii) fostering regional cooperation and integration. The project and program are well aligned with
+ADB’s country partnership strategy for the PRC, 2021–2025 strategic priorities 1 and 2,16 supporting
+environmentally sustainable development and climate change adaptation and mitigation. The
+project and program also support the PRC to achieve its objective of carbon peaking before 2030
+and carbon neutrality by 2060, and the HPG’s 14th Five-Year Plan for accelerating green and low-
+carbon development and improving environmental quality and ecosystem quality and stability.17
+
+14.      Lending modality. HPG requested a regular investment loan project combined with an
+RBL program. The combination of the investment loan and RBL will result in a better outcome by
+greening and reducing emissions from new and existing infrastructure. The investment loan will
+focus on efficient and climate-resilient infrastructure, restoring environmentally degraded areas,
+green ports and facilities, and application of international green building standards for new
+buildings (para. 10). This is best suited to an investment loan project approach as the
+implementing agencies lack experience in these innovative approaches. The RBL program would
+complement this by demonstrating an effective model to refurbish existing residential buildings in
+extreme cold zones to improve energy efficiency and reduce GHG emissions. RBL is the most
+suitable modality given the many small and dispersed activities for which a transaction or input-
+based approach as under investment lending would not be efficient or as effective in terms of
+sustainable program results. ADB’s support for the program and the strong government
+ownership will enhance the implementation of the medium- and long-term government plans. It
+will demonstrate best practices for replication in similar programs in other extreme cold zones in
+the PRC and other ADB developing member countries through ADB’s planned knowledge sharing
+activities. 18 ADB’s support will enable the program to be expanded, thereby accelerating the
+overall climate mitigation and urban environmental improvement benefits. The individual contracts
+for building renovation will be small in value and are appropriate for the RBL modality. Further,
+the RBL modality will have lower transaction costs for ADB and the government.
+
+15.      Lessons. The project and program incorporate lessons from other ADB-financed projects:
+(i) integrated, multisector solutions for climate change adaptation and disaster resilience are
+important to improve livability of urban areas and reduce GHG emissions; and (ii) the use of
+technology, such as pipeline leak detection system, require parallel institutional strengthening and
+improved governance to improve outcomes, such as water resource management.19 The project
+and program will draw on successful innovations from ADB-financed projects elsewhere in the PRC,
+including incorporating the international road assessment program (iRAP) safety assessments to
+improve safety for all road user types, 20 and the use of sponge city 21 infrastructure for flood
+mitigation, water infiltration, and enhanced recreation functions. 22 Heilongjiang government
+
+
+16 ADB. 2021. Country Partnership Strategy: People’s Republic of China, 2021–2025—Toward High-Quality, Green
+
+   Development. Manila.
+17 HPG.   2021. 14th Five-Year Plan for Accelerating Green and Low-Carbon Development, and Improving
+   Environmental Quality and Ecosystem Quality and Stability. Harbin.
+18 Stakeholder Communication Strategy (accessible from the list of linked documents in Appendix 2).
+19 Independent Evaluation Department. 2021. Sector-Wide Evaluation of ADB’s Water Policy and Program (2011–
+
+   2020). Manila: ADB.
+20 The iRAP methodology is a global risk mapping and star rating standard for infrastructure safety. iRAP methodologies
+
+   and software are published in the public domain for free use by partners globally.
+21 A sponge city is to design green infrastructures for the infiltration, absorption, storage and purification of rainwater.
+22 ADB. PRC: Heilongjiang Green Urban and Economic Revitalization Project.; and ADB. PRC: Shaanxi Mountain Road
+
+   Safety Demonstration Project.
+6
+
+
+coordinates assistance from development partners, including ADB, the World Bank and others and
+captures lessons for multisector green and sustainable development.23
+
+C.        Project and Program Description
+
+16.     The project and program are aligned with the following impact: environmental
+improvement in Heilongjiang achieved (footnote 17). The project and program will have the
+following outcome: environmentally sustainable transportation and urban and regional
+development enhanced. The project and program will have five outputs. Detailed descriptions are
+included in the design and monitoring framework (Appendix 1), project administration manual (PAM),
+and program implementation document (PID).24
+
+17.      Output 1: Infrastructure and services to enhance climate resilience and livability of
+Heihe and Suifenhe urban and rural areas implemented. This output involves improving the climate
+resilience and sustainability of Heihe and Suifenhe through (i) climate-resilient urban infrastructure,
+separating stormwater and sewage pipelines to improve capacity and reduce flood risk, and
+incorporating nature-based solutions25 to reduce and improve the quality of stormwater runoff; (ii) safe,
+sustainable mobility improvement, including a pilot green road, and incorporating road safety facilities,
+footpaths and cycleways; 26 and (iii) improvements to tourism sites and infrastructure. 27 The
+implementing agencies will develop a NMT plan in the two cities to provide key policies and safety
+measures to be implemented to facilitate and prioritize active mobility.
+
+18.      Output 2: Sustainable and efficient logistics facilities and technologies
+demonstrated. This output will focus on improving the connectivity between key logistics and
+trade facilities to operate in a more efficient and environmentally sustainable manner to reduce
+waterway pollution and improve urban livability and incorporate green building principles in logistic
+facilities. This output includes (i) construction of a green river port with associated infrastructure;
+(ii) cross-border e-commerce comprehensive service platforms to support safe and low-carbon
+supply chain management of food, wood and timber, and other products; (iii) an entry animal
+quarantine inspection facility; and (iv) build institutional capacity by developing investment plans
+to phase out diesel-powered equipment in ports and terminals.
+
+19.     Output 3: Aging residential buildings and public facilities refurbished. This output
+will be delivered through an RBL to support the Heihe Old Residential Communities Renovation
+Plan (2021–2025) (footnote 14). The program will (i) refurbish 220 old residential buildings in
+Heihe by improving thermal insulation to reduce energy loss, reducing waste, increasing green
+space, and upgrading drainage and sanitation facilities to improve climate mitigation, climate
+resilience, and livability; and (ii) include behavior change communication and awareness
+campaigns to encourage improvements in energy efficiency within private residences. The
+program action plan includes capacity development activities. 28 The disbursement-linked
+indicators (DLIs) and ADB’s financing allocation is in Appendix 3.
+
+
+23 Sector Assessment (accessible from the list of linked documents in Appendix 2).
+24 PAM and PID (accessible from the list of linked documents in Appendix 2).
+25 Nature-based Solutions are actions to protect, sustainably manage, and restore natural and modified ecosystems
+
+    that address societal challenges effectively and adaptively, simultaneously benefiting people and nature.
+26 The traditional road system prioritizes private cars at the expense of safe sidewalks and bike facilities. Increased use
+
+   of bicycles and walking are two of the most affordable and practical ways to reduce carbon dioxide emissions and
+   boost access to economic opportunity for the poor. Institute for Transportation and Development Policy.
+27 Tourism improvement includes four subcomponents: (i) Heihe Aihui Tourism belt, (ii) Heihe Huomo Cultural Centre,
+
+   (iii) Suifenhe tourism facilities, and (iv) Suifenhe historical cultural building.
+28 Program Action Plan (accessible from the list of linked documents in Appendix 2).
+                                                                                                                    7
+
+
+20.      Output 4: Environmentally sustainable infrastructure and natural resources
+management in Heihe and Suifenhe cities improved. This output includes five subcomponents:
+(i) restoration of wetlands in Heihe and Suifenhe, (ii) capacity addition and rehabilitation of Suifenhe
+wastewater treatment plant, (iii) restoration of Beida river, (iv) standardized workshop construction
+following green building principles in Suifenhe, and (v) FTZ development following green building
+principles in Heihe. The standardized workshop and FTZ buildings will incorporate international green
+building standards (para. 10) and enable the relocation of industry away from riverbanks to purpose-
+built facilities with improved connectivity, reducing air, water, and soil pollution.
+
+21.        Output 5: Knowledge of and institutional capacity on green transformation
+enhanced. The output will provide capacity strengthening and institutional development support,
+including (i) developing Smart City Phase 2 modules to improve institutional management;
+(ii) piloting ADB’s green procurement approach; (iii) strengthening capacity and institutions in green
+port and green building management; (iv) preparing a comprehensive NMT plan for Heihe and
+Suifenhe cities; (v) strengthening capacity to support a safe and sustainable mobility improvement;
+(vi) developing a Citywide Inclusive Sanitation (CWIS)29 strategy to improve sanitation services in Aihui
+district in Heihe;30 and (vii) providing behavior change, communications, and knowledge sharing
+support.31 The scope of Smart City Phase 2 is detailed in the PAM.
+
+D.       Value Added by ADB
+
+22.     Innovation and value addition. ADB drives development impact by taking a holistic
+system-wide approach, improving institutional strengthening, green technology, and innovation.
+ADB’s intervention will also support for interagency cooperation, aligning environment and climate
+change policies at the national, provincial and city levels and demonstrating their implementation.
+The project has incorporated innovative pilot initiatives including (i) improved NMT planning and
+infrastructure to promote healthier lifestyles, and reduced air pollution and carbon emissions; (ii)
+a pilot green road incorporating green design and construction principles; (iii) CWIS strategy to
+provide improved sanitation management; (iv) a pilot of green procurement principles and
+development of a green procurement plan; and (v) international green building certification of
+industrial buildings.
+
+23.     ADB added value to the RBL program through improved design, incorporating nature-
+based solutions, people-centered design principles, 32 behavior change and awareness
+campaigns, and related capacity building activities. Heihe Housing and Urban–Rural Development
+Bureau (HURDB) improved the monitoring and evaluation system under the RBL program to include
+information disclosure and pre- and post-construction surveys with at least 60% female
+participation. 33 This is the first project combining an investment loan and an RBL and will
+demonstrate how such dual-modality projects could be tailored to complex development
+challenges in other sectors and countries. The project and program have potential for replication
+in other extreme cold zones in the PRC and other ADB developing member countries, including
+the central Asia Regional Economic Cooperation region. Knowledge platforms, including the
+
+
+29 Promotes a range of solutions (onsite and centralized) to ensure everyone has access to safely managed sanitation.
+30 ADB. 2021. What Is Citywide Inclusive Sanitation and Why Is It Needed? Manila. Citywide inclusive sanitation is
+
+   promoted through ADB technical assistance (ADB. Regional: Accelerating Sanitation for All in Asia and the Pacific),
+   which has supported development of the CWIS component.
+31 Knowledge sharing will include the development of knowledge products and videos showcasing innovative solutions
+
+   and green transformation implemented through the project.
+32 People-centered design involves active participation of intended users in the design process, from idea generation
+
+   to feedback on designs to ensure they are responsive to the specific needs of different user groups.
+33 Program Monitoring and Evaluation (accessible from the list of linked documents in Appendix 2).
+8
+
+
+Regional Knowledge Sharing Initiative (launched by ADB and the Government of the PRC) 34 and
+the Natural Capital Lab (currently under development)35 and other international fora like the Asia
+Pacific Clean Energy Forum and the Asia-Pacific Forum on Green and Low-Carbon Development,
+will be used to disseminate the experience gained from the project and program.
+
+E.       Summary Cost Estimates and Financing Plan
+
+24.     The project and program are estimated to cost €484.35 million. The government has
+requested (i) a regular loan of €168.62 ($173.67 million equivalent) from ADB’s ordinary capital
+resources to help finance the project, and (ii) a regular loan of €18.77 million ($19.33 million
+equivalent) from ADB’s ordinary capital resources to help finance the program.36 The loans will each
+have a 25-year term, including a grace period of 6 years; an annual interest rate determined in
+accordance with ADB’s Flexible Loan Product; a commitment charge of 0.15% per year; and such
+other terms and conditions set forth in the loan, project, and program agreements. Based on the
+straight-line method, the average maturity of each loan is 15.75 years, and the maturity premium
+payable to ADB is 0.30% per year. The interest charges will not be capitalized. The summary cost
+estimates are in Table 2.
+
+                                     Table 2: Summary Cost Estimates
+Item                                                                                            Amount (€ million)a
+A.        Base Costb
+          1. Infrastructure and services to enhance climate resilience and livability of                63.80
+               Heihe and Suifenhe urban and rural areas implemented
+          2. Sustainable and efficient logistics facilities and technologies demonstrated               90.45
+          3. Aging residential buildings and public facilities refurbished c                            37.57
+          4. Environmentally sustainable infrastructure and natural resources                          180.95
+               management in Heihe and Suifenhe cities improved
+          5. Knowledge of and institutional capacity on green transformation enhanced                   52.45
+                    Subtotal (A)                                                                       425.22
+ B.       Contingenciesd                                                                                48.44
+ C.       Financial Charges During Implementatione                                                      10.69
+                             Total (A+B+C)                                                             484.35
+a Includes taxes and duties of €33.64 million. Such amount does not represent an excessive share of the project cost.
+
+  The counterpart fund will finance taxes and duties of €17.62 million through cash contribution. The balance of
+  €16.02 million will be paid from the Asian Development Bank (ADB) loan.
+b In 2021 prices.
+c Item 3 expenditure relates to the results-based lending. Refer to the Program Expenditure Framework in the Program
+
+  Implementation Document (accessible from the list of linked documents in Appendix 2).
+d Physical contingencies computed at 5% of base costs. Price contingencies on foreign currency costs computed at
+
+  1.60% for 2021, 1.70% for 2022 and 2023, and 1.8% thereafter. Price contingencies on local currency costs
+  computed at 1.00% for 2021, 2.10 % for 2022 and 2.00% thereafter.
+e Includes interest and commitment charges. Interest during construction is computed using 10 August 2022, floating rate
+
+  of 0.729% plus an ADB spread of 0.5% and a maturity premium of 0.3%. The commitment fee of 0.15% is levied against
+  the undisbursed amount of the loan each year.
+Source: ADB estimates.
+
+25.     The summary financing plan is in Table 3.37 ADB will finance (inclusive of taxes and duties)
+works, equipment, and consulting services. The ADB loans will cover 38.69% of the total project
+and program cost. The government will provide counterpart funds to finance designs,
+procurement activities, civil works, project and program management, land acquisition and
+resettlement, environmental protection, interest and commitment charges, taxes and duties, and
+34 ADB. ADB–PRC Regional Knowledge Sharing Initiative.
+35 ADB. 2020. Building Partnerships, Sharing Knowledge, and Leveraging Finance for Natural Capital Lab in Asia
+
+    Pacific Region—Ahmed Saeed. Speech. 6 November.
+36 The exchange rate as of 11 August 2022: €1.00 = CNY6.9248; €1 = $1.0299.
+37 Refer to the PID for the DLIs, verification protocols, and disbursement schedule for the RBL component (footnote 24).
+                                                                                                             9
+
+
+contingencies. The government will ensure that the counterpart funds for the project and program
+are provided in a timely manner. The detailed cost estimates by expenditure category and by
+financiers are included in the PAM and PID.
+
+                                  Table 3: Summary Financing Plan
+                                                                                Amount        Share of Total
+ Source                                                                        (€ million)         (%)
+ Asian Development Bank
+  Ordinary capital resources (regular loan)                                      187.39            38.69
+  Investment Loan                                                                168.62            34.81
+  Results-based Lendinga                                                          18.77             3.88
+ Counterpart Funds                                                               296.95            61.31
+                                   Totalb                                        484.35           100.00
+a Detailed information on results-based lending program financing can be found in the Program Implementation
+
+  Document (accessible from the list of linked documents in Appendix 2 of the report and recommendation of the
+  President).
+b Numbers may not sum precisely because of rounding.
+
+Source: Asian Development Bank estimates.
+
+26.     Climate mitigation is estimated to cost €64.78 million and climate adaptation is estimated
+to cost €43.79 million. ADB will finance 39.1% of mitigation and adaptation costs. Climate
+adaptation activities include climate proofing and flood protection for water-related infrastructure,
+Heihe port, and residential and commercial buildings; sponge city infrastructure (wetland and river
+restoration, rain gardens and permeable pavement); climate-related aspects of smart city systems;
+and capacity building on climate adaptation. Climate mitigation activities include building
+refurbishment, green road pilot, energy-efficient equipment, NMT, and urban green space.
+
+F.      Implementation Arrangements
+
+27.     The HPG, acting through its Development and Reform Commission, will be the executing
+agency for the project and program. The executing agency has established the project
+management office (PMO). For the investment loan, the HMG through Heihe Transboundary
+Transportation Infrastructure Support Center and the SCG through Suifenhe Development and
+Reform Commission will be the implementing agencies. Each implementing agency has
+established a sub-PMO and will designate adequate staff to ensure appropriate and efficient
+project and program implementation. For the RBL program, the Heihe HURDB will be the
+implementing agency. The Heihe sub-PMO, and Heihe HURDB will be responsible for day-to-day
+program management. The provincial PMO will recruit the project management consultants to
+assist with project management, reporting, safeguards monitoring, and implementation of the
+social development and gender action plan (SDGAP), and the communication strategy.
+Implementation arrangements are summarized in Table 4. The project implementation period is
+6 years for the investment project loan, and 4 years for the RBL program.
+
+                               Table 4: Implementation Arrangements
+ Aspects                       Arrangements
+ Implementation perioda        30 September 2022–30 September 2028
+ Estimated completion date     30 September 2028
+ Estimated loan closing date   31 March 2029
+ Management
+ (i) Executing agency          Heilongjiang Provincial Government through its Development and Reform
+                               Commission
+ (ii) Key implementing         Heihe Municipal Government through Heihe Transboundary Transportation
+ agencies                      Infrastructure Support Center and Heihe Housing and Urban–Rural Development
+                               Bureau (for results-based lending program)
+10
+
+
+ Aspects                          Arrangements
+                                  Suifenhe City Government through Suifenhe Development and Reform
+                                  Commission
+ (iii) Provincial Project         Heilongjiang Provincial PMO, Harbin, three staff
+ Management Office (PMO)
+ (iv) Heihe Sub-PMO               Heihe PMO, Heihe, 31 staff
+ (v) Suifenhe Sub-PMO             Suifenhe PMO, Suifenhe, 10 staff
+ Procurement                      Open competitive bidding       3 contracts                         €4,765,481
+                                  (internationally advertised)
+                                  Open competitive bidding       16 contracts                        €172,431,626
+                                  (nationally advertised)
+                                  Least cost selection,          9 contracts                         €3,306,955
+                                  request for quotations or
+                                  single source selection
+                                  Nonbank procedure              17 contracts                        €158,885,368
+ Consulting services              Firm Quality- and Cost-        3 contracts                         €6,330,750
+                                  based Selection 90:10
+                                  Firm Consultants’              4 contracts                         €1,003,017
+                                  Qualifications Selection
+                                  Individual (Individual         6 contracts                         €454,416
+                                  Consultant Selection)
+ Retroactive financing and        Advance contracting may apply to works, goods, and consulting services.
+ advance contractingb             Retroactive financing is likely to be applied to three consulting service packages
+                                  and three works packages. Retroactive financing will apply for up to 20% of the
+                                  loan amount for expenditures incurred prior to loan effectiveness, but not earlier
+                                  than 12 months prior to the signing of the loan agreement.
+ Disbursement                     Disbursement of the loan proceeds will follow Asian Development Bank’s (ADB)
+                                  Loan Disbursement Handbook (2017, as amended from time to time) and detailed
+                                  arrangements agreed between the government and ADB.
+a The implementation period starts from the expected month of Asian Development Bank (ADB) loan approval.
+b This refers to advance contracting and retroactive financing under the project loan.
+
+Source: ADB estimates.
+
+28.     Disbursement arrangements. Disbursement of the loan proceeds will follow ADB’s Loan
+Disbursement Handbook (2017, as amended from time to time) and detailed arrangements
+agreed between the government and ADB. For the RBL program, ADB disbursement will follow
+the achievement and verification of the agreed DLIs specified in the verification protocols. Verification
+will be conducted by a third-party entity or expert. Advance financing and financing for prior results
+will be available within the RBL policy limits.38 When the borrower submits a withdrawal application
+for the achieved DLIs, outstanding advances must be liquidated before disbursements are made.39
+Detailed implementing arrangements, disbursement schedule and amounts, verification protocols and
+advanced financing are in the PID (footnote 24).
+
+                                            III.     DUE DILIGENCE
+
+A.       Technical
+
+29.   The project and program are technically feasible and comply with the PRC’s guidelines
+and regulations and international best practices. The design incorporates appropriate climate
+change adaptation and resilience measures for all activities, and detailed hydrological modeling
+
+38 Up to 20% of the loan can be disbursed for agreed results achieved prior to the effective date but no earlier than 12
+
+   months before the signing of the loan agreement (financing for prior results) and up to 25% can be disbursed for
+   advance financing. The aggregate of the outstanding advance financing amount and the amount withdrawn for
+   financing for prior results should not exceed 30% of the total RBL loan amount.
+39 If the amount of the achieved DLIs submitted in the withdrawal application exceeds the amount of the outstanding
+
+   advance, the excess will be treated as reimbursement to the government. The borrower must refund unliquidated
+   advances within 2 months after the winding-up period.
+                                                                                                                  11
+
+
+will be undertaken in advance of detailed engineering design to inform climate-resilient design of
+water-related components.40 Green building solutions were designed according to local conditions,
+and will improve energy efficiency, air quality, and living conditions for residents. Capacity
+development will support the successful implementation and sustainable operation of the project
+and program.
+
+B.       Economic and Financial Viability
+
+30.       An economic analysis was prepared following ADB guidelines. Benefits include (i) energy
+conservation and pollutant emission reduction through renovation, (ii) residents’ non-use values
+accrue and revealed preference for recreational and tourism facilities, (iii) disability adjusted life
+years saved through sewerage service expansion, (iv) vehicle operating costs and value of time
+saved through improved public transport and supporting transport in the new port, (v) land value
+savings in FTZ and standard workshop, and (vi) storage cost savings through capacity expansion
+in logistic facilities. The economic internal rate of return for the project and program were
+calculated at 15.9%, which surpasses the 9.0% economic opportunity cost of capital. Economic
+viabilities were confirmed under various sensitivity scenarios. 41 The economic internal rate of
+return for the five outputs is 15.4% to 17.2%. Additional unquantified benefits include regional
+public goods (e.g., improved water quality in river basins, and biodiversity through wetland
+restoration). Improvements to logistics facilities and the port will enhance trade efficiency.
+
+31.       A financial analysis was conducted to assess the financial viability of revenue generating
+subprojects and financial sustainability of nonrevenue generating subprojects. Two revenue
+generating subprojects—the standardized workshop, and new port—are financially viable, with a
+financial internal rate of return (FIRR) of 6.32% and 6.31% that exceeds their weighted average cost
+of capital of 3.96% and 2.27%. Sensitivity analysis indicates that the subprojects are financially viable
+under the following scenarios: 10% capital cost increase,10% operating cost increase, 10% revenue
+decrease, and 1-year benefit lag. The urban wastewater treatment subproject has a negative FIRR
+of -3.76% and the FTZ development subproject has FIRR of 4.83%, which is less than its weighted
+average cost of capital of 6.02%, indicating that two revenue generating subprojects cannot recover
+their full costs, but the revenue generated fully covers the operation and maintenance (O&M) costs.
+Counterpart funds will be provided by Heihe Qiaotou District Construction and Development Co.,
+Ltd. and Heilongjiang Suidong Pilot Zone Development and Operation (Group) Co., Ltd. The
+companies have the capacity to repay debt service for the whole project and to cover O&M costs
+of nonrevenue generating components during the operation period. While the companies lack the
+capacity to provide sufficient counterpart funds during the construction period, Heihe and
+Suifenhe governments have committed to providing the remaining funds.42
+
+C.       Sustainability
+
+32.    The HMG and SCG have committed to providing sufficient funds and supporting all
+components during implementation and O&M phases to ensure sustainability of all project and
+program outputs and outcomes. The financial sustainability analysis concludes that with the
+support of HMG and SCG there are sufficient resources to cover the incremental O&M recurrent
+costs of the project and program. Sustainability improvements include: (i) capacity building
+
+40 Climate Change Assessment and Climate Risk Assessment (accessible from the list of linked documents in Appendix
+
+   2). Advanced contracting and retroactive financing will be used to conduct detailed hydraulic and hydrological
+   modeling in advance of detailed design to inform climate resilience in detailed engineering design of water-related
+   project components.
+41 Economic Analysis (accessible from the list of linked documents in Appendix 2).
+42 Financial Analysis (accessible from the list of linked documents in Appendix 2).
+12
+
+
+activities to equip the relevant entities and staff with the necessary skills and knowledge;
+(ii) climate-friendly solutions such as energy saving devices and adaptation measures into project
+infrastructure, systems, and facilities’ design; and (iii) institutional strengthening focused on
+improving asset management and sustainability. A green procurement action plan, including
+contract-specific sustainable procurement considerations and a training program, will be developed
+to improve sustainability of project and program facilities.
+
+D.      Governance
+
+33.     Procurement. The project and program will achieve the best value for money through
+(i) adopting the facilities of the existing e-procurement platform to lower transaction costs,
+enhance process efficiency and transparency, and mitigate the impact of COVID-19 on
+procurement; (ii) including a green procurement specialist to support the transition of regional
+procurement practice toward green procurement; (iii) attracting well-qualified contractors to
+deliver quality civil works through large contracts with open competitive bidding; (iv) adopting
+merit-point based evaluation criteria for smart city and e-commerce platform related packages;
+(v) adopting request for quotation for standardized non-consulting services; (vi) adopting the
+provisions related to abnormally low bids and standstill period for civil works; and (vii) requiring
+contract management plan to be developed before contract signing to maximize value for money.
+These resulted from a strategic procurement planning exercise that considered the strategic
+project priorities, risks and opportunities, operating conditions of the borrowers, market conditions,
+and adoption of green procurement. The overall procurement risk is medium. Measures to
+mitigate the risks are in listed in the risk assessment and risk management plan.
+
+34.       Financial management. The financial management capacity of HPG as the executing
+agency, HMG and SCG as the implementing agencies, and Heihe Qiaotou District Construction and
+Development Co., Ltd. and Heilongjiang Suidong Pilot Zone Development and Operation (Group) Co.,
+Ltd. as project implementing units (PIUs) was assessed following relevant ADB guidelines. The pre-
+mitigation financial management risk rating is moderate. The assessment showed that the executing
+and implementing agencies, and PIUs have satisfactory financial management capability to (i) record
+required financial transactions and balances, (ii) provide regular and reliable financial statements, and
+(iii) safeguard assets. It identified the lack of experience of the implementing agencies and PIUs in
+ADB disbursement and financial management procedures as the key financial management risk.
+Mitigating measures have been designed and comprise (i) training on disbursement procedures and
+financial management requirements, (ii) recruitment of experienced staff, and (iii) development of
+financial management manuals. Further details are in the PAM (footnote 24).
+
+35.      Results-based lending component. The program will use the PRC’s fiduciary systems
+for financial management, procurement, and anticorruption. Heihe HURDB is a government
+agency under HMG in charge of urban and rural development. It uses HMG’s public financial
+management system. The program fiduciary systems assessment confirmed that Heihe HURDB
+has an adequate and strong financial management system, and staff can perform budgeting,
+payment and cash management, accounting, and financial reporting tasks. Guidance and training
+are needed on the reporting and monitoring mechanism, especially the DLIs, as this will be the
+first experience for Heihe HURDB with an RBL.
+
+36.    All expenditures of Heihe HURDB shall be budgeted in advance and submitted to HMG for
+endorsement and approval. Any changes in spending exceeding the budget shall be subject to prior
+approval. The regulation also requires administrative authorities, including Heihe HURDB, to
+prepare annual accounting statements to reflect the status of actual budget implementation and
+                                                                                                    13
+
+
+summarize their financial status.43 The final annual accounting statements are standardized and
+subject to external audit by Heihe Audit Bureau, simplifying identification of irregularities. The
+institutional arrangement of budgeting and final accounting has resulted in closed loop fund
+management. Heihe HURDB receives all revenues through a centralized treasury system to its
+bank accounts, and all payments made are strictly supervised by the Heihe Finance Bureau
+following the rules and regulations of the public financial management. As per the Tender Law and
+the Government Procurement Law all procurement for construction projects shall be carried out
+through competitive bidding procedures. Compulsory acceptance inspections by bid sections and
+administrative audits after the completion of a construction project strengthen the checks and
+controls. The money laundering or corruption risk associated with Heihe HURDB is very low.
+
+37.     ADB’s Anticorruption Policy (1998, as amended to date) and the Guidelines to Prevent or
+Mitigate Fraud, Corruption, and Other Prohibited Activities in Results-Based Lending for Programs
+were explained to and discussed with the executing agency and the implementing agencies. The
+specific policy requirements and supplementary measures are described in the PAM and PID.
+
+E.     Poverty, Social, and Gender
+
+38.      The project and program are classified general intervention for poverty reduction.
+A poverty and social analysis was conducted based on extensive stakeholder consultations and
+socioeconomic surveys. A total of 260,027 residents in the project and program area, including
+131,122 women (50.41%) and 9,372 poor or low-income people (3.6%), will directly benefit from
+the project and program through improved trade and logistics facilities, upgraded public
+infrastructure, and better living environment. It will create 1,216 skilled and 2,036 unskilled jobs
+during construction, and 272 skilled and 1,070 unskilled jobs during operation stage. The SDGAP
+incorporated specific targets for poor and low-income people.
+
+39.    Gender. The project and program are categorized effective gender mainstreaming
+according to the Guidelines for Gender Mainstreaming Categories of ADB Projects. Women are
+expected to benefit from increased employment and income opportunities, improved living
+environment, and better quality of life. A SDGAP has been prepared covering the following key
+measures and targets for women: (i) participating and providing leadership in the green and
+community-based tourism activities; (ii) supporting women’s entrepreneurship and employment
+in small and medium-sized enterprises for green and sustainable development; (iii) providing
+green and skilled jobs for women during construction and operation phases; (iv) participating in
+community engagement activities during design and O&M stages; and (v) engaging women and
+vulnerable households in awareness campaigns and knowledge dissemination events on
+sustainable consumption. Key gender targets have been included in the DLIs, program results
+framework, and design and monitoring framework.
+
+F.     Safeguards
+
+40.   In compliance with ADB’s Safeguard Policy Statement (2009), the project and program’s
+safeguard categories are as follows.44
+
+41.    Environment (category A). The investment loan project was classified as environment
+category A because of the potential impacts on water quality of Amur River caused by Heihe port
+component, and an environmental impact assessment was prepared. Initial environmental
+
+43 Government  of the PRC, Ministry of Finance. 2013. Final Accounting Management System for Government
+   Departments (No. 209). Beijing.
+44 ADB. Safeguard Categories.
+14
+
+
+examinations (IEEs) for the other components were prepared following the Safeguard Policy
+Statement and disclosed on the ADB website on 27 January 2022. Potential impacts during
+construction, including noise and dust emissions, construction waste and wastewater, and risks to
+community and occupational health and safety are mostly temporary, and can be mitigated by
+implementing the environmental management plans (EMPs). Potential impacts during operation
+include waste and wastewater discharge, increased noise and dust emissions, impacts on the
+aquatic ecosystem, and risks to community and occupational health and safety, which can also
+be mitigated by implementing the EMPs. Sufficient budgets have been allocated in the EMPs for
+proper implementation of mitigation and monitoring measures. Environmental and social safeguard
+units will be established under the two sub-PMOs. Provincial PMO will hire independent loan
+implementation consultants to support the implementation of the EMPs. The environmental impact
+assessment, IEEs, and EMPs will be updated during detailed design. Potential climate risks were
+identified as high based on the climate risk assessment. These findings including recommended
+mitigation and adaptation measures will be incorporated in the project and program detailed design.
+
+42.    The implementing agencies carried out meaningful consultations with the public. Potential
+environmental complaints will be handled following the established grievance redress mechanism.
+The implementing agencies will submit environmental monitoring reports semiannually during
+construction and annually during operations until the approval of the completion report.
+
+43.     Involuntary resettlement (category B). The project and program will permanently
+occupy 2,560.37 mu of land, 45 including 388.02 mu of collective land that will be acquired,
+affecting 13 households and 57 persons; 1,319.13 mu of previously acquired land; and 853.22
+mu of state-owned land that will be allocated freely by the government. It will not involve any
+physical house relocation and occupy 725.07 mu of land temporarily during construction. Two
+resettlement plans were prepared in line with the Safeguard Policy Statement and the PRC’s laws
+and regulations. Due diligence of past land acquisition and existing facilities confirmed that there
+are no outstanding or legacy issues of land acquisition and resettlement, except for the Suifenhe
+wastewater treatment plant.46 Surveys and consultations were conducted with affected persons
+during the preparation of the resettlement plans and they will also be consulted during updating
+and implementation of the plans. A grievance redress mechanism was established. Each PMO has
+designated resettlement staff, and implementation consultants will provide training and support. The
+provincial PMO will engage an external agency to monitor and evaluate resettlement plans
+implementation and corrective actions and submit semiannual reports to ADB.
+
+44.     Indigenous peoples (category B). The Suifenhe subproject will not involve any ethnic
+minority concentrated villages or communities. Heihe subproject will support infrastructure
+improvement and tourism development in 12 ethnic minority concentrated villages. There are
+3,015 ethnic minority people, mainly the Manchun, Daur, Evenk, and Oroqen people, accounting
+for 49.13% of the total population in these villages. Ethnic minority villages and groups will benefit
+from training and capacity building, more jobs and income-generation opportunities, tourism, an
+improved environment, and better living conditions. Meaningful consultations were held with the
+12 ethnic minority villages. Their needs, concerns and expectations have been integrated in the
+project design and the ethnic minority development plan prepared by Heihe sub-PMO, which will
+ensure that ethnic minorities benefit equitably and in a culturally appropriate manner and potential
+negative impacts can be avoided and mitigated. Broad community support from two ethnic
+minority villages has been obtained for the tourism related development activities.
+
+
+45 Chinese unit of measurement, 1 mu = 666.67 square meters.
+46 There are 31 households affected by land acquisition who have yet to receive their compensation and endowment
+
+  insurance. The PMO has committed to time-bound corrective actions as specified in the due diligence reports.
+                                                                                                             15
+
+
+45.     Results-based lending. The program will not involve activities classified as category A
+for environment and involuntary resettlement, and category A and B for indigenous peoples. A
+program safeguard system assessment, including a detailed safeguards action and an EMP,47
+confirms that the program is likely to pose only low-to-moderate environmental and social risks,
+and that the Heihe sub-PMO and the implementing agency have adequate capacity for managing
+environmental and social risks. Potential environmental and social impacts can be effectively
+mitigated by following the EMP and the resettlement plan. The Heihe PMO and implementing
+agency are committed to implementing the actions in the Program Action Plan (footnote 28).
+
+G.      Summary of Risk Assessment and Risk Management Plan
+
+46.     The overall risk assessment for the proposed project and program is moderate. The
+financial sustainability of some subprojects was assessed as high risk; however, this risk has
+been mitigated by commitment letters from the government to ensure financial sustainability of all
+subprojects. Project and program risks and mitigating measures are described in detail in the risk
+assessment and risk management plan.48
+
+                               IV.     ASSURANCES AND CONDITIONS
+
+47.     The government and the executing agency have assured ADB that implementation of the
+project and program shall conform to all applicable ADB requirements, including those concerning
+anticorruption measures, safeguards, gender, procurement, consulting services, financial
+management, and disbursement as described in detail in the PAM and PID, and loan documents;
+and agreed with ADB on certain covenants for the project and program, which are set forth in the
+loan, and project and program agreements.
+
+                                       V.       RECOMMENDATION
+
+48.    I am satisfied that the proposed loans would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve:
+
+        (i)    the project loan of €168,623,833 to the People’s Republic of China for the Heilongjiang
+               Green Transformation Demonstration Project and Program from ADB’s ordinary
+               capital resources, in regular terms, with interest to be determined in accordance with
+               ADB’s Flexible Loan Product; for a term of 25 years, including a grace period of 6
+               years; and such other terms and conditions as are substantially in accordance with
+               those set forth in the draft loan and project agreement presented to the Board; and
+        (ii)   the results-based loan of €18,772,991 to the People’s Republic of China for the
+               Heilongjiang Green Transformation Demonstration Project and Program from ADB’s
+               ordinary capital resources, in regular terms, with interest to be determined in
+               accordance with ADB’s Flexible Loan Product; for a term of 25 years, including a grace
+               period of 6 years; and such other terms and conditions as are substantially in
+               accordance with those set forth in the draft loan and program agreement presented to
+               the Board.
+
+                                                                             Masatsugu Asakawa
+                                                                             President
+31 August 2022
+
+47 A consolidated IEE for all environment category B components in Heihe was prepared, which includes a separate
+
+  EMP for the RBL component.
+48 Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+16      Appendix 1
+
+
+
+                             DESIGN AND MONITORING FRAMEWORK
+
+Impact the Project is Aligned with
+Environmental improvement in Heilongjiang achieved (PRC 14th Five-Year Plan)a
+                                                                Data Sources and                   Risks and
+Results Chain                Performance Indicators           Reporting Mechanisms           Critical Assumptions
+Outcome                   By 2029:
+Environmentally           a. 62,400 tons of carbon           a. Annual report by the         R: Change in
+sustainable               dioxide emissions avoided per      implementing agencies           government policy that
+transportation and        year (2020 baseline: 0) (OP                                        leads to reduced
+urban and regional        3.1)                                                               government subsidy
+development enhanced
+                          b. Domestic solid waste            b. Semiannual progress
+                          reduction of 20% achieved from     report of the program and
+                          12,000 households in 49            RBL verification
+                          communities by 2025 (2020          consultant’s DLI verification
+                          baseline: 2.8 kilograms/day/       report
+                          household)
+                          c. Cargo transported across        c. Heihe Port Authority’s       R: Trade demand
+                          borders through Heihe Port         Annual Report                   growth slows down
+                          increased by 30% (2019                                             because of
+                          baseline: 680,000 tons)                                            unexpected global,
+                          (OP7.1)                                                            national, or local
+                                                                                             economic situation
+Outputs
+1. Infrastructure and     By 2028:                           1a. Safe, sustainable           R: Low economic
+services to enhance       1a. At least 75% of the            mobility improvement            development and
+climate resilience and    constructed or upgraded roads      consultants’ post-              depopulation in the
+livability of Heihe and   incorporate safety facilities to   construction survey and         project area
+Suifenhe urban and        achieve 3 star or better iRAP      project completion report
+rural areas               safety rating (2021 baseline: 0)
+implemented
+                          1b. Huanghe road constructed       1b.–1d. Annual project
+                          as a green road pilot,             monitoring report of PMO
+                          incorporating green design
+                          features such as recycled
+                          pavement materials (2021
+                          baseline: NA) (OP4.3.1)
+                          1c. At least 20 km of new NMT
+                          network constructed (2021
+                          baseline: 0 km) (OP4.1.2)
+                          1d. At least 30 km of urban
+                          stormwater and sewage
+                          pipelines segregated (2021
+                          baseline: 0 km) (OP4.1.2)
+                          1e. At least 400 residents (200    1e. Inclusive development
+                          in Heihe and 200 in Suifenhe)      technical support
+                          participate in knowledge and       consultant’s report; post-
+                          skills training on sustainable     training survey of workshop
+                          tourism and green                  participants
+                          development, among whom
+                          50% are women and 10% from
+                          vulnerable groups (2021
+                          baseline: 0) (OP1.1.1; OP2.3.1)
+                                                                                                  Appendix 1        17
+
+
+                                                                  Data Sources and                   Risks and
+Results Chain                Performance Indicators             Reporting Mechanisms           Critical Assumptions
+2. Sustainable and        By 2028:
+efficient logistics       2a. An integrated cross-border       2a.–2b. Annual project
+facilities and            e-commerce platform                  monitoring report of PMO
+technologies              established in Suifenhe (2021
+demonstrated              baseline: not established)
+                          (OP7.2.2)
+
+                          2b. New efficient Heihe Port
+                          with a design capacity of 1.29
+                          million tons throughput
+                          constructed in Heihe (2021
+                          baseline: 0) (OP7.1.1; OP7.3.2)
+3. Aging residential      By 2025:
+buildings and public      3a. Exterior and interior walls of   3a–3c. RBL verification         CA: Availability of
+facilities refurbishedb   220 old residential buildings        expert’s DLI verification       continuous
+                          repaired and painted with            report                          government subsidies
+                          insulation paint to prevent heat                                     to the program
+                          loss (2020 baseline: 0)
+                          (OP3.1.5; OP3.3.2) (DLI #3)
+                          3b. 178 old residential buildings
+                          installed or repaired with
+                          energy saving devices (2020
+                          baseline: 0)c (DLI#4)
+                          3c. At least 60% of participants
+                          in the pre-construction surveys
+                          and consultationsd are female
+                          and their priorities are reflected
+                          in the final design in 44
+                          communities (OP2.1.4) (DLI#5)
+
+4. Environmentally        By 2028:
+sustainable               4a. 3.2 km of degraded Beida         4a.–4c. Annual project          R: Hydraulic and
+infrastructure and        River rehabilitated, and             monitoring report of PMO;       hydrological modeling
+natural resources         continuity of flow restored          Final report of the inclusive   of current and
+management in Heihe       (2021 baseline: 0 km)                development technical           projected future
+and Suifenhe cities                                            support.                        climate risks not
+improved                  4b. One wastewater treatment                                         adequately
+                          plant in Suifenhe with an                                            implemented, prepared
+                          increased capacity of 10,000                                         too late, or inaccurate
+                          cubic meters per day upgraded,                                       because of lack of
+                          commissioned, operational, and                                       local data, leading to
+                          meeting effluent standards                                           inadequate design of
+                          according to the relevant                                            water-related
+                          wastewater treatment standard                                        infrastructure in
+                          of the People’s Republic of                                          relation to climate
+                          China (GB1981–2002 Class IA)                                         impacts.
+                          (2021 baseline: 20,000 cubic
+                          meters) (OP 3.3.1; OP7.3.2)e
+
+                          4c. At least 60,000 m2 of
+                          wetland area constructed or
+                          rehabilitated (2021 baseline: 0
+                          m2) (OP3.3.3)
+18      Appendix 1
+
+
+
+                                                               Data Sources and                       Risks and
+Results Chain               Performance Indicators             Reporting Mechanisms             Critical Assumptions
+                            4d. At least 40,000 m2 gross       4d. Consultant’s verification   CA: Green buildings
+                            floor area of standard workshop    report                          are implemented in a
+                            buildings achieve the                                              timely manner
+                            international green building
+                            certificatione (2021 baseline:
+                            N/A) (OP4.1.2)
+
+                            4e. At least 89 skilled jobs (69   4e. Annual project
+                            in Suifenhe and 20 in Heihe)       monitoring report of PMO
+                            created in operation and
+                            maintenance stages, of which
+                            30% are provided for women
+                            with priority (2021 baseline: 0)
+                            (OP1.2; OP2.1)
+
+5. Knowledge of and         By 2028:
+institutional capacity on   5a. At least 100 local officials   5a. Post-training survey        CA: Domestic and
+green transformation        from Heihe and Suifenhe            reports of Smart City; Safe,    international travel will
+enhanced                    (40% women) trained and            Sustainable Mobility            resume enabling
+                            report an increased                Improvement Technical           effective face-to-face
+                            understanding of river port        Support; Inclusive              training programs and
+                            management, SMEs business          Development Technical           study tours to take
+                            development, sustainable           Support; Sustainable            place
+                            tourism, CWIS, road safety,        Timber, Green ports and
+                            nonmotorized transport or          Logistics consulting firms;
+                            climate change principles (2021    and post-training reports
+                            baseline: 0) (OP2.3.1; OP6.1.1)    from the project
+                                                               management consultant
+
+                            5b. At least two knowledge         5b. Annual project
+                            products prepared and              monitoring report of PMO
+                            disseminated to promote best
+                            green practices in climate
+                            resilience and the green
+                            transformation of Heihe and
+                            Suifenhe (2021 baseline: 0)
+                            5c. At least 20 female             5c. Annual project
+                            entrepreneurs (10 in Heihe and     monitoring report of PMO
+                            10 in Suifenhe) receive
+                            technical advice and report an
+                            increased understanding
+                            relating to green transformation
+                            of products and/or production
+                            line (2021 baseline: 0)
+                            (OP2.1.1)
+                            5d. Nonmotorized transport         5d. Safe, Sustainable
+                            master plan prepared for Heihe     Mobility Improvement
+                            and Suifenhe submitted to          consultant’s report and
+                            government in both Heihe and       report from Heihe and
+                            Suifenhe and at least one          Suifenhe planning authority
+                            recommendation endorsed by
+                            government (2021 baseline:
+                            nonmotorized transport master
+                            plan not prepared)
+                            5e. A green procurement action     5e. Green procurement
+                            plan prepared for Heihe and        expert’s report
+                                                                                                Appendix 1        19
+
+
+                          Performance Indicators             Data Sources and                      Risks and
+Results Chain                                                Reporting Mechanisms            Critical Assumptions
+                          Suifenhe identifying at least
+                          one contract in each project
+                          area to incorporate sustainable
+                          procurement considerations in
+                          either specification or
+                          evaluation criteria (2021
+                          baseline: green procurement
+                          action plan not prepared)
+
+                          5f. Heihe Smart City Phase 2       5f. Smart city consultant’s
+                          established (2021 baseline: not    final report
+                          established)
+Key Activities with Milestones
+1. Infrastructure and services to enhance climate resilience and livability of Heihe and Suifenhe urban and
+rural areas implemented
+1.1. Complete hydraulic and hydrological modeling and provide inputs to detailed design of all water-related
+      components in Suifenhe (Q4 2022)
+1.2. Complete road safety audit and iRAP assessment of road upgrades and construction and provide inputs to
+      detailed design for all road-related components (Q3 2023)
+1.3. Complete detailed design for Suifenhe and Heihe components (Q4 2022–Q4 2024)
+1.4. Advertise and complete procurement of packages (Q4 2023–Q2 2024)
+1.5. Complete all works (by Q3 2028)
+2. Sustainable and efficient logistics facilities and technologies demonstrated
+2.1 Complete road safety audit and iRAP assessment of road upgrades and construction and provide inputs to
+    detailed design for all road-related components (Q1 2023)
+2.2 Complete detailed design of Heihe new Port and supporting infrastructure (Q1 2023–Q2 2023)
+2.3 Advertise and complete procurement of packages (Q4 2023–Q2 2024)
+2.4 Complete all works (by Q3 2028)
+
+3. Aging residential buildings and public facilities refurbished
+3.1 Complete civil works (Q4 2025).
+
+4. Environmentally sustainable infrastructure and natural resources management in Heihe and Suifenhe
+cities improved
+4.1 Complete hydraulic and hydrological modeling and provide inputs to detailed design of all water-related
+     components in Suifenhe (Q4 2022)
+4.2 Complete detailed design for Heihe wetland restoration, Suifenhe Beida River restoration, wastewater treatment
+     plant, standardized workshop buildings in Suifenhe and free trade zone buildings in Heihe (Q4 2022–Q3 2022)
+4.3 Advertise and complete procurement of packages (Q4 2022–Q2 2023)
+4.4 Complete all works (by Q3 2028)
+
+5. Knowledge of and institutional capacity on green transformation enhanced
+5.1 Complete detailed design for Smart City component by (Q4 2022)
+5.2 Recruit all technical advisory consultants (Q4 2022–Q2 2024)
+5.3 Implement and monitor green procurement pilot (Q4 2022–Q2 2025)
+5.4 Conduct procurement of Smart City components (Q1 2023–Q2 2025)
+5.5 Identify key government staff and other stakeholders to participate in relevant training courses for green ports
+    and logistics, nonmotorized transportation, CWIS, SMEs development, sustainable tourism, road safety, and
+    climate change principles (Q4 2024)
+5.6 Implement training and conduct post-training surveys to determine effectiveness of knowledge sharing (Q1
+    2025–Q4 2027)
+5.7 Identify key areas for external knowledge sharing related to project climate resilience measures (Q2 2027)
+5.8 Develop and disseminate knowledge products showcasing key lessons learned and knowledge sharing related
+    to the project (Q2 2027–Q3 2028)
+5.9 Conduct at least two knowledge sharing events, at least one of which is an international knowledge sharing
+    event, to share key findings of the project and disseminate the knowledge products (Q2 2027–Q3 2028)
+Project Management Activities
+Complete selection of project management consultants (Q4 2022)
+Commence land acquisition and resettlement activities (Q4 2022)
+20          Appendix 1
+
+
+      Disburse RBL loans (2022–2026)
+      Implement and monitor social development and gender action plan, ethnic minority development plan, and
+      environmental management plan (Q4 2022–Q3 2028)
+      Monitor project performance and ensure timely delivery of outputs (Q4 2022–Q3 2028)
+
+   Inputs
+   ADB: €187,400,000 ($193,000,000 equivalent) (loan)
+297
+   Government: €296,950,000
+ADB = Asian Development Bank, CA = critical assumption, CWIS = Citywide Inclusive Sanitation, DLI = disbursement-
+linked indicator, iRAP = international road assessment program, km = kilometer, m2 = square meter, NA = not
+applicable, NMT = nonmotorized transport, OP = operational priority, PMO = project management office, RBL = results-
+based lending, R = risk, SMEs = small and medium-sized enterprises.
+a Heilongjiang Provincial Government. 2021. 14th Five-Year Plan for Accelerating Green and Low-Carbon
+
+    Development and Improving Environmental Quality and Ecosystem Quality and Stability. Harbin.
+b The RBL Program Results Framework is accessible from the list of linked documents in Appendix 2.
+c Energy savings: 5,680 public incandescent lights repaired or replaced with LED lights, and 549 windows and 308
+
+    entrance doors repaired.
+d Pre-construction will focus on the residents’ opinions on the public assets in their communities that need to be
+
+    renovated.
+e Gross Building Area: The total area of the building measured to the outside walls without any deductions.
+
+Contribution to Strategy 2030 Operational Priorities
+Expected values and methodological details for all OP indicators to which this operation will contribute results are
+detailed in Contribution to Strategy 2030 Operational Priorities (accessible from the list of linked documents in
+Appendix 2). In addition to the OP indicators tagged in the design and monitoring framework, this operation will
+contribute results for
+OP 3.3 People benefiting from strengthened environmental sustainability (number)
+OP 4.1 People benefiting from improved services in urban areas (number)
+OP 5.1 People benefiting from increased rural investment (number)
+Source: Asian Development Bank.
+                                                                          Appendix 2   21
+
+                             LIST OF LINKED DOCUMENTS
+                  http://www.adb.org/Documents/RRPs/?id=53080-001-3
+
+1.    Loan Agreement: Project Loan
+2.    Loan Agreement: Results-Based Loan
+3.    Project Agreement
+4.    Program Agreement
+5.    Sector Assessment (Summary): Multisector
+6.    Project Administration Manual and Program Implementation Document
+7.    Financial Analysis
+8.    Economic Analysis
+9.    Summary Poverty Reduction and Social Strategy
+10.   Risk Assessment and Risk Management Plan
+11.   Contribution to Strategy 2030 Operational Priorities
+12.   Program Soundness Assessment
+13.   Program Results Assessment
+14.   Program Results Framework
+15.   Program Expenditure and Financing Assessment
+16.   Program Monitoring and Evaluation System Assessment
+17.   Program Fiduciary Systems Assessment
+18.   Program Safeguard Systems Assessment
+19.   Program Action Plan
+20.   Social Development and Gender Action Plan
+21.   Environmental Impact Assessment: Heihe International Freight Port Subproject
+22.   Initial Environmental Examination: Heihe Green Transformation Subproject
+23.   Initial Environmental Examination: Suifenhe Green Transformation Subproject
+24.   Resettlement Plan: Heihe Subproject
+25.   Resettlement Plan: Suifenhe Subproject
+26.   Ethnic Minority Development Plan: Heihe Subproject
+27.   Climate Change Assessment
+Supplementary Documents
+28.   Climate Risk Assessment
+29.   Strategic Procurement Planning and Procurement Risk Assessment
+30.   Detailed Economic Analysis
+31.   Stakeholder Communication Strategy
+32.   Financial Management Assessment
+22   Appendix 3
+
+
+
+         DISBURSEMENT-LINKED INDICATORS, VERIFICATION PROTOCOLS, AND DISBURSEMENT SCHEDULE
+
+                                               Table A3.1: Disbursement-Linked Indicators
+                                                                                            Target Values
+                                               Baseline   Baseline       2022
+     Disbursement-Linked Indicators             Value      Year      Prior Results         2023            2024            2025
+     Outcome
+     1. CO2 emissions from old                    0       2021       CO2               CO2             CO2             CO2
+     residential buildings reduced by at                             emissions         emissions       emissions       emissions
+     least 1,552 tons per year by 2025a                              from old          from old        from old        from old
+                                                                     residential       residential     residential     residential
+                                                                     buildings         buildings       buildings       buildings
+                                                                     reduced by at     reduced by      reduced by      reduced by at
+                                                                     least 220         at least 224    at least 224    least 884 tons
+                                                                     tons per year     tons per        tons per year   per year
+                                                                                       year
+
+     2. At least 75% of surveyed                  0       2021       At least 75%      At least 75%    At least 75%    At least 75%
+     residents of renovated buildings in                             of surveyed       of surveyed     of surveyed     of surveyed
+     49 communities (of whom at least                                residents of      residents of    residents of    residents of
+     60% are female) are satisfied that                              renovated         renovated       renovated       renovated
+     accessibility, resilience, and                                  buildings in      buildings in    buildings in    buildings in
+     livability of the residential buildings                         11                11              six             21
+     have been improved by 2025b                                     communities       communities     communities     communities
+                                                                     (of whom at       (of whom at     (of whom at     (of whom at
+                                                                     least 60% are     least 60%       least 60%       least 60% are
+                                                                     female) are       are female)     are female)     female) are
+                                                                     satisfied         are satisfied   are satisfied   satisfied
+
+     Outputs
+     3. Exterior and interior walls of 220        0       2021       At least 78 old   At least 23     At least 25     At least 94
+     old residential buildings repaired                              residential       old             old             old residential
+     and painted with insulation paint to                            buildings         residential     residential     buildings
+     prevent heat loss by 2025                                                         buildings       buildings
+
+     4. Energy saving devices in 178 old          0       2021       At least 60 old   At least 19     At least 19     At least 80
+     residential buildings installed or                              residential       old             old             old residential
+     repaired by 2025c                                               buildings         residential     residential     buildings
+                                                                                       buildings       buildings
+                                                                                                                                            Appendix 3         23
+
+
+                                                                                                           Target Values
+                                                Baseline        Baseline           2022
+ Disbursement-Linked Indicators                  Value           Year          Prior Results              2023              2024               2025
+ 5. At least 60% of participants in                0           2021                  0               At least 60%      At least 60%      At least 60% of
+ the pre-construction surveys and                                                                    of participants   of participants   participants in
+ consultationsd are female and their                                                                 in the pre-       in the pre-       the pre-
+ priorities are reflected in the final                                                               construction      construction      construction
+                                                                                                     surveys and       surveys and       surveys and
+ design in 44 communities by 2025                                                                    consultations     consultations     consultations
+                                                                                                     are female        are female        are female and
+                                                                                                     and their         and their         their priorities
+                                                                                                     priorities are    priorities are    are reflected in
+                                                                                                     reflected in      reflected in      the final design
+                                                                                                     the final         the final         in 19
+                                                                                                     design in 17      design in eight   communities
+                                                                                                     communities       communities
+% = percentage, CO2 = carbon dioxide.
+Note: The exchange rates are based on Asian Development Bank’s (ADB) foreign exchange rate in November 2021: €1 = CNY7.39.
+a This will be verified by replacement of flat rooftops with V-shaped insulating rooftops or repair of the original rooftops to prevent heat loss in 151 old
+
+  residential buildings and implementation of other energy saving measures in 220 old residential buildings to achieve energy savings and CO2
+  emission reductions.
+b This will be verified by conducting post-construction satisfaction surveys, assessing greening of community public areas, improvement of public
+
+  access roads, repair of heating and water supply valves and pipelines in the checkup wells, cleaning of septic tanks, installation or upgrading of
+  fitness equipment, installation of bicycle sheds and garbage and recycling bins, and establishment of accessible rest areas and public security offices
+  as needed in 49 communities.
+c A total of 5,680 public incandescent lights repaired or replaced with LED lights, and 549 windows and 308 entrance doors replaced or repaired.
+d Pre-construction surveys and consultations will focus on local residents’ opinions on the public assets in their communities that need to be renovated.
+
+Source: ADB and Heihe Housing and Urban–Rural Development Bureau estimate.
+24    Appendix 3
+
+
+
+                                                       Table A3.2: Verification Protocols
+
+ Disbursement-              Definition and Description of         Information Source and       Verification Agency and         Verification Time
+ Linked Indicators                   Achievement                        Frequency                     Procedure                      Frame
+ Outcome
+ DLI 1: CO2 emissions from old residential buildings reduced by at least 1,552 tons per year by 2025a
+ Baseline (2021): 0       Definition: DLI 1 is the number of   RBL implementing agency’s      Each year, RBL                 Information as of 31
+                          CO2 emissions reduced for a given    database and Old               implementing agency and        December 2022, 2023,
+ 2022: CO2 emissions      year.                                Residential Communities        Heihe PMO prepare an           2024, and 2025.
+ from old residential                                          Renovation Plan in Heihe       attestation that the DLI is
+ buildings reduced by at  Condition of disbursement.           (2021–2025).                   met and attach relevant
+ least 220 tons per year. Conditions are met if the cumulative                                supporting documents.
+                          number of CO2 emissions reduced      Required frequency for
+ 2023: CO2 emissions      for a given year reaches or exceeds  reporting will be annual.      The IVE will verify the
+ from old residential     the target number specified for that Monitoring may be              results each year through
+ buildings reduced by at  year (first column).                 conducted annually or as       spot checks. IVE report will
+ least 444 tons per year.                                      Heihe PMO and RBL              be attached to RBL
+ (cumulative)             Partial disbursement.                implementing agency may        implementing agency’s
+                          The disbursement is scalable and     find necessary.                result validation report.
+ 2024: CO2 emissions      partial disbursement is allowed. If
+ from old residential     the target is not fully achieved,                                   ADB will confirm that the
+ buildings reduced by at  disbursement can be proportional to                                 target has been met within 1
+ least 668 tons per year. the increase made from previous                                     month after receiving the
+ (cumulative)             year’s targeted achievement. The                                    validation report from Heihe
+                          following formula will be applied:                                  PMO.
+                          Partial DLI disbursement = planned
+ 2025: CO2 emissions      DLI disbursement for the period
+ from old residential     (actual achievement of the current
+ buildings reduced by at  period-targeted achievement of the
+ least 1,552 tons per     previous period)/(targeted
+ year. (cumulative)       achievement of the current period-
+                          targeted achievement of the
+                          previous period).
+
+                           Disbursements are allowed for early
+                           or late achievement of the DLI. It
+                           means that the planned
+                           disbursement amount for a given
+                           year can be released when the set
+                           target is fully achieved even if the
+                           achievement is late as long as the
+                           achievements are reached during
+                           the RBL component’s duration.
+                                                                                                                                      Appendix 3      25
+
+
+Disbursement-              Definition and Description of      Information Source and Verification Agency and             Verification Time
+Linked Indicators                   Achievement                      Frequency                    Procedure                     Frame
+DLI 2: At least 75% of surveyed residents of renovated buildings in 49 communities (of whom at least 60% are women) are satisfied that
+accessibility, resilience, and livability of the residential buildings have been improved by 2025 b
+Baseline (2021): 0          Definition: DLI 2 is the percentage       RBL implementing agency’s Each year, RBL                 Information as of 31
+                            of both the surveyed residents and        database and Old          implementing agency and        December 2022, 2023,
+2022: At least 75% of       female residents in the communities       Residential Communities   Heihe PMO prepare an           2024, and 2025.
+surveyed residents of       satisfied with the improvement in the Renovation Plan in Heihe      attestation that the DLI is
+renovated buildings in      accessibility, resilience, and livability (2021–2025).              met and attach relevant
+11 communities (of          of the residential buildings for a                                  supporting documents.
+whom at least 60% are       given year.                               Required frequency for
+women) are satisfied.                                                 reporting will be annual. The IVE will verify the
+                            Condition of disbursement.                Monitoring may be         results each year through
+                            Conditions are met if cumulative          conducted annually or as  spot checks. IVE report will
+2023: At least 75% of       number for a given year reaches or        Heihe PMO and RBL         be attached to RBL
+surveyed residents of       exceeds the target number for that        implementing agency may   implementing agency’s
+renovated buildings in      year   (first column).                    find necessary.           result validation report.
+22 communities (of
+whom at least 60% are       Partial disbursement. The                                           ADB will confirm that the
+women) are satisfied.       disbursement is scalable and partial                                target has been met within 1
+(cumulative)                disbursement is allowed. If the                                     month of after receiving the
+                            target is not fully achieved,                                       validation report from Heihe
+2024: At least 75% of       disbursement can be proportional to                                 PMO.
+surveyed residents of       the  increase    made  from previous
+renovated buildings in      year’s targeted achievement. The
+28 communities (of          following formula will be applied:
+whom at least 60% are       Partial DLI disbursement = planned
+women) are satisfied.       DLI disbursement for the period
+(cumulative)                (actual achievement of the current
+                            period-targeted achievement of the
+2025: At least 75% of       previous period)/(targeted
+surveyed residents of       achievement of the current period-
+renovated buildings in      targeted achievement of the
+49 communities (of          previous period).
+whom at least 60% are
+women) are satisfied.      If the target is not fully achieved,
+(cumulative)               disbursement can be proportional to
+                           the increase made from previous
+                           year’s targeted achievement. The
+                           following formula will be applied:
+                           Partial DLI disbursement = planned
+                           DLI disbursement for the period
+                           (actual achievement of the current
+                           period-targeted achievement of the
+26    Appendix 3
+
+
+
+ Disbursement-              Definition and Description of         Information Source and       Verification Agency and          Verification Time
+ Linked Indicators                   Achievement                        Frequency                     Procedure                       Frame
+                           previous period)/(targeted
+                           achievement of the current period-
+                           targeted achievement of the
+                           previous period).
+
+                           Disbursements are allowed for early
+                           or late achievement of the DLI. It
+                           means that the planned
+                           disbursement amount for a given
+                           year can be released when the set
+                           target is fully achieved even if the
+                           achievement is late as long as the
+                           achievements are reached during
+                           the RBL component’s duration.
+ Outputs
+ DLI 3: Exterior and interior walls of 220 old residential buildings repaired and painted with insulation paint to prevent heat loss by 2025
+ Baseline (2021): 0         Definition: DLI 3 is the number of      RBL implementing agency’s    Each year, RBL                Information as of 31
+                            old residential buildings with exterior database and Old             implementing agency and       December 2022, 2023,
+ 2022: Exterior and         and interior walls repaired and         Residential Communities      Heihe PMO prepare an          2024, and 2025.
+ interior walls of at least painted for a given year.               Renovation Plan in Heihe     attestation that the DLI is
+ 78 old residential                                                 (2021–2025).                 met and attach relevant
+ buildings repaired and     Condition of disbursement.                                           supporting documents.
+ painted with insulation    Conditions are met if the amount for    Required frequency for
+ paint to prevent heat      a given year reaches or exceeds the reporting will be annual.        The IVE will verify the
+ loss.                      target specified for that year (first   Monitoring may be            results each year through
+                            column).                                conducted annually or as     spot checks. IVE report will
+ 2023: Exterior and                                                 Heihe PMO and RBL IA may be attached to RBL
+ interior walls of at least Partial disbursement. The               find necessary.              implementing agency’s
+ 101 old residential        disbursement is scalable and partial                                 result validation report.
+ buildings repaired and     disbursement is allowed. If the
+ painted with insulation    target is not fully achieved,                                        ADB will confirm that the
+ paint to prevent heat      disbursement can be proportional to                                  target has been met within 1
+ loss. (cumulative)         the increase made from previous                                      month of after receiving the
+                            year’s targeted achievement. The                                     validation report from Heihe
+ 2024: Exterior and         following formula will be applied:                                   PMO.
+ interior walls of at least Partial DLI disbursement = planned
+ 126 old residential        DLI disbursement for the period
+ buildings repaired and     (actual achievement of the current
+ painted with insulation    period-targeted achievement of the
+ paint to prevent heat      previous period)/(targeted
+ loss. (cumulative)         achievement of the current period-
+                                                                                                                                      Appendix 3      27
+
+
+Disbursement-                 Definition and Description of     Information Source and          Verification Agency and          Verification Time
+Linked Indicators                      Achievement                    Frequency                        Procedure                       Frame
+2025: Exterior and           targeted achievement of the
+interior walls of at least   previous period).
+220 old residential
+buildings repaired and   Disbursements are allowed for early
+painted with insulation  or late achievement of the DLI. It
+paint to prevent heat    means that the planned
+loss. (cumulative)       disbursement amount for a given
+                         year can be released when the set
+                         target is fully achieved even if the
+                         achievement is late as long as the
+                         achievements are reached during
+                         the RBL component’s duration.
+DLI 4: Energy saving devices in 178 old residential buildings installed or repaired by 2025 c
+Baseline (2021): 0       Definition: DLI 4 is the number of     RBL implementing agency’s       Each year, RBL                 Information as of 31
+                         old residential buildings with energy  database and Old                implementing agency and        December 2022, 2023,
+2022: Energy saving      saving devices installed or repaired   Residential Communities         Heihe PMO prepare an           2024, and 2025.
+devices in 60 old        for a given year.                      Renovation Plan in Heihe        attestation that the DLI is
+residential buildings                                           (2021–2025).                    met and attach relevant
+installed or repaired.   Condition of disbursement.                                             supporting documents.
+                         Conditions are met if the amount for   Required frequency for
+                         a given year reaches or exceeds the reporting will be annual.          The IVE will verify the
+2023: Energy saving      target specified for that year (first  Monitoring may be               results each year through
+devices in 79 old        column).                               conducted annually or as        spot checks. IVE report will
+residential buildings                                           Heihe PMO and RBL               be attached to RBL
+replaced or repaired.    Partial disbursement. The              implementing agency may         implementing agency’s
+(cumulative)             disbursement is scalable and partial   find necessary.                 result validation report.
+                         disbursement is allowed. If the
+2024: Energy saving      target is not fully achieved,                                          ADB will confirm that the
+devices in 98 old        disbursement can be proportional to                                    target has been met within 1
+residential buildings    the increase made from previous                                        month of after receiving the
+installed or repaired.   year’s targeted achievement. The                                       validation report from Heihe
+(cumulative)             following formula will be applied:                                     PMO.
+                         Partial DLI disbursement = planned
+2025: Energy saving      DLI disbursement for the period
+devices in 178 old       (actual achievement of the current
+residential buildings    period-targeted achievement of the
+installed or repaired.   previous period)/ (targeted
+(cumulative)             achievement of the current period-
+                         targeted achievement of the
+                         previous period).
+                         Disbursements are allowed for early
+                         or late achievement of the DLI. It
+28     Appendix 3
+
+
+
+ Disbursement-               Definition and Description of         Information Source and    Verification Agency and          Verification Time
+ Linked Indicators                    Achievement                        Frequency                  Procedure                       Frame
+                            means that the planned
+                            disbursement amount for a given
+                            year can be released when the set
+                            target is fully achieved even if the
+                            achievement is late as long as the
+                            achievements are reached during
+                            the RBL component’s duration.
+ DLI 5 At least 60% of participants in the pre-construction surveys and consultationsd are female and their priorities are reflected in the final
+ design in 44 communities by 2025
+ Baseline (2021): 0         Definition: DLI 5 is the percentage  RBL IA’s database and Old    Each year, RBL                 Information as of 31
+                            of female participants in the pre-   Residential Communities      implementing agency and        December 2022, 2023,
+ 2022: At least 60% of      construction surveys and             Renovation Plan in Heihe     Heihe PMO prepare an           2024, and 2025.
+ participants in the pre-   consultations, and whether their     (2021–2025).                 attestation that the DLI is
+ construction surveys and priorities are reflected in the final                               met and attach relevant
+ consultations are female design for a given year.               Required frequency for       supporting documents.
+ and their priorities are                                        reporting will be annual.
+ reflected in the final     Condition of disbursement.           Monitoring may be            The IVE will verify the
+ design in 0 communities. Conditions are met if cumulative       conducted annually or as     results each year through
+                            number for a given year reaches or   Heihe PMO and RBL            spot checks. IVE report will
+ 2023: At least 60% of      exceeds the target number for that   implementing agency may      be attached to RBL
+ participants in the pre-   year (first column).                 find necessary.              implementing agency’s
+ construction surveys and                                                                     result validation report.
+ consultations are female Partial disbursement. The
+ and their priorities are   disbursement is scalable and partial                              ADB will confirm that the
+ reflected in the final     disbursement is allowed. If the                                   target has been met within 1
+ design in 17               target is not fully achieved,                                     month of after receiving the
+ communities.               disbursement can be proportional to                               validation report from Heihe
+ (cumulative)               the increase made from previous                                   PMO.
+                            year’s targeted achievement. The
+ 2024: At least 60% of      following formula will be applied:
+ participants in the pre-   Partial DLI disbursement = planned
+ construction surveys and DLI disbursement for the period
+ consultations are female (actual achievement of the current
+ and their priorities are   period-targeted achievement of the
+ reflected in the final     previous period)/(targeted
+ design in 25               achievement of the current period-
+ communities.               targeted achievement of the
+ (cumulative)               previous period).
+
+ 2025: At least 60% of      If the target is not fully achieved,
+ participants in the pre-   disbursement can be proportional to
+ construction surveys and   the increase made from previous
+                                                                                                                                                   Appendix 3        29
+
+
+ Disbursement-                  Definition and Description of           Information Source and           Verification Agency and             Verification Time
+ Linked Indicators                       Achievement                          Frequency                         Procedure                          Frame
+ consultations are female     year’s targeted achievement. The
+ and their priorities are     following formula will be applied:
+ reflected in the final       Partial DLI disbursement = planned
+ design in 44                 DLI disbursement for the period
+ communities.                 (actual achievement of the current
+ (cumulative)                 period-targeted achievement of the
+                              previous period)/(targeted
+                              achievement of the current period-
+                              targeted achievement of the
+                              previous period).
+
+                                Disbursements are allowed for early
+                                or late achievement of the DLI. It
+                                means that the planned
+                                disbursement amount for a given
+                                year can be released when the set
+                                target is fully achieved even if the
+                                achievement is late as long as the
+                                achievements are reached during
+                                the RBL component’s duration.
+ADB = Asian Development Bank, CO2 = carbon dioxide, DLI = disbursement-linked indicator, IVE = independent verification expert, PMO = project management
+office, RBL = results-based loan.
+a This will be verified by replacement of flat rooftops with V-shaped insulating rooftops or repair of the original rooftops to prevent heat loss in 151 old residential
+
+  buildings and implementation of other energy saving measures in 220 old residential buildings to achieve energy savings and CO2 emission reductions.
+b This will be verified by conducting a post-construction satisfaction survey, assessing greening of community public areas, improvement of public access roads,
+
+  repair of heating and water supply valves and pipelines in the checkup wells, cleaning of septic tanks, installation or upgrading of fitness equipment, installation
+  of bicycle sheds and garbage and recycling bins, and establishment of accessible rest areas and public security offices as needed in 44 communities with at least
+  12,000 beneficiary households.
+c A total of 5,680 public incandescent lights repaired or replaced with LED lights, and 549 windows and 308 entrance doors replaced or repaired.
+d Pre-construction surveys and consultations will focus on local residents’ opinions on the public assets in their communities that need to be renovated.
+
+Sources: ADB and Heihe Housing and Urban–Rural Development Bureau.
+30      Appendix 3
+
+
+
+                                                      Table A3.3: Disbursement Schedule
+                                                                   (€ million)
+       Disbursement-Linked Indicators           Total ADB         Share of        Financing for   2023   2024   2025
+                                                Financing        Total ADB        Prior Results
+                                                Allocation     Financing (%)         in 2022
+      Outcome
+      DLI 1: CO2 emissions from old
+      residential buildings reduced by at
+                                                   2.72                15              0.37       0.39   0.39   1.57
+      least 1,552 tons of per year by
+      2025
+
+      DLI 2: At least 75% of surveyed
+      residents of renovated buildings in
+      49 communities (of whom at least
+      60% are female) are satisfied that            7.6                40              1.17       1.07   1.1    4.26
+      accessibility, resilience, and
+      livability of the residential buildings
+      have been improved by 2025
+
+      Outputs
+      DLI 3: Exterior and interior walls of
+      220 old residential buildings
+      repaired and painted with
+                                                   7.69                41              2.11       0.80   1.08   3.70
+      insulation paint to prevent heat
+      loss by 2025
+
+      DLI 4: Energy saving devices in
+      178 old residential buildings                0.37                 2              0.11       0.03   0.04   0.19
+      installed or repaired by 2025
+
+      DLI 5: At least 60% of participants
+      in the pre-construction surveys and
+      consultations are female and their           0.39                 2                0        0.03   0.05   0.31
+      priorities are reflected in the final
+      design in 44 communities by 2025
+
+                      Total                        18.77             100               3.76       2.32   2.66   10.03
+     ADB = Asian Development Bank, CO2 = carbon dioxide, DLI = disbursement-linked indicator.
+     Source: Asian Development Bank.
+

@@ -1,0 +1,271 @@
+                                                                                                            PMR Public Report
+Operation Number                    BR-L1588                                                                                 Chief of Operations Validation Date                    04/04/25
+
+Year- PMR Cycle                     Second period Jan-Dec 2024                                                               Division Chief Validation Date                         04/15/25
+
+Last Update                         03/28/25                                                                                 Country Representative Validation Date                 04/16/25
+
+PMR Validation Stage                Validated by Representative
+
+Basic Data
+Operation Profile
+Operation Name                      State Housing Program - State of Paraná - Vida Nova Project                              Loan Number                                            5871/OC-BR
+
+Executing Agency                    COMPANHIA DE HABITACAO DO PARANA                                                         Sector/Subsector                                       URBAN DEVELOPMENT AND HOUSING-HOUSING
+
+                                    , SECRETARIA NACIONAL DE HABITACAO
+
+                                    , SECRETARIA DE ASSUNTOS INTERNACIONAIS
+Team Leader                         SILVA HERREROS, JORGE ALEJANDRO                                                          Overall Stage                                          Effective/Pending Eligibility
+
+Operation Type                      Loan Operation                                                                           Country                                                Brazil
+
+Lending Instrument                  Investment Loan                                                                          Convergence related Operation(s)
+
+Borrower                            ESTADO DO PARANA
+
+Environmental and Social Safeguards
+Impacts Category                    A                                                                                        Was/Were the objective(s) of this operation            NO
+                                                                                                                             reformulated?
+Safeguard Performance               Satisfactory                                                                             Date of approval
+Rating
+Safeguard Performance               O contrato ainda não foi assinado pelo governo do Brasil e não ganhou elegibilidade ainda a operação.
+Rating - Rationale
+
+Financial Data
+                                                                           Total Cost and Source                                                                                                       Available Funds (US$)
+
+  Operations               Original IDB               Current IDB            Local Counterpart        Co-Financing / Country        Total Original Cost              Current IDB             Disb. Amount to Date       % Disbursed     Undisbursed Amount
+BR-L1588                          150,000,000              150,000,000                 37,500,000                               0             187,500,000                   150,000,000                             -           0.00%            150,000,000
+
+Aggregated                        150,000,000              150,000,000                 37,500,000                               0             187,500,000                   150,000,000                             -           0.00%            150,000,000
+
+Expense Categories by Loan Contract (cumulative values)
+
+
+
+
+Please note that inactive indicators and outputs are not displayed; totals in the actual cost table may not match the sum of the cost of the outputs displayed, due to the cost of inactive outputs.
+
+
+
+
+                                                                                                                                                        1
+RESULTS MATRIX
+General Development Objectives
+General Development Objectives Nbr. 1: El objetivo general del programa es mejorar la calidad de vida de la población socialmente vulnerable que vive en ocupaciones irregulares,
+asentamientos precarios, o viviendas insalubres en el Estado de Paraná promoviendo el acceso a una vivienda digna, condiciones básicas de infraestructura y acciones socioambientales
+Observation:
+                    Indicator                                                         Unit of Measure           Baseline        Baseline Year     Expected
+                                                                                                                                                   Year of                          EOP 2029
+                                                                                                                                                 Achievement
+1.0                 Valor del metro cuadrado promedio en las áreas de intervención          R$/m2                897.73              2024             2028              P            1,077.27
+                    del programa                                                                                                                                        A                -
+Details
+Means of Verification: Informe de Análisis Económico ex-ante y ex-post del programa
+
+Observations: Para calcular el valor de la unidad de beneficio de valorización inmobiliaria (R$/m²), se utilizó la base de datos de COHAPAR, referente a los hogares registrados en los que los
+residentes pagan alquiler por el uso de la propiedad, con un valor de propiedad promedio estimado en R$83.744,34, y datos de la encuesta por muestreo realizada en las áreas del proyecto, donde
+se identificó un área promedio de 90m² por propiedad, lo que resultó en un valor unitario de R$897,73/m². Meta: La valorización esperada es del 20% del valor unitario por m². Tipo de cambio:US
+$1 = R$5,50
+The General Development Objective indicator target is expected to be observed by the operation's "Fully Justified" date in Convergence (CO): No
+
+Pro-Gender     No                Pro-Ethnicity   No                CRF indicator
+
+
+
+
+                                                                                                           2
+RESULTS MATRIX
+Specific Development Objectives
+Specific Development Objectives Nbr. 1: Incrementar el acceso a soluciones de vivienda equitativa y sostenible y hábitat para población socialmente vulnerable
+Observation:
+                    Indicator                                                                          Unit of Measure           Baseline         Baseline Year                        EOP 2029
+1.0                 Número promedio de familias en situación de vulnerabilidad atendidas                # of households             376                2024                 P              670
+                    anualmente con soluciones habitacionales calificadas                                                                                                    A               -
+Details
+Means of Verification: Informes COHAPAR
+Observations: En los últimos 5 años, se dio acceso a un promedio de 376 familias por año. Con la implementación del Programa, se espera un promedio de 1.120 Unidades Habitacionales por
+año. Considerando los riesgos cambiales y los riesgos inherentes a la construcción de UH en Brasil, se previó un coeficiente de minimización de 0,6 para la meta, lo que resulta en 670
+viviendas/año (178% de aumento). * Contribuye al CRF Nivel 2. 2.4 Hogares con acceso mejorado a agua y saneamiento (#). 2.20 Beneficiarios de una mayor resiliencia a desastres y efectos
+del cambio climático (#).
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                 CRF indicator              2.20.b Households with enhanced disaster and climate change resilience (# households) (C), 2.4.b
+                                                                                               Households with improved access to sanitation (#) (C)
+
+
+
+
+                    Indicator                                                                          Unit of Measure           Baseline         Baseline Year                        EOP 2029
+1.1                 Porcentaje de familias con personas con discapacidad beneficiadas con casas        # of beneficiaries            5                 2024                 P              7.5
+                    adaptadas                                                                                                                                               A               -
+Details
+Means of Verification: Informes COHAPAR
+Observations: Línea de base: Actualmente la COHAPAR cumple con el porcentaje previsto en la Ley Federal 13.146/2015, que prevé que se reserve un 5% de las unidades habitacionales a
+familias con discapacidad entre sus miembros. Meta: Basado en el porcentaje de familias con miembros PcD de muestra representativa. La demanda cerrada contiene 713 familias, y de estas
+75 tienen algún miembro con PcD (10%). Por lo tanto, será considerado 7,5%. Las viviendas serán adaptadas de acuerdo con las necesidades de cada miembro PcD identificado en el registro,
+tales como: ancho de puertas, accesorios, altura de fregaderos y grifos, etc. * Contribuye al CRF Nivel 2. 2.18 Beneficiarios designados de servicios públicos que han sido adaptados para grupos
+diversos (#) - Incluye en la definición del indicador CRF: personas con discapacidad que reciben servicios públicos que han sido adaptados para satisfacerlos. Servicios como aceras con
+accesibilidad, acceso a saneamiento y pavimentación.
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity    No                 CRF indicator              2.18 Targeted beneficiaries of public services that have been adapted for diverse groups (#) (C)
+
+
+
+
+                    Indicator                                                                          Unit of Measure           Baseline         Baseline Year                        EOP 2029
+1.2                 Porcentaje de títulos entregados a mujeres jefes de familia atendidas por el          # of women                 54                2024                 P              60
+                    Programa                                                                                                                                                A               -
+Details
+Means of Verification: Informe semestral de COHAPAR
+Observations: Línea de base: Aunque el art. 1 de la Ley Estatal nº 15.301/2006 determine que 20% de las unidades de los programas de subdivisión social y vivienda popular deban asignarse
+a "mujeres jefas de familia", en los últimos 3 años COHAPAR atendió 17.000 familias correspondientes a este grupo (54% del total). Meta: El programa aspira destinar un 60% del total de las
+unidades a familias con jefatura femenina con titulación o co-titulación en sus nombres. * Contribuye al CRF Nivel 2. 2.16 Mujeres beneficiarias de iniciativas de empoderamiento económico (#)
+– Incluye en la definición del indicador CRF: la titulación de propiedad / tierras.
+Evaluation Methodology: -
+Pro-Gender     Yes              Pro-Ethnicity    No                 CRF indicator              2.16 Women beneficiaries of economic empowerment initiatives (#) (C)
+
+
+
+
+                    Indicator                                                                          Unit of Measure           Baseline         Baseline Year                        EOP 2029
+1.3                 Emisiones de gases de efecto invernadero                                               Porcentaje                0                 2024                 P              20
+                                                                                                                                                                            A               -
+Details
+Means of Verification: Informe semestral de COHAPAR
+
+
+
+
+                                                                                                              3
+Observations: Las nuevas viviendas reducirán las emisiones de GEI respecto a los proyectos tipo que venía construyendo la COHAPAR previo a esta operación. Meta: Según simulaciones
+EDGE compartidas con el equipo, con los nuevos diseños se obtiene la reducción de GEI de entre 0,1 y 0,2 tCO2e/año por vivienda con respecto a la línea de base, lo que representa entre un
+20-25% de ahorro. Fuente: Informe semestral de COHAPAR que demuestre que las viviendas logran el nivel de ahorro de emisiones GEI utilizando la herramienta EDGE o similar. * Contribuye
+a CRF Nivel 2. 2.19: Emisiones evitadas (toneladas anuales de CO2 equivalente).
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity   No                 CRF indicator
+
+
+
+
+                    Indicator                                                                           Unit of Measure           Baseline         Baseline Year                        EOP 2029
+1.4                 Áreas recuperadas con soluciones basadas en la naturaleza y resilientes                 hectares                  0                 2024                 P              15.6
+                                                                                                                                                                             A               -
+Details
+Means of Verification: Informe semestral de COHAPAR
+Observations: Cota definida por COHAPAR para implantación de soluciones basadas en la naturaleza del total de hectáreas recuperadas Considerando el cálculo detallado en el indicador de
+producto 1.2 - hito 3, están previstos el tratamiento de 78 hectáreas de áreas de origen. Por lo tanto, se prevé que 15,6 hectáreas (20%) de las áreas de origen sean recuperadas con soluciones
+basadas en la naturaleza y resilientes. Soluciones basadas en la naturaleza y resilientes pueden ser aquellas que promueven la restauración ecológica y la sostenibilidad a largo plazo, tales
+como: protección y recomposición de la capa vegetal, plantación de especies nativas, creación de corredores ecológicos, uso de técnicas de ingeniería natural (por ejemplo, estructuras naturales
+para estabilizar el suelo, controlar la erosión y crear hábitats), conservación del agua, educación y participación comunitaria, entre otros. * Contribuye al CRF Nivel 2. 2.21 Hábitats manejados de
+forma sostenible usando métodos basados en ecosistemas (hectáreas).
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity   No                 CRF indicator               2.21 Habitat that is sustainably managed using ecosystem-based approaches (hectares) (C)
+
+
+
+
+Specific Development Objectives Nbr. 2: Mejorar la atención de COHAPAR a través de una gestión pública innovadora e inteligente
+Observation:
+                    Indicator                                                                           Unit of Measure           Baseline         Baseline Year                        EOP 2029
+2.0                 Tiempo para la elaboración de proyectos básicos en COHAPAR                               Meses                   9.14               2024                 P              7.31
+                                                                                                                                                                             A               -
+Details
+Means of Verification: Informes COHAPAR respaldados por documentación registrada en procesos electrónicos de COHAPAR y auditadas por el TCE/PR
+Observations: Reducción estimada del tiempo para la elaboración de todos los proyectos desarrollados en COHAPAR a partir del uso de la metodología BIM - no sólo los proyectos del
+Programa. De 2018 a 2023, el tiempo promedio empleado en la preparación de proyectos básicos en COHAPAR fue de 9,14 meses. Con la implementación de la metodología BIM, COHAPAR
+prevé que la elaboración de proyectos durará en promedio 7,31 meses. Reducción de tiempo en un 20%. Es importante señalar que este tiempo promedio se refiere al período desde la emisión
+de la orden de trabajo para la preparación del proyecto básico hasta su aprobación final por COHAPAR. La capacitación prevista en el Programa también contribuirá a la reducción del tiempo
+para la elaboración de proyectos básicos. Además de la reducción de tiempo, los proyectos estarán más cualificados técnica y socio-ambientalmente. La fuente de datos y medio de verificación
+será respaldada por documentación registrada en procesos electrónicos de COHAPAR y auditadas por el Tribunal de Cuentas del Es
+Evaluation Methodology: -
+Pro-Gender     No               Pro-Ethnicity   No                 CRF indicator
+
+
+
+
+                                                                                                               4
+RESULTS MATRIX
+OUTPUTS: ANNUAL PHYSICAL AND FINANCIAL PROGRESS
+
+Component Nbr. 1 Atención Habitacional a Familias en Situación de Vulnerabilidad Socioambiental
+                                                                                                                                             PHYSICAL PROGRESS                    FINANCIAL PROGRESS
+
+             Output                                                                                      Unit of Measure              2024                  EOP 2029           2024              EOP 2029
+
+             Estudios y Proyectos de Ingeniería aprobados                                           Estudios                   P                    -                      3             -               4,250,000
+   1.01                                                                                                                       P (a)                 -                      3             -               4,250,000
+                                                                                                                               A                    -                      -             -                       -
+             Construcción de Unidades Habitacionales                                                unidades habitacionales    P                    -                  5,600             -             158,250,000
+   1.02                                                                                                                       P (a)                 -                  5,600             -             158,250,000
+                                                                                                                               A                    -                      -             -                       -
+             Supervisión técnica, social y ambiental                                                informes aprobados         P                    -                      8             -               8,000,000
+   1.03                                                                                                                       P (a)                 -                      8             -               8,000,000
+                                                                                                                               A                    -                      -             -                       -
+
+Component Nbr. 2 Fortalecimiento Institucional
+                                                                                                                                             PHYSICAL PROGRESS                    FINANCIAL PROGRESS
+
+             Output                                                                                      Unit of Measure              2024                  EOP 2029           2024              EOP 2029
+
+             Adquisición e instalación de paquetes BIM con equipamientos informáticos y softwares   Paquetes BIM               P                    -                     14             -               1,700,000
+   2.01                                                                                                                       P (a)                 -                     14             -               1,700,000
+                                                                                                                               A                    -                      -             -                       -
+             Funcionarios públicos capacitados                                                      Capacitaciones             P                  15                     455             -                800,000
+   2.02                                                                                                                       P (a)               15                     455             -                800,000
+                                                                                                                               A                    -                      -             -                       -
+             SISPEHIS actualizado                                                                   informe final aprobado     P                    -                      1             -                500,000
+   2.03                                                                                                                       P (a)                 -                      1             -                500,000
+                                                                                                                               A                    -                      -             -                       -
+
+
+Other Cost
+                 Administração do Programa                                                                                     P                   0              14,000,000
+
+                                                                                                                              P (a)                0              14,000,000
+
+                                                                                                                               A                                          0
+
+Total Cost
+                  Total Cost                                                                                                   P                   0             187,500,000
+
+                                                                                                                              P (a)                0             187,500,000
+
+                                                                                                                               A                   0                      0
+
+
+
+
+                                                                                                               5
+CHANGES TO THE MATRIX
+No information available for this section
+
+
+
+
+                                            6
+RISKS AND PLANNED RESPONSES
+    Risk ID                         Risk Status                               Risk Taxonomy
+
+                                      Active                                Goods, and Services
+
+
+              Response Actions
+      1                                           Management Strategy             Status
+                             1.01                       AVOID                     ACTIVE
+
+
+
+
+                                                                        7
+IMPLEMENTATION STATUS AND LEARNING
+
+
+                                     Lesson Learned - Categories
+Project Management Capacity
+
+
+
+
+                                                              8
+

@@ -1,0 +1,1798 @@
+                                                                                       PUBLIC
+                                                                     SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                            MEXICO
+
+
+
+
+        PROJECT TO ADDRESS SOCIAL AND BASIC SERVICES GAPS
+                         IN URBAN AREAS
+
+
+
+
+                                          (ME-L1167)
+
+
+
+
+                                       LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of Carolina Piedrafita
+(IFD/FMM), Project Team Leader; Alejandro Rasteletti (FMM/CME); Juan Carlos Pérez-
+Segnini (SGO/CME); Gloria Coronel and Víctor Escala (FMP/CME); Gmelina Ramírez
+(CCS/CME); Crystal Fenwick (VPS/ESG); Andrés Restrepo (IFD/ICS); María Eugenia de la
+Peña Ramos (WSA/CME); Nelly Cerón (CID/CME); Raimundo Arroio; Ophélie Chevalier,
+Laura Aguilera, and Dianela Ávila (IFD/FMM).
+
+
+
+
+This document is being released to the public and distributed to the Bank’s Board of Executive
+Directors simultaneously. This document has not been approved by the Board. Should the Board
+approve the document with amendments, a revised version will be made available to the public, thus
+superseding and replacing the original version.
+                                                     CONTENTS
+
+
+
+PROJECT SUMMARY
+
+
+I.     DESCRIPTION AND RESULTS MONITORING ................................................................ 1
+
+       A.    Background, problem addressed, and rationale ............................................ 1
+       B.    Objectives, components, and cost ................................................................ 8
+       C.    Key outcome indicators ................................................................................ 9
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ................................................................. 9
+
+       A.    Financing instruments .................................................................................. 9
+       B.    Environmental and social risks ................................................................... 10
+       C.    Fiduciary risks ............................................................................................ 11
+       D.    Other risks .................................................................................................. 11
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 11
+
+       A.    Summary of implementation arrangements ................................................ 11
+       B.    Summary of results monitoring arrangements ............................................ 15
+                                                      - ii -
+
+
+
+                                                    ANNEXES
+Annex I        Summary Development Effectiveness Matrix (DEM)
+Annex II       Results Matrix
+Annex III      Fiduciary Agreements and Requirements
+
+
+                                            ELECTRONIC LINKS
+REQUIRED
+
+1.   Multiyear execution plan
+
+2.   Annual work plan
+
+3.   Monitoring and evaluation plan
+
+4.   Environmental and social management report – environmental characterization
+
+5.   Procurement plan
+
+OPTIONAL
+
+1.   Economic analysis
+     A. Economic analysis calculations
+
+2.   Program Operating Regulations
+
+3.   Vulnerability index
+     A. Vulnerability index – adjusted for risk factors
+     B. Vulnerability index – priority municipios
+
+4.   Gender perspectives
+
+5.   Terms of reference – International City/County Management Association (ICMA)
+
+6.   Public Utilities Policy compliance analysis
+
+7.   SEDATU institutional capacity assessment report
+
+8.   Site visit reports – ex post environmental evaluation
+
+9.   Justification for requesting a waiver of the Bank’s procurement policies
+
+10. Safeguard Policy Filter and Safeguard Screening Form for classification of projects
+                                   - iii -
+
+
+
+                            ABBREVIATIONS
+
+
+CDCs     Community development centers
+COSO     Committee of Sponsoring Organizations of the Treadway Commission
+ICB      International competitive bidding
+INEGI    Instituto Nacional de Estadística y Geografía [National Statistics and
+         Geography Institute]
+LIBOR    London Interbank Offered Rate
+NAFIN    Nacional Financiera, S.N.C., I.B.D.
+SEDATU   Secretaría de Desarrollo Agrario, Territorial y Urbano [Department of
+         Agrarian, Territorial, and Urban Development]
+SFP      Secretaría de la Función Pública [Civil Service Department]
+SHCP     Secretaría de Hacienda y Crédito Público [Department of Finance]
+SIIPSO   Sistema Integral de Información de los Programas Sociales
+         [Comprehensive Information System on Social Programs]
+                                                              PROJECT SUMMARY
+
+                                                          MEXICO
+                                    PROJECT TO ADDRESS SOCIAL AND BASIC SERVICES GAPS
+                                                     IN URBAN AREAS
+                                                        (ME-L1167)
+
+                                                        Financial terms and conditions
+                                                                                                                             (a)
+Borrower: United Mexican States                                               Flexible Financing Facility
+Executing agency: Department of Agrarian, Territorial,     Amortization period:                           25 years
+and Urban Development (SEDATU), in cooperation with        Original WAL:                                  11 years
+the states or municipios                                   Disbursement period:                             3 years
+           Source         Amount (US$)            %        Grace period:                                  5.5 years
+                                                                                                              (b)
+                                                           Inspection and supervision fee:
+IDB (Ordinary Capital):      200 million         100       Interest rate:                               LIBOR-based
+                                                                                                              (b)
+                                                           Credit fee:
+                                                                                                  United States dollars from
+Total:                       200 million         100       Approval currency:
+                                                                                                     the Ordinary Capital
+                                                       Project at a glance
+Project objective: To help improve habitability in areas with social and urban infrastructure gaps by: (i) expanding access to such
+infrastructure; and (ii) promoting social development in safe spaces.
+Special contractual conditions precedent to the first disbursement: Signing of an agency agreement between the borrower,
+SEDATU, and Nacional Financiera, S.N.C., I.B.D. (paragraph 3.1).
+Exceptions to Bank policies: A waiver of the Polices for the Procurement of Goods and Works Financed by the IDB (document
+GN-2349-9) is requested so that procedures under national legislation may be used for the procurements to be carried out under
+Components I and II (paragraphs 3.8 to 3.10).
+                         (c)
+Project qualifies as:                             SV                  PE                 CC                  CI
+(a)
+      Under the terms of the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the amortization
+      schedule, as well as currency and interest rate conversions. The Bank will take operational and risk management considerations into account
+      when reviewing such requests.
+(b)
+      The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of
+      the Bank’s lending charges, in accordance with the corresponding policies.
+(c)
+      SV (Small and vulnerable countries); PE (Poverty reduction and equity enhancement); CC (Climate change, sustainable energy, and
+      environmental sustainability); CI (Regional cooperation and integration).
+                            I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+1.1       Programa Hábitat (the Habitat Program) is a federal government program to
+          improve the habitability of dwellings1 in municipios with at least 15,000 inhabitants.
+          It targets underserved areas of these municipios (called polygons) by financing
+          physical investments and social development activities.2 These include building or
+          expanding urban infrastructure; constructing, equipping, expanding, or upgrading
+          community development centers (CDCs);3 and funding training courses,
+          workshops, and other supplemental activities4 at these centers.5 The program also
+          helps to build the municipios’ capacity to plan and execute such investments.
+1.2       The polygons are territorial divisions within urban areas of the municipios, where
+          there is legal land tenure (households holding title to their property) and at least
+          50% of families are living in poverty.6 All of the polygons have deficits in access to
+          infrastructure, e.g. water, drainage, paving, public lighting, green space, and
+          community centers. To be considered a polygon, at least 80% of its lots must be
+          occupied, and it must measure more than 10 manzanas in total. The formula used
+          to create the polygons combines socioeconomic data and information on access to
+          services based on census and municipal data. All municipios with more than
+          15,000 inhabitants have at least one polygon, the dynamics and development of
+          which depends on poverty conditions and the aforementioned deficits.
+1.3       Since the Habitat Program was launched in 2005, the Bank has supported it
+          through three loans: 1583/OC-ME, 1928/OC-ME, and 2569/OC-ME
+          (US$780 million). Between 2005 and 2014, the program worked with a universe
+          of 3,351 polygons located in the 705 municipios that make up the National Urban
+          System.7 Through works and actions, the program has supported 57% of that
+          universe, benefiting four million households.
+1.4       The program has a solid execution track record and demonstrated capacity to
+          deliver federal resources to the municipios in a timely and appropriate manner. On
+
+1
+     “Habitability” is defined as a set of basic characteristics and qualities—both social and urban—that
+     contributes to creating a public space that is appropriate for and conducive to the development of the
+     households in the polygon. At a minimum, these characteristics include complete streets, water, sanitation,
+     paving, public lighting, an interconnected and accessible road network, and CDCs.
+2
+     Works and activities are financed with federal resources (provided in part by this operation), supplemented
+     with state and municipal resources.
+3
+     CDCs provide differentiated social and community services based on local demand. They generally include
+     recreational areas.
+4
+     The objectives of these activities are based on demand in each community, ranging from specific training
+     workshops to the promotion of social integration through sports and cultural activities or violence prevention
+     actions.
+5
+     In a very few cases, it is not feasible to build a CDC due to a lack of available physical space. In such
+     circumstances, the program is authorized to finance activities in other buildings.
+6
+     According to the National Council for the Evaluation of Social Development Policy (CONEVAL), a household
+     is defined as poor when it has at least one social gap―in the six indicators, i.e. access to education, access
+     to health care services, access to social security, dwelling quality and size, access to basic services in the
+     dwelling, and access to food―and its income is insufficient to buy the goods and services necessary to meet
+     its food and nonfood needs.
+7
+     The country has 2,457 municipios, 705 of which have more than 15,000 inhabitants. National Statistics and
+     Geography Institute (INEGI).
+                                                      -2-
+
+
+
+          average each year, it funds 3,000 infrastructure works and 12,000 training
+          workshops or social development activities, while supporting the municipios in
+          planning and executing these interventions. The cornerstones of this capacity are:
+          (i) the program’s georeferenced management information system (Comprehensive
+          Information System on Social Programs–SIIPSO), which facilitates the real-time
+          flow of requests, approvals, and payments between the municipal and federal
+          levels; (ii) the structure of the local offices of the Department of Agrarian,
+          Territorial, and Urban Development (SEDATU) in each state, which collaborate
+          with the municipios to execute the program; and (iii) the municipios’ commitment to
+          plan, provide local financing, and execute the investments.
+1.5       The Habitat Program is locked in as part of the federal strategy for serving urban
+          areas.8 The change in the executing agency from the Department of Social
+          Development (SEDESOL) to the new SEDATU in 2013 neither affected the
+          program’s ability to achieve its objectives nor the pace of its execution. This has
+          enabled the program to maintain a long-term vision and make ongoing
+          improvements, updating itself to meet the changing needs of the country and the
+          beneficiaries. The following new features were included in the most recently
+          approved operation (loan 2569/OC-ME, 2012-2015): (i) a line of financing for social
+          prevention of violence,9 as a supplementary line for urban renewal; and
+          (ii) methodologies for the environmental sustainability of the investments
+          (paragraphs 1.8 and 1.9, respectively).
+1.6       Impact and outcomes achieved. A pilot impact evaluation10 of the Habitat
+          Program (2009-2012) was conducted—one of the first of its kind for neighborhood
+          improvement programs—which demonstrated the positive effect of the strategy of
+          targeting polygons. Although the municipios have their own resources to invest in
+          infrastructure and services as they see fit, in terms of their Habitat-supported
+          interventions, these investments tended to be concentrated in the most
+          underserved areas. In the areas targeted by the program, the price per square
+          meter (proxy for habitability) increased by 15%, whereas the corresponding
+          increase for the control group was only 5%. Moreover, the economic analysis of
+          the project supplementing the impact evaluation showed that every peso invested
+          in urban environment improvement projects yielded a return of 2.8 pesos.11
+1.7       A comparison between the control group and the treatment group revealed the
+          following statistically significant gains in the latter: (i) 3% in the urban infrastructure
+          availability index;12 (ii) 7% in dwellings with paved roads and sidewalks; and (iii) 6%
+          in dwellings with functioning public lighting. In terms of users’ satisfaction with their
+          environment, the polygons in which the program had been implemented were:
+          (i) 9% more satisfied with public lighting; and (ii) 7% more satisfied with their
+          neighborhoods’ streets and sidewalks than the control group. Moreover, in the
+          communities where the Habitat Program was implemented, there was an increase
+8
+     In fact, it complements the actions of other federal programs, such as the Public Spaces Rehabilitation
+     Program, the Housing Unit Recovery Program, and efforts to regularize informal areas.
+9
+     This refers to the Preventive Interventions Pillar incorporated into the program in 2012 (program Operating
+     Regulations).
+10
+     Colegio de la Frontera Norte.
+11
+     For further details on the program’s outcomes, as well as an infographic summarizing the Habitat Program’s
+     pilot impact evaluation, see the Development Effectiveness Overview 2014, Inter-American Development
+     Bank, pp. 126-128 (https://iadb.org/publications/DEO 2014).
+12
+     Combines access to sidewalks, paved roads, public lighting, water, and drainage.
+                                                       -3-
+
+
+
+          in trust among neighbors and in their sense of belonging, as they had community
+          centers that offered a broad range of services and activities for adults and young
+          people. Lastly, the program had a spillover effect on the quality of the housing in
+          the targeted neighborhoods: these neighborhoods show a significant difference
+          with respect to the housing in the control group in terms of water or sanitary
+          service connections, and in the improvement of flooring materials.
+1.8       Regarding social prevention of violence as a complementary action to urban
+          renewal, more than 1,300 CDCs have been built or recovered. These centers offer
+          specific social development activities and workshops. Since 2014, the program’s
+          works have been increasingly framed in a planning process based on the “crime
+          prevention through environmental design” methodology. Thus, in addition to
+          building, expanding, or upgrading CDCs, “safe routes” are selected and lit,
+          degraded public spaces are rehabilitated, and prevention activities are financed,
+          which range from the prevention of domestic violence or bullying in schools to a
+          variety of training activities.13 These activities have been carried out in more than
+          303 municipios.
+1.9       Additionally, the municipios’ capacity to mitigate and adapt14 to the impacts of
+          climate change has been strengthened, and effective actions have been added to
+          reduce greenhouse gas emissions. Through the program, SEDATU15 is
+          undertaking important actions, such as: (i) promoting executing agency and
+          community capacity-building in the areas of sustainability and the protection and
+          preservation of the natural environment; (ii) financing urban watercourse sanitation
+          projects; (iii) utilizing more sustainable materials in infrastructure works (e.g. eco-
+          friendly concrete and energy efficient lighting); and (iv) financing works to improve
+          and maintain forest cover in cities (tree planting). Adopted in 2014 and
+          implemented in 201 CDCs thus far, the sustainable community development
+          center concept advocates the rational use of nonrenewable natural resources by
+          encouraging construction with materials that minimize environmental impacts,
+          bioclimatic architectural designs, and the use of energy efficient systems and
+          devices (e.g. solar panels, recycling water for irrigation, water catchment, and
+          green rooftops).16
+1.10      Rationale and lessons learned. The Habitat Program’s continued operation is
+          justified by the positive results it has obtained in improving habitability conditions in
+          polygons with deficiencies. The experience amassed over 10 years of working
+          jointly with Mexico—in addition to more than 25 years in other countries of the
+          region—has been acknowledged in Bank publications and in the external
+
+
+13
+     Since 2014, 70% of the job skills training courses offered by the program have been certified by official
+     accreditation agencies.
+14
+     The program includes works in the mitigation and adaptation category. For example, tree planting contributes
+     to climate change mitigation—since trees absorb CO2—and adaptation by providing shade and reducing
+     landslides. The bioclimatic designs of some CDCs are adapted to the local temperature, and also provide for
+     the use of energy efficient devices, such as energy-saving light bulbs or solar water heaters, thus
+     contributing to mitigation.
+15
+     SEDATU is among the departments that contribute to Mexico’s Special Climate Change Program. This
+     program contributes to compliance with its Strategy (paragraph 1.2) by implementing actions to reduce the
+     urban population’s climate change risk.
+16
+     The issues of social prevention of violence and climate change impacts were not included the impact
+     evaluation, because at the time of the evaluation, they were only pilot interventions.
+                                                       -4-
+
+
+
+          literature.17 The results of this program’s impact evaluation (paragraphs 1.6 to 1.9)
+          and the evaluation of similar programs18 highlight the importance of territorial
+          targeting, as well as the relevance of adopting a multisector and cross-sector
+          approach to address and manage the basic infrastructure and social service needs
+          of households, such as risk factors associated with the problems of violence and
+          insecurity. The benefits of this approach have been confirmed by experience and
+          research, which show that improving the physical environment is a prerequisite to
+          advancing social development, and that both interventions should be done in
+          coordination so as to increase their impact.19
+1.11      Some interesting lessons have also been gleaned at the operational level: a 2013
+          SEDATU analysis of the program’s investments found that the lack of investment
+          planning had resulted in a significant dispersion of the investments, even within the
+          polygons. It was therefore not unusual to encounter polygons where water had
+          been installed in one section, pavement in another, and lighting in yet another. No
+          systematic planning process was followed for investments—since it was not a
+          requirement—and little thought was given to efficiency considerations or
+          developing synergies to maximize their impact.
+1.12      With respect to social prevention of violence activities to complement urban
+          renewal efforts, the program’s expansion into new municipios since 2014 brought
+          to light the municipios’ low capacity to formulate, monitor, and supervise such
+          activities. This demonstrated the need for Habitat to provide local authorities with
+          more support to: (i) develop a planned institutional response to the problems of
+          violence and insecurity; and (ii) systematize interventions.
+1.13      In this context, the program’s main challenges are:
+1.14      Insufficient infrastructure and services. The program has helped raise national
+          averages for basic infrastructure coverage above 90%. Nevertheless, high levels of
+          inequality in access to urban services in the country’s municipios persist, especially
+          in those containing polygons that are eligible for the program. These municipios
+          have very limited own resources and low institutional capacity, which prevents
+          them from addressing the needs of all areas with infrastructure and service deficits.
+          According to a 2014 update conducted by SEDATU,20 there are still
+17
+     Inter-American Development Bank (IDB), 2012, Slum Upgrading: Lessons Learned from Brazil,
+     Magalhães, F. and F. di Villarosa, editors; IDB, 2009, Building Cities: Neighborhood Upgrading and Urban
+     Quality of Life, Rojas, E. editor; IDB, 2007, Facing the Challenges of Informal Settlements in Urban Centers:
+     The Re-urbanization of Manaus, Brazil, Magalhães F. and E. Rojas. With respect to Mexico specifically, see
+     Gonzalez-Navarro, M. and C. Quintana-Domeque, 2010. Urban Infrastructure and Economic Development:
+     Experimental Evidence from Street Pavement, IZA, Discussion Paper 5346, November 2010.
+18
+     Results of An Impact Evaluation Study of the Upgrading of Informal Settlements Programme in Selected
+     Projects in South Africa, 2011, World Bank; Indonesia: Evaluation of the Urban Community Driven
+     Development Program, 2013, World Bank; and the final evaluation of the Barrio Improvement Program II
+     (PROMEBA II), 2011.
+19
+     Moser, C. 2006, The Stages-of-Progress Methodology, Assets, and Longitudinal Trends: Results from a
+     Five-year Study in 236 Communities of Five Countries; Asset Accumulation Policy and Poverty Reduction;
+     Solimano, A. 2006; Asset Accumulation by the Middle Class and the Poor: Economic Considerations and the
+     Latin American Experience; Cattaneo M. et al., 2009, Housing, Health, and Happiness, American Economic
+     Journal: Economic Policy, 1:1, 75-105. Also, the experience of countries such as Brazil, with a strong
+     tradition of integrated neighborhood improvement programs, has also shown that the social needs of an
+     underserved population cannot be adequately addressed without also recovering the fiscal environment,
+     Claudio Beato. 2012, Crime e Cidades [Crime and Cities], Editora UFMG.
+20
+     The map of program polygons was updated based on 2010 census data, eliminating those in which urban
+     and social infrastructure gaps had been closed and habitability had been improved.
+                                                       -5-
+
+
+
+          2,948 polygons in the country with high levels of social gaps, where some six
+          million households reside. Of this total, the program has accorded priority to
+          777 containing dwellings with the most deficiencies. Of these, the current stage of
+          the program will have the capacity to address the needs of approximately 400.21
+          Specifically, these deficiencies are in terms of: (i) paved roads and sidewalks
+          (34.2%); (ii) public lighting (26.5%); (iii) potable water (9.2%); and (iv) sanitary
+          drainage (4.4%). Most of the polygons lack green spaces,22 community support
+          networks, and common spaces where support services could be provided to
+          strengthen the skills and income-earning opportunities of men and women. This is
+          especially important for women, since they already account for 25% of the
+          country’s heads of household. Most of these women are responsible for household
+          tasks, and 60% work in the informal sector.23
+1.15      Insecurity. The aforementioned deficiencies are coupled with the current state of
+          insecurity and violence in these areas24 and in the rest of the country. Although the
+          Mexican government’s 2014 report on the main advances made in the country’s
+          security policy shows a downward trend in criminal activity in the country in the last
+          year—with a national homicide rate of 17 per 100,000 inhabitants and a crime rate
+          of 1,328 per 100,000 inhabitants25—Mexico remains one of the countries most
+          affected by violence, with an estimated 1.34% loss of GDP (US$14.3 billion)26 and
+          the region’s highest rates of perceived insecurity (72.3% for persons over 18).
+          Young people are both the main victims and perpetrators of this violence. 27 While
+          much of the escalation in violence is attributable to drug trafficking and differences
+          vary significantly by region, there are underlying risk factors for this problem,
+          including: (i) domestic violence; (ii) the unemployed population; (iii) the high
+          percentage of children and adolescents ages 6 to 17 who do not attend school;
+          (iv) the low level of household income; (v) overcrowded housing conditions; and
+          (vi) the percentage of young people who neither work nor study. Although the
+          polygons targeted by the program do not necessarily have the country’s highest
+          violence or homicide rates, the above-mentioned risk factors are present at high or
+
+21
+     This is an estimate based on the levels of service provided in previous stages and therefore not a maximum
+     limit or exact figure to be executed by the program. Interventions in some of these polygons began in 2015,
+     and this work will continue in the coming years.
+22
+     The Public Spaces Rehabilitation Program, for which SEDATU is also the executing agency, analyzed the
+     777 polygons prioritized by the Habitat Program and identified 450 degraded amenities.
+23
+     In 2014, Mexico’s National Women’s Institute (INMUJERES) conducted a study of 37 federal programs,
+     including Habitat. With respect to the latter, it found significant gender gaps in areas such as capacity-
+     building, education, and domestic violence prevention in the targeted polygons. The activities under
+     Component II are aimed at narrowing most of these gaps, while taking into account the specific needs of
+     women.
+24
+     Criminal activity is a recurring problem in areas and neighborhoods with serious physical and environmental
+     degradation, as well as poor socioeconomic conditions. While deteriorated neighborhoods are not always
+     violent, violent neighborhoods are always deteriorated. C. Beato. Crime e Cidades, 2012, p. 183.
+25
+     Informe de Principales Avances de la Política de Seguridad del Gobierno de la República 2014 [Report on
+     the Main Progress of the Security Policy of the Government of the Republic 2014], Department of the
+     Interior, Department of National Defense, Department of the Navy (Mexican Navy), and the Office of the
+     Attorney General.
+26
+     This figure refers to the Mex$215.2 billion cited in Mexico’s 2013 National Survey on Victimization and
+     Perception of Public Security.
+27
+     The national average homicide rate was 21 per 100,000 inhabitants, reaching 38 among 20- to 24-year-olds,
+     and 45 among 25- to 29-year-olds (INEGI, 2011). On average, 18- to 29-year-olds accounted for 41.4% of
+     alleged offenders in cases under federal jurisdiction and for 50% in cases under local jurisdiction during the
+     2000-2008 period. World Bank, 2012, La violencia juvenil en México [Youth Violence in Mexico].
+                                                      -6-
+
+
+
+          very high levels in 25% of the municipios the program has slated for intervention,
+          and at moderate levels in 35%.28
+1.16      Limited resources versus service demand. The program’s universe of
+          intervention is still quite extensive (paragraph 1.14). Considering the current
+          deficits in the priority polygons and the program’s average annual budget, it would
+          take at least 15 years to eliminate them,29 and this does not factor in any new
+          intervention areas. In addition to budget insufficiency, two aspects of the program’s
+          design have thus far prevented it from maximizing the impact of its resources:
+          (i) the program has historically accorded priority to the continuity of investments in
+          the polygons (i.e. completing investments that have begun in one polygon before
+          moving on to another), which is why no new polygons have been added in recent
+          years; and (ii) until 2014, the program’s Operating Regulations had established a
+          relatively low annual investment ceiling per polygon, averaging US$450,000,30 so it
+          took several years to close the gaps identified.
+1.17      Program strategy. Based on the positive findings of the evaluations conducted and
+          the lessons learned in the Bank’s monitoring of the execution of this and other
+          similar programs in the region, this operation will complement previous interventions
+          while still: (i) targeting polygons; (ii) pursuing simultaneous interventions in physical
+          works and complementary social development and prevention activities; and
+          (iii) building municipal capacity to plan interventions.
+1.18      To address the pending challenges, these practices will be supplemented by:
+          a. Targeting actions in the 777 polygons in which households have the most
+             pronounced urban infrastructure gaps; most of these are new to the program.
+          b. Eliminating the investment ceiling per polygon, thereby enabling municipios
+             with the means to contribute more of their own resources to access additional
+             federal funding.
+          c. Stepping up social prevention of violence activities, including: (i) use of the
+             crime prevention through environmental design approach for investments in
+             public commons; (ii) a focus on violence prevention programs targeting at-risk
+             youth, offering them ongoing activities (i.e., job training and cultural and
+             sporting activities to pursue in their free time) designed based on international
+             good practices; (iii) training for local officials in the design and implementation
+             of prevention plans; and (iv) the documentation of prevention experiences.
+          d. Concentrating actions to prevent the fragmentation of investments and
+             enhancing the program’s impact through: (i) emphasis, in planning, on the
+             mandatory preparation of a comprehensive action plan for each polygon (each
+             such plan will prioritize investments in subareas where gaps are concentrated);
+             (ii) the incorporation of the complete streets concept, which provides that all
+             urban infrastructure (e.g. water, drainage, paving, sidewalks, and lighting) be
+             installed or completed for each street targeted for intervention; and (iii) the
+
+28
+     SEDATU built and calculated a municipal vulnerability index that correlates these risk factors with the
+     cumulative homicide rates per 100,000 inhabitants in the municipio analyzed.
+29
+     At the current pace of investment—US$303.5 million per year, including the funding provided by the Bank
+     and the contributions of the federal and municipal governments—it would take approximately 15 years to
+     close all gaps in the program’s 777 priority polygons.
+30
+     Notwithstanding the differences between programs, the budget for a Habitat polygon represents roughly half
+     the amount invested by similar programs in the region.
+                                                     -7-
+
+
+
+              continuation of actions that effectively improve the municipios’ capacity to
+              mitigate and adapt to the impacts of climate change (paragraph 1.9).
+1.19      Strategic alignment. The program’s actions are consistent with the territorial
+          development focus of the IDB country strategy with Mexico 2013-2018 (document
+          GN-2749). The objective in the urban sector is to promote the orderly, safe, and
+          sustainable development of cities, with a focus on: (i) fostering sustainable and
+          smart urban development; (ii) narrowing gaps in housing and basic utilities; and
+          (iii) creating favorable urban environments that deter the causes of crime and
+          violence. The Urban Development and Housing Sector Framework (document
+          GN-2732-2) identifies comprehensive urban interventions as one of the lines of
+          action guiding the Bank’s operational activities. The operation is also aligned with
+          the Operational Guidelines for Program Design and Execution in the Area of Civic
+          Coexistence and Public Safety (document GN-2535-1), and with the Citizen
+          Security and Justice Sector Framework (document GN-2771-3). With regard to
+          climate change, the program is aligned with the Bank’s Integrated Strategy for
+          Climate Change Adaptation and Mitigation, and Sustainable and Renewable
+          Energy (document GN-2609), through its efforts to build municipal capacity on
+          climate change issues, as well as direct financing for mitigation and adaptation
+          activities in vulnerable urban areas. It will also contribute to the lending priorities of
+          the Report on the Ninth General Increase in the Resources of the Inter-American
+          Development Bank (document AB-2764) on: (i) poverty reduction and equity
+          enhancement; and (ii) supporting initiatives in the areas of climate change,
+          renewable energy, and sustainable practices. Likewise, it will contribute to regional
+          infrastructure targets for competitiveness and social welfare by: (i) increasing
+          coverage of paved roads through the indicator “square meters built or rehabilitated
+          with pavement”; and (ii) reducing gastrointestinal diseases through the indicators
+          “linear meters of potable water built or rehabilitated” and “linear meters of drainage
+          and sewers built or rehabilitated”; as well as the regional target on protecting the
+          environment and responding to climate change. Lastly, it will contribute to the
+          priority of Sector Strategy Institutions for Growth and Social Welfare (document
+          GN-2587-2).
+1.20      The program meets the financial sustainability and economic evaluation conditions
+          of the Public Utilities Policy (document GN-2716-4) and is consistent with the
+          policy’s principles (Public Utilities Policy compliance analysis). The basic
+          infrastructure works are socioeconomically viable (paragraphs 1.6 and 1.26). The
+          federal resources—which are partially financed by this program and supplemented
+          with local resources—are allocated in a transparent manner,31 with a view to
+          expanding access to basic urban infrastructure and social services
+          (paragraph 1.21). To support the distribution of resources to eligible polygons, local
+          and/or state governments will conduct participatory community-based
+          assessments, and will also organize planning workshops with the community.
+          These workshops will develop and forward proposals to the execution unit, which
+          in turn transfers funds from the federal contribution to the aforementioned
+          governments for implementing the projects (paragraph 3.3 addresses selection
+          and implementation considerations). This includes the execution and maintenance-
+          related aspects of the investments pursuant to the federal regulatory framework on
+
+
+31
+     The program distributes resources among the states of the federation according to a national distribution
+     formula based on socioeconomic conditions.
+                                                        -8-
+
+
+
+          contracting public works and procurement, in keeping with Bank policies (program
+          Operating Regulations).
+B.        Objectives, components, and cost
+1.21      Objective. To help improve habitability in areas with social and urban infrastructure
+          gaps32 by: (i) expanding access to such infrastructure; and (ii) promoting social
+          development in safe spaces. In keeping with this objective, the project is divided
+          into three components:
+1.22      Component I. Improvement of the urban environment (US$164 million). The
+          objectives are to: (i) expand or build basic urban infrastructure in the polygons;
+          (ii) provide or rehabilitate urban equipment and street furniture, taking situational
+          crime prevention guidelines into account; and (iii) promote crosscutting climate
+          change actions in the design of infrastructure works and equipment, and in the
+          operation of the CDCs.33 Support will be provided for urban infrastructure networks
+          (e.g. paving, potable water, sanitary and storm drainage, road and sidewalk
+          construction, electrification, and public lighting), as well as the construction or
+          upgrading of social and community infrastructure (e.g. CDCs).
+1.23      Component II. Promotion of social development (US$31.24 million). The
+          objectives are to strengthen the individual capacities of polygon inhabitants and
+          improve citizen security and civic coexistence interventions. This component will
+          support activities including social integration and violence prevention to be carried
+          out at the CDCs, based on demand in each community. These activities include
+          specific training workshops,34 activities with a gender focus,35 and sporting or
+          cultural activities that encourage positive use of free time. Also included are
+          actions to prevent young people from engaging in risk behaviors. In addition, this
+          component may support participatory community-based assessments and action
+          plans that combine urban renewal interventions with measures for social
+          prevention of violence, as well as other activities promoting social development.
+          This component will include pilot programs, on the basis of which a more extensive
+          plan will be developed to strengthen the civic coexistence and social prevention of
+          violence intervention methodology, and to fine-tune the programmatic content.36
+1.24      Component III. Institutional strengthening (US$4.4 million). The objectives are
+          to build the capacities of the executing entities to formulate, monitor, execute, and
+          evaluate this project, and the capacity of the execution unit to select the executing
+          agency to manage it. Accordingly, the component will support actions including:
+
+32
+     The Social Gap Index is a weighted measurement that combines four social gap indicators (education,
+     health, basic services, and housing spaces) into a single index. www.coneval.gob.mx.
+33
+     This will be done by adopting better designs for infrastructure works that municipios have traditionally carried
+     out, through training and workshops that promote the use of eco-friendly technologies in works, such as
+     hydraulic cement and the use of biodigesters to treat wastewater. In addition, steps will be taken to
+     encourage the rational use of nonrenewable natural resources through the installation of energy efficient
+     systems, e.g. solar panels and solar water heaters, devices for capturing and reusing rainwater; and green
+     rooftops.
+34
+     Workshops on sewing, cooking, handicrafts, carpentry, plumbing, hairdressing, vegetable gardening, and
+     others, aimed at supplementing family income.
+35
+     The aim of training and gender-focused workshops is to help close gender gaps detected in the communities
+     (gender perspectives).
+36
+     The location of the pilots will be determined at the outset of execution, in localities where the greatest
+     demand for such interventions is identified, together with municipal willingness to carry them out.
+                                                       -9-
+
+
+
+          (i) training activities targeting the project’s central, local office, and executing
+          agency levels in the areas of planning (preparation of a comprehensive action
+          plan), climate change, and environmental sustainability; (ii) training for local
+          authorities in identifying, assessing, planning, executing, and monitoring programs
+          for social prevention of violence; (iii) training activities and opportunities to share
+          experiences with and among the authorities and beneficiaries in the municipios
+          and polygons targeted for intervention; (iv) forums for transferring knowledge and
+          good practices between the central level and the executing agencies; and
+          (v) integrating the SIIPSO with other execution unit information systems so as to
+          improve its capacity to analyze information.
+C.        Key outcome indicators
+1.25      Expected outcomes. Of the 777 priority polygons, in this project the available
+          resources are expected to partially cover half (400), encompassing two million
+          households. The project’s impact indicator will be property value, which is a proxy
+          for improved habitability in the polygons. The outcome indicators include: (i) the
+          narrowing of deficits in service coverage (i.e. water, drainage, paving, and public
+          lighting); (ii) the improvement in the perception of safety in the targeted areas,
+          among the population as a whole and women specifically; and (iii) the
+          improvement in the employment status of young people who participate in
+          prevention workshops for that purpose. Also included are sector output indicators
+          regarding: (i) the beneficiaries of improved housing solutions; and (ii) the
+          beneficiaries of citizen security projects designed or evaluated by the Bank
+          (Annex II, Results Matrix).
+1.26      Economic evaluation. As part of this evaluation, a cost-benefit analysis was
+          conducted that compared the costs of the program’s planned investments with
+          their expected benefits. The program’s costs37 include the investments and
+          expenses associated with program operation and maintenance, as well as the
+          costs of environmental mitigation and monitoring. The benefits derive from the
+          residents’ enhanced well-being attributable to the works executed in their
+          polygons, and expressed as appreciation in the property values of lots, which are
+          expected to increase 15% in polygons targeted by the program versus a
+          5% increase in polygons that were not. This 10% difference means that, based on
+          a 12% discount rate and a 20-year evaluation horizon, net present value is positive
+          and equivalent to US$90 million. Moreover, the program’s cost-benefit ratio is 1.45,
+          meaning that every dollar invested generates US$1.45 in benefits. Lastly, the
+          sensitivity analysis conducted on the main variables impacting costs and benefits
+          showed that the program’s results would continue to be solid in the event of
+          increases in maintenance costs for the program’s main investments, and a
+          reduction in the value of home prices (economic analysis).
+
+                            II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       The total cost of the project will be US$200 million, which will be financed with an
+          investment loan from the Ordinary Capital.
+
+
+37
+     Infrastructure costs are expected to account for 80% of the program’s total cost, and the investments will be
+     executed over a three-year period.
+                                             - 10 -
+
+
+
+                                 Table 1. Program costs (in US$ thousands)
+                                    Component                                 Bank       %
+       Component I. Improvement of the urban environment                     164,000    82
+       Component II. Promotion of social development                          31,240    16
+       Component III. Institutional strengthening                              4,400     2
+       Project management
+         Evaluation                                                              210     0
+         Auditing                                                                150     0
+       TOTAL                                                                 200,000   100
+
+
+2.2   The Habitat Program’s execution record is solid. Of the last three operations, two
+      were executed in three years, as planned. With respect to the remaining operation,
+      it requested a one-year extension, due mainly to the time involved in the 2013
+      change in administration and at SEDATU. On average each year, the program
+      disburses between US$65 million to US$70 million, as illustrated in the following
+      table:
+
+                       Table 2. Schedule of disbursements (in US$ millions)
+                  2016                       2017                         2018
+                   60                         70                            70
+
+
+
+B.    Environmental and social risks
+2.3   This program does not require classification under Directive B.13 of the IDB’s
+      Environment and Safeguards Compliance Policy (Operational Policy OP-703).
+      During the preparation of loan 2569/OC-ME and the current project, a profile of the
+      environmental performance of Bank-financed actions was prepared. It showed that
+      99% of investments are small in scale, involve little or no environmental complexity
+      (construction or rehabilitation of public lighting, sidewalks, urban infrastructure,
+      etc.), and generate significant positive social impacts. The few adverse
+      environmental and social impacts associated with the program are localized,
+      temporary, and readily mitigated. Hence, the environmental and social risk is
+      minimal. In these cases, verification of the operations against the Bank’s list of
+      excluded activities and use of Mexico’s regulatory framework while following the
+      executing entities’ supervision protocols (states and municipios), even in the
+      municipios lagging farthest behind, are sufficient to safeguard the low degree of
+      the program’s adverse environmental and social impacts.
+2.4   A few works were also identified that, due to their nature, could generate more
+      intense and longer-lasting environmental and social impacts. These were assigned
+      a higher risk profile (Annex II of the environmental and social management report).
+      For the time being, the program will finance only one type of work in this category,
+      such as road or paving works covering a significant area (more than 50,000 m2).
+      For works like these with a higher risk profile and/or an investment value over
+      US$5 million, implementation of the environmental and social management system
+      will be requested, as described in the environmental and social management
+      report.
+2.5   Lastly, ex post supervision is proposed for all works supported by the project,
+      including those with a high risk profile. Each year the Bank will select a random
+                                           - 11 -
+
+
+
+      sample of such works and will conduct inspection visits to verify compliance with
+      the required environmental and social procedures and, if necessary, agree on
+      corrective measures. Lastly, in the event of a significant change in the size or
+      nature of the operations and/or the program, a review of this environmental and
+      social strategy may be requested and any necessary corrections made
+      (environmental and social management report).
+C.    Fiduciary risks
+2.6   Based on the Bank’s experience with this executing agency and projects with
+      Mexico’s federal government, the fiduciary and procurement risks are classified as
+      low. Given the Department of Social Development’s satisfactory transfer of this
+      operation and its information systems to SEDATU in 2013, and the effective
+      participation of the states and municipios in the program, the current structure
+      should remain in place, in which SEDATU’s execution unit is responsible for
+      coordinating, managing, and executing the program, as well as for monitoring
+      technical, programmatic, budgetary, and financial considerations. In May 2015, an
+      analysis of SEDATU’s institutional capacity was conducted using the Bank’s
+      Institutional Capacity Assessment System (ICAS), resulting in an average weighted
+      score of 97%, indicating a satisfactory level of development and confirming the
+      project’s low fiduciary execution risk (see Annex III Fiduciary Agreements and
+      Requirements and the evaluation report on SEDATU institutional capacity).
+2.7   This classification of SEDATU is consistent with the low fiduciary risk associated
+      with municipal execution. No problems were observed in its last two operations with
+      the Bank. This is partly due to the fact that the municipios are very familiar with how
+      the program operates and that it: (i) finances works projects that are traditionally
+      associated with municipios, which they request and cofinance; and (ii) provides
+      support and guidance to improve the quality of municipal planning. The Operating
+      Regulations also include provisions for reallocating resources in the event the
+      municipios fail to comply in a timely manner with their plans or commitments.
+D.    Other risks
+2.8   Two potential medium risks have been identified: (i) coordination difficulties
+      between the public works and social development areas of the municipios in terms
+      of implementing the actions set out in the comprehensive action plan; and (ii) the
+      possibility that young people may not be interested in participating in activities for
+      social prevention of violence. To mitigate the first risk, the various municipal
+      government agencies would take part in developing the comprehensive action
+      plans, through an administrative act issued by the mayor requiring the involvement
+      and collaboration of the aforementioned areas. Regarding the second, the young
+      people benefiting from the program would take part in formulating proposals for
+      activities to be included in the comprehensive action plan, prompted by the sharing
+      of similar experiences that have met with successful outcomes in other countries,
+      and conducting a communications campaign to raise awareness on the available
+      activities.
+
+                    III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+3.1   Borrower and executing agency. The borrower will be the United Mexican
+      States, acting through the Department of Finance (SHCP). The executing agency
+                                                        - 12 -
+
+
+
+          will be SEDATU, through the execution unit established or designated for such
+          purposes. Works and services for this project will be contracted by the executing
+          entities (states, municipios, or other entities established in the project’s Operating
+          Regulations) and by SEDATU (for consulting services). Nacional Financiera,
+          S.N.C., I.B.D. (NAFIN) will serve as financial agent and will oversee compliance
+          with the IDB’s rules and policies in order to contribute to the transparency and
+          eligibility of the expenditures. As a special condition precedent to the first
+          disbursement, an agency agreement will be signed between the borrower,
+          SEDATU, and NAFIN.
+3.2       Project execution, administration, and Operating Regulations. The project will
+          be governed by the Habitat Program’s current Operating Regulations, or any
+          updates thereto, as published in the Official Gazette. They were published in
+          accordance with federal laws and regulations, which require that the operating
+          regulations of all programs that receive funds from the federal government be
+          approved and published annually. SEDATU, in consultation with the Bank, will
+          prepare and periodically review the operating regulations.
+3.3       Overall project execution and administration. The execution unit will serve as
+          the financing window for the project and works, which will be proposed and
+          prepared by the state and municipal governments with technical and regulatory
+          support from SEDATU’s local offices in the states. These works and projects will
+          be presented in the comprehensive action plan for each polygon, which is the
+          mandatory planning instrument and must be submitted in order to obtain program
+          resources. In each comprehensive action plan, the municipio’s social development
+          and public works areas submit a coordinated intervention proposal at the request
+          of the mayor, who issues an administrative act for such purpose. Once analyzed
+          by the regional and central authorities, the comprehensive action plans will be
+          approved for implementation.
+3.4       Once agreement is reached on state and municipal cofinancing, coordination
+          framework agreements38 are signed (between SEDATU and the states) as well as
+          specific coordination agreements39 (between SEDATU and the municipios) to
+          establish the responsibilities of the executing agencies for the execution and
+          maintenance of the approved projects. SEDATU headquarters will transfer the
+          resources to its local offices, which will in turn release them to the municipios to
+          make the corresponding contracting arrangements and payments. The SEDATU
+          local office will designate staff for the financial monitoring of the projects at the local
+          level, as well as to supervise and monitor them, retaining all supporting
+          documentation for SEDATU headquarters to process the respective disbursements.
+
+
+38
+     This agreement sets out the state ceiling (which is published in advance in the oficio de distribución de
+     subsidies [official distribution of subsidies letter], the program operating regulations, and the requirement for
+     the executing agencies to submit a comprehensive action plan.
+39
+     Under this agreement, the municipio agrees to: (i) apply the federal subsidies and local financial resources
+     contributed to the Habitat Program, in accordance with applicable legislation; (ii) open a bank account
+     specifically to manage federal resources; (iii) open a bank account to manage local contributions;
+     (iv) supervise program works or actions, and ensure that the program’s execution complies with the pertinent
+     standards; (v) keep the CDCs operating for the purposes agreed upon for a period of at least five years from
+     their delivery date, and schedule and budget for CDC social activities; (vi) maintain works and equipment,
+     and record them in the appropriate inventories, informing the local office with respect to their use and
+     safekeeping; and (vii) maintain the necessary budget resources to cover its contribution for the execution of
+     projects approved under the program.
+                                          - 13 -
+
+
+
+      The original basic documentation used to justify expenditures will remain with the
+      executing entities.
+3.5   Sustainability of project actions. In addition to the above-mentioned contractual
+      provisions for the maintenance of works and the operation of the CDCs, the
+      continuity of social actions and social prevention of violence will be fostered
+      through activities to strengthen the municipios and SEDATU local offices to be
+      financed under Component III. Community committees will also be strengthened to
+      ensure that comprehensive action plan proposals maintain continuity with those of
+      previous fiscal years, and collect information on the workshop preferences of
+      program beneficiaries.
+3.6   The execution unit will be responsible for the general and administrative
+      coordination of the operation, pursuant to the provisions of the project’s Operating
+      Regulations. It will also be responsible for consolidating the project’s financial
+      information and relations with the Bank. NAFIN will be the intermediary for financial
+      management, technical supervision, external auditing, and overall program
+      monitoring. Component III will allow for specific consulting contracts to strengthen
+      the execution unit, SEDATU local offices, and the municipios.
+3.7   Retroactive financing. The Bank may recognize against the loan proceeds eligible
+      expenditures made by the borrower prior to the date the loan is signed in all project
+      categories, for up to US$40 million (20% of the proposed loan amount), provided
+      that requirements substantially similar to those established in the loan contract were
+      met, regardless of their stated source of financing in the federal expenditure budget
+      for the corresponding fiscal year. Such expenditures must have been made on or
+      after 22 April 2015 (project profile approval date), but in no case will expenditures
+      made more than 18 months before the loan approval date be included.
+3.8   Procurement. Two types of procurements are conducted under the program:
+      (i) SEDATU procurement, consisting primarily of consulting services to be provided
+      by consulting firms or individual consultants, as well as nonconsulting services
+      (defined in Component III); and (ii) procurement funded by SEDATU contributions
+      to the states or municipios for the construction or expansion of urban infrastructure
+      (water, sanitation, drainage, paving, public lighting), and the construction,
+      expansion, rehabilitation, and equipping of CDCs, and CDC activities (defined in
+      Components I and II). In the case of the former, procurement will be carried out in
+      accordance with the Policies for the Procurement of Goods and Works Financed
+      by the Inter-American Development Bank (document GN-2349-9) and the Policies
+      for the Selection and Contracting of Consultants Financed by the Inter-American
+      Development Bank (document GN-2350-9), standard bidding documents, standard
+      requests for proposals agreed on between the Bank and Mexico’s Civil Service
+      Department (SFP), and on the basis of the procurement plan.
+3.9   For procurements funded by SEDATU contributions to the states and municipios, a
+      waiver to the Policies for the Procurement of Goods and Works Financed by the
+      IDB (document GN-2349-9) in Components I and II would need to be requested to
+      allow for the use of national legislation. Such a waiver was obtained for the
+      program’s first two operations because: (i) the program is demand-driven and
+      executed during the fiscal year, and it is therefore impossible to identify with
+      sufficient advance notice the list of projects to be supported, the requesters, or the
+      amounts; (ii) some 10,000 procurements are made each year and are widely
+      scattered geographically over some 300 municipios and 32 federative entities; one-
+                                                       - 14 -
+
+
+
+          third are for works (simple40 and executed by local contractors) and the remainder
+          are for goods or nonconsulting services. In view of this, applying the Bank’s
+          procurement policies would entail high costs for the borrower and the Bank alike in
+          terms of transactions, training, and time. Hence, the same reasons a waiver to the
+          Bank’s procurement policies was granted in the two previous operations continue
+          to apply, including that nearly all the contracts (99%)41 were for amounts below the
+          ceiling established by the Bank for the use of the shopping method in Mexico
+          (US$500,000) for works.42 The remaining contracts, involving amounts over
+          US$500,000, would follow the national competitive bidding method.43 It should be
+          noted that Federal Budget and Fiscal Responsibility Law (and its regulations)
+          applies to the requested waiver; it rigorously reviews the physical and financial
+          execution of the works, and the Civil Service Department verifies that the
+          processes comply with the requirements of federal legislation.
+3.10      To verify some of the aforementioned conditions, a consulting firm was hired in
+          2014 to analyze a sample of the procurements conducted between 2012 and 2013
+          and profile: (i) the contracting firms; and (ii) the processes used in awarding
+          106 projects in all amount categories, including all contracts over US$500,000. The
+          consulting study confirmed that all the contracts were awarded to small and
+          medium-sized enterprises in the same locality or state where the works were
+          executed (consequently, it would appear that international bidders would not be
+          interested in these works), and that the percentage of works valued at over
+          US$500,000 is very small (in a two-year sample, there were only 19 such works
+          out of a total of 6,000). Of these 19 works, only one reached US$1.5 million, while
+          the others barely exceeded US$500,000.44 For more detailed information, see
+          Annex III, Fiduciary Agreements and Requirements and the optional electronic link
+          on justification for requesting a waiver of the Bank’s procurement policies.
+3.11      Procurement planning. SEDATU will submit the proposed procurement plan to
+          the Bank for review and approval, in accordance with the provisions of the Bank’s
+          policies governing procurement and the contracting of consultants. The
+          procurement plan will be updated at least every 12 months during execution, and
+          each updated version will be submitted for the Bank’s review and no objection.
+
+
+40
+     Works and consulting contracts average US$60,000 and US$14,000, respectively.
+41
+     The percentage is less than 1%. Between 2012 and 2013, only 19 contracts (.003%) in the latter category
+     were concluded out of a total of 6,759 contracted works.
+42
+     Mexico’s procurement method (invitation to at least three bidders) may be used when the amount falls below
+     the aforementioned ceiling, since it is compatible with the shopping method provided in the Bank’s
+     procurement policies.
+43
+     The differences between Mexican legislation and Bank rules in this category refer to the participation of
+     foreign firms and an award system combining points and price, which involves two potential risks: that
+     interested foreign firms may be prevented from bidding (eligibility risk) and that the contract may not be
+     awarded to the least-cost bid. In both cases, the results of a 2014 consulting study showed that the likelihood
+     of these risks materializing is low. This same study found that because small works located in scattered
+     areas were involved, the contracts would be awarded to local contractors. It also confirmed that, based on a
+     sample, the contracts are awarded to the least-cost bids.
+44
+     Pursuant to its procurement policies, the Bank sets thresholds for each country, over which participation by
+     international firms (international competitive bidding) is possible. Below these thresholds, no international
+     participation is expected inasmuch as the local market has sufficient competitors, and international bidders
+     would not be able to submit competitive bids. The international competitive bidding thresholds for Mexico
+     are: for simple works, over US$15 million; and for complex works, over US$500 million (see footnote 40 on
+     the types of works included in this project).
+                                                       - 15 -
+
+
+
+3.12      External auditing. The program’s annual financial statements will be prepared by
+          SEDATU in accordance with the guidelines issued by the SFP. They will be
+          reviewed by an external audit firm selected by the SFP, and their work will be done
+          in accordance with the general terms of reference harmonized with the World
+          Bank, the SFP, and the IDB. SEDATU will submit the project’s annual financial
+          statements to the Bank, through NAFIN, within 180 days following the end of the
+          federal government’s fiscal year, in view of the fact that 120 days is not enough
+          time for SEDATU to obtain the financial information on the execution of Habitat
+          Program resources from the federative entities and municipios. The annual audit
+          will be conducted by a firm of independent auditors acceptable to the Bank. This
+          firm will be selected on an annual basis by the Civil Service Department.45
+B.        Summary of results monitoring arrangements
+3.13      Monitoring by the executing agency. The execution unit will use the following
+          documents to monitor the project: (i) the Results Matrix; (ii) the multiyear execution
+          plan; (iii) the monitoring and evaluation plan; (iv) the procurement plan; (v) the risk
+          and risk assessment and mitigation matrices; and (vi) the program disbursement
+          plan. The execution unit will prepare consolidated semiannual progress reports for
+          review by the Bank, which will be submitted no later than 60 days following the end
+          of each six-month period.
+3.14      Monitoring by the Bank. The Bank will conduct administration missions or
+          inspection visits, depending on the size and complexity of project execution. In
+          addition, the Bank agrees that the execution unit will use the indicators and format
+          of the progress monitoring report as the basis for its semiannual reports.
+3.15      In addition, there will be yearly joint meetings between the execution unit and the
+          Bank to discuss the project’s progress and the targets for the following year. The
+          execution unit undertakes to maintain a project monitoring and evaluation system,
+          based on which it will prepare the reports and data to be provided to the Bank. The
+          execution unit will also engage a specialist responsible for planning and monitoring
+          its activities.
+3.16      Evaluation. Achievement of the outcome and impact targets set forth in the results
+          matrix will be verified through a final evaluation as well as an ex post cost-benefit
+          analysis. The final evaluation will be performed when 90% of the loan proceeds
+          have been disbursed and will focus on verifying the degree of fulfillment of the
+          targets set for each of the expected outcomes and the generation of outputs by
+          component. It will include: (i) a survey to measure the change in security conditions
+          in the municipios where most of the interventions are concentrated; and (ii) an
+          evaluation of the results of social prevention of violence programs targeting young
+          people. The aim of the ex post cost-benefit analysis is to measure the project’s
+          results and benefits (monitoring and evaluation plan).
+
+
+
+
+45
+     The minimum information required for audits will include the annual financial report, which has been
+     accepted by NAFIN in terms of the consistency of the figures, the list of projects supported with Bank
+     resources during the fiscal year under review, the execution unit’s organizational structure, the disbursement
+     requests, and the official subsidy distribution letter.
+                                                                                                                                                                                                               Annex I - ME-L1167
+                                                                                                                                                                                                                       Page 1 of 1
+
+
+
+
+                                                                                   Development Effectiveness Matrix
+                                                                                                  Summary
+I. Strategic Alignment
+1. IDB Strategic Development Objectives                                                                                                        Aligned
+                                                                                       -Lending for poverty reduction and equity enhancement
+   Lending Program                                                                     -Lending to support climate change initiatives, renewable energy and environmental sustainability
+
+
+                                                                                       -Incidence of waterborne diseases (per 100,000 inhabitants)
+                                                                                       -Paved road coverage (Km/Km2)
+   Regional Development Goals
+                                                                                       -Countries with planning capacity in mitigation and adaptation of climate change
+
+                                                                                       -Households with new or upgraded water supply
+                                                                                       -Households with new or upgraded sanitary connections
+   Bank Output Contribution (as defined in Results Framework of IDB-9)                 -Km of inter-urban roads built or maintained/upgraded
+                                                                                       -Km of electricity transmission and distribution lines installed or upgraded
+
+2. Country Strategy Development Objectives                                                                                                     Aligned
+
+   Country Strategy Results Matrix                                                                GN-2749              Promote the orderly, secure and sustainable growth of cities.
+
+
+   Country Program Results Matrix                                                                 GN-2805              The intervention is included in the 2015 Operational Program.
+
+
+Relevance of this project to country development challenges (If not aligned
+to country strategy or country program)
+II. Development Outcomes - Evaluability                                                      Highly Evaluable                            Weight                                  Maximum Score
+                                                                                                    9.0                                                                               10
+3. Evidence-based Assessment & Solution                                                            10.0                                  33.33%                                       10
+   3.1 Program Diagnosis                                                                            3.0
+   3.2 Proposed Interventions or Solutions                                                          4.0
+   3.3 Results Matrix Quality                                                                       3.0
+4. Ex ante Economic Analysis                                                                       10.0                                  33.33%                                         10
+  4.1 The program has an ERR/NPV, a Cost-Effectiveness Analysis or a
+                                                                                                     4.0
+General Economic Analysis
+     4.2 Identified and Quantified Benefits                                                          1.5
+     4.3 Identified and Quantified Costs                                                             1.5
+     4.4 Reasonable Assumptions                                                                      1.5
+     4.5 Sensitivity Analysis                                                                        1.5
+5. Monitoring and Evaluation                                                                         7.0                                 33.33%                                         10
+     5.1 Monitoring Mechanisms                                                                       1.5
+     5.2 Evaluation Plan                                                                             5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                               Low
+                  Identified risks have been rated for magnitude and likelihood                                                                  Yes
+                      Mitigation measures have been identified for major risks                                                                   Yes
+        Mitigation measures have indicators for tracking their implementation                                                                    Yes
+Environmental & social risk classification                                                                                                       B.13
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                       Financial Management: Budget, Treasury, Accounting and Reporting, External
+                                                                                                                       control, Internal Audit.
+                                                        Fiduciary (VPC/FMP Criteria)                Yes
+                                                                                                                       Procurement: Information System, Shopping Method, National Public Bidding.
+
+                                                                       Non-Fiduciary
+
+The IDB’s involvement promotes additional improvements of the intended
+beneficiaries and/or public sector entity in the following dimensions:
+
+                                                                     Gender Equality
+                                                                             Labor
+                                                                                                                       The strengthening of the municipal management capacity on areas related to
+                                                                         Environment                Yes                climate change adaptation and mitigation will benefit future works that will not
+                                                                                                                       be financed by the project.
+
+
+                                                                                                                       With the Bank’s resources two consultancies were undertaken to support four
+Additional (to project preparation) technical assistance was provided to the
+                                                                                                                       municipalities in the country in the formulation of participatory diagnostics
+public sector entity prior to approval to increase the likelihood of success of                     Yes
+                                                                                                                       and integral action plans focalized on at-risk youth. These consultancies will
+the project
+                                                                                                                       monitor the execution of these plans as well as their results.
+
+
+
+The ex-post impact evaluation of the project will produce evidence to close
+knowledge gaps in the sector that were identified in the project document
+and/or in the evaluation plan
+
+
+The Habitat Program of Mexico's Federal Government aims to improve the living conditions of households in municipalities with more than 15,000 inhabitants. The Bank has supported Habitat since
+2005 with positive operational results. In the previous project, a rigorous impact evaluation was undertaken that demonstrated that the program had a significant positive impact on the living conditions
+of the beneficiary population, by improving urban infrastructure, and achieving greater population satisfaction with the environment. The execution of the program significantly increased the property
+values of the beneficiary households versus those that did not participate in the program.
+
+The diagnosis is clear and closely linked with the proposal of this new operation, which also includes new areas of support such as violence prevention and capacity to mitigate climate change. This
+project proposes a program focused on the areas that have the greatest infrastructure deficits. It comprises three components: i) improvements in urban areas through the construction of
+infrastructure, provision and rehabilitation of equipment, and promotion of transversal actions on climate change; (ii) promotion of social development by financing social integration activities and
+training for the prevention of violence; and (iii) institutional strengthening, which includes training for municipalities and horizontal transfer of knowledge.
+
+The results matrix has clear vertical logic. The final impact, increase in property values, is generated as a consequence of greater availability of urban infrastructure (water, sewerage, public lighting,
+road pavement), and an improved perception of security. All indicators are SMART.
+
+A cost-benefit analysis was undertaken, which is based on the impact evaluation of the program for the period 2009-2012. This evaluation indicates that Habitat’s interventions produced significant and
+positive results in several dimensions. The improvements are expressed in a greater willingness to pay for property in the intervened areas, which was valued at 66 pesos per square meter over the
+property value of the control group. The cost-benefit analysis of the base case indicates that for every peso invested, 1.45 pesos are recovered in net benefits as a result of the property value increases
+documented on the impact evaluation. This return is consistent with previous evaluations of the program and with other similar programs in the region. The sensitivity analysis indicates that this
+estimation is solid when faced with variations in the most important assumptions.
+
+The monitoring and evaluation plan proposes a reflexive evaluation and an ex post cost-benefit analysis.
+                                                                                                                                                                        Annex II
+                                                                                                                                                                      Page 1 of 5
+
+
+                                                                                         RESULTS MATRIX
+                                                             1                      2
+                              To help improve habitability in areas with social and urban infrastructure gaps by: (i) expanding access to such infrastructure; and (ii) promoting social
+Program objective:
+                              development in safe spaces.
+
+
+Expected impact: Improved habitability in the targeted polygons
+
+           Impact indicator                          Baseline                       Target              Means of verification                               Observations
+                                                                                                     Specialized consulting report.   This indicator is used as a proxy for habitability, since
+Property value per square meter in the                           3                           4
+                                                   Mex$973.80                Mex$1,124.74            Final report from the ex post    property value is a measure of the services and
+targeted areas
+                                                                                                     cost-benefit analysis            features accessible to dwellings and their environs.
+
+                                                                                                              5
+                                                                                        OUTCOME INDICATORS
+Expected outcome 1: Improved access to urban infrastructure in targeted polygons
+                                                   Baseline                Interim
+               Indicator                                                 measurement Target             Means of verification                               Observations
+                                           Unit       Base       Year       2016
+                                                                                                    -Registry of beneficiaries        Deficit = total households without access to paving
+                                                                                                    -Georeferencing of works          (1,045,964) / total households in the 777 priority
+ Paving deficit                             %         34.2       2014          33            31.7   -Census data (2010), National     polygons (3,059,441).
+                                                                                                     Statistics and Geography
+                                                                                                     Institute (INEGI)
+                                                                                                    -Registry of beneficiaries        Deficit = total households without access to water
+ Water access deficit                       %          9.2       2014          8.9           8.7    -Georeferencing of works          (281,104) / total households in the 777 priority
+                                                                                                    -Census data (2010), INEGI        polygons (3,059,441).
+
+           1
+                  “Habitability” is defined as a set of basic characteristics and qualities—both social and urban—that contributes to creating a public space that is appropriate for
+                  and conducive to the development of the households in the polygon. At minimum, these characteristics include complete streets, water, sanitation, paving, public
+                  lighting, an interconnected and accessible road network, and community development centers (CDCs).
+           2
+                  The Social Gap Index is a weighted measurement that combines four social gap indicators (i.e., education, health, basic services, and housing spaces) into a
+                  single index.
+           3
+                  Value (in Mexican pesos) per square meter in 2012 of properties in the control group of loan 2569/OC-ME, updated as of 2015. During the first quarter of the
+                  project’s execution, a consulting firm will be engaged to confirm this value (see monitoring and evaluation plan).
+           4
+                  The results of the impact evaluation conducted for loan 2569/OC-ME were taken into account in calculating the target, i.e. a 5% increase in property value per
+                  square meter of properties that were not targeted for intervention (from Mex$973.80 to Mex$1,022.50) and, based on this result, a 10 percentage point increase in
+                  property value per square meter (from Mex$1,022.50 to Mex$1,124.74) of properties targeted for intervention.
+           5
+                  The outcomes and outputs cited below stem from a combination of federal and state contributions and resources from the municipios where the program
+                  operates.
+                Annex II
+                Page 2 of 5
+
+
+Expected outcome 1: Improved access to urban infrastructure in targeted polygons
+                                           Baseline            Interim
+               Indicator                                     measurement Target         Means of verification                               Observations
+                                    Unit     Base     Year
+                                                                2016
+                                                                                    -Registry of beneficiaries         Deficit = total households without access to drainage
+ Drainage deficit                    %        4.4     2014       3.9        3.4     -Georeferencing of works           (134,522) / total households in the 777 priority
+                                                                                    -Census data (2010), INEGI         polygons (3,059,441).
+                                                                                    -Registry of beneficiaries         Deficit = total households without access to public
+ Public lighting deficit             %       26.5     2014       25.5       24.5    -Georeferencing of works           lighting (809,993) / total households in the 777 priority
+                                                                                    -Census data (2010), INEGI         polygons (3,059,441).
+
+
+Expected outcome 2: Social development strengthened in safe spaces
+                                           Baseline            Interim
+              Indicator                                      measurement   Target       Means of verification                               Observations
+                                    Unit     Base     Year
+                                                                2016
+                                                                                                                       In the survey to be administered in 2018, the
+                                                                                                                       beneficiaries will be asked whether their perception of
+Perception of security               %        N/A                           60       Perception survey on security     security in their neighborhoods had improved,
+                                                                                                                       remained the same, or worsened over the preceding
+                                                                                                                       three years. No baseline will be established.
+Improvement in women’s                                                                                                 Survey responses will be analyzed based on gender
+                                     %        N/A                           70       Perception survey on security
+perception of security                                                                                                 criteria. No baseline will be established.
+                                                                                                                       Measures whether or not young people are employed
+                                                                                                                       12 months after completing the training programs,
+                                                                                                                       which include a series of social prevention activities
+Young people ages 18-24 who
+                                                                                                                       targeting at-risk youth. A consulting firm will monitor the
+have completed training in job                                                          Evaluation report on the
+                                                                                                                       young people who participate in these activities and will
+skills development and have a job    %         0      2015                   5         project’s social prevention
+                                                                                                                       subsequently evaluate the results achieved. The first
+12 months after completing the                                                        activities in four municipios.
+                                                                                                                       report will establish a baseline for this indicator. The
+course
+                                                                                                                       target assumes a 5% increase over the baseline. The
+                                                                                                                       results will be disaggregated for male and female
+                                                                                                                       beneficiaries.
+                                                                                                                                                                  Annex II
+                                                                                                                                                                Page 3 of 5
+
+                                                                                                       6
+                                                                                  OUTPUT INDICATORS
+                                Unit of                                                                     Means of
+Output                         measure     Baseline     Year 1       Year 2       Year 3      Target                                               Observations
+                                                                                                           verification
+Component I
+                                                                                                    Comprehensive
+                                                                                                                          The baseline is 0 because work will be beginning in the
+                                                                                                      Information
+                                                                                                                          777 priority polygons.
+Square meters of roads                2                                                               System on
+                                  m           0       2,500,000    2,500,000    2,500,000 7,500,000                       A percentage of these works will contribute to climate change
+built or repaved                                                                                         Social
+                                                                                                                          mitigation and/or adaptation by installing eco-friendly
+                                                                                                       Programs
+                                                                                                                          concrete.
+                                                                                                       (SIIPSO)
+Linear meters of potable                                                                                                  The baseline is 0 because work will be beginning in the
+                                  LM          0         55,000       55,000      55,000      165,000         SIIPSO
+water built or rehabilitated                                                                                              777 priority polygons.
+                                                                                                                          The baseline is 0 because work will be beginning in the
+Linear meters of sanitary
+                                                                                                                          777 priority polygons.
+drainage and sewerage             LM          0         90,000       90,000      90,000      270,000         SIIPSO
+                                                                                                                          A percentage of these works will also contribute to climate
+lines built or rehabilitated
+                                                                                                                          change mitigation and/or adaptation by preventing flooding.
+                                                                                                                          The baseline is 0 because work will be beginning in the
+Linear meters of                                                                                                          777 priority polygons
+electrification built or          LM          0         10,000       10,000      10,000       30,000         SIIPSO       A percentage of these works will also contribute to climate
+rehabilitated                                                                                                             change mitigation and/or adaptation by installing energy-
+                                                                                                                          efficient lighting.
+                                                                                                                          The baseline is 0 because work will be beginning in the
+                                                                                                                          777 priority polygons
+Number of public lighting
+                                  No.         0         2,500        2,500        2,500       7,500          SIIPSO       A percentage of these works will also contribute to climate
+units built or rehabilitated
+                                                                                                                          change mitigation and/or adaptation by installing energy-
+                                                                                                                          efficient lighting.
+                                                                                                                          The baseline is 0 because work will be beginning in the
+                                                                                                                          777 priority polygons
+Linear meters of
+                                                                                                                          A percentage of these works will also contribute to climate
+stormwater drainage built         LM          0         1,500        1,500        1,500       4,500          SIIPSO
+                                                                                                                          change mitigation and/or adaptation by: (i) preventing climate
+or rehabilitated
+                                                                                                                          change-induced flooding; and (ii) saving energy through the
+                                                                                                                          use of stormwater that does not require purification.
+                                                                                                                          The baseline reflects the total number of CDCs in the
+                                                                                                                          777 priority polygons.
+CDCs built, expanded,
+                                  No.        802         450          450          450        1,350          SIIPSO       A percentage of these works will also contribute to climate
+equipped, and/or upgraded
+                                                                                                                          change mitigation and/or adaptation by adopting bioclimatic
+                                                                                                                          designs and the use of efficient technologies.
+
+
+
+          6
+               The procurement plan will indicate the annualized costs of Component III outputs.
+             Annex II
+             Page 4 of 5
+
+
+                              Unit of                                                                 Means of
+Output                       measure    Baseline     Year 1       Year 2      Year 3      Target                                              Observations
+                                                                                                     verification
+Component II
+                                                                                                                      These courses are driven by community demand. Primarily,
+Number of job skill
+                                                                                                                      these include carpentry, computing, hairdressing, electricity,
+development courses            No.          0        1,900        1,900       1,900       5,700         SIIPSO
+        7                                                                                                             plumbing, cooking and pastry making, information technology,
+imparted
+                                                                                                                      and cosmetology (nails).
+Number of social
+prevention awareness-                                                                                                 Driven by community demand, these courses combine
+raising workshops, group                                                                                              interventions that are enjoyable and attractive for the
+therapy sessions, and          No.          0        2,300        2,300       2,300       6,900         SIIPSO        beneficiaries with prevention workshops on topics such as
+learning labs and                                                                                                     raising awareness about violence and preventing and
+complementary activities                                                                                              reporting crime.
+imparted
+                                                                                                                      Driven by community demand, these courses address
+Number of courses
+                                                                                                                      problems identified by the communities and topics such as
+promoting gender equity        No.          0         800          800         800        2,400         SIIPSO
+        8                                                                                                             women’s leadership, the civic rights of men and women, and
+imparted
+                                                                                                                      domestic violence prevention.
+Design and monitoring
+                                                                                                                    Studies will be conducted to systematize the prevention
+mechanisms for the
+                                                                                                    Report tracking experiences. Based on that work, improvements to the design
+Preventive Interventions       No.        N/A           1                                    1
+                                                                                                     the reforms    and monitoring mechanisms for the Preventive Interventions
+Pillar installed in the
+                                                                                                                    Pillar will be proposed.
+corresponding municipios
+Component III
+Training events in social                                                                           Training report
+                              No. of
+and situational violence                                1                                    1        and list of
+                              events
+prevention                                                                                           participants
+Training events to improve
+                                                                                                    Training report
+technical and operational     No. of
+                                                        1           1            1           3        and list of
+coordination at the           events
+                                                                                                     participants
+municipal level imparted
+Climate change training                                                                             Training report
+                              No. of
+events imparted                                         1                        1           2        and list of
+                              events
+                                                                                                     participants
+
+
+
+
+         7
+             Official agencies in each state have been certifying these courses since 2015.
+         8
+             Skill development and gender-focused workshops are designed to help close gender gaps identified in the communities by Mexico’s National Women’s Institute.
+                                                                                                                                                       Annex II
+                                                                                                                                                     Page 5 of 5
+
+
+                             Unit of                                                        Means of
+Output                      measure    Baseline    Year 1    Year 2    Year 3    Target                                                Observations
+                                                                                           verification
+Forums and workshops
+imparted to transfer
+                                                                                             Report on
+knowledge and good            No. of
+                                                    1         1         1         3       forums and list
+practices between the        forums
+                                                                                           of participants
+central and municipal
+levels.
+Program information
+                                                                                            Integrated       The best reporting and information systems developed will be
+systems integrated into     system                  1                   1         2
+                                                                                              system         presented as proof of this output’s fulfillment.
+SIIPSO
+
+                                                                       SECTOR INDICATORS
+                                                                                                             Among the objectives of this project, dwellings are improved
+                                                                                                             by expanding their access to basic infrastructure. This output
+Beneficiaries of improved                                                                                    measures those dwellings in polygons where the investment
+                              No.        0        140,000   140,000   140,000   140,000      SIIPSO
+housing solutions                                                                                            was completed and that therefore have “complete” streets
+                                                                                                             (access to water, sanitation, electrification, sidewalks, paving,
+                                                                                                             and public lighting).
+                                                                                                             Prevention actions considered here will be those resulting
+Beneficiaries of Bank-                                                                                       from the consulting study currently under way to formulate
+                                                                                            Registry of
+designed or evaluated         No.        0         160       200       240       600                         and implement a series of social prevention activities targeting
+                                                                                           beneficiaries
+citizen security projects                                                                                    at-risk youth. The specific courses and activities are
+                                                                                                             considered in the first two output indicators of Component II.
+                                                                                 Annex III
+                                                                               Page 1 of 7
+
+
+
+
+                        FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+Country:            Mexico
+Project No.:        ME-L1167
+Name:               Project to Address Social and Basic Services Gaps in Urban Areas
+Executing           Department of Agrarian, Territorial, and Urban Development
+agency:             (SEDATU) in collaboration with the states and municipios
+Prepared by:        Gloria Coronel, Víctor Escala, and Uriel Barrios (FMP/CME)
+
+
+                               I.   EXECUTIVE SUMMARY
+
+1.1   The Bank has supported the Habitat Program from its inception (2005) to the
+      present with three loans: 1583/OC-ME, 1928/OC-ME, and 2569/OC-ME, totaling
+      US$780 million in lending resources, and will continue supporting it through the
+      current program. Habitat is a federal government program developed to improve
+      living conditions and access to basic urban and social services in municipios with
+      at least 15,000 inhabitants. It targets underserved areas in municipios—known
+      as polygons—with a comprehensive approach, cofinancing physical and social
+      investments. These include building or expanding urban infrastructure (e.g.
+      water, sanitation, drainage, paving, and public lighting), constructing, expanding,
+      equipping, or upgrading community development centers (CDCs) and funding
+      courses, workshops, and/or complementary activities that take place at the
+      CDCs.
+
+                  II.   THE EXECUTING AGENCIES’ FIDUCIARY CONTEXT
+
+2.1   The borrower will be the United Mexican States, and Nacional Financiera,
+      S.N.C., I.B.D. (NAFIN) will serve as financial agent, in keeping with the agency
+      agreement to be signed by the Department of Finance (SHCP), the executing
+      agency, and NAFIN. The executing agency will continue to be SEDATU, through
+      the executing unit it will designate. In 2013, the new government administration
+      transferred responsibility for the execution of loan 2569/OC-ME from the
+      Department of Social Development (SEDESOL) to SEDATU, and the amended
+      contract was signed on 26 September 2013. The last disbursement date for the
+      loan is 25 April 2016, which has a balance pending disbursement of
+      Mex$16,063,646 (5.7% of the approved amount).
+
+2.2   SEDATU performs its activities in accordance with the policies, strategies, and
+      priorities established in the National Development Plan, the Sector Program, and
+      the strategies of the federal government. For purposes of coordination with the
+      Bank, SEDATU is supported by Nacional Financiera, S.N.C. I.B.D. (NAFIN), as
+      the financial agent that oversees compliance with Bank rules and policies, to
+      support transparency and proper eligibility of expenditures.
+      Annex III
+      Page 2 of 7
+
+
+
+                          III.    FIDUCIARY RISK EVALUATION AND MITIGATION ACTIONS
+
+      3.1     An institutional capacity assessment report on SEDATU was prepared in
+              May 2015, using the Bank’s Institutional Capacity Assessment System (ICAS)
+              tool. The resulting weighted average score was 97%, indicating a satisfactory
+              level of development and low risk in terms of the project’s fiduciary execution.
+
+                                          Table 1: Results of the ICAS tool quantification
+                                                    Quantification             Development         Risk level
+3.2         3.3 Capacity         System
+                                          Score %       IR%    Weighted      (ND, ID, MD, SD)   (HR, SR, MR, LR)
+
+                    CPO           SPA      100.00        50          46.88         SD                 LR
+                                  SOA       96.00        50          48.00         SD                 LR
+                TOTAL                                                94.88         SD                 LR
+                     CE           SAP      100.00        30          30.00         SD                 LR
+                                 SABS       96.77        30          29.03         SD                 LR
+                                  SAF       97.77        40          40.00         SD                 LR
+                TOTAL                                                99.03         SD                 LR
+                     CC           SCI       93.10        80          74.48         SD                 LR
+                                  SCE      100.00        20          20.00         SD                 LR
+                TOTAL                                                94.48         SD                 LR
+               TOTAL WEIGHTED                           100          97.00         SD                 LR
+
+
+               IV.         CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF CONTRACTS
+
+      4.1     The exchange rate for rendering accounts will be that published by Banco de
+              México, using for the purposes of conversion to dollars the exchange rate on the
+              last business day of the immediately preceding month in which the borrower, the
+              executing agency, or any natural or artificial person authorized to make
+              expenditures made the related payments to the contractor or supplier.
+
+      4.2     Audited financial reports for the loan will be delivered within 180 calendar days
+              following the end of each fiscal year of the federal government during the
+              disbursement period. They will be duly audited by a firm of independent auditors
+              acceptable to the Bank and presented in accordance with the general terms of
+              reference for auditors of projects financed by international financial organizations,
+              and the general guidelines for the financial management of projects financed by
+              international organizations, agreed upon between the Bank and Mexico’s Civil
+              Service Department (SFP) or the entity designated by the federal government for
+              such purpose. The last of these reports is to be delivered within 180 calendar days
+              following the last disbursement.
+
+      4.3     Unaudited financial reports will be delivered within 60 calendar days following the
+              close of each six-month period during the disbursement period, in the formats
+              agreed upon between the Bank and the Civil Service Department.
+
+      4.4     Retroactive financing. The Bank may recognize against the loan proceeds up to
+              US$40 million in eligible expenditures made by the borrower prior to the loan
+                                                                                        Annex III
+                                                                                      Page 3 of 7
+
+
+
+         signature date (20% of the proposed loan amount) for all eligible categories,
+         provided that requirements substantially similar to those established in the loan
+         contract were met, regardless of their stated source of financing in the federal
+         expenditure budget for the corresponding fiscal year. Such expenditures must
+         have been made on or after 22 April 2015 (project profile approval date), but in
+         no case will expenditures made more than 18 months before the loan approval
+         date be included.
+
+4.5      Under the project, SEDATU procurements and contracting of consulting services
+         and nonconsulting services will be performed in accordance with the Policies for
+         the Procurement of Goods and Works Financed by the IDB (document
+         GN-2349-9) and the Policies for the Selection and Contracting of Consultants
+         Financed by the IDB (document GN-2350-9), standard bidding documents and
+         standard requests for proposals currently in effect that were agreed upon
+         between the Bank and Mexico’s Civil Service Department. For contracting by the
+         municipios and the states, Mexican national laws will apply, as has been the
+         case in previous Bank-financed projects.
+
+             V.   AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+5.1      Procurement execution. Two types of procurement and contracting are
+         conducted under the project: (i) SEDATU-executed procurement within the
+         framework of Component III, consisting primarily of consulting services to be
+         provided by consulting firms or individual consultants, and nonconsulting
+         services; and (ii) procurement executed within the framework of Components I
+         and II, funded by SEDATU nonreimbursable contributions to the states and
+         municipios for the construction or expansion of urban infrastructure (water,
+         sanitation, drainage, paving, and public lighting), the construction, expansion,
+         equipping, or upgrading of CDCs, and the funding of courses, workshops, and/or
+         complementary activities, such as sports or cultural activities held at the CDCs.
+         With respect to the former, procurement and contracting will be executed in
+         accordance with documents GN-2349-9 and GN-2350-9, the standard bidding
+         documents, and the standard requests for proposals currently in effect that were
+         agreed upon between the Bank and Mexico’s Civil Service Department or the
+         entity authorized for that purpose by the federal government, as well as the
+         corresponding procurement plan and paragraphs 5.2, 5.3, 5.4, 5.5, 5.6, and 5.7
+         hereof. With respect to the latter case, a waiver of the Bank’s procurement
+         policies will be requested, pursuant to the proposal set out in paragraph 5.8.
+
+5.2      Procurement of works, goods, and nonconsulting services. Contracts for
+         works, goods, and nonconsulting services1 generated under the project and
+         subject to international competitive bidding or to national competitive bidding will
+         use the harmonized bidding documents agreed upon between the Bank and the
+         Civil Service Department, or the entity authorized for that purpose by the federal
+         government. Those documents are available in the electronic link for the SFP.
+         The project sector specialist is responsible for reviewing the technical
+         specifications for procurements during the preparation of selection processes.
+
+1
+    Document GN-2349-9, paragraph 1.1: Nonconsulting services are treated as goods.
+Annex III
+Page 4 of 7
+
+
+
+5.3      Selection and contracting of consultants. Consulting service contracts
+         generated under the project will be procured using the standard request for
+         proposals agreed upon by the Bank and the Civil Service Department, or the
+         entity authorized for that purpose by the federal government, which can be
+         consulted at the link provided in the preceding paragraph. The project sector
+         specialist is responsible for reviewing the terms of reference for contracting
+         consulting services.
+
+5.4      Selection of individual consultants. Contracts for consulting services with
+         individual consultants will be executed using the model contract for individual
+         consultants agreed on between the Bank and the Civil Service Department, or
+         the entity authorized for that purpose by the federal government. That contract is
+         available at the aforementioned link.
+
+          Table 2: Threshold amounts for the procurement of works, goods, and consulting services
+                                    Threshold amounts (US$ thousands)
+                                                               2                   Consulting
+                        Works                            Goods
+                                                                                     services
+
+           International       National                 International     National                 International
+
+                                             Shopping                                   Shopping
+                                                                                                                   Shortlist
+            competitive       competitive                competitive     competitive                publicity –-    100%
+                                                                                                                   national
+              bidding           bidding                    bidding         bidding                  consultants
+
+                           <15,000 and                                  <3,000 and
+          ≥15,000                           <500        ≥3,000                         <100         ≥200            <500
+                              ≥500                                         ≥100
+
+
+5.5      Main procurements. The main items will be procured by SEDATU. These are
+         services provided by consulting firms or individual consultants in a variety of
+         areas, all of which are set out in the preliminary procurement plan over a period
+         of 36 months (attached).
+
+5.6      Procurement supervision. In view of the program’s low fiduciary risk,
+         SEDATU’s procurements will be reviewed ex post, as indicated in the
+         procurement plan. To this end, one annual inspection visit may be programmed.
+
+5.7      Ex post procurement reviews will be conducted by an external audit firm, which
+         will submit a special supplement with the procurement report pursuant to the
+         terms of reference agreed upon between the IDB and the Civil Service
+         Department, or the entity authorized for that purpose by the federal government.
+
+                           Table 3: Threshold amounts for external audits and ex post review
+                                        Threshold for ex post review (US$ thousands)
+                            Works                           Goods                      Consulting services
+                            15,000                          3,000                              500
+          Note:        The thresholds set for ex post review are based on the executing agency’s fiduciary
+                       capacity for execution and may be modified by the Bank as that capacity varies.
+
+
+2
+    Includes nonconsulting services.
+                                                                                  Annex III
+                                                                                Page 5 of 7
+
+
+
+5.8   Other. Use of national legislation. For the procurement of works, goods, and
+      nonconsulting services funded by SEDATU contributions to the states and
+      municipios under Components I and II, the use of national legislation is considered
+      necessary, given the special nature of the project. Consequently, a waiver is
+      requested to the procurement policies, as outlined in the justification for
+      requesting a waiver of the Bank’s procurement policies.
+
+                            VI. FINANCIAL MANAGEMENT
+
+6.1   Programming and budget. SEDATU’s budget resources are allocated annually
+      in the Expenditure Budget of the Federation, which is approved by the Congress.
+      Consequently, the resources necessary for this operation should be taken into
+      account in SEDATU’s annual work plan. This plan will be implemented pursuant
+      to the pertinent regulations of the Department of Finance and included in the
+      information for the Cuenta Pública [an annual report on government financial
+      transactions].
+
+6.2   Accounting and information systems. SEDATU is required to document and
+      monitor its economic transactions through the Department of Finance’s
+      Accounting and Budget System (SICOP)—for accounting and budgetary
+      records—and the Federal Integrated Financial Management System (SIAFF)—
+      for the control of payments. The SIAFF is regulated and controlled by Mexico’s
+      Treasury, which is also an agency of the Department of Finance. The summary
+      of this information is consolidated by the Department of Finance’s Government
+      Accounting Unit, which compiles and prepares the Executive Branch’s
+      annualized Cuenta Pública report for the Legislative Branch.
+
+6.3   Disbursements, cash flow, and supporting documentation for
+      expenditures. The Financial Services and Resource Management Office (single
+      window) sends the project’s coordination team a report generated using the
+      database of the Comprehensive Information System on Social Programs
+      (SIIPSO) to prepare the breakdown of payments that will make up the
+      disbursement request, which is officially sent to NAFIN, which in turn reviews it
+      and submits the reimbursement request to the Bank. Once the request is
+      approved, the Bank reimburses the funds to NAFIN, which transfers them to the
+      Federal Treasury. The same personnel who are currently supporting the
+      executing unit with loan 2569/OC-ME are expected to support this new operation.
+      This continuity, combined with the strength of the systems used to execute the
+      program, helps reduce the fiduciary risks associated with the execution of this
+      new operation.
+
+6.4   Internal oversight and internal audit. The Civil Service Department issues the
+      general internal control guidelines for the federal public administration, which are
+      generally applicable in government offices and agencies. These guidelines help
+      to achieve the established goals and objectives, prevent risks that could
+      jeopardize their achievement, and encourage due compliance with civil service
+      financial reporting and transparency obligations. SEDATU is supported by
+      personnel assigned to it by the Civil Service Department’s Internal Control Unit
+      (OIC) as well as all federal laws and regulations. These laws and regulations are
+Annex III
+Page 6 of 7
+
+
+
+        based on the 1992 report of the Committee of Sponsoring Organizations of the
+        Treadway Commission (COSO) and take into account its updates (COSO II in
+        2004 and COSO III in 2013), which fine-tune the traditional concepts of internal
+        control to extend their breadth.
+
+6.5     The Regional Operation and Social Comptroller’s Unit of the Civil Service
+        Department is tasked with reviewing and verifying the use of resources
+        transferred to the states or municipios, as part of the federal government’s
+        internal control.
+
+6.6     External control and reports. Each year, the Civil Service Department issues
+        and publishes a guide for the financial management of projects financed by
+        international financial organizations, which stipulates that the executing agency is
+        to deliver semiannual and annual reports to the financial agent. The purpose of
+        those reports is to support the project executing agency in their timely forwarding
+        (within the contractually established time frames) to the IDB. The linked
+        templates are the only financial reports required semiannually and they contain
+        the financial statement on the sources and uses of funds, the statement on
+        disbursement requests, and the statement of cumulative investments, together
+        with the notes that are an integral part of those documents. Those templates are
+        posted on the Civil Service Department–External Audit Office website, and
+        describe the operation’s financial progress at the end of each reporting period
+        and the cumulative report by investment category. They also include details of
+        the requests submitted during the year and of expenses pending processing,
+        which are reviewed by the financial agent for consistency with its records and
+        those of the Bank, so they contain figures that have been properly reconciled.
+        The Civil Service Department, the IDB, and the World Bank, in coordination with
+        the financial agents, have harmonized the templates for semiannual and annual
+        financial reports (the latter already include the templates that are not linked) so
+        as to make preparing them more efficient. The Federal Supreme Audit Office is
+        responsible for SEDATU external control. It audits the project in accordance with
+        its plan of activities. The program’s annual financial reports will be audited by
+        firms designated by the Civil Service Department that are acceptable to the
+        Bank. Because the program’s execution is decentralized in 32 federative entities
+        (with transfers to the participating municipios) and the period for submitting
+        information for the federal government’s Cuenta Pública closes in February of
+        each year, the period for submitting the annual financial reports should be
+        extended from 30 April to 30 June or a period of 180 days. The financial
+        supervision plan is summarized below:
+                                                                                                 Annex III
+                                                                                               Page 7 of 7
+
+
+
+
+                                  Table 4. Financial supervision plan
+Supervision                                                                     Responsible party
+  activity              Nature and coverage               Frequency
+                                                                               Bank        Third party
+                                                                            Fiduciary/
+                 Ex post review of disbursement                                             External
+                                                          Periodic      financial team for
+                 requests                                                                    auditor
+                                                                         reimbursements
+                 Fiduciary inspection visit/analysis of
+                                                                          Financial and
+                 internal controls and control                                                External
+
+    Financial
+                                                            Annual        procurement
+                 environment for payments and                                                 auditor
+                                                                              team
+                 procurement
+                                                                           Project Team
+                 Annual allocation of budget                                Leader with
+                                                                                              Executing
+                 resources required for the execution       Annual           support of
+                                                                                               agency
+                 of the project                                         fiduciary/financial
+                                                                               team
+                                                                           Project Team
+                                                                            Leader with
+                                                            Annual                            External
+
+
+
+    Compliance
+                 Delivery of audited financial reports                       support of
+                                                           and final                          auditor
+                                                                        fiduciary/financial
+                                                                             specialist
+                                                                           Project Team
+                 Conditions precedent to the first                          Leader and        Executing
+                                                           Once
+                 disbursement                                           fiduciary/financial    agency
+                                                                               team
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                               PROPOSED RESOLUTION DE-___/15
+
+
+
+                   Mexico. Loan ____/OC-ME to the United Mexican States
+                      Project to Address Social and Basic Services Gaps
+                                        in Urban Areas
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is
+authorized, in the name and on behalf of the Bank, to enter into such contract or contracts as
+may be necessary with the United Mexican States, as Borrower, for the purpose of granting it a
+financing to cooperate in the execution of a project to address social and basic services gaps in
+urban areas. Such financing will be for the amount of up to US$200,000,000 from the resources
+of the Bank’s Ordinary Capital, and will be subject to the Financial Terms and Conditions and
+the Special Contractual Conditions of the Project Summary of the Loan Proposal.
+
+
+
+                                (Adopted on ___ __________ 2015)
+
+
+
+LEG/SGO/CID/IDBDOCS#39721480
+ME-L1167
+

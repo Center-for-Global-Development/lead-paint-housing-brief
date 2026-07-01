@@ -1,0 +1,2551 @@
+ Completion Report
+
+PUBLIC
+
+
+
+
+Project Number: 52334-001
+Loan Number: 3841
+December 2024
+
+
+
+
+Kazakhstan: Promoting Gender Equality in Housing
+Finance Project
+
+
+
+
+This document is being disclosed to the public in accordance with ADB's Access to Information
+Policy.
+                    CURRENCY EQUIVALENTS
+
+                       Currency unit – tenge (T)
+
+                           At Approval               At Project Completion
+                           15 November 2019          31 December 2023
+           T1.00      =    $0.002576                 $0.002188
+           $1.00      =    T388.09                   T456.97
+
+
+                          ABBREVIATIONS
+
+ADB            –      Asian Development Bank
+COVID-19       –      coronavirus disease
+GAP            –      gender action plan
+HCS            –      housing construction savings
+JSC            –      joint stock company
+MOF            –      Ministry of Finance
+NBK            –      National Bank of Kazakhstan
+OP             –      operational priority
+SHP            –      social housing program
+Umai           –      Umai Women’s Mortgage Program
+UN             –      United Nations
+
+
+
+
+                                 NOTE
+
+           In this report, “$” refers to United States dollars.
+ Vice-President                Fatima Yasmin, Office of the Vice-President (Sectors and
+                                   Themes)
+ Director General              Ramesh Subramaniam, Director General and Group Chief,
+                                   Sectors Group (SG)
+ Senior Sector Director        Tariq H. Niazi, Public Sector Management and Governance
+                                   Sector Office, Sectors Group (SG-PSMG)
+ Director                      Çiğdem Akin, Director, SG-PSMG
+ Regional Head,                Jesper K. Petersen, Operations Coordination Unit, Central and
+ Operations Coordination           West Asia Department (CWRD)
+
+ Team leader                   Dai Chang Song; Principal Public Management Economist; SG-
+                                   PSMG
+ Team members                  Catherine Debalucos, Project Analyst, SG-PSMG
+                               Oliver Domagas, Principal Financial Control Specialist,
+                                   Controller's Department
+                               Gladys Puzon Franco, Senior Social Development Officer
+                                   (Gender), Gender Equality Division (CCGE), Climate
+                                   Change and Sustainable Development Department
+                               Baurzhan Konysbayev, Principal Counsel, Office of General
+                                   Counsel
+                               Laura Omarova, Associate Portfolio Management Officer,
+                                   Kazakhstan Resident Mission, CWRD
+                               Maria Celeste Yabut, Associate Project Analyst, SG-PSMG
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                         CONTENTS
+
+                                                                      Page
+BASIC DATA                                                                i
+I.    PROJECT DESCRIPTION                                                1
+      A.   Project Impact, Outcome, and Outputs                          1
+II.    PROJECT DESIGN                                                    1
+       A.   History                                                      1
+       B.     Scope of Operations                                        2
+       C.     Relationship with ADB and Other Lenders                    2
+       D.     Project Design and Formulation                             2
+       E.     Technical Assistance                                       3
+III.   PROJECT IMPLEMENTATION                                            4
+       A.   Lending Policies                                             4
+       B.     Characteristics of Subloans                                5
+       C.     Implementation and Internal Operations of Subprojects      5
+       D.     Organization and Operations of Otbasy Bank                 7
+       E.     Portfolio of Otbasy Bank                                   7
+       F.     Financial Statements and Ratios                            8
+       G.     Covenants                                                  9
+IV.    SUBLOAN IMPLEMENTATION                                            9
+       A.   Loan Appraisal                                               9
+       B.     Implementation                                             9
+V.     EVALUATION OF PROJECT PERFORMANCE                                10
+       A.   Relevance                                                   10
+       B.     Effectiveness                                             11
+       C.     Efficiency                                                13
+       D.     Sustainability                                            13
+       E.     Development Impact                                        13
+       F.     Performance of Otbasy Bank                                13
+       G.     Performance of ADB                                        14
+       H.     Overall Assessment                                        14
+VI.    ISSUES, LESSONS, AND RECOMMENDATIONS                             14
+       A.   Issues and Lessons                                          14
+       B.     Recommendations                                           15
+
+APPENDIXES
+1.   Design and Monitoring Framework                                    16
+2.     Status of Compliance with Loan Covenants                         20
+3.     Summary of Financial Indicators                                  28
+4.     Gender Action Plan Achievements                                  31
+                                          BASIC DATA
+
+A.   Loan Identification
+      1.     Country                              Kazakhstan
+      2.     Loan number and financing source     3841-KAZ. Sovereign project (local
+                                                  currency loan): ordinary capital resources
+      3.     Loan title                           52334-001 Promoting Gender Equality in
+                                                  Housing Finance
+      4.     Borrower                             Otbasy Bank Housing Construction
+                                                  Savings Bank Joint Stock Company
+                                                  (formerly, the Housing Construction
+                                                  Savings Bank of Kazakhstan), with
+                                                  guarantee from
+                                                  the Republic of Kazakhstan
+      5.    Name of financial intermediary        Otbasy Bank
+      6.    Amount loan                           T38 billion ($100 million equivalent)
+B.   Loan Data
+      1.    Appraisal
+            – Date started                        19 May 2019
+            – Date completed                      25 May 2019
+      2.    Loan negotiations
+            – Date started                        9 September 2019
+            – Date completed                      9 September 2019
+      3.    Date of Board approval                24 October 2019
+      4.    Date of loan agreement                15 November 2019
+      5.    Date of loan effectiveness
+            – In loan agreement                   13 February 2020
+            – Actual                              23 November 2020
+            – Number of extensions                5
+      6.    Loan closing date
+            – In loan agreement                   30 June 2023
+            – Actual                              31 December 2023
+            – Number of extensions                1
+      7.    Financial closing date
+            – Actual                              31 July 2024
+      8.    Terms to the borrower
+            – Interest rate
+            – Maturity (number of years)          Up to 10 years (payment)
+            – Grace period (number of years)      0
+            – Free limit                          T25.5 million for housing loans
+                                                  T3.7 million for renovation loans
+             – Repayment terms                    All principal due at maturity date
+      9.     Terms of relending
+             – Maturity (number of years)         Maximum 10 years, all principal due at
+                                                  maturity date of the subloan
+             – Interest rate                      ADB rate plus 2% maximum
+      10.    Interest rate for subloans
+             – Actual                             Tranche 1: 12.00% (ADB rate: 10.68%)
+                                                  Tranche 2: 13.54% (ADB rate: 13.50%)
+                                                  Tranche 3: 14.40% (ADB rate: 14.12%)
+ii
+
+
+
+                11.   Disbursements
+                      a.       Dates
+                                Initial Disbursement                 Final Disbursement                Time Interval
+                                  16 February 2021                       27 April 2023                 26.67 months
+                                    Effective Date                   Actual Closing Date               Time Interval
+                                 23 November 2020                     31 December 2023                 37.77 months
+
+                      b.       Amount (T million)
+                                       Increased             Canceled            Last
+ Executing      Original                                                                       Amount      Undisbursed
+                                         during               during           Revised
+ /Implementing Allocation                                                                     Disbursed      Balancea
+                                     Implementation       Implementation      Allocation
+ Agency            (1)                                                                           (5)        (6 = 4 – 5)
+                                           (2)                  (3)           (4=1+2-3)
+ Otbasy Bank          38,000                0                    0            38,000          38,000              0
+
+
+C.          Implementation Data
+            1.        Number of subloans                              3,356
+            2.        Distribution of subloans
+                       Category                                        Projected                       Actual
+                       For purchase of a house                             3,000                        3,248
+                       For house renovation                                  100                          108
+                          Total                                            3,100                        3,356
+
+            3.        Size of subloans (actual, in T million)
+     Range                                                 Number of Subloans                    Aggregate Amount
+     Up to <T15 million                                        2,705                                   26,314
+     From >T15 million to T20 million                            534                                    9,115
+     From > T20 million to T25 million                           116                                    2,546
+     Over > T25 million                                            1                                        25
+     Total                                                     3,356                                   38,000
+
+            4.        Other breakdown of subloans (actual, in T million)
+            4.1       By region
+                                                                                                             Actual
+                                                                                           Aggregate       (based on
+     Criteria                                                         Projected
+                                                                                            Amount         aggregate
+                                                                                                            amount)
+     Loans financing housing units in cities of Nur-Sultan,          Maximum 40%              12,788          33.7%
+     Almaty, Atyrau, and Aktau
+     Loans financing housing units outside the four big cities         At least 60%           25,212            66.3%
+     Total                                                                    100%            38,000             100%
+                                                                                                                                        iii
+
+
+4.2         By income level
+                                                                                                                           Actual
+                                                                                                   Aggregate             (based on
+    Criteria                                                             Projected
+                                                                                                    Amount               aggregate
+                                                                                                                          amount)
+    Loans issued to low-income subborrowers with                         At least 20.0%                  28,856             75.9%
+    monthly household income of less than:
+         T200,000 (tranche 1)                                                                    3,636               9.5%
+         T550,000 (tranches 2 and 3)a                                                           25,220               66.4%
+    Loans issued to middle-income subborrowers                        Maximum 80.0%                       9,144               24.1%
+    Total                                                                    100.0%                      38,000              100.0%
+a
+    As per approved amendment in the loan agreement.
+
+
+            5.         Subloans above free limit – none
+            6.         Project performance report ratings
+    Implementation Period                                                                     Single Project Rating
+    From 23 November 2020 (loan effectiveness) to 31 December                                       On track
+    2020
+    From 1 January 2021 to 31 March 2021                                                              On track
+    From 1 April 2021 to 30 June 2021                                                                 On track
+    From 1 July 2021 to 30 September 2021                                                             On track
+    From 1 October 2021 to 31 December 2021                                                         For attention
+    From 1 January 2022 to 31 March 2022                                                            For attention
+    From 1 April 2022 to 30 June 2022                                                               For attention
+    From 1 July 2022 to 30 September 2022                                                           For attention
+    From 1 October 2022 to 31 December 2022                                                           On track
+    From 1 January 2023 to 31 March 2023                                                              On track
+    From 1 April 2023 to 30 June 2023                                                                 On track
+    From 1 July 2023 to 30 September 2023                                                             On track
+    From 1 October 2023 to 31 December 2023                                                           On track
+
+D.          Data on Asian Development Bank Missions
+                                                                                                     No. of
+                                                                                  No. of            Person-          Specialization
+    Name of Mission                                     Date                      People             Days             of Members
+    Consultation mission                        3–7 December 2018                   5                 25                a,b,d,e,f
+    Fact-finding mission                          20–23 May 2019                    4                 16                 a,b,c,d
+    Loan inception mission                        23 February 2021                  4                  4                 a,b,c,d
+    Midterm loan-review mission                 26–28 October 2022                  4                 12                 a,b,c,g
+    Loan review mission/workshop                  16–29 June 2023                   4                 140                a,b,c,g
+    Loan review mission/workshop                03–12 October 2023                  4                 30                 a,b,c,g
+    Project completion review                  29 July-30 August– 2024              1                  2                    a
+    a = principal financial sector specialist; b = country specialist; c = project analyst; d = associate project officer; e = Advisor TDOT
+    and Head, Treasury Client Solutions Unit; f = treasury specialist, g = associate portfolio officer.
+
+
+E.          Related Loans (to some financial intermediaries) – none
+                                  I.         PROJECT DESCRIPTION
+
+     A.     Project Impact, Outcome, and Outputs
+
+1.      On 24 October 2019, the Asian Development Bank (ADB) approved the Promoting Gender
+Equality in Housing Finance Project in Kazakhstan for T38 billion ($100 million equivalent). 1 The
+significant demand for housing arising from population and household growth, migration, and
+urbanization—coupled with rising housing prices, a national mortgage lending market geared to
+higher-income groups, and women’s limited access to affordable mortgage finance compared
+with men—constrained the Kazakhstan housing market and the achievement of sustainable
+economic growth and decreasing national poverty. As a result, the project was developed to
+support women’s access to housing, given that secure housing forms the foundation of women’s
+safety, health, and economic stability. The project was designed as a financial intermediation loan
+to Otbasy Bank 2 for onlending to low- and medium-income women subborrowers for longer-term,
+fixed-rate, local currency-denominated mortgage credit. The loan was guaranteed by the
+Government of Kazakhstan.
+
+2.      The program’s expected impact was to promote gender equity and achieve sustainable
+economic growth, and the expected outcome was to increase the acquisition and renovation of
+housing units by women. This project indirectly contributed to the national poverty reduction and
+inclusive growth objectives by enabling Otbasy Bank to provide loans to women subborrowers
+and promote rural and regional housing mortgage assistance. The expected outputs of the
+program were: (i) the long-term affordable mortgage financing for eligible women subborrowers
+made available, (ii) the accessibility of Otbasy Bank’s lending products for eligible women
+subborrowers improved, and (iii) the gender inclusiveness of the banking industry’s housing
+finance assessed.
+
+                                       II.     PROJECT DESIGN
+
+A.        History
+
+3.       Otbasy Bank Housing Construction Savings Bank Joint Stock Company (JSC) [Otbasy
+Bank], originally established as Housing Construction Savings Bank of Kazakhstan JSC, was
+founded on 16 April 2003 by Decree of the Government of the Republic of Kazakhstan No. 364.
+It was created to enhance the long-term financing of housing construction, and it is the only
+institution in Kazakhstan that has developed a housing construction savings (HCS) system. The
+HCS system involves taking long-term deposits from individuals who are then granted housing
+mortgage loans after accumulating sufficient savings for a certain period. This deposit-taking
+model is similar to the Bausparkassen (building society) model that is prominent in Europe,
+primarily in Germany. Otbasy Bank is 100% state-owned, and Baiterek National Managing
+Holding JSC has been its sole shareholder since 2013. As of 31 December 2023, Otbasy Bank
+has 19 regional branches, 18 service centers, and 3 service points in the country; it employs 1,537
+staff, of which 975 (63%) are women. It is headquartered in Almaty, and its operations are
+supported by an extensive network of 1,132 consulting agents and 125 consulting centers, as
+well as online channels through which services are provided remotely. In 2023, the bank also
+received investment-grade ratings from international agencies—Baa2 with a positive outlook from
+
+1 ADB. 2019. Report and Recommendation of the President to the Board of Directors: Proposed Loan and Technical
+  Assistance to Housing Construction Savings Bank of Kazakhstan for the Promoting Gender Equality in Housing
+  Finance Project.
+2 On 20 December 2020, joint stock company (JSC) Housing Construction Savings Bank of Kazakhstan was re-
+
+  registered and changed its name to Otbasy Bank Housing Construction Savings Bank JSC (Otbasy Bank).
+2
+
+
+Moody’s Investors Service, and BBB with a stable outlook from Fitch Ratings.
+
+B.        Scope of Operations
+
+4.       Otbasy Bank is a key player in the banking system, ranking fourth in assets at nearly T4
+trillion ($8.76 billion) as of 31 December 2023, and is one of the 21 second-tier banks in
+Kazakhstan. Its operations focus on the provision of housing savings and loans supported by the
+government’s provision of long-term, low-cost funding; annual interest bonuses on depositors’
+savings; and partnerships relating to state housing programs. As the only entity in Kazakhstan
+implementing the HCS system, Otbasy Bank has dominated the market consistently. It issued
+62% of the banking industry’s mortgage loans during 2019–2023 and, as of 31 December 2023,
+represents 58% of the country’s outstanding mortgage loan portfolio.
+
+C.        Relationship with ADB and Other Lenders
+
+5.     Otbasy Bank’s partnership with ADB was its first venture of securing funding outside
+government resources. The partnership was formalized on 15 November 2019 with the signing of
+the loan agreement for a loan of T38 billion, for a term of up to 10 years with bullet repayment.
+On 23 November 2020, the project was declared effective following the signing of the guarantee
+agreement with Kazakhstan’s Ministry of Finance (MOF) on 23 October 2020.
+
+6.      This project has significantly enhanced access to housing finance for women, marking the
+first mortgage program in Asia exclusively targeting women. Additionally, it fostered the growth of
+provincial regions since 60% of the project funds were allocated to the purchase or renovation of
+houses outside the four major cities. The ADB loan also expanded Otbasy Bank’s product line
+and, as observed during the ADB-funded regional workshops (para.13), satisfaction with the
+project is high among the beneficiaries, and there were repeated calls for the project’s continuity.
+
+7.       As of 31 December 2023, Otbasy Bank had no loans from international financial
+institutions other than ADB. All of its borrowings were from domestic sources, including T63 billion
+from MOF. 3 Nonetheless, it collaborates with international financial institutions like the European
+Bank for Reconstruction and Development, the International Finance Corporation, the United
+Nations (UN), and the World Bank to support the country’s housing market. These partnerships
+involve economic, social, and environmental assessments, legal and regulatory reviews, business
+development, and improvements in lending technologies. Key contributions are the International
+Finance Corporation’s guidance on diversifying products and enhancing customer focus, the
+European Bank for Reconstruction and Development’s advisory services and capacity building
+for operational efficiency and green standards, the UN’s social and environmental assessments,
+and the World Bank’s policy reviews. These collaborations have strengthened Otbasy Bank’s
+capacity to deliver products and services while aligning with international standards.
+
+D.        Project Design and Formulation
+
+8.     As of January 2023, Kazakhstan’s housing stock reached 405.2 million square meters,
+adding 12% since 2014. Despite this increase, urbanization demand remained high while
+affordable quality housing was in low supply. Housing availability averaged 21.4 square meters
+in 2017 and increased to 23.4 square meters per resident by the end of 2022. Still, this is below
+the UN’s standard of 30 square meters. Most houses are also old: 88.3% of multi-apartment
+
+3   Otbasy Bank. 2023. Financial Statements in Accordance with IFRS Accounting Standards and Independent Auditor’s
+    Report.
+                                                                                                               3
+
+
+residential buildings and 66% of individual houses were built before 2000. 4 Moreover, housing
+prices have surged by 131% for primary housing and by 227% for secondary housing during
+2013–2022, driven by inflation and market expectations. 5
+
+9.     While the mortgage loan portfolio of the banking system, involving Otbasy Bank and a few
+commercial banks, grew 11.3% in 2022, high interest rates of more than 20% make mortgages
+unaffordable for many. 6 State programs offer some relief, but market-oriented loans remain
+expensive. Also, the high demand for state programs has created considerable backlogs, which
+are exacerbated each year by the steady rise in the number of citizens requiring housing. For
+instance, by the end of 2023, 648,000 people were on the waiting list for state-assisted housing. 7
+
+10.     Since women accounted for 51.16% of Kazakhstan’s population in 2023 (10,250,028 out
+of 20,033,842 people), 8 it is estimated that about 2.2–2.8 million women 9 are in need of better
+housing. This highlights a significant demand for housing improvements and underscores the
+importance of targeted interventions to ensure housing affordability and accessibility for women.
+Moreover, the present mortgage lending market in Kazakhstan is mainly geared towards the
+higher-income groups. Given the significant gender wage gap of 25.2% in 2022, women find it
+harder to obtain mortgage finance than men (although women’s educational levels in Kazakhstan
+are on a par or higher than those of men). 10 Women’s wages as a percentage of men’s wages
+have risen from 2019 to 2022, currently standing at 78.3%. But significant gender wage gaps
+remain across various sectors. 11 Hence, the rationale for the project is rooted in substantial unmet
+demand for long-term, fixed-rate local currency mortgage loans, particularly among women in
+rural areas.
+
+11.      The soundness of the project design is evident in its targeted approach, focusing primarily
+on providing affordable housing finance to middle-income women subborrowers and enhancing
+Otbasy Bank’s policies and practices on gender and inclusivity. The formulation process was
+comprehensive, involving consultations, surveys, and market assessments to craft eligibility
+criteria that matched both the project’s purpose and the intended beneficiaries’ needs. As a result,
+the design of Otbasy Bank’s new loan product—Umai Women’s Mortgage Program (Umai)—was
+anchored on Kazakhstan’s drive for inclusive economic growth and financial inclusion.
+
+E.      Technical Assistance
+
+12.    To support the implementation of the project, including the gender action plan (GAP), ADB
+in October 2019 provided transaction technical assistance of $620,000 financed on a grant basis
+by ADB’s Technical Assistance Special Fund (TASF). 12 The TA amount includes $120,000 in
+cofinancing from the Ministry of National Economy. The output performance indicators of the
+design and monitoring framework and the GAP, for which the TA support was instrumental,
+
+4  ADB. 2022. Kazakhstan’s Market Research Study on the Housing Market.
+5  Bureau of National Statistics of Kazakhstan. 2023. Housing Statistics 2023.
+6 The Agency of the Republic of Kazakhstan for Regulation and Development of the Financial Market. 2023. Reviews
+
+   of the Financial sector of the Republic of Kazakhstan: Current state of the banking sector.
+7 Central Communications Service under the President of the Republic of Kazakhstan. 2023. Briefing of Bakytzhan
+
+   Zhunisbekov, Chairman of the Committee for Construction and Housing and Communal Services, at the Central
+   Communications Service (data accessed on 14 August 2024).
+8 Bureau of National Statistics of Kazakhstan. 2024. Population of Kazakhstan at The Beginning of 2024.
+9 ADB. 2022. Kazakhstan: Promoting Gender Equality in Housing Finance Project. Consultant’s report (TA 9834-KAZ).
+
+   Unpublished.
+10 Bureau of National Statistics of Kazakhstan. 2023. Gender Pay Gap in Kazakhstan.
+11 Bureau of National Statistics of Kazakhstan. 2024. Key Labor Indicators in the Republic of Kazakhstan.
+12 On 3 August 2020, the cancellation of $200,000 in estimated TA surplus (from TASF) was approved.
+4
+
+
+covered (i) the public awareness campaigns on available housing finance products for women;
+(ii) the Otbasy Bank’s adoption of a gender policy; (iii) the completion of a nationwide study on
+women’s access to housing and finance products, including the organization of workshop
+seminars wherein the results of the study were cascaded and disseminated; and (iv) the
+preparation of a financial skills training module, seminar materials and their presentation to
+women through a workshop, all aimed at improving their financial management skills. All these
+indicators were achieved through the TA which mobilized a core consulting team, 13 a national
+survey firm (for the nationwide study), a national videographer (for the campaigns), and three
+resource persons (for the regional workshops that were conducted in the local language).
+
+13.     The TA also financed 16 regional workshops on financial literacy and skills in 8 different
+regions across Kazakhstan in line with the implementation of the GAP. The workshops were
+attended by 800 potential and current women subborrowers. The sessions covered various
+aspects of financial management, such as budgeting, understanding interest rates, and managing
+credit. By improving financial literacy, the workshop aimed to empower women to make informed
+decisions regarding mortgage loans and other financial products. Overall, the TA, with completion
+date on 31 December 2023, provided the support needed to ensure the project’s successful
+implementation and has had a positive impact way beyond the closing dates of the project loan
+and TA loan. Thus, the TA was rated successful. 14
+
+                                   III.         PROJECT IMPLEMENTATION
+
+A.         Lending Policies
+
+14.    Otbasy Bank implements state, sector-specific, and its own housing programs with funds
+from deposits and loans from the government, Samruk-Kazyna National Welfare Fund JSC, and
+Baiterek National Managing Holding JSC; from republican and local budgets; and from ADB.
+Otbasy Bank’s operations primarily consist of taking long-term deposits from individuals who are
+then granted mortgage loans once they have accumulated sufficient savings. Its offers three loan
+products: interim, preliminary, and housing loans.
+
+15.     The ADB-funded Umai (para. 11) falls under preliminary loans because it caters to the
+specific eligibility criteria of the funder. State programs are also categorized thereunder. A
+dedicated project management unit at Otbasy Bank was set up to oversee Umai’s implementation.
+This unit was responsible for administering the program, providing regular progress reports, and
+managing any issues in coordination with ADB. The implementation arrangements, as designed
+at approval, were comprehensive and adequate to deliver the project outputs. These
+arrangements ensured that processes were streamlined and efficient, enabling timely
+disbursements and effective monitoring of project progress.
+
+16.      Umai and Otbasy Bank’s other loans are collateralized by the property being purchased
+or renovated and the accumulated savings. Due diligence on the subborrower is conducted to
+verify their eligibility, solvency, and capacity to pay the loan. The property is also subjected to the
+same due diligence. Policies on loan loss provision, write-off, and recovery measures are likewise
+established and strictly implemented. The bank complies with the prudential ceilings and ratios of
+National Bank of Kazakhstan (NBK), which are also a covenant under the ADB loan.
+
+
+13 Comprising an international housing finance expert, an international gender specialist, a national gender specialist,
+
+    and a national researcher (statistician).
+14 The TA report is to be circulated separately in January 2025.
+                                                                                                                   5
+
+
+B.      Characteristics of Subloans
+
+17.      Each loan application met the criteria established by ADB in accordance with section 4 of
+the loan agreement between Otbasy Bank and ADB. The applicants and their applications were
+subjected to review and assessments to ensure eligibility and the subborrowers’ solvency. In
+particular, each application was checked for compliance with the following criteria: (i) the subloans
+to be provided solely to women customers, each acting as the sole subborrower and bearer of
+the legal title to a residential housing unit; (ii) the subborrower to have a monthly household
+income of no more than T320,000 (as per the loan agreement) and T640,000 (as amended); (iii)
+the monthly repayment of the mortgage loan not to exceed 55% of the subborrower’s monthly
+income; (iv) the subloans to be used to purchase a housing unit or to renovate an existing house;
+(iv) the subloan is for financing no more than 80% of the appraised value of a purchased housing
+residential unitor renovation cost or 85% if the subborrower is eligible according to her monthly
+household income;(v) the price of a housing unit to be capped at T30 million; and (vi) the loan
+amount to be capped at T25.5 million for purchase and at T3.7 million for renovation.
+
+18.     In aggregate, Otbasy Bank also had to comply with the following projected profile of the
+ADB-funded loan product: (i) a minimum of 60% of the proceeds to be used to purchase or
+renovate a house outside the four largest cities with the lowest poverty rates (Aktau, Almaty,
+Atyrau, and Nur-Sultan); and (ii) at least 20% of all mortgage loans financed with the ADB loan to
+be directed to low-income subborrowers with a monthly household income of less than T200,000
+(original, enforced under tranche 1) and T550,000 (amended, enforced under tranches 2 and 3). 15
+Likewise, the pass-on rate to the subborrower had a ceiling of 200 basis points plus cost. Over
+the project’s 3.08-year implementation period, Otbasy Bank provided 3,356 subloans under
+Umai—thus benefitting 3,248 women who celebrated the purchase of a unit and 108 women who
+felt more secure in their renovated homes.
+
+C.       Implementation and Internal Operations of Subprojects
+
+19.     Following ADB’s initial disbursement of T8.4 billion on 16 February 2021, Otbasy Bank
+launched Umai officially on 12 April 2021 as part of the ADB project. Umai received an
+overwhelming 20,710 applications from the start, manifesting the high demand for this kind of loan
+product. However, 68% (14,083) of these applications were rejected at the initial screening
+because the applicants’ monthly household income exceeded the ceiling of T320,000. After
+further validation, only 109 (0.5%) of the 20,710 applications were found to be compliant with
+Umai’s eligibility criteria and were processed. Thus, by 26 October 2021, just 64% (T5.4 billion)
+of the T8.4 billion first tranche had been on-lent to a total of 620 eligible subborrowers.
+
+20.       Other developments in Kazakhstan also influenced this performance. In February 2021,
+the Government of Kazakhstan approved the partial withdrawal of pension savings from the
+Unified Accumulated Pension Fund. It was to be used only for certain purposes, such as housing
+(buying, building, or renovating homes; paying off mortgages; or using it as a downpayment or
+equity for a mortgage loan); medical expenses; and investment management. Thus, by 27
+September 2021, 427,000 Kazakhs had withdrawn part of their pension savings, totaling T1.9
+trillion ($4.4 billion). 16 This led to an 11.7% increase in the average price of residential real estate
+from January 2021 to September 2021.
+
+15 The project caters to low and medium income subborrowers. The monthly household income in para 18 are for low
+
+   income subborrowers wherein 20% of project fund has been allocated. The other 80% of project fund was allocated
+   to medium income subborrowers (para 17).
+16 As of October 2023, T3.7 trillion of pension fund withdrawals went to housing, and as of year-end 2023, 95% of the
+
+   total withdrawn funds were being used for housing. https://www.enpf.kz/ru/indicators/pa/withdrawal-data.php
+6
+
+
+
+21.     The subborrowers’ income profile also changed during the implementation of the program,
+since the average wage in the country had steadily increased from T162,954 in the first quarter
+of 2019 (at the time of loan processing) to T257,030 in the third quarter of 2021. 17 Recognizing
+the impact of these developments, the government also adjusted its own social housing programs
+(SHPs), including those that were administered by Otbasy Bank. Eligibility under SHP is linked to
+the country’s minimum subsistence allowance, which is updated annually. For example, for the
+Bakytty SHP, the beneficiary’s income level must be lower than 3 times the minimum subsistence
+allowance. As of 1 January 2021, the minimum subsistence allowance was T34,302—up by 13%
+from the 2019 figure. Consequently, the 2021 income threshold of SHP beneficiaries increased
+by 10%.
+
+22.     In view of the country’s macroeconomic situation and the slow mobilization of the first
+disbursement tranche, and in consideration of Otbasy Bank’s request, ADB amended the loan
+agreement to increase the monthly household income threshold from less than T200,000 to less
+than T550,000 for low-income subborrowers. For middle-income households, the ceiling was
+raised from less than T320,000 to less than T640,000. Following the approval of the amendment,
+Otbasy Bank submitted a request to disburse the remaining T29.6 billion under the loan. However,
+when the request was finalized in January 2022—a time of heightened political and market
+uncertainty in Kazakhstan—there was limited appetite for ADB’s bonds in the domestic market.
+Though the amount raised (T14 billion) was less than requested, the ADB bonds were issued at
+a yield below similar-maturity Kazakhstan government bonds (before issuance expenses), the
+benefits of which were passed on directly to the subborrowers. Otbasy Bank deferred the third-
+tranche request because of NBK’s high base rate, which would have also been passed on to the
+subborrowers. Eventually, the third tranche of T15.6 billion was disbursed on 27 April 2023. With
+only 2 months remaining before the loan closing date of 30 June 2023, a 6-month extension until
+31 December 2023 was then approved to allow Otbasy Bank additional time to mobilize the funds.
+
+23.     In December 2023, ADB, after several discussions with Otbasy Bank, approved the
+reduction in the targeted number of renovation-related subloans from 2,000 to 100. The targeted
+number was found to be ambitious in consideration of Otbasy Bank’s historical performance in
+this area: its renovation loans had never exceeded 5% of its loan portfolio and, as of September
+2023, represented just 2.7% thereof. Also, the collateral requirements—a combination of savings
+(equity) and property collateral—were quite onerous in relation to the loan amount (T3.7 million),
+which further diminished the marketability of renovation subloans to clients.
+
+24.      By 31 December 2023, Otbasy Bank had issued 3,661 mortgage loans under the Umai
+initiative since its inception in 2021—3,356 financed by ADB and 305 financed by Otbasy Bank
+through its own funds. The demand for Umai was high among women seeking their own housing,
+particularly in rural areas, resulting in a 66.3% project fund utilization in areas outside the four
+main cities of Kazakhstan (Aktau, Almaty, Astana, and Atyrau). Affordable housing finance in
+urban areas strengthens the low- and middle-income working class by enabling asset-building,
+which reduces the post-retirement financial burden. In rural areas, affordable housing finance
+helps build and enhance valuable housing assets, thereby boosting living standards, particularly
+for women who are predominantly self-employed in agriculture. This segment, characterized by
+low and volatile incomes, also benefits from strong family and community networks that provide
+resilience in the event of financial stress. As such, housing finance has significantly contributed
+to poverty reduction among the low, middle, and informal income-earning population.
+
+17 The average household size in Kazakhstan is 3.5 persons (3.1 in cities, 3.9 in villages): Bureau of National Statistics
+
+    of Kazakhstan. 2023. Wages and Working Conditions of employees in the Republic of Kazakhstan.
+                                                                                                       7
+
+
+
+D.      Organization and Operations of Otbasy Bank
+
+        1.      Organization, Management, and Staffing
+
+25.    The sole shareholder of Otbasy Bank is Baiterek National Managing Holding JSC. It
+approves Otbasy Bank’s charter, corporate governance code, dividend policy, external auditor,
+and annual financial statements. As of year-end 2023, the bank’s 5-member board of directors
+included 3 independent directors, and 2 members are women. The board is responsible for the
+general management of the bank’s activities, including the approval of its corporate strategy, and
+has the authority to receive audit reports from the internal and external audits. The position of the
+ombudsman is held by a woman, and the 7-member management board, the executive body
+responsible for day-to-day operations, is chaired by a woman and includes another 2 women.
+
+        2.      Personnel Administration
+
+26.    Otbasy Bank had 1,537 employees as of 31 December 2023, 598 of whom are working at
+the Almaty head office and 939 in 19 regional offices. The share of female employees is 927
+(60%), 333 of whom work at the central office and 604 work in the regional offices.
+
+        3.      Lending Operations
+
+27.     Otbasy Bank focuses on mortgage lending to the population of Kazakhstan and is the only
+participant in the country’s housing construction savings (HCS) market. The loan portfolio
+accounted for 78% or T3.1 trillion ($6.8 billion) of its total assets as of 31 December 2023. Otbasy
+Bank uses local funds primarily through its HCS system, which is further augmented by state
+bonuses (interest premium) that incentivize savings generation. As of year-end 2023, the bank
+was servicing 2.7 million active depositors with total deposits of T2.7 trillion ($5.8 billion). In 2023,
+486,265 Kazakhs opened a savings account in Otbasy Bank, averaging about 1,900 new
+accounts daily. In the same year, 502,000 Kazakh families, of which almost 280,000 are headed
+by a woman, were able to improve their living conditions with a loan from Otbasy Bank. The bank’s
+deposit portfolio is substantial, and 58.6% of its total depositors are women. The local currency
+raised through these deposits and their long-term characteristics are crucial to the bank’s
+operations and financial standing, and its ability to further extend its housing loan products to a
+broader customer base. Otbasy Bank also benefits from state-supported programs such as Nurly
+Zher, 7-20-25, Baspana Hit, and regional youth housing programs, which often include state
+funding or guarantees. The bank groups its loan products into three main categories: interim,
+preliminary, and housing (Appendix 3, Table 1).
+
+28.     Other operations—Otbasy Bank’s activities revolve solely around its mortgage lending.
+
+E.      Portfolio of Otbasy Bank
+
+29.     Otbasy Bank's loan portfolio increased substantially from T1.3 trillion in 2020 to T3.1 trillion
+in 2023, representing an average of 77% of the bank’s assets. Growth was highest in 2022,
+accounting for 49% (T873.9 billion) of a cumulative 3-year growth of T1.7 trillion. The increase
+was brought by an accelerating demand for housing loans driven by population and household
+growth, rising incomes, and ongoing urbanization. The expansion of Otbasy Bank’s loan products
+with the launch and implementation of youth and green mortgage loans, and partnerships with
+local executive bodies (i.e., akimats or mayor’s offices in the region) were also a factor. Notably,
+Otbasy Bank’s borrowings from these bodies ballooned from T1.8 billion at the beginning of 2020
+8
+
+
+to T20.9 billion by the end of 2023.
+
+30.      Good portfolio quality was maintained despite the expansion of the loan portfolio. This can
+be attributed to Otbasy Bank’s business model, which focuses on low-risk mortgage loans with
+inherently high portfolio granularity, good payment discipline of subborrowers thanks to the
+savings-based scheme, and the support and interest premium provided by the government. Also,
+the bank’s prudent collateral policy coupled with the appreciation of collateral value amid the
+increasing property prices in Kazakhstan resulted in most (92%) of the loans having loan-to-value
+ratios of 75% and below. Otbasy Bank also has standard systems and procedures in place to
+facilitate regular reviews of portfolio quality and loan loss provision. As of 31 December 2023, the
+net past due rate was low at –0.11%. Since 2019 (during the due diligence of the project) the
+bank was observed to sufficiently and regularly augment its allowance for loan losses resulting in
+a negative net past due rate.
+
+F.      Financial Statements and Ratios
+
+31.     Balance sheet. Otbasy Bank’s assets have consistently increased since 2020. This can
+be attributed to the steady growth of deposits, borrowings, and profitable operations, the
+combination of which accounted for an average of 72% of the bank’s assets during 2020–2023.
+These additional resources were invested mostly in loans and liquid assets, as seen by the
+compound annual growth rates of 33% for loans and 27% for liquid assets from 2020 to 2023.
+The bank also invested in IT and digitalization to support the savings and loan expansion and
+boost remote services, particularly after the coronavirus disease (COVID-19) crisis. As a result,
+intangible assets almost doubled from T3.9 billion in 2020 to T6.5 billion in 2023. This translated
+into 77% of the bank’s services made available online with loan processing time shortened from
+18 to 8 days. In 2023, 3.3 million customer transactions took place online. 18
+
+32.      Income statement. Otbasy Bank’s operations remained profitable and continued their
+steady increase during 2020–2023. This was driven by growth in loans combined with good loan
+quality that required less loan loss provision. This propelled interest income to increase by 180%,
+from T111.4 billion in 2020 to T312.0 billion in 2023. Another factor was the low cost and long-
+term nature of funding sourced from HCS, and the borrowings from the government. The bank
+pays an annual interest rate of 2% on deposits, while for government borrowings, the rate ranges
+from 0.01% to 0.15%. The borrowings from MOF represent the highest at $63.7 billion (48% of
+total borrowings) with terms of 20–25 years. Otbasy Bank’s investment in digitalization was
+likewise instrumental because it facilitated portfolio growth at a faster pace as more transactions
+are done remotely. This improved efficiency and optimized expenditure, resulting in a substantial
+increase in net profit from T32.2 billion in 2020 to T147.5 billion in 2023.
+
+33.     Cash flow statement. Net cash from operating activities stood at –T126 billion in 2020
+and at –T382 billion in 2022, since the loan portfolio’s substantial growth required consuming
+funds in excess of the generated deposits. Nonetheless, cash and cash equivalents remained
+sufficient, averaging 20.10% of deposit liabilities from 2020 to 2023..
+
+34.       Key ratios. Otbasy Bank maintained a high level of liquidity and capital adequacy, far
+exceeding the minimum regulatory requirements of NBK. Liquidity is fairly strong because Otbasy
+Bank’s main fund source is its long-term deposit base, which exhibits low volatility thanks to its
+specific business model. Since 2020, deposits have accounted on average for 78% of total
+liabilities and for 66% of assets. As of year-end 2023, the bank’s liquid assets accounted for 19%
+
+18 Otbasy Bank. 2023. Annual Report.
+                                                                                                    9
+
+
+of its total assets. This buffer is considered sufficient to cover potential deposit outflow and day-
+to-day operational needs. Otbasy Bank has ranked first in the banking system’s deposit taking for
+long-term deposits since 2020, and women represented 58.6% of depositors at year-end 2023.
+The bank also remains well capitalized despite the substantial growth in its loan portfolio and
+assets. Its capital adequacy ratio of 34.80% as of year-end 2023 is more than four times the
+minimum 8% regulatory requirement. Otbasy Bank boasts good internal capital generation thanks
+mainly to its profitable operations.
+
+G.     Covenants
+
+35.    The loan agreement included covenants that are customary for an ADB financial
+intermediary loan. Otbasy Bank fully complied with these covenants.
+
+                           IV.       SUBLOAN IMPLEMENTATION
+
+A.     Loan Appraisal
+
+       1.      Distribution of Subloans
+
+36.      The actual distribution of the subloan portfolio is presented in Basic Data (at the beginning
+of this report).
+
+       2.      Covenants
+
+37.   The covenants in the loan agreement signed between ADB and Otbasy Bank were
+adequate to regulate the use of loan funds and the selection of women subborrowers.
+
+       3.      Quality of Appraisal
+
+38.    Otbasy Bank has adequate policy, procedures, and systems in place given its more than
+21 years of implementing housing programs in partnership with the government. It also has
+adequately trained staff and incorporated ADB’s eligibility criteria in the loan applications and
+monitoring system. A few instances of ineligible subloans were noted, but the bank was able to
+replace them swiftly.
+
+B.     Implementation
+
+39.      After the amendment of the income ceiling, many potential Umai subborrowers were
+waiting for another tranche of disbursement. The third tranche was finally announced in May 2023
+following ADB’s disbursement on 27 April 2023. Within hours of accepting applications online and
+in its branches, Otbasy Bank received more than 1,000 applications. But having only T15.6 billion
+in funds to mobilize, Otbasy Bank had to abruptly close the window for Umai, particularly in the
+major cities, since rural regions were being prioritized. This caused confusion and frustration
+among applicants despite Otbasy Bank’s announcements. To prevent such incidents in the future,
+the bank will enhance its publications and communications to better inform the public. Overall,
+however, the project was implemented satisfactorily. Otbasy Bank was compliant with the loan
+covenants and has strictly observed the selection criteria for subloans and subborrowers. It also
+submitted quarterly and audit reports promptly, and liquidation and other additional information
+as requested. The unqualified opinions it received both on its project and entity financial
+statements throughout the implementation highlight the integrity of its reporting.
+10
+
+
+                     V.         EVALUATION OF PROJECT PERFORMANCE
+
+A.      Relevance
+
+40.       The project is rated highly relevant. Affordable quality housing in Kazakhstan was in low
+supply. Housing prices in Kazakhstan surged from 2013 to 2022—rising by 131% for primary and
+by 227% for secondary housing—driven by inflation and market expectations. State programs
+offer some relief, but market-oriented loans remain expensive. Furthermore, women found it
+difficult to obtain affordable mortgage finance because of constraints in accessing banks’ financial
+services, prolonged and complicated procedures for commercial loan approvals, and excessive
+paperwork. In rural areas, women were even more disadvantaged in accessing mortgage
+financing since most of them were self-employed and had informal income sources. With lower
+income levels, women faced higher collateral requirements to be eligible for a loan. The project
+supported the adoption of an innovative mortgage program (Umai) that exclusively targeted
+women subborrowers and filled critical gender gaps in the housing finance market. Thanks to the
+program, women who were ineligible for loans from the heavily subsidized programs of the
+government—and from banks given their bias to subborrowers with a more formal and steady
+income source—finally had access to housing finance.
+
+41.     The provision of affordable housing remains a key agenda for the government. In 2020, it
+launched the “5-10-20” state housing program, which stands for 5% loan rate, 10% downpayment,
+and 20-year loan term. This was followed by the government’s approval of the partial withdrawal
+of pension savings for the purpose of acquiring or renovating a home. Improving the housing
+infrastructure system is also included in the government’s concept for the development of housing
+and communal infrastructure for 2023–2029. 19
+
+42.     The project is fully aligned with ADB’s Strategy 2030 and its operational priorities (OPs)
+of addressing remaining poverty and reducing inequalities (OP1), accelerating progress in gender
+equality (OP2), and strengthening governance and institutional capacity (OP6). 20 Housing
+security is vital for women’s safety, health, and economic stability, as are targeted interventions
+for housing finance and gender-responsive policies. The project also aligns with ADB’s country
+partnership strategy, 2023–2027 for Kazakhstan, which emphasizes resilient and sustainable
+growth with gender equality as a central theme. 21 It also calls for affordable housing finance for
+women and youth through a sovereign-guaranteed modality.
+
+43.     The project design and its scope were appropriate for achieving the intended outcome of
+giving women access to housing finance. Otbasy Bank, the project’s executing and implementing
+agency, is a key player in the housing market of Kazakhstan, particularly in helping citizens
+purchase their first homes. It met all of ADB’s financial intermediary eligibility criteria, as outlined
+in the Operations Manual. 22 The design and monitoring indicators were also well drafted,
+measurable, and directly relevant to achieving the outcome of the project, with specific targets for
+loans in rural areas. The project successfully ensured gender inclusivity through the
+implementation of the GAP. Although it underwent minor changes during implementation, this
+was necessary to adjust to developments in the housing sector (para. 22). Furthermore, ADB
+innovatively and befittingly designed the funding features for the project. It was one of the first (1
+
+19 Government of Kazakhstan. 2022. Resolution of the Government of the Republic of Kazakhstan Dated 23 September
+
+   2022 No. 736 On Approval of the Concept for the Development of Housing and Communal Infrastructure for 2023–
+   2029.
+20 ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive, Resilient, and Sustainable Asia and the Pacific.
+21 ADB. 2023. Country Partnership Strategy: Kazakhstan, 2023–2027.
+22 ADB. 2023. Financial Intermediation Loans: Operations Manual. OM D6/BP, paras. 8–9.
+                                                                                                       11
+
+
+out of 2 at the time of approval) local currency and sovereign-guaranteed loans that was
+implemented successfully, thus, leading the way for new projects in the country to also explore
+the same design. ADB issued four tenge bonds, three in the domestic market of Kazakhstan,
+representing the first gender bonds auctioned and listed on Kazakhstan Stock Exchange, and
+one issued offshore at a discount to the sovereign curve and subscribed by a European impact
+fund manager. All the bonds had maturities that matched the bullet repayment of the ADB loan.
+All these features not only mitigated the asset liability management risks of Otbasy Bank as the
+borrower, but also provided local pension funds with highly rated long-tenor investment
+instruments.
+
+B.      Effectiveness
+
+44.     The project is rated effective. It successfully facilitated (i) the acquisition and/or renovation
+of housing units by women, and (ii) the implementation of measures to improve the efficiency and
+gender focus of Otbasy Bank’s lending operations. The targeted support reached the intended
+beneficiaries and contributed to significant achievements in mortgage loan issuance. In summary,
+of the 4 numerical targets under the outcome performance indicators, 2 were achieved, 1
+substantially achieved and 1 was not delivered, while all 8 output performance indicators were
+delivered. The outcome indicators were anchored on Otbasy Bank’s goal of expanding its
+outreach and loan portfolio to women. Thus, the target to issue at least 28,000 subloans to women
+annually would translate into 8% annual growth in the lending portfolio to women (Table 1); and
+into loans to women subborrowers accounting for 59% of the overall loan portfolio, with 1% annual
+growth from the 55% baseline (Table 2). From ADB loan effectiveness in November 2020 to
+December 2023, Otbasy Bank issued more than 28,000 subloans annually. In total, it issued
+156,158 subloans to women, which is 139% of the 4-year cumulative target (28,000 x 4 =
+112,000). This resulted in a double-digit growth rate in the number of women subborrowers from
+2020 to 2024, exceeding the 8% target. However, these overachievements did not translate into
+a greater proportion of women’s loans in the overall loan portfolio. While outstanding loans to
+women (Table 2) more than doubled from T697 billion (2020) to T1.64 trillion (2023), as a
+percentage of the overall portfolio (53%) they fell short of the 59% target. This may be partially
+explained by the gender gap in wages—women tend to be granted smaller loans than men
+because they earn lower wages than men on average. Although Otbasy Banks’s outreach to
+women consistently exceeded that to men (in both loans issued and outstanding), men’s higher
+income allows them to obtain bigger loans. Despite being funded and supported by the
+government, Otbasy Bank strictly employs prudent credit underwriting policies and procedures
+that review subborrowers’ cash flow, solvency, and capacity to pay the loan. Nonetheless, Otbasy
+Bank substantially delivered since it still accomplished 90% of its target (53% versus 59%).
+
+             Table 1: Number of Issued Subloans and Subborrowers, 2020–2023
+                No. of Issued Subloans                       No. of Subborrowers per Year
+              Men       Womena      Total          Men       Women       Total     Growth in Share of
+                                                                                        Women
+ Year                                                                                Subborrowersb
+ 2020         21,345     30,581      51,926
+ 2021         36,835     45,418      82,253        82,056    106,053    188,109
+ 2022         35,817     44,055      79,872        96,994    127,965    224,959      21,912      21%
+ 2023         28,674     36,104      64,778       119,073    155,072    274,145      27,107      21%
+ Total       122,671    156,158     278,829       133,084    174,032    307,116      18,960      12%
+ a Target = 28,000 annually.
+ b Target = 8% annual growth.
+
+ Source: Otbasy Bank’s Gender Statistic Report.
+12
+
+
+               Table 2: Outstanding and Average Loan Size by Gender, 2020–2023
+                                          (T million)
+                                 Outstanding Loans by Gender                    Average Loan Size
+                              Share of                 Share of
+ Year           Men            Total      Women          Total      Total      Men        Women
+ 2020           630,241           47%        696,903         53%   1,327,143      12.89      10.93
+ 2021           952,596           47%      1,056,701         53%   2,009,297      16.16      14.09
+ 2022         1,372,637           48%      1,510,544         52%   2,883,181      18.54      16.29
+ 2023         1,466,685           47%      1,639,707        53%a   3,106,393      17.79      15.44
+ a
+   Target = 59%.
+  Source: Otbasy Bank’s Gender Statistic Report.
+
+45.     All 8 output performance indicators were achieved. Under output 1, a total of 3,248 women
+(against the target of 3,000) were able to able to own housing units using ADB funds. Similarly,
+108 renovation loans were disbursed (versus the reduced target of 100 subloans). The targeted
+60% of project funds used for loans outside the four big cities was delivered at 66.3%. The
+allocation of 20% project funds used for low-income subborrowers was overachieved at 75.9%.
+Output 1 was completed with some modifications during implementation (paras. 19–22 on income
+ceiling and para.23 on renovation). These minor changes allowed the project to be responsive,
+which led to the full utilization of the project’s funds and its satisfactory completion.
+
+46.      The initiatives under output 2 were also achieved. Otbasy Bank designed the Umai loan
+product with specific attention to the target beneficiaries of the project. To support the marketing
+of Umai, the design and monitoring framework required Otbasy Bank to conduct at least three
+nationwide public awareness campaigns on housing finance for women. This was delivered
+through the production and presentation of six promotional videos in 2022, funded under ADB
+technical assistance. 23 The bank was able to reach a larger audience since the video was shown
+across its 19 regional offices, which was also prudent following the COVID-19 pandemic that had
+locked down Kazakhstan in 2020. The campaign also complemented the bank’s thrust for digital
+transformation. Finally, after thorough discussions with ADB and the project’s core consulting
+team, Otbasy Bank adopted a gender policy to which it fully adhered (Appendixes 1 and 4). The
+suggestions made by ADB on Otbasy Bank’s gender policy came about after the consulting
+team’s review of the bank’s policies, procedures, systems, and forms. The review was made in
+parallel with the nationwide study on gender inclusiveness of the banking system’s housing
+finance (output 3). Prior to the study, the consulting team was supported by a national firm that
+conducted a survey among 1,500 respondents, interviewing 901 (60%) women and 599 (40%)
+men; 74 people (mostly women) also participated in focus group discussions. The results of the
+nationwide study were submitted to Otbasy Bank in 2022 and were disseminated to their staff in
+a 3-day workshop in Almaty on 26–28 October 2022. The workshop was attended by 70 staff of
+Otbasy Bank, including the chair of the board, other board members, directors, loan officers, and
+marketing agents. It was supplemented by several virtual discussions, and the whole exercise led
+to the adoption of the gender policy. In September 2023, the bank approved the new Regulations
+on Diversity and Inclusivity and the Rules on Gender Aspects, stipulating the appointment of the
+chairperson of the management board as commissioner for diversity and inclusivity, including on
+gender aspects (gender focal), by order No. 624 of 6 November 2023. It also commissioned and
+approved the Action Plan for Gender Equality for 2023, leading to the integration of gender
+considerations into the bank’s Code of Business Ethics, Personnel Policy, Sustainable
+Development Policy, and the Strategy for 2024–2033. Additionally, job descriptions for all
+employees now include compliance with the Diversity and Inclusivity Regulations. With these
+initiatives and with the successful implementation of the project, Otbasy Bank was named a
+
+23 Links to the videos are in Appendix 1.
+                                                                                                       13
+
+
+gender champion among 11 other institutions in the 2023 CAREC Gender Equality Awards
+ceremony. 24
+
+C.      Efficiency
+
+47.    The project is rated efficient. The entire T38 billion was disbursed and received by the
+intended beneficiaries, exceeding the targets of 3,000 loans for housing unit acquisition and
+100 loans for housing renovation. Also, the targeted allocations for low-income and rural women
+were more than delivered, without incurring much transaction cost between ADB and Otbasy
+Bank, since Otbasy Bank had staff and systems in place to ensure that the indicators were met.
+Despite the minor delays in the bank’s on lending of funds under the first tranche, and the 6-month
+loan extension (para. 22), ADB’s rapid and effective response to the project’s needs resolved any
+implementation issues successfully, leading to the project funds’ full utilization.
+
+D.      Sustainability
+
+48.     The project is rated likely sustainable. Given the high demand for affordable housing and
+the importance the government attaches to meeting it, complemented by Otbasy Bank’s strong
+capital base, its HCS modality, strong regulatory compliance, network and partnerships with the
+government and other developmental partners, the mortgage loan portfolio will continue to
+increase. A new financial intermediation loan project with Otbasy Bank, planned for approval in
+2025, is also a clear indication of the project’s sustainability. 25
+
+E.      Development Impact
+
+49.     The development impact of the project is rated satisfactory. The project made a substantial
+and likely sustainable impact on the mortgage market and enhanced women’s access to finance,
+particularly for those in the middle-income niche who were not qualified under the state programs
+and ineligible under the banking system’s strict scrutiny. Other positive development impacts are
+that the project (i) the improved access to Otbasy Bank’s lending products for eligible women
+subborrowers, and (ii) the assessed and increased gender inclusiveness of the banking system’s
+housing finance. High-level development impacts such as economic development, rural
+development, and poverty and inequality reduction have long gestation periods, so tangible
+results become visible only gradually. Nonetheless, the project has highlighted that affordable
+mortgage financing for women, improved accessibility of lending products, and gender
+inclusiveness in the banking system are long-lasting reforms with a positive impact on the people
+in Kazakhstan.
+
+F.      Performance of Otbasy Bank
+
+50.    Otbasy Bank’s performance is rated satisfactory. The bank proved to be the best option
+for implementing the project given its clear mandate and experience in providing subloans to
+targeted beneficiaries. It has systems, staff, branches, and networks in place to ensure maximum
+coverage, particularly for this project, which aimed for higher outreach in rural areas. Otbasy Bank
+also worked diligently to obtain the government’s guarantee for the ADB loan, and observed loan
+and financial covenants as well as eligibility criteria throughout the implementation of the project.
+It showed strong ownership and responsibility, closely monitoring key indicators and deliverables
+
+24 Central Asia Regional Economic Cooperation. 2023. Exemplary Achievements: CAREC Gender Award Recognizes
+
+  11 Champions Across 10 Countries.
+25 ADB. Kazakhstan: Promoting Inclusive and Green Housing Finance.
+14
+
+
+under the project. It also submitted a program completion report and supplementary information
+that enabled ADB to better analyze the banking system and the project’s contribution to it.
+
+G.      Performance of ADB
+
+51.      ADB’s overall performance, from project preparation to completion, is rated satisfactory,
+reflecting strong capacity to support and manage complex projects, communicate effectively, and
+foster collaborative relationships with its stakeholders. Its responsiveness in addressing issues
+during implementation was also critical to the project’s success. ADB maintained adequate
+oversight through its review of reports, liquidations, field missions, and close coordination through
+the resident mission. Otbasy Bank’s quarterly reports, designed during project processing,
+facilitated the monitoring of outcome and output targets.
+
+52.     The project was categorized as gender equity theme. It was specifically designed to
+enable women, especially those from rural areas, to access affordable mortgage finance for the
+purchase or renovation of homes. Through the project, women benefitted not only from affordable
+mortgage finance but also acquired knowledge of financial management and mortgage lending.
+The project also enhanced the enabling environment for women’s access to finance because it
+supported Otbasy Bank’s design of a gender policy and of a specific lending product for women
+(Umai). At entry, the GAP included 19 gender-related indicators: 11 targets, including 2 at the
+outcome level, and 8 activities. At project completion, 18 indicators had been achieved and 1
+indicator substantially so, which further substantiates ADB’s satisfactory performance and
+administration of the project.
+
+H.      Overall Assessment
+
+53.     The project is rated overall successful, with a weighted average score of 2.25 across the
+core criteria of relevance, effectiveness, efficiency, and sustainability. It was and continues to be
+highly relevant because demand for the specially designed housing loan product remains high;
+effective because 3 of 4 outcome performance indicators were achieved/substantially achieved,
+and all eight output targets were delivered; efficient because all outputs were achieved with no
+major or substantial delays; and likely sustainable since demand remains high and prospects are
+good that Otbasy Bank will continue to increase its support to women subborrowers and expand
+its lending operations.
+
+                                            Overall Ratings
+Criteria                                                                Rating
+Relevance                                          Highly relevant
+Effectiveness                                      Effective
+Efficiency                                         Efficient
+Sustainability                                     Likely sustainable
+Overall Assessment                                 Successful
+Impact                                             Satisfactory
+Performance of Otbasy Bank                         Satisfactory
+Performance of the Asian Development Bank          Satisfactory
+Source: Asian Development Bank.
+
+                 VI.        ISSUES, LESSONS, AND RECOMMENDATIONS
+
+A.      Issues and Lessons
+
+54.     The project encountered two main issues, the originally set income ceiling of subborrowers
+                                                                                                15
+
+
+and the low amount of renovation loans. Both issues highlight the need for ADB to be flexible and
+responsive when faced with changing realities so that the project’s funds are ultimately delivered
+to the envisaged beneficiaries.
+
+55.    External shocks such as the COVID-19 pandemic and the Russian invasion of Ukraine
+are impossible to predict, but it is possible to mitigate adverse socioeconomic effects with better
+contingency planning and a predetermined crisis response that supports both the borrower and
+the subborrowers.
+
+56.    In addition, Otbasy Bank should enhance its communication and raise awareness among
+potential subborrowers, especially the younger ones, of the number of subborrowers it can
+accommodate under its lending programs by conducting detailed media campaigns and
+community outreach programs. This will help it manage the public’s expectations more effectively.
+
+B.     Recommendations
+
+57.      Integrating gender and climate priorities in future projects. Future iterations could
+incorporate green building standards and energy-efficient solutions, address gender inequality,
+and promote inclusive growth to significantly improve the quality of life for women and their
+families. In response to Kazakhstan’s Strategy for Carbon Neutrality 2060, future projects could
+offer financing for energy-efficient housing. Products like energy-efficient home financing and
+retrofit loans would promote sustainable practices. These could provide incentives for installing
+solar panels, improving insulation, and implementing other eco-friendly improvements in
+alignment with national environmental goals. Apart from mortgage and other affordable housing
+initiatives, future demand for housing could be nurtured by developing financial literacy programs
+for women and vulnerable groups. Targeted financial literacy initiatives would support women and
+vulnerable groups, equipping them with the knowledge needed to navigate mortgage options and
+financial planning for homeownership.
+
+58.    Mortgage market reforms in Kazakhstan. The mortgage loan market is dominated by
+Otbasy Bank, which has issued on average 62% of the banking system’s mortgage loans since
+2019. To better develop this market, the government should support the increased participation
+of banks. This would generate healthy competition and ultimately benefit potential homeowners
+and the economy. Hence, ADB should continue the policy dialogue with the government for
+mortgage market reforms to create a realistic and competitive landscape.
+
+59.  Covenants. The current covenants are and remain relevant and sufficient for project
+management.
+
+60.     Future monitoring. No further reporting required. But ADB could nonetheless evaluate
+further developments in housing, mortgages, and climate financing, and an extension of its
+partnership with Otbasy Bank.
+
+61.     Further action or follow-up. Since demand for affordable housing remains high and
+given ADB’s focus on climate, which can be integrated in the housing programs, the project team
+should explore continued collaboration with Otbasy Bank and other financial institutions that could
+lead to realistic competition.
+
+62.    Timing of the project performance evaluation report. The project performance
+evaluation report was timely.
+16     Appendix 1
+
+
+
+                             DESIGN AND MONITORING FRAMEWORK
+Impact the Project is Aligned with
+Gender equity promotion and sustainable economic growth achieved a
+                      Performance Indicators
+ Results Chain                                                            Updates/Progress
+                     with Targets and Baselines
+Outcome             a. 8% annual growth rate in     Achieved.
+Acquisition and     the lending portfolio to
+renovation of       women (2019–2022),              Since the beginning of 2020, following the effectiveness of the
+housing units by    reaching at least 28,000        loan in November 2020, the bank has issued more than 28,000
+women               mortgage loans issued by        loans annually. In total, Otbasy bank issued 156,158 subloans
+increases           Otbasy Bank to women            to women over the last four years.
+                    borrowers (2018 baseline:
+                    20,622).                                          Number of Issued Loans
+                                                         Year        Men            Women              Total
+                                                      2020              21,345          30,581            51,926
+                                                      2021              36,835          45,418            82,253
+                                                      2022              35,817          44,055            79,872
+                                                      2023              28,674          36,104            64,778
+                                                      Total            122,671         156,158           278,829
+                                                    Source: Otbasy Bank Gender Statistic Report
+
+                                                    With the consistent increase in the number of women issued
+                                                    loans, Otbasy Bank was able to post a double-digit growth rate
+                                                    in the last three years.
+                                                                                            Growth in Women
+                                                         Men        Women      Total     (numbers)       (%)
+
+                                                       82,056    106,053   188,109
+                                                       96,994    127,965   224,959       21,912            21%
+                                                      119,073    155,072   274,145       27,107            21%
+                                                      133,084    174,032   307,116       18,960            12%
+                                                    Source: Otbasy Bank Gender Statistic Report
+
+                    b. 1% annual growth rate in     Substantially Achieved.
+                    the size of the lending
+                    portfolio to women as a         Despite not reaching the target of 1% annual growth rate which
+                    proportion of the overall       was envisaged to result in a 59% share of women in the
+                    portfolio (2019–2022),          outstanding loan portfolio, substantial increase has been
+                    reaching at least 59% (2018     achieved. Outstanding loans to women more than doubled from
+                    baseline: 55%).                 T697 billion (2020) to T1.64 trillion (2023) translating to a 53%
+                                                    ratio to overall loan portfolio (53%/59% = 90%).
+
+                                                      Outstanding
+                                                                            Men             Women
+                                                         Loans
+                                                                     Men     %    Women      % to           Total
+                                                        (in KZT
+                                                                            Total            Total
+                                                       Millions)
+                                                     2020           630,241  47%   696,903      53%       1,327,143
+                                                     2021           952,596  47% 1,056,701      53%       2,009,297
+                                                     2022         1,372,637  48% 1,510,544      52%       2,883,181
+                                                     2023         1,466,685  47% 1,639,707      53%       3,106,393
+                                                    Source: Otbasy Bank Gender Statistic Report
+
+
+Outputs             1a. Number of women-owned       Achieved. As of 31 December 2023, 3,248 women received
+1. Long-term        housing units financed by the   subloans to purchase a housing unit.
+affordable          ADB loan has increased to
+mortgage            3,000 (2019 baseline: NA).
+                                                                                                 Appendix 1       17
+
+
+                        Performance Indicators
+ Results Chain                                                             Updates/Progress
+                       with Targets and Baselines
+financing for         1b. Number of renovations of    Achieved. As of 31 December 2023, 108 loans for housing
+eligible women        housing units owned by          renovation were issued.
+borrowers made        women funded by the ADB
+available             loan increased by 2,000
+                      (2019 baseline: NA)
+
+                      Note: 2,000 was reduced to
+                      100 through an approved
+                      minor change memob.
+
+                      1c. At least 60% of mortgage    Achieved. As of 31 December 2023, 66.3% or T25.2 billion of
+                      loans financed by the ADB       the T38 billion were issued outside Almaty, Astana, Aktau, and
+                      loan are issued by the bank     Atyrau.
+                      for the purchase and/or
+                      reconstruction of housing
+                      owned by women in rural
+                      areas, i.e., outside Almaty,
+                      Astana, Aktau and Atyrau
+                      (2019 baseline: NA)
+
+                      1d. At least 20% of all         Achieved. As of 31 December 2023, 75.9% or T28.9 billion of
+                      mortgage loans financed by      the project’s T38 billion were used to the low-income female
+                      the ADB loan disbursed to       subborrowers.
+                      low-income female borrowers
+                      with a monthly family income
+                      of less than T200,000 (2019
+                      baseline: NA)
+
+                      Note: Ceiling for low income
+                      female subborrowers
+                      increased to less than
+                      T550,000 through an
+                      approved amendment of the
+                      loan agreementc.
+
+2. Accessibility to   2a. Otbasy Bank develops at     Achieved. Umai Women’s Mortgage Program was developed
+ Otbasy Bank’s        least one financial product     by Otbasy Bank and launched for implementation in April 2021.
+lending               exclusively targeted at
+products for          women borrowers
+eligible women        (2019 baseline: NA)
+borrowers             2b. Otbasy Bank adopts a        Achieved. In September 2023, the Bank approved new
+improved              gender policy (2019 baseline:   Regulations on Diversity and Inclusivity and the Rules on
+                      NA)                             Gender Aspects. These policies were adopted based on ADB's
+                                                      recommendations. The policies include the following key
+                                                      gender-related elements:
+
+                                                          1.   Commitment to Gender Equality. The Diversity and
+                                                               Inclusivity Policy adopted in 2023 emphasizes
+                                                               overcoming all forms of gender-based discrimination
+                                                               and ensuring equal consideration of the needs of
+                                                               women and men in all projects and initiatives. Women
+                                                               are actively encouraged to take leadership roles, with
+                                                               specific policies supporting their participation in
+                                                               decision-making processes. The bank also integrates
+                                                               gender equality considerations into its broader
+                                                               corporate culture, reinforcing its commitment through
+                                                               training programs, awareness campaigns, and
+                                                               inclusive hiring practices.
+18     Appendix 1
+
+
+                     Performance Indicators
+ Results Chain                                                            Updates/Progress
+                    with Targets and Baselines
+                                                        2.   Data Collection and Monitoring - Gender-
+                                                             disaggregated data collection is highlighted as a
+                                                             critical measure to assess and promote equality
+                                                             effectively.
+                                                        3.   Work-Life Balance - The bank's policies provide for
+                                                             flexible work conditions that support employees,
+                                                             including those with caregiving responsibilities,
+                                                             ensuring gender equity in balancing professional and
+                                                             personal life.
+                                                        4.   Leadership Development - Programs like "Women's
+                                                             Leadership Development" were designed to increase
+                                                             gender diversity in senior positions. These initiatives
+                                                             aim to empower women by providing training,
+                                                             mentorship, and opportunities for professional growth,
+                                                             with notable success in achieving 30% representation
+                                                             of women in senior management. Otbasy Bank
+                                                             actively monitors and evaluates the effectiveness of
+                                                             these programs to ensure continuous improvement
+                                                             and alignment with best practices.
+                                                        5.   Zero Tolerance for Discrimination - The Diversity
+                                                             Policy and HR Policy enforce a strict zero-tolerance
+                                                             approach to gender-based harassment and
+                                                             discrimination. Clear protocols are in place for
+                                                             reporting and addressing incidents, ensuring prompt
+                                                             and effective resolution. The bank also conducts
+                                                             regular training sessions to foster awareness about
+                                                             workplace respect and inclusivity. To further uphold
+                                                             this principle, the policies mandate periodic reviews of
+                                                             workplace culture and employee feedback to identify
+                                                             and mitigate any potential risks of discriminatory
+                                                             behavior, ensuring a safe and inclusive environment
+                                                             for all employees.
+
+                                                    An annual Action Plan for Gender Equality for 2023 was also
+                                                    developed and approved, leading to the integration of gender
+                                                    considerations into the bank's Code of Business Ethics,
+                                                    Personnel Policy, Sustainable Development Policy, and the
+                                                    Strategy for 2024–2033. Additionally, job descriptions for all
+                                                    employees now include compliance with the Diversity and
+                                                    Inclusivity Regulations. The Chair of the Bank, Lyazzat
+                                                    Yerkenovna Ibragimova, was appointed Commissioner for
+                                                    Diversity and Inclusivity, including on Gender Aspects in Otbasy
+                                                    Bank, by the Order No. 624 as of 6 November 2023.
+                    2c. Otbasy Bank conducts at     Achieved. The development of 6 promotional videos were
+                    least three nationwide public   funded under TA 9834.
+                    awareness campaigns on
+                    housing finance products for
+                    women (2019 baseline: NA)
+
+3. Gender           3a. Results of a nationwide     Achieved. Four consultants consisting of an international
+inclusiveness of    study on women’s access to      housing finance expert, international gender specialist, national
+the banking         housing and                     gender specialist, a national researcher (statistician), and a
+sector’s            finance products                national survey firm were mobilized to develop the study. The
+housing finance     disseminated and endorsed       results, including the review of operations through a gender
+assessed.           by the government (2019         lens, were cascaded and disseminated to Otbasy Bank
+                    baseline: NA)                   management and staff in October 2022 through a 3-day
+                                                    seminar workshop. In January 2024, the Ministry of National
+                                                    Economy endorsed the nationwide study.
+                                                                                              Appendix 1        19
+
+
+                     Performance Indicators
+  Results Chain                                                          Updates/Progress
+                    with Targets and Baselines
+                                                   The results of the study confirm the high demand for housing in
+                                                   Kazakhstan. Per collected data and estimates, around 4.3–5.5
+                                                   million Kazakhs out of which 2.2–2.8 million are women are in
+                                                   need improved housing. The study also shows that although
+                                                   both men and women have equal rights and access, in practice
+                                                   women's ability to obtain a mortgage loan is lessened by her
+                                                   perceived creditworthiness that is anchored on her income
+                                                   (wages) which are lower compared to men. From these
+                                                   perspectives, the importance of the ADB project is high and will
+                                                   continue to be relevant in the coming years.
+
+ADB = Asian Development Bank, COVID-19 = coronavirus disease, NA = not applicable, T = trillion
+a Government of Kazakhstan. 2017. Strategic Plan for the Development of Kazakhstan until 2025. Astana.
+b
+  After thorough and several discussions within ADB and with Otbasy Bank, memo to reduce target was approved 26
+  December 2023.
+c ADB. 2021. Amendment to the Loan Agreement (Ordinary Operations) for Loan 3841-KAZ: Promoting Gender
+
+  Equality in Housing Finance Project.
+d ADB. 2022. Nationwide Public Awareness Campaigns for Women's Mortgage "Umai" Program. YouTube video.
+
+  June.
+Source: ADB.
+20        Appendix 2
+
+
+
+                         STATUS OF COMPLIANCE WITH LOAN COVENANTS
+                                                       Reference in Loan            Status of Compliance/Attached
+ Covenant                                                 Agreement                 Substantiation as Appropriate
+ Loan 3841
+ In the carrying out of the Project and in        Article   V   –   Particular Complied with the terms of Section
+ the conduct of its business, the Borrower        Covenants, Section 5.01.     5.01.
+ shall perform all the obligations set forth                                   According to Schedule 2
+ in Schedule 2 to this Loan Agreement.                                         a) Otbasy Bank complies with National
+                                                                               Bank of Kazakhstan prudential ratios, as
+                                                                               evidenced by the report submitted to
+                                                                               NBK.
+                                                                               b) Otbasy Bank meets the financial
+                                                                               covenant on profitability, confirmed by
+                                                                               an independent certified auditor.
+                                                                               c) The Net Non-Performing Loans (NPL)
+                                                                               to Total Regulatory Capital ratio is
+                                                                               0.34%, well below the required 25%. 26
+ The Borrower shall maintain adequate             Section 5.02.                Complied with the terms of Section
+ records and accounts on each Qualified                                        5.02.
+ Mortgage and to reflect, in accordance                                        The Borrower maintained sound records
+ with consistently maintained sound                                            and accounts for each Qualified
+ banking,    risk    management       and                                      Mortgage, as confirmed by independent
+ accounting principles, the operations                                         audits for 2021-2023, demonstrating
+ and financial condition of the Borrower.
+                                                                               consistent adherence to banking, risk
+                                                                               management,        and       accounting
+                                                                               principles.
+ The Borrower shall furnish to ADB all            Section 5.03.                Complied with the terms of Section
+ such reports and information as ADB                                           5.03.
+ shall reasonably request concerning the                                       The Borrower provided reports and
+ Qualified Sub-borrowers and the                                               information on the Qualified Sub-
+ Qualified mortgages.                                                          borrowers and the Qualified mortgages.
+ Section 5.04. (a) Section 5.04. (a) The          Section 5.04.                  Complied with the terms of Section
+ The        Borrower Borrower shall (i)                                          5.04.
+ shall (i) maintain maintain          separate
+ sepaate accounts accounts and records                                           (a) All covenants were met. Separate
+ and records for for the Project; (ii)                                           project accounts were maintained, and
+ the Project; (ii) prepare              annual                                   annual fund utilization statements were
+ prepare      annual statements              of
+                                                                                 audited and submitted within 6 months.
+ statements         of utilization of funds for
+ utilization of funds the        Project     in
+ for the Project in accordance             with                                  (b) ADB disclosed audited fund
+ accordance with accounting principles                                           utilization statements and opinions
+ accounting            acceptable to ADB;                                        within 14 days of confirmation.
+ principles            (iii)    have      such
+ acceptable         to statements audited                                        (c) The Borrower provided annual
+ ADB; (iii) have annually                   by                                   audited financial statements within 1
+ such statements independent auditors
+                                                                                 month of approval, along with any
+ audited annually whose qualifications,
+ by     independent experience and terms                                         requested information.
+ auditors      whose of       reference    are
+ qualifications,       acceptable to ADB, in                                     (d) The Borrower facilitated discussions
+ experience       and accordance           with                                  between ADB and auditors about fund
+ terms of reference auditing        standards                                    utilization and financial statements.
+
+26   For NPL consideration: (i) net NPLs mean loans over 90 days part due less than loss reserves; and (ii) total
+     regulatory capital refers to the amount of regulatory capital recorded from time-to-time by the Otbasy Bank to the
+     NBK.
+                                                                                       Appendix 2     21
+
+
+                                                       Reference in Loan   Status of Compliance/Attached
+Covenant                                                  Agreement        Substantiation as Appropriate
+are acceptable to         acceptable to ADB;
+ADB,                 in   (iv) as part of each
+accordance with           such audit, have the
+auditing standards        auditors prepare a
+acceptable           to   report, which includes
+ADB; (iv) as part         the             auditors’
+of     each     such      opinion(s) on the
+audit, have the           statements and the
+auditors prepare a        use of the Loan
+report,        which      proceeds, and a
+includes           the    management letter
+auditors’                 (which sets out the
+opinion(s) on the         deficiencies in the
+statements        and     internal control of the
+the use of the            Project that were
+Loan      proceeds,       identified     in     the
+and                   a   course of audit, if
+management                any); and (v) furnish
+letter (which sets        to ADB, no later than
+out                the    6 months after the
+deficiencies in the       close of the fiscal
+internal control of       year to which they
+the Project that          relate, copies of such
+were identified in        other       information
+the course of             concerning         these
+audit, if any); and       documents and the
+(v) furnish to ADB,       audit thereof as ADB
+no later than 6           shall from time to time
+months after the          reasonably request. i
+close of the fiscal       (b)      ADB        shall
+year to which they        disclose the annual
+relate, copies of         audited statements of
+such            other     utilization of funds for
+information               the Project and the
+concerning these          opinion       of      the
+documents         and     auditors      on      the
+the audit thereof         statements within 14
+as ADB shall from         days of the date of
+time      to     time     ADB’s confirmation of
+reasonably                their acceptability by
+request. i (b) ADB        posting them           on
+shall disclose the        ADB’s website. h (c)
+annual       audited      In addition to the
+statements           of   annual           audited
+utilization of funds      statements              of
+for the Project and       utilization of funds
+the opinion of the        referred       to       in
+auditors on the           subsection             (a)
+statements within         hereinabove,          the
+14 days of the            Borrower shall (i)
+date of ADB’s             provide its annual
+confirmation         of   financial statements
+their acceptability       prepared                in
+by posting them           accordance           with
+on ADB’s website.         financial      reporting
+h                   (c)   standards acceptable
+In addition to the        to ADB; (ii) have its
+annual       audited      financial statements
+statements           of   audited annually by
+utilization of funds      independent auditors
+22        Appendix 2
+
+
+                                                         Reference in Loan   Status of Compliance/Attached
+Covenant                                                    Agreement        Substantiation as Appropriate
+referred      to      in   whose qualifications,
+subsection           (a)   experience and terms
+hereinabove, the           of     reference      are
+Borrower shall (i)         acceptable to ADB, in
+provide its annual         accordance           with
+financial                  auditing      standards
+statements                 acceptable to ADB;
+prepared              in   (iii) as part of each
+accordance with            such audit, have to
+financial reporting        auditors prepare the
+standards                  auditors’ opinion(s)
+acceptable            to   on      the     financial
+ADB; (ii) have its         statements            and
+financial                  compliance with the
+statements                 financial covenants of
+audited annually           the Loan Agreement;
+by     independent         and (iv) furnish to
+auditors       whose       ADB, no later than 1
+qualifications,            month after approval
+experience         and     by      the     relevant
+terms of reference         authority, copies of
+are acceptable to          such audited financial
+ADB,                  in   statements            and
+accordance with            auditors’ opinion(s),
+auditing standards         all in the English
+acceptable            to   language, and such
+ADB; (iii) as part of      other       information
+each such audit,           concerning         these
+have to auditors           documents and the
+prepare             the    audit thereof as ADB
+auditors’                  shall from time to time
+opinion(s) on the          reasonably request.
+financial                  (d) The Borrower
+statements         and     shall enable ADB,
+compliance with            upon ADB’s request,,
+the         financial      to      discuss        the
+covenants of the           statements               of
+Loan Agreement;            utilization of funds for
+and (iv) furnish to        the Project and the
+ADB, no later than         financial statements
+1 month after              of the Borrower and
+approval by the            its financial affairs
+relevant authority,        where they relate to
+copies of such             the Project with the
+audited financial          auditors appointed by
+statements         and     the            Borrower
+auditors’                  pursuant                 to
+opinion(s), all in         subsections        (a)(iii)
+the           English      and                 (c)(ii)
+language,          and     hereinabove,          and
+such             other     shall authorize and
+information                require               any
+concerning these           representative           of
+documents          and     such      auditors       to
+the audit thereof          participate in any
+as ADB shall from          such        discussions
+time     to       time     requested by ADB.
+reasonably                 This is provided that
+request.                   such        discussions
+(d) The Borrower           shall be conducted
+                                                                                                  Appendix 2       23
+
+
+                                                        Reference in Loan          Status of Compliance/Attached
+Covenant                                                   Agreement               Substantiation as Appropriate
+shall enable ADB,         only in the presence
+upon           ADB’s      of an authorized
+request,,           to    officer    of     the
+discuss           the     Borrower, unless the
+statements          of    Borrower         shall
+utilization of funds      otherwise agree.
+for the Project and
+the         financial
+statements of the
+Borrower and its
+financial      affairs
+where they relate
+to the Project with
+the         auditors
+appointed by the
+Borrower
+pursuant            to
+subsections (a)(iii)
+and             (c)(ii)
+hereinabove, and
+shall      authorize
+and require any
+representative of
+such auditors to
+participate in any
+such discussions
+requested          by
+ADB.       This     is
+provided that such
+discussions shall
+be conducted only
+in the presence of
+an        authorized
+officer     of    the
+Borrower, unless
+the Borrower shall
+otherwise agree.
+Complied with the terms of Section                 Complied with the terms of   Complied with the terms of Section
+5.05.                                              Section 5.05.                5.05.
+The     Borrower       enabled    ADB’s                                         The    Borrower       enabled    ADB’s
+representatives to inspect any Qualified                                        representatives to inspect any Qualified
+Sub-borrower, and any relevant records                                          Sub-borrower, and any relevant records
+and documents maintained by the                                                 and documents maintained by the
+Borrower on the Qualified Mortgages.                                            Borrower on the Qualified Mortgages.
+(a) The Borrower shall promptly as                 Section 5.06.                Complied with the terms of Section
+required, take all action within its powers to                                  5.06.
+maintain its corporate existence, to carry                                      (a) Otbasy Bank has maintained its
+on its operations and to acquire, maintain                                      corporate existence, acquiring and
+and renew all rights, properties, powers,                                       renewing necessary rights, properties,
+privileges and franchises which are                                             and privileges for the Project and its
+necessary in the carrying out of the Project                                    business.
+or in the conduct of its business.
+                                                                                (b) The bank adheres to sound
+(b) The Borrower shall at all times conduct
+                                                                                technical,  financial,    and   risk
+its business in accordance with sound
+                                                                                management       practices    under
+applicable technical, financial and risk
+                                                                                competent management.
+management,      asset       and     liability
+management, and business practices, and
+24      Appendix 2
+
+
+                                                    Reference in Loan       Status of Compliance/Attached
+Covenant                                               Agreement            Substantiation as Appropriate
+under the supervision of competent and                                  (c) Otbasy Bank has not disposed of any
+experienced management and personnel.                                   essential    assets   without    ADB's
+ (c) Except as ADB may otherwise agree,                                 agreement.
+the Borrower shall not sell, lease or
+otherwise dispose of any of its assets
+which shall be required for the efficient
+carrying on of its operations or the disposal
+of which may prejudice its ability to perform
+satisfactorily any of its obligations under
+this Loan Agreement.
+Except as ADB may otherwise agree, the       Section 5.07.              Complied with the terms of Section
+Borrower shall not take, or cause to be                                 5.07.
+taken, any action which would have the                                  No actions were taken to amend,
+effect of amending, abrogating, assigning                               abrogate, assign, or waive any
+or waiving any provision of, or any right or                            provisions, rights, or obligations under
+obligation of the Borrower under, the                                   the related party loan agreements.
+related party loan agreements, or repay                                 Additionally, no portions of the related-
+any portion of the related-party loans in                               party loans were repaid in advance of
+advance of maturity.                                                    maturity without ADB's agreement.
+The Borrower shall promptly notify ADB of Section 5.08.                 Complied with the terms of Section
+any proposal to amend, suspend or repeal                                5.08.
+any provision of its Charter, which, if                                 There have been no occasions on which
+implemented, could adversely affect the                                 the Borrower has taken any action to
+carrying out of the Project. The Borrower                               amend, suspend, or repeal any
+shall afford ADB an adequate opportunity to                             provision of its Charter that could
+comment on such proposal prior to taking                                adversely affect the carrying out of the
+any affirmative action thereon.                                         Project. Therefore, no notifications to
+                                                                        ADB or opportunities for ADB to
+                                                                        comment were necessary.
+
+                                                    Reference in Loan
+Covenant                                                Agreement              Status of Compliance
+Implementation Arrangements                     SCHEDULE 2
+                                                Execution of Project;
+                                                Financial Matters
+1.       The Borrower shall ensure that                                 Complied.
+the Project is implemented in accordance
+with the detailed arrangements set forth in
+the PAM. Any subsequent change to the
+PAM shall become effective only after
+approval of such change by the Borrower
+and ADB. In the event of any discrepancy
+between the PAM and this Loan
+Agreement, the provisions of this Loan
+Agreement shall prevail.
+
+No Environmental and Social Impacts
+
+2.       The Borrower shall ensure that no                              Complied.
+Qualified Mortgage involve or result in any
+environmental, involuntary resettlement or
+indigenous peoples impacts, all within the
+meaning of the SPS.
+Disbursement Procedures
+
+3.      Except as ADB may otherwise                                     Complied.
+agree, the Loan proceeds shall be
+disbursed in accordance with the Loan
+                                                                                    Appendix 2     25
+
+
+                                                  Reference in Loan
+Covenant                                             Agreement              Status of Compliance
+Disbursement Handbook. ADB shall
+finance up to 100% of each Qualified
+Mortgage.
+4.       Withdrawals from the Loan                                    Complied.
+Account may be made to finance eligible
+expenditures incurred before the Effective
+Date, but not earlier than 12 months before
+the date of this Loan Agreement in
+connection with the Qualified Mortgages to
+Qualified Sub-borrowers, subject to a
+maximum amount equivalent to 20% of the
+Loan amount.
+Due diligence
+
+5.       The Borrower shall ensure that                               Complied.
+proceeds of the Loan shall be used only for
+financing Qualified Mortgages to Qualified
+Sub-borrowers.
+
+Human and Financial Resources               to
+Implement Safeguards Requirements
+
+6.       The Borrower shall ensure that                               Complied.
+necessary      budgetary     and  human
+resources are made available to undertake
+"Know-Your-Customer'' due diligence on
+each candidate Qualified Sub-borrower for
+financing under the Project.
+Prohibited List of Investments
+
+7.        The Borrower shall ensure that no                           Complied.
+proceeds of the Loan are used to finance
+any activity included in the list of prohibited
+investment activities provided in Appendix
+5 of the SPS.
+Gender and Development
+8.      The Borrower shall ensure that
+(a)     the GAP is implemented in                                     Complied.
+        accordance with its terms,
+        including any update thereto;
+(b)     adequate resources are allocated                              Complied.
+        for the implementation of the
+        GAP; and
+(c)     progress toward achieving key                                 Complied.
+        gender outcome and output
+        targets are regularly monitored
+        and reported to ADB.
+Labor Standards, Health, and Safety
+
+9.       The Borrower shall ensure that                               Complied.
+the core labor standards and the
+Guarantor's    applicable   laws   and
+regulations are complied with during
+Project implementation.
+
+Financial Covenants
+26      Appendix 2
+
+
+                                                  Reference in Loan
+Covenant                                             Agreement              Status of Compliance
+10.       Except as ADB may otherwise
+agree, the Borrower shall at all times
+during Project implementation until the
+Loan Closing Date:
+(a)       comply with prudential and                                  Complied.
+regulatory requirements of the National
+Bank of Kazakhstan, including capital
+adequacy,          income         recognition,
+classification, and provisioning of non-
+performing assets
+(b)       be profitable. For purposes of the                          Complied.
+foregoing, profitability refers to profit after
+tax; and
+(c)       has a ratio of net non-performing                           Complied.
+loans (NPLs) to total regulatory capital not
+exceeding 25%. For purposes of the
+foregoing,
+          (i) net NPLs shall mean loans                               Complied.
+               over 90 days past due less
+               loan loss reserves; and
+          (ii) total regulatory capital refers                        Complied.
+               to the amount of regulatory
+               capital reported from time-to-
+               time by Otbasy to the
+               National Bank of Kazakhstan.
+11.       The Borrower shall provide to                               Complied.
+ADB, with each set of audited financial
+statements, a certificate setting out
+computations as to compliance with the
+financial covenants described above,
+which shall be reviewed by the Borrower's
+auditors and signed by the Borrower's chief
+financial officer.
+
+Governance and Anticorruption
+
+12.     The Borrower shall
+(a)     comply with ADB's Anticorruption                              Complied.
+        Policy (1998, as amended to
+        date) and acknowledge that ADB
+        reserves the right to investigate
+        directly, or through its agents, any
+        alleged       corrupt,    fraudulent,
+        collusive, or coercive practice
+        relating to the Project; and
+(b)     cooperate       with    any     such                          Complied.
+        investigation and extend all
+        necessary         assistance      for
+        satisfactory completion of such
+        investigation.
+Combating Money Laundering and
+Financing of Terrorism
+
+13.       The Borrower shall:
+(a)       comply with applicable laws and                             Complied.
+          regulations of the Guarantor on
+          combating money laundering and
+          financing of terrorism and ensure
+          that Loan proceeds are not used,
+                                                                                Appendix 2     27
+
+
+                                              Reference in Loan
+Covenant                                         Agreement              Status of Compliance
+       directly or indirectly, in money
+       laundering or financing of
+       terrorism;
+(b)    formulate and implement internal                           Complied.
+       control procedures, including
+       customer         due       diligence
+       procedures, to prevent violation
+       of subparagraph (a) hereinabove;
+       and
+(c)    promptly inform the Guarantor                              Complied.
+       and ADB if there is any violation
+       or     potential     violation    of
+       subparagraph (a) hereinabove. In
+       the event that ADB informs the
+       Borrower of its concern that there
+       has been such an alleged
+       violation, the Borrower shall
+      (i)    cooperate in good faith with                         Complied.
+             ADB and its representatives
+             so that ADB can determine
+             whether such a violation has
+             occurred,
+      (ii) respond promptly and in                                Complied.
+             reasonable detail to any
+             query from ADB, and
+      (iii) furnish          documentary                          Complied.
+             support for such response
+             upon ADB's request.
+28      Appendix 3
+
+
+
+                               SUMMARY OF FINANCIAL INDICATORS
+
+               Table A3.1: Otbasy Bank’s Loan Products as of 31 December 2023
+                                                                       Gross Loans         Number of
+                                Interest rate
+Particulars                                        Loan Term                                  Sub
+                                 per annum                          (T Million)      (%)
+                                                                                           borrowers
+Interim Housing Loan              2–8.5%         Up to 25 years     1,509,742        49     75,435
+Preliminary Housing Loan
+(includes state programs and      2–14.4%       6 months–10 years   876,602          28     75,995
+Umai)
+                                                 6 months to 25
+Housing Loan                       2–5%                             720,049          23    1,555,686
+                                                     years
+Total                                                               3,106,393     100%      307,116
+Source: Otbasy Bank.
+                                                                                                                   Appendix 3        29
+
+
+
+               Table A3.2: Housing Construction Savings Bank (amounts are in KZT million)
+
+Particulars                                   AFS 2020           AFS 2021                     AFS 2022                 AFS 2023
+Auditor                                                          PWC                          PWC                      PWC
+Opinion                                                          unqualified                  unqualified              unqualified
+Breached in Financial Covenant                                   none mentioned               none mentioned           none mentioned
+Declared Dividends                                               Dividend for 2020 not paid   32,877       for 2021    67,255       for 2022
+Paid Dividends                                8,293              Dividend for 2020 not paid   32,877       for 2021    67255        for 2022
+
+
+Indicators (amounts are in KZT million)       AFS 2020     %       AFS 2021           %       AFS 2022        %        AFS 2023           %
+
+Total Assets                                   1,707,388   100       2,804,120       100       3,440,022      100       3,996,059      100
+Average Assets                                   853,694             2,255,754                 3,122,071                3,718,040
+Cash and Cash Equivalents                         73,743   4           463,775       17          232,169      7           306,209         8
+Trading Securities                                    ─    ─                         ─                        ─                ─
+
+Cash in bank w/ >3month maturity                  64,514    4          131,292        5           95,346       3          284,711          7
+Investment Securities at FV-OCI                  127,381    7          102,853        4           56,032       2           51,517          1
+Investment Securities at AC                      104,829    6           84,024        3           82,293       2          113,758          3
+Investment Securities                            296,724   17          318,169       11          233,671       7          449,986         11
+Gross Loan Portfolio                           1,327,143   78        2,009,297       72        2,883,181      84        3,106,393         78
+Neither Past Due nor Impaired                  1,309,980   77        1,989,782       71        2,846,657      83        3,063,552         77
+Past Due but Not Impaired                         14,896    1           18,159        1           34,438       1           40,683          1
+Past Due & Impaired                                2,270   13            1,360      0.05           2,086       6            2,123         ─
+Loan Loss Reserved (LLR)                           7,462   ─             9,970       ─             5,867      ─             5,402         ─
+Net Loans                                      1,319,681   77        1,999,327       71        2,877,314      84        3,100,990         78
+Investments held to maturity                          ─                     ─        ─                ─       ─                ─          ─
+Other Assets                                      17,239    1           22,850        1           96,868       3          138,874          3
+
+Total Liabilities                              1,424,605   83        2,423,017       86        2,977,760      87        3,400,790         85
+Customer Accounts                              1,097,659   64        1,898,429       68        2,300,445      67        2,660,378         67
+Customer Accounts Held as Security                         ─           700,746       25        1,095,850      32        1,101,625         28
+Borrowings                                        67,614    4           78,910        3          108,543       3          133,007          3
+Debt Securities in Issue                         113,680    7          191,456        7          193,469       6           95,787          5
+Government grants                                121,754    7          221,982        8          261,489       8          280,243          7
+Dividends Payable                                     ─    ─                ─        ─                ─       ─                ─          ─
+Due to other banks                                                                                76,739       2           79,641          2
+Other Liabilities                                 23,898    1           32,239        1           37,074       1           51,733          1
+Equity                                           282,783   17          381,103       14          462,261      13          595,269         15
+Average Equity                                   141,392    8          331,943       12          421,682      12          528,765
+Payment of Deposit Compensation, net                  ─
+Net Income (after tax)                            32,243                65,755                    96,035                  147,528
+Total Interest Income                            111,434   100         171,023       100         251,019      100         312,035      100
+
+
+Interest Income from Loans                        77,795   70          113,342       66          176,057      70          221,811         71
+Interest Income from various           debt
+                                                  33,639   30           57,682       34           74,961      30           90,224         29
+investments
+Interest and Similar Expense                      35,885                54,597                    86,324                  110,157
+Net Interest Income                               75,549               116,426                   164,695                  201,878
+Net interest Margin                               4.65%                 5.00%                     5.28%                    5.68%
+
+
+Loan Category
+Interim Housing Loans                            480,327    36         964,640        48       1,619,172       56       1,509,742       49
+Housing Loans                                    365,185    28         357,099        18         449,304       16         720,049       23
+Preliminary Housing Loans                        481,631    36         687,558        34         814,705       28         876,602       28
+Gross Loans                                    1,327,143   100       2,009,297       100       2,883,181      100       3,106,393      100
+Loan Loss Provision                                7,462                 9,970                     5,867                    5,402
+Net Loans                                      1,319,681             1,999,327                 2,877,314                3,100,990
+       30          Appendix 3
+
+
+Indicators (amounts are in KZT million)    AFS 2020    %     AFS 2021      %    AFS 2022    %    AFS 2023     %
+
+Loans Fully Collateralized                 1,249,988          1,883,031         2,725,574        2,990,887
+Past Due & Impaired                            2,270              1,360             2,086            2,123
+Net Past Due Rate                            (0.39%)            (0.43%)           (0.13%)          (0.11%)
+
+
+Growth Rates
+Total Assets                               1,707,388          1,096,732    64     635,902   23     556,038    16
+Gross Loans                                1,327,143            682,154    51     873,884   43     223,211     8
+Equity                                       282,783             98,320     5      81,158    4     133,008    29
+
+Liquid Ratio (k4-3)                                                10.57           22.044             8.513
+NPL Ratio                                      0.17%              0.07%             0.07%            0.07%
+LLR Coverage                                328.66%            733.34%           281.28%          254.51%
+Net Past Due Rate                            (0.39%)            (0.43%)           (0.13%)          (0.11%)
+Net Interest Margin                            4.65%              5.00%             5.28%            5.68%
+Return on Equity                             22.80%             19.81%            22.77%           27.90%
+Return on Assets                               3.78%              2.91%             3.08%            3.97%
+Capital Adequacy Ratio                       40.01%             50.60%            56.60%           54.64%
+
+
+Capital Adequacy
+Equity                                       282,783            381,103           462,261          595,269
+Total Regulatory Capital (Tier 1 solely)     276,788            375,416           455,495          588,061
+Risk Weighted Assets                         727,073          1,052,202         1,528,595        1,610,784
+                                                43%                38%               44%              40%
+Capital Adequacy Ratio (k1-1, k1-2, k2)      38.07%             35.68%            29.80%           36.51%
+
+
+Total Assets                               1,707,388   100    2,804,120         3,440,022        3,996,059
+Liquid Assets                                370,468    22      781,943    28     465,840   14     756,195    19
+Net Loans                                  1,319,681    77    1,999,327    71   2,877,314   84   3,100,990    78
+PPE and Other Assets                          17,239             22,850            96,868          138,874
+Total Liabilities                          1,424,605          2,423,017         2,977,760        3,400,790
+Deposits                                   1,097,659    64    1,898,429         2,300,445        2,660,378
+Borrowings                                    67,614   100       78,910           108,543          133,007
+Debt Securities                              113,680            191,456           193,469          195,787
+Total Equity                                 282,783            381,103           462,261          595,269
+Net Profit                                    32,243             65,755            96,035          147,528
+Liquid Assets to Total Assets                21.70%             27.89%            13.54%           18.92%
+Liquid Assets to Total Liabilities           26.00%             32.27%            15.64%           22.24%
+NPL Ratio                                     0.17%              0.07%             0.07%            0.07%
+Net Interest Margin                           4.65%              5.00%             5.28%            5.68%
+Return on Equity                             22.80%             19.81%            22.77%           27.90%
+Return on Assets                              3.78%              2.91%             3.08%            3.97%
+Capital Adequacy Ratio                       40.01%             50.60%            56.60%           54.64%
+                                                                                             Appendix 4       31
+
+
+
+
+                              GENDER ACTION PLAN ACHIEVEMENTS
+
+A.      Introduction
+
+1.       As of 1 January 2024, 10,250,028 women lived in Kazakhstan, constituting 51.16% of the
+country’s total population, a 1.5% increase from 2022. 1 Women represent 48.54% of the
+economically active population, 48.3% of all employed individuals, and 49.4% of all hired workers.
+However, gender disparities persist in employment and wages. The unemployment rate at the
+end of 2023 was 4.7%, with a higher rate for women (5.3%) compared to men (4.2%). The
+average monthly salary for men was T361,481, whereas for women it was T285,744. The largest
+wage gaps are in financial and insurance activities, the mining industry, and professional,
+scientific, and technical activities. Women’s salaries surpass men’s only in the education sector.
+
+2.     In terms of financial inclusion, women accounted for 59% of depositor clients and 57% of
+borrower clients at the end of 2022. Although men and women are subject to the same mortgage
+lending terms, analysis shows that women’s average loan amounts are smaller (T15.8 million vs.
+T17 million), and female borrowers tend to be older (44 and 40 years respectively) and more likely
+to be co-borrowers (31% and 21% respectively). Women’s initial down payments are also lower
+than men’s.
+
+3.      As of January 2023, Kazakhstan's housing stock reached 405.2 million square meters,
+growing 12% over the last 10 years. Despite this increase, urbanization demand keeps being high
+and affordable quality housing is in low supply. Housing availability averaged 21.4 square meters
+in 2017 and even though it increased to 23.4 square meters per resident by the end of 2022, they
+are below the UN's standard of 30 square meters. Many homes are old, since 88.3% of multi-
+apartment residential buildings and 66% of individual houses were built before 2000. Housing
+prices surged from 2013 to 2022, with primary housing rising by 131% and secondary by 227%,
+driven by inflation and market expectations. The mortgage market, dominated by Otbasy Bank
+with a 66% share of the mortgage market, and a few commercial banks, grew 11.3% in 2022, but
+high-interest rates (over 20%) make mortgages unaffordable for many. Since 2005, the
+government of Kazakhstan has implemented various initiatives to enhance access to housing,
+including rental schemes, savings plans, interest rate subsidies, and support for private housing
+developers. State programs offer some relief, but market-oriented loans remain expensive.
+Furthermore, high demand to access these programs has created considerable backlogs, which
+are exacerbated each year by the steady rise in the number of citizens requiring housing. For
+instance, by the end of 2023, 646,000 people were on the waiting list for state-assisted housing.
+
+4.      With women constituting 51.16% of the total population of Kazakhstan (footnote 1), it is
+estimated that around 2.2-2.8 million women 2 are in need of better housing. This highlights a
+significant demand for housing improvements, particularly among women, underscoring the
+importance of targeted interventions to address housing affordability and accessibility for women
+in Kazakhstan. Furthermore, the present mortgage lending market in Kazakhstan is mainly geared
+toward higher income groups. Given the significant gender pay gap of 25.2% in 2022, women
+face lower access to affordable mortgage finance compared to men (although women’s
+educational levels in Kazakhstan are on par or higher than those of men). 3
+
+1 Bureau of National Statistics of Kazakhstan. 2024. Population of Kazakhstan at The Beginning of 2024.
+2
+  ADB. 2022. Kazakhstan: Promoting Gender Equality in Housing Finance Project. Consultant’s report (TA 9834-KAZ).
+  Unpublished.
+3
+  Bureau of National Statistics of Kazakhstan. 2023. Gender Pay Gap in Kazakhstan.
+32        Appendix 4
+
+
+
+
+Women's wages as a percentage of men’s have been rising from 2018 to 2022, 4 however,
+significant gender wage gaps remain across various sectors (footnote 2). The greatest inequalities
+are observed in finance (63.2%), hospitality (69%), and industry (72%). Conversely, women's
+salaries are higher in education (102.9%) and are relatively closer in healthcare (95.4%) and the
+public sector (93.7%).
+
+B.        Gender Actions
+
+5.     The program was categorized gender equity theme and was instrumental in granting
+better access to mortgage loans for women in Kazakhstan and ensuring that women are
+represented at all levels as beneficiaries, training participants, employees, agents of change, and
+decision makers.
+
+C.        Gender Achievements
+
+6.      The project Gender Action Plan at entry included 19 gender-related indicators: 11 targets,
+including 2 at the outcome level, and 8 activities (see below). The program was rated successful
+in delivering intended gender equality results, based on the following criteria: 100% GAP targets
+achieved or substantially achieved, 100% activities completed, and sex-disaggregated data
+provided to substantiate the level of achievement. The program’s reforms and achievements were
+aligned with Operational Priority (OP) 2.3.2 (measures on gender equality supported in
+implementation), and OP 2.1.2 (women opening new accounts). The gender-related
+achievements were as follows:
+
+7.        Outcome Indicators. In summary, of the 2 outcome of performance indicators, 1 was
+overachieved, while the other was substantially achieved. The GAP outcome indicators were
+anchored on the project and bank’s goal of expanding outreach and loan portfolio to women.
+Thus, the target to issue at least 28,000 (Table 1) subloans to women annually translating to a
+59% of overall loan portfolio to women (with 1% annual growth rate from 55% baseline). Following
+the effectiveness of the loan in November 2020 up to December 2023, the bank issued more than
+28,000 loans annually. In total, Otbasy Bank issued 156,158 subloans to women which stands at
+139% of the 4-year cumulative target (28,000x4=112,000). This resulted in a double-digit growth
+rate from 2020 to 2023 as to the number of women subborrowers. However, these achievements
+did not transcend to an increased proportion in women’s loan to the overall loan portfolio (Table
+1). Outstanding loans to women (Table 2) more than doubled from T697 billion (2020) to T1.64
+trillion (2023). Still, as a percentage to the overall portfolio, it fell short at 53% vis-à-vis the 59%
+target. This may be partially explained by the gender pay gap, which results in women obtaining
+smaller loans compared to men, who on average earn higher wages. Though women’s outreach
+consistently superseded men (issued and outstanding), the latter’s higher income allows them to
+obtain higher loans. Despite being funded and supported by the government, Otbasy Bank strictly
+employs prudent credit underwriting policies and procedures which review subborrowers cash
+flow, solvency, and capacity to pay the loan. Nonetheless, at 53%, Otbasy Bank substantially
+delivered, accomplishing 90% of its 59% target.
+
+
+
+
+4   UNDP. 2023. Closing the Gender Pay Gap in Kazakhstan: A closer look at Equal Pay.
+                                                                                                 Appendix 4           33
+
+
+            Table A4.1: Number of Issued Subloans and Subborrowers, 2020–2023
+                   Number of Issued Loans                            Number of Subborrowers per Year
+ Year          Men        Women           Total        Men           Women        Total         Growth in Women
+ 2020         21,345       30,581        51,926
+ 2021         36,835       45,418        82,253       82,056         106,053         188,109
+ 2022         35,817       44,055        79,872       96,994         127,965         224,959    21,912        21%
+ 2023         28,674       36,104        64,778      119,073         155,072         274,145    27,107        21%
+ Total       122,671      156,158       278,829      133,084         174,032         307,116    18,960        12%
+Source: Otbasy Bank Gender Statistic Report.
+
+        Table A4.2: Outstanding and Average Subloan Size as to Gender, 2020–2023
+                                       (T Millions)
+                                Outstanding Subloans as to Gender                              Average Subloan Size
+                            Men %                          Women %
+ Year             Men        Total         Women             Total              Total           Men        Women
+ 2020             630,241    47%           696,903           53%               1,327,143        12.89       10.93
+ 2021             952,596    47%          1,056,701          53%               2,009,297        16.16       14.09
+ 2022           1,372,637    48%          1,510,544          52%               2,883,181        18.54       16.29
+ 2023           1,466,685    47%          1,639,707          53%               3,106,393        17.79       15.44
+Source: Otbasy Bank Gender Statistic Report.
+
+8.     Output 1: Long-term affordable mortgage financing for eligible women borrowers
+made available. Otbasy Bank provided 3,248 subloans to subborrowers for purchasing housing
+and 108 loans for renovating residential units. Of the total number of subloans, 66.3% were issued
+to subborrowers located in rural areas, and the allocation of 20% project funds used for low-
+income subborrowers was overachieved at 75.9%.
+
+9.       The program underwent some changes that were agreed upon between ADB and Otbasy
+Bank and reflected on the amended loan agreement to better adapt to the needs of the population.
+Initial disbursements to subborrowers were slow. On 12 April 2021, Otbasy Bank officially
+launched Umai Women’s Mortgage Program for their customers. However, in June 2021 ADB
+received a request by Otbasy Bank to review the net household income ceiling of T200,000, since
+Umai received 20,710 applications, but 68% of them were rejected at initial screening due to
+having a higher household income. Subsequently, only 109 applications (0.5% of the total) met
+the eligibility criteria and validation. As of 26 October 2021, T5.4 billion (64%) of the T8.4 billion
+that were disbursed on the first tranche had been disbursed to 620 sub-borrowers. Furthermore,
+in February 2021 the government of Kazakhstan approved the partial withdrawal of the pension
+savings from the Unified Accumulate Pension Fund. The withdrawals could be used for home
+renovations, down payments for a mortgage loan, or to purchase residential units. The
+subborrowers income profile also changed during the program’s implementation, since the
+average wage in the country had steadily increased from T162,954 in the first quarter of 2019 to
+340,556 in the first quarter of 2023. Consequently, ADB in December 2021, in view of the
+country’s macroeconomic situation and the slow disbursement, approved a minor change
+increase the monthly household income threshold to T550,000 for low-income sub-borrowers and
+to T640,000 for middle-income households. In December 2023, another minor change was
+approved to lower the renovation subloans from 2,000 to 100. Historically, demand for renovation
+loans has been low due to the onerous requirement of collateralizing the housing unit vis-à-vis
+the lower loanable amount. It had never exceeded 5% of Otbasy Bank’s loan portfolio and, as of
+September 2023, represented just 2.7% thereof.
+34       Appendix 4
+
+
+
+                   Table A4.3: Information on Subloans Disbursed by Purpose
+ Category                                             Projected                        Actual
+ For purchase of a house                                3,000                          3,248
+ For house renovation                                    100                            108
+    Total                                               3,100                          3,356
+Source: Audited Project Financial Statement.
+
+                                       Table A4.4: Size of Subloans
+                                                (T million)
+ Range (specify amounts)                         Number of Subloans                Aggregate Amount
+ Up to <T15 million                                  2,705                               26,314
+ From >T15 million to T20 million                      534                                9,115
+ From > T20 million to T25 million                     116                                2,546
+ Over > T25 million                                      1                                    25
+ Total                                               3,356                               38,000
+Source: Quarterly Progress Report.
+
+                      Table A4.5: Information on Subloans Disbursed by Region
+                                              (T million)
+                                                                                           Actual
+                                                                       Aggregate     (based on aggregate
+ Criteria                                           Projected           Amount            amount)
+ Loans issued in Cities of Nur-Sultan, Almaty,     Maximum 40%           12,788               33.7%
+ Atyrau and Aktau
+ Loans issued outside the four big cities            At least 60%        25,212                  66.3%
+ Total                                                      100%         38,000                 100.0%
+Source: Audited Project Financial Statement.
+
+                Table A4.6: Information on Subloans Disbursed by Income Level
+                                           (T million)
+                                                                                           Actual
+                                                                       Aggregate
+  Criteria                                          Projected                        (based on aggregate
+                                                                        Amount
+                                                                                          amount)
+  Loans issued to low-income subborrowers with     At least 20.0%       28,856                 75.9%
+  monthly household income of less than:
+       T200,000 (Tranche 1)                                         3,636              9.5%
+       T550,000 (Tranches 2&3)a                                     25,220            66.4%
+  Loans issued to middle-income subborrowers    Maximum 80.0%       9,144                        24.1%
+  Total                                                   100.0%       38,000                   100.0%
+a As per approved amendment in the loan agreement.
+
+Source: Audited Project Financial Statement.
+
+10.     Output 2: Greater accessibility to Otbasy Bank’s lending products for eligible
+women borrowers. Otbasy Bank developed a regulation on diversity and inclusivity, which
+incorporated policies aimed at creating equal opportunities for all employees, overcoming all
+forms of discrimination (including gender elements) and building a process in which, in a planned
+event or project, the needs of all categories of female employees are considered equally. The
+gender elements are distributed among several policies and internal regulations, such as the
+Diversity and Inclusivity Policy, Personnel (management) Policy and some other documents.
+These include provisions emphasizing the commitment to overcoming all forms of gender-based
+discrimination and ensuring equal consideration of the needs of women and men in all projects
+and initiatives. The bank explicitly supports gender equality by fostering a workplace environment
+where women are encouraged to participate equally in leadership and decision-making roles.
+Gender-disaggregated data collection is highlighted as a critical measure to assess and promote
+equality effectively, alongside flexible work conditions that support employees with caregiving
+responsibilities, ensuring gender equity in balancing professional and personal life. Also, specific
+                                                                                                     Appendix 4       35
+
+
+programs to enhance gender diversity in leadership positions, while a zero-tolerance approach
+toward harassment or discrimination based on gender ensures a safe and respectful workplace
+for all employees. Also, based on ADB’s recommendations, Otbasy Bank developed and
+approved an action plan to ensure gender equality for 2023. Otbasy Bank likewise analyzed and
+made appropriate changes to the bank's Code of Business Ethics, the Sustainable Development
+Policy, the Communication Strategy, and the Development Strategy for 2024-2033. It also
+supplemented the job descriptions of all bank employees regarding compliance with the
+requirements of the Diversity and Inclusivity Regulations.
+
+11.     The Chairman of Otbasy Bank, Lyazzat Yerkenovna Ibragimova, was appointed
+Commissioner for Diversity and Inclusivity, including on gender aspects, by the order No. 624 as
+of 6 November 2023. In addition, ADB conducted analysis of Otbasy Bank’s client database in
+the first half of 2023, which presented a well-structured system that enables generation of a
+comprehensive gender-related breakdown of data.
+
+12.    A total of 4 seminars that were conducted in 2023 to introduce basic and practical concepts
+on mortgage finance, reaching a total of 202 prospective women sub-borrowers. Moreover, 16
+regional workshops for financial literacy and skills in 8 different regions across Kazakhstan were
+also conducted during the project’s implementation. The workshops were attended by 800
+potential and current women subborrowers and covered various aspects of financial
+management, such as budgeting, understanding interest rates, and managing credit. By
+improving financial literacy, the workshop aimed to empower women to make informed decisions
+regarding mortgage loans and other financial products. ADB also organized a three half-day
+gender workshop for Otbasy Bank’s management and employees in October 2022 in Almaty
+(Otbasy Bank’s HQ). 5 An electronic course called "raising awareness of bank employees on
+gender equality" was also developed and made mandatory for bank staff. The course was based
+on the materials of the seminar on gender aspects and was made mandatory for staff.
+
+13.     Output 3: gender-inclusiveness of the banking sector’s housing finance assessed.
+A nationwide study on the gender inclusiveness of the banking sector, specifically regarding
+access to housing finance products and state and regional housing programs, was conducted
+from May to October 2022. The results of the study confirm the high demand for housing in
+Kazakhstan. Per collected data and estimates, around 4.3–5.5 million Kazakhs out of which
+2.2–2.8 million are women are in need improved housing. The study also shows that although
+both men and women have equal rights and access, in practice women's ability to obtain a
+mortgage loan is lessened by her perceived creditworthiness that is anchored on her income
+(wages) which are lower compared to men. From these perspectives, the importance of the ADB
+project is high and will continue to be relevant in the coming years.
+
+14.    The gender review of Otbasy Bank operations presented mirrored the observations of the
+nationwide study. Women, despite making up 57% of borrowers, face systemic barriers to
+accessing housing finance. Lower average incomes and higher rates of informal employment
+make it harder for women to qualify for loans under the standard criteria. As to its internal
+operations, gender representation in the Bank’s leadership is improving, with women holding 30%
+
+5   Otbasy bank had 1,537 employees as of 31 December 2023, 598 of whom are working at the central office in Almaty
+    and 939 in its 19 regional offices. The share of female employees amounted to 927 (60.31%), 333 of whom work at
+    the central office and 604 that work in the regional offices spread throughout the country. Staff turnover experienced
+    a sharp decrease to 6.6% from 7.4% in 2022. In 2023, 1,563 employees of the bank completed external training, of
+    which 979 completed unique training. Moreover, all employees completed internal training. The training courses
+    included accounting, client satisfaction, efficient management of a sales team, assessment of credit risks and
+    decision-making, international standards for financial reporting, risk management, gender equality, etc.
+  36       Appendix 4
+
+
+
+  of management roles. The bank, however, needs stronger gender-sensitive measures to
+  purposely sustain its performance. Overall, key recommendations for Otbasy Bank include
+  tailored financial products for women, such as reduced down payment, and integrating gender
+  objectives into internal policies and operations.
+
+  D.       Challenges, Lessons Learned and Recommendations
+
+  15.    Given the availability of sex disaggregated data, significant market share and Otbasy
+  Bank’s key role in providing housing loans, continued policy dialogue with Otbasy Bank and the
+  government is recommended. This can lead to further developing and introducing reforms in the
+  mortgage market which can bring forth increased participation of banks and may ultimately benefit
+  the potential homeowners and the economy.
+
+                                     Table A4.7: GAP Achievement Matrix
+Gender Achievements and Targets            Achievements at Project Completion             Status at Project Completion
+Outcome
+Acquisition and renovation of housing units by women increases.
+
+a. At least 28,000 mortgage loans will   a. Since the beginning of 2020, following the   a. Target Achieved.
+be annually provided by Otbasy Bank      effectiveness of the loan in November 2020,
+to women borrowers (2018 baseline:       the bank has issued more than 28,000 loans
+20,622)                                  annually. In total, Otbasy bank issued
+                                         156,158 subloans to women over the last
+                                         four years.
+
+                                             Year      Men      Women        Total
+                                            2020       21,345     30,581      51,926
+                                            2021       36,835     45,418      82,253
+                                            2022       35,817     44,055      79,872
+                                            2023       28,674     36,104      64,778
+                                            Total     122,671    156,158     278,829
+b. At least 59% of Otbasy Bank total     b. Despite not reaching the targets of 1%       b. Target Substantially
+mortgage loans (as a percentage of       annual growth rate which was envisaged to       achieved at 90%.
+the bank’s overall loan portfolio) are   result in a 59% share of women in the
+provided to women borrowers (2018        outstanding loan portfolio, substantial
+baseline: 55%)                           increase has been achieved. Outstanding
+                                         loans to women more than doubled from
+                                         T697 billion (2020) to T1.64 trillion (2023)
+                                         translating to a 53% ratio to overall loan
+                                         portfolio (53% / 59% = 90%).
+Outputs
+1. Output 1: Long-term affordable mortgage financing for eligible women borrowers made available
+1.1 Increase the volume of mortgage
+    lending to women
+
+    1a. Number of women-owned            1a. As of 31 December 2023, a total of 3,248    1a. Target Achieved.
+    housing units funded by the ADB      women received subloans to purchase a
+    loan increased to 3,000 (2019        housing unit.
+    baseline: none)
+    1b. Number of renovations of         1b. As of 31 December 2023, 108 loans for       1b.   Target Achieved.
+    women-owned housing units            housing repairs were issued.
+    funded by the ADB loan
+    increased to 100 (2019 baseline:
+    none)
+
+    1c. At least 60% of the              1c. As of 31 December 2023, the proportion      1c. Target Achieved.
+    mortgage loans funded by the         of mortgage loans financed by the ADB loan
+    ADB loan are disbursed by            and issued for the purchase or
+                                                                                                       Appendix 4       37
+
+
+Gender Achievements and Targets             Achievements at Project Completion               Status at Project Completion
+   Otbasy       Bank      for   the       reconstruction of housing owned by women
+   acquisition/renovation of women-       in rural areas, excluding Almaty, Astana,
+   owned housing units in the rural       Aktau, and Atyrau was 66.3% or T25.2 billion
+   areas, i.e., outside of Almaty,        of the T38 billion. Please see Table 7 for
+   Nur-Sultan, Aktau and Atyrau           details.
+   (2019 baseline: none)
+
+    1d. At least 20% of all mortgage      1d. As of 31 December 2023, 75.9% or              1d. Target Achieved.
+    loans financed by the ADB loan        T28.9 billion of the project’s T38 billion were
+    will be disbursed to low-income       used     by     the     low-income       female
+    female borrowers with a monthly       subborrowers. Please see Table 8 for
+    household income of less that         details.
+    T200,000 (2019 baseline: none)
+    Note:     Ceiling increased to
+    T550,000 through an approved
+    amendment       of   the     loan
+    agreement.
+
+2. Output 2: Greater accessibility to Otbasy Bank’s lending products for eligible women borrowers
+2.1 Institutionalize Otbasy Bank
+mechanisms for gender
+mainstreaming
+
+     2.1.1 HCBSK Gender Policy            2.1.1 In September 2023, the Bank                 2.1.1   Target Completed.
+     developed and adopted.               approved new Regulations on Diversity and
+                                          Inclusivity and the Rules on Gender Aspects.
+                                          These measures were adopted based on
+                                          ADB's recommendations to expand gender
+                                          policy. An annual Action Plan for Gender
+                                          Equality for 2023 was also developed and
+                                          approved, leading to the integration of
+                                          gender considerations into the Bank's Code
+                                          of Business Ethics, Personnel Policy,
+                                          Sustainable Development Policy, and the
+                                          Strategy for 2024–2033. Additionally, job
+                                          descriptions for all employees now include
+                                          compliance with the Diversity and Inclusivity
+                                          Regulations. Please see elaborated details
+                                          in DMF 2b.
+     2.1.2 Gender focal      point   in   2.1.2 The Chair of the Bank, Lyazzat              2.1.2 Activity Completed.
+     Otbasy Bank HQ                       Yerkenovna Ibragimova, was appointed
+                                          Commissioner for Diversity and Inclusivity,
+                                          including on Gender Aspects in Otbasy
+                                          Bank, by the Order No. 624 as of 6
+                                          November 2023.
+
+     2.1.3 Sex-disaggregated              2.1.3 Otbasy Bank’s client database               2.1.3 Target Achieved.
+     information system on loans and      includes well-structured datasets that
+     repayment performance in place       facilitate generation of sex-disaggregated
+                                          data.
+
+
+
+
+     2.1.4 At least one gender            2.1.4 A 3-day workshop in Almaty on 26-28         2.1.4 Activity Completed.
+     awareness raising seminar for        October 2022 was led by ADB and the
+     internal staff at HQ and in larger   consulting team. The workshop cascaded
+     branches conducted                   the (i) results of the nationwide study on
+                                          gender inclusiveness of the banking sector’s
+                                          housing finance, and (ii) results of the gender
+ 38       Appendix 4
+
+
+Gender Achievements and Targets          Achievements at Project Completion             Status at Project Completion
+                                       assessment of Otbasy Bank’s operations.
+                                       The workshop was attended by a total of 70
+                                       participants of Otbasy Bank, including the
+                                       chair of the board, board member, directors,
+                                       and loan officers and marketing agents from
+                                       the regional offices.
+
+                                       The October workshop was followed by
+                                       several virtual discussions between ADB,
+                                       the consulting team and Otbasy, resulting in
+                                       the adoption of the bank’s gender policy. In
+                                       September 2023, the bank approved the
+                                       new Regulations on Diversity and Inclusivity
+                                       and the Rules on Gender Aspects. An
+                                       annual Action Plan for Gender Equality for
+                                       2023 was also developed and approved,
+                                       leading to the integration of gender
+                                       considerations into the Bank's Code of
+                                       Business      Ethics,   Personnel    Policy,
+                                       Sustainable Development Policy, and the
+                                       Strategy for 2024-2033. Additionally, job
+                                       descriptions for all employees were revised
+                                       to now include compliance with the Diversity
+                                       and Inclusivity Regulations.
+2.2 Conduct     public   awareness
+campaigns on HCSK’s housing
+finance products for women
+   2.2.1 At    least    3     public   2.2.1 The development of 6 promotional          2.2.1 Activity Completed.
+   awareness-raising activities on     videos were funded under TA 9834. In            https://youtu.be/WH_exlnUgas
+   available    housing     finance    addition, Otbasy Bank conducted marketing       https://youtu.be/JE-X1EdpylM
+   products for women conducted        and awareness campaigns before the actual       https://youtu.be/CIcPyRuKo8A
+   (baseline 2019:0)                   call for applications was launched. This is     https://youtu.be/nLoJnB807zY
+                                       evidenced by the high demand for the Umai       https://youtu.be/3Omhi7OYQrw
+                                       program and rapid allocation of available       https://youtu.be/xnzdW-p4G_A
+                                       funds.
+   2.2.2 Seminar  materials for        2.2.2 Seminar materials were developed          2.2.2 Activity Completed.
+   prospective women borrowers         by the consulting team in close coordination
+   developed                           with ADB and Otbasy Bank, in two thematic
+                                       blocks, available in both Russian and
+                                       Kazakh, for the seminars conducted by ADB:
+                                       1. Financial literacy and skills training for
+                                            Otbasy Bank’s potential and existing
+                                            borrowers.
+                                       2. Financial literacy on mortgage lending
+                                            for prospective women borrowers. This
+                                            second thematic block included:
+                                            •    Description of mortgage lending
+                                                 products of Otbasy Bank, including
+                                                 the Umai program.
+                                            •    Gender equality indicators and the
+                                                 status of women in Kazakhstan.
+
+                                       Two rounds of regional workshops were
+                                       completed in 2023.
+        2.2.3     At    least      3   2.2.3 The first round was in June 2023 in       2.2.3 Activity Completed.
+        orientation        seminars    the regions of Kostanay, Karaganda,
+        conducted for at least 50      Oskemen and Almaty. This June workshops
+        prospective          women     delivered 2-day workshops in each region.
+        borrowers (baseline 2019: 0)
+                                                                                                         Appendix 4        39
+
+
+Gender Achievements and Targets              Achievements at Project Completion                Status at Project Completion
+                                           The first day focused on financial literacy for
+                                           existing and potential women subborrowers.
+
+                                           The second day targeted a different set off
+                                           audience as attendees were potential
+                                           women subborrowers given that the topic
+                                           was on mortgage finance. The 2nd day
+                                           introduced mortgage lending, including
+                                           practical skills on how to compute the cost of
+                                           mortgage loans. The latter part of the 2nd
+                                           day was allotted for Otbasy Bank to conduct
+                                           the orientation seminar. In total, for the 2nd
+                                           day, 202 (vis-à-vis the target of 50)
+                                           participants benefited from the workshop.
+                                            1st Round, June 2023 (8 days)
+                                                                                  Day 2
+                                                                                Mortgage
+                                                                    Day 1        Lending
+                                                                  Financial    Orientation
+                                                  Region          Literacy       Seminar
+                                            Kostanay                      41             48
+                                            Karaganda                     52             50
+                                            Oskemen                       36             41
+                                            Almaty                        34             63
+                                            Total                       163             202
+                                            Accomplishment                   202/50 = 404%
+                                            (only Day 2, as Day
+                                            1 is accounted for
+                                            in 2.4.2)
+
+2.3 Develop lending products for
+women
+
+         2.3.1 At least one financial      2.3.1Umai Women’s Mortgage Program was             2.3.1 Target Achieved.
+         product            developed      developed by Otbasy Bank and launched for
+         exclusively    for    women       implementation in April 2021. Under the
+         borrowers                         program, two subproducts were introduced,
+                                           catering to two purposes, purchase of a
+                                           housing unit and renovation.
+
+2.4 Develop              women-focused
+financial skills training program
+
+         2.4.1 Financial skills training   2.4.1Financial skills training module was          2.4.1 Activity Completed.
+         module developed                  developed by the consulting team in close
+                                           coordination with Otbasy Bank.
+
+         2.4.2 At least 50 women                2nd Round Regions                             2.4.2   Activity Completed
+                                                                            Day 1    Day 2
+         (potential   and    actual                    (8 days)
+         borrowers) have increased          Kyzylorda                          51       58
+         financial management skills        Turkestan                          54       56
+                                            Shymkent                           48       58
+                                            Taraz                              54       56
+                                            Subtotal                          207      228
+                                            Total                                      435
+                                            Add: Day 1 from 1st round
+                                                                                       163
+                                            (4 days)
+                                            Total (12 days)                             598
+                                            Accomplishment/Target            598/50=1,196%
+ 40       Appendix 4
+
+
+Gender Achievements and Targets          Achievements at Project Completion             Status at Project Completion
+
+                                       With savings under the TA, a 2nd round of
+                                       workshops was conducted in October 2023
+                                       in the regions of Kyzylorda, Turkestan,
+                                       Shymkent, and Taraz. Two days were
+                                       allotted for each region, with the workshop
+                                       replicated on the 2nd day for a new set of
+                                       audience.
+
+                                       Both the 1st and 2nd round of workshops were
+                                       rated successful based on evaluation sheets
+                                       completed by the participants and the
+                                       morning and afternoon mood meters that
+                                       were set up in the venue. The mood meter
+                                       used color coded post it for the participants
+                                       to anonymously indicate their satisfaction as
+                                       to the completed sessions. The colors that
+                                       dominated across both rounds were for the
+                                       excellent color. Likewise, though not
+                                       requested, some participants have added
+                                       messages in the post it to express their
+                                       appreciation.
+
+                                     For the evaluation, participants were asked
+                                     to complete a short questionnaire at the end
+                                     of each training day. This allowed the
+                                     evaluation of the training content and
+                                     trainers, and an opportunity for participants
+                                     to offer comments. The feedback received
+                                     from the participants was overwhelmingly
+                                     positive. A total of 680 (85%) of the 800
+                                     participants from the 1st and 2nd round of
+                                     workshops completed the questionnaire.
+                                     Majority (minimum 84% to 100%) of each
+                                     day’s session received excellent ratings
+                                     when asked if they were satisfied and if the
+                                     training was useful and informative. Both 1st
+                                     and 2nd workshops have reports on file to
+                                     document these activities' completion.
+Output 3: gender-inclusiveness of the banking sector’s housing finance assessed
+3.1 Carry out a comprehensive
+nationwide study to assess the
+gender inclusiveness of the banking
+sector with respect to access to
+housing finance
+
+        3.1.1 Report      on     the   3.1.1 A nationwide study on the gender          3.1.1 Target Achieved.
+        nationwide study to assess     inclusiveness of the banking sector,
+        the gender inclusiveness of    specifically regarding access to housing
+        the banking sector with        finance products/programs, was conducted
+        respect to access to housing   from May to October 2022. The report and
+        finance     products,   that   presentation materials were prepared and
+        includes constraints and       submitted to Otbasy’s management and staff
+        challenges as well as          through a seminar workshop in October
+        recommendations on how to      2022. In January 2024, the Ministry of
+        increase financial inclusion   National Economy endorsed the nationwide
+        for women                      study.
+                                                                                             Appendix 4      41
+
+
+Gender Achievements and Targets          Achievements at Project Completion         Status at Project Completion
+       3.1.2 Seminar to discuss        3.1.2 See discussion in 2.1.4              3.1.2 Completed (counted as 1
+       and disseminate the findings                                               with 2.1.4)
+       of the study conducted.
+
+         3.1.3 Study findings and      3.1.3 In January 2024, the Ministry of     3.1.3 Target Achieved.
+         recommendations         on    National Economy endorsed the nationwide
+         increasing women’s access     study on gender inclusiveness on the
+         to housing finance products   banking sector.
+         endorsed by government
+ADB = Asian Development Bank, GOK = Government of Kazakhstan.
+Source: Asian Development Bank.
+

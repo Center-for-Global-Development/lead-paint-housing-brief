@@ -1,0 +1,1819 @@
+                                                                                             PÚBLICO
+                                                                              DIVULGACIÓN SIMULTÁNEA
+
+                   DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                          EL SALVADOR
+
+
+
+
+   PROGRAMA DE FINANCIAMIENTO PARA VIVIENDA SOCIAL, INCLUSIVA Y
+                          SOSTENIBLE
+                                                (ES-L1165)
+
+
+      CUARTA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA DE CRÉDITO
+  CONDICIONAL PARA PROYECTOS DE INVERSIÓN (CCLIP) DE ACCESO AL
+                CRÉDITO EMPRESARIAL Y DE VIVIENDA
+                                               (ES-O0009)
+
+
+                                      PROPUESTA DE PRÉSTAMO
+
+
+
+
+Este documento fue preparado por el equipo de proyecto integrado por: Leticia Riquelme, Jefe de
+Equipo (IFD/CMF); Nathan Nadramija, Jefe de Equipo Alterno (IFD/CMF); María Paloma Silva,
+Jefa de Equipo Alterna (CSD/HUD); Diego Herrera , Karina Azar, Sandra Avalos, Daniel Fonseca,
+Jaime Sarmiento, Aurea Fuentes, y Cecilia Bernedo (IFD/CMF); Karla Maria Meléndez
+(CSD/CCS); Nidia Hidalgo (SCL/GDI); Esteban de Dobrzynski (LEG/SGO); Carlos Carpizo Riva
+Palacio (VPC/FMP), Sofia del Castillo, Jorge Guerrero, y Juan José Cervantes (CSD/HUD); Juan
+Parodi y Juan Fonseca (INO/SMC); y Jan Eskildsen (INO/FLI).
+
+De conformidad con la Política de Acceso a Información, el presente documento se divulga al público de
+forma simultánea a su distribución al Directorio Ejecutivo del Banco. El presente documento no ha sido
+aprobado por el Directorio. Si el Directorio lo aprueba con modificaciones, se pondrá a disposición del público
+una versión revisada que sustituirá y reemplazará la versión original.
+                                                       ÍNDICE
+
+
+
+RESUMEN DEL PROYECTO ................................................................................................. 1
+
+
+I.     DESCRIPCIÓN DEL PROGRAMA Y MONITOREO DE RESULTADOS .................................. 2
+
+       A.      Antecedentes, problemática y justificación .......................................... 2
+       B.      Objetivos, componentes y costo ........................................................ 14
+       C.      Indicadores clave de resultados ........................................................ 16
+
+II.    ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS .................................... 16
+
+       A.      Instrumentos de financiamiento ......................................................... 16
+       B.      Riesgos ambientales y sociales ......................................................... 17
+       C.      Riesgos fiduciarios............................................................................. 17
+       D.      Otros riesgos y temas clave............................................................... 17
+
+III.   PLAN DE IMPLEMENTACIÓN Y GESTIÓN .................................................................... 18
+
+       A.      Resumen de los arreglos de implementación .................................... 18
+       B.      Resumen de los arreglos para el monitoreo de resultados ................ 20
+
+IV.    CRITERIOS DE ELEGIBILIDAD .................................................................................. 20
+                                            - ii -
+
+
+
+                                         ANEXOS
+Anexo I     Matriz de Efectividad en el Desarrollo (DEM) - Resumen
+Anexo II    Matriz de Resultados
+Anexo III   Acuerdos y Requisitos Fiduciarios
+
+
+
+                    ENLACES ELECTRÓNICOS REQUERIDOS (EER)
+EER#1       Plan de Monitoreo y Evaluación
+EER#2       Resumen de la Revisión Ambiental y Social (RRAS)
+
+
+
+                     ENLACES ELECTRÓNICOS OPCIONALES (EEO)
+EEO#1       Análisis Económico
+EEO#2       Enfoque Programático de la CCLIP
+EEO#3       Participación de Mercado FSV
+EEO#4       Saldos de la Cartera Relevante 2021-2023
+EEO#5       Déficit Habitacional en El Salvador
+EEO#6       Análisis de Oferta y Demanda en el Sector
+EEO#7       Anexo de Cambio Climático y Sostenibilidad
+EEO#8       Elementos de Vivienda Verde en la Vivienda Nueva
+EEO#9       Requisitos y Condiciones de los Programas Crediticios del FSV
+EEO#10      Organismo de Enlace para CCLIP
+EEO#11      Análisis de Riesgos de Desastres Naturales para Vivienda Nueva y Usada
+EEO#12      Reglamento Operativo del Programa
+EEO#13      Referencias
+EEO#14      Lógica Vertical - Cadena Causal de Retos del Desarrollo e Intervención del BID
+EEO#15      Coordinación de Entidades de Vivienda en El Salvador
+EEO#16      Experiencia del Banco en el Sector de la Vivienda
+                                        - iii -
+
+
+
+                                    ABREVIATURAS
+AE         Análisis Económico
+ALC        América Latina y el Caribe
+AP         Acuerdo de París
+BANDESAL   Banco de Desarrollo de El Salvador
+BCIE       Banco Centroamericano de Integración Económica
+BCR        Banco Central de Reserva
+BID        Banco Interamericano de Desarrollo
+BM         Banco Mundial
+BMD        Bancos Multilaterales de Desarrollo
+BPD        Banca Pública de Desarrollo
+CC         Cambio Climático
+CCLIP      Línea de Crédito Condicional para Proyectos de Inversión
+CONAVI     Comisión Nacional de Vivienda
+CT         Cooperación Técnica
+EDGE       Excellence in Design for Greater Efficiencies
+EHPM       Encuesta de Hogares de Propósitos Múltiples
+FMI        Fondo Monetario Internacional
+FONAVIPO   Fondo Nacional para la Vivienda Popular
+FSV        Fondo Social para la Vivienda
+GEI        Gases de Efecto Invernadero
+IFC        International Finance Corporation
+MIVI       Ministerio de Vivienda
+MIPYME     Micro, Pequeña y Mediana Empresa
+MM         Modalidad Multisectorial
+OE         Organismo Ejecutor
+PcD        Personas con Discapacidad
+PIB        Producto Interno Bruto
+ROP        Reglamento Operativo del Programa
+SGAS       Sistema de Gestión Ambiental y Social
+SCI        Secretaría de Comercio e Inversiones
+SMMV       Salario Mínimo Mensual Vigente
+VA         Valor Agregado
+                                     RESUMEN DEL PROGRAMA
+                                          EL SALVADOR
+            PROGRAMA DE FINANCIAMIENTO PARA VIVIENDA SOCIAL, INCLUSIVA Y SOSTENIBLE
+                                           (ES-L1165)
+       CUARTA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA DE CRÉDITO CONDICIONAL PARA PROYECTOS DE
+               INVERSIÓN (CCLIP) DE ACCESO AL CRÉDITO EMPRESARIAL Y DE VIVIENDA
+                                           (ES-O0009)
+                                                   Términos y Condiciones Financieras
+   Prestatario y Organismo Ejecutor (OE):                                          Facilidad de Financiamiento Flexible(b)
+   Fondo Social para la Vivienda (FSV)                                  Plazo de amortización:              25 años
+   Garante:                                                             Período de desembolso:              5 años
+   República de El Salvador                                             Período de gracia:                  5,5 años(c)
+                                           Monto                        Tasa de interés:                    Basada en SOFR
+              Fuente                                           %
+                                           (US$)                        Comisión de crédito:                (d)
+
+                                                                        Comisión de inspección y            (d)
+   BID (Capital Ordinario):(a)          50.000.000            100       vigilancia:
+                                                                        Vida Promedio Ponderada (VPP): 15,25 años
+                                                                                                            Dólares de los Estados
+   Total:                               50.000.000            100       Moneda de aprobación:
+                                                                                                            Unidos de América
+                                                            Esquema del Proyecto
+   Objetivo/descripción del proyecto: El objetivo general de desarrollo es contribuir a la reducción del déficit habitacional
+   mediante la provisión de créditos hipotecarios para la adquisición de vivienda de interés social. Los objetivos específicos
+   de desarrollo del programa son: (i) aumentar el acceso a crédito hipotecario para la adquisición de vivienda atendiendo a
+   poblaciones subatendidas; y (ii) promover la adopción de vivienda sostenible.
+   Condiciones contractuales especiales previas al primer desembolso del financiamiento: El primer desembolso de los
+   recursos del préstamo estará condicionado al cumplimiento, a satisfacción del Banco, por parte del Prestatario, de que se
+   haya aprobado y entrado en vigor el Reglamento Operativo del Programa (ROP), de conformidad con los términos y
+   condiciones aprobados previamente por el Banco (¶3.6).
+   Para condiciones contractuales de carácter socioambiental, ver Anexo B del Resumen de la Revisión Ambiental y Social.
+   Excepciones a las políticas del Banco: La República de El Salvador será el garante de las obligaciones de pago del
+   préstamo, incluidos los intereses y comisiones y el aporte de contrapartida local. Se solicita una excepción parcial a la Política
+   OP-303, “Garantías Requeridas al Prestatario”, en relación con las obligaciones de ejecución del programa. Esta excepción
+   se justifica puesto que el Artículo 11 de la Ley Orgánica de Administración Financiera del Estado (Decreto
+   No. 516/1995) determina que las obligaciones asociadas a la ejecución de préstamos se encuentran fuera del mandato legal
+   de las autoridades de la República de El Salvador (¶3.7).
+                                                            Alineación Estratégica
+  Objetivos(e):                                          O1 ☒                               O2 ☒                               O3 ☐
+                                                           EO2-G ☒
+  Áreas de Enfoque Operativo(f):              EO1 ☐                         EO3 ☒          EO4 ☐          EO5 ☐          EO6 ☒          EO7 ☐
+                                                           EO2-D ☒
+(a)
+       En virtud del documento AB-2990, el desembolso de los recursos del Préstamo estará sujeto a los límites máximos: (i) hasta un 15% durante
+       los primeros 12 meses; (ii) hasta un 30% durante los primeros 24 meses; y (iii) hasta un 50% durante los primeros 36 meses, todos los cuales
+       serán contados a partir de la fecha de aprobación del Préstamo por el Directorio Ejecutivo del Banco (¶2.2).
+(b)
+       Bajo los términos de la Facilidad de Financiamiento Flexible (documento FN-655-1) el Prestatario tiene la opción de solicitar
+       modificaciones en el cronograma de amortización, así como conversiones de moneda, de tasa de interés y de productos básicos y de
+       protección contra catástrofes. En la consideración de dichas solicitudes, el Banco tomará en cuenta aspectos operacionales y de
+       manejo de riesgos.
+(c)
+       Bajo las opciones de reembolso flexible de la Facilidad de Financiamiento Flexible (FFF), cambios en el período de gracia son posibles
+       siempre que la Vida Promedio Ponderada (VPP) Original del préstamo y la última fecha de pago, documentadas en el contrato de
+       préstamo, no sean excedidas.
+(d)
+       La comisión de crédito y la comisión de inspección y vigilancia serán establecidas periódicamente por el Directorio Ejecutivo como
+       parte de su revisión de los cargos financieros del Banco, de conformidad con las políticas correspondientes
+(e)
+       O1 (Reducir la pobreza y desigualdad); O2 (Abordar el cambio climático); y O3 (Impulsar un crecimiento regional sostenible).
+(f )
+       EO1 (Biodiversidad, capital natural y acción por el clima); EO2-G (Igualdad de género); EO2-D (Inclusión de grupos diversos de la
+       población); EO3 (Capacidad institucional, Estado de derecho y seguridad ciudadana); EO4 (Protección social y desarrollo del capital
+       humano); EO5 (Desarrollo productivo e innovación por medio del sector privado); EO6 (Infraestructura sostenible, resiliente e
+       inclusiva); EO7 (Integración regional).
+                                             -2-
+
+
+
+
+                  I.    DESCRIPCIÓN DEL PROGRAMA Y MONITOREO DE RESULTADOS
+
+A.       Antecedentes, problemática y justificación
+
+1.1      Antecedentes de la Línea de Crédito Condicional para Proyectos de
+         Inversión (CCLIP) (EEO#2). Este programa es la cuarta y última operación
+         individual bajo la CCLIP para el Acceso al Crédito Empresarial y de Vivienda
+         (ES-O0009). El objetivo de la CCLIP es promover la actividad productiva y el
+         bienestar social mediante el acceso al crédito en los sectores empresarial y de
+         vivienda. La CCLIP es instrumentada a través de la Modalidad Multisectorial
+         II (MM-II) conforme a lo definido en la Propuesta de Modificaciones a la
+         CCLIP (GN-2246-13). El Organismo de Enlace es la Secretaría de Comercio e
+         Inversiones (SCI) de El Salvador (EEO#10). Esta línea por US$400 millones se
+         aprobó en julio de 2020 junto con su primera operación, “Programa de Acceso al
+         Crédito para la Recuperación de la Micro, Pequeña y Mediana Empresa
+         (MIPYME)” (5083/OC-ES por US$200 millones), ejecutada de manera exitosa por
+         el Banco de Desarrollo de El Salvador (BANDESAL) para apoyar la recuperación
+         del tejido empresarial durante y después la crisis COVID-19. La segunda
+         operación ”Programa de Financiamiento de Vivienda Social” (5352/OC-ES),
+         aprobada en septiembre de 2021 por US$50 millones, está siendo ejecutada por
+         el Fondo Social para la Vivienda (FSV), esperando desembolsar los últimos
+         US$25 millones durante este año, en donde se han cumplido de manera efectiva
+         los criterios de financiamiento que fueron establecidos, en específico cumpliendo
+         las metas para créditos a mujeres y la evaluación para mitigar riesgos de
+         desastres (EEO#11). La tercera operación fue el “Programa de Acceso al Crédito
+         para la MIPYME (5733/OC-ES), aprobada en enero de 2023 por US$100 millones
+         ejecutada por BANDESAL, ejecutándose satisfactoriamente, con desembolsos
+         por el 30% de los recursos y con fecha de último desembolso para 2027.
+
+1.2      Contexto macroeconómico. El Salvador es un país de ingreso mediano-alto con un
+         crecimiento modesto. Su economía está dominada por el sector terciario, que
+         representa un 60,2% del Valor Agregado (VA), y depende en gran medida de las
+         remesas internacionales, las cuales constituyen aproximadamente 25% del Producto
+         Interno Bruto [PIB1]). Entre 2010 y 2022, el crecimiento económico promedio del país
+         fue de 2,4%2. En 2020, la pandemia COVID-19 impactó severamente la economía
+         salvadoreña, provocando una contracción del PIB de -7,9%. Sin embargo, en 2021 se
+         produjo una rápida recuperación de la actividad económica con un crecimiento del
+         11,9% del PIB. A pesar de la reciente mejora del crecimiento económico (3,5% en
+         20233), el país sigue estando por debajo del promedio regional de Centroamérica,
+         Panamá y la República Dominicana, que fue de 4,2% en ese mismo año 4 . Para
+         2024 el Fondo Monetario Internacional (FMI) proyecta un crecimiento de 3% 5 ,
+         mientras que las autoridades locales estiman un rango entre 3,0%-3,5%. Además, se
+         espera que la inflación para 2024 cierre en un 2%, según el FMI.
+
+
+
+1    EEO#13(1).
+2    Ibid.
+3    Ibid.
+4    EEO#13(2).
+5    Ibid.
+                                                 -3-
+
+
+
+1.3      El problema de la vivienda en América Latina y el Caribe (ALC). Se estima
+         que el 45% de los hogares de ALC no tienen una vivienda digna (BID 2022). Este
+         déficit surge de una combinación de factores, y para cerrar esta brecha se requiere
+         invertir alrededor del 7,8% del PIB anualmente además de propiciar un conjunto
+         de políticas públicas para atender el rezago, incluyendo subsidios para las
+         poblaciones de menores ingresos, programas de autoconstrucción, hipotecas de
+         interés social. vivienda en renta, regulación adecuada del suelo, titularización,
+         entre otros (BID 2012).
+
+1.4      Sector de vivienda en El Salvador. El sector de la vivienda es un sector estratégico,
+         debido a su alto impacto social y su gran potencial de reactivación económica. La
+         tenencia de vivienda adecuada contribuye a atender 14 de los 17 Objetivos de
+         Desarrollo Sostenible. Además, se estima que en las economías emergentes el
+         sector puede contribuir hasta un 16% del PIB y generar hasta seis empleos directos
+         e indirectos por la construcción de cada vivienda, (Comisión Nacional de Vivienda,
+         CONAVI 2021). El Ministerio de Vivienda (MIVI) es el principal organismo
+         gubernamental encargado de formular y ejecutar políticas y programas de vivienda
+         en el Salvador, diseñando los planes nacionales de vivienda, gestionando recursos
+         financieros para programas de vivienda social y estableciendo normas de
+         construcción. Tiene el objetivo de minimizar el rezago habitacional y a su vez coordina
+         con el Instituto de Legalización de la Propiedad, encargado de regularizar la tenencia
+         de la tierra y de otorgar títulos de propiedad a familias que ocupan terrenos de forma
+         irregular. Para complementar sus funciones, el MIVI coordina al FSV (¶1.21) y al
+         Fondo Nacional para la Vivienda Popular (FONAVIPO), entidades públicas que
+         atienden el segmento de vivienda social a través de financiamiento y contribuciones.
+         Por un lado, el FONAVIPO otorga contribuciones y créditos a mejoras de vivienda a
+         familias de más bajos ingresos, mientras que el FSV se focaliza en hipotecas. Desde
+         el Ministerio de Hacienda, BANDESAL y el Banco Hipotecario atienden crédito
+         constructor a proyectos inmobiliarios y créditos hipotecarios a la micro y pequeña
+         empresa, respectivamente.
+
+1.5      Déficit de vivienda. Según la Encuesta de Hogares de Propósitos Múltiples
+         (EHPM) 2023, El Salvador tiene un total de un poco más de 6 millones de habitantes6,
+         con un número total de hogares de 2.019.583. Al analizar el número de viviendas, se
+         observa que el 28% viven en hacinamiento (hogares con más de tres personas en un
+         dormitorio) y el 50,7% del total de los hogares presentan déficit cualitativo, que
+         significa condiciones físicas y estructurales inadecuadas de las viviendas, siendo las
+         mayores carencias en tenencia, agua y piso. La falta de una vivienda adecuada,
+         idealmente sostenible para mitigar emisiones y resiliente al Cambio Climático (CC),
+         obliga a muchas familias a vivir en espacios reducidos y compartidos, lo que deteriora
+         la calidad de vida y afecta la salud y bienestar de sus habitantes, los expone a shocks
+         y reduce su potencial de generar ingresos. El déficit cuantitativo7 en zonas urbanas
+         asciende a 333.468 viviendas. Al profundizar en este segmento, se observa que el
+         57%, se encuentra en la población por debajo de un Salario Mínimo Mensual Vigente
+         (SMMV), los cuáles necesitarían una solución de vivienda basada en subsidios para
+         la adquisición de una vivienda. El 41% se encuentra entre dos y cuatro SMMV. Este
+         segmento sí podría obtener un financiamiento para adquirir una vivienda con costos
+         menores a US$40.000, sin embargo, requeriría tasas de interés adecuadas y plazos
+
+6   De estos, de estos un 75% vive en zonas urbanas.
+7   Viviendas en hacinamiento, pieza en una casa, pieza en un mesón, y casa improvisada.
+                                            -4-
+
+
+
+         flexibles para no presionar su capacidad de pago8. Con estas cifras se estima que se
+         requieren aproximadamente US$4.000 millones para atender este segmento, lo cual
+         representa cerca del 12% del PIB de El Salvador.
+
+1.6      El rezago habitacional presenta causas similares a las observadas en ALC9 por el
+         lado de la demanda: (i) rápido crecimiento poblacional urbano y altas densidades
+         lo cual además ha incrementado el precio de la vivienda. El 75% vive en áreas
+         urbanas, además de que el país presenta la más alta densidad poblacional de
+         Centroamérica 10 ; (ii) existe una limitada capacidad adquisitiva siendo que el
+         70% de las personas tiene ingresos menores a 1 SMMV, –79% en el caso de
+         mujeres–. Los hogares presentan ingresos promedios de US$700 mensuales, con
+         lo que es difícil que puedan obtener una vivienda de calidad; (iii) informalidad e
+         ingresos variables: el 65% de la población trabaja en el sector informal, lo que
+         limita su acceso al crédito formal; (iv) falta de esquemas para atender a
+         poblaciones con ingresos menores de 1 SMMV; y (v) bajo acceso al crédito
+         hipotecario con 5,4% del PIB. Por el lado de la oferta: (i) nula oferta de vivienda
+         social sostenible; (ii) una escasa oferta de vivienda social adecuada: sólo el
+         18% de la vivienda estaba dirigida a familias con ingresos inferiores a
+         US$1.50011; y (iii) una ausencia de factores habilitantes como el ordenamiento
+         territorial, la planificación urbana y la habilitación de terrenos para vivienda social
+         (BID 2022).
+
+1.7      Esta problemática contribuye a la proliferación de asentamientos informales, donde
+         las condiciones de vida son precarias y carecen de servicios básicos adecuados,
+         lo que afecta negativamente la salud y el bienestar de sus habitantes. Además, la
+         escasez de vivienda adecuada y accesible limita el desarrollo económico y social,
+         ya que las familias no pueden acceder a viviendas seguras y estables, lo que a su
+         vez reduce su capacidad para mejorar su situación económica y educativa. La
+         falta de planificación urbana y la concentración del mercado de desarrolladores
+         de vivienda enfocados en segmentos de ingresos medios altos, así como los altos
+         costos de construcción para vivienda social, también resultan en una escasa
+         oferta de vivienda social y un uso ineficiente del suelo y recursos, incrementando
+         la desigualdad y la segregación socioeconómica. En conjunto, estas dificultades
+         obstaculizan el progreso hacia un desarrollo sostenible y equitativo, afectando el
+         bienestar general de la población y el crecimiento económico del país.
+
+1.8      Debilidades del sector financiero para contribuir a minimizar el rezago
+         habitacional. De acuerdo con datos del último Global Findex del Banco Mundial
+         (BM)12, El Salvador cuenta con un nivel de acceso a crédito hipotecario total de
+         5,4% monto por debajo que el promedio de la región -7%-. Más aún, si se analizan
+         los sectores con ingresos más bajos sólo el 2,4% del 40% más pobre de la
+         población recibe un crédito hipotecario, que comparado con los Países de Renta
+         Media y Baja (3,6%), es relativamente bajo.
+
+
+
+
+8    EEO#5.
+9    EHPM 2023.
+10   EEO#13(25).
+11   EEO#13(23).
+12   EEO#13(5).
+                                                    -5-
+
+
+
+1.9       Según datos de la Superintendencia del Sistema Financiero13, sólo el 30% de los
+          créditos hipotecarios fueron otorgados a personas de ingresos bajos y medio
+          bajos a pesar de que representan más del 90% de la población. Un informe del
+          Banco Central de Reserva (BCR, 2023)14 muestra que las instituciones financieras
+          concentran sus productos hipotecarios en segmentos de ingresos altos, debido al
+          menor riesgo percibido y la mayor capacidad de pago. Estos segmentos por lo
+          general no tienen historial crediticio ni tampoco colateral, lo que deriva en un
+          acceso limitado al crédito hipotecario, situación exacerbada para subsegmentos
+          como mujeres, población con empleo informal (que en promedio gana un
+          25% menos) receptores de remesas y Personas con Discapacidad (PcD),
+          incrementando la desigualdad en el acceso a la vivienda. Asimismo, la banca
+          comercial es renuente a otorgar crédito de largo plazo debido a un limitado acceso
+          a los mercados de capitales (deuda privada equivale al 3% del PIB), altos costos
+          transaccionales por presentar desfases en sus balances (los depósitos en cuenta
+          corriente ascienden al 57% del PIB [BM 2024]) y la eficiencia de los derechos de
+          propiedad y seguridad jurídica (FMI 2014).
+
+1.10      El FSV es un actor clave en el sector hipotecario en El Salvador, sobre todo en
+          los niveles de ingresos medios y bajos, colocando en 2023 más 8.000 créditos por
+          US$183 millones, posicionándolo como el principal intermediario en hipotecas
+          para vivienda social. La mayoría de los préstamos que otorga el FSV se enfocan
+          principalmente en el estrato de hasta 2,5 SMMV y aproximadamente el 52% de la
+          cartera total en sus segmentos de hasta 4 SMMV son créditos para mujeres. Si se
+          examina el total de créditos hipotecarios otorgados por el sector financiero la
+          participación del FSV es del 63%; sin embargo, en cuanto a monto de cartera solo
+          representa el 33% del total (US$1.421 millones) debido a que el crédito promedio
+          otorgado por FSV alcanza US$22.034, frente a US$74.826 por parte de la banca
+          comercial, con lo que se advierte que el segmento que atiende FSV tiene un
+          enfoque en hogares que perciben ingresos de hasta cuatro SMMV15. Los saldos
+          de cartera también muestran que, por modalidad de la vivienda, el 67% de los
+          créditos corresponden a vivienda usada, mientras que el restante a viviendas
+          nuevas. El 42% de créditos se destinaron a compra de viviendas de hasta
+          US$20.000 y el 57% en montos entre US$20.000 y US$40.000. Los saldos de
+          cartera a cierre de 2023 muestran que el 75% de los créditos se han otorgado a
+          hogares con ingresos de hasta 2,5 SMMV, mientras que un 25% se ha otorgado
+          a aquellos con ingresos entre 2,5 y 4 SMMV (¶1.21).
+
+1.11      Impacto del CC en el sector vivienda. En El Salvador, el 88,7 % del territorio se
+          considera zona de riesgo y sobre esa superficie se asienta el 95,4 % de la
+          población, lo cual lo hace uno de los países más vulnerables del mundo según el
+          Informe Nacional del Estado de los Riesgos y Vulnerabilidades16. Los escenarios
+          climáticos indican que la temperatura puede incrementar hasta 1,5 °C para
+          2041, en cuanto a la precipitación se espera un incremento en la intensidad,
+          provocando más inundaciones y deslizamientos, afectando especialmente a la
+          población con condiciones de vivienda precaria y en asentamientos urbanos
+
+13   EEO#13(6).
+14   EEO#13(7).
+15   EEO#3 y EEO#4.
+16   Precipitaciones, tormentas tropicales, huracanes y sequias, provocando recurrentemente inundaciones,
+     deslizamientos, afectaciones en viviendas, infraestructura, producción alimentaria, contaminación del agua,
+     estrés hídrico, entre otros.
+                                           -6-
+
+
+
+         densamente poblados, también hay poblaciones que tendrán afectaciones por
+         estrés hídrico, por tanto, contar con vivienda resiliente y bien ubicada se vuelve
+         imperante.
+
+1.12     Así también, el sector vivienda aporta al CC a través de la generación de Gases
+         de Efecto Invernadero (GEI), acorde al Informe Bienal de Actualización de
+         CC 2018, generando un 2,7% de los GEI, sin embargo, en los últimos 40 años
+         esta cifra se ha incrementado cinco veces, siendo en un 30% explicado por el uso
+         de energía eléctrica. La ubicación de las viviendas también afecta los hábitos de
+         transporte y la demanda de infraestructuras, impactando directamente en las
+         emisiones de GEI17. El reporte "Creating Markets for Climate Business", destaca
+         cómo el financiamiento dirigido y estratégico ha propiciado un aumento
+         significativo en la adopción de tecnologías y prácticas sostenibles en distintos
+         sectores, sin embargo, en El Salvador aún no existe un crédito focalizado a
+         atender vivienda social sostenible, ni del lado de la oferta ni de la demanda. Esto
+         pone de manifiesto la necesidad de fortalecimiento institucional en el ecosistema
+         de vivienda para sensibilizar y promover prácticas sostenibles.
+
+1.13     En el marco del Acuerdo de Paris (AP), El Salvador presentó la actualización de
+         su Contribución Nacional Determinada en 2021. En sus metas de mitigación, se
+         compromete a reducir sus emisiones GEI anualmente y en sus metas de
+         adaptación, desarrollar ciudades adaptables, resilientes. En el Plan Nacional de
+         CC (2022-2026), también se incluye un componente para integrar la sostenibilidad
+         en el ordenamiento territorial.
+
+1.14     Contexto de género en el mercado hipotecario. Las mujeres enfrentan un
+         contexto de brechas que resultan en niveles de empleabilidad, salarios, o acceso
+         a colaterales más limitados con respecto a los hombres 18 . Según datos del
+         BM 19 sólo el 29% de las mujeres en El Salvador tienen una cuenta bancaria,
+         comparado a 45% de los hombres. A este contexto se le agrega también que, a
+         nivel nacional, el 60,87% de los hogares reportan como jefe de hogar a un hombre
+         y 39,13% a mujeres. Una de las principales razones del bajo acceso al crédito en
+         las mujeres es el acceso a garantías, considerando que las mujeres tienen menor
+         probabilidad de tener activos a su nombre y los altos costos de financiamiento, lo
+         cual se traduce en un menor acceso a financiamiento. Garantizar que las mujeres
+         tengan acceso a créditos y a tenencia de la propiedad está vinculado
+         con: (i) entornos más productivos (Morrison et al); (ii) una mayor capacidad de
+         ahorro y menos propensión a shocks económicos (Seguino et al); (iii) mayor
+         seguridad y estabilidad 20 ; (iv) externalidades positivas en su capacidad de
+         negociación (BID 2021); y (v) les presenta una mayor probabilidad de
+         emprendedurismo (BM 2008). Por otro lado, una mayor provisión de créditos a
+         mujeres está vinculado con mayor crecimiento en los intermediarios financieros, y
+         una mejora en sus perfiles de riesgo, dado que las mujeres tienen mejor
+         comportamiento de repago (International Finance Corporation (IFC) 2014).
+
+1.15     El BCR estableció una hoja de ruta para guiar a las instituciones financieras en la
+         implementación de políticas que fomenten la inclusión financiera de las
+
+17   EEO#13(4).
+18   EEO#13(8).
+19   EEO#13(9).
+20   EEO#13(10).
+                                              -7-
+
+
+
+         mujeres. A nivel institucional, un análisis realizado 21 a la cartera del FSV se
+         identificó que cerca del 52% de los créditos otorgados por el FSV estuvieron
+         destinados a mujeres. FSV diseñó el programa “Casa Mujer” para adquisición de
+         vivienda a mujeres, incluyendo perfiles tradicionalmente excluidos por sesgos
+         culturales, como mujeres solteras, viudas o divorciadas. Para expandir la
+         transversalización de género en el resto de los programas del FSV, el BID brindó
+         una asistencia técnica 22 para revisar integraciones de género dentro de los
+         productos del FSV, ampliando así la posibilidad de que más mujeres puedan ser
+         financiadas.
+
+1.16     Contexto de PcD. Según el Fondo de Población de las Naciones Unidas23, la
+         prevalencia total de discapacidad en El Salvador afecta al 20,4% de la población,
+         mientras que la prevalencia crítica afecta al 7,6%. Existe una mayor incidencia
+         entre mujeres (22,2%) que entre hombres (18,2%) y según la Encuesta Nacional
+         de PcD de 2015, las mujeres presentan mayores dificultades de movilidad dentro
+         de sus viviendas (26,9%) en comparación con los hombres (21,7%). Si bien no
+         existen cifras sobre el número de PcD que acceden a servicios financieros, se
+         observó que los datos con los que cuenta el FSV permiten obtener información a
+         través de la autodeclaración de los titulares del crédito24. Para el período entre
+         2021-2023, el número promedio de créditos anual que el FSV otorgó a PcD fue
+         de 15, con una asignación proporcional entre hombres y mujeres. Para avanzar
+         en el fortalecimiento institucional sobre aspectos de PcD en diciembre 2022, el
+         FSV firmó un convenio interinstitucional 25 con el Consejo Nacional para la
+         Inclusión de PcD (CONAIPD). Dentro de las acciones del FSV se encuentra
+         otorgar viviendas con características de accesibilidad, con lo que el FSV cumple
+         con la normativa26 referente al diseño universal de accesibilidad de PcD.
+
+1.17     Contexto de la diáspora y receptores de remesas 27 . El uso del sistema
+         financiero entre las personas receptoras de remesas es limitado, o nulo, pues no
+         utiliza ningún producto o servicio financiero aparte del servicio de recepción de
+         remesas. En El Salvador, se recibieron remesas al cierre del 2023 por
+         US$8.329,1 millones 28 , lo que representa el 24,49% del PIB. Las familias que
+         reciben remesas las utilizan principalmente para consumo. Se estima que el
+         32,6% de las remesas que reciben las familias salvadoreñas, han sido utilizados
+         para pagar bienes inmuebles del emigrante en su país de origen o de familiares,
+         por lo que un producto financiero hipotecario para este segmento promovería una
+         mayor estabilidad financiera29.
+
+1.18     Fallas de mercado. Derivado de lo anterior se identifican dos causas principales
+         de la problemática para el acceso a vivienda de interés social y particularmente
+         sostenible. La primera, de naturaleza estructural, se relaciona con limitada oferta
+
+
+21   Informe final de la consultoría financiada con recursos de ATN/OC-18918-RG aprobada en 2021 por
+     US$350.000 para apoyo al cliente.
+22   Ibid.
+23   EEO#13(11).
+24   Ibid footnote#19.
+25   EEO#13(12).
+26   EEO#13(13).
+27   EEO#13(14).
+28   EEO#13(15).
+29   EEO#13(16).
+                                                    -8-
+
+
+
+          de vivienda social 30 (¶1.6). En este sector existe una alta concentración de
+          desarrolladores de vivienda atendiendo principalmente vivienda para familias de
+          altos ingresos 31 . Estos desarrolladores tienen pocos incentivos para construir
+          viviendas sociales, entre otras cosas, por el incremento constante en el valor del
+          suelo, que genera márgenes bajos; y al acceso limitado a financiamiento para
+          estos proyectos 32 . Adicionalmente, la vivienda sostenible de interés social es
+          escasa, no existe un estándar nacional para su construcción, y su costo es
+          aproximadamente un 7% más alto33, con la dificultad de que el segmento social
+          pueda absorber directamente estos costos. Estas deficiencias podrían llevar al
+          país a seguir incrementando sus emisiones en el sector de la vivienda (¶1.11). Por
+          último, la oferta está limitada por la deficiencia de factores habilitantes como el
+          ordenamiento territorial, la planificación urbana y la habilitación de terrenos
+          específicos. La segunda causa se refiere al acceso al financiamiento de largo
+          plazo para adquirir vivienda. Debido a la relación entre el precio de las viviendas
+          y el nivel de ingreso de los hogares, la adquisición de viviendas se realiza
+          principalmente mediante financiamiento hipotecario de largo plazo. Aquí se
+          presentan fallas tanto en la oferta como en la demanda (EEO#6). En cuanto a la
+          demanda, para la población con ingresos entre 1 y 4 SMMV (¶1.5), existe
+          información asimétrica que limita la adecuada evaluación del perfil de riesgo de
+          los potenciales clientes, restringiendo el acceso al crédito, especialmente para
+          mujeres (¶1.14) y poblaciones vulnerables, entre otros: trabajadores informales
+          (¶1.6), receptores de remesas (¶1.17) y PcD (¶1.16). Aunque estos segmentos
+          tienen ingresos relativamente estables que les permitirían destinar hasta un
+          30%-35% de su ingreso mensual al pago de una hipoteca, suelen carecer de un
+          historial crediticio sólido y de activos significativos para ofrecer como garantía. Del
+          lado de la oferta financiera, las instituciones financieras enfrentan limitaciones
+          para otorgar crédito a largo plazo debido a que su principal fuente de fondeo son
+          las captaciones del público 34 , y la baja profundidad del mercado de
+          capitales35 genera altos costos transaccionales y mayor riesgo de mercado debido
+          al descalce en sus balances. Estas limitaciones restringen la oferta de
+          financiamiento de largo plazo, la disponibilidad de herramientas de calificación
+          adecuadas y la diversidad de productos financieros (¶1.9). Por último y con mayor
+          complejidad, por su multidimensionalidad, es la atención a las familias con
+          ingresos inferiores a 1 SMMV. Aquí las políticas públicas podrían orientarse a
+          productos financieros para la autoconstrucción y mejora de viviendas, así como
+          políticas públicas que incluyan subsidios al frente para adquirir una vivienda digna,
+          habilitación de suelos con servicios y titularización, entre otros36.
+
+1.19      Justificación del programa y estrategia de intervención. Las intervenciones de
+          la Banca Pública de Desarrollo (BPD) se justifican cuando atienden a fallas de
+          mercado o se logran altos rendimientos sociales que apoyan las prioridades de
+
+30   Esta problemática no será abordada en la presente operación, sin embargo, se espera que tenga un impacto
+     indirecto ya que, al aumentar la demanda, se dinamizará la oferta de vivienda social y sostenible. Se está
+     dirigiendo el diálogo con el país para atender esta problemática a través del MIVI, BANDESAL y con el mismo
+     BID-Invest para financiar desarrolladores de vivienda social.
+31   EEO#13(23).
+32   Ibid.
+33   EEO#13(4).
+34   Los depósitos en la banca comercial ascienden al 75% del PIB (FMI 2022).
+35   EEO#13(24).
+36   Este elemento no formará parte de programa, sin embargo, existe un diálogo continuo con el MIVI para diseñar
+     políticas públicas en este sentido.
+                                                    -9-
+
+
+
+          políticas públicas del país. También se ha identificado que tener líneas de crédito
+          dedicadas con la BPD promueven políticas públicas que fomentan el crecimiento
+          económico sostenible (Oxford 2018).Este programa atiende una serie de barreras
+          al financiamiento para las viviendas de interés social en El Salvador, incluyendo
+          el financiamiento de hipotecas para viviendas sostenibles. La intervención
+          propuesta permitirá viabilizar la adquisición de vivienda para los hogares con
+          ingresos de hasta 4 SMMV ampliando la oferta de financiamiento para vivienda de
+          interés social (hasta US$40.000 37 ), con un énfasis en mujeres y poblaciones
+          vulnerables, así como en el desarrollo de un programa piloto para financiar la
+          adquisición de vivienda sostenible. También dinamizará la oferta de nuevas
+          viviendas y promoverá que los promotores y desarrolladores inmobiliarios adopten
+          estándares de vivienda sostenible. El acceso a vivienda permite a hogares de
+          ingresos bajos y medios, ahorrar, construir activos y hacer frente a las crisis
+          adversas. La vivienda propia mitiga la vulnerabilidad de los hogares pobres o que
+          corren el riesgo de volver a caer en la pobreza 38 . La vivienda propia permite
+          oportunidades como el acceso al crédito en mejores condiciones como resultado
+          de la disponibilidad de garantías, especialmente para las mujeres, que enfrentan
+          mayores restricciones financieras o para las personas informales39. El acceso a
+          vivienda también implica la estabilidad del hogar, lo que puede contribuir a
+          aumentar las oportunidades de encontrar y retener empleo, factores también
+          cruciales para el empoderamiento económico de la mujer y poblaciones
+          vulnerables. Finalmente, el sector construcción es una de las cuatro ramas
+          económicas que generan más empleo en El Salvador, llegando a tener el 6,8% de
+          la población ocupada y junto con el sector inmobiliario aportando un 12,5% al PIB.
+          Por otro lado, contar con viviendas resilientes, evita pérdidas por eventos
+          climáticos (Comisión Económica para América Latina 2012) y las viviendas
+          sostenibles pueden generar ahorros en agua y energía de un 20%, además de
+          presentar valores en el mercado superiores hasta un 7%40. La intervención permite
+          impulsar la demanda de vivienda social a través de la expansión del acceso a
+          crédito hipotecario. Indirectamente, busca dinamizar el mercado de
+          desarrolladores de vivienda social dado el impulso de la demanda efectiva de
+          vivienda social y en particular vivienda social sostenible que contribuya a mitigar
+          el CC.
+
+1.20      En este orden, se propone el presente programa que otorgará subpréstamos a
+          beneficiarios elegibles para la adquisición de vivienda de interés social y vivienda
+          de interés social sostenible a través del FSV. El programa se enfocará en la
+          financiación de vivienda nueva y ya construida a mujeres y segmentos
+          vulnerables41, con miras a resolver el déficit de vivienda e impulsar la adquisición
+          de vivienda que cumpla con los requisitos del FSV para ser resiliente frente a los
+          riesgos de desastres naturales y amenazas climáticas (EEO#11), así como un
+          programa piloto para promover el financiamiento para adquirir vivienda social
+          sostenible (EEO#8). La provisión de crédito se hará con tasas de interés
+          competitivas que permitan a los beneficiarios finales tener una vivienda con cargas
+          financieras acordes a sus perfiles de riesgo e ingresos (EEO#9).
+
+37   Definición de vivienda social establecida en la normatividad del FSV. Para poder pagar una hipoteca de este
+     monto y que la cuota no represente más del 30% de los ingresos mensuales se requieren de hasta 4 SMMV.
+38   EEO#13(19).
+39   EEO#13(20).
+40   EEO#13(22).
+41   Esta propuesta se enfocará en: PcD, migrantes, personas con empleos informales.
+                                           - 10 -
+
+
+
+1.21     FSV. El FSV es una institución autónoma constituida para contribuir al déficit de
+         vivienda, siendo el mayor impulsor de hipotecas sociales en el país. A diciembre
+         de 2023, FSV contaba con activos totales por US$1.058 millones, con un
+         crecimiento anual de 4,4%, explicado por la dinámica de la cartera de préstamos
+         neta. Los pasivos totales se mantuvieron relativamente estables alcanzando
+         US$410 millones, con los acreedores financieros y las emisiones teniendo la
+         mayor participación. La mayor fuente de financiamiento de la entidad es su
+         patrimonio que creció 8,6% en el último año, explicado parcialmente por el
+         aumento en sus reservas. La entidad es líquida, manteniendo hasta cuatro meses
+         de obligaciones en recursos disponibles acorde a las políticas
+         internas. Adicionalmente, el FSV es una entidad rentable (Retorno sobre Activos
+         y Retorno sobre Patrimonio, alrededor de 7% y 4%, respectivamente) y solvente,
+         con un patrimonio que supera a los activos ponderados por nivel de riesgo. La
+         gestión del riesgo crediticio en FSV ha permitido la reducción de los indicadores
+         de mora, que pasaron de 4,21% en 2019, a 2,37% en 2023. El índice de cobertura
+         de cartera vencida alcanza 5,1 veces y la totalidad de refinanciamientos,
+         reestructuraciones y vencimientos se encuentran cubiertos. La normatividad
+         interna del FSV garantiza que, desde las etapas previas al otorgamiento de
+         crédito, las viviendas cumplan con criterios mínimos en materia de ubicación,
+         mejoras, y sistemas constructivos. El otorgamiento se hace únicamente en los
+         casos en los que las características de las viviendas no presenten o permitan que
+         el hogar caiga en déficit cualitativos (Instructivo de Garantías Hipotecarias) y que
+         no se encuentren en zonas de riesgo42. La ejecución de la operación vigente,
+         (5352/OC-ES) [2021 | US$50 millones | 50% desembolsado] que será
+         desembolsada al 100% este año, ha financiado 1.529 viviendas con el
+         41,5% destinado a mujeres. A pesar de que las mujeres presentaron ingresos
+         promedios 16% menor que los hombres (US$653), las mujeres recibieron montos
+         de préstamo ligeramente superiores (US$16.620,39 vs. US$16.159,95) y mejores
+         condiciones, a través programas específicos como “Casa Mujer”, destacándose
+         por su inclusión financiera efectiva y excelente desempeño de pago, lo que
+         desafía los modelos tradicionales de evaluación de riesgos.
+
+1.22     Análisis de demanda estimada. Al analizar la demanda crediticia del FSV,
+         utilizando cifras de la cartera originada en años anteriores, así como en
+         proyecciones para los próximos cinco años, se revela que la demanda de vivienda
+         de interés social para los próximos cinco años (2025-2029) será de
+         30.000 créditos, equivalentes a un monto aproximado de US$700 millones. Este
+         monto total de créditos incluye la adquisición de vivienda usada (61%) y nueva
+         (36%) (EEO#6). Lo anterior considerando que el FSV otorga anualmente un total
+         de US$175 millones de cartera total. En este orden, los recursos de esta operación
+         cubrirían el 7% de la demanda total para los próximos cinco años (EEO#6).
+
+1.23     Experiencia del Banco en el sector, el país y la región (EEO#16). El BID ha
+         liderado activamente el diseño e implementación de operaciones y proyectos en
+         el sector a través de la banca de desarrollo tanto en el país como en distintos países
+         de ALC. Durante 2021 se aprobó el “Programa de Financiamiento de la Vivienda
+         Social” (5352/OC-ES), en donde se financió vivienda social a través del FSV, y de
+         desarrolló una metodología para mitigar los riesgos físicos derivados del
+         CC (EEO#11). Los datos indican que el 100% de lo ejecutado ha implementado
+
+42   EEO#11.
+                                                     - 11 -
+
+
+
+          dicha metodología y que además se promovió eficazmente la propiedad de
+          vivienda entre mujeres. Al analizar en específico el programa “Casa Mujer”
+          destaca por su inclusión financiera efectiva, atendiendo a mujeres con ingresos
+          29,46% menores en promedio, pero logrando mejores resultados gracias a
+          beneficios personalizados. Estas mujeres reciben tasas de interés 21,01% más
+          bajas, plazos de préstamo 5,22% más largos, y mantienen un excelente
+          desempeño de pago con 53,33% menos días de mora.
+
+1.24      En 2016 se concluyó el programa 2760/OC-ME (2012 | US$200 millones) a fin de
+          atender sectores subatendidos, como es el segmento de los no afiliados; y la
+          consolidación de créditos de mejora y autoproducción. Este programa se ejecutó
+          de manera satisfactoria (Informe de Terminación de Proyecto 2760-OC-ME),
+          promoviendo más de 37.000 acciones de vivienda. En 2019, se aprobó la
+          CCLIP EC-O0004         “Programa       Sectorial    Casa     para      Todos”     por
+          US$200.000.000, enfocándose en la atención al déficit habitacional de la
+          población de los últimos quintiles del país a través de subsidios totales o
+          parciales. Asimismo, en 2019, el Banco otorgó una Garantía a Ecuador para la
+          emisión de un bono social (4699/OC-EC) (2018 | US$300 millones43(, permitiendo
+          a las entidades financieras del país otorgar créditos hipotecarios a tasas de interés
+          favorables para vivienda social. En noviembre de 2023, se aprobó la operación,
+          Soluciones     Habitacionales       para     Población    Pobre      y    Vulnerable
+          (5821/OC-EC) 2023 | US$106,1 millones | pendiente de desembolso) (más
+          US$1,6 millones de capital no reembolsable para atención a migrantes), la cual
+          también se enfoca en los segmentos de menores ingresos de la población,
+          atendiendo el déficit cuantitativo y cualitativo44.
+
+1.25      Lecciones aprendidas. De las distintas intervenciones y del diálogo con bancos
+          de desarrollo y ministerios de vivienda de la región se ha identificado la relevancia
+          que tiene la innovación financiera para facilitar el acceso a segmentos que se
+          encuentran subatendidos, así como el ofrecer líneas de financiamiento dedicadas
+          que promuevan viviendas resilientes y bajas en carbono, en suelo con servicios y
+          bien ubicadas. Operaciones como esta, que promueven hipotecas para vivienda
+          social, tienen impacto en reducir el déficit de vivienda y mejorar las características
+          de la vivienda según la Meta Evaluación de Impacto de Programas de Vivienda
+          Social: El caso Chileno realizada por OVE.
+
+1.26      Del programa anterior con FSV (5352/OC-ES), se extraen las siguientes lecciones
+          aprendidas aplicadas a la presente operación: (i) hubo un análisis de la demanda
+          de créditos hipotecarios de mujeres cabeza de hogar y se sugirió ampliar la
+          elegibilidad para atender a más mujeres en este programa; (ii) se demostró que
+          con los términos y condiciones adecuadas las poblaciones de bajos ingresos
+          pueden ser clientes fiables, por lo que en esta operación se buscará financiar otros
+          segmentos de poblaciones subatendidas (¶1.38); (iii) en la operación anterior se
+          desarrolló una metodología para mitigar riesgos de desastres, en esta operación,
+          además se incentivará que al menos el 20% de las viviendas financiadas estén
+          certificadas como sostenibles, promoviendo además la certificación de
+          desarrolladores (EEO#11); y (iv) en la operación previa, la mayoría de los créditos
+          ha financiado vivienda usada en parte por la escasez de vivienda social nueva.
+43   La garantía se encuentra activa y tiene una vigencia hasta el 2035, sin embargo, a la fecha, no se ha ejecutado
+     ninguna operación en contra de la garantía.
+44   En proceso de firma.
+                                         - 12 -
+
+
+
+       Por ello, en esta operación se impulsará una mayor coordinación del FSV con
+       desarrolladores para el desarrollo de vivienda nueva de interés social.
+1.27   En conclusión se han incluido en el diseño del presente programa lecciones y
+       buenas prácticas como: (i) la importancia de contar con recursos de largo plazo
+       para consolidar el mercado de crédito hipotecario (¶1.9); (ii) la relevancia de
+       políticas sectoriales de vivienda que tengan en cuenta el otorgamiento de crédito
+       derivado de los estudios de cadena de valor de la vivienda (¶1.30) y promover la
+       participación del sector privado tanto en la oferta como en la demanda (¶1.28);
+       (iii) la relevancia de las entidades de financiamiento del sector público hipotecario
+       para el acceso al crédito para mujeres y su transversalización (¶1.40), así como a
+       poblaciones vulnerables que no son sujetas de crédito por el sistema financiero
+       tradicional; (iv) el rol anticíclico de los mecanismos financieros públicos; y (v) la
+       importancia de tener líneas de crédito dedicadas a promover y financiar vivienda
+       sostenible (¶1.19).
+1.28   Complementariedad con otras operaciones del Grupo BID en el
+       país (EEO#15). El limitado acceso al crédito sigue siendo una barrera significativa
+       para el crecimiento y desarrollo en El Salvador. Factores como la informalidad, la
+       falta de garantías y la asimetría de información dificultan el financiamiento privado,
+       particularmente para las MIPYMEs y el sector de vivienda social, lo que ha llevado
+       a la BPD a jugar un papel clave en la mitigación de estas fallas de mercado. En
+       este contexto, a lo largo de la última década, el Banco ha apoyado a BANDESAL
+       y al FSV en el desarrollo gradual de instrumentos financieros innovadores como
+       fondos de garantías, hipotecas sociales y líneas de financiamiento verde (¶1.23,
+       ¶1.24, ¶1.32, ¶3.2), para cerrar las brechas de financiamiento en los segmentos
+       de MIPYMEs y vivienda social. La presente operación es parte de un paquete de
+       tres nuevas intervenciones diseñadas y a ser ejecutadas de manera
+       independiente, pero relacionadas entre sí (ES-L1162, ES-L1163 y ES-L1165), a
+       través de las cuales se mantiene este enfoque estratégico, continuando el apoyo
+       a BANDESAL y a FSV en el desarrollo de nuevos instrumentos de financiamiento.
+       Este enfoque compartido permite dar una respuesta coordinada a las necesidades
+       del sector financiero de El Salvador, con la BP como eje central, maximizando el
+       impacto programático y, a la vez, permitiendo atender especificidades sectoriales
+       en cada una de las intervenciones, considerando que las tres intervenciones: (i)
+       atienden diferentes sectores y tipos de beneficiarios, con distintos plazos de
+       maduración de la demanda y condiciones para atenderla; y (ii) cuentan con
+       mecanismos de ejecución diferenciados (¶3.2, ¶3.3, ¶3.4) y diferentes socios
+       estratégicos (¶3.1).
+
+1.29   Valor Agregado y adicionalidad del Banco. Esta operación, que es parte de una
+       CCLIP (EEO#2), refleja la relación de largo plazo entre el BID y el FSV,
+       construyendo sobre el trabajo previo y continúa impulsando al FSV a innovar,
+       permitiendo que la institución desarrolle programas que aborden nuevas
+       necesidades de vivienda, como el diseño de productos financieros para la compra
+       de viviendas sostenibles. También impulsa al FSV a implementar estrategias que
+       prioricen la atención de mujeres y poblaciones vulnerables, como receptores de
+       remesas, un primer alcance para PcD, y trabajadores informales, para garantizar
+       su acceso a soluciones habitacionales dignas.
+
+1.30   En operaciones anteriores con FSV, el BID ha demostrado su capacidad para
+       fortalecer programas destinados a sectores específicos, como el crédito para
+                                                - 13 -
+
+
+
+          mujeres y la implementación de metodologías para mitigar riesgos de desastres
+          naturales. La adicionalidad del BID se manifiesta en el apoyo continuo a través de
+          Cooperaciones Técnicas (CT) destinadas a fortalecer las capacidades del FSV,
+          así como el continuo diálogo, permitiéndole seguir avanzando en la atención al
+          sector hipotecario de manera más eficiente. Durante este período, se estarán
+          fortaleciendo las capacidades del fondo en cuanto a diversidad e inclusión a través
+          de una CT en preparación45 para atender mejor el segmento de PcD, además con
+          recursos de la ATN/OC-20068-RG se está financiando el “Estudio de Cadena de
+          Valor de la Vivienda de El Salvador”, el cual permitirá entender el mejor el
+          funcionamiento del sector vivienda, para identificar actividades que agreguen
+          valor e identificar oportunidades para proyectos público-privados. Finalmente, con
+          la ATN/OC19731-ES se está apoyando el desarrollo de un “Sello Social y
+          Ambiental para la Vivienda” el cual permitirá la creación de los elementos y
+          criterios de sostenibilidad que serán parte integral de la política de vivienda junto
+          con el “Sistema de Información Territorial y Urbano” con lo que también se estará
+          capacitando al propio FSV y a desarrolladores de vivienda en temas sostenibles.
+
+1.31      Coordinación con otras agencias multilaterales y donantes. El programa
+          complementará el apoyo otorgado al FSV por parte del Banco Centroamericano
+          de Integración Económica (BCIE) por un monto total de US$100 millones46. El
+          “Programa de Intermediación Financiera para la Vivienda Social” del BCIE tiene
+          por objetivo ayudar a los hogares de bajos ingresos a adquirir, construir y mejorar
+          sus viviendas47. El préstamo del BCIE busca financiar créditos para mejora de
+          vivienda, lo cual complementa nuestro programa que busca atender el déficit
+          cuantitativo a través del crédito a largo plazo.
+
+1.32      Alineación estratégica. El programa es consistente con la Estrategia Institucional
+          del Grupo BID: Transformación para una Mayor Escala e Impacto (GN-3159-12) y se
+          alinea con los objetivos de: (i) reducir la pobreza y la desigualdad a través del
+          otorgamiento de crédito para la adquisición de vivienda a hogares de menores
+          ingresos; y (ii) abordar el CC, ya que según la Metodología conjunta de los Bancos
+          Multilaterales de Desarrollo (BMD) de estimación de financiamiento climático, la
+          operación tiene 20% de financiamiento climático en mitigación por la adquisición de
+          viviendas que cumplen con un nivel de eficiencia energética, hídrica y de carbono
+          embebido en materiales equivalente a “Excellence in Design for Greater Efficiencies”
+          (EDGE) nivel 1, El programa también se alinea con las siguientes áreas de enfoque
+          operativo: (i) igualdad de género; (ii) inclusión de grupos diversos de la población;
+          (iii) capacidad institucional, Estado de derecho y seguridad ciudadana; e
+          (iv) infraestructura sostenible, resiliente e inclusiva.
+
+1.33      El programa se alinea con la Estrategia Sectorial sobre las Instituciones para el
+          Crecimiento y el Bienestar Social (GN˗2587-2), bajo su componente de ofrecer
+          acceso a los servicios financieros a la mayoría y la de Mitigación y Adaptación al
+          CC (GN-2609-1), al financiar vivienda sostenible y que ha sido evaluada para
+          mitigar riesgos por desastres naturales. El programa es consistente con el
+          Documento de Marco Sectorial de Vivienda y Desarrollo Urbano (GN-2732-11) al
+          apoyar la resolución del desafío de exclusión social estructural. El programa
+          también es consistente con la Estrategia de País del Grupo BID con El Salvador
+45   ATN/OC-21066-RG (para apoyo al cliente - US$310.568).
+46   Al mes de julio 2024 se desembolsaron US$50 millones.
+47   EEO#13(17).
+                                                    - 14 -
+
+
+
+          2021-2024 (GN-3046-1), a través del objetivo estratégico de aumentar el
+          financiamiento para acceso a la vivienda en los segmentos vulnerables.
+          Finalmente, el programa se encuentra incluido en la Actualización del Anexo III del
+          Informe sobre el Programa de Operaciones 2024 (GN-3207-3).
+
+1.34      Igualdad de género e inclusión de grupos diversos. El programa es consistente
+          con el Marco Sectorial de Género y Diversidad (GN-2800-13), estableciendo una
+          meta específica de créditos para mujeres, y escalando con respecto a programas
+          anteriores. En el frente de diversidad, se trabajará a manera de piloto con una
+          designación de créditos para PcD, al tiempo que se fortalecen las capacidades
+          institucionales del FSV para orientar un trabajo que permita una mejor integración
+          de las PcD en el mercado hipotecario48.
+
+1.35      Alineación con AP. Esta operación ha sido analizada utilizando el Marco
+          Conjunto de los BMD para el Análisis de Alineación con París y el Enfoque de
+          Implementación para la Alineación con el Acuerdo de París del Grupo BID (PAIA,
+          GN-3142-1) y se ha determinado: (i) alineada a la meta de adaptación del AP; y
+          (ii) alineada con la meta de mitigación del AP con base en un análisis
+          específico. La alineación se basó en la consideración de los siguientes elementos:
+          (i) al menos 20% de los recursos se destinará a hipotecas para la compra de
+          vivienda con estrategias de sostenibilidad equivalentes a EDGE estándar nivel
+          1; y (ii) mediante un plan para el fortalecimiento institucional se apoyará el
+          desarrollo de un “Sello Social y Ambiental para la Vivienda” cuyos elementos y
+          criterios de sostenibilidad serán parte integral de la política de vivienda y
+          capacitarán a desarrolladores y personal del FSV en temas sostenibles.
+
+B.        Objetivos, componentes y costo
+
+1.36      Objetivos. El objetivo general de desarrollo es contribuir a la reducción del déficit
+          habitacional mediante la provisión de créditos hipotecarios para la adquisición de
+          vivienda de interés social. Los objetivos específicos de desarrollo del programa
+          son: (i) aumentar el acceso a crédito hipotecario para la adquisición de vivienda
+          atendiendo a poblaciones subatendidas; y (ii) promover la adopción de vivienda
+          sostenible.
+
+1.37      Componente único – Acceso a crédito hipotecario de interés social para
+          reducir el déficit cuantitativo de vivienda a poblaciones subatendidas
+          (US$50 millones). El programa se estructura en torno a un Componente único
+          por US$50 millones, cuyos recursos se otorgarán al FSV, para que a su vez
+          otorgue subpréstamos a hogares para el financiamiento de adquisición de
+          vivienda de interés social. El uso de los recursos del préstamo deberá cumplir con
+          las siguientes condiciones: (i) un mínimo del 50% de los recursos se asignarán a
+          créditos para mujeres (¶1.40); (ii) un 30% de los recursos se asignarán a
+          poblaciones vulnerables49; y (iii) al menos el 20% de los recursos para viviendas
+          que cumplan con criterios de sostenibilidad, los cuales estarán definidos en el
+          Reglamento Operativo del Programa (ROP50). La operación estará designando
+
+48   El apoyo en estos temas institucionales será brindado con recursos de CT ATN/OC-21066-RG.
+49   Se dará seguimiento a los siguientes segmentos; receptores de remesas; trabajadores informales; personas con
+     ingresos menores a 2 SMMV para contar con más información que permita identificar mejoras en los
+     programas actuales de FSV.
+50   Viviendas que alcancen niveles de ahorro equivalente al estándar EDGE 1 del IFC.
+                                                   - 15 -
+
+
+
+          US$800.000 para financiar vivienda de PcD, a forma de piloto, para iniciar la
+          exploración de necesidades de dicho mercado 51 . Todos los subpréstamos se
+          analizarán bajo la metodología de riesgos de desastres naturales (EEO#11).
+
+1.38      Beneficiarios elegibles. Serán beneficiarios elegibles para obtener un crédito
+          hipotecario para vivienda, los hogares que tengan ingresos de hasta 4 SMMV para
+          adquirir viviendas de hasta US$40.000, cuyos postulantes sean mayores de edad
+          y que puedan demostrar capacidad de pago, según los procesos y metodologías
+          propias del FSV. Bajo este programa se buscará financiar sectores subatendidos:
+          (i) mujeres 52 ; y (ii) personas vulnerables incluyendo PcD 53 , trabajadores
+          informales 54 y familias receptoras de remesas 55 . El programa proporcionará
+          crédito hipotecario con plazos hasta 30 años, para la compra de primer inmueble,
+          de conformidad con lo estipulado en el ROP.
+
+1.39      Monto y límite de financiamiento. Se espera que el programa beneficie a un
+          total de 6.000 personas56. El monto máximo de los subpréstamos a otorgar es de
+          US$40.000 como se establece en el ROP.
+
+1.40      Consideraciones de género y diversidad del programa. La información
+          identificada (¶1.14) ha permitido delimitar una meta de colocación de los créditos
+          para mujeres (50%), aumentando la escala de créditos con respecto a
+          operaciones anteriores, y contribuyendo con la reducción de las brechas de
+          género. El BID ha apoyado al FSV en incorporar una mirada integral de género en
+          todos sus productos (¶1.15), promoviendo que los mismos sean adecuados para
+          las mujeres. En el frente de diversidad, por primera vez se trabajará con el FSV en
+          un piloto de financiamiento para PcD, considerando un mínimo de US$800.000 de
+          financiamiento, y tomando como referencia cifras históricas disponibles de
+          créditos otorgados a PcD (¶1.16). Para acompañar al FSV en extraer aprendizajes
+          de dicho piloto, se trabajará en una asistencia técnica para fortalecer sus
+          capacidades institucionales y orientar un trabajo para una mejor integración de las
+          PcD en el mercado hipotecario57.
+
+C.        Indicadores clave de resultados
+
+1.41      Los indicadores para medir el objetivo general de desarrollo serán: (i) déficit
+          cuantitativo de vivienda en El Salvador; y (ii) porcentaje de desarrolladores que
+          fabrican viviendas que son financiadas a través de hipotecas del FSV, que se
+
+51   Adicionalmente al piloto de financiamiento a PcD, por medio de recursos de CT ATN/OC-21066-RG, se estará
+     apoyando capacidades institucionales del FSV para un mejor entendimiento del contexto de financiamiento
+     de PcD.
+52   Cualquier beneficiaria tomadora de crédito cuyo sexo sea mujer, independientemente de su estado civil,
+     en línea con los hallazgos de la asesoría brindada por ATN/OC-18918-RG.
+53   Se considerará cualquier discapacidad del ámbito físico o cognitivo, por medio de declaración juramentada,
+     constancia médica, legal, u otro documento oficial.
+54   Personas que no tengan cotizaciones al Sistema de Ahorro para Pensiones durante los últimos seis meses o
+     del sector de ingresos variables con ingresos comprobables.
+55   Personas que demuestren recibir recursos del extranjero de conformidad con el programa “Vivienda Cercana”
+     del FSV (EEO#9).
+56   Considerando 2.000 hogares beneficiados y un promedio de tres personas por vivienda (viviendas
+     totales/población total).
+57   El apoyo será brindado con recursos de CT ATN/OC-21066-RG. La orientación integrará un diagnóstico del
+     contexto de PcD en El Salvador, la identificación de brechas que PcD tienen en el sistema financiero, y
+     recomendaciones para un despliegue más adecuado de programas considerados para dicha población.
+                                                     - 16 -
+
+
+
+       encuentran certificados. Los indicadores para medir los objetivos específicos de
+       desarrollo serán: (i) cartera relevante de crédito hipotecario del FSV para
+       beneficiarios objetivo del programa; (ii) porcentaje de recursos del programa
+       destinado a financiar vivienda a mujeres; (iii) cartera relevante de crédito
+       hipotecario del FSV destinada a personas vulnerables; y (iv) cartera relevante de
+       crédito hipotecario del FSV destinada a financiar hipotecas de vivienda sostenible,
+       que alcanzan niveles de ahorro equivalente al estándar EDGE.
+
+1.42   Análisis Económico (AE). La evaluación económica identifica los flujos de
+       beneficios y costos generados por el programa. Los beneficios consisten en:
+       (i) valoración de las familias por vivir en las viviendas estimadas como el valor de
+       la renta imputada neta de los pagos de los préstamos hipotecarios de las viviendas
+       nuevas incluyendo un valor residual al final del período por el activo vivienda;
+       (ii) VA del desarrollo y comercialización de viviendas nuevas; (iii) VA de la
+       intermediación de viviendas usadas; y (iv) ganancias por las mayores rentas
+       imputadas tanto de las viviendas nuevas como usadas con relación a la situación
+       sin proyecto. Una vez deducidos los costos del programa, los flujos son
+       descontados al 12% y se obtienen unos beneficios sociales netos de
+       US$2,24 millones en valor presente y una Tasa Interna de Retorno del 13,3%.
+       Adicionalmente, el análisis de sensibilidad muestra que el programa es robusto a
+       variaciones de parámetros clave (AE).
+
+             II.      ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS
+
+A.     Instrumentos de financiamiento
+
+2.1    El financiamiento del programa asciende a US$50 millones provenientes de un
+       préstamo de inversión, bajo la modalidad de Global de Crédito con recursos de
+       Capital Ordinario (CO) del BID. El período de desembolsos del préstamo será de
+       cinco años.
+
+                                 Cuadro 1. Costos del programa (millones de US$)
+
+                                        Componente                                                BID – CO
+
+        Componente Único - Acceso a crédito hipotecario de interés social para
+                                                                                                       50
+        reducir el déficit cuantitativo de vivienda a poblaciones subatendidas
+
+        Total                                                                                          50
+       Nota: El OE cubrirá los gastos de administración, monitoreo, evaluación y auditoría de la operación.
+
+                            Cuadro 2. Proyección de desembolsos (millones de US$)
+
+                     Fuente                  Año 1            Año 2    Año 3       Año 4        Año 5         Total
+
+         BID (monto máximo por año)            7,5             7,5     10,0         12,5         12,5         50
+
+         %                                     15              15       20           25           25          100
+
+
+2.2    Restricción al ritmo de desembolsos. En virtud del documento AB-2990, el
+       desembolso de los recursos del préstamo estará sujeto a los siguientes límites
+       máximos: (i) hasta un 15% durante los primeros 12 meses; (ii) hasta un
+                                        - 17 -
+
+
+
+      30% durante los primeros 24 meses; y (iii) hasta un 50%, durante los primeros
+      36 meses, todos los cuales serán contados a partir de la fecha de aprobación del
+      préstamo por el Directorio Ejecutivo del Banco. Estos límites pueden resultar no
+      aplicables en la medida en que se hayan cumplido los requisitos establecidos en
+      la política del Banco, siempre y cuando se haya notificado por escrito al
+      prestatario.
+
+B.    Riesgos ambientales y sociales
+
+2.3   De acuerdo con el Marco de Política Ambiental y Social (GN-2965-23) la operación
+      se categoriza como Intermediación Financiera con una clasificación de riesgo
+      ambiental y social de nivel moderado. La clasificación de riesgo de desastre y
+      CC es bajo. Con base en los resultados de la debida diligencia ambiental y social,
+      se determina que la mayoría de los subproyectos a financiar bajo el programa
+      tendrán un riesgo socioambiental bajo. Los impactos ambientales y sociales
+      potenciales asociados al programa se manejarán con la aplicación de un Sistema
+      de Gestión Ambiental y Social (SGAS) del programa, que estará basado en el
+      cumplimiento de la Lista de Exclusión del BID, la ley local y criterios adicionales
+      de exclusión y elegibilidad, así como la aplicación del SGAS de FSV. Dichos
+      requisitos ambientales y sociales del programa constituirán el SGAS del
+      programa, que serán integrados en el ROP (¶3.6 y EER#2).
+
+C.    Riesgos fiduciarios
+
+2.4   Como resultado de la ejecución de operaciones anteriores con el FSV, su
+      experiencia con otros organismos internacionales, junto con la evaluación de la
+      capacidad institucional del FSV se identificó que el riesgo fiduciario es bajo,
+      principalmente porque FSV cuenta con un alto nivel de desarrollo en los sistemas
+      fiduciarios, según se observa en el Anexo III (¶3.2).
+
+D.    Otros riesgos y temas clave
+
+2.5   Riesgos económicos y financieros. Se identificaron dos riesgos
+      medio-altos: (i) la competitividad de los créditos del programa podría verse
+      comprometida debido a la incertidumbre que generan los ciclos económicos,
+      afectando las condiciones financieras de las hipotecas. Este riesgo se mitiga a
+      través del uso de la Facilidad de Financiamiento Flexible del BID que le permite al
+      Prestatario fijar tasas y plazos; (ii) que no exista una oferta suficiente de vivienda
+      social en el mercado o que se aprecie el valor de la vivienda social por encima del
+      límite del programa. Para mitigar esto último se tiene un diálogo continuo con el
+      MIVI, FSV, y en específico a través del proyecto para emitir “notas de
+      precalificación” que promoverá el financiamiento a desarrolladores de vivienda
+      (¶1.28).
+2.6   Sostenibilidad. Este programa continúa con el compromiso estratégico del BID,
+      para dar continuidad a la relación de largo plazo con el FSV, a través de apoyos
+      financieros y no financieros para coadyuvar al desarrollo urbano sostenible. Por
+      otra parte, los fondos provenientes de las recuperaciones de los subpréstamos se
+      utilizarán para otorgar más préstamos en el mismo tipo de actividades permitiendo
+      al FSV financiar más soluciones de vivienda en los casos en los que esto
+      aplique. Adicionalmente, se espera fortalecer la oferta de líneas de crédito de
+                                         - 18 -
+
+
+
+      vivienda social sostenible a través de un “sello de vivienda verde” y asistencia para
+      atender mejor a PcD (¶1.30).
+
+                          III.    PLAN DE IMPLEMENTACIÓN Y GESTIÓN
+
+A.    Resumen de los arreglos de implementación
+
+3.1   Prestatario y Organismo Ejecutor (OE). El Prestatario y OE de esta operación
+      será FSV. El FSV utilizará sus recursos y sistemas administrativos, financieros y
+      contables para el registro y la administración de las operaciones que se otorguen
+      con los recursos del programa de acuerdo con la regulación financiera vigente
+      aplicable para esa entidad y las políticas del Banco. Asimismo, esta operación
+      contará con la garantía soberana de la República de El Salvador sobre las
+      obligaciones financieras del Prestatario.
+
+3.2   Ejecución y administración. El Banco desembolsará los recursos al FSV, quien
+      otorgará subpréstamos a beneficiarios elegibles para el cumplimiento de los
+      objetivos del programa siguiendo las estipulaciones del ROP. El FSV ejecutará el
+      proyecto en el marco de su actual estructura organizativa, administrativa y
+      financiera y será responsabilidad de la Gerencia de Finanzas del FSV la
+      administración y la coordinación del programa con el BID. En este sentido,
+      FSV aplicará esta capacidad en la identificación de los beneficiarios finales, el
+      otorgamiento de créditos, y la auditoría y reportaje del programa al Banco con los
+      más altos estándares de transparencia (¶1.30). El FSV está preparado para la
+      ejecución del programa dado que: (i) ha ejecutado de manera favorable la
+      segunda operación bajo la CCLIP; (ii) de acuerdo con el análisis de capacidad
+      institucional simplificado llevado a cabo en 2024, el FSV cuenta con la capacidad
+      financiera y fiduciaria para fungir como ejecutor; (iii) la entidad constituye el mayor
+      prestamista de créditos hipotecarios de vivienda de interés social en el país (casi
+      el 90% del segmento y el 66% del total de la cartera hipotecaria en el país); y
+      (iv) de acuerdo a los ámbitos de mejora referidos en el análisis de capacidad
+      institucional se continuará fortaleciendo la capacidad del FSV para la gestión de
+      proyectos y calidad técnica en temas de sostenibilidad, impulsando la certificación
+      del personal clave en el programa de vivienda sostenible del BID.
+
+3.3   Mecanismo de coordinación estratégica. La CCLIP ES-O0009, del que este
+      programa forma parte, cuenta con la SCI, como Organismo de Enlace (¶1.1), por
+      lo que FSV se reunirá al menos dos veces al año con la misma para observar el
+      avance de ejecución del programa y asegurar el cumplimiento de los objetivos
+      estratégicos, así como para proponer conjuntamente, de ser necesario, ajustes
+      operativos que permitan un mejor desempeño del programa. FSV enviará a la
+      SCI los informes y documentos periódicos señalados en el ROP, con la finalidad
+      de proveer la información necesaria sobre la situación del programa. FSV y la
+      SCI podrán acordar otro tipo de arreglos adicionales de considerarlos necesarios,
+      los cuales deberán consignarse por escrito en el ROP.
+
+3.4   Se llevará a cabo una coordinación adicional con el MIVI como ente rector del
+      sector vivienda en el país. Se buscará entre otros evaluar el rol del programa
+      dentro de la política del sector, así como en la toma de decisiones estratégicas
+      que puedan guiar o influenciar la política para vivienda de interés social en el país
+                                         - 19 -
+
+
+
+       a nivel nacional o territorial. Para tal fin, FSV se reunirá con el MIVI al menos dos
+       veces al año. Las interacciones con la SCI y el MIVI estarán a cargo de la Gerencia
+       de Finanzas del FSV.
+
+3.5    ROP. El ROP incluirá: (i) el detalle de las responsabilidades en la coordinación y
+       administración del programa; (ii) las características generales de los beneficiarios;
+       (iii) las características específicas de los subpréstamos sujetos a la financiación;
+       (iv) las características de las viviendas sostenibles; (v) aspectos relativos a la
+       evaluación de los riesgos de crédito; (vi) los requerimientos sociales y ambientales
+       así como una lista de exclusión; y (vii) requerimientos de reporte de gobierno
+       corporativo e integridad, entre otros aspectos. Las modificaciones al ROP deberán
+       contar con la no objeción del Banco.
+
+3.6    Condiciones contractuales especiales previas al primer desembolso del
+       financiamiento. El primer desembolso de los recursos del préstamo estará
+       condicionado al cumplimiento, a satisfacción del Banco, por parte del
+       Prestatario, de que se haya aprobado y entrado en vigor el ROP, de
+       conformidad con los términos y condiciones aprobados previamente por el
+       Banco. Esta condición es esencial, ya que el ROP establecerá las directrices,
+       procedimientos y mecanismos de coordinación que guiarán la ejecución.
+
+3.7    Excepciones a las políticas del Banco. La República de El Salvador será el
+       garante de las obligaciones de pago del préstamo, incluidos los intereses y
+       comisiones y el aporte de contrapartida local. Se solicita una excepción parcial a
+       la Política OP-303, “Garantías Requeridas al Prestatario”, en relación con las
+       obligaciones de ejecución del programa. Esta excepción se justifica puesto que el
+       Artículo 11 de la Ley Orgánica de Administración Financiera del Estado
+       (Decreto No. 516/1995) determina que las obligaciones asociadas a la ejecución
+       de préstamos se encuentran fuera del mandato legal de las autoridades de la
+       República de El Salvador. FSV, Prestatario y OE del programa, cuenta con la
+       estructura organizacional, normativa, financiera, tecnológica y humana suficiente
+       para llevar a cabo la ejecución de la operación. Esta excepción es consistente con
+       las excepciones aprobadas en las operaciones bajo la CCLIP (ES-O0009).
+
+3.8    Desembolsos y anticipos. Los recursos del préstamo serán depositados en una
+       cuenta especial de FSV desde la cual, se realizarán los desembolsos
+       correspondientes a los subpréstamos, así como los ingresos por concepto de
+       repago de deuda. En todo caso, el Banco podrá desembolsar los recursos del
+       programa en cualquiera de las modalidades previstas en la Guía de Gestión
+       Financiera para Proyectos Financiados por el BID (GN-2811-1), descrita en el
+       Anexo III. Las solicitudes de desembolso deberán ir acompañadas de la
+       información detallada en el ROP y la verificación se realizará ex post, sujeta a la
+       revisión de los subpréstamos otorgados.
+
+3.9    Los fondos provenientes de las recuperaciones de los subpréstamos concedidos
+       con los recursos del proyecto sólo podrán utilizarse para la concesión de nuevos
+       subpréstamos que se ajusten a las normas establecidas en el contrato de
+       préstamo y el ROP de esta operación.
+
+3.10   Estados financieros auditados. El FSV presentará los estados financieros
+       anuales del proyecto, de acuerdo con los términos de referencia acordados con el
+                                        - 20 -
+
+
+
+       Banco. Los estados financieros se presentarán dentro de los 120 días posteriores
+       al cierre del ejercicio fiscal. Los estados financieros finales del proyecto se
+       presentarán dentro del plazo de 120 días posteriores a la fecha de último
+       desembolso.
+
+3.11   La auditoría del proyecto será efectuada por una firma auditora independiente
+       elegible para el Banco, bajo los procedimientos establecidos en las guías de
+       auditoría vigentes. La auditoría externa del proyecto será financiad con recursos
+       propios del FSV. En este sentido, la institución deberá asegurar que los fondos
+       correspondientes a los servicios de auditoría se encuentren disponibles
+       anualmente y hasta la fecha de cierre del proyecto.
+
+3.12   Adquisiciones y contrataciones. Por tratarse de un programa que operará por
+       demanda con un único componente sólo para financiar subpréstamos, no habrá
+       necesidad de proceder con adquisiciones de obras, bienes, servicios o consultoría
+       como parte de su ejecución. La propuesta, por tanto, no incluye un Plan de
+       Ejecución o Plan de Adquisiciones.
+
+B.     Resumen de los arreglos para el monitoreo de resultados
+
+3.13   Monitoreo. El seguimiento de la ejecución del proyecto se realizará a través de
+       informes semestrales de progreso presentados dentro de los 60 días siguientes a
+       la finalización de cada semestre. Los informes tomarán como referencia los
+       compromisos de la Matriz de Resultados (Anexo II) y los informes de avance
+       financiero indicados en las Normas Generales del Contrato de Préstamo. Los
+       informes semestrales de progreso deberán incluir la actualización y seguimiento
+       de la información del proyecto, así como los recursos que destinará para tal fin,
+       de conformidad con lo indicado en el Plan de Monitoreo y Evaluación (PME). El
+       FSV será responsable de la recolección y verificación de la información.
+
+3.14   Evaluación de impacto. La evaluación de los resultados del proyecto se
+       efectuará mediante un análisis costo beneficio ex post de los flujos de egresos e
+       ingresos derivados de la intervención (PME) y el correspondiente análisis de la
+       evolución de la cartera relevante para esta intervención. La preparación de la
+       evaluación se iniciará seis meses antes de la fecha prevista del cierre de la
+       operación y se entregará en los doce meses siguientes o de conformidad a las
+       políticas del Banco para ese momento. Se han incluido dentro del presupuesto
+       administrativo de la operación los fondos necesarios para la realización de la
+       evaluación del programa.
+
+                         IV.      CRITERIOS DE ELEGIBILIDAD
+
+4.1    Criterios de elegibilidad generales. Este cuarto programa bajo la
+       CCLIP (ES-O0009) de MM-II cumple con los criterios de elegibilidad establecidos
+       en la Política GN-2246-13 y sus guías operativas GN-2246-15, puesto que:
+
+       a. El objetivo multisectorial de la CCLIP de promover la actividad productiva y el
+          bienestar social en El Salvador mediante el acceso al crédito en los sectores
+          empresarial y de vivienda, continúa figurando dentro de las prioridades
+          definidas en la Estrategia de País del Grupo BID con El Salvador
+          2021-2024 (GN-3046-1). Este proyecto está contribuyendo a través del área
+                                                   - 21 -
+
+
+
+               prioritaria de “reducción de la vulnerabilidad social”, al aumentar el acceso al
+               financiamiento para de vivienda en segmentos subatendidos atendiendo los
+               temas transversales de adaptación y mitigación al CC y empoderamiento de
+               la mujer.
+
+          b. Las operaciones anteriores bajo esta CCLIP estarían alcanzando los hitos
+             previstos, reflejando un avance suficiente en la ejecución en base a sus
+             objetivos específicos (EEO#2). Esta operación se diseña sobre los logros
+             obtenidos en dichas operaciones precedentes (¶1.1).
+
+          c. Durante 2024 se realizó un análisis de capacidad institucional del FSV con
+             resultados de clasificación alta para realizar las actividades de gestión
+             financiera y administración de los recursos del programa, bajos niveles de
+             riesgo fiduciario y un nivel satisfactorio de logro de objetivos de desarrollo.
+
+          d. La presente propuesta incluye acciones específicas para mejorar las
+             capacidades del FSV, en línea con las recomendaciones del análisis de
+             capacidad institucional (¶3.2).
+
+          e. La SCI es el organismo de enlace de la CCLIP según designación del
+             Gobierno de El Salvador (EEO#10). La SCI tiene la autoridad para realizar
+             actividades de coordinación y seguimiento de los programas a ser financiados
+             bajo la CCLIP por las facultades definidas en el Capítulo X del Decreto 1 del
+             2 de junio de 201958. La SCI observará el flujo de operaciones en cada sector
+             y formulará propuestas de ajustes para lograr el objetivo de la CCLIP, de
+             considerarse necesario (¶3.3).
+
+4.2       Criterios de elegibilidad específicos de la cuarta operación bajo la
+          CCLIP. Esta cuarta operación individual bajo la CCLIP para el Acceso al Crédito
+          Empresarial y de Vivienda (ES-O0009) de la MM-II cumple con los criterios
+          específicos para las operaciones subsiguientes establecidos en la Política
+          GN-2246-13 y sus guías operativas GN-2246-15, puesto que:
+
+          a. Se hizo un análisis de la capacidad institucional del FSV, y se identificó que
+             cuenta con alta capacidad de ejecución, así como esferas de mejora (¶3.2) y
+             no se identificaron posibles riesgos de naturaleza fiduciaria (¶2.4);
+
+          b. El primer programa bajo la CCLIP fue ejecutado por BANDESAL para apoyar
+             las MiPyME (5083/OC-ES) y tuvo su último desembolso en 2023. Durante toda
+             la vida del programa, la operación alcanzó una calificación satisfactoria y se
+             espera que el Informe de Terminación del Programa sea concluido este año.
+
+          c. La segunda operación (5352/OC-ES), ejecutada por FSV ha alcanzado una
+             calificación satisfactoria en todas las evaluaciones, demostrando una
+             ejecución satisfactoria y alta probabilidad que se alcancen sus objetivos de
+             desarrollo.
+
+          d. La tercera operación (5733/OC-ES), ejecutada por BANDESAL, ha
+             beneficiado a 829 MiPyME, presenta una calificación satisfactoria hasta finales
+
+58   Publicado en el Diario Oficial No. 101, Tomo No. 423.
+                                  - 22 -
+
+
+
+     de 2023 demostrando una alta probabilidad de alcanzar sus objetivos de
+     desarrollo.
+
+e. FSV está preparado para la ejecución del cuarto programa bajo la
+   CCLIP ES-O0009, como se ha indicado anteriormente (¶3.2).
+
+f.   El objetivo de esta operación contribuye al logro de los objetivos
+     multisectoriales de la CCLIP, al promover el bienestar social mediante el
+     acceso a crédito en el sector de la vivienda (¶1.1); y está contemplada en el
+     sector de la vivienda, de acuerdo con lo establecido en la CCLIP (¶1.1).
+                                                                                                                                                                                     Anexo I - ES-L1165
+                                                                                                                                                                                          Página 1 de 1
+
+
+
+
+                                                                       Matriz de Efectividad en el Desarrollo
+
+                                                                                Resumen             ES-L1165
+I. Prioridades corporativas y del país
+1. Alineación con la estrategia institucional del Grupo BID
+
+
+
+
+                                                                                             -Igualdad de género e inclusión de grupos poblacionales diversos
+                                                                                             -Capacidad institucional, estado de derecho, seguridad ciudadana
+Áreas de enfoque operativo
+                                                                                             -Infraestructura sostenible, resiliente e inclusiva
+
+
+
+
+[Marcador de espacio: Indicadores del marco de impacto]
+
+2. Objetivos de desarrollo del país
+
+
+
+                                                                                                                     Aumentar el financiamiento para acceso a la vivienda en los
+   Matriz de resultados de la estrategia de país                                                    GN-3046-1
+                                                                                                                     segmentos vulnerables
+
+
+
+
+                                                                                                                     La intervención está incluida en el Programa de Operaciones
+   Matriz de resultados del programa de país                                                        GN-3207-3
+                                                                                                                     de 2024.
+
+
+
+   Relevancia del proyecto a los retos de desarrollo del país (si no se encuadra
+dentro de la estrategia de país o el programa de país)
+
+II. Development Outcomes - Evaluability                                                                                         Evaluable
+3. Evaluación basada en pruebas y solución                                                                                            8.1
+     3.1 Diagnóstico del Programa                                                                                                     2.5
+     3.2 Intervenciones o Soluciones Propuestas                                                                                       1.6
+     3.3 Calidad de la Matriz de Resultados                                                                                           4.0
+4. Análisis económico ex ante                                                                                                         7.5
+     4.1 El programa tiene una TIR/VPN, o resultados clave identificados para ACE                                                     1.5
+     4.2 Beneficios Identificados y Cuantificados                                                                                     3.0
+     4.3 Supuestos Razonables                                                                                                         0.0
+     4.4 Análisis de Sensibilidad                                                                                                     2.0
+     4.5 Consistencia con la matriz de resultados                                                                                     1.0
+5. Evaluación y seguimiento                                                                                                           8.3
+     5.1 Mecanismos de Monitoreo                                                                                                      4.0
+     5.2 Plan de Evaluación                                                                                                           4.3
+III. Matriz de seguimiento de riesgos y mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                                 Bajo
+Clasificación de los riesgos ambientales y sociales                                                                                   FI
+IV. Función del BID - Adicionalidad
+El proyecto se basa en el uso de los sistemas nacionales
+
+                                                                                                                     Presupuesto, Tesorería, Contabilidad y emisión de informes,
+                                                                                                                     Controles externos, Auditoría interna.
+                                                        Fiduciarios (criterios de VPC/FMP)              Si
+                                                                                                                     Adquisiciones y contrataciones: Sistema de información,
+                                                                                                                     Método de comparación de precios.
+
+
+
+                                                                           No-Fiduciarios
+
+
+
+La participación del BID promueve mejoras adicionales en los presuntos beneficiarios
+o la entidad del sector público en las siguientes dimensiones:
+
+
+   Antes de la aprobación se brindó a la entidad del sector público asistencia técnica
+adicional (por encima de la preparación de proyecto) para aumentar las                                  Sí           ATN/OC-18918-RG, ATN/OC-19731-ES, ATN/MC-16262-RG
+probabilidades de éxito del proyecto
+
+
+
+
+El Programa de Financiamiento de la Vivienda Social, Inclusiva, y Sostenible (ES-L1165) es la cuarta operación bajo la CCLIP de Acceso al Crédito Empresarial y de Vivienda,
+y tiene como objetivo general de desarrollo el contribuir a la reducción del déficit habitacional mediante la provisión de créditos hipotecarios para la adquisición de vivienda
+de interés social. El Programa se propone contribuir a dicho objetivo mediante los objetivos específicos de desarrollo de (i) aumentar el acceso a crédito hipotecario para la
+adquisición de vivienda atendiendo a poblaciones sub atendidas; y (ii) promover la adopción de vivienda sostenible. El diagnóstico de la operación presenta el déficit
+cuantitativo de vivienda como problema general, particularmente pronunciado en segmentos de menores recursos. El diagnóstico identifica como causas de este problema el
+rápido crecimiento poblacional urbano, la informalidad, la limitada capacidad adquisitiva, y la falta de esquemas hipotecarios para atender a poblaciones de bajos recursos,
+así como la escasa oferta de vivienda social adecuada. Ante ello, el programa propone créditos para la adquisición de vivienda de interés social y sostenible a hogares que
+tengan ingresos de hasta 4 salarios mínimos, buscando financiar a otros sectores subatendidos, como las mujeres, trabajadores informales, receptores de remesas, y
+personas en situación de vulnerabilidad incluyendo personas con discapacidades.
+
+Los indicadores de resultados asociados al objetivo específico son SMART y permitirían medir el alcance del mismo. El análisis económico cuantifica beneficios a través del
+valor de alquiler imputado a viviendas nuevas, el valor agregado de la inversión en nuevas viviendas, y el valor agregado de la intermediación de viviendas usadas, y arroja
+una TIR de 13,3%.
+
+El plan de monitoreo y evaluación plantea tres estrategias de evaluación: (i) una evaluación reflexiva que muestre el alcance de los resultados asociados al objetivo
+específico; (ii) un análisis cualitativo que discuta las lecciones aprendidas durante la ejecución del programa; y (iii) un análisis costo beneficio ex post. Estas estrategias de
+evaluación no permiten la atribución empírica de los resultados.
+                                                                                                                                           Anexo II – ES-L1165
+                                                                                                                                                 Página 1 de 4
+
+
+                                                               MATRIZ DE RESULTADOS
+                          Los objetivos específicos de desarrollo para esta operación son: (i) aumentar el acceso a crédito hipotecario para la adquisición
+                          de vivienda atendiendo a poblaciones subatendidas; y (ii) promover la adopción de vivienda sostenible. El logro de este objetivo
+Objetivo del proyecto:
+                          favorecerá al objetivo general de desarrollo de contribuir a la reducción del déficit habitacional mediante la provisión de créditos
+                          hipotecarios para la adquisición de vivienda de interés social.
+
+
+                                                          OBJETIVO GENERAL DE DESARROLLO
+                                    Valor de
+                      Unidad de                  Año Línea Año Esperado
+   Indicadores                      Línea de                                      Meta      Medios de Verificación                 Comentarios
+                       Medida                     de Base  para el Logro
+                                      Base
+Objetivo general de desarrollo: Contribuir a la reducción del déficit habitacional mediante la provisión de créditos hipotecarios para la adquisición de
+vivienda de interés social.
+                                                                                                                   La línea base corresponde al cálculo
+                                                                                                                   del FSV con datos de EHPM 2023.
+                                                                                                                   Corresponde al déficit urbano entre
+                                                                                                                   2-4 SMMV (136.873 viviendas)
+                                                                                         Fondo Social para la
+                                                                                         Vivienda (FSV) con (EEO#5).
+Déficit cuantitativo
+                                                                                         datos de las Encuestas Se espera que el programa aporte a la
+de vivienda en El       Número    136.873         2023          2029           134.873
+                                                                                         de     Hogares        de reducción del déficit cuantitativo
+Salvador.
+                                                                                         Propósitos     Múltiples urbano en un 1,8%.
+                                                                                         (EHPM).
+                                                                                                                   El indicador se calculará con base en
+                                                                                                                   la información de la EHPM disponible
+                                                                                                                   y el Censo de Población y vivienda sin
+                                                                                                                   incluir el regreso de migrantes.
+                                                                                                                   Se espera que el programa a través
+                                                                                                                   de la demanda, fomente, el desarrollo
+Porcentaje        de                                                                                               de vivienda sostenible.
+desarrolladores que                                                                                                Serán        considerados     aquellos
+fabrican viviendas                                                                                                 desarrolladores       que      fabrican
+que son financiadas                                                                      Reporte de FSV con viviendas financiadas por hipotecas
+                            %         0           2023          2029            80%
+a       través    de                                                                     datos del BID.            del FSV que se certificaron en el
+hipotecas del FSV,                                                                                                 programa de capacitación del BID y,
+que se encuentran                                                                                                  sobre el total de desarrolladores que
+certificados.                                                                                                      producen vivienda social y que sus
+                                                                                                                   viviendas se financian a través de
+                                                                                                                   hipotecas del FSV.
+                                                                                                                                          Anexo II – ES-L1165
+                                                                                                                                                Página 2 de 4
+
+                                                        OBJETIVOS ESPECÍFICOS DE DESARROLLO
+                                        Valor         Año         Fin del
+                        Unidad de                                                   Medios de
+      Indicadores                     Línea de      Línea de     Proyecto                                                   Comentarios
+                          Medida                                                   Verificación
+                                        Base          Base         (2029)
+Objetivo específico de desarrollo 1: Aumentar el acceso a crédito hipotecario para la adquisición de vivienda atendiendo a poblaciones subatendidas.
+                                                                                                       Mide el saldo de la cartera del FSV elegibles según
+Cartera relevante de                                                                                   los criterios del programa.
+crédito hipotecario del    US$
+                                        737,0         2023          787,0       Información FSV.
+FSV para beneficiarios   millones                                                                      Esta constituye la cartera relevante del programa. La
+objetivo del programa.                                                                                 meta corresponde a la línea de base más la inyección
+                                                                                                       de cartera del programa, para el año 2029.
+                                                                                                       Indicador pro-género.
+                                                                                                       Mide la participación de los recursos del programa
+                                                                                                       destinados a financiar a mujeres del total del
+Porcentaje de recursos                                                                                 programa.
+del programa destinado
+                              %             0           2023          50         Información FSV.
+a financiar vivienda a                                                                                 Al ser un nuevo programa, la línea base corresponde
+mujeres.                                                                                               al 0%, ya que aún no se han otorgado créditos.
+
+                                                                                                       La meta corresponde a la proyección al término del
+                                                                                                       programa.
+                                                                                                       Mide el saldo de la cartera del FSV destinada a
+                                                                                                       financiar hipotecas de personas vulnerables.
+
+                                                                                                       Este segmento incluye: (i) Personas con
+Cartera relevante de                                                                                   Discapacidad (PcD); (ii) personas que trabajan en la
+crédito hipotecario del     US$                                                                        informalidad; (iii) familias que reciben remesas; (iv)
+                                          220,0         2023         235,0       Información FSV.
+FSV     destinada     a    millones                                                                    personas con ingresos menores a dos salarios
+personas vulnerables.                                                                                  mínimos; y (v) adultos mayores definidos como
+                                                                                                       personas mayores de 60 años.
+
+                                                                                                       La meta corresponde a la línea de base más la
+                                                                                                       inyección de cartera del BID para el año 2029.
+Objetivo específico de desarrollo 2: Promover la adopción de vivienda sostenible.
+                                                                                                       Mide el saldo de la cartera del FSV destinada a
+Cartera relevante de
+                                                                                                       proyectos de vivienda sostenible.
+crédito hipotecario del
+FSV      destinada     a    US$
+                                            0           2023         10,0        Información FSV.      La línea base es 0 debido a que el FSV nunca ha
+financiar hipotecas de     millones
+                                                                                                       tenido un programa para financiar proyectos
+vivienda sostenible, que
+                                                                                                       sostenibles.
+alcanzan niveles de
+                                                                                                                      Anexo II – ES-L1165
+                                                                                                                            Página 3 de 4
+
+                                      Valor      Año       Fin del
+                        Unidad de                                     Medios de
+    Indicadores                     Línea de   Línea de   Proyecto                                     Comentarios
+                         Medida                                      Verificación
+                                      Base       Base      (2029)
+ahorro equivalente al                                                               Vivienda sostenible se refiere a la vivienda que
+estándar EDGE 1.                                                                    cumple con las características de sostenibilidad que
+                                                                                    se definirán en el presente programa y durante el
+                                                                                    taller de arranque.
+                                                                                    En términos generales las características estarán
+                                                                                    alineadas a eficiencia energética, diseño de la
+                                                                                    vivienda y ahorro y uso eficiente del agua.
+
+                                                                                    Se utilizará la herramienta EDGE del IFC para validar
+                                                                                    que las viviendas alcancen niveles de ahorro de al
+                                                                                    menos       20%      en    energía,   agua y energía
+                                                                                    incorporada en los materiales. Esto será equivalente
+                                                                                    al estándar EDGE 1.
+
+                                                                                    La meta corresponde a la línea de base más la
+                                                                                    inyección de cartera del BID para el año 2029.
+                                                                                                                                          Anexo II – ES-L1165
+                                                                                                                                                Página 4 de 4
+
+                                                                        PRODUCTOS
+                 Unidad       Valor       Año
+                                                     Año Año Año Año Año                        Fin del      Medios de
+  Indicadores      de       Línea de Línea de                                                                                         Comentarios
+                                                       1      2        3       4        5     Proyecto Verificación
+                 Medida       Base        Base
+Componente único: Acceso a crédito hipotecario de interés social para reducir el déficit cuantitativo de vivienda a poblaciones subatendidas (US$50 millones).
+                                                                                                                         Número de viviendas que fueron
+Número        de                                                                                                         adquiridas con el financiamiento del
+créditos                                                                                                                 programa. Este indicador constituye
+                                                                                               2000       Información
+hipotecarios         Unidades       0         2023      300    300     400    500     500                                la metafísica del componente.
+                                                                                                              FSV.
+entregados por el
+programa.                                                                                                                La meta es la proyección al final del
+                                                                                                                         programa.
+                                                                                                                         Monto de créditos hipotecarios
+Recursos       del                                                                                                       financiados por el programa. Este
+programa                                                                                                                 indicador    constituye  la    meta
+                      US$                                                                        50       Información
+destinados para                     0         2023      7,5     7,5    10     12,5    12,5                               financiera del componente.
+                     millones                                                                                 FSV.
+financiar créditos
+hipotecários.                                                                                                            La meta es la proyección al final del
+                                                                                                                         programa.
+Desglose de los recursos del programa destinados a poblaciones objetivo claves.
+                                                                                                                         Asignación anual de los fondos para
+Recursos                                                                                                                 financiar hipotecas a mujeres.
+                      US$                                                                                 Información
+otorgados     para                  0         2023      3,5     3,5    5,0     6,5    6,5       25,0
+                     millones                                                                                 FSV.
+financiar mujeres.                                                                                                       El valor de fin de proyecto es el
+                                                                                                                         acumulado de los años de ejecución.
+                                                                                                                         Asignación anual de los fondos para
+                                                                                                                         financiar hipotecas sostenibles que
+Recursos
+                                                                                                                         cumplen con los requisitos de este
+otorgados    para
+                      US$                                                                                 Información    programa. Los requisitos finales se
+financiar                           0         2023      1,0     1,0    2,0     3,0    3,0       10,0
+                     millones                                                                                 FSV.       definirán en el taller de arranque.
+viviendas
+sostenibles.
+                                                                                                                         El valor de fin de proyecto es el
+                                                                                                                         acumulado de los años de ejecución.
+                                                                                                                         Asignación anual de los fondos para
+Recursos                                                                                                                 financiar crédito hipotecario para
+otorgados     para    US$                                                                                 Información    PcD.
+                                    0         2023      0,16   0,16    0,16   0,16    0,16      0,80
+financiar vivienda   millones                                                                                 FSV.
+de PcD.                                                                                                                  El valor de fin de proyecto es el
+                                                                                                                         acumulado de los años de ejecución.
+                                                                                                    Anexo III - ES-L1165
+                                                                                                          Página 1 de 3
+
+
+
+    PAÍS: El Salvador          DIVISIÓN: IFD/CMF                NO. DE OPERACIÓN: ES-L1165                   AÑO: 2024
+
+                                        ACUERDOS Y REQUISITOS FIDUCIARIOS
+
+
+Organismo Ejecutor (OE): Fondo Social para la Vivienda (FSV)
+Nombre de la Operación: Programa de Financiamiento para Vivienda Social, Inclusiva y Sostenible
+                                I. Contexto Fiduciario del Organismo Ejecutor
+1. Uso de sistema de país en la operación 1
+
+       Presupuesto          Reportes                Sistema Informativo             Licitación Pública Nacional
+                                                                                 (LPN)
+
+       Tesorería            Auditoría              Comparación de                    Otros
+                        Interna                 Precios
+
+       Contabilidad        Control                 Consultores
+                        Externo                 Individuales
+
+
+2. Mecanismo de ejecución fiduciaria
+
+         Particularidades de la             El Prestatario y OE de esta operación será el FSV. FSV utilizará
+         Ejecución Fiduciaria               sus recursos y sistemas administrativos, financieros y contables
+                                            para el registro y la administración de las operaciones que se
+                                            administren con los recursos del programa de acuerdo con la
+                                            regulación financiera vigente aplicable para esa entidad y en
+                                            consistencia con la Guía de Gestión Financiera para Proyectos
+                                            Financiados por el BID (OP-273-12). El FSV utilizará los recursos
+                                            del préstamo para otorgar subpréstamos a beneficiarios
+                                            elegibles de conformidad con el Reglamento Operativo del
+                                            Programa (ROP). No se prevén adquisiciones por parte del OE.
+
+
+3. Capacidad fiduciaria
+
+    Capacidad          La evaluación de la capacidad institucional del OE determinó un nivel alto para el
+    Fiduciaria del     FSV. El OE ejecuta actualmente el Programa de Financiamiento de la Vivienda
+    OE                 Social (5352/OC-ES), cuyos resultados han sido satisfactorios. De igual forma, la
+                       ejecución financiera y la gestión de los procesos fiduciarios del programa han
+                       tenido un desempeño sólido. Cabe mencionar que anteriormente el FSV también
+                       ejecutó las siguientes operaciones financiadas por el Banco: 1379/OC-ES (2001) y
+                       2373/OC-ES (2010).
+
+
+4. Políticas y Guías aplicables a la operación: Aplica el numeral 3.13 “Contrataciones en Préstamos
+   a Intermediarios Financieros”, de la GN-2349-15 Políticas para la Adquisición de Bienes y Obras
+   Financiados por el BID, el cual se establece que en este tipo de préstamos las contrataciones que
+   se realicen por los beneficiarios aplican las prácticas corrientes del sector privado o
+   comerciales. Asimismo, por ser un programa por demanda con un único componente para
+   financiar subpréstamos, no proceden adquisiciones de obras, bienes, servicios o consultoría en su
+
+1   Cualquier sistema o subsistema que sea aprobado con posterioridad podría ser aplicable a la operación, de acuerdo con
+    los términos de la validación del Banco.
+                                                                                       Anexo III - ES-L1165
+                                                                                             Página 2 de 3
+
+
+
+   ejecución. La propuesta, por tanto, no incluye un Plan de Adquisiciones. En lo referente a Gestión
+   Financiera, aplica la Guía de Gestión Financiera para Proyectos Financiados por el
+   BID (OP˗273˗12); el Instructivo de Informes Financieros y Gestión de Auditoría Externa; y el
+   Instructivo de Desembolsos.
+5. Excepciones a Políticas y Guías: Ninguna.
+ II. Aspectos a Ser Considerados en las Estipulaciones Especiales del Contrato de Préstamo
+
+ Tasa de cambio: Para efectos de lo estipulado en el Artículo 4.10 de las Normas Generales, las
+ Partes acuerdan que la tasa de cambio aplicable será la indicada en el inciso (b)(ii) de dicho
+ Artículo. Para dichos efectos, la tasa de cambio acordada será la tasa de cambio en la fecha efectiva
+ en que el Prestatario, el OE o cualquier otra persona natural o jurídica a quien se le haya delegado
+ la facultad de efectuar gastos, efectúe los pagos respectivos en favor del contratista, proveedor o
+ beneficiario.
+ Tipo de auditoría: Durante la ejecución del programa, se presentarán anualmente Estados
+ Financieros Auditados (EFA) a más tardar 120 días del después del cierre de cada periodo fiscal. La
+ auditoría externa del programa será realizada por una firma externa aceptable para el Banco. Los
+ EFA finales del programa serán presentados a más tardar 120 días después de la fecha del último
+ desembolso.
+
+
+                 III. Acuerdos y Requisitos para la Ejecución de Adquisiciones
+
+     Proyectos con        Tratándose de un préstamo para programas globales de crédito y otras
+     Intermediarios       operaciones en las cuales se proporcione recursos a intermediarios
+     Financieros          financieros para el otorgamiento de subpréstamos u otra modalidad de
+                          sub-financiamiento, se indicará que, en los acuerdos entre el OE, sus
+                          intermediarios financieros, y sus beneficiarios finales, se deberán incluir las
+                          debidas cláusulas de prácticas prohibidas del Banco. Alternativamente, de
+                          no ser posible o practicable dadas las circunstancias del proyecto, la
+                          efectiva inclusión de dichas cláusulas en los citados contratos, el equipo
+                          de proyecto podrá analizar otros mecanismos para adoptar controles
+                          aceptables y vincular debidamente a los Procedimientos de Sanciones los
+                          terceros que corresponda vincular. El diseño de dichos mecanismos será
+                          coordinado con OII, y contará con el apoyo de LEG y serán contemplados
+                          en el ROP.
+
+
+                      IV. Acuerdos y Requisitos para la Gestión Financiera
+     Programación y       El presupuesto del FSV es aprobado por la Asamblea de Gobernadores
+     Presupuesto          del FSV, y posteriormente, a través del Ministerio de Hacienda y Ministerio
+                          de Vivienda, es ratificado por un Decreto Ejecutivo.
+                          La normativa interna "Código 480: Procedimientos de Presupuesto" regula
+                          y establece los lineamientos para la formulación, aprobación y gestión del
+                          presupuesto del FSV. Cabe destacar que, en materia de presupuesto, la
+                          Ley del Fondo Social para la Vivienda tiene precedencia legal sobre la Ley
+                          Orgánica del Presupuesto.
+     Tesorería y          El área de Tesorería del FSV está regulada por la normativa interna
+     Gestión de           "Código 475: Procedimientos de Tesorería y Custodia". El FSV utilizará el
+     Desembolsos          Módulo de Préstamos de su sistema informático ABANKS para gestionar
+                          el procesamiento y los desembolsos a los beneficiarios finales de los
+                          subpréstamos otorgados en el marco del programa. Por otro lado, el FSV
+                                                                               Anexo III - ES-L1165
+                                                                                     Página 3 de 3
+
+
+
+
+                    mantendrá una cuenta especial para el manejo exclusivo de los recursos
+                    del programa, desde donde se realizarán los desembolsos
+                    correspondientes a los subprestatarios.
+                    El BID podrá desembolsar los recursos del programa a través de las
+                    modalidades de reembolso y/o anticipo de fondos, en conformidad con la
+                    OP-273-12. Todas las solicitudes de desembolso deberán incluir la
+                    información requerida en el ROP. En caso de solicitar anticipos de fondos,
+                    el valor de cada anticipo se determinará con base en las necesidades de
+                    liquidez del programa por un período de hasta 180 días. Para solicitar
+                    cualquier anticipo, con excepción del primero, la Unidad Ejecutora deberá
+                    rendir cuentas de por lo menos el 80% del total de los recursos previamente
+                    anticipados y aún no justificados.
+Contabilidad,       La contabilidad del FSV está regulada por el "Código 410: Procedimientos
+Sistemas de         de Operatividad Contable", que establece procedimientos y lineamientos
+Información y       para la gestión contable de la institución, conforme a la Ley Orgánica de la
+Generación de       Administración Financiera del Estado, el Manual Técnico del SAFI y el
+Reportes            Instructivo de Administración de Bienes Institucionales.
+                    El registro inicial de la contabilidad se lleva a cabo en el Módulo de
+                    Contabilidad del sistema informático ABANKS. Posteriormente, esta
+                    información se traslada al Sistema de Contabilidad Gubernamental de los
+                    Entes (SICGE).
+Control Interno y   La función de auditoría interna aplicada al proyecto es ejercida por la
+Auditoría Interna   Unidad de Auditoría Interna del FSV, que depende de la Presidencia de la
+                    Institución y de su Dirección Ejecutiva.
+                    El FSV aplica las Normas Técnicas de Auditoría Interna para los
+                    integrantes del sistema financiero, así como las Normas de Auditoría
+                    Interna del Sector Gubernamental (NAIG), emitidas por la Corte de
+                    Cuentas de la República con base en el estándar internacional COSO.
+Control Externo e   El control externo del programa será realizado por una firma de auditores
+Informes            externos independientes aceptable al BID. La firma de auditoría externa
+Financieros         podrá ser la misma firma que audite los Estados Financieros del FSV,
+                    siempre y cuando sea una firma de auditoría elegible para el Banco. Los
+                    términos de referencia deberán contar con la no objeción previa del BID. En
+                    caso de realizarse un proceso competitivo, se deberá seguir lo dispuesto
+                    en el Instructivo de Informes Financieros Auditados y Gestión de Auditoría
+                    Externa del BID.
+Supervisión         El proyecto requiere una supervisión financiera de desembolsos ex post,
+Financiera de la    cuyos insumos provendrán principalmente de los informes financieros
+Operación           auditados. De manera complementaria, el Banco realizará anualmente al
+                    menos una visita de supervisión financiera al OE.
+              DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                             PROYECTO DE RESOLUCIÓN DE-__/24
+
+
+
+           El Salvador. Préstamo ___/OC-ES al Fondo Social para la Vivienda (FSV).
+            Programa de Financiamiento para Vivienda Social, Inclusiva y Sostenible
+                Cuarta Operación Individual bajo la Línea de Crédito Condicional
+                   para Proyectos de Inversión (CCLIP) de Acceso al Crédito
+                             Empresarial y de Vivienda (ES-O0009)
+
+
+        El Directorio Ejecutivo
+
+RESUELVE:
+
+        Autorizar al Presidente del Banco, o al representante que él designe, para que, en nombre
+y representación del Banco, proceda a formalizar el contrato o contratos que sean necesarios
+con el Fondo Social para la Vivienda (FSV), como prestatario, y con la República de El Salvador,
+como garante, para otorgarle al primero un financiamiento destinado a cooperar en la ejecución
+del Programa de Financiamiento para Vivienda Social, Inclusiva y Sostenible, que constituye la
+cuarta operación individual bajo la Línea de Crédito Condicional para Proyectos de Inversión
+(CCLIP) ES-O0009, aprobada mediante Resolución DE-87/20 de fecha 29 de julio de 2020. Dicho
+financiamiento será hasta por la suma de US$50.000.000, que formen parte de los recursos del
+Capital Ordinario del Banco, y se sujetará a los Términos y Condiciones Financieras y a las
+Condiciones Contractuales Especiales del Resumen del Proyecto de la Propuesta de Préstamo.
+
+
+
+                              (Aprobada el __ de _________ de 2024)
+
+
+
+LEG/SGO/CID/EZIDB0000366-275433124-9456
+ES-L1165
+

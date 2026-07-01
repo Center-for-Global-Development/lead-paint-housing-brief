@@ -1,0 +1,2153 @@
+                                                                                           PÚBLICO
+                                                                            DIVULGACIÓN SIMULTÁNEA
+
+
+
+
+                  DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                                BRASIL
+
+
+
+
+          PROGRAMA ESTATAL DE VIVIENDA – ESTADO DE PARANÁ –
+                       PROYECTO VIDA NOVA
+
+                                              (BR-L1588)
+
+
+
+        SEGUNDA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA DE CRÉDITO
+          CONDICIONAL PARA PROYECTOS DE INVERSIÓN (CCLIP) -
+                             PROMORAR
+
+                                             (BR-O0014)
+
+
+
+                                    PROPUESTA DE PRÉSTAMO
+
+
+
+
+Este documento fue preparado por el equipo de proyecto integrado por: Jorge Silva Herreros, Jefe
+de Equipo; Dalve Soria y Diego Arcia (CSD/HUD) Jefes de Equipo Alternos; Verónica Adler, Sofía
+del Castillo, Gabriel Torres, Dianela Ávila y Silvia Pérez (CSD/HUD); Bruno Camarano (CSC/CBR);
+Lidia Rebouças, Álvaro Fresno, Adriana Zambrano y Luciana Vanzan (VPS/ESG); Guillermo
+Eschoyez y Carolina Verissimo da Silva (LEG/SGO); Ana Azevedo, Angela Radis, Juan Carlos
+Lazo, Fabia de Assis y David Salazar (VPC/FMP); Jorge Franco (SPD/SDV); Laisa Rachter
+(SCL/GDI); Alexandra Alvear (INE/INE); Katia Queiroz y Ana Champloni (CSD/CCS).
+
+De conformidad con la Política de Acceso a Información el presente documento se divulga al público de forma
+simultánea a su distribución al Directorio Ejecutivo del Banco. El presente documento no ha sido aprobado
+por el Directorio. Si el Directorio lo aprueba con modificaciones, se pondrá a disposición del público una
+versión revisada que sustituirá y reemplazará la versión original.
+                                                         ÍNDICE
+
+
+
+RESUMEN DEL PROYECTO ................................................................................................. 1
+
+
+I.     DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS ................................... 3
+
+       A.      Antecedentes, problemática y justificación.................................................... 3
+       B.      Objetivos, componentes y costo ................................................................. 12
+       C.      Indicadores clave de resultados.................................................................. 15
+
+II.    ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS .................................... 16
+
+       A.       Instrumentos de financiamiento .................................................................. 16
+       B.       Riesgos ambientales y sociales .................................................................. 17
+       C.       Riesgos fiduciarios...................................................................................... 19
+       D.       Otros riesgos y temas clave ........................................................................ 19
+
+III.   PLAN DE IMPLEMENTACIÓN Y GESTIÓN.................................................................... 20
+
+       A.      Resumen de los arreglos de implementación ............................................. 20
+       B.      Resumen de los arreglos para el monitoreo de resultados ......................... 22
+
+IV.    CRITERIOS DE ELEGIBILIDAD .................................................................................. 23
+                                             - ii -
+
+
+
+                                         ANEXOS
+Anexo I     Matriz de Efectividad en el Desarrollo (DEM) - Resumen
+
+Anexo II    Matriz de Resultados
+
+Anexo III   Acuerdos y Requisitos Fiduciarios
+
+
+                     ENLACES ELECTRÓNICOS REQUERIDOS (EER)
+EER#1       Plan de Ejecución Plurianual (PEP) / Plan Operativo Anual (POA)
+
+EER#2       Plan de Monitoreo y Evaluación
+
+EER#3       Resumen de la Revisión Ambiental y Social
+
+EER#4       Plan de Adquisiciones
+
+
+                     ENLACES ELECTRÓNICOS OPCIONALES (EEO)
+EEO#1       Análisis Económico del Proyecto
+
+EEO#2       Análisis de la Situación Financiera, Fiscal y de Endeudamiento del Estado de Paraná
+
+EEO#3       Lógica Vertical
+
+EEO#4       Género y Diversidad
+
+EEO#5       Cambio Climático y Sostenibilidad
+
+EEO#6       Reglamento Operativo del Programa
+
+EEO#7       Referencias Bibliográficas
+
+EEO#8       Programa Casa Fácil Paraná
+
+EEO#9       Filtro Ambiental y Social
+                                         - iii -
+
+
+
+                                    ABREVIATURAS
+AASE      Análisis Ambiental y Social Estratégico
+
+AVAD      Años de Vida Ajustados por Discapacidad
+
+BID       Banco Interamericano de Desarrollo
+
+BIM       Modelado de Información de Construcción (por sus siglas en inglés)
+
+BPC       Prestación Continuada en Efectivo
+
+CAPAG     Capacidade de Pagamento
+
+CC        Cambio Climático
+
+COHAPAR   Companhia de Habitação do Paraná
+
+EDGE      Excellence in Design for Greater Efficiencies
+
+EFA       Estados Financieros Auditados
+
+EIAS      Estudio de Impacto Social y Ambiental
+
+EP        Estado de Paraná
+
+ESAP      Plan de Acción Ambiental y Social
+
+ESRS      Resumen de la Revisión Ambiental y Social (por sus siglas en inglés)
+
+FECOP     Fundo Estadual de Combate à Pobreza
+
+FGTS      Fundo de Garantia do Tempo de Serviço
+
+FPIC      Consentimiento Previo, Libre e Informado
+
+GEI       Gases de Efecto Invernadero
+
+GOM       Global de Obras Múltiples
+
+IBGE      Instituto Brasileiro de Geografia e Estatística
+
+IDH       Índice de Desarrollo Humano
+
+MAEG      Marco de Acción de Empleo con Perspectiva de Género
+
+MdR       Matriz de Resultados
+
+MGAS      Marco de Gestión Ambiental y Social
+
+MPAS      Marco de Política Ambiental y Social
+
+MQR       Mecanismo de Quejas y Reclamos
+
+MR        Marco de Reasentamiento
+
+MtCO2e    Mega toneladas de Dióxido de Carbono equivalente
+                                        - iv -
+
+
+                                     ABREVIATURAS
+NDC        Contribución Determinada a nivel Nacional (por sus siglas en inglés)
+
+OE         Organismo Ejecutor
+
+PA         Plan de Adquisiciones
+
+PACI       Plataforma de Análisis de la Capacidad Institucional
+
+PAH        Plan de Atendimiento Habitacional
+
+           Enfoque de implementación para la Alineación con el Acuerdo de París:
+PAIA
+           principios, metodología y orientaciones técnicas del Grupo BID
+
+PBF        Bolsa Familia
+
+PcD        Personas con Discapacidad
+
+PCR        Informe de Terminación del Programa
+
+PEH        Programa Estadual de Habitação
+
+PEHIS      Plan Estatal de Vivienda de Interés Social de Paraná
+
+PGAS       Plan de Gestión Ambiental y Social
+
+PIB        Producto Interno Bruto
+
+POA        Planes Operativos Anuales
+
+PPPI       Plan de Participación de las Partes Interesadas
+
+PRI        Plan de Reasentamiento Involuntario
+
+PVN        Programa Vida Nova
+
+ROP        Reglamento Operativo del Programa
+
+SGAS       Sistema de Gestión Ambiental y Social
+
+SISPEHIS   Sistema de Informações Sobre Necessidades Habitacionais do Paraná
+
+TIR        Tasa Interna de Retorno
+
+UGP        Unidad Gestora del Programa
+
+VAN        Valor Actual Neto
+
+VE         Viabilidad Económica
+
+VIS        Vivienda de Interés Social
+                                         RESUMEN DEL PROYECTO
+                                                 BRASIL
+                  PROGRAMA ESTATAL DE VIVIENDA – ESTADO DE PARANÁ – PROYECTO VIDA NOVA
+                                               (BR-L1588)
+  SEGUNDA OPERACIÓN INDIVIDUAL BAJO LA LÍNEA DE CRÉDITO CONDICIONAL PARA PROYECTOS DE INVERSIÓN
+                                   (CCLIP) - PROMORAR BRASIL
+                                           (BR-O0014)
+
+                                   Términos y Condiciones Financieras
+
+Prestatario:                                                Facilidad de Financiamiento Flexible (a)
+
+Estado de Paraná                                     Plazo de amortización:            24,5 años
+
+Garante:                                             Período de desembolso:            5 años
+
+República Federativa del Brasil                      Período de gracia:                6 años (b)
+
+Organismo Ejecutor:                                  Tasa de interés:                  Basada en SOFR
+Companhia de Habitação do Paraná - COHAPAR           Comisión de crédito:              (c)
+
+
+                                                     Comisión de inspección y
+         Fuente         Monto (US$)         %                                          (c)
+                                                     vigilancia:
+
+BID (Capital                                         Vida Promedio Ponderada
+                          150.000.000           80                                     15,25 años
+Ordinario):                                          (VPP):
+Local:                      37.500.000          20                                     Dólares de los
+                                                     Moneda de aprobación:             Estados Unidos de
+Total:                    187.500.000         100                                      América
+                                          Esquema del Proyecto
+
+Objetivo/descripción del proyecto. El objetivo general del programa es mejorar la calidad de vida de la
+población socialmente vulnerable que vive en ocupaciones irregulares, asentamientos precarios, o viviendas
+insalubres en el EP promoviendo el acceso a una vivienda digna, condiciones básicas de infraestructura y
+acciones socioambientales. Los objetivos específicos son: (i) incrementar el acceso a soluciones equitativas
+y sostenibles de vivienda y hábitat para población socialmente vulnerable; y (ii) mejorar la atención de
+COHAPAR a través de una gestión pública innovadora e inteligente. Esta operación será la segunda bajo el
+marco de la Línea Condicional de Crédito para Proyectos de Inversión (CCLIP) PROMORAR (BR-O0014),
+aprobada mediante Resolución DE-57/23, por un valor total de US$600.000.000. Contribuirá con el objetivo
+de la CCLIP de promover nuevas estrategias de vivienda y mejoramiento del hábitat en Brasil, apoyando a
+una entidad de gobierno subnacional, como es el EP, en la elaboración e implementación de programas de
+vivienda de interés social. (¶1.28).
+
+Condiciones contractuales especiales previas al primer desembolso del financiamiento. El Prestatario,
+a través del Organismo Ejecutor (OE) deberá presentar al Banco evidencia de: (i) firma y entrada en vigor de
+un convenio entre el prestatario y el organismo ejecutor, para la transferencia de los recursos y la ejecución
+de las actividades del Programa; (ii) la aprobación y entrada en vigor del Reglamento Operativo del Programa
+(ROP), en los términos previamente acordados con el Banco; y (iii) la creación de la Unidad Gestora del
+Programa (UGP) y la designación de sus miembros, de acuerdo con la composición que se menciona en el
+párrafo ¶3.2. Adicionalmente, ver otras condiciones contractuales especiales en el Plan de Acción Ambiental
+y Social (ESAP) y en Anexo B del Resumen de la Revisión Ambiental y Social (ESRS) (¶3.5).
+                                                           -2-
+
+
+  Condiciones contractuales especiales de ejecución. (i) Antes de llevar a cabo actividades en un municipio
+  beneficiario del Programa, el organismo ejecutor deberá presentar evidencia de la firma de un convenio con
+  el municipio respectivo, para establecer las responsabilidades de ambas partes en la ejecución del proyecto
+  de que se trate, incluyendo las obligaciones en materia de mantenimiento de las obras; (ii) antes de la emisión
+  de la primera orden de servicio para las obras del Programa, el Prestatario presentará al Banco evidencia de
+  la contratación de una empresa para apoyar la gestión del Programa; (iii) antes del inicio de la ejecución de
+  cada obra del Programa, el organismo ejecutor deberá presentar evidencia de la contratación de una empresa
+  para la supervisión técnica y socioambiental de la obra respectiva; y (iv) el plazo para el inicio de las obras del
+  programa será de 3 años contados de la fecha de entrada en vigor del contrato de préstamo. Adicionalmente,
+  ver otras condiciones contractuales especiales en el Plan de Acción Ambiental y Social (ESAP) y en Anexo B
+  del Resumen de la Revisión Ambiental y Social (ESRS) (¶3.6).
+
+  Excepciones a las políticas del Banco: Ninguna.
+
+                                                Alineación Estratégica
+  Objetivos(d):                                O1 ☒                         O2 ☒                         O3 ☐
+  Áreas de Enfoque                               EO2-G ☒
+                                      EO1 ☒                    EO3 ☒       EO4 ☐       EO5 ☐        EO6 ☒       EO7 ☐
+  Operativo(e):                                  EO2-D ☒
+
+(a)   Bajo los términos de la Facilidad de Financiamiento Flexible (documento FN-655-1) el Prestatario tiene la opción de
+      solicitar modificaciones en el cronograma de amortización, así como conversiones de moneda, de tasa de interés, de
+      productos básicos y de protección contra catástrofes. En la consideración de dichas solicitudes, el Banco tomará en
+      cuenta aspectos operacionales y de manejo de riesgos.
+(b)   Bajo las opciones de reembolso flexible de la Facilidad de Financiamiento Flexible (FFF), cambios en el periodo de
+      gracia son posibles siempre que la Vida Promedio Ponderada (VPP) Original del préstamo y la última fecha de pago,
+      documentadas en el contrato de préstamo, no sean excedidas.
+(c)   La comisión de crédito y la comisión de inspección y vigilancia serán establecidas periódicamente por el Directorio
+      Ejecutivo como parte de su revisión de los cargos financieros del Banco, de conformidad con las políticas
+      correspondientes.
+(d)   O1 (Reducir la pobreza y desigualdad); O2 (Abordar el cambio climático); y O3 (Impulsar un crecimiento regional
+      sostenible).
+(e)   EO1 (Biodiversidad, capital natural y acción por el clima); EO2-G (Igualdad de género); EO2-D (Inclusión de grupos
+      diversos de la población); EO3 (Capacidad institucional, estado de derecho y seguridad ciudadana); EO4 (Protección
+      social y desarrollo del capital humano); EO5 (Desarrollo productivo e innovación por medio del sector privado); EO6
+      (Infraestructura sostenible, resiliente e inclusiva); EO7 (Integración regional).
+                                                       -3-
+
+
+            I.        DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS
+
+A.        Antecedentes, problemática y justificación
+
+1.1       Antecedentes y justificación general. El Estado de Paraná (EP) está ubicado
+          en el sur de Brasil, con una extensión territorial de 199.298 km² [1] 1, y una
+          población estimada de 11.443.208 habitantes (IBGE, 2022). El EP presenta el
+          5º mayor Producto Interno Bruto (PIB) [2], el 6º mayor PIB per cápita del país [3]
+          y un Índice de Desarrollo Humano (IDH) de 0,792 en 2017, ubicándolo en la
+          5ª posición entre los 26 estados brasileños [4]. Presenta una capacidad de pago
+          (CAPAG) B, y una buena situación fiscal, con indicadores de endeudamiento
+          bajos, y ahorro corriente y liquidez altos 2. A pesar de su buena situación en el
+          escenario nacional, Paraná todavía cuenta con núcleos persistentes de pobreza y
+          vulnerabilidad. De los 399 municipios que lo componen, 36 de ellos tienen una
+          tasa de hogares pobres superior al 40% (IBGE, 2010), muy por encima del
+          18,4% promedio del Estado. En los otros estados de la región sur [5], el 10% de
+          la población vive en municipios por debajo de la media del IDH Municipal de Brasil;
+          en Paraná un 33% de la población.
+
+1.2       Luego de un período de sostenida reducción de la pobreza, la crisis económica
+          que sufrió el país a partir de 2014 causó un aumento significativo de esta. Entre
+          2014 y 2021, la pobreza en Brasil tuvo un aumento de 5 puntos porcentuales, de
+          un 10,7% a un 15,7% [6]. En Paraná, un estudio de Fundación Getulio Vargas
+          Social estima que solo entre 2019 y 2021, la pobreza aumentó en 2,51 puntos
+          porcentuales [7 y 8]. Uno de los factores 3 que han contribuido a este aumento ha
+          sido el deterioro en el acceso a viviendas dignas para la población más vulnerable.
+          Según datos del Plan Estatal de Vivienda de Interés Social de Paraná (PEHIS), el
+          déficit habitacional en Paraná aumentó entre 2015 y 2020 de 485.255 a
+          511.746 viviendas, de las cuales 322.533 corresponden a déficit cuantitativo 4.
+          Este déficit ha crecido de forma desigual, teniendo un mayor impacto en los grupos
+          más desfavorecidos (¶1.15 y 1.16). Al comparar los datos del déficit con la renta
+          de las familias de Paraná que se inscribieron en el catastro en línea para acceder
+          a viviendas propias a través de la Compañía de Vivienda de Paraná (COHAPAR),
+          se observa que el 87% de ellas tiene ingresos de hasta tres salarios mínimos. Un
+          informe del Banco Mundial [9] de 2022 que consideró diferentes medidas de
+          asequibilidad indicó que en Brasil adquirir una vivienda para este grupo de
+          población es “severamente no alcanzable”. Esto significa que la mayoría de las
+          familias que componen el déficit no pueden adquirir una vivienda 5 por sí mismas
+
+1     Ver listado completo de Referencias Bibliográficas en el EEO#7 identificadas por el número incluido entre
+      corchetes [#].
+2     Ver Análisis de la situación financiera, fiscal y de endeudamiento del Estado de Paraná EEO#2.
+3     Si bien la metodología para medir la pobreza en Brasil considera solo la pobreza por ingresos, otras
+      metodologías que miden la pobreza multidimensional consideran el acceso a una vivienda adecuada como
+      una las necesidades básicas estructurales de la sociedad.
+4     El Déficit Cuantitativo es la necesidad de producción de viviendas. Se compone de: (i) Catastro de
+      Pretendientes de COHAPAR y de algunos Municipios, al que se le resta un 30% para evitar la doble
+      contabilización (porque no existe un registro único de postulantes); (ii) los asentamientos informales que
+      están en áreas de preservación y riesgo y necesitan reasentamiento total o parcial; y (iii) de las viviendas
+      colectivas precarias en alquiler (conventillos o cortiços).
+5     Actualmente, el costo estimado de una unidad habitacional de tipología estándar de COHAPAR, es de
+      R$137.106 (US$27,548). Cabe señalar que esta cifra no tiene en cuenta las variaciones de tipología (PCD,
+      familias numerosas, mixtas), así como los posibles descuentos que se obtengan en el proceso de licitación.
+                                                       -4-
+
+
+          ni acceder a financiamiento en el sistema bancario, dependiendo directamente del
+          sector público para ejercer su derecho constitucional a la vivienda.
+
+1.3       Ante la insuficiencia de oferta de viviendas subsidiadas y la escasez de terrenos
+          idóneos en términos de ubicación y servicios para edificar viviendas, muchas
+          familias han decidido ocupar zonas urbanas de forma ilegal. Estas áreas, en
+          muchos casos, no han sido urbanizadas por su exposición a riesgos de desastres
+          naturales, como aluviones y derrumbes, así como a los impactos del cambio
+          climático, como inundaciones y olas de calor [10] 6. El resultado ha sido un
+          aumento en la cantidad de viviendas en asentamientos informales que se
+          encuentran en área de riesgo. En el PEHIS 2015 se registraron 31.889 hogares
+          que requerían de reasentamiento debido a su ubicación en zonas de riesgo o
+          protección. Para el año 2020, esta cifra aumentó significativamente a 41.711,
+          representando un incremento del 24,5%.
+
+1.4       El deterioro en el acceso a viviendas para la población vulnerable tiene dos causas
+          principales: (i) la insuficiencia en la producción de viviendas calificadas 7 para ese
+          grupo específico de población; y (ii) el deterioro en las condiciones de las
+          viviendas en asentamientos informales por efectos del cambio climático (CC).
+
+1.5       Insuficiencia en la producción de viviendas calificadas para población
+          vulnerable. Entre 2008 y 2014, Brasil experimentó un gran auge inmobiliario,
+          época en la que también se produjeron cuantiosas inversiones del Gobierno
+          Federal en el área de vivienda, generando una producción a gran escala de
+          proyectos de Vivienda de Interés Social (VIS) destinados a la población de
+          menores ingresos, con varias líneas de financiamiento subvencionadas a través
+          del Programa Minha Casa, Minha Vida. Durante este período, los Estados y
+          Municipios colaboraron como Entidades de Apoyo, en un modelo de gestión
+          centralizado en el Ministerio de las Ciudades y en la Caixa Econômica Federal.
+          Sin embargo, a partir de 2015, como consecuencia de la crisis mencionada
+          anteriormente, los recursos federales para VIS se redujeron, y a partir de 2018
+          solo se destinaron recursos a proyectos en construcción 8, lo que se ha traducido
+          en un bajo volumen de unidades destinadas a atender a la población con una
+          renta mensual de hasta tres salarios mínimos [11]. En los últimos 5 años, el
+          promedio anual de unidades habitacionales construidas por COHAPAR para
+          atender a este tramo de población fue de 376 unidades/año, insuficiente para
+          atender la demanda del Estado. Por otro lado, prácticamente no existe oferta
+          privada del mercado inmobiliario dadas las restricciones de financiamiento de
+          estas familias. Esta situación se agrava en municipios de menor población y
+          alejados de los grandes centros urbanos, donde prácticamente no existe oferta
+          habitacional para este grupo que no sea altamente subsidiada.
+
+
+
+6     El EP reconoce que los efectos del cambio climático ya son evidentes y está desarrollando el Programa
+      Paranaense sobre Cambio Climático (2020) para atender este desafío.
+7     Viviendas calificadas se refiere a viviendas que no solo cumplan con los estándares mínimos de habitabilidad
+      y seguridad, sino que además respondan a las particularidades sociales y ambientales que presentan las
+      familias que las habitan.
+8     En 2014 se entregaron 11.609 viviendas con recursos federales, llegando a un peak de 12.455 viviendas en
+      2015. A partir de ese año, esta cifra se redujo considerablemente, llegando al punto más bajo en 2019 con
+      la entrega de solo 275 viviendas en todo el Estado, es decir, hubo una reducción de un 98% en solo 5 años.
+      Durante el año 2022, se entregaron solo 520 financiadas con recursos federales.
+                                                       -5-
+
+
+1.6       Deterioro de las viviendas localizadas en asentamientos informales por
+          efectos del cambio climático. De acuerdo con un estudio reciente realizado por
+          la Confederación Nacional de Municipios [12], en los últimos años se ha
+          observado una tendencia al aumento de viviendas dañadas y destruidas en Brasil.
+          Entre 2013 y 2022, más de 2 millones de viviendas sufrieron daños en todo el país
+          como consecuencia de fenómenos meteorológicos extremos, y más de
+          107.000 fueron efectivamente destruidas, lo que significó una pérdida más de
+          26 billones de reales (5,3 billones de dólares). La región Sur ha sido la más
+          impactada por este fenómeno, con cerca de 46,79% de sus viviendas dañadas o
+          destruidas en los últimos 10 años. En Paraná, este fenómeno afectó a
+          146.616 viviendas. Gran parte de estas viviendas se localizan en asentamientos
+          informales no urbanizados e ilegales, en muchos casos no aptos para vivir, por
+          deficiencia/ausencia en la prestación de los servicios básicos, o por encontrarse
+          en áreas de riesgos de desastres. Si bien las políticas habitacionales federales
+          disponen la priorización en la atención de familias en áreas de riesgo, la reducción
+          en los recursos disponibles para VIS no lo ha permitido. Entre los años 2015 y
+          2019 9 el número de hogares que viven en asentamientos precarios en el EP creció
+          cerca de 32% [13], con importantes impactos negativos en la calidad de vida de
+          la población socialmente más vulnerable, como la proliferación acentuada de
+          enfermedades graves 10, la reducción de la expectativa de vida de las personas
+          que habitan en ellas, el contexto de violencia en el entorno, la falta de una red de
+          escuelas públicas de calidad, acceso al transporte público y empleos, entre otras.
+
+1.7       Para cubrir la falta de recursos federales, en 2019 el Gobierno del Estado de
+          Paraná desarrolló una nueva política habitacional, el Programa Estatal de
+          Vivienda – Casa Fácil PR (PEH), cuyo foco, entre otros, es la atención a familias
+          en condiciones de alta vulnerabilidad social, que habitan en asentamientos
+          precarios tipo favela susceptibles a inundaciones y/o riesgos medioambientales.
+          Su implementación está a cargo de COHAPAR.
+
+1.8       COHAPAR es una sociedad de economía mixta integrante de la administración
+          indirecta del EP, vinculada a la Secretaría de Estado de las Ciudades. Fue creada
+          en 1965 con la finalidad de formular, coordinar e implementar la política
+          habitacional del EP, planeando y ejecutando proyectos y programas. En 58 años
+          de actuación cuenta con la experiencia de más de 300 mil unidades
+          habitacionales distribuidas por todo el EP. Cuenta con una estructura
+          descentralizada a través de sus 12 oficinas regionales que le permite realizar la
+          supervisión y administración de proyectos en todo el territorio 11. Actualmente
+
+9     Aún no están contabilizados los datos referentes al impacto del COVID-19. La base de datos del SISPEHIS
+      solo será actualizada con esos datos el 2023.
+10    Un estudio realizado entre septiembre de 2020 y febrero de 2021 en 16 favelas de Río de Janeiro indicó que
+      las personas que viven en las favelas presentan una prevalencia mucho mayor de COVID-19 que la
+      documentada anteriormente para el estado y el municipio de Río de Janeiro. Prevalence and predictors of
+      anti-SARS-cov-2 serology in a highly vulnerable population of Rio de Janeiro: A population-based serosurvey.
+      The Lancet Regional Health - Americas, 15, 100338.
+11    Las Oficinas Regionales son responsables por la articulación con las alcaldías, los diversos órganos locales,
+      como empresas de saneamiento y energía, además de estar en contacto directo con la población atendida
+      por los proyectos de la compañía. Los equipos técnicos realizan el trabajo de campo y el seguimiento de los
+      proyectos y obras, las reuniones y el seguimiento socioambiental, así como toda la asistencia necesaria para
+      hacer efectivos los programas de COHAPAR. Su estructura organizacional incluye profesionales de las áreas
+      administrativa, financiera, inmobiliaria, social y de ingeniería, así como un equipo de coordinación que
+                                                        -6-
+
+
+          ejecuta diferentes programas para atender a distintos tipos de población
+          vulnerable, entre ellos financiamiento para familias con capacidad de
+          endeudamiento, programas enfocados en adultos mayores, programas de
+          escrituración de viviendas, regularización de terrenos y atención a comunidades
+          que habitan en asentamientos precarios en área de riesgo 12. Su financiamiento
+          proviene de: (i) el tesoro del estado, destacándose el Fondo Estatal de Combate
+          a la Pobreza (FECOP); (ii) el presupuesto general de la unión; (iii) el Fondo de
+          Garantía por Tiempo de Servicio (FGTS); y (iv) recursos privados y de préstamos
+          internacionales. El presupuesto anual de COHAPAR es de aproximadamente
+          US$51 millones [14].
+
+1.9       Aunque posee una estructura robusta y bien preparada, existe la necesidad de
+          modernizar su gestión y capacitar de forma continua a sus equipos, con el
+          propósito de expandir su potencial de atención y agilizar la provisión de
+          soluciones, de forma socialmente equitativa y ambientalmente sostenible. En la
+          actualidad, el tiempo medio dedicado a la preparación de proyectos básicos en
+          COHAPAR alcanza los 9,14 13 meses, a pesar de que las tecnologías disponibles
+          podrían reducir considerablemente este tiempo. Así también, el aumento en la
+          demanda habitacional, las nuevas exigencias de la sociedad por acciones de
+          equidad de género y diversidad (¶1.15 y 1.16), y el incremento de los problemas
+          asociados al CC (¶1.17) hacen necesaria una institucionalidad preparada que
+          responda a estos desafíos.
+
+1.10      Programa Vida Nova (PVN). Se creó en 2019 14 y forma parte del PEH. Se enfoca
+          en municipios pequeños y medianos que tienen acceso limitado a operaciones de
+          crédito y necesitan apoyo en la gestión de proyectos de vivienda 15 a través de la
+          construcción de conjuntos habitacionales cuyas unidades son totalmente
+          subsidiadas (donación). El PVN está estructurado en dos ejes de acción:
+          (i) demanda cerrada, reasentamiento completo de grupos de familias residentes
+          en asentamientos informales y precarios (favelas) susceptibles a inundaciones,
+          derrumbes y/o otros riesgos medioambientales, promoviendo su reasentamiento
+          en proyectos habitacionales dotados de infraestructura adecuada; y (ii) demanda
+          abierta, atención habitacional individual a familias en situación de alta
+          vulnerabilidad social dispersas en el territorio, a través de la construcción de
+          proyectos habitacionales integrales.
+
+1.11      COHAPAR realiza una convocatoria abierta a todos municipios del EP. Los
+          municipios interesados deben presentar los terrenos donde se construirán los
+
+
+      gestiona los proyectos y sirve de enlace con la sede central en todas sus áreas, y está directamente vinculado
+      al presidente de la empresa.
+12    Para conocer con mayor detalle los programas que implementa COHAPAR, consultar el EEO#8.
+13    El tiempo promedio se refiere al período desde la emisión de la orden de servicio para la preparación del
+      proyecto básico hasta su aprobación final por COHAPAR.
+14    El Banco estará apoyando técnica y financieramente el Programa Vida Nova, que ya se encuentra en
+      ejecución.
+15    El Estatuto de las Ciudades requiere que municipios con más de 20,000 habitantes tengan Planes Directores,
+      lo que implica la creación de Planes Municipales de Vivienda de Interés Social y la formación de estructuras
+      institucionales como consejos municipales de vivienda y secretarías de vivienda. Sin embargo, los municipios
+      más pequeños y medianos enfrentan desafíos como la falta de recursos humanos capacitados y
+      presupuestos limitados para implementar políticas habitacionales. Además, carecen en su mayoría de la
+      capacidad administrativa y financiera para recaudar los fondos necesarios para ayudar a la población objetivo
+      del proyecto.
+                                            -7-
+
+
+       conjuntos habitacionales, e indicar el tipo de demanda que atenderá el proyecto
+       (cerrada o abierta). COHAPAR evalúa la viabilidad de los terrenos, o las
+       condiciones necesarias para adquirirlos en que caso fuese necesario, desde el
+       punto de técnico, medioambiental, legal y de integración urbana (necesidad de
+       provisión de infraestructura urbana tales como saneamiento, pavimentación,
+       provisión de energía eléctrica, etc.). Una vez aprobado el terreno, elabora los
+       proyectos técnicos de urbanización y construcción, para luego licitar las obras
+       correspondientes.
+
+1.12   Los criterios que COHAPAR ha establecido para priorizar los proyectos son:
+       (i) proyectos que atiendan a familias en situación de riesgo, emergencia y/o
+       calamidad pública; (ii) proyectos que impliquen el reasentamiento involuntario de
+       familias; (iii) proyectos en municipios de menos de 50 mil habitantes; (iv) IDH del
+       municipio; y (v) orden en el que los municipios presentan la documentación
+       completa de los terrenos que se van a utilizar en el programa.
+
+1.13   En los casos de demanda cerrada, se selecciona a la comunidad completa que
+       habita en el asentamiento precario y que se encuentre en condiciones de
+       vulnerabilidad social. Paralelamente a la ejecución del conjunto habitacional, se
+       desarrolla el trabajo social con las familias previamente identificadas, que implica
+       apoyo socioambiental, acompañamiento en la transición a la nueva vivienda y
+       actividades multisectoriales para su inclusión en políticas públicas estatales. Al
+       finalizar las obras, las familias son reasentadas en el nuevo conjunto (área de
+       destino) y pasan a recibir asistencia en conformidad con su grado de
+       vulnerabilidad, que puede ser la inserción en las políticas públicas de salud,
+       educación, seguridad, medioambiente, generación de renta, oferta de empleo,
+       capacitación técnica, entre otras. El antiguo asentamiento (área de origen) es
+       cercado y las edificaciones demolidas, para ser evitar que sea repoblado. El
+       terreno es objeto de recuperación ambiental, y si es posible, se convierte en un
+       área de utilidad pública (parque, plaza, equipamiento comunitario, etc.).
+
+1.14   En los caso de demanda abierta, al final del proceso de construcción se selecciona
+       a las familias beneficiadas del Catastro de Pretendientes de COHAPAR, utilizando
+       los siguientes criterios de priorización: (i) familias residentes en zonas de riesgo o
+       insalubridad o que hayan quedado sin hogar; (ii) familias con mujeres
+       responsables de la unidad familiar; (iii) familias de las que formen parte persona/s
+       con discapacidad; (iv) familias beneficiarias del programa Bolsa Familia (PBF) o
+       de la Prestación Continuada en Efectivo (BPC) de la Política de Asistencia Social;
+       (v) familias con dependientes menores de 18 años; y (vi) familias con carga
+       excesiva de alquiler. En ambas tipologías de atención, el proceso completo es
+       acompañado por el equipo socioambiental de COHAPAR y del municipio
+       beneficiado.
+
+1.15   Consideraciones de Género. Las brechas de género en el déficit habitacional en
+       Paraná, así como en todo el país, son significativas. Según datos de la Fundação
+       João Pinheiro (2019) el déficit cuantitativo en hogares liderados por mujeres fue
+       del 60%, mientras que en los hogares liderados por hombres fue del 40%. Esta
+       disparidad se refleja en los tres componentes del déficit: el 54,6% de los hogares
+       con jefatura femenina vivían en viviendas precarias, en comparación con el
+       45,4% de los hogares con jefatura masculina; el 62,7% de los hogares liderados
+       por mujeres vivían en hacinamiento, frente al 37,3% de los liderados por hombres;
+                                                     -8-
+
+
+         y el 61% de las mujeres jefas de familia enfrentaban problemas de exceso de
+         alquiler, en comparación con el 39% de los hombres. Además, las mujeres
+         también experimentan una menor sensación de seguridad en sus hogares, barrios
+         y ciudades. Datos del año 2021 provenientes del suplemento sobre sensación de
+         seguridad de la encuesta de hogar revelan que las mujeres experimentan una
+         sensación de seguridad menor en comparación con los hombres, tanto en sus
+         hogares como en sus barrios y, sobre todo, en sus ciudades. Para la región sur
+         del país, la brecha en la sensación de seguridad es del 4.3% en los barrios
+         (19% para mujeres frente al 14,7% para hombres) y del 6% en la ciudad
+         (31.2% para mujeres frente al 25% para hombres).
+
+1.16     Consideraciones de diversidad. Según datos de la Encuesta de Salud de 2019
+         para Paraná, solo un 62% de las personas con discapacidad tenían acceso
+         simultáneo a los tres servicios básicos de saneamiento [15]. Entre las personas
+         sin discapacidad, esa proporción era de un 73%. Esta proporción es aún menor
+         para las personas con discapacidad visual (57%) y para aquellas con
+         discapacidad física de los miembros superiores (60%). La legislación en Brasil
+         establece que al menos el 5% de las viviendas deben ser destinadas a personas
+         con discapacidad (PcD), sin especificar estándares de construcción que sean
+         adaptados a las necesidades de los habitantes con discapacidad. El programa
+         Vida Nova ya establece en su reglamento que las normas arquitectónicas deben
+         contemplar viviendas adaptadas a las discapacidades de sus habitantes, en
+         conformidad con el requisito legal mínimo del 5%.
+
+1.17     Consideraciones de mitigación y adaptación al CC. Los asentamientos
+         precarios que se beneficiarán del programa no sólo se encuentran en su mayoría
+         en zonas de riesgo de desastre, sino que además están más expuestos a los
+         impactos del CC. En el EP, se han observado eventos severos y extremos de
+         lluvia, humedad del aire, viento y temperatura, asociados a cambios en los
+         patrones climáticos (¶1.6), que preocupan a diversos sectores de la sociedad en
+         términos de susceptibilidad al daño y resiliencia de los sistemas de
+         infraestructura [16]. Según las proyecciones climáticas disponibles para el EP
+         para el período 2041-2070, la región noreste del estado podría tener un aumento
+         de hasta 5,6 °C en la temperatura y una disminución del 18% en el volumen de
+         lluvias, mientras que la región sureste del estado podría ser la más afectada en
+         cuanto al número de días secos consecutivos en el año 16. En cuanto a las
+         emisiones Gases de Efecto Invernadero (GEI), el EP se ubica en la posición
+         número 12 según el ranking de emisiones por estado de Brasil, con un total de
+         ~76 MtCO2e (para el año 2020) de las cuales el 4,9% de las emisiones del sector
+         energético pueden ser atribuibles al consumo energético residencial [17]. La
+         vivienda social verde y resiliente es una oportunidad para abordar estos desafíos
+         climáticos y unir esfuerzos hacia el Acuerdo de París, al tiempo que brinda
+         beneficios sociales, económicos y ambientales a los residentes.
+
+1.18     Brasil se ha comprometido en la lucha contra el CC, asumiendo en su Contribución
+         Determinada a Nivel Nacional (NDC, 2022) el compromiso de reducir sus
+
+16   Estos datos provienen de un estudio inédito que evaluó la vulnerabilidad de 399 municipios paranaenses
+     ante el cambio climático. La investigación, coordinada por la Fundación Oswaldo Cruz (Fiocruz), forma parte
+     del proyecto Vulnerabilidad al Cambio Climático, realizado en colaboración con el Ministerio de Medio
+     Ambiente. El estudio utiliza proyecciones climáticas para el escenario futuro (2041-2070) con respecto al
+     presente (1960-1990).
+                                            -9-
+
+
+       emisiones de GEI en un 37% para el 2025 respecto de la línea base de 2005, con
+       miras a disminuirlas en un 50% en 2030 y alcanzar la carbono-neutralidad para el
+       año 2050. Además, la NDC reconoce la necesidad de mejorar los índices de
+       desarrollo en las áreas de vivienda y de inclusión social, al tiempo que contribuye
+       a los esfuerzos globales de mitigación de las emisiones de GEI. Por su parte, el
+       EP está desarrollando el Programa Paranaense sobre Cambio Climático
+       (Paranaclima, 2020), guiado por la Política Estatal de CC de Paraná, establecida
+       en la ley 17.133/2012. Esta operación contribuye a los compromisos climáticos
+       tanto de Brasil como del EP, ya que el uso de criterios de sostenibilidad ambiental
+       en el desarrollo de vivienda social destaca su importancia al promover el uso
+       eficiente y racional de los recursos naturales, mejorar las condiciones de
+       habitabilidad, reducir gastos familiares por uso de servicios básicos, y, aportar
+       entre otros beneficios colaterales, a la reducción de la contaminación local.
+       Además, las soluciones habitacionales de calidad y ubicadas en zonas fuera de
+       riesgo pueden reducir los niveles de vulnerabilidad de la población a los efectos
+       del CC al implementar estrategias de diseño resilientes e incorporar medidas
+       adaptativas que mitiguen los riesgos y mejoren la seguridad y el bienestar general
+       de las personas y las comunidades.
+
+1.19   Justificación. El Gobierno de Brasil, a través de la Secretaría Nacional de
+       Vivienda (SNH), solicitó el respaldo del Banco para desarrollar nuevos modelos
+       de provisión de vivienda y hábitat, y formular estrategias de política para el sector,
+       especialmente para los grupos más vulnerables. En respuesta, el Banco creó la
+       Línea de Crédito Condicional para Proyectos de Inversión (CCLIP) PROMORAR
+       (BR-O0014), con un período de utilización de 10 años y una capacidad de hasta
+       US$600 millones para operaciones individuales. Esta es la segunda operación
+       bajo esta línea. Se alinea con sus objetivos al apoyar a un organismo subnacional,
+       como es COHAPAR, a implementar nuevas estrategias de vivienda y mejora del
+       hábitat, al adoptar diversas innovaciones en los programas para la población
+       socialmente vulnerable en Paraná. La operación se beneficiará de la experiencia
+       del Banco en el país y el sector, al proponer los siguientes elementos que darán
+       un valor agregado: (i) incorporación de un enfoque de género y diversidad en sus
+       soluciones, construyendo conjuntos de vivienda adaptados a las necesidades
+       específicas de cada familia; (ii) incorporación de criterios de sostenibilidad
+       ambiental y eficiencia energética e hídrica en todas las viviendas del programa;
+       (iii) priorización de soluciones basadas en la naturaleza para la recuperación de
+       áreas de riesgo climático alto y degradadas ambientalmente, incluyendo medidas
+       para desincentivar su reocupación; (iv) incorporación de tecnología BIM en la
+       revisión y aprobación de los proyectos al interior de COHAPAR; (v) capacitación
+       del personal de COHAPAR en los temas mencionados anteriormente (género y
+       diversidad, vivienda e infraestructura verde, y sistemas tecnológicos) para
+       actualizar y mejorar su capacidad de atención; y (vi) implementación de un
+       sistema de gestión ambiental y social de alto estándar.
+
+1.20   Experiencias del Banco en el país. El programa se basa en las capacidades
+       desarrolladas en los programas de vivienda y desarrollo urbano financiados por el
+       Banco en Brasil. Algunos ejemplos son el Programa Hábitat-Brasil-BID
+       (1126/OC-BR), cuyo objetivo era abordar la escasez de viviendas en
+       asentamientos urbanos precarios mediante proyectos de urbanización integrados.
+       Este programa se alineó con otras operaciones centradas en la mejora de las
+       condiciones urbanas y sociales de comunidades precarias. Entre ellos se
+                                                     - 10 -
+
+
+         encuentran los programas de urbanización de favelas de Río de Janeiro (Favela
+         Bairro I, 898/OC-BR, 1995-2001; Favela Bairro II, 1241/OC-BR, 2000-2006;
+         Favela Bairro III, 2482/OC-BR, 2010-2019) el Programa João Pessoa Sustentável
+         (4444/OC-BR), el Programa de Requalificação Urbana da Região Oeste de
+         Aracaju (4736/OC-BR), los programas PROCIDADES (BR-L1043; 1960/OC-BR;
+         1961/OC-BR; 1986/OC-BR;              1990/OC-BR; 2054/OC-BR;            2121/OC-BR;
+         2246/OC-BR; 2320/OC-BR; 2752/OC-BR; 2751/OC-BR; 2999/OC-BR), y en
+         Paraná la operación Programa Integrado de Inclusión Social y Recualificación
+         Urbana: Familia Paranaense (3129/OC-BR), entre otros. La primera operación
+         individual bajo la CCLIP (BR-L1596), tiene como objetivo desde el ámbito federal,
+         dotar a los actores públicos, privados y de la sociedad civil de nuevas
+         herramientas para facilitar y diversificar el acceso a soluciones de vivienda de
+         interés social con el fin de aumentar el acceso a una vivienda digna. Mientras que
+         la primera operación se centra en proporcionar herramientas para facilitar el
+         acceso a soluciones de vivienda de interés social, conectando la oferta y
+         demanda, e impulsando programas de microfinanciamiento para el mejoramiento
+         de viviendas, la segunda operación enfatiza en mejorar directamente la calidad de
+         vida de la población vulnerable a través del acceso a viviendas dignas y la mejora
+         de infraestructuras básicas y condiciones socioambientales. Ambas operaciones,
+         al abordar distintas dimensiones del problema habitacional —desde la facilitación
+         y financiación para la adquisición y mejora de viviendas hasta la intervención
+         directa en asentamientos precarios—, trabajan de manera integral para fortalecer
+         las políticas de vivienda y hábitat en Brasil, asegurando un impacto sostenido en
+         la reducción del déficit cualitativo y cuantitativo de vivienda y en la promoción de
+         un desarrollo urbano más inclusivo y sostenible.
+
+1.21     Experiencias del Banco en la región. Los programas de vivienda del Banco
+         promueven intervenciones dirigidas a la inclusión social y urbana de las viviendas
+         con el resto de la ciudad, trabajando tanto a escala de la vivienda como de su
+         entorno. Algunos precedentes regionales son: en Chile, el Programa de
+         Integración Urbana de Campamentos (5313/OC-CH); en Argentina, la CCLIP
+         Programa de Mejoramiento de Barrios (PROMEBA II) (AR-X1004), el Programa
+         de Integración Urbana e Inclusión Social y Educativa de la Ciudad Autónoma de
+         Buenos Aires (4303/OC-AR), el Programa de Integración Urbana e Inclusión
+         Social en la Provincia de Buenos Aires (4823/OC-AR) y el Programa de
+         Integración Urbana e Inclusión Social (4804/OC-AR); en Uruguay, el Programa de
+         Mejoramiento de Barrios I, II y III (UR-X1003); en Paraguay, el Programa de
+         Mejoramiento de Vivienda y Hábitat (3538/OC-PR) y el Programa de
+         Rehabilitación de Viviendas y Bahía Sur de Asunción (Barrio Tucumbú)
+         (4700/OC-PR); entre otros.
+
+1.22     El diseño del programa es respaldado por estudios de evaluación de impacto
+         nacionales e internacionales de proyectos similares de vivienda y mejoramiento
+         de barrios, tales como: (i) investigaciones realizadas a proyectos que brindan a la
+         población de bajos ingresos soluciones habitacionales en ciertas ciudades de
+         México [18], mediante un modelo hedonístico de precios de la vivienda 17, con un
+
+17   El metro cuadrado de terreno tuvo un incremento de precio de R$27,7 en términos reales en el grupo de
+     control, mientras que el impacto en el grupo de tratamiento resultó en R$75,5 adicionales por metro
+     cuadrado, es decir, 3,7 veces más de la tasa real de apreciación en el grupo de control. En términos de costo
+     beneficio, los resultados indican que, por cada peso invertido en servicios, infraestructura y equipamientos,
+     se obtuvieron R$2,8 de mejora en el valor del metro cuadrado de los terrenos con viviendas.
+                                                    - 11 -
+
+
+         enfoque de evaluación de diferencia-en-diferencias; y (ii) en proyectos que
+         promueven acciones integradas de mejoramiento de barrios o del entorno
+         urbano [19]. A nivel de Brasil, es respaldado por estudios de impacto como del
+         Programa de Urbanización de Asentamientos Populares - PROAP III
+         (2482/OC-BR) que demuestra que las acciones de mejoramiento de vivienda y
+         recalificación urbana en los asentamientos populares incrementan el valor de las
+         propiedades en áreas de intervención y su entorno, medidos a través de la
+         adopción de la metodología de diferencias en diferencias. Además, un estudio del
+         Banco Mundial realizado en México demostró que las casas con piso de cemento
+         reducen en un 49% la ocurrencia de casos de diarrea en niños y 81 casos de
+         anemia y mejoran el desarrollo cognitivo hasta en un 96% en comparación con las
+         casas con un piso de tierra. Asimismo, el estudio de Habitat Brasil (2021) apunta
+         a una reducción de la tasa de diarrea entre los residentes que fueron reasentados
+         en nuevas viviendas populares.
+
+1.23     Lecciones aprendidas. A partir de experiencias previas del Banco en
+         operaciones similares en la región y en Brasil, se consideran las siguientes
+         lecciones aprendidas: (i) la necesidad de abordar los desafíos de manera integral,
+         incorporando no solo la construcción de viviendas, sino también la expansión de
+         la infraestructura urbana, la rehabilitación de ecosistemas afectados y la ejecución
+         de proyectos para enfrentar el cambio climático (¶1.13); (ii) la coordinación con
+         todos los actores involucrados resulta esencial para maximizar el impacto de las
+         intervenciones y optimizar la utilización de recursos disponibles (¶1.13 y 2.5);
+         (iii) la importancia de equilibrar las obras de infraestructura con el acceso a
+         servicios sociales, especialmente al trabajar con grupos altamente vulnerables
+         (¶1.13 y 1.14); (iv) la relevancia de reforzar las capacidades institucionales de los
+         equipos gubernamentales para asegurar la sostenibilidad de las acciones
+         emprendidas (¶1.9); (v) la necesidad de verificar previamente la viabilidad técnica
+         y jurídica de los terrenos donde se emplazarán los proyectos habitacionales antes
+         de incorporarlos al programa (¶1.11); (vi) debido a la alta dispersión territorial de
+         las obras, es recomendable que la UGP cuente con apoyo técnico mediante
+         consultoría especializada en gestión y supervisión del programa durante todo el
+         programa (¶2.12); y (vii) la importancia de desarrollar un Plan de Participación de
+         Partes Interesadas (PPPI) y comunicación que informe de manera oportuna a las
+         comunidades afectadas sobre los proyectos habitacionales, las alternativas al
+         reasentamiento, y las medidas de compensación disponibles (¶2.9 y ¶2.10).
+
+1.24     Alineación estratégica. El Programa es consistente con la Estrategia
+         Institucional del Grupo BID: Transformación para una Mayor Escala e Impacto
+         (CA-631)18 y se alinea con los objetivos de: (i) reducir la pobreza y la desigualdad,
+         dado que contribuye a mejorar las condiciones de vida de familias que viven en
+         condiciones de informalidad y extrema vulnerabilidad social y ambiental; y
+         (ii) abordar el cambio climático, al recuperar áreas degradadas expuestas al riesgo
+         por CC y apoyar soluciones urbanísticas y habitacionales que incorporan criterios
+         de resiliencia y uso eficiente de los recursos en viviendas que cumplen con el nivel
+         de ahorro equivalente a la certificación EDGE. El Programa también se alinea con
+         las siguientes áreas de enfoque operativo: (i) biodiversidad, capital natural y
+         acción por el clima; (ii) igualdad de género e inclusión de grupos diversos de la
+
+18   Este programa fue diseñado durante la vigencia de la Segunda Actualización de la Estrategia Institucional
+     (AB-3190-2).
+                                           - 12 -
+
+
+       población; (iii) capacidad institucional, estado de derecho y seguridad ciudadana;
+       y (iv) infraestructura sostenible, resiliente e inclusiva. Además, este programa es
+       consistente con la estrategia de País del Grupo BID con Brasil (GN-2973,
+       GN-2973-2), contribuyendo a la reducción de las desigualdades sociales y de
+       oportunidades al implementar políticas públicas eficientes para aumentar el
+       acceso a la vivienda, y construir un gobierno más efectivo al fortalecer las
+       capacidades de COHAPAR. También se relaciona con los temas transversales de
+       Género, Diversidad y Cambio Climático mencionados anteriormente, e Innovación
+       y Transformación Digital, mediante la implementación de tecnología BIM en la
+       gestión de COHAPAR.
+
+1.25   Este proyecto también está alineado en Categoría 2 al Marco de Acción de
+       Empleo con Perspectiva de Género – MAEG (GN-3057; OP-2289-1) ya que
+       contempla análisis, intervenciones e indicadores relacionados con el pilar talento
+       desde las perspectivas de fortalecimiento institucional e inclusión social. Además,
+       es coherente con las piedras angulares de reforzar la igualdad de género, la
+       diversidad y el CC. También es consistente con el Marco Sectorial de Desarrollo
+       Urbano y Vivienda (GN-2732-11), en la dimensión de éxito de promover el acceso
+       a la vivienda a poblaciones más vulnerables, y de Género y Diversidad
+       (GN-2800-13), en la dimensión de éxito de promover intervenciones para
+       aumentar la igualdad de género y la inclusión social.
+
+1.26   Se estima que el 94,23% de los recursos de esta operación se destinan a
+       actividades de mitigación y adaptación al CC según la Metodología Conjunta de
+       los BMD para el Financiamiento Climático; dado sus contribuciones de eficiencia
+       energética e hídrica en vivienda, capacitación del personal en certificaciones
+       ambientales y vivienda verde, y soluciones basadas en la naturaleza para la
+       recuperación de terrenos desocupados (EEO#5).
+
+1.27   Esta operación ha sido analizada utilizando el Marco Conjunto de los BMD para
+       el Análisis de Alineación con París y el Enfoque de implementación para la
+       Alineación con el Acuerdo de París: principios, metodología y orientaciones
+       técnicas (PAIA) del Grupo BID (GN-3142-1); se ha determinado: (i) alineada a la
+       meta de adaptación del Acuerdo de París; y (ii) alineada a la meta de mitigación
+       del AP con base en un análisis específico. La alineación se basó en: la
+       congruencia con las prioridades de adaptación al CC en la producción de vivienda
+       social y desarrollo urbano reflejadas en la NDC de Brasil; el análisis de alternativas
+       realizado para las tecnologías de cocción a financiar, los cuales confirman que los
+       cilindros de gas licuado de petróleo son la tecnología más limpia viable en el
+       contexto dado, implicando un bajo riesgo de dependencia tecnológica y una
+       transición positiva a opciones más eficientes de cocción para poblaciones
+       vulnerables beneficiarias en esta operación.
+
+B.     Objetivos, componentes y costo
+
+1.28   Objetivos del Programa. El objetivo general del programa es mejorar la calidad
+       de vida de la población socialmente vulnerable que vive en ocupaciones
+       irregulares, asentamientos precarios, o viviendas insalubres en el EP
+       promoviendo el acceso a una vivienda digna, condiciones básicas de
+                                                      - 13 -
+
+
+         infraestructura y acciones socioambientales 19. Los objetivos específicos son:
+         (i) incrementar el acceso a soluciones equitativas y sostenibles de vivienda y
+         hábitat para población socialmente vulnerable; y (ii) mejorar la atención de
+         COHAPAR a través de una gestión pública innovadora e inteligente. Esta
+         operación será la segunda bajo el marco de la Línea Condicional de Crédito para
+         Proyectos de Inversión (CCLIP) PROMORAR (BR-O0014), aprobada mediante
+         Resolución DE-57/23, por un valor total de US$600.000.000. Contribuirá con el
+         objetivo de la CCLIP de promover nuevas estrategias de vivienda y mejoramiento
+         del hábitat en Brasil, apoyando a una entidad de gobierno subnacional, como es
+         el EP, en la elaboración e implementación de programas de vivienda de interés
+         social.
+
+1.29     Componente 1. Atención Habitacional a Familias en Situación de
+         Vulnerabilidad Socioambiental (BID US$134.000.000, Contrapartida Local
+         US$36.500.000). Su propósito es llevar a cabo actividades que posibiliten el logro
+         del primer OED. Con este fin, financiará: (i) Construcción de Conjuntos de
+         Vivienda de Interés Social con acceso a servicios básicos (saneamiento,
+         pavimentación, energía eléctrica, agua potable), mejoras en el hábitat,
+         equipamiento comunitario 20, y adquisición de terrenos en caso que sea
+         necesario 21; (ii) Recuperación de áreas desocupadas 22 de riesgo climático alto
+         priorizando soluciones basadas en la naturaleza: aislamiento temporal de áreas,
+         desarrollo de planes, ejecución de restauración y protección ambiental, y
+         construcción de equipamientos de utilidad pública; y (iii) Supervisión técnica y
+         socioambiental de las obras: pruebas técnicas y de laboratorio, monitoreo y
+         supervisión de obras, monitoreo social y ambiental, y actividades multisectoriales.
+
+1.30     Muestra Representativa. Para la evaluación y dimensionamiento del programa
+         fue elaborada una muestra representativa equivalente al 26% 23 del total de las
+
+
+19   Este objetivo será medido con el indicador de aumento del valor del metro cuadrado promedio en las áreas
+     de intervención del programa. Este indicador es un reflejo de la mejora en la calidad de vida, ya que la
+     valorización inmobiliaria está determinada por un conjunto de factores que representan e impactan en la
+     calidad de vida de las personas. Inicialmente, la valorización inmobiliaria se determina por las condiciones
+     de infraestructura de la región, como el acceso al suministro de agua potable, al saneamiento básico, al
+     servicio regular de suministro de energía eléctrica, calles iluminadas y pavimentadas, seguridad, entre otros
+     factores. También se percibe por la mejora de las condiciones del propio inmueble y de su documentación,
+     es decir, del registro y del título de propiedad del inmueble. Las condiciones del inmueble están
+     correlacionadas, entre otros factores, con los estándares de acabado, la existencia de baños dentro de la
+     propiedad, suelos, revoques, ventanas y puertas, entre otros factores. Además, el título de propiedad,
+     además de ser un factor de seguridad para el beneficiario, proporciona un aumento de la renta per cápita y,
+     en consecuencia, una mejora en la calidad de vida de la población beneficiada. Por lo tanto, se observa que
+     los factores determinantes del aumento del valor de los inmuebles también están directamente relacionados
+     con la calidad de vida de la población.
+20   Las viviendas y otras edificaciones (como equipamientos de ocio) que se construyan alcanzarán niveles de
+     eficiencia que tienden a un ahorro de al menos 20% en consumo de energía, 20% en consumo de agua y
+     20% de reducción de energía incorporada en los materiales respecto a una construcción convencional de
+     acuerdo con los estándares de certificaciones de edificación sostenibles como EDGE o similar.
+21   Los recursos del préstamo podrán ser utilizados para la adquisición de terrenos, siempre que se cumplan los
+     requisitos previstos en las políticas del Banco, incluyendo la política de elegibilidad de gastos (GN-2331-5),
+     y con la previa no objeción por escrito del Banco.
+22   Áreas desocupadas se denomina a los terrenos donde se emplazan los asentamientos informales tipo favela
+     que serán reasentados (área de origen) una vez que las familias que allí habitaban los han desocupado y se
+     han instalado en el nuevo conjunto habitacional.
+23   Se analizaron 40 proyectos en 39 municipios, correspondientes a un total de 1.652 viviendas, con un valor
+     de inversión aproximado de US$50.000.000.
+                                                    - 14 -
+
+
+         inversiones, la cual consideró las diferentes tipologías de atención (demanda
+         abierta y demanda cerrada), la dispersión territorial, el tamaño del municipio y la
+         cantidad de unidades habitacionales cada de proyecto, para lograr la mayor
+         representatividad posible. Esto permitió establecer los costos básicos de los
+         proyectos y desarrollar las evaluaciones socioambientales y el análisis económico
+         correspondiente. Los proyectos de la muestra cumplen con los requisitos de
+         elegibilidad técnica, económica y ambiental del programa. Todos los proyectos
+         categoría A que harán parte del programa fueron incluidos en esta muestra.
+
+1.31     Criterios de elegibilidad. Además de los proyectos de la muestra representativa,
+         las obras que serán financiadas a través del Programa deberán cumplir con los
+         siguientes criterios: (a) estar relacionadas con la construcción de conjuntos
+         habitacionales para: (i) familias que residen en ocupaciones irregulares,
+         asentamientos informales de tipo favela, o viviendas insalubres ubicados en áreas
+         de riesgo ambiental, geológico o de insalubridad 24 que requieran un
+         reasentamiento total y estén localizados en terrenos públicos; o (ii) familias en
+         situación de extrema vulnerabilidad social, de acuerdo a los parámetros
+         establecidos por COHAPAR; y (b) ser implementadas en terrenos que cumplan
+         con el análisis de viabilidad realizado por COHAPAR desde el punto de vista
+         técnico, ambiental, legal y de integración urbana. Los detalles de los criterios de
+         elegibilidad estarán descritos en el Reglamento Operativo del Programa (ROP).
+         El Programa no financiará proyectos fuera de la muestra representativa que sean
+         de Categoría A, de acuerdo con el Marco de Políticas Ambientales y Sociales del
+         Banco.
+
+1.32     Todas las obras ejecutadas dentro del programa deberán considerar criterios de
+         disminución en las emisiones de carbono y ser resilientes al CC, además de tener
+         un enfoque de género (priorización de títulos entregados a mujeres jefas de
+         hogar 25 y normas arquitectónicas con premisas de género 26) y personas con
+         discapacidad (casas adaptadas a su tipo de discapacidad).
+
+1.33     Componente 2. Fortalecimiento Institucional (BID US$2.500.000,
+         Contrapartida Local US$500.000). Su propósito es llevar a cabo actividades que
+         posibiliten el logro del segundo OED. Con este fin, financiará para COHAPAR:
+         (i) adquisición de equipos informáticos (hardware y software); (ii) estudios para la
+         implementación de infraestructura verde, resiliencia urbana, eficiencia energética,
+         y construcciones bioclimáticas para los desarrollos de vivienda de interés social;
+         (iii) implementación de tecnología de Modelado de Información de Construcción
+         (BIM) 27; (iv) actualización y modernización de los sistemas de registro
+
+24   Tales como: erosión, socavación, caída y rodamiento de bloques de roca, eventos de inundación, laderas,
+     barrancos, áreas escarpadas, laderas sujetas a deslizamientos, bajo redes eléctricas de alta tensión, áreas
+     de seguridad en puertos, aeropuertos, carreteras, ferrocarriles y vertederos, áreas contaminadas o
+     polucionadas, así como otras definidas por la Defensa Civil.
+25   Los criterios de priorización por encima de las cotas establecidas por ley se detallarán en el ROP.
+26   Las premisas de género pueden incluir: un diseño de iluminación bien planificado y suficiente en áreas
+     externas y comunes puede ayudar a aumentar la sensación de seguridad, haciendo los espacios más visibles
+     e inhibiendo actividades delictivas; un diseño urbano que considere espacios más acogedores y transitables,
+     entre otros elementos del entorno en las viviendas.
+27   La tecnología BIM se utiliza en todas las etapas de los proyectos: en la planificación, se crea un modelo
+     conceptual; en el diseño, se detallan elementos y se realizan análisis; en la construcción, se planifican
+     actividades y se controla la calidad; en la explotación, el modelo sirve para la gestión y mantenimiento
+                                                        - 15 -
+
+
+         habitacional; (v) capacitación del personal en: (a) técnicas y actualización de
+         sistemas; (b) certificaciones ambientales y de vivienda verde; (c) diseño de
+         proyectos e iniciativas con enfoque en género; (vi) plan de comunicaciones
+         institucional; y (vii) estudios para mejorar la eficiencia financiera de programas
+         habitacionales de COHAPAR.
+
+1.34     Administración del programa y compensaciones socioambientales
+         (BID US$13.500.000, Contrapartida Local US$500.000). Este ítem financiará
+         acciones de apoyo a la gestión técnica, social y ambiental del programa:
+         (i) consultorías técnicas y socioambientales, que serán organizadas a través de la
+         implementación de un sistema de gestión técnica y socioambiental del programa
+         dentro de la sede de COHAPAR, y sus 12 unidades descentralizadas en todo el
+         EP; (ii) acciones de monitoreo y evaluación; y (iii) acciones de compensación
+         socioambiental.
+
+C.       Indicadores clave de resultados
+
+1.35     Resultados previstos. Los resultados previstos serán medidos a partir de los
+         siguientes indicadores: (i) aumento en el número de familias en situación de
+         vulnerabilidad atendidas con soluciones habitacionales calificadas; (ii) aumento
+         porcentual de familias con miembros PcD beneficiados con viviendas adaptadas;
+         (iii) aumento en el porcentaje de títulos entregados a mujeres jefes de familia
+         atendidas por el Programa; (iv) reducción de emisión de Gases de Efecto
+         Invernadero; (v) áreas recuperadas con soluciones basadas en la naturaleza y
+         resilientes; y (vi) reducción del tiempo para la elaboración de proyectos básicos 28
+         en COHAPAR.
+
+1.36     Beneficiarios. El programa beneficiará a aproximadamente 5.600 familias que
+         (i) viven en asentamientos precarios que requieren acciones de reasentamiento,
+         implementación de infraestructura y/o mejoramiento urbano y regularización de
+         tierras, registrados en el SISPEHIS; y (ii) familias socialmente vulnerables cuyos
+         ingresos familiares brutos no superan los tres salarios mínimos y que se
+         encuentren registradas en el Catastro Único de Pretendientes de COHAPAR 29.
+         Se estima que la proporción entre tipologías de atención sea de 70% de las
+         unidades para demanda cerrada y 30% para demanda abierta.
+
+1.37     Viabilidad Económica (VE). Se realizó un estudio de VE (EEO#1), en el cual se
+         realizó un análisis costo-beneficio de la muestra representativa de proyectos. Se
+         estimaron los beneficios y costos incrementales para un periodo de 20 años, a
+         precios de eficiencia, que se actualizaron a una tasa de descuento del 12% anual,
+
+     continuos; en futuras reformas, se actualiza el modelo para evaluar cambios. En todas estas etapas, la
+     colaboración entre equipos es esencial, y el uso de BIM optimiza la eficiencia y la precisión al minimizar
+     errores y retrasos en el proceso de construcción. El éxito de la implementación de BIM requiere un
+     compromiso continuo en la formación del personal, la estandarización de procesos y la inversión en
+     tecnología adecuada para maximizar sus beneficios.
+28   De acuerdo con la Ley de Licitaciones 8.666/93 (art. 6º, inciso IX), un proyecto básico es “el conjunto de
+     elementos necesarios y suficientes, con un nivel adecuado de precisión, para caracterizar el objeto de la
+     licitación, y debe ser elaborado a partir de estudios técnicos preliminares, con el fin de garantizar la viabilidad
+     técnica y el tratamiento adecuado del impacto ambiental, y permitir la evaluación del costo y la definición de
+     los métodos y plazos de ejecución”.
+29   En ambos grupos existe una mayor representación de mujeres jefas de familia y personas con discapacidad
+     que, en la media del EP, a las cuales se les dará especial atención durante el desarrollo de la operación.
+                                         - 16 -
+
+
+      calculando la rentabilidad a partir de indicadores como la Tasa Interna de Retorno
+      (TIR), la Relación Costo-Beneficio (C/B) y el Valor Actual Neto (VAN). Los
+      resultados de la evaluación económica del Programa indican un VAN de
+      US$225,1, una TIR de aproximadamente 21,5% y una Relación C/B de 1,3, lo que
+      lo hace económicamente viable. Además, se realizaron pruebas de sensibilidad
+      considerando las hipótesis de aumento de costos y reducción de beneficios. Los
+      resultados mostraron que el proyecto soporta los aumentos de costos
+      considerados, hasta un máximo de 34,7%, así como las reducciones de beneficios
+      consideradas, hasta un máximo de 25,8%. Además, se realizaron otras dos
+      pruebas de sensibilidad, una contemplando una reducción máxima del número de
+      viviendas, manteniendo la viabilidad del proyecto con los costos actuales, y otra
+      aplicando una reducción del 20% al valor Años de Vida Ajustados por
+      Discapacidad (AVAD). Los resultados obtenidos fueron 3.744 unidades para la
+      primera sensibilidad, y TIR de 16% p.a. por una reducción del 20% en el valor de
+      los AVAD.
+
+
+        II.       ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS
+
+A.    Instrumentos de financiamiento
+
+2.1   El programa está diseñado como un préstamo de inversión bajo la modalidad
+      Global de Obras Múltiples (GOM). Esta modalidad se justifica por la naturaleza de
+      los proyectos. Al ser todos proyectos integrales que incluyen la construcción de
+      conjuntos de VIS, equipamientos comunitarios, y recuperación de áreas
+      degradadas, sus definiciones, diseños e implementaciones tendrán
+      características similares, aunque los proyectos serán independientes entre sí. El
+      costo total del programa será de US$187,5 millones, de los cuales
+      US$150 millones provendrán de un préstamo de recursos del Capital Ordinario
+      del Banco y US$37,5 millones de recursos de contrapartida local (Cuadro 1). Para
+      la correcta evaluación y dimensionamiento del programa, se elaboró una muestra
+      representativa considerando cada una de las tipologías de proyectos (¶1.30).
+                       Cuadro 1. Costos estimados del Programa (US$)*
+       Componente                            BID        Local         Total        %
+       Componente 1. Atención
+       Habitacional a Familias en
+                                         134.000.000   36.500.000   170.500.000 90,93%
+       Situación de Vulnerabilidad
+       Socioambiental
+       a. Acciones previas a las obras     2.200.000    2.050.000     4.250.000   2,27%
+
+       b. Obras                          123.800.000   34.450.000   158.250.000 84,40%
+       c. Supervisión de obras             8.000.000            0     8.000.000   4,27%
+
+       Componente 2. Fortalecimiento
+                                           2.500.000     500.000      3.000.000   1,6%
+       Institucional
+       Administración del programa y
+       compensaciones                     13.500.000     500.000     14.000.000   7,47%
+       socioambientales
+                                             - 17 -
+
+
+                         Cuadro 1. Costos estimados del Programa (US$)*
+       Componente                                BID            Local          Total          %
+       a. Implementación de sistema de
+                                                3.900.000        500.000       4.400.000     2,35%
+          apoyo técnico y ambiental
+       b. Informes de evaluación                  400.000               0        400.000     0,21%
+
+       c. Atención socioambiental               9.200.000               0      9.200.000     4,91%
+       Total                                 150.000.000     37.500.000     187.500.000      100%
+       * Nota: La distribución de recursos dentro de los componentes y administración de programa es
+       indicativa.
+
+2.2   El período de desembolsos será de cinco años, tal como se presenta en el
+      Cuadro 2.
+                     Cuadro 2. Cronograma Tentativo de Desembolsos (US$)
+       Fuente            Año 1           Año 2           Año 3           Año 4           Año 5
+       BID             16.271.681      41.172.147      50.721.933       34.080.574      7.753.665
+
+       LOCAL             4.788.095       9.801.840     12.484.416        8.985.173      1.440.476
+
+       TOTAL           21.059.776      50.973.987      63.206.349       43.065.747      9.194.141
+
+       %                       11%            27%             34%             23%               5%
+
+B.    Riesgos ambientales y sociales
+
+2.3   El Programa cuenta con una clasificación de impacto ambiental y social de
+      Categoría “A” debido a los impactos directos significativos relacionados con
+      desplazamiento físico y económico de aproximadamente 5.600 familias en
+      situación de extrema vulnerabilidad social y/o ubicadas en zonas de riesgo de
+      desastre y ocupaciones irregulares.
+
+2.4   El prestatario, directamente o a través de COHAPAR, deberá contar con la
+      posesión legal de los terrenos donde se llevarán a cabo los conjuntos
+      habitacionales. Un total aproximado de 130 municipios participarán del Programa.
+      Dichas intervenciones generarán impactos adversos asociados con demolición de
+      infraestructura de favelas ubicadas en las áreas de riesgo y los impactos
+      asociados a la construcción de las nuevas unidades habitacionales,
+      caracterizadas por casas de un único piso ubicadas en barrios ya existentes y
+      urbanizados. Los proyectos no se realizarán dentro de territorios indígenas o
+      quilombolas. Sin embargo, tienen impactos sobre familias de origen tradicional
+      reconocidos por ley local.
+
+2.5   La calificación de riesgo ambiental y social se considera alto por el potencial riesgo
+      de pérdida de medios de subsistencia de un grupo de pescadores tradicionales
+      (8 familias identificadas hasta el momento), el contexto de vulnerabilidad
+      socioambiental, y la necesidad de reforzar la capacidad institucional de Compañía
+      de Habitación del Paraná (COPAHAR) y su articulación institucional con los
+      municipios para llevar a cabo la supervisión socioambiental de múltiples proyectos
+      ubicados en todo el estado de Paraná.
+                                         - 18 -
+
+
+2.6    La clasificación de riesgo de desastre y cambio climático es moderada debido a
+       que, si bien la amenaza por inundaciones es entre alta y moderada, la criticidad y
+       vulnerabilidad del proyecto es moderada. Para el manejo de este riesgo, se prevén
+       intervenciones específicas de adaptación y mitigación al cambio climático y
+       gestión integral del riesgo de desastres.
+
+2.7    En cumplimiento con el Marco de Políticas Ambientales y Sociales (MPAS),
+       COHAPAR se ha elaborado un Sistema de Gestión Ambiental y Social (SGAS)
+       que incluye criterios de elegibilidad para excluir proyectos de categoría A que no
+       hayan sido analizados previamente como parte de la muestra durante la fase de
+       preparación. Para la totalidad de las obras de la muestra, se desarrolló una
+       Evaluación de Impacto Ambiental y Social (EIAS), un Plan de Gestión Ambiental
+       y Social (PGAS), un Plan de Reasentamiento Involuntario (PRI) para atender de
+       manera colectiva a familias en situación de riesgo de desastre y/o vulnerabilidad
+       social (demanda cerrada) y un Plan de Atendimiento Habitacional (PAH) para
+       atender individualmente a familias vulnerables ubicadas en todo el estado de
+       Paraná (demanda abierta) representados por los proyectos de la muestra
+       representativa del Programa, un total de 40 proyectos en 39 municipios (ver
+       Anexo C: del ESRS (EER#3): Ubicación de los municipios donde se localizan los
+       proyectos de la muestra representativa).
+
+2.8    Los lineamientos para garantizar la viabilidad socioambiental de los proyectos
+       fuera de la muestra y la gestión de todo el Programa estarán presentados en un
+       Marco de Gestión Ambiental y Social (MGAS) que incluye un Marco de
+       Reasentamiento (MR), con medidas de compensación y restauración de medios
+       de vida (que formarán parte del SGAS).
+
+2.9    Se elaboró un PPPI para todo el Programa y también para los proyectos de la
+       muestra considerando el grado de vulnerabilidad y la presencia de familias
+       culturalmente diferenciadas de origen tradicional –pescadores tradicionales- entre
+       las familias que serán beneficiadas. Los documentos mencionados fueron
+       divulgados en versiones aptas a ser divulgadas previo a la misión de análisis.
+
+2.10   Todas las consultas fueron realizadas entre los días 3 y 15 de agosto de 2023 y
+       totalizaron 43 eventos organizados en los municipios de la muestra representativa.
+       Entre estos, 19 consultas fueron dedicadas exclusivamente a proyectos de
+       reasentamiento involuntario (demanda cerrada) y 23 a proyectos de atendimiento
+       habitacional (demanda abierta), y una en la sede de COHAPAR para diferentes
+       partes interesadas. Los resultados indican que las consultas tuvieron un amplo
+       alcance, y registraron una participación presencial (total de 2,652 personas) y
+       virtual (1023, personas) con un promedio de 65% de mujeres y 35% de hombres.
+       Hubo un número significativo de expresiones de interés, así como de preguntas
+       contestadas directamente, que demuestran una buena aceptación del programa
+       por parte de la población. Las principales temáticas tratadas fueron relacionadas
+       a la oferta de servicios y equipamientos públicos de salud, educación y asistencia
+       social, así como los criterios de elegibilidad, matriz de compensaciones y alcance
+       del programa. Para los grupos de origen tradicional, fue realizado un evento
+       especifico y culturalmente apropiado el día 3 de agosto, como resultado de un
+       proceso de consulta de acuerdo con los requerimientos de un Consentimiento
+       Previo, Libre e Informado (FPIC). Igualmente, el MGAS incluye lineamientos para
+       la participación de las partes interesadas para los proyectos fuera de la muestra.
+                                           - 19 -
+
+
+       Del mismo modo, se ha desarrollado un Mecanismo de Quejas y Reclamos para
+       todo el Programa, incluyendo los lineamientos específicos de reasentamiento. El
+       Informe de Consulta y la versión final de los documentos socioambientales fueron
+       divulgados en el sitio web del Banco.
+
+C.     Riesgos fiduciarios
+
+2.11   Se identificaron tres riesgos fiduciarios clasificados como nivel medio-bajo, que
+       serán monitoreados durante todo el programa. El riesgo que genera mayor
+       preocupación es la contratación de un sistema de gestión financiera, la que si no
+       ocurre puede retrasar el primer desembolso. En el PA estará previsto que este
+       sistema se contrate tan pronto como se firme el programa, de manera que no
+       impacte la ejecución. Los demás riesgos se pueden verificar en el Anexo III.
+
+2.12   Análisis de la capacidad institucional. El Banco aplicó la Plataforma de Análisis
+       de la Capacidad Institucional (PACI) al OE, encontrando que éste tiene
+       capacidades institucionales clasificadas como fortalezas en la mayoría de los
+       módulos analizados. Sin embargo, fueron identificadas necesidades de apoyo
+       para la mejoría en todos los módulos.
+
+D.     Otros riesgos y temas clave
+
+2.13   Debido a la experiencia de COHAPAR, no se encontraron riesgos de carácter
+       técnico, pero sí se observaron algunos riesgos inherentes a la etapa de ejecución,
+       siendo los principales el riesgo de que durante la contratación de obras no exista
+       oferta de empresas constructoras, debido al volumen de obras y grado de
+       demanda, y el riesgo de que COHAPAR tenga dificultades para cumplir con los
+       requisitos socioambientales del Banco, impactando en los plazos de ejecución del
+       programa. Estos riesgos fueron clasificados como nivel medio-alto. Se propone
+       mitigar el primero a través de la elaboración cuidadosa de los términos de
+       referencia de las licitaciones de obras y la comunicación continua con los posibles
+       interesados. Se propone evitar el segundo mediante la capacitación del personal
+       y la contratación de empresas de apoyo a la gestión y supervisión socioambiental.
+       También se identificaron riesgos bajos y medios-bajos, relacionados con la
+       resistencia de la población a ser reasentada, cambios en los alcaldes durante la
+       ejecución del programa y dificultad en la disponibilidad de terrenos. Estos serán
+       monitoreados a lo largo de la ejecución para que no se materialicen.
+
+2.14   Sostenibilidad. El programa pretende asegurar la sostenibilidad de sus acciones
+       a través de: (i) la incorporación de criterios de diseño bajo en carbono y resiliente
+       y el uso de infraestructura verde en los proyectos y en los proyectos
+       habitacionales; (ii) la elaboración de guías de buenas prácticas para la ejecución
+       de proyectos urbanísticos y habitacionales resilientes y bajos en carbono; (iii) la
+       remediación ambiental de los terrenos en zonas de riesgo climático que son
+       desocupados a través de la operación y la implementación de espacios y recintos
+       de uso público para promover la resiliencia urbana y evitar su reocupación; y (iv) la
+       sensibilización de los beneficiarios del programa para fomentar buenos hábitos
+       para reducir el consumo de agua, energía, mejorar la gestión de residuos.
+                   III.     PLAN DE IMPLEMENTACIÓN Y GESTIÓN
+
+A.    Resumen de los arreglos de implementación
+
+3.1   Mecanismo de ejecución. El prestatario será el Estado de Paraná (EP) y la
+      República Federativa del Brasil será el garante de las obligaciones financieras del
+      prestatario relativas al préstamo. El EP ejecutará el programa a través de la
+      COHAPAR, la cual actuará como OE del programa y constituirá una Unidad
+      Gestora del Programa (UGP).
+
+3.2   En la estructura de la UGP, se establecen como mínimo, las siguientes
+      coordinaciones: (i) la Coordinación General, liderada por un Coordinador General,
+      acompañado de un Coordinador Adjunto, de dedicación exclusiva, cuya
+      responsabilidad será supervisar las diversas coordinaciones temáticas dentro de
+      la UGP; (ii) la Coordinación Técnica, que manejará los asuntos vinculados a
+      proyectos, obras y fortalecimiento institucional; (iii) la Coordinación Administrativa
+      se encargará de las cuestiones financieras, legales y de contratación, incluyendo
+      la Comisión Especial de Licitaciones; y (iv) la Coordinación Socioambiental, que
+      se enfocará en la gestión ambiental y social, reasentamientos, así como en todas
+      las salvaguardias relacionadas con estos aspectos.
+
+3.3   Además, las 12 oficinas regionales de COHAPAR formarán parte de la estructura
+      organizativa de la UGP, siendo el principal proveedor de información sobre el
+      progreso de las acciones. El departamento de comunicación estará vinculado
+      directamente con el coordinador general del programa y será responsable del
+      MQR.
+
+3.4   La UGP será responsable de coordinar y ejecutar las diferentes acciones e
+      intervenciones, así como promover la comunicación e integración entre los entes
+      involucrados en el Programa, y actuando como principal interlocutor del
+      COHAPAR ante el Banco. Adicionalmente, será responsable por el manejo
+      financiero y contable de la operación. Entre las principales funciones de la UGP
+      se incluyen: (i) planear las inversiones; (ii) evaluar los proyectos ejecutivos de las
+      obras; (iii) preparar y acompañar los procesos de licitación de las obras, compras
+      de bienes y servicios; (iv) controlar y acompañar la supervisión y fiscalización de
+      obras; (v) coordinar y supervisar los aspectos ambientales; (vi) controlar la
+      contabilidad y archivos, así como, presentar las solicitudes de desembolso y de
+      rendición de cuentas; (vii) realizar el control físico y financiero, así como elaborar
+      los informes de avance físico y financiero; (viii) atender y coordinar el cumplimento
+      de las Cláusulas Contractuales establecidas en el Contrato de Préstamo;
+      (ix) monitorear y evaluar los resultados intermedios, las metas e indicadores de la
+      Matriz de Resultados (MdR); (x) desarrollar los sistemas gerenciales y contables
+      necesarios para el acompañamiento físico e financiero; (xi) elaborar los planes y
+      documentos operativos, incluyendo los Planes Operativos Anuales (POA);
+      (xii) preparar los términos de referencia para las contrataciones de firmas
+      consultoras; (xiii) elaborar toda la documentación técnica y administrativa
+      pertinente a los procesos de licitación y contratación; y (xiv) preparar otros
+      informes requeridos por el Banco. Otras funciones, así como otros temas
+      relacionados con el programa, tales como las normas de gestión financiera,
+      criterios de elegibilidad, políticas de adquisiciones, políticas de salvaguardas
+                                          - 21 -
+
+
+      socioambientales, sistema de supervisión del Programa y la emisión de avisos de
+      no-objeción, entre otros, quedarán detallados en el ROP.
+
+3.5   Condiciones contractuales especiales previas al primer desembolso del
+      financiamiento. El Prestatario, a través del Organismo Ejecutor (OE) deberá
+      presentar al Banco evidencia de: (i) firma y entrada en vigor de un convenio
+      entre el prestatario y el organismo ejecutor, para la transferencia de los
+      recursos y la ejecución de las actividades del Programa; (ii) la aprobación y
+      entrada en vigor del Reglamento Operativo del Programa (ROP), en los
+      términos previamente acordados con el Banco; y (iii) la creación de la
+      Unidad Gestora del Programa (UGP) y la designación de sus miembros, de
+      acuerdo con la composición que se menciona en el párrafo ¶3.2.
+      Adicionalmente, ver otras condiciones contractuales especiales en el Plan
+      de Acción Ambiental y Social (ESAP) y en Anexo B del Resumen de la
+      Revisión Ambiental y Social (ESRS).
+
+3.6   Condiciones contractuales especiales de ejecución. (i) Antes de llevar a cabo
+      actividades en un municipio beneficiario del Programa, el organismo ejecutor
+      deberá presentar evidencia de la firma de un convenio con el municipio respectivo,
+      para establecer las responsabilidades de ambas partes en la ejecución del
+      proyecto de que se trate, incluyendo las obligaciones en materia de mantenimiento
+      de las obras; (ii) antes de la emisión de la primera orden de servicio para las obras
+      del Programa, el Prestatario presentará al Banco evidencia de la contratación de
+      una empresa para apoyar la gestión del Programa; (iii) antes del inicio de la
+      ejecución de cada obra del Programa, el organismo ejecutor deberá presentar
+      evidencia de la contratación de una empresa para la supervisión técnica y
+      socioambiental de la obra respectiva; y (iv) el plazo para el inicio de las obras del
+      programa será de 3 años contados de la fecha de entrada en vigor del contrato de
+      préstamo. Adicionalmente, ver otras condiciones contractuales especiales en el
+      Plan de Acción Ambiental y Social (ESAP) y en Anexo B del Resumen de la
+      Revisión Ambiental y Social (ESRS).
+
+3.7   El plazo para el inicio material de las obras se estableció en virtud de la
+      planificación de la ejecución de los proyectos y la forma en cómo se ha
+      estructurado el cronograma de licitaciones, para permitir el inicio del último grupo
+      de obras a tiempo (EER#1).
+
+3.8   Gestión Financiera y auditoria. La gestión financiera del programa se realizará
+      de acuerdo con la Guía de Gestión Financiera para proyectos financiados por el
+      BID (OP-273-12), la cual establece entre otras, las modalidades de desembolsos
+      y las auditorías externas de informes financieros del programa que serán
+      acordados con el Banco. Los estados financieros del programa serán auditados
+      anualmente por el Tribunal de Cuentas del EP, o por una firma de auditoría externa
+      independiente, aceptable por el Banco, a ser contratada por el OE. Los estados
+      financieros auditados del programa serán presentados al Banco 120 días después
+      del cierre de cada ejercicio económico de la entidad, de conformidad con los
+      procedimientos y los términos de referencia previamente acordados con el Banco.
+
+3.9   Desembolsos. Los desembolsos del préstamo serán efectuados en dólares
+      americanos y bajo la modalidad de anticipo de fondos en una cuenta bancaria
+      especial, a nombre del programa, para uso exclusivo de los recursos del
+                                         - 22 -
+
+
+       préstamo. Las solicitudes de anticipos deberán satisfacer las necesidades de
+       liquidez del proyecto, documentadas dentro del plan financiero, por un periodo de
+       hasta seis meses. Para cada anticipo (con excepción del primero), será necesaria
+       la rendición de cuentas de por lo menos el 80% de los recursos anticipados y aún
+       no justificados.
+
+3.10   Adquisición de obras, bienes y servicios. Las adquisiciones seguirán las
+       Políticas para la Adquisición de Bienes y Obras Financiados por el BID
+       (GN-2349-15) y las Políticas para la Selección y Contratación de Consultores
+       Financiados por el BID (GN-2350-15). Las contrataciones de obras, bienes y
+       servicios están definidas en el Plan de Adquisiciones (PA) (EER#4) y se realizarán
+       conforme a lo establecido en el Anexo III de Acuerdos y Requisitos Fiduciarios.
+
+3.11   Financiamiento retroactivo. El Banco podrá financiar retroactivamente con
+       cargo a los recursos del préstamo, los gastos elegibles efectuados por el
+       Prestatario y/o el Organismo Ejecutor antes de la fecha de aprobación del
+       préstamo para estudios, proyectos y obras del programa, hasta un monto de
+       US$15 millones (10% del monto del préstamo propuesto), siempre que se hayan
+       cumplido los requisitos sustancialmente similares a los establecidos en el
+       convenio de préstamo. Dichos gastos deben haberse realizado a partir de la fecha
+       de aprobación del Perfil del Proyecto (27 de febrero de 2023), pero en ningún caso
+       se incluirán gastos realizados con más de 18 meses de antelación a la fecha de
+       aprobación del préstamo.
+
+B.     Resumen de los arreglos para el monitoreo de resultados
+
+3.12   Sistema de monitoreo y seguimiento. El OE realizará el monitoreo y control de
+       todos los procesos de gestión de los proyectos, los que incluyen: (i) los informes
+       semestrales de seguimiento donde se detalla: el cumplimiento de objetivos para
+       los indicadores de producto y resultado que se describen en la MdR; el progreso
+       físico y financiero de los productos; progreso del POA; estado de los procesos de
+       adquisición y contratación conforme al PA (EER#4); cumplimiento de
+       salvaguardas ambientales y sociales; evaluación de riesgos; y actualización de
+       las herramientas de planificación y monitoreo; (ii) la emisión de los Estados
+       Financieros del programa; y (iii) la elaboración del Informe de Terminación del
+       Proyecto según lo detallado en el Plan de Monitoreo y Evaluación (EER#2).
+
+3.13   Evaluación del programa. El programa tiene previsto realizar una evaluación
+       intermedia, que abarque los aspectos técnicos, administrativos y financieros, una
+       vez alcanzado el desembolso del 50% del préstamo o transcurridos tres años
+       desde la entrada en vigor del Contrato de Préstamo (lo que ocurra primero) y una
+       Evaluación Final, la cual deberá ser presentada al Banco dentro de los 90 días de
+       la fecha de vencimiento del periodo de desembolso o sus extensiones. Esta
+       deberá incorporar también una evaluación económica ex post y una evaluación
+       cualitativa (EER#2). Además, se presentará el Informe de Terminación del
+       Programa (PCR, por sus siglas en inglés), de responsabilidad del Banco, el cual
+       se basará en los informes semestrales de ejecución, la MdR, el PMR y los Estados
+       Financieros Auditados (EFA), en los informes correspondientes a las evaluaciones
+       intermedia y final, y en una evaluación cualitativa que incluya la sistematización
+       de buenas prácticas y las principales lecciones aprendidas con la finalidad de
+       contribuir a mejorar el valor agregado del Banco en sus futuras intervenciones
+                                          - 23 -
+
+
+      urbana (EER#2). El PCR se procesará de acuerdo con las normas y
+      procedimientos aplicables.
+
+
+                        IV.      CRITERIOS DE ELEGIBILIDAD
+
+4.1   Elegibilidad de la segunda operación individual bajo la CCLIP. La segunda
+      operación cumple con los requisitos previstos en la política aplicable al
+      instrumento CCLIP (documento GN-2246-13) dado que: (i) se hizo un análisis de
+      la capacidad institucional del OE, COHAPAR, de manera completa, por medio de
+      la PACI, y se identificó que tiene la capacidad de ejecución así como las esferas
+      de mejora y los posibles riesgos (¶2.12); (ii) el objetivo de la operación contribuye
+      al logro de los objetivos multisectoriales de la CCLIP al promover nuevas
+      estrategias de atención al déficit de vivienda para familias de bajos ingresos
+      apoyando a una entidad de gobierno subnacional, como es el EP, en la
+      elaboración e implementación de programas de vivienda de interés social (¶1.28);
+      (iii) la operación está contemplada en los tres sectores de la CCLIP (provisión de
+      soluciones habitacionales, mejoramiento del hábitat, y fortalecimiento del sector);
+      y (iv) se incluyen las acciones que deben emprenderse en las esferas de mejora
+      identificadas en la evaluación de la capacidad.
+                                                                                                                                                                                      Anexo I - [BR-L1588]
+                                                                                                                                                                                            Página 1 de 1
+
+
+
+
+                                                                      Matriz de Efectividad en el Desarrollo
+                                                                               Resumen             BR-L1588
+I. Prioridades corporativas y del país
+1. Alineación con la estrategia institucional del Grupo BID
+
+
+                                                                                            -Biodiversidad, capital natural y acción climática
+                                                                                            -Igualdad de género e inclusión de grupos poblacionales diversos
+Áreas de enfoque operativo                                                                  -Capacidad institucional, estado de derecho, seguridad ciudadana
+                                                                                            -Infraestructura sostenible, resiliente e inclusiva
+
+
+
+
+[Marcador de espacio: Indicadores del marco de impacto]
+
+2. Objetivos de desarrollo del país
+
+                                                                                                                     Área prioritaria: (iv) Reducir la desigualdad social y la
+                                                                                                                     desigualdad de oportunidades mejorando la eficiencia de las
+  Matriz de resultados de la estrategia de país                                                     GN-2973          políticas públicas.
+                                                                                                                     Objetivo estratégico de: (v) Aplicar políticas eficientes para
+                                                                                                                     aumentar el acceso a la vivienda.
+
+
+
+                                                                                                                     La intervención no está incluida en el Programa de
+  Matriz de resultados del programa de país
+                                                                                                                     Operaciones de 2024.
+
+
+   Relevancia del proyecto a los retos de desarrollo del país (si no se encuadra
+dentro de la estrategia de país o el programa de país)
+
+II. Development Outcomes - Evaluability                                                                                        Evaluable
+3. Evaluación basada en pruebas y solución                                                                                          8.1
+     3.1 Diagnóstico del Programa                                                                                                   2.5
+     3.2 Intervenciones o Soluciones Propuestas                                                                                     1.6
+     3.3 Calidad de la Matriz de Resultados                                                                                         4.0
+4. Análisis económico ex ante                                                                                                       7.5
+     4.1 El programa tiene una TIR/VPN, o resultados clave identificados para ACE                                                   1.5
+     4.2 Beneficios Identificados y Cuantificados                                                                                   3.0
+     4.3 Supuestos Razonables                                                                                                       0.0
+     4.4 Análisis de Sensibilidad                                                                                                   2.0
+     4.5 Consistencia con la matriz de resultados                                                                                   1.0
+5. Evaluación y seguimiento                                                                                                         8.4
+     5.1 Mecanismos de Monitoreo                                                                                                    4.0
+     5.2 Plan de Evaluación                                                                                                         4.4
+III. Matriz de seguimiento de riesgos y mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                             Medio Bajo
+Clasificación de los riesgos ambientales y sociales                                                                                  A
+IV. Función del BID - Adicionalidad
+El proyecto se basa en el uso de los sistemas nacionales
+                                                                                                                     Presupuesto, Tesorería, Contabilidad y emisión de informes,
+                                                                                                                     Controles externos, Auditoría interna.
+                                                       Fiduciarios (criterios de VPC/FMP)              Si
+                                                                                                                     Adquisiciones y contrataciones: Sistema de información,
+                                                                                                                     Método de comparación de precios, Contratación de
+                                                                                                                     consultor individual, Licitación pública nacional.
+
+
+                                                                                                                     Sistema Nacional de Monitoreo y Evaluación, Sistema
+                                                                          No-Fiduciarios               Sí
+                                                                                                                     Nacional de Evaluación Ambiental.
+
+
+La participación del BID promueve mejoras adicionales en los presuntos beneficiarios
+o la entidad del sector público en las siguientes dimensiones:
+
+   Antes de la aprobación se brindó a la entidad del sector público asistencia técnica
+adicional (por encima de la preparación de proyecto) para aumentar las
+probabilidades de éxito del proyecto
+
+
+
+Nota de valoración de la evaluabilidad:
+El objetivo general del programa es mejorar la calidad de vida de la población socialmente vulnerable que vive en ocupaciones irregulares, asentamientos precarios, o
+viviendas insalubres en el EP promoviendo el acceso a una vivienda digna, condiciones básicas de infraestructura y acciones socioambientales. Los objetivos específicos
+son: (i) incrementar el acceso a soluciones de vivienda equitativa y sostenible y hábitat para la población socialmente vulnerable; y (ii) mejorar la atención de COHAPAR a
+través de una gestión pública innovadora e inteligente.
+
+El programa beneficiará a aproximadamente 5.600 familias que (i) viven en asentamientos precarios que requieren acciones de reasentamiento, implementación de
+infraestructura y/o mejoramiento urbano y regularización de tierras (demanda cerrada); y (ii) familias socialmente vulnerables cuyos ingresos familiares brutos no superan los
+tres salarios mínimos y que se encuentren registradas en el Catastro Único de Pretendientes de COHAPAR (demanda abierta). Se estima que 70% de las unidades producidas
+por el programa sean entregadas a los beneficiarios de la demanda cerrada y 30% se destinen a la demanda abierta.
+
+En general, el diagnóstico es adecuado, tiene un problema bien identificado y determinantes claros. La matriz de resultados exhibe una lógica vertical con objetivos
+específicos claros, e indicadores SMART que permiten demostrar el cumplimiento de los objetivos.
+
+El análisis económico del programa consistió en un Análisis de Costo-Beneficio (CBA) Beneficio para un periodo de 20 años, donde se estima una tasa interna de retorno
+(TIR) de 21.5% en el escenario base, incluyendo un análisis de sensibilidad que muestra que la operación soportaría aumentos de costos de hasta un máximo de 34,7% o
+reducciones en los beneficios de hasta un máximo de 25,8% para que siga siendo costo-efectivo. El Análisis Costo-Beneficio incluye la estimación de algunos beneficios que
+van más allá de la población objetivo.
+
+El programa cuenta con un Plan de Monitoreo y Evaluación que especifica: (i) las actividades mínimas de monitoreo, (ii) las preguntas de evaluación; (iii) las metodologías de
+medición de los indicadores; y (iv) las fuentes de datos y los protocolos de verificación, así como el presupuesto para estas actividades. El Plan de Evaluación plantea una
+evaluación con atribución mediante la metodología de diferencias-en-diferencias para medir el efecto causal de la operación sobre el logro de los objetivos de la operación. El
+Plan de Evaluación también proponer una metodología Antes y Después para medir la contribución teórica de la operación a los indicadores de resultado.
+                                                                                                                                                     Anexo II – BR-L1588
+                                                                                                                                                           Página 1 de 8
+
+
+
+
+                                                                    Matriz de Resultados
+Objetivo del           El objetivo general del programa es mejorar la calidad de vida de la población socialmente vulnerable que vive en ocupaciones irregulares,
+proyecto:              asentamientos precarios, o viviendas insalubres en el Estado de Paraná promoviendo el acceso a una vivienda digna, condiciones básicas de
+                       infraestructura y acciones socioambientales. Los objetivos específicos son: (i) incrementar el acceso a soluciones equitativas y sostenibles de
+                       vivienda y hábitat para población socialmente vulnerable; y (ii) mejorar la atención de COHAPAR a través de una gestión pública innovadora e
+                       inteligente.
+
+
+                                                               Objetivo General de Desarrollo
+                      Unidad     Valor de     Año de
+                                                                     Años esperado para          Medios de
+    Indicadores         de        Línea        Línea        Meta                                                                      Comentarios
+                                                                          el logro              Verificación
+                      medida      base         base
+Objetivo general de desarrollo: mejorar la calidad de vida de la población socialmente vulnerable que vive en ocupaciones irregulares, asentamientos precarios,
+o viviendas insalubres en el Estado de Paraná promoviendo el acceso a una vivienda digna, condiciones básicas de infraestructura y acciones socioambientales
+Valor del metro        R$/m2      897,73             2024            1.077,27      2028     Informe de Análisis   Para calcular el valor de la unidad de beneficio de
+cuadrado promedio                                                                           Económico ex-ante     valorización inmobiliaria (R$/m²), se utilizó la base de
+en las áreas de                                                                             y ex-post del         datos de COHAPAR, referente a los hogares
+intervención del                                                                            programa              registrados en los que los residentes pagan alquiler
+programa                                                                                                          por el uso de la propiedad, con un valor de propiedad
+                                                                                                                  promedio estimado en R$83.744,34, y datos de la
+                                                                                                                  encuesta por muestreo realizada en las áreas del
+                                                                                                                  proyecto, donde se identificó un área promedio de
+                                                                                                                  90m² por propiedad, lo que resultó en un valor unitario
+                                                                                                                  de R$897,73/m².
+                                                                                                                  Meta: La valorización esperada es del 20% del valor
+                                                                                                                  unitario por m².
+                                                                                                                  Tipo de cambio:US$1 = R$5,50.
+                                                                                                                                                           Anexo II – BR-L1588
+                                                                                                                                                                 Página 2 de 8
+
+                                                                   Objetivos de Desarrollo Específicos
+                                                    Valor Línea    Fin del
+                                 Unidad de                                           Medio de
+        Indicadores                                  de base      Proyecto                                                         Comentarios
+                                  medida                                            Verificación
+                                                      (2024)       (2029)
+    Objetivo específico de desarrollo 1: incrementar el acceso a soluciones equitativas y sostenibles de vivienda y hábitat para población socialmente vulnerable.
+    Indicador 1. Número          # familias            376           670         Informes             En los últimos 5 años, se dio acceso a un promedio de 376 familias por
+    promedio de familias                                                         COHAPAR              año. Con la implementación del Programa, se espera un promedio de
+    en situación de                                                                                   1.120 Unidades Habitacionales por año.
+    vulnerabilidad 1                                                                                  Considerando los riesgos cambiales y los riesgos inherentes a la
+    atendidas anualmente                                                                              construcción de UH en Brasil, se previó un coeficiente de minimización
+    con soluciones                                                                                    de 0,6 para la meta, lo que resulta en 670 viviendas/año (178% de
+    habitacionales                                                                                    aumento).
+    calificadas
+    Indicador 2.                 porcentaje             5%           7,5%        Informes             Línea de base: Actualmente la COHAPAR cumple con el porcentaje
+    Porcentaje de familias                                                       COHAPAR              previsto en la Ley Federal 13.146/2015, que prevé que se reserve un 5%
+    con personas con                                                                                  de las unidades habitacionales a familias con discapacidad entre sus
+    discapacidad                                                                                      miembros.
+    beneficiadas con                                                                                  Meta: Basado en el porcentaje de familias con miembros PcD de muestra
+    casas adaptadas                                                                                   representativa. La demanda cerrada contiene 713 familias, y de estas 75
+                                                                                                      tienen algún miembro con PcD (10%). Por lo tanto, será considerado
+                                                                                                      7,5%.
+                                                                                                      Las viviendas serán adaptadas de acuerdo con las necesidades de cada
+                                                                                                      miembro PcD identificado en el registro, tales como: ancho de puertas,
+                                                                                                      accesorios, altura de fregaderos y grifos, etc.
+    Indicador 3.                # familias con         54%           60%         Informe semestral    Línea de base: Aunque el art. 1 de la Ley Estatal nº 15.301/2006
+    Porcentaje de títulos     jefatura femenina                                  de COHAPAR           determine que 20% de las unidades de los programas de subdivisión
+    entregados a mujeres      beneficiadas con                                                        social y vivienda popular deban asignarse a "mujeres jefas de familia", en
+    jefes de familia         relación al total de                                                     los últimos 3 años COHAPAR atendió 17.000 familias correspondientes
+    atendidas por el         familias atendidas                                                       a este grupo (54% del total).
+    Programa                   por el programa                                                        Meta: El programa aspira destinar un 60% del total de las unidades a
+                                                                                                      familias con jefatura femenina con titulación o co-titulación en sus
+                                                                                                      nombres.
+
+
+
+
+1      Familias que viven en ocupaciones irregulares, asentamientos precarios, o viviendas insalubres en situación de hipo suficiencia.
+                                                                                                                                       Anexo II – BR-L1588
+                                                                                                                                             Página 3 de 8
+
+
+                                     Valor Línea    Fin del
+                        Unidad de                                 Medio de
+    Indicadores                       de base      Proyecto                                                    Comentarios
+                         medida                                  Verificación
+                                       (2024)       (2029)
+Indicador 4.            porcentaje       0%          20%      Informe semestral   Las nuevas viviendas reducirán las emisiones de GEI respecto a los
+Emisiones de Gases                                            de COHAPAR          proyectos tipo que venía construyendo la COHAPAR previo a esta
+de Efecto Invernadero                                                             operación.
+reducidas o evitadas                                                              Meta: Según simulaciones EDGE compartidas con el equipo, con los
+                                                                                  nuevos diseños se obtiene la reducción de GEI de entre 0,1 y 0,2
+                                                                                  tCO2e/año por vivienda con respecto a la línea de base, lo que representa
+                                                                                  entre un 20-25% de ahorro.
+                                                                                  Fuente: Informe semestral de COHAPAR que demuestre que las
+                                                                                  viviendas logran el nivel de ahorro de emisiones GEI utilizando la
+                                                                                  herramienta EDGE o similar.
+Indicador 5. Áreas      Hectáreas        0           15,6     Informe semestral   Cota definida por COHAPAR para implantación de soluciones basadas
+recuperadas con                                               de COHAPAR          en la naturaleza del total de hectáreas recuperadas
+soluciones basadas                                                                Considerando el cálculo detallado en el indicador de producto 1.2 - hito
+en la naturaleza y                                                                3, están previstos el tratamiento de 78 hectáreas de áreas de origen. Por
+resilientes                                                                       lo tanto, se prevé que 15,6 hectáreas (20%) de las áreas de origen sean
+                                                                                  recuperadas con soluciones basadas en la naturaleza y resilientes.
+                                                                                  Soluciones basadas en la naturaleza y resilientes pueden ser aquellas
+                                                                                  que promueven la restauración ecológica y la sostenibilidad a largo plazo,
+                                                                                  tales como: protección y recomposición de la capa vegetal, plantación de
+                                                                                  especies nativas, creación de corredores ecológicos, uso de técnicas de
+                                                                                  ingeniería natural (por ejemplo, estructuras naturales para estabilizar el
+                                                                                  suelo, controlar la erosión y crear hábitats), conservación del agua,
+                                                                                  educación y participación comunitaria, entre otros.
+                                                                                                                                              Anexo II – BR-L1588
+                                                                                                                                                    Página 4 de 8
+
+
+                                          Valor Línea      Fin del
+                          Unidad de                                        Medio de
+    Indicadores                            de base        Proyecto                                                     Comentarios
+                           medida                                         Verificación
+                                            (2024)         (2029)
+Objetivo específico de desarrollo 2: mejorar la atención de COHAPAR a través de una gestión pública innovadora e inteligente.
+Indicador 6. Tiempo        meses             9,14           7,31       Informes           Reducción estimada del tiempo para la elaboración de todos los
+para la elaboración de                                                 COHAPAR            proyectos desarrollados en COHAPAR a partir del uso de la metodología
+proyectos básicos en                                                   respaldados por    BIM - no sólo los proyectos del Programa.
+COHAPAR                                                                documentación      De 2018 a 2023, el tiempo promedio empleado en la preparación de
+                                                                       registrada en      proyectos básicos en COHAPAR fue de 9,14 meses. Con la
+                                                                       procesos           implementación de la metodología BIM, COHAPAR prevé que la
+                                                                       electrónicos de    elaboración de proyectos durará en promedio 7,31 meses. Reducción de
+                                                                       COHAPAR y          tiempo en un 20%.
+                                                                       auditadas por el   Es importante señalar que este tiempo promedio se refiere al período
+                                                                       TCE/PR             desde la emisión de la orden de trabajo para la preparación del proyecto
+                                                                                          básico hasta su aprobación final por COHAPAR.
+                                                                                          La capacitación prevista en el Programa también contribuirá a la
+                                                                                          reducción del tiempo para la elaboración de proyectos básicos.
+                                                                                          Además de la reducción de tiempo, los proyectos estarán más
+                                                                                          cualificados técnica y socio-ambientalmente.
+                                                                                          La fuente de datos y medio de verificación será respaldada por
+                                                                                          documentación registrada en procesos electrónicos de COHAPAR y
+                                                                                          auditadas por el Tribunal de Cuentas del Estado.
+                                                                                                                                               Anexo II – BR-L1588
+                                                                                                                                                     Página 5 de 8
+
+                                                                           Productos
+                                           Valor
+                         Unidad de        Línea                                               Fin del      Medio de
+    Indicadores                          de Base   Año 1   Año 2   Año 3    Año 4    Año 5                                              Comentarios
+                          medida                                                             Proyecto     verificación
+                                          (2024)
+Componente 1. Atención Habitacional a Familias en Situación de Vulnerabilidad Socioambiental
+1.1. Estudios y           Estudios         0        1       2       0         0        0        3       Informe Semestral Estudios y Proyectos de Ingeniería
+    Proyectos de                                                                                        de Progreso de la aprobados por COHAPAR y respectivos
+    Ingeniería                                                                                          UGP               municipios para la ejecución de las
+    aprobados                                                                                                             obras incluidas en el Programa.
+1.2. Construcción         Unidades         0        _      500     1.900     2.000   1.200    5.600     Informe Semestral
+     de Unidades        Habitacionales                                                                  de Progreso de la
+     Habitacionales                                                                                     UGP
+Hito 1. Viviendas         Unidades         0         -     500     1.900     2.000   1.200    5.600     Informe Semestral Unidades Habitacionales construidas en
+construidas em          Habitacionales                                                                  de Progreso de la zonas sin riesgo climático alto, con
+zonas fuera de                                                                                          UGP               abastecimiento de agua potable,
+riesgo climático alto                                                                                                     alcantarillado y reporte con nivel 1 de
+compatible con                                                                                                            EDGE o similar.
+EDGE nivel 1 o                                                                                                            Se sabe que el periodo de ejecución de
+similar                                                                                                                   las obras es de aproximadamente 18
+                                                                                                                          meses, por lo tanto, el primer grupo, que
+                                                                                                                          comprende los proyectos de UH de la
+                                                                                                                          muestra representativa, ya podría
+                                                                                                                          comenzar en el año 1 y finalizar en el
+                                                                                                                          año 2.
+                                                                                                                                       Anexo II – BR-L1588
+                                                                                                                                             Página 6 de 8
+
+
+                                     Valor
+                       Unidad de    Línea                                             Fin del      Medio de
+    Indicadores                    de Base   Año 1   Año 2   Año 3   Año 4   Año 5                                              Comentarios
+                        medida                                                       Proyecto     verificación
+                                    (2024)
+Hito 2. Conjuntos de   Hectáreas     0         -      2       9       9       6        26       Informe Semestral Como conjuntos de Vivienda de Interés
+Vivienda de Interés                                                                             de Progreso de la Social con acceso a servicios básicos se
+Social con acceso a                                                                             UGP               entiende al área dentro del perímetro del
+servicios básicos                                                                                                 proyecto, que será provista de:
+                                                                                                                  abastecimiento de agua potable,
+                                                                                                                  alcantarillado o solución individual,
+                                                                                                                  pavimentación, iluminación pública,
+                                                                                                                  señalización, vialidad y paisajismo.
+                                                                                                                  Memoria de cálculo: Según COHAPAR,
+                                                                                                                  43% de los proyectos de la muestra
+                                                                                                                  representativa contarán con servicios de
+                                                                                                                  pavimentación. COHAPAR estimó que
+                                                                                                                  cada Conjunto Habitacional (CH) tendrá
+                                                                                                                  en promedio 3.713 m² de pavimentación
+                                                                                                                  y 895 m² de aceras (áreas públicas
+                                                                                                                  externas). Tales valores agregados y
+                                                                                                                  multiplicados por 43% dan como
+                                                                                                                  resultado un área urbanizada de
+                                                                                                                  1,981.44 m² por CH.
+                                                                                                                  Considerando la relación entre el total
+                                                                                                                  de UH (5,600) sobre el promedio
+                                                                                                                  histórico de 42 UH por CH, se estima
+                                                                                                                  que        el      Programa       tendrá
+                                                                                                                  aproximadamente 133 CH.
+                                                                                                                  De esta manera, es posible calcular que
+                                                                                                                  el área urbanizada total de los CH será
+                                                                                                                  igual de 263,531.52 m² o 26.35
+                                                                                                                  hectáreas.
+                                                                                                                                           Anexo II – BR-L1588
+                                                                                                                                                 Página 7 de 8
+
+
+                                         Valor
+                       Unidad de        Línea                                             Fin del      Medio de
+    Indicadores                        de Base   Año 1   Año 2   Año 3   Año 4   Año 5                                              Comentarios
+                        medida                                                           Proyecto     verificación
+                                        (2024)
+Hito 3. Áreas de        Hectáreas        0         -       -      7       26      45       78       Informe Semestral Indicador se refiere al total de áreas
+origen intervenidas                                                                                 de Progreso del   degradadas       que    serán    tratadas
+con obras de                                                                                        UGP               priorizando elementos de resiliencia
+infraestructura                                                                                                       urbana del Programa, con soluciones
+urbana                                                                                                                diversas      como:      ejecución     de
+                                                                                                                      infraestructura urbana, equipamientos
+                                                                                                                      públicos, parques o repoblación forestal
+                                                                                                                      Según datos del Programa, se
+                                                                                                                      ejecutarán un total de 5.600 HU, de las
+                                                                                                                      cuales el 70% se destinarán a demanda
+                                                                                                                      cerrada, es decir, 3.920 familias que
+                                                                                                                      viven en ocupaciones irregulares y
+                                                                                                                      serán      trasladadas     a    unidades
+                                                                                                                      habitacionales calificadas.
+                                                                                                                      La muestra representativa contabiliza
+                                                                                                                      895 viviendas en las áreas de origen de
+                                                                                                                      demanda cerrada. Se consideró una
+                                                                                                                      superficie de terreno de 200 m² por
+                                                                                                                      vivienda.
+                                                                                                                      Así, al considerar el número total de UH
+                                                                                                                      de la demanda cerrada, 3.920, tenemos
+                                                                                                                      un valor total de 78 hectáreas en áreas
+                                                                                                                      de     origen    que    serán    tratadas
+                                                                                                                      ambientalmente.
+Hito 4. Conjuntos     # de conjuntos     0         -      10      20      30      20       80       Informe Semestral Proyectos que incorporen diseños en los
+Habitacionales con    habitacionales                                                                de Progreso del   CH para aumentar la percepción de
+premisas de género                                                                                  UGP               seguridad, desde el interior de las UH
+e inclusión                                                                                                           hacia el exterior, en el espacio público,
+                                                                                                                      y viceversa.
+                                                                                                                      Las acciones se limitarán al poligonal de
+                                                                                                                      los CH y a los elementos de
+                                                                                                                      accesibilidad dentro de cada lote.
+                                                                                                                      El número de urbanizaciones se estimó
+                                                                                                                      en la descripción de hito 2 con un
+                                                                                                                      coeficiente de minimización de 0,6,
+                                                                                                                      resultando en un total de 80 CH.
+                                                                                                                                              Anexo II – BR-L1588
+                                                                                                                                                    Página 8 de 8
+
+
+                                           Valor
+                          Unidad de       Línea                                             Fin del      Medio de
+    Indicadores                          de Base   Año 1   Año 2   Año 3   Año 4   Año 5                                               Comentarios
+                           medida                                                          Proyecto     verificación
+                                          (2024)
+1.3. Supervisión           Informes        0        0       2       2       2       2         8       Informe Semestral Se contratarán empresas supervisoras
+     técnica, social y    aprobados                                                                   de Progreso del   para entregar informes semestrales, de
+     ambiental                                                                                        UGP               acuerdo con la cláusula contractual del
+                                                                                                                        Programa, con excepción del primer
+                                                                                                                        año, una vez que no está previsto
+                                                                                                                        concluir construcciones este año, solo
+                                                                                                                        elaboración de proyectos.
+                                                                                                                        Cada semestre, la UGP condensará los
+                                                                                                                        productos en un solo informe semestral.
+Componente 2. Fortalecimiento Institucional
+2.1. Adquisición e       Paquetes BIM      0         -      14       -       -       -       14       Informe Semestral Adquisición e instalación de paquetes
+     instalación de                                                                                   de Progreso del   con 14 nuevos ordenadores con alto
+     paquetes BIM                                                                                     UGP               nivel de eficiencia con instalación de
+     con                                                                                                                software de metodología BIM. Además,
+     equipamientos                                                                                                      se incorporarán 5 licencias BIM más a
+     informáticos y                                                                                                     las    computadoras     existentes    en
+     softwares                                                                                                          COHAPAR         y    las     respectivas
+                                                                                                                        capacitaciones para el uso de las
+                                                                                                                        licencias, incluyendo módulos para el
+                                                                                                                        uso de BIM para aspectos de cambio
+                                                                                                                        climático.
+2.2. Funcionarios de     #Número de        0        15      20      400     20      0        455      Informe Semestral Capacitación del personal en: técnicas y
+     COHAPAR             funcionarios                                                                 de Progreso del   actualización        de        sistemas;
+     capacitados                                                                                      UGP               certificaciones ambientales y de
+                                                                                                                        vivienda verde; diseño de proyectos e
+                                                                                                                        iniciativas con enfoque en género y
+                                                                                                                        diversidad     (afrodescendientes      y
+                                                                                                                        población LGBTQIA+).
+2.3. SISPEHIS            Informe final     0         -       -       -      1        -        1       Informe Semestral Actualización del Plan Estatal de
+     actualizado           aprobado                                                                   de Progreso del   Vivienda de Interés Social, realizado
+                                                                                                      UGP               cada 4 años. Para viabilizar el Plan en el
+                                                                                                                        año 2027, se realizarán seminarios,
+                                                                                                                        eventos de capacitación en los
+                                                                                                                        municipios, actividades de campo
+                                                                                                                        coordinadas      por    COHAPAR          y
+                                                                                                                        ejecutadas     localmente      por     los
+                                                                                                                        municipios del Estado.
+                                                                                                 Anexo III - BR-L1588
+                                                                                                       Página 1 de 6
+
+
+
+    País: Brasil          División: HUD               No. de operación: BR-L1588                      Año: 2024
+
+                                        Acuerdos y Requisitos Fiduciarios
+Organismo Ejecutor (OE): Companhia de Habitação do Paraná - COHAPAR
+Nombre de la Operación: Programa Estatal de Vivienda - Estado de Paraná - Proyecto Vida Nova
+I. Contexto fiduciario del Organismo Ejecutor
+1. Uso de sistema de país en la operación 1
+
+       X                      X Reportes             X Sistema Informativo           Licitación Pública Nacional
+    Presupuesto                                                                   (LPN)
+
+       X Tesorería            Auditoría             X Comparación de                  Otros
+                          Interna                Precios
+
+      X                     X Control               Consultores
+    Contabilidad          Externo                Individuales
+
+2. Mecanismo de ejecución fiduciaria
+
+         Particularidades de la              Estado de Paraná será el Prestatario y la COHAPAR será el
+         ejecución fiduciaria                Organismo Ejecutor, quien tendrá a su cargo la gestión técnica,
+                                             administrativa, financiera y de adquisiciones del Programa.
+
+3. Capacidad fiduciaria
+
+    Capacidad         La evaluación de la capacidad fiduciaria del Organismo Ejecutor concluyó que
+    fiduciaria del    COHAPAR tiene una capacidad institucional satisfactoria para la ejecución del
+    OE                Programa. Los Acuerdos y Requisitos Fiduciarios de la operación consideran los
+                      antecedentes de la institución como ejecutora del subcomponente 2.1 del préstamo
+                      3129/OC-BR. El programa tendrá un ROP que refleje medidas de mitigación de
+                      riesgo, necesidades y especificidades de este programa.
+
+4. Riesgos fiduciarios y respuesta al riesgo
+
+     Taxonomía                      Riesgo                   Nivel de                 Respuesta al riesgo
+     del Riesgo                                               riesgo
+
+    Recursos          Si el OE no cuenta con                 Medio-       Para los riesgos asociados a la gestión
+    humanos           profesionales con experiencia          Bajo         financiera y de adquisiciones se
+                      en el uso de las políticas                          consideraron acciones relacionadas
+                      fiduciarias del BID, podría                         con: (i) el fortalecimiento continuo del
+                      darse un retraso en el                              OE a través de capacitaciones,
+                      arranque del programa, lo                           asistencia y supervisión por parte del
+                      que generaría mayores                               equipo fiduciario del Banco; (ii) será
+                      costos y tiempo para la                             creada una Comisión Especial de
+                      implementación del mismo.                           Licitación (CEL) para el programa; y
+                                                                          (iii) incorporar los detalles de los
+                                                                          requerimientos financieros en el ROP.
+
+
+1     Cualquier sistema o subsistema que sea aprobado con posterioridad podría ser aplicable a la operación, de acuerdo con
+      los términos de la validación del Banco.
+                                                                                   Anexo III - BR-L1588
+                                                                                         Página 2 de 6
+
+
+  Taxonomía                   Riesgo                Nivel de             Respuesta al riesgo
+  del Riesgo                                         riesgo
+
+ Sistemas         Si el sistema de gestión         Medio-      Desarrollar o contratar una solución
+                  financiera del Programa no       Bajo        tecnológica que permita gestionar la
+                  fuera contratado al inicio de                contabilidad del Programa en dólar
+                  la ejecución, pueden ocurrir                 estadounidense y generar los reportes
+                  atrasos en la presentación de                financieros requeridos por el Banco.
+                  informaciones financieras,
+                  comprometiendo o atrasando
+                  la solicitud de desembolsos.
+
+5. Políticas y Guías aplicables a la operación: en Gestión Financiera la guía OP-273-12 o su versión
+vigente. En adquisiciones, las políticas GN-2349-15 y GN-2350-15
+6. Excepciones a Políticas y Guías: no aplica
+II. Aspectos a ser considerados en las Estipulaciones Especiales del Contrato de Préstamo
+
+ Condiciones especiales previas al primer desembolso: El Prestatario, a través del Organismo
+ Ejecutor (OE) deberá presentar al Banco evidencia de: (i) firma y entrada en vigor de un convenio
+ entre el prestatario y el organismo ejecutor, para la transferencia de los recursos y la ejecución de
+ las actividades del Programa; (ii) la aprobación y entrada en vigor del Reglamento Operativo del
+ Programa (ROP), en los términos previamente acordados con el Banco; y (iii) la creación de la
+ Unidad Gestora del Programa (UGP) y la designación de sus miembros, de acuerdo con la
+ composición que se menciona en el párrafo. Adicionalmente, ver otras condiciones contractuales
+ especiales en el Plan de Acción Ambiental y Social (ESAP) y en Anexo B del Resumen de la Revisión
+ Ambiental y Social (ESRS).
+
+ Tasa de cambio: Para efectos de lo estipulado en el Artículo 4.10 de las Normas Generales, las
+ Partes acuerdan que la tasa de cambio aplicable será la indicada en el inciso (b)(i) de dicho Artículo.
+ Para efectos de determinar la equivalencia de gastos incurridos en Moneda Local con cargo al
+ Aporte Local o del reembolso de gastos con cargo al Préstamo, la tasa de cambio acordada será la
+ tasa de cambio en la fecha efectiva en que el Prestatario, el Organismo Ejecutor o cualquier otra
+ persona natural o jurídica a quien se le haya delegado la facultad de efectuar gastos, efectúe los
+ pagos respectivos en favor del contratista, proveedor o beneficiario.
+
+ Tipo de Auditoría: Tipo de Auditoría: Durante la ejecución del programa, se presentarán anualmente
+ Estados Financieros Auditados (EFA) a más tardar 120 días siguientes al cierre de cada ejercicio
+ fiscal. La auditoría externa del programa será realizada por el Tribunal de Cuentas del Estado de
+ Paraná o por una firma de auditoría externa aceptable para el Banco. Los EFA finales del programa
+ serán presentados a más tardar 120 días después de la fecha del último desembolso o sus
+ extensiones.
+                                                                                    Anexo III - BR-L1588
+                                                                                          Página 3 de 6
+
+
+III. Acuerdos y Requisitos para la Ejecución de Adquisiciones
+
+     Documentos          Para adquisiciones de Obras, Bienes y Servicios Diferentes de Consultoría
+     de Licitación       ejecutadas de acuerdo con las Políticas de Adquisiciones (documento
+                         GN-2349-15), sujetas a LPI, se utilizarán los Documentos Estándar de
+                         Licitación (DELs) del Banco o los acordados entre OE y el Banco para la
+                         adquisición particular. Así mismo, la selección y contratación de Servicios de
+                         Consultoría serán realizadas de acuerdo con las Políticas de Selección de
+                         Consultores (documento GN-2350-15) y se utilizará la Solicitud Estándar de
+                         Propuestas (SEP) emitida por el Banco o acordada entre el OE y el Banco
+                         para la selección particular.
+
+     Adquisiciones       El Banco podrá financiar retroactivamente con cargo a los recursos del
+     Anticipadas         préstamo, hasta por la suma de US$15 millones (10% del monto propuesto
+     Financiamiento      del préstamo), gastos elegibles efectuados por el Prestatario antes de la fecha
+     Retroactivo         de aprobación del préstamo para estudios, proyectos y obras del Programa,
+                         siempre que se hayan cumplido con requisitos sustancialmente análogos a
+                         los establecidos en el contrato de préstamo. Dichos gastos deberán haberse
+                         efectuado a partir del 27 de febrero de 2023, pero en ningún caso se incluirán
+                         gastos efectuados más de 18 meses antes de la fecha de aprobación del
+                         préstamo.
+
+     Supervisión de      El método de supervisión será ex-post, salvo en aquellos casos en que se
+     las                 justifique una supervisión ex-ante. Para adquisiciones que se ejecuten a
+     Adquisiciones       través del sistema nacional, la supervisión se llevará por medio del sistema
+                         de supervisión nacional del país. El método ((i) ex-ante, (ii) ex-post o
+                         (iii) sistema nacional) de supervisión se debe determinar para cada proceso
+                         de selección. Las revisiones ex-post serán cada de acuerdo con el Plan de
+                         supervisión del proyecto, sujeto a cambios durante la ejecución. Los montos
+                         límite para la revisión ex-post son los siguientes:
+
+                             Organismo                                                 Servicios de
+                                                   Obras         Bienes/Servicios
+                              ejecutor                                                 Consultoría
+
+                          COHAPAR             US$10 millones      US$5 millones        US$1 millón
+
+Adquisiciones Principales
+
+      Descripción de la                 Método de Selección             Fecha              Monto
+        adquisición                                                    Estimada           Estimado
+                                                                                            (US$)
+
+ Bienes
+
+ Equipamientos de informática      CP                               Ene/2025                   600.000
+ e BIM
+
+ Obras
+
+ Grupo 1 - Lotes 1,2,3             Licitación Pública               Ene/2024                12.555.000
+                                   Nacional (LPN)
+
+ Grupo 1 - Lotes 4,5,6             Licitación Pública               Feb/2024                12.555.000
+                                   Nacional (LPN)
+                                                                                   Anexo III - BR-L1588
+                                                                                         Página 4 de 6
+
+
+      Descripción de la                Método de Selección              Fecha              Monto
+        adquisición                                                    Estimada           Estimado
+                                                                                            (US$)
+
+ Grupo 1 - Lotes 7,8,9             Licitación Pública               Mar/24                  12.555.000
+                                   Nacional (LPN)
+
+ Grupo 1 - Lotes 10,11,12          Licitación Pública               Abr/24                  12.555.000
+                                   Nacional (LPN)
+
+ Grupo 2 - 12 Lotes                Licitación Pública               Sep/24                  59.420.000
+                                   Internacional (LPI)
+
+ Grupo 3 - 12 Lotes                Licitación Pública               Ene/26                  48.610.000
+                                   Internacional (LPI)
+
+ Servicios de no consultoría
+
+ Supervisión Técnica y             Selección Basada en              Feb/2024                 2.000.000
+ Socioambiental de obras –         Cualidad y Costo (SBCC)
+ Primera regional
+
+ Supervisión Técnica y             Selección Basada en              Feb/2024                 2.000.000
+ Socioambiental de obras –         Cualidad y Costo (SBCC)
+ Segunda regional
+
+ Supervisión Técnica y             Selección Basada en              Feb/2024                 2.000.000
+ Socioambiental de obras –         Cualidad y Costo (SBCC)
+ Tercera regional
+
+ Supervisión Técnica y             Selección Basada en              Feb/2024                 2.000.000
+ Socioambiental de obras –         Cualidad y Costo (SBCC)
+ Cuarta regional
+
+ Implementación del sistema        Selección Basada en              Feb/2024                 4.400.000
+ de apoyo técnico y ambiental      Cualidad y Costo (SBCC)
+
+Link para acceder al Plan de Adquisiciones.
+IV. Acuerdos y Requisitos para la Gestión Financiera
+
+     Programación y         La COHAPAR, por intermedio de la UGP, es responsable de coordinar
+     Presupuesto            todo el proceso de planificación para la ejecución de las actividades según
+                            lo previsto en el PEP y en el POA. Las entidades del Estado de Paraná
+                            utilizan los instrumentos de planificación tales como el PPA (Plano
+                            plurianual), las metas y prioridades de la Ley de Directrices Presupuestales
+                            (LDO) y las acciones de la Ley de Presupuesto Anual (LOA). El
+                            presupuesto destinado a las actividades del Programa forma parte de esta
+                            LOA. El equipo de la UGP deberá garantizar que los recursos
+                            presupuestales para el programa, tanto aporte BID como Local, estén
+                            debidamente presupuestados, y asegurados para la ejecución anual de
+                            acuerdo con la Programación Operativa y Plan financiero del programa.
+                                                                         Anexo III - BR-L1588
+                                                                               Página 5 de 6
+
+
+Tesorería y     • Desembolsos y Flujo de Caja. Los desembolsos se efectuarán en dólares
+Gestión de      de los Estados Unidos de América, bajo la modalidad de anticipos de
+Desembolsos     fondos u otra modalidad establecida en la “Guía de Gestión Financiera para
+                Proyectos Financiados por el BID” (OP-273-12). Los anticipos de fondos
+                se realizarán sobre la base de un plan financiero generado para un periodo
+                de hasta 180 días. Exceptuando el primer anticipo de fondos, los siguientes
+                podrán tramitarse al haber justificado el 80% del saldo total acumulado de
+                anticipos. Se utilizará la plataforma electrónica "Online Disbursement" para
+                gestionar los desembolsos ante el Banco.
+                • Los recursos del Banco serán administrados a través de una cuenta
+                bancaria exclusiva que permita identificar los recursos del préstamo, y
+                realizar conciliaciones bancarias de estos recursos.
+                • A efectos de rendición de cuentas de los recursos del préstamo y del
+                aporte local, el organismo ejecutor utilizará (i) la tasa de cambio efectiva al
+                momento de la conversión de los fondos adelantados en la moneda de la
+                operación a la moneda local, para recursos BID; y, (ii) la tasa de cambio
+                efectiva de la fecha de pago para los reembolsos de gastos y
+                reconocimiento de gastos de aporte local. Los gastos considerados no
+                elegibles por el Banco deberán reintegrarse con recursos del aporte local
+                o con otros recursos, a criterio del prestatario y mediante aprobación del
+                Banco, de acuerdo con la naturaleza de la inelegibilidad.
+
+Contabilidad,   • En el Estado de Paraná, las entidades públicas trabajan con Sistemas
+sistemas de     SIAFI y SIGMA-PP, de uso obligatorio. Las entidades siguen las Normas
+información y   de Contabilidad para el Sector Público. SIAFI permite que la Secretaría de
+generación de   Hacienda tenga una visión transversal de los recursos financieros y permite
+reportes        una gestión eficiente de todos los recursos financieros de PR, en la
+                moneda nacional. Sin embargo, SIAFI no permite automáticamente la
+                gestión de la operación en otras monedas y no permite la emisión de
+                informes según los requerimientos del BID
+                • SIGMA-PP está vinculado a SIAFI e integra actividades presupuestarias,
+                contables y de tesorería. Fue desarrollado con el objetivo de apoyar la
+                planificación de los programas, registrar resultados y metas, monitorear y
+                evaluar el desempeño del programa y emitir informes de seguimiento,
+                monitoreo físico y financiero, en monedas extranjeras.
+                • Por lo anterior, en un plazo máximo de seis meses a partir de la firma del
+                contrato de préstamo, COHAPAR deberá comprobar la implantación del
+                SIGMA-PP, el cual permitirá, de manera automática, la emisión de los
+                informes financieros en conformidad a los requisitos del Banco.
+                • Como complemento a las políticas y guías aplicables a la operación se
+                utilizará el ROP con la definición documentada de flujos de trabajo y
+                controles internos.
+                                                                          Anexo III - BR-L1588
+                                                                                Página 6 de 6
+
+
+Control externo e   • La auditoría externa del programa podrá realizarse por el Tribunal de
+Informes            Cuentas del Estado de Paraná, o por una firma de auditoría externa
+financieros         independiente elegible para auditar operaciones financiadas por el Banco,
+                    según Términos de Referencia previamente acordados entre el OE y el
+                    Banco, que podrán ajustarse a lo largo de la vida del proyecto,
+                    dependiendo de los resultados de supervisión del Banco.
+                    • Los Informes Financieros Auditados (IFAs) serán presentados a más
+                    tardar 120 días después del cierre de cada ejercicio financiero y los IFAs
+                    finales a más tardar 120 días después de la fecha del último desembolso
+                    vigente.
+
+Supervisión         • El plan de supervisión financiera surgirá a partir de las evaluaciones de
+Financiera de la    riesgo y capacidad fiduciaria realizadas a la COHAPAR y considerará
+operación           visitas de supervisión in situ y de "escritorio", así como el análisis y
+                    seguimiento de los resultados y recomendaciones de las auditorías a los
+                    informes financieros anuales del Programa.
+              DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                            PROYECTO DE RESOLUCIÓN DE-___/24
+
+
+
+Brasil. Préstamo ____/OC-BR al Estado de Paraná. Programa Estatal de Vivienda – Estado de
+    Paraná – Proyecto Vida Nova. Segunda Operación Individual bajo la Línea de Crédito
+                         Condicional para Proyectos de Inversión
+                             (CCLIP) ProMorar (BR-O0014)
+
+
+
+        El Directorio Ejecutivo
+
+RESUELVE:
+
+        Autorizar al Presidente del Banco, o al representante que él designe, para que, en
+nombre y representación del Banco, proceda a formalizar el contrato o contratos que sean
+necesarios con el Estado de Paraná, como Prestatario, y con la República Federativa del
+Brasil, como Garante, para para otorgarle al primero un financiamiento destinado a cooperar en
+la ejecución del Programa Estatal de Vivienda – Estado de Paraná – Proyecto Vida Nova, que
+constituye la segunda operación individual bajo la Línea de Crédito Condicional para Proyectos
+de Inversión (CCLIP) ProMorar (BR-O0014), aprobada mediante Resolución DE-57/23 del 28
+de junio de 2023. Dicho financiamiento será hasta por la suma de US$150.000.000, que formen
+parte de los recursos del Capital Ordinario del Banco, y se sujetará a los Plazos y Condiciones
+Financieras y a las Condiciones Contractuales Especiales del Resumen de Proyecto de la
+Propuesta de Préstamo.
+
+
+
+                           (Aprobada el ___ de ____________ de 2024)
+
+
+
+LEG/SGO/CSC/EZID0000366-620307903-43318
+BR-L1588
+

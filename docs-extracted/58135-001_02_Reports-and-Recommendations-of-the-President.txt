@@ -1,0 +1,1059 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+PUBLIC
+
+Project Number: 58135-001
+March 2026
+
+
+
+
+Proposed Financial Intermediary Loan and
+Technical Assistance Grant
+Otbasy Bank Joint-Stock Company (JSC)
+Promoting Inclusive and Green Housing Finance
+Project
+(Guaranteed by the Republic of Kazakhstan)
+
+
+
+
+This is a redacted version of the document approved by ADB's Board of Directors. The document
+excludes information that is subject to exceptions to disclosure set forth in ADB's Access to
+Information Policy.
+                    CURRENCY EQUIVALENTS
+                     (as of 11 December 2025)
+
+                  Currency unit      –     tenge (T)
+                         T1.00       =     $0.0019
+                         $1.00       =     T518.47
+
+
+
+
+                          ABBREVIATIONS
+
+ADB    –     Asian Development Bank
+ESG    –     environmental, social, and governance
+ESMS   –     environmental and social management system
+GDP    –     gross domestic product
+JSC    –     joint-stock company
+m2     –     square meter
+NPL    –     nonperforming loan
+SDG    –     Sustainable Development Goal
+TA     –     technical assistance
+
+
+
+
+                                  NOTE
+
+           In this report, “$” refers to United States dollars.
+Vice-President         Yingming Yang, Office of the Vice-President (South, Central and
+                          West Asia)
+Director General       Leah Gutierrez, Central West Regional Department (CWRD)
+Directors              Mohd Sani Mohd Ismail, Director, Finance Sector Office, Sectors
+                          Department 3 (SD3-FIN)
+                       Utsav Kumar, Country Director, Kazakhstan Resident Mission
+                          (KARM), CWRD
+
+Project team leaders   Giacomo Giannetto, Principal Financial Sector Specialist, SD3-FIN
+                       Arystan Galiyev, Senior Project Officer (Natural Resources and
+                            Agriculture), KARM, CWRD
+Project team members   Altynai Abdyldaeva, Gender Officer (Gender and Development),
+                            Gender Equality Division, Climate Change and Sustainable
+                            Development Department (CCSD)
+                       Lilia Aleksanyan, Senior Country Economist, Office of the Director
+                            General, CWRD
+                       Mel Altoveros; Procurement Specialist; Procurement Division (PFP);
+                            Procurement, Portfolio, and Financial Management Department
+                            (PPFD)
+                       Keecia Bianca Binaohan, Senior Project Assistant, SD3-FIN
+                       Gaukhar Biyekenova, Senior Treasury Specialist, Client Solutions
+                            Division, Treasury Department
+                       Andrew Calixto, Integrity Officer, Prevention and Compliance
+                            Division (AIPD), Office of Anticorruption and Integrity (OAI)
+                       Maria Cynthia Castillejos, Principal Financial Sector Officer, SD3-
+                            FIN
+                       Maria Lorena C. Cleto, Senior Safeguards Specialist (Social), Office
+                            of Safeguards (OSFG)
+                       Nicole Andrea Cuento, Project Assistant, SD3-FIN
+                       Julian Alexander Doczi, Senior Procurement Specialist, PFP, PPFD
+                       Oliver Domagas, Principal Financial Control Specialist, Loan and
+                            Grant Disbursement Section, Controller’s Department
+                       Abhishek Hegde, Private Sector Development Specialist, Private
+                            Sector Development Unit, CWRD
+                       Feruza Insavalieva, Senior Safeguards Officer, OSFG
+                       Samir Ismayilov, Financial Sector Specialist, SD3-FIN
+                       Elmira Izmaganova, Project Officer (Financial Sector), KARM,
+                            CWRD
+                       Okju Jeong; Climate Change Specialist; Climate Change,
+                            Resilience, and Environment Cluster; CCSD
+                       Ruslan Kurmanbekov, Senior Investment Specialist, Private Sector
+                            Financial Institutions Division, Private Sector Operations
+                            Department
+                       Oksana Nazmieva, Principal Financial Management Specialist,
+                            Financial Management Division, PPFD
+                       Ma. Roserillan S. Robidillo, Safeguards Specialist, OSFG
+                       Elsa Ronterre, Integrity Specialist, AIPD, OAI
+                       Aida Satylganova, Senior Safeguards (Social), OSFG
+                       Collette You-Jung Shin, Senior Counsel, Office of the General
+                            Counsel
+                           Helen Steward, Principal Markets Development Advisory Specialist,
+                              Special Initiatives and Funds, Office of Markets Development
+                              and Public–Private Partnership
+                           Gohar Tadevosyan, Senior Social Development Specialist, Human
+                              and Social Development Sector Office, SD3
+                           Armine Yedigaryan, Safeguards Specialist (Environment), OSFG
+Peer reviewer              Shigehiro Shinozaki, Senior Economist, Regional Cooperation and
+                              Integration Division, Economic Research and Development
+                              Impact Department
+
+
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                       CONTENTS
+
+                                                                Page
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                                1
+II.    THE PROJECT                                                 1
+       A.   Rationale                                              1
+       B.   Project Description                                    4
+       C.   ADB Value Addition                                     7
+       D.   Summary Cost Estimates and Financing Plan              7
+       E.   Implementation Arrangements                            9
+III.   TECHNICAL ASSISTANCE                                        9
+IV.    DUE DILIGENCE                                              10
+       A.    Safeguards                                           10
+       B.    Economic and Financial Viability                     10
+       C.    Gender Equality                                      11
+       D.    Poverty and Social Dimensions                        12
+       E.    Procurement, Financial Management, and Integrity     12
+       F.    Sustainability                                       13
+       G.    Summary of Risk Assessment                           13
+V.     ASSURANCES                                                 13
+VI.    RECOMMENDATION                                             14
+
+APPENDIX
+Design and Monitoring Framework                                   15
+
+ANNEXES
+1.   Legal Agreements
+2.   Safeguard Documents and Plans
+3.   Economic and Financial Analysis
+4.   Technical Assistance Report
+5.   Climate Change Assessment
+6.   Gender Assessment and Action Plan
+                                                                                        Project Classification Information Status: Complete
+
+
+
+
+                                                  PROJECT AT A GLANCE
+
+1. Project Data
+   Project number 58135-001                                        Project name                   Promoting Inclusive and Green
+                                                                                                  Housing Finance Project
+   Country             Kazakhstan                                  Executing or                   Otbasy Bank JSC
+   Borrower            Republic of Kazakhstan                      implementing agency
+   Sector office       Finance Sector Office                       Geographical location Country
+   Sector(s)           ü Finance                                   Subsector(s)          Housing finance
+   Country             https://www.adb.org/Documents/Linke Portfolio at a Glance                  https://www.adb.org/Documents/Linke
+   economic            dDocs/?id=58135-001-CEI                                                    dDocs/?id=58135-001-PortAtaGlance
+   indicators
+   Strategic Focus ü Resilience and empowerment                    Sustainable                    SDG 1.4
+   Area            Climate action                                  Development Goals              SDG 5.a
+                                                                                                  SDG 13.2, 13.3, 13.a
+
+   Lending             Development financing institution (DFI)
+   modality
+2. Financing
+    ADB Financing                                                                             Amount ($ million)
+    Regular ordinary capital resources loan                                                       173.59
+    Cofinancing                                                                               Amount ($ million)
+    None                                                                                            0.00
+    Counterpart                                                                               Amount ($ million)
+    Government                                                                                     96.00
+    Others                                                                                         50.00
+             Total                                                                                319.59
+    ADB Climate Financing
+    ADB
+       Adaptation                                                                                      2.46
+       Mitigation                                                                                     26.12
+    Cofinancing (ADB-administered)
+       Adaptation                                                                                      0.00
+       Mitigation                                                                                      0.00
+                Total                                                                                 28.58
+   Note: An attached technical assistance will be financed on a grant basis by the Technical Assistance Special Fund in the amount
+   of $500,000.
+   Currency of ADB Financing: US Dollar
+3. Climate Action
+   Absolute GHG emissions (tCO2e per year)                                                    0
+   Relative GHG emissions (tCO2e per year)                                                    -9303
+   Climate change risk on the project without adaptation measures                             Medium
+   Disaster Risk Management,          Not Applicable
+   Environment and Nature
+4. Private Sector Development
+   Private capital mobilized ($):
+   PSD classification:                       Basic-PSD
+5. Safeguards
+   Category            Environment:                             ¨ A ¨ B ¨ C þ FI
+                       Involuntary resettlement:                ¨ A ¨ B ¨ C þ FI
+                       Indigenous peoples:                      ¨ A ¨ B ¨ C þ FI
+6. Gender Equality
+     Category           þ Gender equality objective (GEN)     ¨ Effective gender mainstreaming (EGM)
+                        ¨ Some gender elements (SGE)          ¨ Indirect gender benefits (IGB)
+ 7. Poverty Reduction and Inclusion
+    Category        ¨ Poverty reduction and inclusion focus (PIF)
+                    ¨ Poverty reduction and inclusion elements (PIE)
+                    þ Indirect poverty reduction and inclusion (IPI)
+ 8. Regional Cooperation and Public Goods
+    Category       ¨ Pillar 1 ¨ Pillar 2 ¨ Pillar 3 þ Not applicable
+ 9. Digital Transformation
+    Category         ¨ Level 1 ¨ Level 2 þ Level 3 ¨ Level 4 ¨ Not applicable
+Source: Asian Development Bank
+This document must only be generated in eOps.                                    Generated Date: 22-Jan-2026 15:13:37 PM
+                                           I.       THE PROPOSAL
+
+1.     I submit for your approval the following report and recommendation on a proposed loan to
+Otbasy Bank Joint-Stock Company (JSC), to be guaranteed by the Republic of Kazakhstan, for
+the Promoting Inclusive and Green Housing Finance Project. The report also describes proposed
+technical assistance (TA) for Support to Promoting Inclusive and Green Housing Finance, and if
+the Board approves the proposed loan, I, acting under the authority delegated to me by the Board,
+approve the TA.
+
+2.      The proposed financial intermediation loan will promote affordable residential mortgage
+loans to women and the development and funding of benchmark green mortgage products for the
+low- to moderate-income population in Kazakhstan.1 It addresses a gap in long-term mortgage
+financing—in particular, the absence of green mortgage programs—that the private sector is
+unable to meet.
+
+                                            II.      THE PROJECT
+
+A.       Rationale
+
+3.       Access to finance to develop sustainable, green, and affordable housing is lacking in
+Kazakhstan. The country’s housing problems are compounded by rising housing prices,
+insufficient support for financing energy efficiency and modernization of old housing stock, and a
+lack of financing for green, energy-efficient housing.
+
+4.      Inadequate housing stock development. A priority of Kazakhstan’s strategic national
+development plan is to ensure the provision of quality, sustainable, green, and affordable
+housing.2 Based on the country’s housing policy, while Kazakhstan aims to construct 111 million
+square meters (m2) of housing by 2030 at a rate of 18.5 million m2 per year, only 15.5 million m2
+was delivered annually from 2018 to 2023 (footnote 2). The delivery of finance for housing creation
+and ownership is inefficient and costly, in part because of an underdeveloped domestic long-term
+debt market that limits the availability of funds to match the tenor needed to support banks’
+affordable mortgage funding. Although government bonds may have maturities up to 10-year
+range, corporate bond tenors typically span no more than 3 years, indicating a gap in the tenor of
+financing needed for mortgages out to 15 to 20 years (at a minimum). Although construction has
+increased in recent years (except for a slight decline in 2022), population growth and aging
+housing stock have contributed to a significant housing shortage. According to the Ministry of
+Industry and Construction, more than 651,960 citizens of Kazakhstan are on the waiting list for
+housing as of April 2024 under state programs. This number increases by about 10% every year.
+
+5.      Low supply of affordable housing. Housing prices have increased substantially since
+2008, not only due to strong increases in demand from rising income and population, but also
+because various government programs that offered subsidized interest rates on mortgages and
+the ability of individuals to use excess pension fund savings for housing acquisition since 2021
+have further stimulated housing demand and prices. These factors have contributed to a
+construction boom in the higher-priced housing segment and further contributed to speculative
+price increases. The year-on-year increase in housing prices reached a record high of 75% in
+
+1
+  The proposed loan is aligned with (i) the priorities of ADB. 2018. Strategy 2030: Achieving a Prosperous, Inclusive,
+  Resilient, and Sustainable Asia and the Pacific, and the Sustainable Development Goals, specifically in addressing
+  climate change; (ii) ADB. 2023. Country Partnership Strategy: Kazakhstan, 2023–2027—Accelerating Resilient and
+  Sustainable Growth for All; and (iii) ADB. 2024. Strategy 2030 Midterm Review.
+2 Government of Kazakhstan. 2024. National Development Plan until 2029.
+2
+
+
+May 2022.3 Mortgage payments as a percentage of income in Kazakhstan are higher than in most
+European countries and Central Asian upper-middle-income countries (e.g., Azerbaijan,
+Georgia).4 Housing prices continue to rise, reducing affordability, particularly for women, low- to
+moderate-income groups, and the rural population.
+
+6.       Lack of green housing financing options. More than 80% of the housing stock was built
+during the Soviet era. This stock suffers from high energy consumption, poor thermal insulation,
+a lack of metering, the absence of thermostatic valves and consumption regulation, and
+insufficient management of heating units. The average energy consumed for heating in buildings
+is about 250–300 kilowatt-hours (kWh)/m2, which is considerably higher than the global average
+of 50 kWh/m2. About 34% of total energy demand is taken up by residential buildings. Thus, there
+is a need for energy-efficient green housing in Kazakhstan. However, the lack of availability of
+green mortgage financing and validated green technology options for housing projects inhibit
+developers’ ability to reduce greenhouse gas emissions at a reasonable cost.
+
+7.       Nascent green bond market. The country's green bond market is in its infancy. The Asian
+Development Bank (ADB) issued the first green bonds on the Kazakhstan Stock Exchange in
+2020. 5 A few issuances by other entities have been distributed on the Astana International
+Exchange. As of November 2023, a total of T112.9 billion (about $250 million) in green bonds
+have been issued in Kazakhstan, with ADB being the largest issuer. This compares with about
+$27 billion outstanding bond issuances in the corporate market alone, while no sovereign green
+bonds have been issued. Elements that inhibit the development of the green bond market include
+the underdevelopment of the domestic long-term bond market, the relatively high costs of
+obtaining green certifications and opinions of projects and assets, limited bankable green projects
+to be financed, and insufficient awareness and clarity of the essentials of green financial products.
+This further limits the availability of green finance for affordable green housing.
+
+8.      Inadequate supply of mortgage financing. The mortgage finance sector in Kazakhstan
+is underdeveloped, with mortgage loans equaling only about 5% of gross domestic product (GDP)
+as of the end of 2023, compared with about 7% in Uzbekistan and about 17% in
+Georgia. 6 Historically, nonperforming loans (NPLs) experienced by commercial banks during
+financial crises in Kazakhstan in 2008, 2015, and 2020 led banks to limit mortgage financing
+mainly to wealthier clients, leaving out lower-income segments. Therefore, deficiencies in the
+quality and availability of housing stock are felt disproportionately by the poor.
+
+9.      Inadequate access to suitable and affordable finance by women. Access to mortgage
+finance is even more limited for women borrowers, who face higher requirements (on average)
+for obtaining mortgage loans because of a significant gender pay gap (women earn 25.2% less
+than men on average) and their higher reliance on self-employment (particularly in rural areas).
+Additional factors affecting women’s access to mortgage financing include limited credit histories
+and cultural norms. The result is that women comprised only 31% of homeowners in the country
+in 2023, while accounting for 51% of the population.
+
+10.    Thus, the binding constraints can be summarized as (i) inadequate access to long-term,
+affordable mortgage finance for women and low-to moderate-income households; (ii) insufficient
+
+3 CEIC Data. Kazakhstan House Prices Growth (accessed 9 May 2024).
+4
+  Numbeo. Mortgage as a Percentage of Income by Country 2024 (accessed 9 May 2024). Mortgage payments as a
+  percentage of income in the country are 29th highest out of 104 economies surveyed.
+5 ADB. 2020. ADB Issues Green Bonds in Kazakhstan Tenge. News release. 17 November.
+6 Mortgage Refinancing Company of Uzbekistan and National Bank of Georgia; Helgi Library. Mortgage Loans (As %
+
+  of GDP) in Kazakhstan (accessed 9 May 2024).
+                                                                                                                          3
+
+
+mortgage products that are tailored to women’s income profiles and housing needs; and (iii)
+underdeveloped green mortgage products and market. These constraints correspond with the
+design and outputs of the project (paras. 18–20).
+
+11.      Justification for financial intermediation loan modality. A sovereign financial
+intermediation loan will allow underserved target groups to access affordable housing finance,
+immediately improve their economic well-being, and raise awareness and understanding of green
+housing standards and green mortgage lending. The project will develop lending through a
+framework for green mortgages that can be adapted across the finance sector. A sovereign
+financial intermediation loan is appropriate given clear market failures in Kazakhstan’s housing
+finance sector, where private sector financing on a commercial basis is insufficient to meet the
+long-term, affordable, and green housing needs of low- to moderate-income households. The
+modality will enhance the financial system's outreach, efficiency, and stability and support
+sustainable economic growth and poverty reduction driven by the private sector. Structural
+constraints with limited availability of long-tenor local currency funding, nascent green mortgage
+and bond markets, and high perceived risks of low- to moderate-income households have resulted
+in a suboptimal supply of private mortgage finance, particularly for green housing. The modality
+enables targeted public sector intervention to address these gaps by channeling market-based
+resources through a sound, financial intermediary, while complementing and not crowding out
+private sector financing. The modality will support the development of a green mortgage bond
+market that can attract longer-term, lower-cost funding for banks in that it will enable the private
+finance segment to offer the first green mortgages in the country, while also incentivizing
+developers to build and provide green housing. Otbasy Bank JSC’s offering of green mortgages
+will also expand its product line into a new and viable area that not only helps service a broader
+range of clients, but also diversifies its asset base, thereby reducing risk.
+
+12.     Housing is a priority in Kazakhstan’s development strategy until 2030 to expand housing
+access.7 Several government housing initiatives aim to create conditions to expand housing and
+access to affordable finance. 8 Programs include rental schemes, construction savings plans,
+mortgage interest rate subsidies, and support to private sector developers to stimulate
+construction. The programs target vulnerable groups with limitations on maximum loan amount,
+income, and property ownership. The Kazakhstan Housing Company (KHC), fully owned by
+National Management Holding Baiterek JSC, is a key entity backing the government’s goals in
+affordable housing. KHC backs private sector developers working with local municipalities to build
+affordable public housing through the purchase of bonds issued by municipalities funding housing
+development and by providing developers with credit guarantees, for a fee, enabling them to
+obtain construction finance. KHC also operates a social rental program through housing they own.
+
+13.   Otbasy Bank JSC was established in accordance with the Law on Housing Construction
+Savings of 2013 and is under supervision by the Agency for Regulation and Development of the
+
+7   Government of Kazakhstan. 1997. Strategy of Kazakhstan’s Development until 2030.
+8   There are three major state mortgage financing programs: (i) the 7–20–25 housing program (7% interest rate, 20%
+    down payment, up to 25-year term) is currently phasing out with only T100 billion annual budget from 2023 (down
+    from T1 trillion in previous years, or more than 70% of the current mortgage portfolio of the banking sector), with
+    funding provided from the state budget through commercial banks; (ii) the OTAU program (formerly 9–20–25 program),
+    operated by the Otbasy Bank, funds mortgages primarily for young families with a minimum savings of T1 million in
+    Otbasy Bank, with terms that are more market oriented than those of 7–20–25 in terms of minimum interest rate and
+    maturity (a minimum 9% interest rate and maturity up to 19 years); total funding allocated for the program is T150
+    billion; and (iii) the NAURYZ program, launched in May 2024, which is the largest program, with T1.7 trillion in funding
+    subsidized by the state budget, with lending terms close to those of the market (7% interest rate for vulnerable groups
+    and 9% for all other groups).
+4
+
+
+Financial Market of Kazakhstan. Since May 2013, Otbasy Bank JSC has been fully government-
+owned through Baiterek. Its mandate is to provide the population with equal access to the housing
+savings system, enabling every family to own a home. It is one of the main operators of the state
+housing programs and thus has continuous government support. It has a mandate to provide
+mortgages for affordable housing to the low- to moderate-income and vulnerable population
+segments, including women. The project is aligned with the government’s strategy to prioritize
+housing finance and sustainable, green, and affordable housing development through various
+strategic plans and three major state mortgage financing programs (footnote 8).
+
+14.    The project builds on the closed Promoting Gender Equality in Housing Finance Project,
+which focused on providing women with affordable housing finance to acquire and/or renovate
+housing.9 It expands upon the previous objective by ensuring that housing acquired by women
+and target groups meets certain green and energy-efficiency standards, thereby contributing to
+more sustainable housing. The project performance has been successful, while the demand
+remains high.
+
+15.     Key lessons from related projects. Key lessons from the closed Promoting Gender
+Equality in Housing Finance Project were that it imposed low target income levels on
+subborrowers and tightly restricted the regional locations of the homes acquired under subloans,
+making it difficult to find qualified subborrowers. The current loan sets household income at levels
+where a sufficient number of target clients in the low- to moderate-income groups are available.
+The current loan also does not restrict the location where women may acquire housing. In this
+way, it supports their access to broader economic opportunities. The successful Uzbekistan
+Affordable Rural Housing Program, affirmed that having a gender focus and social equity criteria
+were instrumental in empowering groups that helped enhance credibility and reduced risks.10 The
+Kyrgyz Republic Enhancing Housing Finance for Affordable and Energy-Efficient Housing Project
+not only identified the need to provide mortgage finance to women but raised the importance of
+backing the development of a green mortgage market for low- to-moderate income households
+that will further incentivize the construction of energy efficiency housing in the country.11 All the
+projects reflect that future housing finance projects should integrate climate resilience, financial
+literacy, and private sector participation for sustainability.
+
+B.         Project Description
+
+16.      The project is aligned with the following impact: gender equity promoted, and sustainable
+economic growth and green development supported (footnotes 2 and 7).12 The project will have
+the following outcome: acquisition of energy-efficient, sustainable, green, and affordable housing
+units by women and low- to moderate-income groups increased, and the development of a green
+mortgage market supported.13 The outputs are (i) access to housing finance by women and low-
+to moderate-income groups of the population expanded, (ii) residential mortgage loan product
+targeting women borrowers designed, and (iii) development of green mortgage products for
+housing acquisition and renovation incentivized.
+
+
+9 Independent Evaluation Department. 2025. Validation Report: Promoting Gender Equality in Housing Finance Project
+
+     in Kazakhstan. ADB; It was closed in December 2023 and rated successful.
+10 ADB. Uzbekistan: Affordable Rural Housing Program was closed in June 2024 and rated successful.
+11
+   ADB. Kyrgyz Republic: Enhancing Housing Finance for Affordable and Energy-Efficient Housing Project was
+   approved in September 2025.
+12 Government of Kazakhstan. 2013. Concept for Transition of the Republic of Kazakhstan to Green Economy; and
+
+   Otbasy Bank. 2024. Development Strategy of Otbasy Bank JSC for 2024–2033.
+13 The design and monitoring framework is in the Appendix.
+                                                                                                  5
+
+
+17.     A key focus for developing the private sector market is that the project creates a green
+mortgage finance framework to serve as a benchmark for the banking sector, generating
+standardized and sustainable green mortgage products for low- to moderate-income households.
+Otbasy Bank JSC’s green mortgage products will serve as a demonstration and encourage the
+development of similar products by private commercial banks. At the same time, they will help
+position Otbasy Bank JSC as a strong leader in backing green mortgages and green housing,
+leading practical efforts supporting the country’s climate goals. The offering of green mortgage
+finance will also incentivize private sector developers to prioritize building new housing that is
+affordable and has lower carbon emissions and energy use, while also helping address the lack
+of sustainable and reasonably priced housing in the country.
+
+18.      Output 1: Access to housing finance by women and low- to moderate-income group
+of the population expanded. The output will (i) address the gap in long-term funding available
+in the local capital market for Otbasy Bank JSC by releasing the proceeds of local currency gender
+bond issuances by ADB for subloans to qualified women and low- to moderate-income group
+subborrowers for the purpose of providing long-term, fixed-rate mortgages in local currency to
+acquire or renovate housing; (ii) underwrite mortgages for at least 2,000 women and/or people in
+low- to moderate-income group; and (iii) conduct outreach to housing developers and
+stakeholders to apprise them of the availability of mortgage funding targeting women. The
+expansion of mortgage finance for women and low- to moderate-income groups will enable these
+individuals to improve their economic security and well-being by helping these target groups
+secure suitable and more sustainable housing across the country, wherever they deem to have
+the best economic, social, health, and educational prospects.
+
+19.     Output 2: Residential mortgage loan product targeting women borrowers designed.
+The output will (i) assess the specific needs of women in low- to moderate-income group for
+housing finance in both rural and urban areas; (ii) create a mortgage structure with defined
+underwriting criteria to be applied for subloan issuance; and (iii) identify energy efficiency and
+green housing criteria that can be included in the underwriting criteria, ensuring that women
+acquire more climate-sustainable housing. The design of a new mortgage product targeted to
+low- to moderate-income women will be refined to better support the specific needs of women
+across the country. Not only will this enable a broader client base, but it will also improve the
+capacity of women and households led by women to acquire mortgages. The design also backs
+Otbasy Bank JSC’s initial efforts to incorporate energy efficiency and quality considerations into
+housing acquired through its mortgage offerings.
+
+20.     Output 3: Development of green mortgage products for housing acquisition and
+renovation incentivized. The output will (i) assess impediments to the availability of green
+mortgage finance in Kazakhstan; (ii) introduce a comprehensive program for Otbasy Bank JSC,
+enabling the expansion of green finance products covering the processes and criteria required for
+a sustainable green mortgage lending program and the expansion of green mortgage product
+offerings for housing purchases and renovation; (iii) prepare a framework that incorporates criteria
+to expand the provision, standardization, and availability of green mortgage finance to incentivize
+adoption across the finance sector, and perform outreach to banking, private, and public sector
+stakeholders to advise them on implementation; and (iv) devise a mechanism for the introduction
+of climate-sensitive mortgage products for women. The development of green mortgage and
+renovation products and the associated market aligns with the sustainability goals of the country
+and will spur investment in climate-resilient housing. It also supports private sector development
+by raising the private sector’s understanding of green housing standards and green mortgages,
+incentivizing developers to construct green housing, and incentivizing banks to offer
+green mortgages.
+6
+
+
+
+21.     The maximum tenor for mortgages will be 19 years for the purchase of residential property
+and 10 years for renovation. The maximum mortgage loan will be T50.0 million, and the maximum
+renovation loan will be T15.0 million. Subloan interest rates may be set up to 400 basis points
+above the interest rate of ADB’s loan rate. The maximum net monthly household income of
+subborrowers is T1.250 million during the first year of the project, starting from the date of loan
+effectiveness, increasing to T1.500 million from the start of the second year. The debt-to-income
+ratio required will be according to the policy of Otbasy Bank JSC. It is estimated that funds may
+be recycled up to two times during the life of the ADB loan.
+
+22.    For women’s mortgages, eligible subborrowers must be women of full legal age, and the
+property shall be occupied by and registered in the name of the female owner or in the names of
+both owners if one is a woman. The minimum down payment required will be 20% in Astana and
+Almaty and 15% in all other regions based on the respective purchase prices. The residential
+property to be purchased must have been built no earlier than 2016 or under construction.
+Property for renovation may have been built at any time, and loans will have a maximum loan-to-
+value of 60%.
+
+23.      Specifically for the green mortgage program, the residential property is to be occupied by
+the owner. The minimum down payment required will be 20% of the purchase price. The property
+to be purchased must meet the “green standard” of construction as certified by OMIR (a minimum
+of a silver level) or other comparable green standard levels as per the Kazakhstan National Green
+taxonomy.14
+
+24.      This green residential property can be an existing property, new, or under construction.
+Property to be renovated must be occupied by the owner. Women’s mortgages designed under
+the project will expand upon Otbasy Bank JSC’s existing mortgage offers for women by including
+minimum energy-efficiency class standards and a maximum age limit for the housing acquired to
+ensure that the most current building standards are utilized. The small green mortgage product,
+offered previously by Otbasy Bank JSC, did not conform properly with international standards for
+climate finance and the national green taxonomy; this project addresses that gap. Consistent with
+the approach taken by Otbasy Bank JSC in the closed Promoting Gender Equality in Housing
+Finance Project (footnote 9), the bank may contribute a portion of its internal funding to create a
+blended cost of funds to back the project. Funds will come from retained earnings and available
+liquidity on a case-by-case basis at the time of each bond issuance and drawdown. The intention
+is to enable a more sustainable blended cost of funds that considers market conditions and the
+strategic objectives, performance, and liquidity conditions of Otbasy Bank JSC.
+
+25.    The project is aligned with ADB’s strategic focus areas of (i) climate action (climate
+adaptation and mitigation); and (ii) resilience and empowerment (poverty reduction and inclusion,
+and gender equality). It supports the following Sustainable Development Goals (SDGs) (i) SDG
+1: End poverty in all its forms everywhere (1.4); (ii) SDG 5: Achieve gender equality and empower
+all women and girls (5.a); and (iii) SDG 13: Take urgent action to combat climate change and its
+impacts (13.2, 13.3, 13.a). The project is aligned with the following pillars of ADB’s country
+partnership strategy for Kazakhstan, 2023–2027: Pillar 1—Address climate change impacts and
+support decarbonization; and Pillar 2—Promote inclusive economic growth.
+
+14 OMIR (meaning “life” in Kazak) green building standards created by the Kazakhstan Green Building Council, adapted
+
+    from the World Green Building Council and consistent with the national green taxonomy. Decree of the Government
+    of the Republic of Kazakhstan No. 996 on Taxonomy of Green Projects to be Financed through Green Bonds and
+    Green Loans, adopted on 31 December 2021.
+                                                                                                                 7
+
+
+
+C.        ADB Value Addition
+
+26.      The project complements government housing initiatives to expand access to affordable
+housing finance for vulnerable groups and ADB’s broader engagement in Kazakhstan’s finance
+sector, including the proposed Fiscal Governance and Financial Sector Reforms Program
+(subprogram 2). Together, these initiatives help mitigate financing gaps and structural constraints
+related to banking sector resilience, governance, and capital market development that have
+limited long-term mortgage and green bond financing. ADB is the only external funding source for
+Otbasy Bank JSC’s green mortgage lending and affordable housing finance aimed at women or
+low- to moderate-income groups. Other development partners have provided only nominal
+advisory services that have not resulted in ensuing loan projects. ADB’s loan provides liquidity
+and expertise to expand lending to women, enabling increased economic opportunities as well as
+incentivizing and leading the development of green mortgage finance in the country. ADB will
+issue local currency green and gender bonds that will demonstrate viable funding mechanisms
+for inclusive and green housing finance, support development of the domestic bond market, and
+enable Otbasy Bank JSC to access such funding independently over time.15 The attached TA will
+build the capacity of Otbasy Bank JSC to effectively assess and mitigate climate risk and integrate
+comprehensive environmental, social, and governance (ESG) risk management practices.
+
+D.        Summary Cost Estimates and Financing Plan
+
+27.       The project is estimated to cost $319.6 million (Table 1).
+
+28.    The ADB loan will finance expenditures related to the qualified mortgage subloans to be
+issued by Otbasy Bank JSC to qualified subborrowers. No works, equipment, or consulting
+services are supported.
+                             Table 1: Summary Cost Estimates
+                                         ($ million)
+Item                                                                                                  Amounta
+A. Base Cost
+    1. Output 1: Access to housing finance by women and low- to moderate-income
+       group of the population expanded                                                                  115.9
+    2. Output 2: Residential mortgage loan product targeting women borrowers
+       designed                                                                                            0.0
+    3. Output 3: Development of green mortgage products for housing acquisition and
+       renovation incentivized                                                                           115.9
+               Subtotal (A)b                                                                             231.7
+B. Contingenciesc                                                                                          0.0
+C. Financial Charges During Implementationd                                                               87.9
+                                    Total (A+B+C)                                                        319.6
+a Local taxes will be borne by the subborrowers.
+b Figures reflect rounding
+c Physical and price contingencies and a provision for exchange rate fluctuation are not relevant for the financial
+  intermediation loan.
+d Includes interest, commitment, and other charges on all financing sources.
+
+Source: Asian Development Bank estimates.
+
+
+
+
+15 ADB issued four Tenge bonds, three in the domestic market that were the first gender bonds were listed on the
+
+    Kazakhstan Stock Exchange. The bonds had maturities that matched the bullet repayments of the ADB loan and
+    were raised at rates less than those of equivalent government bonds, the savings of which were passed onto the
+    subborrowers.
+8
+
+
+29.     Otbasy Bank JSC has requested a regular loan of T90 billion from ADB’s ordinary capital
+resources to help finance the project.16 The loan, to be guaranteed by the Republic of Kazakhstan,
+will have a term of up to 19 years; an interest rate determined in accordance with ADB’s local
+currency loan product; a commitment charge of 0.15% per year; and such other terms and
+conditions set forth in the draft loan and guarantee agreements. The average maturity is 19 years,
+and the maturity premium payable to ADB is 0.50% per year. The loan is expected to be disbursed
+in tranches with a bullet repayment structure, but in not more than three disbursements per year,
+and with no less than 90 days interval between disbursements. Each disbursement shall be for
+amounts of not less than T9 billion and not more than T20 billion, in multiples of T1,000, and
+subject to ADB’s ability to execute the required funding arrangement. Disbursements above
+T20 billion or in intervals of less than 90 days or exceeding 3 per year will be at ADB’s sole
+discretion. Disbursement requests linked to either green or women’s mortgages must be
+segregated. The loan will be repaid in full at or before the final maturity of 19 years following the
+date of loan approval.
+
+30.     The summary financing plan is in Table 2. ADB will finance the expenditures related to
+Otbasy Bank JSC’s underwriting of mortgages for women and for low- to moderate-income groups
+of the population.
+
+                                    Table 2: Summary Financing Plan
+                                                ($ million)
+                                                                     Amount                Share of Total
+Source                                                              ($ million)                 (%)
+Asian Development Bank
+    Ordinary Capital Resources (regular loan)a                        173.59                    54.30
+Subborrowersb                                                          50.00                    15.60
+Government of Kazakhstanc                                              96.00                    30.00
+                            Total                                     319.59                    100.0
+a The amount of $173.59 million is equivalent to T90 billion (as of 11 December 2025).
+b The amount comprises the downpayments of mortgagors estimated at 20% of the total housing acquisition cost and
+
+  the interest margin charges of subborrowers on their subloans during loan implementation.
+c Includes interest, commitment, and other financial charges during loan implementation and regulatory capital
+
+  required to cover subloan risk assets.
+Source: Asian Development Bank estimates.
+
+31.     Total climate finance for the project amounts to T14.733 billion, comprising an estimated
+T13.500 billion in mitigation costs and T1.238 billion million in adaptation costs financed from the
+ADB loan. Mitigation costs are associated with the adoption of the OMIR green building standards
+or other standards consistent with the national green taxonomy, in the provision of green
+mortgages, resulting in at least a 30.0% reduction in heating- and ventilation-related energy
+consumption. These standards apply to the housing held as collateral for subloan mortgages and
+will incentivize the use and application of green housing standards across the housing sector
+throughout the country. Adaptation costs result from placing water-saving installations in the
+housing acquired with subloans. 17 The attached TA accounts for an additional $82,953 in
+mitigation costs and $72,970 in adaptation costs.
+
+
+
+
+16 Equivalent to $173.59 million as of 11 December 2025.
+17 Climate Change Assessment (Annex 5).
+                                                                                                              9
+
+
+E.      Implementation Arrangements
+
+32.     Implementation arrangements are summarized in Table 3.
+
+                                Table 3: Implementation Arrangements
+ Aspects                                                       Arrangements
+ Implementation perioda         March 2026–March 2030
+ Estimated completion date      31 March 2030
+ Estimated loan closing dateb   30 September 2030
+ Management
+   (i) Oversight body            Ibragimova Lyazzat Yerkenovna (chair)
+       (board of directors)      Khamitov Ersain Yerbulatovich (member)
+                                 Yermekova Elmira Muslimovna (member)
+                                 Zhamalov Sanzhar Yerkebayevich (member)
+                                 Tokobaev Nurlan Tursunbekovich (member)
+                                 Shaikhy Zhandos Alkenovich (member)
+   (ii) Steering agency          The Government of Kazakhstan, acting through the Ministry of National Economy
+   (iii) Executing agency        Otbasy Bank Joint-Stock Company
+   (iv) Implementation unit      Otbasy Bank Join-Stock Company
+ Disbursementc                   Disbursement of the loan proceeds will follow ADB's Loan Disbursement Handbook
+                                 (2022, as amended from time to time) and detailed arrangements agreed between
+                                 the government and ADB.
+a The implementation period starts from the expected month of commitment or signing.
+b Estimated closing date of the last loan or grant.
+c For guidance, refer to the ADB Loan Disbursement Handbook.
+
+Source: Asian Development Bank.
+
+                                    III.    TECHNICAL ASSISTANCE
+
+33.     The attached TA for Support to Promoting Inclusive and Green Housing Finance will
+support project implementation and empower Otbasy Bank JSC to develop and implement a
+robust green mortgage framework, integrate comprehensive ESG risk management practices,
+establish an environmental and social management system (ESMS), enhance its sustainable
+finance capabilities, and augment its underwriting and credit risk management systems
+supporting the project’s implementation. The proposed activities and deliverables will ensure that
+Otbasy Bank JSC can leverage ADB’s support effectively, contributing to the broader goal of
+sustainable development in Kazakhstan’s housing finance and growing green mortgage finance
+segments.18
+
+34.    The TA financing amount is $500,000, of which (i) $250,000 will be financed on a grant
+basis by ADB’s Technical Assistance Special Fund (TASF-other sources); and (ii) $250,000 will
+be financed by Otbasy Bank JSC on behalf of the government on a partial cost recovery basis.
+The partial cost-recovery payment method will be through an upfront payment of the required
+amount. The government’s share of the TA will be provided to ADB’s TASF and will be
+administered by ADB. The government, through Otbasy Bank JSC, will provide counterpart
+support in the form of counterpart staff, access to needed data, office space for meetings and
+consultations, assistance in arranging key meetings and events, and other in-kind contributions.
+
+
+
+
+18 Technical Assistance Report (Annex 4).
+10
+
+
+                                      IV.     DUE DILIGENCE
+
+A.        Safeguards
+
+35.    In compliance with ADB’s Safeguard Policy Statement (2009), the project’s safeguard
+categories are as follows.
+
+36.      Environment (category FI-C). Project activities will be limited to providing mortgages to
+eligible subborrowers and will have minimal or no adverse environmental impacts. Otbasy Bank
+JSC is developing an ESMS arrangement to guide the management and screening of all
+subprojects, ensuring category C for all safeguards. The ESMS was approved by Otbasy Bank
+JSC on 18 December 2024 and has been disclosed by ADB on 30 January 2025.19 The ESMS
+implementation status will be reported annually in stand-alone ESMS monitoring reports. These
+reports will be disclosed on the ADB and Otbasy Bank JSC websites.
+
+37.     Involuntary resettlement (category FI-C). The involuntary resettlement safeguard
+category is FI, treated as C. Project activities will be limited to providing mortgages to eligible
+subborrowers, which will not generate any involuntary resettlement impacts. As good practice,
+Otbasy Bank JSC, which has prior experience as a financial intermediary for ADB-supported
+projects, is developing an ESMS arrangement to strengthen capacity and guide screening of all
+subloans (mortgages), ensuring category C for all safeguards.
+
+38.    Indigenous Peoples (category FI-C). The Indigenous Peoples safeguard category is FI,
+treated as C. Project activities will be limited to providing mortgages to eligible subborrowers,
+which will not generate impacts on Indigenous Peoples as defined by ADB’s Safeguard Policy
+Statement.
+
+B.        Economic and Financial Viability
+
+39.     The proposed project of facilitating housing finance and green mortgage market
+development is viable and expected to provide economic benefits to the four main project
+stakeholders: women; low- to moderate-income groups; the construction industry, including the
+private sector; and the government. The economic and financial viability of the project depends
+mainly on the solvency of the implementing entity. Otbasy Bank JSC is the main implementer of
+government programs for housing finance in Kazakhstan and is the only bank following the
+German system of contractual savings for housing (the Bauspar model), wherein a housing loan
+is linked to a savings deposit. Savings are supported by a yearly government premium. A main
+source of Otbasy Bank JSC’s finance is through program loans provided directly by the
+government and regional bodies for specific target groups and eligibility criteria. Otbasy Bank JSC
+targets the low- to moderate-income borrower segment and has a loan portfolio of T3.8 trillion as
+of November 2025, making it the market leader in mortgage finance. The ADB loan comprises
+less than 2.5% of Otbasy Bank JSC’s loan portfolio. It has 17 regional branches, 2 city branches,
+18 service centers, and 3 service points across the country.20 Otbasy Bank JSC’s housing savings
+model is viable, as it effectively serves higher-risk market segments, while maintaining a low level
+of NPLs for more than 90 days—just 0.19%, compared with 3.2% for the banking sector overall.
+Otbasy Bank JSC's main product, the preliminary housing loan, is well suited to serve low- to
+moderate-income groups but requires adaptation to expand into green finance.
+
+19 ADB. 2024. Promoting Inclusive and Green Housing Finance Project: Environmental and Social Management
+   System Arrangement.
+20 Economic Analysis (Annex 3[i]) and Financial Analysis (Annex 3[ii]).
+                                                                                                               11
+
+
+
+40.     Otbasy Bank JSC’s financial viability stems from its strong financial performance and
+robust profitability. From 2019 to 2023, Otbasy Bank JSC’s organic loan portfolio performed well,
+registering a compound annual growth rate (CAGR) of 33.6%. However, its deposit portfolio
+lagged, with a CAGR of 15.5% during this period. The discrepancy between savings and loans
+must be filled by government funding and other external sources, such as ADB. One of the three
+strategic goals of Otbasy Bank JSC is to achieve a return on assets of 2.7%, which was reached
+in 5 years out of the 6 years from 2018 to 2023. Over that period, return on equity ranged from
+12.1% (2020) to 27.9% (2023). Otbasy Bank JSC follows strict lending and collateral practices as
+evidenced by its robust asset quality—its NPL ratio was less than 1.0% over the 5 years ending
+in 2023, with high portfolio granularity and the maximum loan-to-value ratio not exceeding 75.0%
+for 92.8% of its loan portfolio. Otbasy Bank JSC’s parent company, Baiterek, holds positions in
+eight development entities and has an external rating of Baa2 by Moody’s with a positive outlook.
+Otbasy Bank JSC was assigned a BBB (long-term local/outlook stable) by Fitch in July 2025 and
+a Baa2 rating by Moody’s in November 2025. The ratings assume a very high likelihood that
+Otbasy Bank JSC will receive support from the government, if necessary (resulting in an uplift of
+Moody’s Baseline Credit Assessment from Ba2 to the long-term deposit rating of Baa2). Otbasy
+Bank's capital has been supported by gains on the initial recognition of Baiterek loans at below-
+market rates, which have boosted Otbasy Bank JSC's additional paid-in capital. The financial due
+diligence conducted indicated that Otbasy Bank JSC is in sound financial condition, that its risk
+management processes are adequate, it complies with prudential norms, and its corporate
+governance is acceptable.
+
+C.      Gender Equality
+
+41.     The project is classified as gender equality objective The gender pay gap remains
+significant in Kazakhstan, which poses a major challenge for women in accessing housing finance.
+Women face barriers to home ownership, as evidenced by the fact that women are less likely to
+own assets or be landowners.21 Financial institutions in Kazakhstan typically apply uniform terms
+and conditions to all customers, without considering female borrowers as a target customer
+segment. Improved access to safe housing will reduce women’s vulnerability and enhance their
+control over economic resources by increasing their economic opportunities. The project builds
+on ADB’s completed Promoting Gender Equality in Housing Finance Project, which has provided
+women with affordable finance to acquire and/or renovate housing. The current project will
+specifically promote affordable housing finance for women in low- to moderate-income segments
+of the population by ensuring that housing acquired by women meets green and energy-efficiency
+standards, thereby demonstrating improved safety and sustainability. The key gender actions
+include (i) increasing women’s access to appropriate and affordable housing finance; (ii) making
+green lending products available to women to ensure safer housing conditions; (iii) increasing
+women’s financial literacy, thereby improving their capacity to partake in housing finance; (iv)
+conducting a climate impact assessment involving women to identify potential solutions to
+structuring green mortgage products that are tailored to the climate impact considerations of
+women; and (v) improving the leadership skills of female staff to stimulate their
+career development.
+
+
+
+
+21 Agency for Strategic Planning and Reforms of the Republic of Kazakhstan and Bureau of National Statistics. 2023.
+
+  Women and Men in Kazakhstan: 2018–2022.
+12
+
+
+D.      Poverty and Social Dimensions
+
+42.      The population of Kazakhstan faces socioeconomic challenges despite its economic
+growth. The poverty rate stands at 5.1%, meaning the share of the population with income below
+the subsistence level, with women experiencing higher levels of poverty. 22 Rural areas are
+particularly disadvantaged because of limited access to housing finance and affordability. The
+housing finance system is characterized by low mortgage penetration. Inadequate infrastructure
+and high housing costs hinder poverty reduction efforts. The housing finance segment is
+constrained and thereby offers limited access to affordable mortgage options to the population,
+especially for low- to moderate-income groups, including women. Furthermore, the growing
+housing deficit and high urbanization rates have contributed to rising costs in major cities. To
+address these issues, the project will promote affordable residential mortgage loans to an
+underserved population, with a primary focus on women, and will also develop and fund
+benchmark green mortgage products. The population of Kazakhstan will benefit from safe housing
+that meets seismic, building, and green standards; and improved energy efficiency, which will
+reduce the risk of energy interruptions and enhance sustainability. The project will support low-
+and moderate-income households, thereby strengthening household security and financial
+stability.
+
+E.      Procurement, Financial Management, and Integrity
+
+43.     No procurement of goods or work will be undertaken. No consulting services will be utilized.
+
+44.      The assessed pre-mitigation financial management risk is low mainly because of ongoing
+government support for Otbasy Bank JSC and its mandate to back access to housing and Otbasy
+Bank JSC’s (i) strong customer franchise, (ii) stable revenues, (iii) good asset quality, (iv) good
+loss-absorption capacity, and (v) sufficient liquidity. Key risks identified included the need for
+external audit firm rotation, inconsistency with some risk management approaches across
+different departments, and an absence of an independent external assessment of systems,
+procedures, and reporting mechanisms for anti-money laundering/combating the financing of
+terrorism and countering proliferation financing (AML/CFT/CPF). The main actions to mitigate the
+identified risks include incorporating suitable financial covenants into the ADB loan agreement
+and establishing regular reporting requirements to provide ADB advance warning of
+unsustainable lending. Furthermore, Otbasy Bank JSC has strong and experienced management
+and directors who have committed to ensuring a rotation of external auditors to enhance the
+conformity of internal risk management across departments. Although AML/CFT/CPF processes
+were identified as sound, Otbasy Bank JSC will engage an external review of these functions.
+The attached TA will improve staff capacity in sustainable finance and a green mortgage
+framework and support effective monitoring of the steps to be implemented to mitigate risks.
+
+45.    Having successfully implemented the Promoting Gender Equality in Housing Finance
+Project that closed in 2023, Otbasy Bank JSC’s financial management capacity is sufficient to
+ensure effective and efficient project implementation. Otbasy Bank JSC has an effective
+independent credit decision-making process, adequate policies, and full autonomy for making
+lending decisions and setting loan pricing. The staff of Otbasy Bank JSC are well trained and
+experienced in administering financial management arrangements, monitoring, and reporting; and
+management quality is assessed as good. There is a need to strengthen capacity in certain areas,
+and the attached TA will support the integration of comprehensive ESG risk management
+
+22 Agency for Strategic Planning and Reforms of the Republic of Kazakhstan and Bureau of National Statistics. 2023.
+
+  Main Indicators of Income Differentiation of the Population.
+                                                                                                  13
+
+
+practices, the implementation of an ESMS, the enhancement of the bank’s sustainable finance
+capabilities, and the augmentation of its underwriting and credit risk management systems.
+Otbasy Bank JSC has a well-developed, reasonable growth-oriented strategy that reflects
+management’s strategic focus. Management of the bank is embedded in an adequate corporate
+governance structure, and its transparency is in line with international standards.
+
+46.     Integrity due diligence was conducted on Otbasy Bank JSC, its board of directors, and key
+management members. The results of the due diligence indicate that these do not appear to
+constitute a significant or potentially significant integrity risk to the project. Otbasy Bank’s
+compliance unit and overall guidelines ensure the integrity of its corporate and financial
+governance appropriately. The assessed procurement risk is low, reflecting that no procurement
+will occur. ADB’s Anticorruption Policy (1998, as amended from time to time) and relevant
+guidelines and procedures were explained to and discussed with the government and
+Otbasy Bank.
+
+F.     Sustainability
+
+47.     The project will expand the number of women and people in low- to moderate-income
+groups who are acquiring residential properties because of improved access to mortgage finance.
+Improved housing conditions for women and people in low- to moderate-income groups will
+enhance their personal economic well-being, supporting Otbasy Bank JSC’s ongoing mandate.
+Mortgage products developed under the project will remain part of Otbasy Bank JSC’s offering.
+The green mortgage framework prepared under the project will serve as a basis for the bank’s
+green mortgage product and back the expansion of green mortgage finance throughout the
+banking sector on a commercial basis. As part of the Promoting Gender Equality in Housing
+Finance Project, ADB issued gender bonds in tenge to fund the loan. The current project aims to
+continue the issuance of gender bonds and expand into issuing green bonds in tenge, which will
+support the overall development of the green bond market. By building the capacity of Otbasy
+Bank JSC in green finance, green housing, and green mortgage creation and issuance, the
+project supports the bank in seeking potential alternative sources of finance, including green
+bonds on a commercial basis. The integration of a comprehensive ESG risk management process
+in Otbasy Bank JSC will enhance its sustainable finance capabilities.
+
+G.     Summary of Risk Assessment
+
+48.     The assessed pre-mitigation risk is low. No substantial risks are identified. ADB's position
+is safeguarded by the strong credit rating of the sovereign guarantor of the loan. The project is
+classified as low risk because (i) Otbasy Bank JSC is financially sound as evidenced by its
+adequate capital, high-quality assets, sufficient liquidity, and profitability; (ii) ADB has relevant
+experience in the banking sector in Kazakhstan, specifically in support of housing finance; (iii)
+Otbasy Bank JSC has adequate mechanisms to administer and monitor the disbursement of
+mortgage subloans; (iv) Otbasy Bank JSC has extensive experience in housing finance in
+Kazakhstan; and (v) Otbasy Bank JSC has experience in implementing a similar project with ADB.
+
+                                      V.      ASSURANCES
+
+49.      The government has assured ADB that the implementation of the project shall conform to
+all applicable ADB requirements, including those concerning anticorruption measures, safeguards,
+gender equality, procurement, consulting services, financial management, and disbursement, as
+further mentioned in the loan documents.
+14
+
+
+50.     No loan disbursements will be made until the ESMS and a grievance redress mechanism
+satisfactory to ADB have been established by Otbasy Bank JSC.
+
+                                 VI.     RECOMMENDATION
+
+51.    I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve the loan of
+T90,000,000,000 to Otbasy Bank JSC, to be guaranteed by the Republic of Kazakhstan, for the
+Promoting Inclusive and Green Housing Finance Project, from ADB’s ordinary capital resources,
+in regular terms, with interest to be determined in accordance with ADB’s local currency loan
+product; for a term of up to 19 years; and such other terms and conditions as are substantially in
+accordance with those set forth in the draft loan and guarantee agreements presented to the
+Board.
+
+
+                                                            Masato Kanda
+                                                            President
+
+10 March 2026
+                                                                                      Appendix         15
+
+                            DESIGN AND MONITORING FRAMEWORK
+
+Impact the Project is Aligned with
+Gender equity promoted, and sustainable economic growth and green development supporteda
+                                                          Data Sources and          Risks and Critical
+Results Chain             Performance Indicators
+                                                        Reporting Mechanisms          Assumptions
+Outcome                   By 2030:
+Acquisition of energy-    a. Volume of subloans         a. Otbasy Bank JSC        R: Weak economic
+efficient, sustainable,   issued to women and low-      quarterly loan progress   conditions cause a
+green, and affordable     to moderate-income group      reports                   disruption in the supply
+housing units by          increased by $173.6                                     of housing offered to
+women and low- to         millionb (2023 baseline:                                the target groups.
+moderate-income           $3.76 billion) (DRs 3 and
+groups increased, and     7)c
+the development of a
+green mortgage
+market supported
+
+Outputs                   By 2030:
+1. Access to housing      1. Number of loans to         1. Otbasy Bank JSC        A: Government backing
+finance by women and      women and low- to             quarterly loan progress   access to affordable
+low- to moderate-         moderate-income group         reports                   mortgages is sustained.
+income groups of the      funded by ADB subloans
+population expanded       increased by at least 2,000
+                          (2023 baseline: 174,032)
+
+2. Residential            2. At least one new           2. Otbasy Bank JSC
+mortgage loan product     mortgage loan product         quarterly loan progress
+targeting women           targeting women created.d     reports
+borrowers designed        (2023 baseline: One
+                          product)
+
+3. Development of         3a. At least one new green    3a.–3b. Otbasy Bank
+green mortgage            mortgage product              JSC quarterly loan
+products for housing      created.d (2023 baseline:     progress reports
+acquisition and           One product)
+renovation
+incentivized
+                          3b. A green mortgage
+                          finance framework
+                          prepared to guide
+                          development of the
+                          product that will also
+                          incorporate methods to
+                          adapt mortgage products
+                          to the unique climate
+                          challenges faced by
+                          women. (2023 baseline:
+                          No framework)
+16       Appendix
+
+
+Key Activities with Milestones
+1. Access to housing finance by women and the low-to-moderate income group of the population
+    expanded.
+1.1 Otbasy Bank JSC adopted ESMS satisfactory to ADB’s Safeguard Policy Statement (2009) by Q1 2025.
+1.2 Consultants for the project implementation unit contracted and mobilized by Q3 2026.
+1.3 Initial public outreach event held to promote the availability of mortgages to women by Q2 2027.
+2. Residential mortgage loan product targeting women borrowers designed.
+2.1 Underwriting criteria for one new women’s mortgage adopted by Otbasy Bank JSC by Q2 2026.
+2.2 New mortgage loan product offered throughout the Otbasy Bank JSC network by Q2 2026.
+2.3 Procedure established to identify and confirm housing held as collateral with green criteria and
+    construction age restrictions by Q4 2026
+3. Development of green mortgage products for housing acquisition and renovation incentivized.
+3.1 Underwriting criteria for new green mortgage products adopted by Q2 2026.
+3.2 Consultants for the project implementation unit contracted and mobilized by Q3 2026
+3.3 New green mortgage product promoted and offered throughout Otbasy Bank JSC’s network by Q4
+    2026.
+3.4 Development of green mortgage finance framework initiated by Q1 2027.
+3.5 Survey on the impact of climate change on women’s access to mortgage finance initiated by Q2 2027.
+3.6 Initial public outreach event held regarding green mortgage finance framework by Q3 2027.
+Inputs
+ADB: $173.59 million loan and $250,000 Technical Assistance Special Fund (TASF-other sources) grant.
+Government of Kazakhstan: $96.00 million and $50.00 million subborrower downpayments.
+Government of Kazakhstan: $250,000 technical assistance financing (subject to partial cost recovery)
+A = assumption, ADB = Asian Development Bank, DR = development result, ESMS = environmental and social
+management system, Q = quarter, R = risk.
+a Government of Kazakhstan. 2024. National Development Plan until 2029; Government of Kazakhstan. 1997.
+
+  Strategy of Kazakhstan’s Development until 2030; Government of Kazakhstan. 2013. Concept for Transition of the
+  Republic of Kazakhstan to Green Economy; and Otbasy Bank. 2024. Development Strategy of Otbasy Bank JSC for
+  2024–2033.
+b Exchange rate of T518.47 = $1.00 (as of 11 December 2025) applied to ordinary capital resources loan of T90 billion.
+c $173.59 million of loan funds will result in the issuance of 2,000 subloans to individuals, of which 1,000 would be to
+
+  individuals acquiring green and sustainable housing.
+d New loan products refers to their new availability to clients of Otbasy Bank JSC.
+
+Source: ADB.
+

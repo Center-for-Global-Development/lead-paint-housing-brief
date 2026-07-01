@@ -1,0 +1,1914 @@
+                                                                                            PÚBLICO
+                                                                             DIVULGACIÓN SIMULTÁNEA
+
+                   DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                               ECUADOR
+
+
+
+
+               FINANCIAMIENTO DE VIVIENDA SOCIAL EN ECUADOR II
+
+
+
+                                               (EC-U0010)
+
+
+                                     PROPUESTA DE GARANTÍA
+
+
+
+
+Este documento fue preparado por el equipo de proyecto integrado por: Sebastián Vargas Macedo,
+Jefe de Equipo (IFD/CMF); María Paloma Silva de Anzorena, Jefa de Equipo Alterna (CSD/HUD);
+Joan Prats, Jefe de Equipo Alterno (IFD/CMF), Omar Villacorta, Jefe de Equipo Alterno (IFD/CMF);
+Adrián Ortega-Andrade, Viviane Azevedo, Ernesto Cuestas, Alex Vasa, Karina Azar, Áurea
+Fuentes, Sandra Ávalos, Cecilia Bernedo (IFD/CMF); Juan José Cervantes Bautista, Jorge
+Guerrero Espinosa, Álvaro Orbea (CSD/HUD); Sara Vila, Arturo Bonilla (LEG/SGO); Roberto
+Esmeral (CSD/CCS); Mylenna Cárdenas, Roberto Laguado (VPC/FMP); Karina Calahorrano
+(CAN/CEC), y Gabriela Mera (ICT/FLI).
+
+De conformidad con la Política de Acceso a Información, el presente documento se divulga al público de
+forma simultánea a su distribución al Directorio Ejecutivo del Banco. El presente documento no ha sido
+aprobado por el Directorio. Si el Directorio aprueba el documento con modificaciones, se pondrá a disposición
+del público una versión revisada que sustituirá y reemplazará la versión original.
+                                                         ÍNDICE
+
+
+
+RESUMEN DEL PROYECTO ................................................................................................. 1
+
+
+RESUMEN DE LA ALINEACIÓN ESTRATÉGICA DEL PROYECTO ............................................... 2
+
+
+
+I.     JUSTIFICACIÓN Y DESCRIPCIÓN DEL PROYECTO......................................................... 3
+
+       A.      Descripción del proyecto............................................................................... 3
+       B.      Adicionalidad del Banco.............................................................................. 14
+
+II.    COSTOS Y ESTRUCTURA DE FINANCIAMIENTO.......................................................... 18
+
+       A.      Componentes del proyecto ......................................................................... 18
+       B.      Dimensionamiento y estructura de financiamiento ...................................... 18
+       C.      Instrumento o modalidad de financiamiento ................................................ 20
+
+III.   PRINCIPALES RIESGOS Y SU ESTRATEGIA DE GESTIÓN ............................................ 21
+
+       A.      Riesgos ...................................................................................................... 21
+       B.      Sostenibilidad ............................................................................................. 22
+       C.      Riesgos ambientales y sociales .................................................................. 23
+
+IV.    ARREGLOS DE EJECUCIÓN, MONITOREO Y EVALUACIÓN .......................................... 23
+
+       A.      Resumen de los arreglos de ejecución ....................................................... 23
+       B.      Arreglos para la implementación de monitoreo y evaluación....................... 26
+                                          - ii -
+
+
+
+                                         ANEXOS
+Anexo I     Matriz de Efectividad en el Desarrollo (DEM) - Resumen
+Anexo II    Matriz de Resultados
+Anexo III   Acuerdos y Requisitos Fiduciarios
+
+
+
+                    ENLACES ELECTRÓNICOS REQUERIDOS (EER)
+EER#1       Teoría del Cambio
+EER#2       Monitoreo, Evaluación y Aprendizaje
+EER#3       Resumen de la Revisión Ambiental y Social (RRAS)
+
+
+
+                    ENLACES ELECTRÓNICOS OPCIONALES (EEO)
+EEO#1       Reglamento Operativo del Programa
+EEO#2       Evaluación Económica
+EEO#3       Referencias Bibliográficas
+EEO#4       Anexo de Cambio Climático y Sostenibilidad
+EEO#5       Manejo de Riesgos Asociados a Garantías sobre Préstamos Soberanos
+EEO#6       Contexto del Mercado Hipotecario Ecuatoriano
+EEO#7       Resumen de Política Pública de Financiamiento para Vivienda en Ecuador
+EEO#8       Programa de Financiamiento de Vivienda de Interés Social y Público – Principales
+            Elementos y Resultados
+EEO#9       Contexto Macroeconómico de Ecuador
+                                            - iii -
+
+
+
+                                     ABREVIATURAS
+AFD        Agencia Francesa de Desarrollo
+BCE        Banco Central del Ecuador
+BID        Banco Interamericano de Desarrollo
+BIESS      Banco del Instituto Ecuatoriano de Seguridad Social
+CDPN       Conversión de Deuda por Naturaleza
+CO         Capital Ordinario
+CONAFIPS   Corporación Nacional de Finanzas Populares y Solidarias
+CTH        Compañía de Titularización Hipotecaria
+FA         Fideicomiso de Administración
+FMI        Fondo Monetario Internacional
+FT         Fideicomisos de Titularización
+GARP       Garantía en Apoyo de Reformas de Política
+GI         Garantía de Inversión
+IESS       Instituto Ecuatoriano de Seguridad Social
+IFI        Instituciones Financieras Intermediarias
+MEF        Ministerio de Economía y Finanzas
+MIDUVI     Ministerio de Desarrollo Urbano y Vivienda
+MIT        Ministerio de Infraestructura y Transporte
+ODS        Objetivo de Desarrollo Sostenible
+PIB        Producto Interno Bruto
+RIN        Reservas Internacionales Netas
+ROP        Reglamento Operativo del Programa
+SBU        Salarios Básicos Unificados
+TIR        Tasa Interna de Retorno
+VA         Valor Agregado
+VIP        Vivienda de Interés Público
+VIS        Vivienda de Interés Social
+VPN        Valor Presente Neto
+VPP        Vida Promedio Ponderada
+                                                 RESUMEN DEL PROYECTO
+                                                        ECUADOR
+                                     FINANCIAMIENTO DE VIVIENDA SOCIAL EN ECUADOR II
+                                                       (EC-U0010)
+                                                   Términos y Condiciones Financieras
+  Garante:                                                            Facilidad de Financiamiento Flexible (a)
+  Banco Interamericano de Desarrollo (BID)             Plazo máximo de la garantía:    25 años
+  Acreedores Garantizados:
+                                                       Vida Promedio Ponderada
+  Acreedores de la República del Ecuador                                                          15,25 años
+                                                       (VPP):
+  bajo el instrumento garantizado
+  Deudor Garantizado:                                                                             (a)
+                                                       Comisión de Garantía:
+  República del Ecuador
+  Contragarante:                                                                                  (a)
+                                                       Comisión de Inmovilización:
+  República del Ecuador
+  Organismo Ejecutor:                                  Comisión de inspección y                   (a)
+  Ministerio de Economía y Finanzas (MEF)              vigilancia:
+  Obligaciones Garantizadas:
+  Obligaciones de pago a ser contraídas por                                                       Dólares de los Estados Unidos de
+  la República del Ecuador bajo un bono                Moneda de aprobación:
+                                                                                                  América
+  soberano y/o un préstamo (el “Instrumento
+  Garantizado”)
+  Fuente             Monto (US$)         %
+  BID (Capital                                         Sector(es):                                Desarrollo y Vivienda Urbanos / Vivienda
+                     250.000.000       100
+  Ordinario):
+  Total:               250.000.000          100        Clasificación socioambiental:              FI
+                                                           Esquema del Proyecto
+  Objetivos general y específicos. El objetivo general de desarrollo de la operación es contribuir a la reducción del déficit
+  habitacional cuantitativo en Ecuador. Esto se conseguirá mediante el objetivo específico de desarrollo de ampliar el crédito
+  hipotecario asequible para hogares de ingresos medios.
+  Condiciones especiales previas a la emisión de la garantía: La emisión de la garantía estará sujeta a las siguientes
+  condiciones: (i) el Banco debe haber negociado y estar de acuerdo con los términos del contrato de garantía; (ii) el Banco debe
+  estar satisfecho con la estructuración del Instrumento Garantizado y la documentación asociada; (iii) el contrato de
+  contragarantía entre el Banco y el Contragarante debe haber entrado en vigor en términos aceptables para el Banco; y (iv) en
+  relación con el programa: (a) la formalización de la modificación del Fideicomiso de Administración para contemplar la ejecución
+  de los recursos correspondientes al Instrumento Garantizado; y (b) la aprobación y entrada en vigencia del Reglamento
+  Operativo del Programa (ROP), en términos previamente acordados entre el Banco y el MEF (¶4.5).
+  Para condiciones especiales socioambientales favor ver EER#2.
+  Excepciones a las políticas del Banco: Se solicita una dispensa a la norma contenida en la nota al pie 37 de la Propuesta de
+  Política para un Instrumento de Garantía Flexible Aplicable a Operaciones con Garantía Soberana (GN-2729-2), que establece
+  que las garantías soberanas del BID no cubren el vencimiento anticipado de deuda (¶4.7).
+
+(a)   Las comisiones de garantía, inmovilización, y de inspección y vigilancia serán establecidas periódicamente por el Directorio Ejecutivo como
+      parte de su revisión de los cargos financieros del Banco, de conformidad con las políticas correspondientes.
+                              RESUMEN DE LA ALINEACIÓN ESTRATÉGICA DEL PROYECTO
+
+                                                    Justificación y Enlaces
+
+                               El programa contribuirá con el cierre de las brechas de género en el segmento de créditos hipotecarios
+                               por medio de una proporción de la cartera relevante que esté designada a mujeres.
+                               En Ecuador, el 38,5% de los hogares tiene jefatura de mujeres, frente al 61,5% de hogares de hombres 1;
+                               presentando déficits de vivienda superiores a los de los hombres: 43,7% vs. 41,1%. Estas brechas
+                               también están en el acceso a crédito2: las mujeres representan el 47,49% en el número de créditos
+ Igualdad de Género
+                               hipotecarios para viviendas (comparado con el 52,51% de los hombres)3. Si bien el análisis de demanda
+                               no cuenta con información suficiente desagregada por sexo, información muestra que no existe una
+                               brecha de género en los montos promedio de créditos otorgados 4. Finalmente, a pesar de que estas
+                               brechas pueden tener orígenes en factores de demanda (menor proporción de hogares con jefatura de
+                               mujeres) y de oferta (instituciones financieras), se hace importante trabajar a nivel de oferta para que
+                               las mismas no se profundicen.
+                                                                            Acuerdo de París
+                                   Alineado con la meta de resiliencia climática:                  Alineado con la meta de
+                                                                                                      descarbonización:
+                                    Análisis simplificado (bajo riesgo físico de CC)
+                                                                                                 Análisis específico requerido
+                                         Financiamiento Climático y Verde                        Financiamiento Climático
+                               Financiamiento climático y verde (%) del presupuesto Mitigación (%)                            14,37
+                               total del proyecto:                                      Adaptación (%)
+                                                         14,37                          Dual (%)
+ Cambio Climático                                                                       Financiamiento Climático Total        14,37
+                                                                                        (%)
+                               Indicador de Adaptación: ☐                                Indicador de Mitigación: ☐
+
+                               La garantía de inversión expandirá la oferta de crédito para vivienda asequible. Esta operación es
+                               consistente con las políticas nacionales establecidas en el NAP y la NDC de Ecuador, donde se
+                               reconoce la necesidad de ampliar el acceso a vivienda para reducir los asentamientos informales con
+                               alta vulnerabilidad climática. Por su parte, las normas ecuatorianas aplicables a la vivienda asequible
+                               promueven la incorporación de medidas de eficiencia energética, eficiencia hídrica y resiliencia. De
+                               acuerdo con el ROP, se buscará priorizar soluciones que generen mayores ganancias en eficiencia,
+                               incluidas aquellas asociadas a la posible transición hacia el uso de cocción eléctrica.
+
+ Objetivos de Desarrollo Sostenible (ODS): ODS 5; ODS 11; ODS 17.
+
+Estrategia del país
+                              El proyecto se alinea con la Estrategia de País del Grupo BID con Ecuador 2022-2025 (GN-3103-1)
+ Estrategia del país          con el área de prioridad 3: Fortalecimiento del Progreso Social con foco énfasis en reducir brechas de
+                              género. Objetivo Estratégico 7: Mejorar el acceso y cobertura a los servicios sociales y básicos.
+
+
+
+
+            1   EEO#3[14].
+            2   Las mujeres tienen menor participación en el mercado hipotecario entre otros aspectos, debido a la
+                informalidad laboral. EEO#3[15].
+            3   EEO#3[16].
+            4   Ibid.
+                                               -3-
+
+
+
+                      I. JUSTIFICACIÓN Y DESCRIPCIÓN DEL PROYECTO
+
+
+          Aspectos destacables del proyecto. El proyecto provee una garantía de inversión del
+          BID por US$250 millones y una estructura de financiamiento que en conjunto esperan
+          movilizar un total de US$750 millones de recursos adicionales privados para expandir la
+          oferta de crédito hipotecario accesible a hogares de ingresos medios y así contribuir a
+          reducir el déficit habitacional cuantitativo en Ecuador. El proyecto continuará los logros y
+          se diseña sobre una estructura financiera innovadora desarrollada por una operación
+          previa del BID en Ecuador (4699/OC-EC) en el sector vivienda y que ha demostrado
+          resultados importantes en cuanto a mejoras en el acceso a financiamiento, movilización
+          de recursos y ha brindado adicionalidades sectoriales. El programa busca alcanzar
+          resultados en términos de reducción del déficit habitacional cuantitativo en Ecuador, la
+          movilización directa de recursos privados, la expansión de la cartera hipotecaria para la
+          población objetivo y la colocación de créditos hipotecarios a mujeres.
+
+A.        Descripción del proyecto
+
+1.1       Objetivos. El objetivo general de desarrollo de la operación es contribuir a la
+          reducción del déficit habitacional cuantitativo en Ecuador. Esto se conseguirá
+          mediante el objetivo específico de desarrollo de ampliar el crédito hipotecario
+          asequible para hogares de ingresos medios5.
+
+1.2       Problema principal: déficit habitacional en Ecuador. En Ecuador, la
+          problemática habitacional se manifiesta en un déficit que en 2022 afectaba a
+          2,34 millones de viviendas, equivalente al 46,2% de las viviendas particulares
+          ocupadas en el país. Este déficit se presenta en dos dimensiones: el cuantitativo,
+          que corresponde a 743.331 hogares que requieren una vivienda nueva (viviendas
+          irrecuperables); y el cualitativo, que afecta a 1.595.162 viviendas existentes que
+          necesitan mejoras estructurales, ampliaciones o servicios básicos para ser
+          adecuadas (viviendas recuperables).
+
+1.3       Déficit habitacional por segmentos de ingresos en la población. El déficit
+          habitacional es una problemática que afecta a diversos segmentos de ingresos de
+          la población ecuatoriana tanto en su dimensión cuantitativa como en la cualitativa.
+          Como se puede ver en el Cuadro 1, si bien ambos tipos de déficit son más
+          prevalentes en los rangos menores de ingreso, los hogares de ingresos medios
+          (aquellos entre ingresos mensuales de entre US$700 y US$2.500 o 1,5 Salarios
+          Básicos Unificados (SBU6) a 5,3SBU (ver justificación técnica de este rango en
+          ¶1.17) también adolecen de esta problemática. De esta manera, al 2024, dentro
+          del rango de ingresos medios existen aproximadamente 167.000 hogares que
+          presentan déficit cualitativo de vivienda.
+
+
+
+
+5    Ver definición en ¶1.17.
+6    Un SBU es equivalente en 2025 a US$470.
+                                                                          -4-
+
+
+
+                 Cuadro 1. Distribución del déficit habitacional por segmentos de ingreso en Ecuador
+
+    Rangos de ingreso Ingreso familiar mensual                           Número de               Hogares con déficit             Hogares con déficit
+     mensual (SBU)        promedio (US$)                                  hogares                   cuantitativo                    cualitativo
+        0 – 0,5 SBU                               130                       1.074.458                       283.510                    477.426
+      0,5 – 1,05 SBU                              360                       1.238.229                       197.059                    538.062
+       1,05 – 2 SBU                               664                       1.438.000                       121.370                    532.553
+        2 – 2,5 SBU                              1.030                         431.189                       23.311                    133.491
+      2,5 – 3,5 SBU                              1.355                         462.464                       16.349                    122.238
+      3,5 – 4,5 SBU                              1.814                         317.662                           5.518                  43.683
+      4,5 – 6,3 SBU                              2.417                         164.490                           2.543                  31.540
+        6,3 – 8 SBU                              3.231                          61.619                            351                       8.659
+      Más de 8 SBU                               5.396                          64.197                            346                       6.547
+
+    Fuente: Encuesta Nacional de Empleo, Desempleo y Subempleo (ENEMDU) 2024.
+
+
+1.4           El problema de asequibilidad de la vivienda en Ecuador. Existe un problema
+              importante de asequibilidad de la vivienda en Ecuador que se manifiesta como
+              una brecha significativa entre los costos de las soluciones habitacionales y la
+              capacidad de pago de un amplio segmento de la población. Esta situación se ve
+              agravada por varios factores interrelacionados que limitan el acceso a una
+              vivienda digna y adecuada. Según un estudio reciente del BID7, más del 80% de
+              los hogares ecuatorianos no puede acceder a una vivienda unifamiliar estándar
+              de dos dormitorios en el mercado formal. Esta brecha no sólo refleja una diferencia
+              de ingresos y precios, sino también la falta de acceso a financiamiento hipotecario
+              en condiciones asequibles, que impide a los hogares transformar su capacidad de
+              pago potencial en demanda efectiva de vivienda. En consecuencia, una
+              proporción significativa de hogares opta por soluciones informales, de
+              autoconstrucción o viviendas deficitarias, reproduciendo el déficit habitacional
+              total que afecta al 46,2% de los hogares del país.
+
+              Cuadro 2. Hogares que pueden adquirir una vivienda unifamiliar estándar de dormitorios en
+                                             condiciones de mercado
+      Deciles                               1            2         3           4           5           6           7        8           9            10
+      Ingresos anuales (US$)              5.114      7.253       8.739       9.901      11.357     12.923        14.647   16.826     21.621         41.195
+      Pago mensual máximo
+                                           128        181         218         248        284         323          366      421         541          1.030
+      de la vivienda (US$)
+      Puede comprar la
+                                            N            N         N           N           N          N            N        N          S              S
+      vivienda (US$78.000)
+      Fuente: BID (2025). Cadena de valor de la vivienda en Ecuador: Estudio sectorial de vivienda en Ecuador.
+
+
+1.5           Determinante 1: Escasez de financiamiento hipotecario asequible para familia de
+              ingresos medios en Ecuador. Como se ha mencionado, uno de los principales
+              determinantes del déficit habitacional en Ecuador es la falta de financiamiento
+              hipotecario en condiciones asequibles (¶1.4), el cual afecta a hogares bajo distintas
+              categorías de ingresos (¶1.3). Dentro de estos, los hogares de ingresos medios
+              enfrentan una restricción particular en el mercado de vivienda. Aún cuando la mayoría
+              cumple con los criterios de solvencia y tiene acceso formal al sistema financiero, no
+              puede acceder a una vivienda formal debido a la falta de crédito hipotecario en
+              condiciones asequibles de tasa, plazo y cuotas de entrada. La cartera hipotecaria en el
+              país apenas equivale al 2% del PIB, frente a un promedio regional de 15% a 20%, lo
+
+7     EEO#3[1].
+                                                     -5-
+
+
+
+          que evidencia la escasa profundidad del mercado y su limitada capacidad para atender
+          a este segmento. Con tasas en torno al 10%-11% y plazos de hasta 15-20 años, el
+          servicio de deuda en estas condiciones supera el umbral del 40% del ingreso familiar
+          considerado asequible, mientras que las cuotas de entrada de hasta el 30% exceden
+          ampliamente la capacidad de ahorro de la mayoría de los hogares. En consecuencia,
+          aunque las familias de ingresos medios (equivalente al 34% del total de hogares de
+          Ecuador8) son sujetos de crédito, enfrentan un sistema financiero que no ofrece
+          condiciones adecuadas para acceder a una vivienda formal, quedando excluidas de la
+          oferta de financiamiento disponible de este tipo. El mercado hipotecario resulta reducido
+          y costoso, con una oferta de crédito de largo plazo limitada frente a la demanda
+          potencial de los hogares. Una serie de características estructurales y fallas de mercado
+          explican este equilibrio socialmente subóptimo, entre los cuales se destacan:
+          (a)      Sistema financiero orientado al financiamiento de corto plazo. El
+                   sistema financiero ecuatoriano se caracteriza por una alta concentración de
+                   fondeo en el corto plazo y un exceso de liquidez precautoria. En 2024, cerca
+                   del 45% de los depósitos correspondían a recursos a la vista o sin plazo
+                   fijo, mientras que los depósitos de largo plazo representaron apenas entre
+                   3% y 5% del total. Esta estructura refleja una preferencia de las
+                   instituciones financieras por mantener un calce de plazos conservador,
+                   fondeando principalmente activos de vencimiento similar y limitando su
+                   exposición a créditos de largo plazo, como el hipotecario. Esta
+                   configuración está asociada a las restricciones estructurales del marco
+                   macro financiero del país, entre ellas: (i) la limitada disponibilidad de
+                   recursos de largo plazo para mejorar los calces de plazo en el sistema
+                   financiero; y (ii) la ausencia de un prestamista de última instancia y las
+                   limitaciones del Banco Central del Ecuador (BCE) para utilizar de manera
+                   expansiva las Reservas Internacionales Netas (RIN) en caso de crisis.
+                   Dichas restricciones derivan del esquema de dolarización oficial, que, si
+                   bien ha contribuido a la estabilidad de precios, ha reducido la capacidad del
+                   sistema para absorber shocks de liquidez y fomentar el financiamiento de
+                   largo plazo. Asimismo, factores como la volatilidad macroeconómica y la
+                   inestabilidad política, reflejadas en un riesgo país promedio de más de
+                   1.400 puntos básicos durante los últimos cinco años9, elevan las primas de
+                   riesgo y fomentan una preferencia por liquidez en el sistema financiero. A
+                   ello se suman los limitados niveles de ahorro institucional y la escasa
+                   profundidad de los mercados de capitales, que restringen la participación
+                   de inversores institucionales locales, como fondos de pensiones y
+                   compañías de seguros, que son los principales demandantes de
+                   instrumentos financieros de largo plazo.
+
+          (b)     Mercado de capitales poco profundo10. Como consecuencia, el país carece
+                  de mecanismos de mercado secundarios sólidos, esenciales para expandir el
+                  financiamiento hipotecario. El proceso de titularización, que en otros sistemas
+
+8    EEO#3[2].
+9    EEO#3[3].
+10   En general, el mercado de valores ecuatoriano sigue siendo notoriamente pequeño en relación con el tamaño
+     de su economía. En 2023, la capitalización bursátil total de las empresas listadas representó apenas 6,9% del
+     PIB. En contraste, el promedio regional de América Latina supera el 30%, y en economías desarrolladas como
+     Estados Unidos la relación sobrepasa el 150 % del PIB. Esta marcada diferencia refleja la escasa profundidad
+     del mercado de capitales ecuatoriano y el poco desarrollo de su sistema financiero, en el que las empresas
+     dependen casi exclusivamente del crédito bancario en lugar de recurrir al financiamiento basado en el mercado.
+                                                  -6-
+
+
+
+                  permite transferir riesgo y liberar liquidez mediante la venta de carteras
+                  hipotecarias a inversores institucionales, permanece limitado. Entre 2016 y
+                  2021, las emisiones hipotecarias sumaron apenas US$891 millones,
+                  equivalentes a unas 2.000 viviendas por año, reflejando un mercado de escasa
+                  profundidad y sin base de inversores con el apetito y la capacidad para
+                  absorber bonos de titulización hipotecaria. Asimismo, no existe un marco legal
+                  para la emisión de cédulas hipotecarias (covered bonds), instrumentos de bajo
+                  riesgo que en otros mercados proveen una fuente de fondeo estable y de largo
+                  plazo. La ausencia de estos mecanismos obliga al sistema financiero a operar
+                  bajo un modelo de “originar para retener” (originate-to-hold), donde los bancos
+                  mantienen en balance los créditos que otorgan, limitando su capacidad para
+                  originar nueva cartera hipotecaria.
+
+          (c)     Limitada capacidad de ahorro de la población para cubrir cuotas de
+                  entrada. El sistema financiero privado en Ecuador requiere, por lo general, una
+                  cuota de entrada de aproximadamente el 30% del valor del inmueble. Para los
+                  hogares ecuatorianos, cumplir con este requisito resulta difícil debido a su
+                  limitada capacidad de ahorro. Según una reciente encuesta de Equifax
+                  Ecuador (2025)11, el 22,6% de la población no destina recursos al ahorro y sólo
+                  el 14,2% acumula montos anuales superiores a US$4.000, reflejando la
+                  escasa capacidad de los hogares para reunir capital propio. Adicionalmente,
+                  la alta informalidad laboral limita el acceso de hogares de ingresos medios al
+                  crédito hipotecario formal, al dificultar la verificación de ingresos y la
+                  construcción de historial crediticio. En Ecuador, la tasa de empleo informal
+                  alcanzó 68,6% en 202412, y la evidencia regional muestra que los trabajadores
+                  informales suelen tener un acceso restringido al crédito13, lo que agrava las
+                  brechas de financiamiento habitacional. Para hogares con ingresos medios y
+                  preferencias por liquidez en economías volátiles, acumular ese capital inicial
+                  es difícil aun cuando la relación cuota/ingreso pueda ser manejable. Como se
+                  resalta en un estudio del BID14, la volatilidad macroeconómica y la inestabilidad
+                  de los ingresos en la región incentiva a los hogares a priorizar el ahorro
+                  precautorio a corto plazo sobre la acumulación de capital a largo plazo para
+                  proyectos de inversión como la vivienda. La exigencia de una cuota de entrada
+                  elevada funciona para la banca como un mecanismo de selección, asegurando
+                  que sólo los solicitantes con mayor capacidad de ahorro y con capital en riesgo
+                  accedan al financiamiento, lo que deja efectivamente fuera del mercado a la
+                  mayoría de los hogares de ingresos medios.
+
+1.6       Entre las consecuencias de esto se encuentra un mercado hipotecario nacional
+          en el que el sector privado no puede atender a gran parte de la demanda, siendo
+          que el 46% del crédito proveniente de instituciones o programas públicos15, ya sea
+          del Banco del Instituto Ecuatoriano de Seguridad Social (BIESS)16 o del Programa
+          Público de Viviendas de Interés Social (VIS) o Viviendas de Interés Público
+
+
+11   EEO#3[4].
+12   EEO#3[5].
+13   EEO#3[6].
+14   EEO#3[7].
+15   Ver EEO#7 para un resumen de la política pública de financiamiento de vivienda en Ecuador.
+16   El BIESS otorga financiamiento hipotecario en condiciones favorables a trabajadores afiliados con empleo
+     formal y aportes regulares al Instituto Ecuatoriano de Seguridad Social (IESS).
+                                                    -7-
+
+
+
+          (VIP)17. En este contexto, el Programa de Vivienda VIS/VIP juega un rol clave en
+          atender a través del sistema bancario privado una fracción importante del
+          financiamiento hipotecario a una población que no podría acceder en su mayoría
+          a crédito del segmento inmobiliario. En cuanto a número de viviendas financiadas
+          en el país, los segmentos VIS/VIP representan aproximadamente el 17,8% del
+          total de créditos del país. Esta participación, en monto, es equivalente al 12,9% de
+          las colocaciones de crédito hipotecario en el sistema ecuatoriano. Las importantes
+          diferencias entre las condiciones crediticias del crédito inmobiliario convencional
+          y las provistas por el Programa VIS/VIP (¶1.13) hacen posible que muchas familias
+          tengan acceso a una vivienda digna, lo cual no sería posible para la mayoría si no
+          existieran estos segmentos18.
+
+                             Cuadro 3. Colocación de créditos de vivienda en Ecuador
+
+
+
+
+1.7       Otros determinantes no atendidos por la operación. Existen determinantes del
+          déficit habitacional cuantitativo en Ecuador para la población objetivo, que
+          trascienden el alcance de la presente operación, pero que tienen influencia en los
+
+17   VIS, segmento subvencionado o priorizado por política pública, orientado a hogares de bajos ingresos; y VIP,
+     segmento intermedio entre la VIS y la vivienda atendida por el crédito inmobiliario convencional, destinado
+     ahogares de ingresos medios.
+18   Para más contexto del mercado hipotecario ecuatoriano ver EEO#6.
+                                                      -8-
+
+
+
+          impactos esperados de esta en el largo plazo. Por un lado, los elevados costos
+          del suelo19 y el incremento en los costos de construcción (del orden de 15% a
+          25% para algunos insumos entre 2021 y 202420), que representan entre 30% y
+          40% del valor final de la vivienda, limitan la asequibilidad de las viviendas para
+          hogares de ingresos medios. En el país existen esfuerzos públicos para abordar
+          esto a través de, por ejemplo, marcos normativos para ordenamiento territorial,
+          uso y gestión de suelo, así como incentivos fiscales para la industria de la
+          construcción. Por otro lado, existen importantes barreras burocráticas que
+          ralentizan el crecimiento de la oferta de viviendas. Por ejemplo, obtener un
+          permiso de construcción en el país toma más de 130 días21. Ante esto se hacen
+          necesarias intervenciones públicas orientadas, por ejemplo, a la digitalización y
+          simplificación de trámites. Finalmente, la regulación de los mercados financieros
+          en Ecuador es insuficiente22, lo cual genera barreras para la intermediación
+          financiera de largo plazo, impactando la capacidad del sistema de proveer, por
+          ejemplo, crédito hipotecario asequible sin intervención pública. Para abordar esto,
+          la normativa del sistema de garantías del país fue revisada recientemente23 la cual
+          incorporó mecanismos o instrumentos que pueden fomentar el crédito de vivienda.
+
+1.8       Solución propuesta. La solución planteada consiste en un programa público de
+          financiamiento de vivienda orientado a la población de ingresos medios24,
+          destinado a reducir las barreras de acceso al crédito hipotecario y ampliar el
+          fondeo de largo plazo. El programa replicará y escalará el esquema (¶2.2-¶2.4)
+          probado en la operación que lo precede, la cual ha generado un valor agregado
+          importante para el país (¶1.12-¶1.15), y será instrumentado a través de una
+          Garantía de Inversión (GI) que respaldará una nueva emisión de deuda soberana,
+          cuyos recursos se canalizarán a través de un fideicomiso público de
+          administración y un mecanismo de titularización hipotecaria hacia instituciones
+          financieras locales (bancos, mutualistas y cooperativas) lo cual permitirá transferir
+          y diversificar riesgo, liberar liquidez en los balances bancarios y movilizar recursos
+          privados hacia la creación de cartera hipotecaria que deberá incluir condiciones
+          asequibles (lo cual será requerido en el ROP para todas las hipotecas) en tasas,
+          plazos y cuotas de entrada que se trasladarán al beneficiario final. Además de la
+          garantía, este esquema de ejecución de los recursos es una adicionalidad provista
+          por el Banco, lo que convierte a la estructura de financiamiento global en una
+          propuesta de alto valor agregado. La presente operación incorpora lecciones clave
+          (para más detalles, ver ¶1.15) derivadas de la ejecución de la operación de
+          garantía anterior en lo relativo a: (i) mejoras en la eficiencia de la estructura
+          financiera y su capacidad de movilización, a través de la experiencia del BID en la
+          estructuración de operaciones de garantía; (ii) mejoras en el alcance de la
+          operación, a través de ajustes al reglamento operativo para expandir el impacto
+          de la operación a nivel de población objetivo y zonas geográficas; y (iii) mejoras
+
+
+19   EEO#3[1].
+20   EEO#3[8].
+21   EEO#3[9].
+22   EEO#3[6].
+23   EEO#3[1].
+24   El presente programa está diseñado para abordar de manera efectiva a la población de ingresos medios. El
+     déficit habitacional afecta a múltiples segmentos de la población, los cuales requieren otro tipo de soluciones
+     afines a sus características y brechas particulares (discusión detallada en ¶1.21-¶1.24 en el marco del enfoque
+     programático del Banco).
+                                           -9-
+
+
+
+         en el monitoreo y reporte de la operación a través de la actualización del marco
+         de financiamiento que acompaña al instrumento garantizado (¶1.29); entre otros.
+
+1.9      La escala de las necesidades sectoriales y financieras identificadas (¶1.3, ¶1.16)
+         justifican la necesidad de una solución con capacidad de movilización de recursos
+         (ver justificación del instrumento en ¶2.5) que justamente provea, entre otras
+         adicionalidades, escala en la generación de recursos. Así, con una garantía de hasta
+         US$250 millones se espera movilizar directamente al menos US$150 millones en la
+         primera etapa de la estructura de financiamiento (¶2.3) y, gracias al financiamiento
+         esperado de al menos US$400 millones generado por la garantía, adicionalmente se
+         espera movilizar aproximadamente US$600 millones adicionales en la segunda etapa
+         de titularización hipotecaria (¶2.4) llevando a una movilización total esperada de
+         US$750 millones. Esta escala de movilización total no sería posible sin la generada
+         por el instrumento de garantía soberana de la primera etapa.
+
+1.10     Necesidad de intervención pública. La naturaleza y prevalencia de las fallas de
+         mercado y características estructurales de este impide que en el corto a mediano
+         plazo el sector financiero privado pueda expandir el financiamiento hipotecario y/o
+         proveer condiciones asequibles sin algún tipo de intervención pública. Por un lado,
+         las Instituciones Financieras Intermediarias (IFI) tienen fuera de su alcance
+         controlar factores que influyen directamente sobre la escasez de fondeo de largo
+         plazo para ellas tales como un mercado de capitales poco profundos, la escasez
+         de recursos de largo plazo, la exposición a ciclos económicos externos, la
+         inestabilidad macroeconómica y la ausencia suficiente de inversores
+         institucionales (¶1.5(a),¶1.5(b)). En este contexto, una intervención pública que
+         provea alternativas de financiamiento de largo plazo (como las titularizaciones
+         hipotecarias) a las IFI contribuye a expandir la originación de hipotecas
+         (¶1.12-¶1.14). Por otro lado, las condiciones estándar de mercado para los
+         créditos hipotecarios establecidas por las IFI son incompatibles con
+         características de demanda como la limitada capacidad de ahorro de muchos
+         hogares, lo cual que limitan la asequibilidad de la vivienda (¶1.5(c)). En este
+         contexto, intervenciones públicas que brinden los incentivos financieros a las IFI
+         para que estas puedan originar cartera a menores tasas, mayores plazos y
+         menores cuotas de entrada se hacen necesarias.
+
+1.11     Evidencia de efectividad de solución propuesta. La evidencia disponible
+         respalda la pertinencia de esta solución. Desde el plano teórico, las garantías
+         soberanas contribuyen a mejorar la percepción de riesgo del país, reducen los
+         costos de financiamiento y permiten apalancar recursos adicionales en mercados
+         con restricciones de acceso25. En el plano empírico específico a la solución
+         propuesta, que incluye el instrumento de garantía más adicionalidad del esquema
+         de ejecución de los recursos, la operación 4699/OC-EC probó la viabilidad de esta
+         estructura y logró una movilización de recursos superior a la inicialmente prevista
+         a través del mecanismo establecido (¶1.13). Adicionalmente, la experiencia de la
+         operación precedente muestra la capacidad del instrumento y el esquema de
+         financiamiento para generar capacidades y promover el desarrollo del mercado
+         hipotecario (¶1.14; ¶1.15).
+
+
+
+25   EEO#3[12].
+                                                  - 10 -
+
+
+
+1.12      Evidencia a partir del Programa de Financiamiento de Vivienda Social I
+          (4699/OC-EC). Este programa, aprobado en 2018, representó un hito para el
+          financiamiento de vivienda asequible en Ecuador26. El valor agregado principal del
+          programa consistió en desarrollar e implementar una estructura de financiamiento
+          (para proveer financiamiento hipotecario asequible) que incluyó una garantía de
+          inversión provista por el BID y un esquema de ejecución de recursos que ha
+          movilizado niveles importantes de recursos privados y ha generado
+          adicionalidades fomentado la creación de capacidades y desarrollo de mercados.
+          La operación consistió en una GI de US$300 millones que respaldó la emisión de
+          un bono soberano social por US$400 millones en el 2020. Los recursos del bono
+          social se canalizaron a través de un grupo de instituciones financieras locales
+          (bancos, mutualistas y cooperativas), que los transformaron en créditos
+          hipotecarios, tanto para VIS como para VIP.
+
+1.13      A septiembre de 2025, la garantía del BID catalizó una cartera hipotecaria
+          acumulada de US$950 millones, movilizando alrededor de US$650 millones de
+          recursos privados y financiando 13.575 créditos en 155 cantones, con 48% de
+          beneficiarias mujeres. Los préstamos ofrecieron condiciones significativamente
+          mejores que el mercado: tasas máximas de 5% (vs. aproximadamente 10%),
+          plazos de 20–25 años y cuotas iniciales de mínimo 5% (vs. ≥30%).
+
+1.14      Una de las principales adicionalidades del programa fue el desarrollo de una
+          estructura de financiamiento replicable para el sector vivienda, inexistente
+          previamente en el país y que fortaleció capacidades tanto en el gobierno como en
+          el sector financiero. La operación se ejecutó mediante un esquema de
+          titularización de cartera hipotecaria inédito en Ecuador (¶2.2-¶2.4), que ha emitido
+          valores a septiembre de 2025 por más de US$700 millones. Esto ha permitido
+          reciclar capital en los originadores y generó liquidez continua para nuevos
+          créditos, viabilizando así la segunda etapa de movilización de recursos. Así, se ha
+          sentado las bases de un mercado secundario de hipotecas a través de: (i) la
+          generación de un volumen importante de valores (US$714 millones), que ha
+          expandido el stock de estos activos de inversión de largo plazo en el país, y (ii) la
+          creación de una arquitectura de titularización (el esquema de ejecución del
+          programa) replicable, beneficiada por la estandarización de la originación de
+          créditos por parte de las IFI bajo criterios específicos.
+
+1.15      Además de los resultados, se identificó una serie de lecciones aprendidas que se
+          transmiten al diseño de la presente operación:
+
+          (a) El instrumento de garantía del BID tiene un rol catalítico para movilizar capital
+              privado y facilitar el acceso a mercados temáticos. La operación 4699/OC-EC
+              constituyó la primera garantía aprobada por el BID en Ecuador, y permitió la
+              emisión del primer bono soberano social del mundo. Después de dicha
+              operación se aprobaron y ejecutaron satisfactoriamente dos operaciones
+              adicionales de garantía que permitieron al país acceder a los mercados de
+              capitales internacionales y movilizar recursos para fines de sostenibilidad a
+              través de estructuras de financiamiento innovadoras27. Esto además creó
+              capacidades en el MEF en cuanto a conocimiento transmitido para la
+
+26   Para más detalles de la estructura del programa ver EEO#8.
+27   Ver operaciones 5619/OC-EC y 5947/OC-EC.
+                                 - 11 -
+
+
+
+    estructuración e implementación de este tipo de transacciones, y para la
+    identificación del valor agregado que este tipo de instrumento puede brindar
+    al país. La presente operación incorpora esta lección a través del uso del
+    instrumento de garantía para cumplir con el objetivo de movilización de
+    recursos para atender la necesidad sectorial identificada.
+
+(b) El expertise único del BID en el diseño de operaciones de garantía en la
+    región. Esta experiencia se traduce en estructuras financieras más eficientes
+    para los países. En el presente caso, por ejemplo, la experiencia del BID le
+    permitirá al país incluir como alternativa a elegir de instrumento soberano
+    garantizado la opción de un préstamo (además de la opción de un bono
+    soberano como en la primera operación), lo cual puede generar ganancias
+    en eficiencia financiera y ajustarse mejor a las necesidades de procesamiento
+    de la transacción. De igual manera, el reconocimiento creciente del
+    instrumento del BID en los mercados internacionales brinda al país mejoras
+    la movilización de recursos: mientras que para la primera operación se
+    necesitó una garantía de US$300 millones para una emisión soberana de
+    US$400 millones, se espera que para la presente se obtenga un
+    financiamiento similar con una garantía de menor monto (US$250 millones).
+
+(c) En contexto programas de inversión con intermediarios financieros, la
+    combinación del instrumento de garantía de inversión con una estructura de
+    financiamiento y ejecución adecuadas pueden potenciar la capacidad de
+    movilización de recursos, al generar dos etapas de movilización que se
+    concatenan (¶1.13) e incentivan la creación de capacidades en el gobierno y
+    el sector financiero a través de la transmisión de conocimiento en el diseño y
+    gestión de estructuras financieras innovadoras, entre otros (¶1.29). La
+    presente operación incorpora esta lección a través de la elección de la misma
+    combinación de instrumento de garantía más esquema de ejecución basado
+    en titularización hipotecaria para atender la necesidad sectorial identificada
+    para la población objetivo.
+
+(d) El diseño del programa tiene la flexibilidad necesaria para adaptarse a la
+    evolución de condiciones durante la ejecución con el fin de optimizar su
+    impacto. En efecto, durante la ejecución de la operación anterior, se
+    identificaron retos de la operación para atender segmentos de vivienda de
+    menor costo (VIS), para incluir a población que había quedado fuera de los
+    beneficiarios elegibles, y para evitar la concentración de vivienda en grandes
+    ciudades como Quito y Guayaquil. Ante esto, durante la ejecución de la
+    operación se realizaron ajustes al ROP para incentivar la inclusión de hogares
+    de menores ingresos, así como para incluir como beneficiarios elegibles a
+    población migrante (extranjera) y a aquella cuya fuente de ingreso es el
+    autoempleo. De esta manera, se logró expandir el alcance esperado de la
+    operación, que en un inicio proyectaba concentrase en viviendas VIP, a una
+    composición de beneficiarios que a septiembre de 2025 consistió en 46% de
+    viviendas VIS y 54% VIP. De cara a la presente operación se están
+    explorando mecanismos a ser incluidos en el ROP a través de la inclusión de
+    parámetros para limitar la concentración en ciudades grandes y expandir la
+    participación de viviendas VIS entre los beneficiarios.
+                                                   - 12 -
+
+
+
+         (e) El programa anterior ha demostrado que el esquema de ejecución diseñado ha
+             tenido una implementación exitosa desde el punto de vista fiduciario. Por un lado,
+             el hecho que el fideicomiso de administración (¶2.2-¶2.4) sea un patrimonio
+             independiente, con un propósito exclusivo, y que además cuente con la totalidad
+             de los fondos asignados al programa, generó confianza entre promotores
+             inmobiliarios y entidades financieras. Asimismo, los requerimientos de
+             elegibilidad para las IFI (ver ROP) promovieron que los recursos sean ejecutados
+             eficazmente, y el diseño cuenta con un marco sólido de supervisión (auditores
+             externos, calificadoras de riesgos, Superintendencias de Bancos y de Compañía
+             y Valores). Esto facilitó que el programa mantenga un ritmo sólido de
+             desembolsos, que el ratio de morosidad se encuentre dentro de los rangos
+             esperados para este segmento hipotecario (5,2% a septiembre 2025) y que los
+             rendimientos de los valores hipotecarios emitidos se hayan pagado sin
+             interrupciones. Esta lección aprendida se transmite a la presente operación a
+             través del mantenimiento de estos elementos clave en la estructura de ejecución
+             con el fin de promover una ejecución de recursos del Fideicomiso adecuada y
+             buscando minimizar riesgos.
+
+1.16     Demanda de financiamiento asequible. Se ha estimado que el déficit
+         habitacional cuantitativo al 2024 para los hogares de ingresos medios (¶1.17) es
+         igual a 167.000 viviendas (¶1.3). Asumiendo un valor promedio de vivienda de
+         US$70 mil (equivalente al valor promedio de la vivienda financiada por el primer
+         Bono Social) se estima que las necesidades de financiamiento para cubrir este
+         déficit son equivalentes a US$11.700 millones.
+
+1.17     Beneficiarios. Se define a los beneficiarios directos de la presente operación como
+         familias de ingresos medios, a nivel nacional, con ingresos mensuales de entre
+         1,5SBU a 6,34SBU (equivalente en 2025 a US$700 y US$2.979, respectivamente)28.
+         De acuerdo con la metodología harmonizada del BID para clasificación de segmentos
+         de ingresos en la región29, este rango corresponde principalmente al segmento medio
+         de ingresos familiares mensuales30. Los beneficiarios indirectos incluyen: (i) el
+         sistema financiero ecuatoriano, que verá fortalecido su capacidad de originación y
+         rotación de carteras hipotecarias31; (ii) el sector de la construcción, cuya actividad se
+         dinamizará con la ampliación de la demanda solvente en segmentos tradicionalmente
+         desatendidos; y (iii) la sociedad en general, al contribuir a la reducción del déficit
+         habitacional y de los efectos negativos asociados al hacinamiento y la informalidad.
+
+1.18     Criterios de selección de los beneficiarios. Los criterios de elegibilidad se
+         establecerán en el ROP de la operación (¶4.3). Adicionalmente, se buscará una
+         priorización de mujeres como titulares de crédito o co-beneficiarias, de manera
+         que al menos el 49% de los préstamos beneficien a mujeres, avanzando en la
+
+28  Vale señalar que el 87% de las familias beneficiarias del programa anterior (más de 13 mil familias a nivel
+    nacional. Para esta operación, condicional al contexto macrofinanciero, se espera que el número de
+    beneficiarios sea de un orden similar) se encontraron dentro del rango de ingresos familiares mensuales de
+    1,5SBU a 5,3SBU (US$700 a US$2.500 en 2025).
+29 EEO#3[13].
+30 La categoría de ingresos medios del BID va de US$750 a US$3.750 mensuales. Para este cálculo se supuso
+
+    un hogar con 3,2 miembros, en base cifras del último Censo del 2022. El rango estimado en Paridad de Poder
+    Adquisitivo (PPP) de 2011 es de US$1.191 a US$5.952. Para calcular los valores en dólares corrientes de
+    2024 se utilizó el factor de 0,63 derivado del factor de conversión del PPP para Ecuador para 2011 (0,51) y la
+    inflación acumulada hasta 2024 (aproximadamente 23%). Banco Mundial.
+31 Las instituciones financieras participantes serán bancos, mutualistas y cooperativas.
+                                        - 13 -
+
+
+
+       reducción de brechas de género en el acceso a financiamiento, considerando el
+       contexto de la demanda.
+
+1.19   Contribución esperada del proyecto. El impacto esperado del programa es la
+       reducción del déficit habitacional cuantitativo en Ecuador. Los resultados
+       esperados del programa incluyen: (i) la movilización directa de al menos
+       US$150 millones a través de la emisión del instrumento garantizado; (ii) la
+       generación de un volumen de cartera hipotecaria de US$1.000 millones en los
+       próximos cinco años; (iii) ratio de tasas de interés, (iv) plazos (v) cuotas de
+       entrada mejores que los del sistema; (vi) número de viviendas nuevas financiadas
+       con el programa; y (vii) la participación de mujeres beneficiadas en por lo menos
+       49% de la cartera relevante.
+
+1.20   Análisis económico. Se aplicó un análisis costo–beneficio que monetiza dos
+       efectos: (i) el diferencial de Valor Agregado (VA) en la cadena de construcción e
+       intermediación neto de suelo entre el escenario con y sin programa; y (ii) el
+       diferencial de servicios de vivienda (renta imputada), valorado con la relación
+       alquiler/valor en ambos escenarios. Los costos corresponden al valor actual de
+       los desembolsos/económicos del programa (emisiones/garantía, operación y
+       demás costos pertinentes). Se alcanzó un Valor Presente Neto (VNP) de
+       US$234,19 millones y una Tasa Interna de Retorno (TIR) de 14,85%.
+                           Figura 1. Resumen Teoría del Cambio
+                                                       - 14 -
+
+
+
+B.         Adicionalidad del Banco
+
+1.21       Enfoque programático. La presente operación forma parte de una estrategia del
+           BID y el Gobierno de Ecuador para abordar la problemática de la vivienda y el
+           déficit habitacional en el país. Esta estrategia se ha enfocado en el corto y
+           mediano plazo en proveer atención basada en una segmentación que se realiza
+           en función de los niveles de ingresos de la población objetivo32 que incluye
+           población en situación de pobreza extrema, pobreza, ingresos medios-bajos y
+           medios. Además, cada uno de estos segmentos requiere soluciones que se
+           adapten a sus necesidades particulares en respuesta a las fallas del mercado
+           (¶1.5) relevantes para cada uno, tales como subsidios directos para compra o
+           mejoramiento de vivienda, crédito bancario para vivienda nueva o mejorada, entre
+           otros. Asimismo, en las intervenciones participan actores públicos o privados,
+           tales como el Ministerio de Infraestructura y Transporte (MIT), la Corporación
+           Nacional de Finanzas Populares y Solidarias (CONAFIPS), mutualistas,
+           cooperativas y bancos privados, en función del segmento atendido o tipo de
+           solución provista.
+1.22       Complementariedad con soluciones para poblaciones de bajos ingresos. Para la
+           población en situación de pobreza extrema y pobreza, que por sus niveles de
+           ingresos no pueden asumir el costo de financiamiento, incluso en condiciones
+           mejoradas, se han desarrollado soluciones basadas en subsidios directos con las
+           operaciones 2797/OC-EC y 4788/OC-EC, que abordan el déficit cuantitativo de
+           vivienda mediante la entrega de viviendas 100% subsidiadas en terreno propio,
+           mientras que la operación 5821/OC-EC, además de atender el déficit cuantitativo
+           en población de pobreza extrema, se enfoca en el déficit cualitativo a través de
+           incentivos para el mejoramiento de viviendas existentes. Por su parte, para la
+           población de ingresos medios y medio-bajos no bancarizada y perteneciente a la
+           Economía Popular y Solidaria33, se ha facilitado el acceso al financiamiento
+           mediante la operación global de crédito 5910/OC-EC, en la cual CONAFIPS,
+           canaliza recursos a través de mutualistas y cooperativas de ahorro y crédito para
+           otorgar créditos de adquisición de vivienda nueva, así como créditos de
+           mejoramiento que abordan el déficit cualitativo.
+1.23       Seguimiento a soluciones para poblaciones de ingresos medios. El Banco ha
+           atendido las necesidades de la población de ingresos medios, bancable, a través
+           de soluciones de intermediación financiera con operaciones de garantía como la
+           4699/OC-EC. La presente operación se construye sobre los logros y lecciones
+           aprendidas de la garantía precedente con el objetivo de continuar el apoyo del
+           BID a la problemática de la falta de financiamiento hipotecario para atender el
+           déficit habitacional en la población objetivo. En efecto, la operación anterior ha
+           demostrado importantes resultados en cuanto a mejorar las condiciones de
+           asequibilidad del financiamiento para hogares de ingresos medios (¶1.13),
+           movilización de recursos privados (¶1.13), creación de capacidades y fomentar el
+           desarrollo de mercado (¶1.14). Asimismo, la operación fue altamente relevante al
+           representar la principal fuente de financiamiento para un programa público que
+
+32   El estudio de cadena de valor EEO#3[1] realizado con los principales actores del sector, identificó que era
+     necesario segmentar la atención en el sector con nuevos productos de subsidios y crédito y actores, además
+     de reforzar el marco institucional y legal del sector, transitar hacia vivienda resiliente y sostenible, entre otros.
+33   Sector de la economía al que pertenece una parte significativa de la población de ingresos medios y medios
+     bajos, y que cuenta con micronegocios u otras formas de actividad económica de dicha escala.
+                                                 - 15 -
+
+
+
+          ocupa un importante porcentaje (17,8%) del crédito hipotecario del país (¶1.5);
+          cartera que no podría ser remplazada por el segmento de crédito inmobiliario
+          tradicional, dadas las características de la población objetivo y del mercado. Así,
+          se incorpora lecciones clave derivadas de la ejecución de la operación de garantía
+          anterior en lo relativo a la capacidad del instrumento y esquema de financiamiento
+          para generar acceso a mercados de capitales y potenciar la movilización de
+          recursos; la flexibilidad del diseño para optimizar el alcance de la operación; y la
+          capacidad del esquema de ejecución para lograr un exitoso desempeño desde el
+          punto de vista fiduciario (¶1.15).
+
+1.24      Reformas estructurales. En 2020 con el fin de dinamizar el sector de la vivienda
+          el BID realizó un diagnóstico exhaustivo del déficit habitacional y un análisis de la
+          Cadena de Valor de la Vivienda en Ecuador34, proponiendo reformas estructurales
+          en materia de gobernanza y arreglos institucionales, diversificación de los
+          esquemas de subsidios y productos financieros innovadores. En esa línea, el BID
+          ha apoyado el fortalecimiento de la capacidad del Gobierno de Ecuador a través
+          de, por ejemplo, el apoyo para la formulación de la Política Urbana Nacional (PUN)
+          como un instrumento orientador que tiene el del gobierno para establecer una
+          visión y un marco de acción a largo plazo para guiar el desarrollo de las ciudades
+          y comunidades del país. Asimismo, se comenzó a fortalecer la información del
+          registro de oferta y demanda de vivienda que permitiera dar seguimiento a las
+          acciones en materia de vivienda realizadas (SIIDUVI).
+
+1.25      Cierre de brecha de desarrollo en el país. El conjunto de operaciones implementadas
+          por el Banco en los últimos años en el sector de la vivienda (¶1.22; ¶1.23) ha
+          contribuido de manera articulada al cierre progresivo de la brecha habitacional. Entre
+          2010 y 2022 se registró una disminución en el porcentaje de hogares que
+          presentaban tanto déficit cuantitativo como cualitativo. En el caso del déficit
+          cuantitativo pasó del 18,9% en 2010 al 14,4% en 2022; es decir, 4,5 puntos
+          porcentuales menos durante el último decenio, mientras que el déficit cualitativo
+          disminuyó en 1,3 puntos porcentuales respecto a 2010 (33,1% al 31,8%)35.
+
+
+
+
+34   EEO#3[17].
+35   Fuente: INEC, Censo Ecuador 2022 - Boletín Técnico Nacional.
+Figura 2. Línea de tiempo del apoyo del Banco
+1.26   Sinergias con el sector privado – Adicionalidad financiera. La solución
+       provista por la operación brinda adicionalidad financiera en términos de
+       movilización de recursos privados y en términos de mejoras en condiciones
+       financieras de los créditos hipotecarios apoyados en comparación con las
+       condiciones de mercado existentes. Además, el instrumento de garantía del BID
+       viabiliza el acceso del país a mercados de capitales internacionales e inversores
+       temáticos, lo cual expande las fuentes de financiamiento disponibles para el país.
+       Por otro lado, de manera indirecta, la expansión de la oferta de crédito hipotecario
+       generada por la operación brindará un impulso al sector construcción del país al
+       incluir al mercado a un segmento de familias previamente excluidas.
+
+1.27   En paralelo a esta operación, el Banco está coordinando de manera estratégica
+       con BID-Invest en el sector de vivienda para identificar oportunidades de sinergias.
+       Un potencial ámbito de intervención de BID-Invest en Ecuador sería a través del
+       apoyo al sector de la construcción y a desarrolladores inmobiliarios para facilitar
+       el aumento de la oferta de vivienda, lo que complementaría directamente el
+       componente de demanda que impulsa esta operación.
+
+1.28   Complementariedad con otras instituciones. Esta operación se complementa
+       con los esfuerzos de otras instituciones como la Agencia Francesa de Desarrollo
+       (AFD) y el Banco Mundial (BM) para abordar el déficit habitacional y mejorar
+       hábitats urbanos. En 2019, la operación 4788/OC-EC tuvo un cofinanciamiento
+       paralelo de la AFD por US$80 millones para abordar el déficit habitacional para
+       poblaciones de ingresos menores. Asimismo, la AFD y BM han aprobado
+       operaciones con características que complementan los esfuerzos del BID. Por
+       ejemplo, en 2023, el Banco Mundial aprobó un proyecto de US$100 millones,
+       dirigido a atender tanto el déficit de vivienda como la calidad del hábitat urbano
+       para familias de ingresos bajos, con mejoras de infraestructura, espacios públicos,
+       uso de materiales sostenibles y mecanismos para responder ante emergencias.
+       Por su lado, la AFD ha destinado créditos habitacionales por alrededor de
+       US$30 millones para la construcción, adquisición o rehabilitación de viviendas
+       seguras y sismorresistentes en zonas afectadas por el terremoto de 2016, con
+       plazos extensos y requisitos técnicos que garantizan la resistencia estructural. Si
+       bien abordando aspectos diversos de la problemática sectorial, las tres
+       instituciones comparten estándares técnicos comunes en vivienda sostenible y
+       resiliente; utilizan estratégicamente una combinación de instrumentos
+       (cooperaciones técnicas, préstamos, garantías); y mantienen coherencia en
+       criterios de elegibilidad social (ingresos, jefatura femenina, discapacidad),
+       facilitando sinergias.
+
+1.29   Aportes complementarios – Adicionalidad no financiera. La solución
+       propuesta brinda adicionalidades no financieras que constituyen un elemento
+       central de la propuesta de valor agregado de la presente operación. Estas
+       incluyen:
+
+       (a) La emisión apoyada por la presente operación irá acompañada de una
+           actualización del Marco del Bono Social para Vivienda Asequible y Digna elaborado
+           para la primera operación. En la actualización del marco se espera incluir una
+           dimensión de resiliencia en adición a la dimensión social, la cual busca mejorar el
+                                                     - 18 -
+
+
+
+               reporte del uso de los recursos con el fin de identificar el alcance de la operación
+               para proveer vivienda en regiones más vulnerables al cambio climático36.
+
+          (b) La provisión de un esquema de ejecución de los recursos de un programa
+              público centrado en la titularización hipotecaria para maximizar movilización
+              es una adicionalidad que el Banco ofrece al país y que constituye una
+              transferencia de un producto técnico.
+
+          (c) La creación de capacidades para el gobierno del Ecuador a dos niveles. Por
+              un lado, la experiencia del Banco con operaciones de garantía en Ecuador
+              expande la experiencia del MEF para la estructuración y ejecución financiera
+              de este tipo de transacciones en los mercados de capitales. Por otro lado, la
+              estructura de ejecución de la operación previa ha involucrado la participación
+              de entidades públicas como el MEF, MIT, CFN y CTH, posibilitando una
+              transmisión de conocimiento en la gestión de este tipo de estructuras.
+
+                         II.   COSTOS Y ESTRUCTURA DE FINANCIAMIENTO
+
+A.        Componentes del Proyecto
+
+2.1       Componente único (US$250 millones) – Financiamiento de Vivienda Social
+          en Ecuador II. Este componente consiste en la emisión de una GI por hasta
+          US$250 millones (¶2.5). La garantía será empleada para respaldar la emisión de
+          un instrumento de deuda soberano. Los recursos de dicho instrumento de deuda
+          serán canalizados a créditos hipotecarios a través de IFI empleando un esquema
+          de ejecución desarrollado para la operación (¶2.4). Se tendrá como meta de que
+          el 49% de la cartera relevante atendida beneficie a mujeres.
+
+B.        Dimensionamiento y Estructura de Financiamiento
+
+2.2       El monto de la garantía será financiado con recursos del Capital Ordinario (CO)
+          del Banco. La operación ofrece una estructura de financiamiento que tiene el
+          objetivo de potenciar la movilización de recursos a la vez de proveer
+          adicionalidades financieras y sectoriales al país. Esta estructura de financiamiento
+          está compuesta por una garantía de inversión del BID y por un esquema de
+          ejecución de recursos centrado en un mecanismo de titularización hipotecaria
+          (Figura 3). Esta estructura se implementará sobre la desarrollada para la
+          operación 4699/OC-EC la cual ha generado un valor agregado importante para el
+          país (¶1.12-¶1.15).
+
+2.3       En una primera etapa, la GI, por hasta US$250 millones, respaldará la emisión de
+          un instrumento de deuda soberano por un valor de al menos US$400 millones.
+
+
+
+
+36   Vale resaltar que está dimensión de resiliencia no implica requisitos adicionales de elegibilidad en el ROP, si
+     no se centra en expandir las categorías de reporte disponibles a la fecha en la operación precedente.
+                                                     - 19 -
+
+
+
+          Esto permitirá una movilización directa de recursos privados de por lo menos
+          US$150 millones37.
+
+2.4       En una segunda etapa, los recursos provenientes del instrumento garantizado
+          (US$400 millones) serán canalizados a un Fideicomiso de Administración (FA) el
+          cual empleará dichos fondos para incentivar la originación de créditos hipotecarios
+          bajo condiciones asequibles (ROP) a través de las IFI participantes, dentro de un
+          esquema de titularización hipotecaria. Bajo este mecanismo, las IFI originan
+          créditos hipotecarios VIS/VIP bajo las condiciones de asequibilidad establecidas
+          por el ROP38 y transfieren las carteras generadas a Fidecomisos de Titularización
+          (FT) privados que emiten valores hipotecarios con distintos niveles de riesgo. Los
+          valores de mayor riesgo serán comprados por el FA con los recursos del
+          instrumento soberano garantizado por el BID, mientras que los valores de menor
+          riesgo podrán ser vendidos a inversores privados o retenidos por las propias IFI.
+          Este mecanismo permite a las IFI transferir riesgos y a la vez liberar capital
+          comprometido de sus balances, lo que genera la movilización adicional de
+          recursos en los tramos de menor riesgo. De esta manera, se espera que los
+          US$400 millones canalizados generen alrededor de US$600 millones adicionales
+          de cartera hipotecaria VIS/VIP, equivalente a una movilización indirecta de igual
+          monto, para un total estimado de US$1.000 millones39 en nueva cartera
+          hipotecaria40.
+
+
+
+
+37   La estimación de movilización se basa en una garantía del BID de US$250 millones sobre una emisión de
+     US$400 millones, cuyo efecto de apalancamiento —modelado con tasas BID y de mercado— permitiría
+     reducir el costo de financiamiento a niveles manejables bajo las condiciones actuales del mercado.
+     Contingente a condiciones de mercado, se estima que la garantía generará al país unos ahorros estimados
+     de 382 puntos básicos (comparando el costo estimado del instrumento garantizado (7,44%) versus el costo
+     de financiamiento sin garantía (11,28%)), lo cual implica ahorros de US$309 millones en el servicio de deuda
+     o US$122 millones en VPN. Dado que la operación es una garantía de inversión, la totalidad de recursos se
+     destinarán a financiar el programa de vivienda público.
+38   Vale resaltar que la originación y servicing de los créditos a los beneficiarios finales se lleva a cabo por las
+     mismas IFI, empleando sus propios sistemas de evaluación de riesgos y procesos.
+39   Las proyecciones se sustentan en los resultados de la operación 4699/OC-EC, cuyo portafolio mantuvo una
+     demanda sólida y un desempeño estable incluso durante la pandemia, lo que refuerza la viabilidad y
+     consistencia de las proyecciones de esta operación.
+40   Movilización total = movilización directa de recursos privados adicionales generados en la emisión del bono
+     (US$150 millones, sin contar el valor de la garantía) + movilización indirecta correspondiente a los tramos de
+     menor riesgo adquiridos por inversionistas privados o retenidos por las IFI (US$600 millones) = US$750 millones.
+     Cartera hipotecaria total = cartera financiada con los recursos del bono a través del FA (US$400 millones) +
+     cartera adicional generada por los tramos de menor riesgo de las titularizaciones (US$600 millones) =
+     US$1.000 millones.
+                                               - 20 -
+
+
+
+                                   Figura 3. Estructura de financiamiento
+
+
+
+
+             Fuente: Elaboración propia. BID (2025).
+
+C.    Instrumento o Modalidad de Financiamiento
+
+2.5   El instrumento seleccionado es una GI, que cubrirá parcialmente las obligaciones
+      de la República del Ecuador frente a los acreedores del instrumento garantizado.
+      La GI será por un valor de hasta US$250 millones del CO, un plazo máximo de
+      25 años y una Vida Promedio Ponderada (VPP) máxima de 15,25 años. La Garantía
+      contará con la contragarantía soberana de la República del Ecuador. La escala de
+      las necesidades sectoriales y financieras identificadas (¶1.3, ¶1.16) justifican la
+      necesidad de una solución con capacidad de movilización de recursos. La
+      elección del instrumento de GI es la más adecuada frente a otras modalidades de
+      financiamiento del BID, ya que combina un mayor efecto de movilización con un
+      uso eficiente de recursos. Con una garantía de hasta US$250 millones se espera
+      movilizar directamente al menos US$150 millones en la primera etapa de la
+      estructura de financiamiento (¶2.3) y, gracias al financiamiento de
+      US$400 millones generado por la garantía, se espera movilizar aproximadamente
+      US$600 millones adicionales en la segunda etapa de titularización hipotecaria
+      (¶2.4), llevando a una movilización total esperada de US$750 millones. Esta
+      escala de movilización total no sería posible sin la generada por el instrumento de
+      garantía en la primera etapa.
+                                                    - 21 -
+
+
+
+2.6       Como parte integral de la estructura de financiamiento se encuentra el ROP de la
+          operación, el cual regirá no sólo la gobernanza y canalización de los recursos si
+          no que asegurará, a través de sus requerimientos (¶4.3), que todos los créditos
+          apoyados por el programa presenten condiciones financieras más favorables a las
+          de mercado, asegurando así los beneficios para la población objetivo.
+
+2.7       Términos y condiciones de la contragarantía. Antes de la emisión de la
+          garantía, el Banco suscribirá un contrato de contragarantía soberana con Ecuador.
+          Entre otras cuestiones, este acuerdo dispondrá que en caso de que el Banco deba
+          realizar un pago bajo la garantía, el monto pagado será reembolsado al Banco
+          dentro de 180 días. A partir de la fecha del pago por parte del Banco, el monto
+          total a reembolsar devengará intereses a la misma tasa aplicable a los préstamos
+          con garantía soberana del CO del Banco y estará sujeto a las políticas aplicables.
+          Un perfil de repago diferente podrá ser acordado entre el Banco y la República del
+          Ecuador, a discreción del Banco. El incumplimiento en el pago de la
+          contragarantía genera el mismo tratamiento que el de los préstamos con garantía
+          soberana en mora.
+
+2.8       Incumplimiento y remedios. El contrato de contragarantía dispondrá que cuando
+          el Banco haya determinado que exista incumplimiento de los requisitos de
+          integridad (determinación de la existencia de prácticas prohibidas) en relación con
+          el programa o en caso de incumplimiento del programa acordado por el Banco
+          (inclusive del ROP) o de cualquier otra obligación prevista en el Contrato de
+          Contragarantía, el Banco podrá realizar un desembolso anticipado y depositar el
+          monto de la garantía con un tercero en beneficio del Acreedor Garantizado. Este
+          desembolso anticipado termina la garantía y activa las obligaciones de reembolso
+          del soberano en virtud del Contrato de Contragarantía (nota al pie 43 de la política
+          GN-2729-2).
+
+                   III. PRINCIPALES RIESGOS Y SU ESTRATEGIA DE GESTIÓN
+
+A.        Riesgos
+
+3.1       Riesgo de contexto. Se identificó un riesgo de contexto medio-alto vinculado al
+          entorno económico financiero41. Si se presenta un contexto de alta volatilidad
+          macroeconómica y fiscal en Ecuador, podría ocurrir una reducción en el apetito
+          de los inversores por el instrumento garantizado, lo que generaría condiciones
+          financieras menos favorables para la operación. Para mitigar este riesgo, el MEF,
+          con apoyo del BID, coordinará con los agentes colocadores la calendarización de
+          emisiones en ventanas de mercado favorables y ajustará las condiciones de la
+          emisión de acuerdo con la evolución del mercado.
+
+3.2       Riesgo de proyecto42. Se identificó un riesgo medio-alto vinculado al sistema de
+          gobernanza, que, si se presentan demoras en la coordinación interinstitucional
+
+41   Para más detalles del contexto macroeconómico del país ver EEO#9.
+42   Se llevó a cabo una actualización del análisis de capacidad institucional del MEF durante la preparación de
+     esta operación, en la cual se identificaron áreas de mejora vinculadas a la rotación de personal de la
+     institución. En el análisis de riesgo de la operación, tomando en cuenta la estructura de ejecución particular
+     de esta garantía, se consideró que estas áreas de mejora se traducen en un riesgo de coordinación del MEF
+     con los otros participantes del esquema, aquí expuesto.
+                                                   - 22 -
+
+
+
+          entre el MEF, MIT y el administrador fiduciario del fideicomiso, podría retrasarse
+          la implementación oportuna de los desembolsos y procesos de titularización, lo
+          que generaría un impacto en la ejecución de la operación. Para mitigar este riesgo
+          el equipo del BID acompañará durante el proceso de diseño de la operación al
+          MEF para diseñar los mecanismos de coordinación interinstitucional más
+          adecuados, los que incluirán la asignación de un punto focal en el MIT, designado
+          por esta institución, para la coordinación de aspectos vinculados a la ejecución
+          del programa con el MEF.
+
+3.3       Aspectos de integridad. Para fortalecer la gestión de riesgo del programa y
+          mitigar potenciales impactos sobre la reputación del BID y del programa, el
+          BID establecerá en el Contrato de Garantía, el Contrato de Contragarantía, según
+          sea aplicable, los mecanismos de integridad y gestión de riesgo del Banco
+          aplicables.
+
+B.        Sostenibilidad
+
+3.4       Sostenibilidad de resultados y financiera. Mientras el país enfrente condiciones
+          desafiantes en su entorno macroeconómico, institucional y social, la intervención
+          del Banco sigue estando justificada ya que: (i) no existen mecanismos que permita
+          al sector privado brindar soluciones adecuadas, sin intervención pública, y sin
+          comprometer su viabilidad financiera y comercial (¶1.10); (ii) existe un problema
+          de desarrollo de gran escala y relevancia (¶1.3) que afecta a la población objetivo,
+          el cual tiene impactos de largo plazo sobre el desarrollo económico del país y que
+          no está suficientemente atendido. La naturaleza estructural y rígida de dichas
+          distorsiones puede implicar que este tipo de soluciones sean requeridas de
+          manera constante en distintos niveles de magnitud en sistemas financieros con
+          distintos niveles de desarrollo43. Habiendo señalado esto, ya en un horizonte de
+          largo plazo, se puede identificar elementos que favorecen la sostenibilidad de
+          resultados y financiera de un programa como el presente. Estos pasan por la
+          consolidación de mecanismos, capacidades e incentivos que perduran en el
+          sistema en el tiempo de tal manera que intervenciones como la presente, si bien
+          necesarias persista la magnitud de las carencias, contribuyan a dejar instalados
+          mecanismos para que la expansión del crédito continúe en condiciones
+          comerciales con menor dependencia de la intervención pública. En lo operativo,
+          se espera que los préstamos, si bien originados bajo los modelos de riesgo de las
+          IFI, con montos y plazos calibrados a la capacidad de pago para mantener
+          razones cuota/ingreso sostenibles; generen historiales de pago y datos que
+          informen a los modelos de riesgos de las IFI y reduzcan asimetrías de información
+          con el tiempo. En lo financiero, el programa impulsa el uso de fondeo de largo
+          plazo a través de mecanismos como el de la titularización hipotecaria que se
+          espera contribuyan con el tiempo a desarrollar mercados secundarios para pasar
+          gradualmente de recursos con apoyo público a soluciones de mercado. En lo
+          institucional, es clave continuar fijando protocolos comunes de elegibilidad,
+          originación, monitoreo y desempeño que estandaricen el producto hipotecario
+          para vivienda asequible y promuevan el crowd-in del capital privado.
+
+
+43   Modelos de intervención pública a través de apoyo a esquemas de titularización hipotecaria que ayuden a
+     mitigar el riesgo de descalce de plazos se encuentran presentes a la fecha inclusive en economías avanzadas
+     como la de Estados Unidos. Ver: EEO#3[18].
+                                                 - 23 -
+
+
+
+3.5       Escalabilidad y replicabilidad de los resultados. El diseño del programa abre
+          oportunidades claras de escalabilidad y replicabilidad. A nivel nacional, la
+          experiencia acumulada con esta segunda operación de financiamiento de vivienda
+          social permitirá ampliar el modelo a un mayor número de hogares, diversificando
+          instrumentos y canales financieros para atender diferentes segmentos de
+          demanda. A nivel regional, el esquema de garantía soberana respaldada por un
+          organismo multilateral, combinado con la canalización fiduciaria de los recursos,
+          constituye una estructura probada que puede servir como referencia para otros
+          países de la región que enfrentan desafíos similares en materia de acceso a
+          vivienda asequible.
+
+C.        Riesgos ambientales y sociales
+
+3.6       De acuerdo con el Marco de Política Ambiental y Social (GN-2965-23), la
+          operación se categoriza como Intermediación Financiera (FI) con una clasificación
+          de riesgo ambiental y social de nivel bajo. Con base en los hallazgos de la debida
+          diligencia ambiental y social, se prevé que el impacto ambiental y social de las
+          viviendas elegibles bajo el programa sea de Categoría C. Los impactos
+          ambientales y sociales potenciales asociados al programa se manejarán con la
+          aplicación de un Sistema de Gestión Ambiental y Social (SGAS), que estará
+          basado en el cumplimiento de la Lista de Exclusión del BID, la ley local y criterios
+          adicionales de elegibilidad y exclusión, tal como la exclusión de viviendas de
+          Categoría A, Categoría B, o de riesgo ambiental y social sustancial o alto. Los
+          requisitos ambientales y sociales del programa constituyen el SGAS y se integran
+          en el ROP.
+
+                 IV. ARREGLOS DE EJECUCIÓN, MONITOREO Y EVALUACIÓN
+
+A.        Resumen de los Arreglos de Ejecución
+
+4.1       Organismo Ejecutor (OE). La República del Ecuador actuará como
+          contragarante y el MEF será el OE de la operación.
+4.2       Mecanismo de ejecución44. El ROP regulará todos los aspectos de la ejecución
+          de la estructura de financiamiento (¶2.1) del programa. Los recursos provenientes
+          del instrumento garantizado ingresarán al FA que tendrá a su cargo la gestión
+          financiera y operativa. Se espera que la Corporación Financiera Nacional (CFN)
+          continue en su rol de administrador del FA y CTH45 en su rol de servidor maestro
+          del proceso de titularización, el cual viene llevando a cabo desde la operación
+          anterior. Bajo este rol, CTH se encargará gestionar y supervisar el proceso de
+          titularización hipotecaria, verificando que este se realice en cumplimiento con el
+          ROP. Así, canalizará a nombre del FA los recursos del instrumento garantizado a
+          los Fideicomisos de Titularización (FT). Los FT son fideicomisos privados
+          constituidos por las IFI participantes que son encargados de titularizar las carteras
+          de las IFI y transferir la liquidez y valores resultantes de este proceso a estas (más
+          detalles de la estructura de ejecución de la operación se encuentran en el ROP).
+          El MEF, será encargado de la administración, control y monitoreo del Programa;
+
+
+44   Para más detalles del mecanismo de ejecución ver EEO#8.
+45   CTH es una empresa de sociedad anónima con participación pública.
+                                                   - 24 -
+
+
+
+          De esta manera, en coordinación con el MIT46, supervisará el desempeño del FA
+          y transmitirá al BID los reportes de seguimiento y auditorías necesarios. El MEF
+          contará con un punto focal en el MIT, designado por esta institución, para la
+          coordinación de aspectos vinculados a la ejecución del programa.
+
+4.3       Reglamento Operativo del Programa (ROP). El ROP regirá los procesos para
+          la administración y colocación de los recursos del instrumento garantizado, los
+          cuales incluyen la transferencia de los recursos al FA y el proceso de titularización
+          hipotecaria. Asimismo, el ROP regirá los criterios de elegibilidad para las IFI
+          (capacidad legal y técnica, niveles de riesgo, solvencia liquidez, capital adecuado,
+          entre otros), viviendas a ser financiadas (montos máximos, tipología de vivienda)
+          y beneficiarios finales (ingresos máximos), con el fin de garantizar el correcto uso
+          de los recursos derivados del instrumento garantizado y la canalización de estos
+          a los beneficiarios finales. Vale resaltar que el ROP exige que todos los créditos
+          hipotecarios apoyados por el programa deberán cumplir con los términos
+          financieros establecidos en dicho documento, que incluyen: límites de montos,
+          tasas de interés máximas, así como los plazos mínimos de los préstamos, cuotas
+          mínimas de entrada, y ratios deuda/ingreso máximos de los beneficiarios. Esto
+          garantiza que toda hipoteca bajo el programa incluya condiciones financieras
+          asequibles para los beneficiarios. Si bien el ROP puede ir ajustándose durante la
+          ejecución de la operación en distintos aspectos que mejoren el alcance de la
+          operación, los parámetros clave que determinan la asequibilidad de los créditos
+          (y por tanto la atención adecuada a las necesidades de la población objetivo), son
+          los mismos presentes en la normativa pública ecuatoriana dictaminada por la
+          Junta de Política y Regulación Financiera (JPRF) de Ecuador y no pueden ser
+          modificados sin que la JPRF haga lo propio. De esta manera se asegura que el
+          ROP, y el programa en general, esté siempre en consonancia con los objetivos
+          clave de política pública sectorial del país.
+
+4.4       Lecciones aprendidas para la implementación del proyecto. Además de las
+          lecciones aprendidas de la operación anterior (¶1.15), el programa implementará
+          las siguientes lecciones aprendidas derivadas de su experiencia en el desarrollo
+          de operaciones de garantía: (i) rápido involucramiento y diálogo con los distintos
+          actores para asegurar una adecuada estructuración técnica y financiera de la
+          operación, a través del constante diálogo con el MEF, MIT, CFN y CTH;
+          (ii) adaptación del instrumento de garantía soberana del BID a las necesidades
+          financieras del país para mejorar la movilización esperada de recursos, a través
+          del dimensionamiento de la garantía y el uso de la estructura de ejecución
+          presente; y (iii) la importancia de establecer mecanismos fiduciarios claros que
+          aseguren la canalización transparente de los recursos de la operación y al mismo
+          tiempo generen la confianza necesaria para viabilizar operaciones estructuradas
+          con participación de inversores privados, a través de mantener los aspectos clave
+          del esquema de ejecución que han demostrado generar resultados óptimos
+          (¶1.15). Por último, lecciones aprendidas de programas de gran escala que han
+          integrado metas de género en la cartera relevante muestran que es importante
+          considerar que en expansiones significativas de cartera (como los son las de
+          vivienda), las brechas de género suelen ampliarse porque se incorporan
+          segmentos con mayor participación masculina, dados sus mayores niveles de
+
+46   El MIT es el constituyente del Fideicomiso de Administración y la entidad sectorial encargada de supervisar
+     que la asignación de los recursos se dé acorde con los lineamientos públicos para viviendas VIS/VIP (ROP).
+                                                 - 25 -
+
+
+
+          jefatura del hogar, empleo formal, criterios crediticios, entre otros. Esas lecciones
+          muestran la importancia de mantener la proporción de mujeres dentro de las
+          carteras, e incluso mejorar paulatinamente, pero con metas de género realistas e
+          informadas.
+
+4.5       Condiciones especiales previas a la emisión de la garantía. La emisión de la
+          garantía estará sujeta a las siguientes condiciones: (i) el Banco debe haber
+          negociado y estar de acuerdo con los términos del contrato de garantía;
+          (ii) el Banco debe estar satisfecho con la estructuración del Instrumento
+          Garantizado y la documentación asociada; (iii) el contrato de contragarantía
+          entre el Banco y el Contragarante debe haber entrado en vigor en términos
+          aceptables para el Banco; y (iv) en relación con el programa: (a) la
+          formalización de la modificación del Fideicomiso de Administración para
+          contemplar la ejecución de los recursos correspondientes al Instrumento
+          Garantizado; y (b) la aprobación y entrada en vigencia del ROP, en términos
+          previamente acordados entre el Banco y el MEF. El cumplimiento de estas
+          condiciones es un requisito para que el Banco emita la garantía, como medio para
+          asegurar el debido cumplimiento de los aspectos operativos del proyecto.
+
+4.6       Aspectos de gestión fiduciaria. Por tratarse de una garantía, no se realizarán
+          compras ni pagos con los fondos del proyecto por lo que no existen riesgos
+          fiduciarios de adquisiciones asociados. Así mismo, los desembolsos son
+          contingentes y únicamente se realizarían en el evento de un incumplimiento por
+          parte del deudor del pago de los intereses y/o principal a los acreedores del
+          instrumento garantizado. Dado esto, los acuerdos fiduciarios se limitan a lo
+          establecido en las Directrices Operativas para Instrumentos de Garantía para
+          Operaciones con Garantía Soberana (GN-2729-4).
+
+4.7       Excepciones a las políticas del Banco. Se solicitará una dispensa a la norma
+          contenida en la nota al pie 37 de la Propuesta de Política para un Instrumento de
+          Garantía Flexible Aplicable a Operaciones con Garantía Soberana (GN-2729-2),
+          que establece que las garantías soberanas del BID no cubren el vencimiento
+          anticipado de deuda. Es decir, si el deudor garantizado incumple con sus
+          obligaciones, los desembolsos bajo la garantía del BID se apegarán al calendario
+          original de amortización del instrumento garantizado, independientemente de su
+          aceleración. Si la garantía del BID pudiese ser acelerada, esto fortalecería la
+          estructura de la garantía de cara al mercado y permitiría mejorar substancialmente
+          las condiciones financieras del instrumento garantizado para Ecuador47. Se han
+          considerado dos riesgos asociados a esta dispensa: (i) una mayor exposición
+          financiera, es decir, pagos concentrados; y (ii) distorsión de los incentivos, es
+          decir, incentivos para activar la garantía con el fin de obtener condiciones de
+          reembolso más beneficiosas del Banco. El riesgo de exposición se considera bajo,
+          ya que el importe de la operación de garantía no es de un volumen que pueda
+          afectar al balance del Banco. Con respecto al riesgo relacionado con la distorsión
+          de los incentivos, también considerado bajo, se mitigará mediante un corto
+          período de amortización que se incluirá en el acuerdo de contragarantía que se
+          celebrará entre el gobierno y el BID. Cualquier pago realizado por el BID bajo la
+          garantía debe ser reembolsado por el gobierno dentro de los 180 días siguientes
+
+47   Esta dispensa fue solicitada y aprobada por el Directorio del Banco para las operaciones: 5568/OC-BA en
+     2022; 5619/OC-EC en 2022; y 5819/OC-BH en 2023; 5947/OC-EC y 5902/OC-BA en 2024.
+                                                   - 26 -
+
+
+
+          a la fecha del pago de la garantía, aunque el BID, a su sola discreción, puede
+          acordar términos de pago más flexibles 48.        53F
+
+
+
+
+B.        Arreglos para la Implementación de Monitoreo y Evaluación
+
+4.8       Monitoreo y evaluación. El seguimiento de la ejecución del proyecto se realizará
+          a través de Informes Semestrales de Progreso (PMR, por sus siglas en inglés)
+          presentados dentro de los 60 días siguientes a la finalización de cada semestre.
+          Los informes tomarán como referencia los compromisos de la Matriz de
+          Resultados (Anexo II) y los informes de avance financiero. Los informes
+          semestrales de progreso deberán incluir la actualización y seguimiento de la
+          información del proyecto, así como los recursos que destinará para tal fin, de
+          conformidad con lo indicado en el Plan de Monitoreo, Evaluación y Aprendizaje
+          (MEL). El MEF será responsable de la recolección y verificación de la información.
+          Para la evaluación final del programa se plantea una evaluación ex post con
+          enfoque antes-después orientada a analizar el éxito del programa en la
+          consecución de sus resultados medidos a través de los indicadores de resultados
+          detallados en la Matriz de Resultados del programa.
+
+
+
+
+48   De acuerdo con el apartado 3.24 de la Política de Garantías.
+                                                                                                                                               Anexo I - EC-U0010
+                                                                                                                                                    Página 1 de 1
+
+
+
+                                                           Matriz de Efectividad en el Desarrollo
+                                                                                Resumen          EC-U0010
+I. Resultados de Desarrollo - Evaluabilidad                                                                             Evaluable
+1. Evaluación basada en pruebas y solución                                                                                 7.5
+    1.1 Diagnóstico del Programa                                                                                           1.8
+    1.2 Intervenciones o Soluciones Propuestas                                                                             1.9
+    1.3 Calidad de la Matriz de Resultados                                                                                 3.8
+2. Análisis económico ex ante                                                                                              8.0
+3. Evaluación y seguimiento                                                                                                9.5
+    3.1 Mecanismos de Monitoreo                                                                                            4.0
+    3.2 Plan de Evaluación                                                                                                 5.5
+II. Matriz de Seguimiento de Riesgos y Mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                   Medium Low
+Clasificación de los riesgos ambientales y sociales                                                                         FI
+Nota de Valoración de la Evaluabilidad (completada por SPD): Esta nota tiene por objeto presentar una valoración global de la evaluabilidad del
+proyecto, y permitir al Directorio entender por qué se asignaron o no puntuaciones al proyecto.
+I. Calidad del diagnóstico y las soluciones propuestas
+El diagnóstico identifica el déficit habitacional cuantitativo en Ecuador y cuantifica sus determinantes, como la escasez de fondeo a largo plazo y las
+limitaciones del mercado de capitales. Los beneficiarios están definidos por un rango de ingresos en la propuesta de operación, y los criterios de selección
+están detallados en el Reglamento Operativo, siendo en general consistentes. La solución se basa en la experiencia de una operación previa (4699/OC-EC).
+El análisis económico confirma la viabilidad del proyecto, incluyendo su resiliencia ante retrasos en el cronograma y variaciones en los costos de
+financiamiento .
+
+La lógica vertical del proyecto articula cómo la provisión de financiamiento impactará la creación de viviendas. Se ha incorporado un indicador que vincula la
+financiación con el déficit habitacional y el número de viviendas nuevas, permitiendo evaluar la atribución de resultados. El programa busca aumentar la oferta
+de crédito hipotecario, con metas específicas para la movilización de recursos y la expansión de cartera.
+
+
+II. Calidad de la Matriz de Resultados
+La Matriz de Resultados refleja la lógica vertical del proyecto, conectando los resultados con el impacto esperado. Se incluyen indicadores para medir
+dimensiones clave de asequibilidad: tasa, plazo y cuota inicial. Los indicadores tienen líneas base justificadas y son SMART.
+
+
+
+
+III. Análisis Económico
+El Análisis Costo-Beneficio (CBA) identifica y cuantifica los costos de inversión y los beneficios económicos, incluyendo el Valor Agregado y la renta imputada.
+Los supuestos están documentados. El análisis es consistente con la Matriz de Resultados, alineando los beneficios con las metas en la Matriz de Resultados.
+Se incluye un análisis de sensibilidad pertinente que es generalmente consistente con la Matriz de Riesgos del proyecto. El proyecto demuestra su viabilidad
+en todos los escenarios.
+
+
+
+
+IV. Monitoreo y Evaluación
+El Plan de Monitoreo y Evaluación (MEL) establece una metodología de evaluación "antes-después". Las fuentes de datos son plausibles. El plan incluye una
+planificación anual de metas para los indicadores, un cronograma de actividades de seguimiento y un presupuesto para financiar las actividades de monitoreo
+y evaluación.
+
+
+
+
+V.   Otros temas sobre evaluabilidad para resaltar (si corresponde)
+                                                                                                                                               Anexo II – EC-U0010
+                                                                                                                                                      Página 1 de 6
+
+
+                                                                          Matriz de Resultados
+                                                       Declaración de Objetivos de Desarrollo del proyecto
+
+Objetivo
+General de       El Objetivo General de Desarrollo es contribuir a la reducción del déficit habitacional cuantitativo en Ecuador.
+Desarrollo
+
+Objetivos
+Específicos      El Objetivo Específico de Desarrollo es ampliar el crédito hipotecario asequible para hogares de ingresos medios.
+de Desarrollo
+
+
+                                                                     A.    Objetivo General de Desarrollo
+
+                                                                             Línea de base          Escenario de evaluación
+                                                                           (pre-intervención)         (post-intervención)
+                                                        Unidad de
+No.                     Indicador                                                                                                            Observaciones
+                                                         medida
+                                                                                                                  Año esperado
+                                                                            Valor       Año         Meta
+                                                                                                                   de medición
+
+Objetivo general de desarrollo: contribuir a la reducción del déficit habitacional cuantitativo en Ecuador
+                                                                                                                                    Esta garantía del programa
+                                                                                                                                    permitirá movilizar recursos
+                                                                                                                                    destinados a expandir la oferta de
+                                                                                                                                    financiamiento hipotecario en
+                                                                                                                                    Ecuador. Dado que los créditos
+                                                                                                                                    serán destinados a viviendas
+                                                                                                                                    nuevas o de primer uso, la
+                                                                                                                                    adquisición de estás estará
+                                                                                                                                    contribuyendo a reducir la
+                                                                                                                                    dimensión cuantitativa del déficit
+                                                         Miles de
+I.1   Déficit habitacional cuantitativo en Ecuador.                         647        2024          558               2030         habitacional en Ecuador. La línea
+                                                         viviendas
+                                                                                                                                    de base tiene en cuenta la
+                                                                                                                                    información de la Encuesta
+                                                                                                                                    Nacional de Empleo, Desempleo y
+                                                                                                                                    Subempleo (ENEMDU), 2024. La
+                                                                                                                                    meta se calcula considerando la
+                                                                                                                                    tendencia inercial del déficit
+                                                                                                                                    habitacional cuantitativo y el
+                                                                                                                                    aporte de la operación en
+                                                                                                                                    reducirlo. Así, la tendencia
+                                                                                                                                    observada a partir de datos del
+                                                                                        Anexo II – EC-U0010
+                                                                                               Página 2 de 6
+
+
+                                Línea de base      Escenario de evaluación
+                              (pre-intervención)     (post-intervención)
+                  Unidad de
+No.   Indicador                                                                       Observaciones
+                   medida
+                                                              Año esperado
+                               Valor       Año     Meta
+                                                               de medición
+                                                                             2010, 2022y 2024, según datos de
+                                                                             los Censos del 2010 y 2022 y la
+                                                                             ENEMDU 2024 indica que, de
+                                                                             mantenerse ese ritmo, el déficit
+                                                                             alcanzaría aproximadamente
+                                                                             10,5% (unas 569.354 viviendas)
+                                                                             en 2030. Si a esto se le resta la
+                                                                             contribución del programa de una
+                                                                             disminución de 11.128 viviendas
+                                                                             en dicho déficit se obtiene la meta
+                                                                             final de 558.226. (Para más
+                                                                             detalles del cálculo ver Tabla2 del
+                                                                             MEL).
+                                                                                                                                    Anexo II – EC-U0010
+                                                                                                                                           Página 3 de 6
+
+                                                       B.       Objetivos Específicos de Desarrollo
+
+
+                                                         Línea de base              Escenario de evaluación
+                                           Unidad      (pre-intervención)             (post-intervención)
+ No.               Indicador                 de                                                                           Observaciones
+                                           medida                                                  Año
+                                                       Valor             Año         Meta       esperado de
+                                                                                                 medición
+Objetivo específico de desarrollo: ampliar el crédito hipotecario asequible para hogares de ingresos medios
+                                                                                                              Este indicador medirá la movilización
+                                                                                                              directa conseguida por la garantía de
+                                                                                                              inversión. Se mide como el valor total de
+                                                                                                              la deuda soberana garantizada menos el
+                                                                                                              valor de la garantía del BID. Así, se
+                                                                                                              espera que con una garantía de
+        Movilización directa de recursos
+                                            US$                                                               US$250 millones se respalde un
+R1.1    conseguida a través de la                           0           2025          150             2030
+                                           Millones                                                           instrumento de deuda de
+        garantía del BID.
+                                                                                                              US$400 millones, por lo que la
+                                                                                                              movilización esperada es
+                                                                                                              US$150 millones. La línea de base es
+                                                                                                              igual a cero debido a que este indicador
+                                                                                                              es aplicable exclusivamente a la nueva
+                                                                                                              deuda soberana.
+                                                                                                              Este indicador mide el valor de la cartera
+                                                                                                              hipotecaria destinada a la población
+                                                                                                              objetivo que ha sido generada gracias a
+                                                                                                              la operación. La línea de base es igual al
+                                                                                                              valor de la cartera hipotecaria
+                                                                                                              administrada por el Fideicomiso previo a
+                                                                                                              la emisión de la garantía asociada a la
+                                                                                                              nueva operación. Se considera que la
+                                                                                                              cartera generada por el fideicomiso es la
+R1.2    Cartera relevante apoyada por       US$                                                               relevante debido a que las IFI
+                                                       1.044            2025         2.144            2030
+        la operación.                      Millones                                                           participantes no atienden a este sector
+                                                                                                              fuera del marco brindado por el
+                                                                                                              programa.
+
+                                                                                                              El Reglamento Operativo del Programa
+                                                                                                              establecerá los requerimientos en
+                                                                                                              cuanto a condiciones financieras que
+                                                                                                              todos los créditos a ser otorgados deben
+                                                                                                              cumplir. Estos serán tales (en términos
+                                                                                                              de tasas, plazos y cuotas de entrada)
+                                                                                                                        Anexo II – EC-U0010
+                                                                                                                               Página 4 de 6
+
+
+                                                     Línea de base      Escenario de evaluación
+                                          Unidad   (pre-intervención)     (post-intervención)
+No.               Indicador                 de                                                                Observaciones
+                                          medida                                       Año
+                                                   Valor        Año      Meta       esperado de
+                                                                                     medición
+                                                                                                  que garanticen que todos presenten
+                                                                                                  condiciones de asequibilidad mejoradas
+                                                                                                  respecto a créditos otorgados en
+                                                                                                  condiciones promedio de mercado fuera
+                                                                                                  del programa.
+                                                                                                  Este indicador busca dar seguimiento a
+                                                                                                  una dimensión de asequibilidad del
+                                                                                                  financiamiento. Esto se hará midiendo la
+                                                                                                  relación entre la tasa de interés
+       Ratio entre tasa de interés
+                                                                                                  promedio de los créditos facilitados por
+       promedio de créditos facilitados
+                                                                                                  la cartera relevante (ver definición en
+       por el programa y tasa de
+R1.3                                       Ratio    0,5         2025      0,5          2030       sección A del MEL)y la tasa de
+       interés de referencia para
+                                                                                                  referencia del sistema, fuera del
+       crédito inmobiliario fuera del
+                                                                                                  programa. La línea de base es igual al
+       programa.
+                                                                                                  valor de la tasa promedio de los créditos
+                                                                                                  facilitados por el primer bono social
+                                                                                                  (4,99%) sobre la tasa de referencia para
+                                                                                                  vivienda a septiembre de 2025 (9,74%).
+                                                                                                  Según la información proporcionada por
+                                                                                                  la CTH, con corte a agosto de 2025, el
+                                                                                                  plazo promedio de los créditos VIS-VIP
+                                                                                                  ha sido de 288 meses (24 años) para la
+                                                                                                  primera operación concedida bajo el
+       Ratio entre el plazo promedio de
+                                                                                                  primer bono social. Tomando esto como
+       hipotecas concedidas con el
+                                                                                                  referencia, se divide entre el plazo
+R1.4   programa y el plazo de              Ratio    1,2         2025      1,2          2030
+                                                                                                  máximo de hipotecas identificado fuera
+       referencia de hipotecas
+                                                                                                  del programa (a esto se le denomina
+       concedidas fuera del programa.
+                                                                                                  “plazo de referencia”), que se encuentra
+                                                                                                  en los 20 años. La medición del
+                                                                                                  numerador se hará sobre la cartera
+                                                                                                  relevante (ver definición en sección A del
+                                                                                                  MEL)
+       Ratio de la cuota de entrada                                                               Bajo el primer bono social, la relación
+       promedio de hipotecas                                                                      promedio de la cuota de entrada para los
+       concedidas con el programa y la                                                            créditos VIS y VIP financiados con
+R1.5                                       Ratio   0,565        2025     0,565         2030
+       cuota de entrada de referencia                                                             recursos del Bono Social es del 11,30%
+       para hipotecas fuera del                                                                   calculado en base a la relación entre el
+       programa.                                                                                  avalúo comercial y el monto original de
+                                                                                                                                           Anexo II – EC-U0010
+                                                                                                                                                  Página 5 de 6
+
+
+                                                        Línea de base             Escenario de evaluación
+                                             Unidad   (pre-intervención)            (post-intervención)
+ No.                Indicador                  de                                                                                Observaciones
+                                             medida                                                    Año
+                                                      Valor          Año              Meta          esperado de
+                                                                                                     medición
+                                                                                                                     cada crédito. Fuera del programa, las
+                                                                                                                     EFI exigen una cuota de entrada mínima
+                                                                                                                     (a esto se le llama “cuota de entrada de
+                                                                                                                     referencia”) del 20%
+                                                                                                                     (11,30%/20%=0,565). La medición del
+                                                                                                                     numerador se hará sobre la cartera
+                                                                                                                     relevante (ver definición en sección A del
+                                                                                                                     MEL).
+                                                                                                                     La línea de base es 0 ya que este
+                                                                                                                     indicador nace con la presente
+          Número de viviendas nuevas
+R1.6                                         Número     0            2025         11.128               2030          operación. Para la meta, se estima que
+          financiadas con el programa.
+                                                                                                                     se financiarán un total de 11.128
+                                                                                                                     viviendas nuevas.
+
+
+                                                                     C.   Productos
+
+                                                                             Valor                       Valor Fin
+                                                       Unidad de                        Año Línea
+   No.                        Indicador                                    Línea de                         del                    Observaciones
+                                                        medida                           de Base
+                                                                             Base                        Proyecto
+Componente Único
+                                                                                                                        Este indicador mide el valor de la
+                Valor de la garantía destinado a
+                                                                                                                        garantía destinado a respaldar
+   P1.1         respaldar instrumento de deuda        US$ millones            0              2025             250
+                                                                                                                        instrumento de deuda soberano de
+                soberano de Ecuador.
+                                                                                                                        Ecuador.
+                                                                                                                            Anexo II – EC-U0010
+                                                                                                                                   Página 6 de 6
+
+                                                    D. Otros indicadores de temas transversales
+
+                                                                  Línea de base      Escenario de evaluación
+                                                   Unidad de    (pre-intervención)     (Post-intervención)
+  No.                   Indicador                                                                              Componente     Observaciones
+                                                    medida
+                                                                 Valor       Año       Meta         Año
+
+Indicadores de Resultado
+          Porcentaje de mujeres beneficiadas
+                                                                                                               Componente        Indicador
+   T1     dentro de la cartera relevante apoyada      %            48        2025       49          2030
+                                                                                                                 único          pro-género.
+          por la operación.
+                                                                                Anexo III – EC-U0010
+                                                                                        Página 1 de 4
+
+
+
+ País: Ecuador        División: IFD/CMF       No. de Proyecto: EC-U0010               Año: 2025
+
+                            ACUERDOS Y REQUISITOS FIDUCIARIOS
+Organismo Ejecutor (OE): Ministerio de Economía y Finanzas (MEF)
+Nombre del Programa/Proyecto: Financiamiento de Vivienda Social en Ecuador II
+Aspectos relevantes de ejecución y equipo fiduciario requerido
+
+ ☐   Cofinanciamiento            N/A
+
+ ☐   Co-ejecutores/Sub-          N/A
+     ejecutores
+
+ ☐   Proyectos con               N/A
+     Intermediarios
+     Financieros
+
+ ☐   Conformación del Equipo N/A
+     Fiduciario
+
+ ☒   Ejecutor                    La República del Ecuador será el deudor garantizado y el MEF
+                                 será el organismo ejecutor de la operación. Esta Garantía de
+                                 Inversión (GI) cubrirá parcialmente las obligaciones de la
+                                 República del Ecuador frente a los acreedores del instrumento
+                                 garantizado (bono o préstamo).
+
+ ☒   Otros temas                 Los recursos provenientes del instrumento garantizado se
+                                 transferirán a un fideicomiso público de administración,
+                                 responsable de la gestión financiera y operativa. Este fideicomiso
+                                 canalizará los recursos a las IFI elegibles, encargadas de otorgar
+                                 los créditos hipotecarios a los beneficiarios finales. El MEF
+                                 mantendrá la relación institucional con el fideicomiso y
+                                 supervisará su desempeño, asegurando que la ejecución se
+                                 alinee con los objetivos del programa. Adicionalmente, se prevé
+                                 la implementación de mecanismos de titularización de cartera,
+                                 con el fin de generar liquidez adicional y potenciar el impacto de
+                                 la operación. Los recursos solicitados bajo la GI deben utilizarse
+                                 conforme a lo establecido en el contrato de préstamo y el ROP,
+                                 donde también se detallarán los arreglos fiduciarios
+                                 correspondientes.
+                                 El Banco será notificado por los acreedores garantizados en
+                                 caso de incumplimiento. En tal situación, el BID efectuará el pago
+                                 correspondiente de la garantía, ya sea directamente al acreedor
+                                 (si se trata de uno solo) o al agente fiduciario de los
+                                 representantes (en caso de que existan múltiples acreedores).
+                                                                                Anexo III – EC-U0010
+                                                                                        Página 2 de 4
+
+
+
+  I.      CONTEXTO FIDUCIARIO
+
+  1. Entorno país y sector
+Nivel de madurez de los sistemas fiduciarios
+Sistema fiduciario para la gestión financiera:
+- Presupuesto, tesorería y contabilidad e informes: Las entidades del gobierno central incluidas
+  en el Presupuesto General del Estado (PGE) utilizan el Sistema Integrado de Gestión Financiera
+  (e-SIGEF), que abarca tres subsistemas. Según la evaluación de 2024 realizada con la Guía para
+  Determinar el nivel de desarrollo de los Sistemas Nacionales de Gestión Financiera Pública (GUS),
+  se concluyó que estos sistemas son confiables, están alineados con estándares internacionales,
+  presentan un alto nivel de desarrollo y son adecuados para la gestión de proyectos financiados
+  por el BID. El subsistema de contabilidad e informes permite identificar y rastrear transacciones
+  financieras, asegura la trazabilidad de los recursos por fuente de financiamiento y está alineado
+  con las Normas Internacionales del Sector Público (NICSP). Se recomendó asignar un código para
+  clasificar los gastos por componente y separar las transacciones por ejecutor en proyectos con
+  múltiples ejecutores en el reporte de organismo y correlativo. Este reporte, generado desde los
+  módulos de presupuesto, tesorería y contabilidad, son base para la elaboración de los estados
+  financieros de los proyectos y facilita su conciliación con la información del e-SIGEF.
+
+- Control Interno: La Contraloría General del Estado (CGE), conforme a la Constitución
+  ecuatoriana, controla el uso de recursos públicos en el sector estatal y privado. Lidera el sistema
+  de control administrativo, que abarca auditorías internas, externas y control interno, y dicta la
+  normativa correspondiente. El programa contará con mecanismos establecidos en su Reglamento
+  Operativo del Programa (ROP), que definen la gobernanza, planificación, monitoreo, evaluación,
+  y los procesos fiduciarios (gestión financiera y adquisiciones) para su ejecución. En el 2025, se
+  aplicará la guía GUS para este subsistema con el fin apoyar en el fortalecimiento de la CGE.
+
+- Control externo: Las entidades gubernamentales están sujetas al control y fiscalización de la
+  CGE, que puede auditar proyectos financiados por la Banca Multilateral según su Plan Anual de
+  Auditorías. Sin embargo, actualmente no es elegible para auditar proyectos financiados por el
+  Banco, por lo que los ejecutores deben contratar firmas de auditoría independientes elegibles para
+  el Banco para presentar los informes requeridos. En el 2025, se aplicará la guía GUS para este
+  subsistema con el fin apoyar en el fortalecimiento de la CGE.
+Sistema fiduciario para la gestión de adquisiciones: Por la naturaleza de la operación no habrá
+gestión de adquisiciones a través de ningún sistema o regulación local ni aplicación de Políticas de
+Adquisiciones del Banco.
+- Entorno de la ejecución: Ecuador enfrenta un contexto de inseguridad ciudadana y alta
+  exposición a amenazas naturales (inundaciones, deslizamientos, sismos y actividad volcánica).
+  Estos factores impactan al sector vivienda por daños directos al stock habitacional y, de forma
+  indirecta, por demoras en construcción, avalúos y aseguramiento en zonas afectadas. Dado que
+  esta operación es de intermediación financiera, su exposición directa a estos riesgos es acotada;
+  además, la demanda estructural de vivienda sostiene la capacidad de canalizar los recursos hacia
+  los beneficiarios previstos.
+- Complejidad del mercado. La operación se desarrollará en un contexto de tensiones políticas y
+  presiones fiscales que pueden afectar la confianza de los inversionistas en la estabilidad
+  macroeconómica y en la capacidad institucional del Estado. A nivel sectorial, el sistema financiero
+  percibe fragilidad en el mercado inmobiliario por la limitada disponibilidad de financiamiento
+  hipotecario asequible para hogares de ingresos bajos pero sujetos de crédito, lo que restringe la
+  demanda solvente. No obstante, la operación mitiga estas percepciones mediante una garantía
+  soberana del BID —probada en el país— y al ofrecer a las IFI recursos en condiciones más
+                                                                                Anexo III – EC-U0010
+                                                                                        Página 3 de 4
+
+
+
+ favorables que las de mercado, incentivará la colocación de hipotecas asequibles y reforzará la
+ sostenibilidad del programa.
+
+
+  2. Uso de sistema de país en la operación
+
+
+   Presupuesto        Reportes               Sistema Informativo         Licitación Pública Nacional
+                                                                      (LPN)
+
+   Tesorería          Auditoría Interna      Comparación de               Otros (Se realizó una
+                                          Precios                     validación para uso de
+                                                                      sistema a nivel ejecutor)
+
+   Contabilidad       Control Externo        Consultores
+                                          Individuales
+
+
+
+  3. Capacidad y nivel de desempeño del ejecutor
+Durante la fase de diseño de la operación, se actualizó el análisis de capacidad institucional del MEF
+con el objetivo de validar la capacidad del ejecutor para garantizar tanto la calidad técnica de la
+operación como la calidad en la supervisión operativa del fideicomiso. Asimismo, se ratificó que el
+esquema de ejecución adoptado para el contrato de préstamo 4699/OC-EC es pertinente para esta
+operación y se mantendrá la gestión fiduciaria de los recursos a través del fideicomiso público de
+administración.
+Dado que la garantía consiste en un fondo contingente y no contempla la gestión de recursos ni
+adquisiciones con fondos del BID por parte del MEF, no se identificaron riesgos fiduciarios
+clasificados como medio-alto o alto.
+
+
+  4. Ciclo presupuestario y flujo del dinero
+
+Programación y         El Código Orgánico de Planificación y Finanzas Públicas (COPLAFIP)
+presupuesto            establece las normas que rigen la programación, formulación, aprobación,
+                       ejecución, control, evaluación y liquidación de los presupuestos. Estas
+                       normas son aplicables a la ejecución de los programas financiados por el
+                       Banco en el país y su aplicación en el sector público se encuentra
+                       estandarizada a través del sistema e-SIGEF.
+                       En caso de activarse la garantía, el acreedor garantizado podrá solicitar el
+                       desembolso correspondiente sin necesidad de contar con certificación
+                       presupuestaria ni con un proyecto de inversión vigente, dado que lo que se
+                       activa es exclusivamente el pasivo contingente.
+
+Flujo del dinero       En caso de que sea necesario activar la garantía del BID, el representante
+                       designado para los acreedores de los bonos, o el banco que otorgue el
+                       préstamo —según corresponda— deberá solicitar directamente al BID el
+                       desembolso de los recursos. El BID transferirá el monto solicitado de la
+                       siguiente manera: (i) si se trata de bonos, los recursos serán depositados en
+                       una cuenta bancaria exclusiva destinada al manejo de los fondos de la
+                       garantía, la cual deberá estar a nombre del representante de los acreedores;
+                       y (ii) si se trata de un préstamo, los recursos serán transferidos directamente
+                       al banco prestamista, a la cuenta que este defina para tal efecto.
+                                                                                  Anexo III – EC-U0010
+                                                                                          Página 4 de 4
+
+
+
+
+   5. Riesgos que impacten la función fiduciaria.
+
+No se identificaron riesgos fiduciarios.
+
+   II.     ASPECTOS PARA CONSIDERAR EN LAS ESTIPULACIONES ESPECIALES
+
+
+ Excepciones a las       No se prevé aplicar excepciones.
+ políticas fiduciarias
+
+ Condiciones             No se prevén condiciones especiales fiduciarias.
+ especiales previas
+ al primer
+ desembolso
+
+ Tasa de cambio          No aplica en el caso de Ecuador, dado que la moneda de curso legal es el
+                         dólar estadounidense.
+
+ Tipo de auditoría       Dada la naturaleza de la operación y considerando que el desembolso de
+ externa                 fondos por parte del BID es contingente, no se requieren Informes
+                         Financieros Auditados del Proyecto.
+
+ Otras condiciones       Durante el plazo de vigencia de la garantía, el Contra Garante deberá
+                         presentar al Banco una auditoría externa anual sobre el fideicomiso público
+                         de administración y el uso de los recursos del programa, dentro de los
+                         ciento veinte (120) días siguientes a la terminación del ejercicio económico.
+                         En el momento de la liquidación y finalización del fideicomiso, el informe de
+                         auditoría externa deberá presentarse dentro de los 120 días siguientes a la
+                         fecha de su terminación. La auditoría deberá ser realizada por una firma de
+                         auditoría externa independiente, aceptable para el Banco y con términos
+                         de referencia previamente acordados. El Fideicomiso financiará el costo de
+                         la auditoría.
+
+
+                            III.    ASPECTOS CLAVE DE ADQUISICIONES
+ La naturaleza de la operación omite adquisiciones y no hay ningún componente que tenga
+ financiamiento ni gastos diferentes de la garantía a bonos o créditos y por ello se concluye que no
+ hay ningún aspecto clave de adquisiciones por regular en este Anexo III.
+                  DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                             PROYECTO DE RESOLUCIÓN DE-__/25
+
+
+
+   Ecuador. ____/OC-EC. Garantía para el Financiamiento de Vivienda Social en Ecuador II
+
+
+
+        El Directorio Ejecutivo
+
+RESUELVE:
+
+       Autorizar al Presidente del Banco, o al representante que él designe, para que, en nombre
+y representación del Banco, proceda a formalizar los contratos que sean necesarios con el fin de
+otorgar una garantía para apoyar la financiación e implementación de la Garantía para el
+Financiamiento de Vivienda Social en Ecuador II, el cual tendrá como contragarante a la
+República del Ecuador. La garantía será hasta por la suma de US$250.000.000, con cargo a los
+recursos del Capital Ordinario del Banco, sustancialmente en los términos establecidos en el
+Resumen de Proyecto de la Propuesta de Garantía.
+
+
+
+                            (Aprobada el __ de ____________de 2025)
+
+
+
+LEG/SGO/CAN/EZIDB0000366-263631146-22528
+EC-U0010
+

@@ -1,0 +1,599 @@
+Public Disclosure Authorized
+                                   The World Bank
+                                   Promoting Sustainable Housing in Brazil(P512529)
+
+
+
+
+                               @#&OPS~Doctype~OPS^blank@pidconcoverpage#doctemplate
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+Public Disclosure Authorized
+                                                 Project Information Document (PID)
+
+                                                Concept Stage | Date Prepared/Updated: 18-Dec-2025 | Report No: PIDDC01421
+
+
+
+
+Public Disclosure Authorized
+
+
+
+
+                                                                                                                             Official Use Only
+         The World Bank
+         Promoting Sustainable Housing in Brazil(P512529)
+
+
+@#&OPS~Doctype~OPS^dynamics@pidbasicinformation#doctemplate
+BASIC INFORMATION
+
+
+A. Basic Project Data
+Project Beneficiary(ies)        Operation ID                Operation Name
+Brazil                          P512529                     Promoting Sustainable Housing in Brazil
+Region                          Estimated Appraisal Date    Estimated Approval Date      Practice Area (Lead)
+LATIN AMERICA AND               12-Feb-2026                 15-Jul-2026                  Urban, Resilience and Land
+CARIBBEAN
+Financing Instrument            Borrower(s)                 Implementing Agency
+Investment Project              Caixa Econômica Federal     Caixa Econômica Federal
+Financing (IPF)
+
+Proposed Development Objective(s)
+Promote efficient urban development by expanding finance for sustainable housing in the construction sector.
+
+
+@#&OPS~Doctype~OPS^dynamics@pidprojectfinancing#doctemplate
+PROJECT FINANCING DATA (US$, Millions)
+
+Maximizing Finance for Development
+
+Is this an MFD-Enabling Project (MFD-EP)?                   Yes
+Is this project Private Capital Enabling (PCE)?             Yes
+
+SUMMARY
+  Total Operation Cost                                                                                         810.00
+
+  Total Financing                                                                                              810.00
+                of which IBRD/IDA                                                                              200.00
+  Financing Gap                                                                                                  0.00
+
+DETAILS
+  World Bank Group Financing
+    International Bank for Reconstruction and Development (IBRD)                                               200.00
+    IFC Own Resources/Mobilization                                                                             200.00
+  Non-World Bank Group Financing
+
+
+                                                                                                                  Page 1
+
+
+
+                                                                                                         Official Use Only
+          The World Bank
+          Promoting Sustainable Housing in Brazil(P512529)
+
+
+        Commercial Financing                                                                                        330.00
+           Unguaranteed Commercial Financing                                                                        330.00
+        Counterpart Funding                                                                                           80.00
+           National Government                                                                                        80.00
+
+
+
+
+    @#&OPS~Doctype~OPS^dynamics@envsocriskclassification#doctemplate
+Environmental and Social Risk Classification                     Concept Review Decision
+Moderate                                                         The review did not authorize the preparation to continue
+
+
+
+
+    Other Decision (as needed)
+
+    B. Introduction and Context
+
+  Country Context
+1.        Brazil's real GDP grew by 3.4 percent in 2024, driven by robust private consumption, bolstered by a tight labor
+market and fiscal stimulus through expanded social transfers, and by recovering investment. The poverty rate declined
+from 23.4 to 20.6 percent (US$8.30 per day, 2021 PPP) in 2024, supported by a strong labor market. GDP growth is
+projected to moderate to 2.4 percent in 2025, as private consumption growth slows amid reduced government transfers,
+and rising household indebtedness. Elevated interest rates and global uncertainty are expected to weigh on investment
+and exports. Inflation is projected to gradually decline to 4.2 percent by 2027. Ensuring fiscal sustainability remains a
+critical challenge. Despite efforts to raise revenues and contain spending, additional measures are needed to reinforce
+fiscal credibility, while budget rigidity and the large share of indexed expenditures continue to limit policy flexibility.
+Limited fiscal space will also constrain poverty reduction efforts, with the poverty rate expected to reach 19.9 percent by
+2027. Brazil’s medium-term growth outlook is positive but constrained, with recent structural reforms improving the
+business environment, the financial sector, and indirect taxation, and expected to raise potential output to about 2.5
+percent. However, achieving faster, more inclusive, long-term growth will require further reforms to enhance
+competitiveness, reduce financial and market distortions, expand infrastructure investment, integrate into global value
+chains, and improve the quality of education. A more adverse external environment, prolonged monetary tightening, and
+a slower-than-expected fiscal consolidation could undermine growth prospects and exacerbate debt vulnerabilities.
+
+2.       Brazil’s growing job market is concentrated in urban areas and exhibits regional disparities in terms of job
+quality. Between August 2024 and June 2025, 1.5 million formal jobs were added to the economy, a 3.2 percent increase
+from the previous year. This represents a total of 64 million jobs with the informal economy contributing an additional 39
+million jobs1. Informal jobs account for 38 percent of the total, a 1.2 percent decrease from the previous year2. The service
+sector represented the largest formal employer and accounted for 53 percent of new formal jobs in the country over that
+
+1 Source IBGE, PNAD Continua, June 2025.
+2
+    Source IBGE, PNAD Continua, June 2025.
+
+                                                                                                                         Page 2
+
+
+
+                                                                                                                 Official Use Only
+          The World Bank
+          Promoting Sustainable Housing in Brazil(P512529)
+
+
+period, followed by vehicle repair and maintenance (22%) and general industry (17%). Ninety percent of all jobs are found
+in urban areas3 and are driving job growth. The largest cities account for 31 percent of all new formal jobs with Sao Paulo
+municipality accounting for 8 percent of these jobs4. All regions showed positive formal job growth over the period.
+Regional disparities, however, exist in the quality of jobs, with higher levels of informality in the North and Northeast (an
+average 52 percent of jobs are informal) compared to the other regions (33%). Similarly, the highest salaries are found in
+the Central-West Region and Southeast Region and the lowest in the North and Northeast5.
+
+    Sectoral and Institutional Context
+
+3.       Most of the population in Brazil are found in expanding urban areas. Cities in Brazil have created jobs, higher
+incomes and productivity due to their inherent benefits as urban agglomerations: the co-location of firms and consumers,
+shared infrastructure, large and diverse labor and services, and the scale of markets. As a result, 16.6 million people have
+been added to urban areas between 2010 and 2022, and they host 87 percent of the population and 90 percent of the
+jobs in the country6. Driven by this urban job growth, housing construction has increased 2.8 percent per year, adding 90.7
+million new units since 2010.7 The expansion of housing in cities is creating a virtuous cycle, responding to Brazil’s
+urbanization and need for adequate housing, while providing an estimated 1.15 million jobs8 accounting for 38 percent of
+employment in the construction sector.
+
+4.      Housing is important to the growth and productivity of Cities in Brazil. As Brazil’s Cities strive to reach their
+potential as centers for productivity and jobs, they are facing the challenges of accommodating urban growth and
+managing unplanned development.9 Cities increasingly need to manage growing climate risks and meet the increased
+resource demand and services associated with urbanization. Accounting for most of the urban area, and as the main driver
+for the expansion of urban areas, housing and settlements are central to this challenge. The urbanized area in Brazil has
+increased 5 percent per year in recent years10 and with this expansion of built-up area and urban sprawl, city services are
+being strained, congestion and commuting times are increasing, and floods and urban heat are more frequent and
+severe.11 Housing is also resource intensive. Households account for 21 percent of Brazil’s total electricity consumption
+and 68 percent of its water consumption, and the production of construction materials add significantly to this resource
+burden. Housing also accounts for most of the waste generated in the country12. and 9 percent of Brazil‘s greenhouse gas
+
+
+3
+    IBGE, 2022 Census
+4 The most jobs were added in the following municipalities (in order) from July 2024- June 2025: Sao Paulo, Rio de Janeiro, Brasilia, Salvador,
+
+Manaus, Fortaleza, Recife, Curitiba, Osasco, Porto Alegre, Belo Horizonte, Guarulhos, Goiania, Joao Pessoa, Belem. These combined contributed 31
+percent of new Jobs. Source IBGE CAGED, June 2025.
+5
+  The latest data (from 2022, IBGE Central Registry of Enterprises) show average salaries to be: Central-West Region, 3.3 times the minimum wage,
+followed by the Southeast Region (3.2), South (2.8), North (2.7) and Northeast (2.3).
+6
+  IBGE, 2022 Census.
+7
+  IBGE, 2022 Census
+8 Pesquisa Anual da Industria da Construção, 2023
+9
+  Ianchovichina, Elena. 2024. The Evolving Geography of Productivity and Employment: Ideas for Inclusive Growth through a Territorial Lens in Latin
+America and the Caribbean. World Bank Latin American and Caribbean Studies. Washington, DC.
+10
+   The absolute housing deficit was estimated to be 6 million units as of 202210, equivalent to 8 percent of occupied households in the country,
+Fundação João Pinheiro
+11 It is estimated that 11.5 percent of new development in Brazil’s cities are found in flood-prone areas. [citation] In Rio De Janeiro nighttime
+
+temperature differences between urban and rural areas were 7–8°C and cities in the Amazon (Belem and Sao Luis) are anticipated to experience
+over 300 days of extreme heat by 2050 which is among the highest in Latin America. World Bank. 2025. Unlivable: Confronting Extreme Urban Heat
+in Latin America and the Caribbean. Washington, DC: World Bank.
+12 In 2023 it was estimated 80 million tons of municipal waste was produced in urban areas, the majority from households while construction and
+
+demolition waste amounted to 44 million tons. Abrema (2024), “Panorama dos Residuos Solidos no Brasil, 2024.
+
+                                                                                                                                                  Page 3
+
+
+
+                                                                                                                                        Official Use Only
+        The World Bank
+        Promoting Sustainable Housing in Brazil(P512529)
+
+
+emissions13. Adding to this, is the inefficiency of the deteriorated stock of housing in Brazil, as fifty percent of residential
+buildings were constructed before 1990.
+
+5.      Sustainable certification programs reduce the burden of housing construction on cities. Certification programs,
+such as LEED, EDGE, AQUA-HQE, BREEM and CAIXAs Selo Casa Azul are active in Brazil. These certifications promote
+sustainable urban growth through by incentivizing the construction of housing that, among other things, is more water
+and energy efficient, provides flood protection and drainage, encourages reduction and recycling of waste, uses
+sustainable construction materials and improves urban spaces and access to public transport. They also promote inclusive
+labor practices, and social elements including community engagement and education. These resulting housing
+developments not only help address the challenges of urbanization but provide additional and higher paying employment
+than traditional housing.
+
+6.       Sustainable Certified Housing, however, represent less than 2 percent of housing units constructed in the
+country.14 The largest quantity of certified housing developments is found in large metropolitan regions, consistent with
+construction trends. Regionally, the Southeast has the most certified sustainable housing, while other regions including
+the North and Northeast—have a lower overall number and share of housing developments with certifications15. While
+Brazil’s certification ecosystem is nascent, recent years have seen a relative growth in certifications, highlighting its
+potential16. Other countries in the region have been able to achieve larger housing market penetration (Colombia, Chile
+for example are estimated to have 6 percent to 8 percent housing units as certified) and are growing while countries with
+long established financial and regulatory incentives and greater awareness and capacity for sustainable construction and
+materials supply are able to reach much higher adoption rates. In Brazil the adoption rate is constrained by limited
+financing targeted to this segment, a lack of awareness and absence of a mature ecosystem that can readily provide at
+reasonable cost, the skills, materials and construction techniques needed for more widespread adoption of sustainable
+housing.
+
+7.      Government Programs have successfully reached lower income segments and expanded the stock of low-
+income housing, but financing mechanism for broad market adoption of sustainable design has been limited. Housing
+finance in Brazil combines a large, earmarked segment, including a subsidized housing program designed to respond to
+the housing deficit in the country and a free-market component. On the earmarked side, the Sistema Financiero da
+Habitação (SFH) channels a regulated share of savings deposits (“SBPE”) into mortgages with caps on loan size, property
+value, and interest rates; while the Fundo de Garantia por Tempo de Serviço (FGTS, a mandatory employee indemnity
+fund) is deployed through CAIXA to fund subsidized low income housing programs such as Minha Casa Minha Vida
+(MCMV). Together, SFH and FGTS represented 85.8 percent of newly originated loans as of 2023. By contrast, the free-
+
+
+
+13 Lassio et al./Environmental Engineering and Management Journal 20 (2021), 8, 1225-1236; Lauriano L., (2013), How is the sustainability
+
+management in the construction sector? (in Portuguese), Technical report, RP1 301, Nova Lima,
+14 Based on publicly available data from the major certifications. The total certified housing units from the major certifications are estimated to be
+
+just under 2 percent. 86,200 certified units were identified out of the 5.5 million new housing units produced between 2020 and 2025. Selo Casa Azul
+certified 552 housing developments with 43,337 units during this time while; EDGE has certified 80 developments with an average size of 228 units,
+amounting to an estimated 18,000 units; Based reported data for AQUA HQE approximately 25,000 units were certified over this time period. LEED
+has reported very few residential developments as their focus in more commercial and industrial, amounting to less than 200 housing units.
+15
+   Based on data on the Selo Casa Azul program, 42 percent of certified housing developments are found in the Southeast, 5 percwent in the North
+and 23 percent in the Northeast.
+16
+   While overall small, the potential is highlighted by recent growth. For example, 620 residential developments certified since the introduction of
+Selo Casa Azul, 553 were realized in the last 5 years, and reported EDGE certifications of residential developments increased from 7 in 2023 to 41 in
+2025. n of Selo Casa Azul, 553 were realized in the last 5 years, and reported EDGE certifications of residential developments increased from 7 in
+2023 to 41 in 2025.
+
+                                                                                                                                                 Page 4
+
+
+
+                                                                                                                                       Official Use Only
+         The World Bank
+         Promoting Sustainable Housing in Brazil(P512529)
+
+
+market segment (crédito livre) operates outside regulatory caps and relies on more diversified funding sources, including
+savings deposits, bank liabilities, and capital market instruments.
+
+8.       Sustainably certified housing has been commonly financed through SFH which is becoming constrained. All
+segments and especially SFH, are affected by the declining relative weight of savings deposits as households migrate to
+higher-yielding investments17, and by the maturity mismatch between short-term funding instruments and long-term
+mortgage contracts. This is already constraining private mortgage lending, including most real estate projects with
+sustainable certification. Furthermore, recently passed reform has dictated that by 2027, banks will no longer be required
+to allocate 65 percent of savings deposits to housing loans, affecting this traditional funding base.
+
+9.       The shrinking savings deposit funding is also affecting developer financing. Developer Finance for housing in
+Brazil remains bank-centric and short-tenor. This finance is anchored o SFH/FGTS construction loans and pre-sales
+escrows. The shrinking funding is affecting liquidity, especially for certified sustainable projects. Capital Market options
+(CRI/FIDC) are expanding but remain shallow for smaller developers and sustainable builds.
+
+10.      The project will support diversifying funding sources to mobilize private capital for sustainable housing
+construction. Since October 2024, CAIXA has mobilized external credit lines to reduce reliance on savings deposits and
+sustain origination volumes. The project supports this transition by proving a new credit line, separate from the other
+programs, that provides blended-finance credit that combines Government of Brazil concessional financing intended to
+assist in the country’s transition to greener economy (“Eco Invest” program), IBRD, and IFC loans to develop market-based
+instruments for sustainable housing. This strategy sustains origination despite the erosion of savings deposits and expands
+developer financing for sustainable housing, where private lenders remain hesitant. It also increases the supply of
+sustainable/green mortgage assets, for which private banks have already developed products and creates a potential
+downstream market for green bond issuance or refinancing to allow it to be bundled with broader distribution to the
+market.
+
+11.      The project will also help address non-financing barriers to the sustainable housing market. In addition, to
+helping unlock this financing barrier, the project will support the enabling environment for sustainable housing
+investments. In particular, the project will encourage construction of certified sustainable housing as a more common
+practice for developers by introducing an attractive credit line; building awareness among and promotion to developers;
+adapting to lower income segments and other sources of financing; and providing advice to municipalities and states on
+regulatory and other incentives for adoption of sustainable housing. It will also work with CAIXA on their Selo Casa Azul
+certification to have it recognized internationally and to a wider range of financial institutions with the intention of
+enhancing downstream asset value and potential for private capital mobilization.
+
+ Relationship to CPF
+
+12.      The proposed Project is consistent with the World Bank Group’s Country Partnership Framework (CPF) for Brazil
+(FY24-FY28),18 contributing directly and indirectly to all three High Level Outcomes (HLO). The project’s focus on
+promoting sustainable practices in the Brazilian Housing sector directly supports: (i) HLO1: Providing greater productivity
+and employment through promotion of greater and greener competitiveness among housing developers in a sector that
+will in turn provide green investments that provide additional employment and higher salaries relative to traditional
+investments. Green Building certification is specifically included as a core element of this High Level Outcome; (ii) HL03:
+
+17 In 2024, for example, the net balance of savings deposits contracted by R$15.4 billion as households shifted to higher-yielding investments
+18 WBG CPF for Brazil (FY24-28) was approved by the WB Board of Directors on April 9th, 2024.
+
+
+
+
+                                                                                                                                                 Page 5
+
+
+
+                                                                                                                                      Official Use Only
+         The World Bank
+         Promoting Sustainable Housing in Brazil(P512529)
+
+
+Providing a greener economy and with reduced vulnerability to climate shocks through increasing the stock of housing
+with greater resilience to energy and water availability shocks, lower greenhouse gas emissions and that reduces urban
+heat and flood risk. Technical assistance under component 2 will indirectly contribute to HLO2: Greater Inclusion of the
+Poor and Underserved Populations by promoting adaptation of certified housing to lower income segments under
+component 2. The project will also support climate change adaptation and mitigation in line with the goals outlined in the
+Brazil Country Climate and Development Report (CCDR) and its Climate Change Action Plan.19 The project also consistent
+with the CPF regional priorities, specifically, the credit line will target the North and Northeast with the goal of having 50
+percent of the investment reaching these areas, responding to the relatively lower investment higher level of informal
+jobs and lower salaries in found for these regions.20
+
+13.      The Project Supports the September 2025 “Foundations for Growth and Jobs” Report to the Development
+Committee Meeting. Under Pillar 1, Investment in the foundational infrastructure critical to private-sector job creation,
+the project work with government and the private sector to invest in housing that: provides easier access to urban jobs,
+makes efficient use of natural resources and is constructed to better enable cities to be managed to enhance productivity
+and jobs. It does this by channeling private investment and deploying a blended finance solution that supports more
+common practice of sustainable housing, increasing awareness and reducing barriers to its adoption. Consistent with the
+goals of the Eco-invest program it is intended to hasten the ecological transition in the country through the private sector,
+lower the risks of adoption and making the market more attractive. It also provides jobs in the infrastructure sector,
+focusing on expanding green jobs for an infrastructure sub-sector (housing) that already provides among the highest levels
+of employment per unit of investment.21
+
+14.     Under Pillar 3: Mobilize private investment at scale, the creation of a new credit line that increases access to
+financing for sustainable housing will directly mobilize equity from private developers and help attract commercial
+financing. Additionally, assets created under the credit line could also be used to mobilize private capital through, for
+example, the World Bank group initiative to “Originate to Distribute” or as part of green bonds issuance. Originate to
+Distribute is designed to enable the creation of an emerging market infrastructure asset class to attract global and
+domestic institutional investors. The ambition is to have the World Bank create a supply of USD15-20 billion per year of
+assets by 2030 by originating infrastructure assets, bundling them, enhancing their credit to achieve the required ratings
+and distributing to institutional investors. Green bonds are common among the major banks in Brazil22. Caixa, for example,
+provides labeled issuances under its Sustainable Bond Framework, which received a “Very good” Second-Party Opinion
+grade23. Through this framework, CAIXA has already issued sustainable bonds to mobilize private capital, with certified
+sustainable buildings identified as a key eligible asset class. A step-up loan will be discussed with the client to enhance
+these options. This loan was designed to allow quick capital recycling through a price incentive given to clients who choose
+to accelerate repayment of their loan, thereby freeing up World Bank resources that can be reinvested in other projects.
+The technical assistance under component 2 will support broader development of the market to further encourage this
+private capital mobilization beyond that provided under the credit line through promotion and awareness of sustainable
+
+19 World Bank Group. 2023. Brazil Country Climate and Development Report. CCDR Series.
+20
+  In the North and Northeast, an average 52 percent of jobs are informal vs. 38 percent nationally (IBGE, PNAD Continua, June 2025); 70 percent of the infrastructure
+investment (based on value of construction) is in the South and Southeast, while only 21 percent is in the North and Northeast; and construction salaries are on
+average 15 percent lower than the national average (Pesquisa Annual de Industria de Construcao, 2023).
+21Based on data from construction related employment in Brazil (Pesquisa Annual de Industria de Construcao, 2023) and typical costs of
+investments in a housing complex, 50 direct jobs are created per USD 1 million in investment while other types of construction are lower.
+Sustainable construction has been shown globally to create additional specialized construction and design-architecture jobs related to the
+specialized materials and equipment that add 10 to 30 percent to this number. Additionally, it spurs specialized manufacturing for materials for
+sustainable construction.
+22 Banco BV, Itaú Unibanco, and BTG Pactual as well as CAIXA and BNDES are examples of Bank that are active in issuing Green Bonds and could
+
+take advantage of the created assets.
+23 Moodys Investor Service, Caixa Economica Federal Second Party Opinion – Sustainable Finance Framework, May 2024.
+
+
+
+                                                                                                                                                                Page 6
+
+
+
+                                                                                                                                                     Official Use Only
+            The World Bank
+            Promoting Sustainable Housing in Brazil(P512529)
+
+
+housing to the market; and enhancing acceptance of CAIXAs certification to local and international financial and private
+sector developer markets.
+
+ C. Proposed Development Objective(s)
+ Promote resource efficiency and livability in urban settlements by improving access to finance and reducing barriers
+ to construction of sustainable housing.
+
+
+     Key Results (From PCN)
+
+        •    Increase in the share of housing financed that is certified sustainable.
+        •    Reduction in energy used due to project related sustainable certified housing.
+        •    Reduction in water used due to project-related sustainable certified housing.
+        •    Jobs created due to project-related sustainable certified housing.
+        •    Private capital mobilization due to project-related sustainable certified housing.
+ D. Concept Description
+
+15.      The Project is designed to support the goals of “Eco-Invest” program which is a Brazilian Government initiative
+supported by the World Bank24 designed to reduce financial and other barriers for adoption by the private sector of
+practices and technologies essential for the country's ecological transformation. The program aims to strengthen climate
+finance and create a favorable market environment for transitioning to sustainable investments using blended finance
+through government resources leveraged by international financing, which in this case is being provided by IBRD (USD200
+million) and IFC (USD200 million).25
+
+16.     In particular, the project will help improve the market for sustainable housing by providing targeted financing to
+sustainably certified housing and addressing non-financial barriers by improving awareness, capacity and certification
+processes and reporting. This will be done by providing a new credit line combined with technical assistance.
+
+17.      Component 1: Financing for Certified Sustainable Housing Projects (IBRD USD198,000,000.00 with IFC
+USD200,000,000 and Government of Brazil USD80,000,000 plus private investor capital). This component will finance the
+construction of housing that is certified as sustainable and would mitigate the impact of growing resource use and
+greenhouse gas emissions associated with urbanization, while helping cities better accommodate the increasing service
+challenges, improve livability and access to jobs. This would be done by providing financing that would reduce barriers
+and costs to adoption. This would be done through the creation of a new credit line that blends IFC, IBRD and Government
+resources through Eco-Invest. The blending will include five parts IBRD and IFC (USD398 million combined) and one part
+Eco-Invest concessional financing. The pricing of the blended financing will depend on the financial product from the
+World Bank and IFC that is agreed with CAIXA, which will be confirmed at appraisal. It will be designed on a cost-recovery
+basis, ensuring that CAIXA covers its funding, operational, and risk-management cost. As Eco-invest is designed as a
+transitional program, the Project would allow evaluation of the implementation of the Eco-invest program for this
+subsector to understand costs, benefits, and fiscal impact, and performance as transitional support in building the market.
+This would provide the Government an understanding the need for its continuation or for adjustment of the program.
+
+24
+     The Eco Invest program is supported by the Brazil Increasing Productivity, Sustainability and Inclusion DPF (P507322)
+25 CAIXA’s Eco Invest portfolio totals USD170 million and includes financing for municipal electromobility projects, construction of sustainable
+
+buildings, and urban infrastructure (CAIXA Notícias, November 29 2024).
+
+                                                                                                                                                   Page 7
+
+
+
+                                                                                                                                        Official Use Only
+       The World Bank
+       Promoting Sustainable Housing in Brazil(P512529)
+
+
+
+
+18.    Subcomponent 1.1: Sustainable Housing Production. This subcomponent will finance sub-loans to developers for
+new housing projects that have sustainability certifications. This would include new housing developments in expanding
+and densifying urban areas, in which sustainable housing construction is underrepresented. While the size of each
+investment is flexible and will be affected by the financing package provided by the new credit line and the increased
+awareness provided by the program, based on recent investments in sustainable housing in CAIXA, the average units of
+each development was 157 units with an average price of USD675,000,000 of which the average loan accounts for 72
+percent ($490,000,000) of this amount. The average developer financing tenor is expected to be 4 years.
+
+19.     Subcomponent 1.2: Sustainable Retrofit of Housing. This subcomponent will finance sub-loans to developers for
+housing retrofit projects that have sustainability certifications. This credit line targets the retrofitting of the existing
+building stock, an underrepresented sustainable housing market which has a large potential for sustainability benefits due
+to the inefficiency of energy and water use in this old housing stock, and the potential benefits for urban mobility and
+urban amenities. The size of these retrofits is flexible and will depend on market demand.
+
+20.      Component 2: Technical Assistance (USD2,000,000). This component is designed to address non-financing
+barriers to adoption of sustainable construction including improving awareness of sustainable construction and
+certification programs, capacity within CAIXA, development of new sustainable construction financing products tailored
+to other segments, and improving the methodology and reporting of CAIXAs Selo Casa Azul certification to enable broader
+acceptance globally and within the financial sector in Brazil. Elements of the component activities will also be supported
+through separate financing through IFC advisory services.
+
+21.     Subcomponent 2.1: Institutional Strengthening for Sustainable Housing Certification in CAIXA. This subcomponent
+will support training of CAIXA's technical staff on certification and other innovations in the housing sector including: (i)
+improving CAIXAs ability to quantify and report on Selo Casa Azul certification consistent with accepted standards; (ii)
+technical support the Caixa team in improving Selo Casa Azul methodologies and processes to expand acceptance and use
+to other markets; and (iii) Support to innovative housing portfolio products that can expand the market for sustainable
+housing (e.g., green bonds and mortgages, modular construction; expansion of to lower income markets and housing
+products).
+
+22.      Subcomponent 2.2: Awareness and Promotion for Sustainable Housing. The resources allocated under this
+subcomponent will support promotion of the program and awareness of sustainably certified housing including: (i) the
+development of practical guides and training for the quantification and reporting and methodology to obtain certification.
+(ii) development of advocacy materials and their dissemination; (iii) advice on incentives and regulations to local
+governments; and (iii) dissemination and outreach activities to improve awareness of sustainable housing construction
+and certification.
+
+
+
+
+ @#&OPS~Doctype~OPS^dynamics@legalpolicyandscreeningrisk#doctemplate
+Legal Operational Policies
+                      Policies                                                     Triggered?
+ Projects on International Waterways OP 7.50                                           No
+
+
+                                                                                                                        Page 8
+
+
+
+                                                                                                                Official Use Only
+       The World Bank
+       Promoting Sustainable Housing in Brazil(P512529)
+
+
+
+ Projects in Disputed Area OP 7.60                                                     No
+
+
+
+ Summary of Screening of Environmental and Social Risks and Impacts
+
+
+
+
+23.     The environmental and social risk Moderate, mainly due to civil works. These activities are situated in urbanized,
+modified environments and are not expected to cause habitat loss or significant impacts on natural habitats. Typical civil
+work impacts include waste generation, machinery emissions, dust, and hydrocarbon leaks. Occupational health and
+safety risks involve construction hazards such as working at heights, electrical shocks, noise exposure, ergonomic risks,
+stress, and fatigue. These risks and impacts are expected to be site-specific, temporary, reversible, and manageable
+through standard GIIP practices as outlined in the WBG's EHSGs and the Environmental and Social Management Policy
+and ESMS of Caixa. The Project is not expected to cause significant permanent impacts; on the contrary, the adoption of
+sustainable practices—such as energy efficiency and the use of low-carbon materials—reduces emissions throughout the
+lifecycle of the buildings. Certified projects prioritize the use of devices and technologies that reduce energy consumption,
+such as natural lighting, cross ventilation, solar heating, and renewable energy generation. The implementation of systems
+for water savings, individual metering, greywater reuse, rainwater harvesting, and permeable areas for infiltration is also
+promoted. The subprojects are expected to be implemented in consolidated urban areas, which reduces the likelihood of
+significant adverse impacts on vulnerable groups or communities. However, risks remain related to occupational health
+and safety (OHS) for workers involved in construction and retrofitting activities, as well as potential temporary
+disturbances to neighboring communities during civil works. There is also a risk of insufficient inclusion of disadvantaged
+groups, such as women, persons with disabilities, and low-income households, particularly in regions where access to
+certified sustainable housing has historically been limited. To mitigate these risks, the project will require developers to
+comply with robust social and environmental standards, including the implementation of community engagement plans
+and the incorporation of feedback from stakeholders. The Selo Casa Azul certification process includes criteria for social
+well-being, community integration, and support for residents, which will be strengthened to mainstream gender and
+inclusion aspects.
+
+
+ @#&OPS~Doctype~OPS^dynamics@contactpoint#doctemplate
+ CONTACT POINT
+
+ World Bank
+
+
+
+
+                                                                                                                         Page 9
+
+
+
+                                                                                                                 Official Use Only
+     The World Bank
+     Promoting Sustainable Housing in Brazil(P512529)
+
+
+ John Morton
+ Senior Infrastructure Specialist
+
+ Faruk Miguel Liriano
+ Senior Financial Sector Specialist
+
+ Emanuela Monteiro
+ Senior Urban Development Specialist
+
+Borrower/Client/Recipient
+ Caixa Econômica Federal
+
+Implementing Agencies
+ Caixa Econômica Federal
+
+FOR MORE INFORMATION CONTACT
+
+The World Bank
+1818 H Street, NW
+Washington, D.C. 20433
+Telephone: (202) 473-1000
+Web: http://www.worldbank.org/projects
+
+@#&OPS~Doctype~OPS^dynamics@approval#doctemplate
+APPROVAL
+
+
+Task Team Leader(s):                    John Morton, Faruk Miguel Liriano, Emanuela Monteiro
+
+Approved By
+
+Practice Manager/Manager:               Federica Ranghieri                   06-Nov-2025
+
+Country Director:                       Cecile Fruman                        18-Dec-2025
+
+
+
+
+                                                                                                      Page 10
+
+
+
+                                                                                               Official Use Only
+

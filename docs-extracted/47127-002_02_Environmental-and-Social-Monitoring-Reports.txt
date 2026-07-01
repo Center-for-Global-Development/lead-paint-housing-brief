@@ -1,0 +1,956 @@
+Report and Recommendation of the President
+to the Board of Directors
+
+
+
+
+Project Number: 47127-002
+October 2015
+
+
+
+
+Proposed Loan and Administration of Grant
+Republic of the Union of Myanmar: Mandalay Urban
+Services Improvement Project
+
+
+
+
+Distribution of this document is restricted until it has been approved by the Board of Directors.
+Following such approval, ADB will disclose the document to the public in accordance with ADB’s
+Public Communications Policy 2011.
+                                  CURRENCY EQUIVALENTS
+                                    (as of 8 October 2015)
+
+                          Currency unit      –     kyat/s (MK)
+                               MK1.00        =     $0.000775
+                                 $1.00       =     MK1,289
+
+
+                                        ABBREVIATIONS
+
+              ADB           –      Asian Development Bank
+              AFD           –      Agence Française de Développement
+                                   (French Development Agency)
+              EMP           –      environmental management plan
+              GDP           –      gross domestic product
+              km            –      kilometer
+              m3            –      cubic meter
+              MCDC          –      Mandalay City Development Committee
+              MRG           –      Mandalay Regional Government
+              PAM           –      project administration manual
+              PMO           –      project management office
+              SDR           –      special drawing right
+              TA            –      technical assistance
+              UCCRTF        –      Urban Climate Change Resilience Trust Fund
+              UFPF          –      Urban Financing Partnership Facility
+
+
+                                                 NOTE
+
+                              In this report, “$” refers to US dollars.
+
+Vice-President            S. Groff, Operations 2
+Director General          J. Nugent, Southeast Asia Department (SERD)
+Directors                 T. Gallego-Lizon, Urban Development and Water Division, SERD
+                          W. Wicklein, Myanmar Resident Mission, SERD
+
+Team leader               E. Honda, Principal Portfolio Management Specialist, SERD
+Team members              D. Cruz, Project Analyst, SERD
+                          S. Handayani, Principal Social Development Specialist, Sustainable
+                          Development and Climate Change Department
+                          S. Kotagiri, Social Development Specialist, (Safeguards), East Asia
+                          Department
+                          P. Rhee, Counsel, Office of the General Counsel
+                          S. Sandhu, Senior Advisor to the Vice President, Knowledge
+                          Management and Sustainable Development Group
+                          S. T. Schapero, Senior Finance Specialist, SERD
+                          A. Senador, Operations Assistant, SERD
+Peer reviewer             N. Pokhrel, Senior Urban Development Specialist, South Asia
+                          Department
+
+
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                      CONTENTS
+
+                                                 Page
+PROJECT AT A GLANCE
+I.     THE PROPOSAL                                 1
+II.    THE PROJECT                                  1
+       A.   Rationale                               1
+       B.   Impact and Outcome                      3
+       C.   Outputs                                 3
+       D.   Investment and Financing Plans          4
+       E.   Implementation Arrangements             5
+III.   DUE DILIGENCE                                6
+       A.    Technical                              6
+       B.    Economic and Financial                 7
+       C.    Governance                             7
+       D.    Poverty and Social                     8
+       E.    Safeguards                             8
+       F.    Risks and Mitigating Measures          9
+IV.    ASSURANCES AND CONDITIONS                   10
+V.     RECOMMENDATION                              10
+
+
+APPENDIXES
+1.     Design and Monitoring Framework             11
+2.     List of Linked Documents                    14
+                                                                                       Project Classification Information Status: Complete
+
+
+                                                     PROJECT AT A GLANCE
+
+    1. Basic Data                                                                                        Project Number: 47127-002
+       Project Name                   Mandalay Urban Services Improvement      Department               SERD/SEUW
+                                      Project                                  /Division
+       Country                        Republic of the Union of Myanmar         Executing Agency         Mandalay Regional
+       Borrower                       Republic of the Union of Myanmar                                  Government
+    2. Sector                         Subsector(s)                                                      ADB Financing ($ million)
+       Water and other urban          Other urban services                                                                  15.00
+       infrastructure and services    Urban sanitation                                                                      15.00
+                                      Urban slum development                                                                15.00
+                                      Urban water supply                                                                    15.00
+                                                                                              Total                         60.00
+
+    3. Strategic Agenda              Subcomponents                             Climate Change Information
+       Inclusive economic       Pillar 2: Access to economic opportunities,    Climate Change impact on the                  Medium
+       growth (IEG)             including jobs, made more inclusive            Project
+       Environmentally          Urban environmental improvement
+       sustainable growth (ESG)
+
+    4. Drivers of Change             Components                               Gender Equity and Mainstreaming
+       Governance and capacity Institutional development                      Effective gender mainstreaming
+       development (GCD)                                                      (EGM)
+       Knowledge solutions     Knowledge sharing activities
+       (KNS)
+       Partnerships (PAR)      Bilateral institutions (not client government)
+                               Implementation
+       Private sector          Conducive policy and institutional environment
+       development (PSD)
+    5. Poverty Targeting                                                       Location Impact
+       Project directly targets       No                                       Urban                                             High
+       poverty
+
+    6. Risk Categorization:           Low
+.
+
+
+    7. Safeguard Categorization             Environment: B Involuntary Resettlement: B Indigenous Peoples: C
+.
+
+
+    8. Financing
+         Modality and Sources                                                 Amount ($ million)
+         ADB                                                                                               60.00
+            Sovereign Project loan: Asian Development Fund                                                 60.00
+         Cofinancing                                                                                       56.80
+            Asian Investment Facility                                                                       6.80
+            Urban Climate Change Resilience Trust Fund under the Urban                                      4.00
+         Financing Partnership Facility
+            Agence Francaise de Developpement                                                              46.00
+         Counterpart                                                                                       13.10
+            Government                                                                                     13.10
+
+         Total                                                                                            129.90
+    9. Effective Development Cooperation
+       Use of country procurement systems                          No
+       Use of country public financial management systems          No
+
+
+
+
+Source: Asian Development Bank
+This document must only be generated in eOps.     06072015174013267070                          Generated Date: 19-Oct-2015 11:14:02 AM
+                                         I.       THE PROPOSAL
+
+1.      I submit for your approval the following report and recommendation on (i) a proposed
+loan and (ii) the proposed administration of a grant to be provided by the Urban Climate Change
+Resilience Trust Fund (UCCRTF)1 under the Urban Financing Partnership Facility (UFPF), both
+to the Republic of the Union of Myanmar for the Mandalay Urban Services Improvement
+Project.2
+
+2.       The project will help Mandalay further grow as the cultural, educational, and economic
+hub of Upper Myanmar and act as a national economic center. This approach will foster
+balanced national development by reducing the concentration of population and economic
+activities in Yangon and promoting economic growth in Mandalay Region and its surroundings.3
+
+                                          II.      THE PROJECT
+
+A.      Rationale
+
+3.     Urban sector context. Although 70% of Myanmar’s population resides in rural areas,
+the urban population has grown 2.3% per year, faster than the country’s total population (1.8%
+per year). The urban population in Myanmar increased from 14.6 million or 29% of the total
+population in 2000 to 18.4 million or 31% of the total population in 2010. Currently, 10% of
+Myanmar’s population lives in two major cities, Yangon and Mandalay, contributing to 30% of
+gross domestic product (GDP), and this share is expected to rise rapidly. It is estimated that by
+2030, 25% of Myanmar’s population will live in urban areas, accounting for roughly 50% of
+Myanmar’s GDP.4 Once ongoing and planned tax reform in Myanmar result in a functioning tax
+regime, the majority of tax revenue will also likely come from cities. However, to ensure that
+urbanization will be a driving force for economic growth and social development, urban planning
+and management need to be modernized and investments in urban infrastructure need to be
+increased.
+
+4.      Climate change impacts. Myanmar was considered to be the second-hardest hit
+country (after Honduras) by climate-change-related extreme weather events during 1991–2010;
+its overall climate change vulnerability factor up to 2030 is classified as “acute.” 5 The
+government’s records confirm this trend in Mandalay Region, reflected in shorter monsoon
+periods, longer premonsoon droughts, and higher daily rainfall depths: the four highest peak
+annual daily rainfall depths during 1949–2013 were recorded after 2003. These changing
+climatic conditions, in tandem with the expanding urban area, are increasing the demand for
+reliable water resources, wastewater collection and treatment, and urban drainage
+improvements.
+
+5.     Mandalay city profile and issues in urban services delivery.6 Mandalay city, with a
+population of about 1.25 million, is the country’s second-largest city and the capital of Mandalay
+1
+  Financing partners: the Rockefeller Foundation and the governments of the United Kingdom and the United States.
+  For the purpose of the Mandalay Urban Services Improvement Project, only financing from the Government of the
+  United Kingdom will be utilized.
+2
+  The design and monitoring framework is in Appendix 1.
+3
+  The Asian Development Bank (ADB) provided project preparatory technical assistance for Preparing the Mandalay
+  Urban Services Improvement Project (TA 8472-MYA).
+4
+  H. Chhor et al. 2013. Myanmar's moment: Unique opportunities, major challenges. McKinsey Global Institute.
+5
+  Germanwatch. 2014. Global Climate Risk Index 2015. Bonn.
+6
+  Sector Assessment (Summary): Water and Other Urban Infrastructure and Services (accessible from the list of
+  linked documents in Appendix 2).
+2
+
+
+Region. The city’s population is about 2% of the national population and its contribution to GDP
+is approximately 8%. It is located in the Greater Mekong Subregion Northern Economic Corridor
+linking the People’s Republic of China and India. The Mandalay Regional Government (MRG)
+does not directly intervene in urban management matters in Mandalay City, but it has a
+significant role in approving infrastructure projects and urban service tariffs. The Mandalay City
+Development Committee (MCDC) is tasked with urban service delivery and infrastructure
+development. However, it does not effectively carry out its responsibilities because it lacks staff,
+skills, funds, and data. The piped-water supply system serves only 55% of the city population
+and only for 10 hours per day on average. The remaining residents use mainly private shallow
+wells. Nonrevenue water is estimated at 52%. Neither a piped sewerage system nor a
+centralized wastewater treatment plant exists. Sanitation provision consists of septic tanks
+draining largely into the roadside drains and of latrines of varying designs. Although Mandalay is
+located in the heart of the Central Dry Zone, rainstorms can be very intense during the wet
+season. Seasonal floods are caused mainly by a lack of maintenance of canals and storage
+ponds, and insufficient capacities of the existing pumping stations. Although MCDC collects
+about 780 tons of domestic solid waste per day, large amounts are disposed in the drains and
+canals. Primary collection uses the bell system and the waste is transported to the final disposal
+sites via transit stations.7
+
+6.      Strategic alignment. The project is in line with the government’s proposed National
+Comprehensive Development Plan, 2016–2021, which designates Mandalay as a bipolar
+development center to act as a national economic center that would counterbalance the
+attraction of Yangon and distribute economic growth to Mandalay Region and its surroundings. 8
+The project is also in line with the interim country partnership strategy, 2012–2014 of the Asian
+Development Bank (ADB) to promote sustainable and inclusive economic growth in support of
+the government’s objectives of poverty reduction and national reconciliation. 9 Tackling urban
+environmental problems resulting from rapid urbanization through investment in water supply,
+sanitation, and waste management is one of the core areas of ADB operation identified in its
+Strategy 2020.10 The project is in line with the guiding purpose of ADB’s urban operational plan,
+2012–2020, which is to catalyze a new form of climate-friendly and resilient, inclusive,
+competitive, and environmentally sustainable urban development.11 The approach focuses on
+improving urban systems, making them financially sustainable, and maximizing the urban
+contribution to such development.
+
+7.     ADB’s sector experience. The water supply projects in Yangon, approved in 1973,12
+and in Mandalay, approved in 1982,13 achieved their objectives. The project completion report
+for Mandalay recommended to reduce the number of contracts and to examine the
+appropriateness of entrusting the civil works to a parastatal organization because a large
+number of procurement packages (49 contracts) and civil works carried out by force account
+
+7
+   Primary waste collector rings bell and waits at specified locations for residents to bring waste.
+8
+   Ministry of National Planning and Economic Development. 2015. National Comprehensive Development Plan, First
+   Five Year Plan & Nay Pyi Taw Accord. Nay Pyi Taw (PowerPoint presentation).
+9
+   ADB. 2012. Interim Country Partnership Strategy: Myanmar, 2012–2014. Manila.
+10
+   ADB. 2008. Strategy 2020: The Long-Term Strategic Framework of the Asian Development Bank, 2008–2020.
+   Manila.
+11
+   ADB. 2013. Urban Operational Plan, 2012–2020. Manila.
+12
+   ADB. 1973. Report and Recommendation of the President to the Board of Directors: Proposed Loans to the Union of
+   Burma for the Rangoon Water Supply Project. Manila; and ADB. 1978. Report and Recommendation of the President
+   to the Board of Directors: Proposed Supplementary Loan and Technical Assistance Grant to the Union of Burma for
+   the Rangoon Water Supply Project. Manila. ADB recognizes Burma by the name Myanmar.
+13
+   ADB. 1982. Report and Recommendation of the President to the Board of Directors: Proposed Loan and Technical
+   Assistance Grant to the Union of Burma for the Mandalay Water Supply Project. Manila.
+                                                                                                                3
+
+
+had delayed project implementation.14 An ongoing capacity development technical assistance
+(TA) will develop the capacity of city governments, including Mandalay, to plan, budget, and
+prepare multisector urban development projects.15 ADB assisted the water supply and sanitation
+departments of MCDC and Yangon City Development Committee in improving water supply
+through the twinning partnership of urban water utility operators.16 ADB approved a grant project
+that focuses on small-scale and tertiary infrastructure, which will be complemented by or linked
+to large-scale and primary infrastructure to be built under the project.17
+
+8.      Thorough project preparation and coordination. Before the project preparatory TA
+started, a small team of consultants was engaged under a capacity development TA to conduct
+a scoping study for a strategic development plan for Mandalay.18 Its outcome provided valuable
+information for project preparation. Agence Française de Développement (AFD) expressed its
+interest in parallel financing for the project at an early stage of project preparation and
+cofinanced the project preparatory TA. This arrangement enabled close coordination between
+ADB and AFD as well as effective joint policy dialogue with the government throughout project
+preparation. Coordination with the European Union through AFD resulted in grant cofinancing
+from the European Union. A consulting firm mobilized under aid from the Government of France
+for the private sector, in parallel with ADB’s project preparatory TA, provided technical inputs on
+water supply, solid waste management, and urban transport that have been fully incorporated in
+the project design. ADB has also closely coordinated with grant projects for water supply in
+Mandalay being proposed by AFD and the Japan International Cooperation Agency to avoid
+overlap and ensure complementarity.
+
+9.      Special features. The project integrates a biogas-generating system with sludge
+stabilization as part of the wastewater treatment plant. Biogas generated in the sludge-digesting
+process will be used to produce electricity, which will power the wastewater treatment plant. The
+wastewater treatment plant is expected to be carbon-neutral and at least 50% energy self-
+sufficient. Sludge from the digester will be stabilized for potential reuse in agriculture and/or
+material reuse in cement works. Training will be conducted for MCDC to ensure effective
+operation of this system.
+
+B.      Impact and Outcome
+
+10.   The impact will be improved urban environment and public health in Mandalay. The
+outcome will be improved access to sustainable urban services in Mandalay.
+
+C.      Outputs
+
+11.     Outputs of the project are (i) improved water supply systems, (ii) improved wastewater
+and drainage management, and (iii) strengthened capacity for urban services management. The
+details are summarized below. Output 1 will build a new water treatment plant, rehabilitate the
+existing water supply networks, and extend the networks to new urban areas. A comprehensive
+nonrevenue water reduction program will be implemented including the rehabilitation of pipes,
+
+14
+   ADB. 1991. Completion Report: Mandalay Water Supply Project in Myanmar. Manila.
+15
+   ADB. 2013. Technical Assistance to the Republic of the Union of Myanmar for Transformation of Urban Management.
+   Manila.
+16
+   ADB. 2011. Technical Assistance for Supporting Water Operators’ Partnerships in Asia and the Pacific. Manila.
+17
+   ADB. 2014. Grant Assistance to the Republic of the Union of Myanmar for the Pro-Poor Community Infrastructure
+   and Basic Services Project. Manila.
+18
+   ADB. 2012. Technical Assistance to the Republic of the Union of Myanmar for Capacity Building Support for Project
+   Identification. Manila.
+4
+
+
+replacement of connections with meters, and improvement of tariff collection efficiency. Output 2
+will provide the first centralized wastewater collection and treatment system in Mandalay. The
+water quality of major creeks and canals will be improved through reducing direct discharge of
+wastewater to receiving waters; and enhancing septage removal, treatment, and disposal. A
+substantial amount of funds have been allocated to implement output 3 considering that the
+project will be the first major externally financed project for Mandalay since the ADB’s previous
+water supply project (footnote 13). Output 3 will cover the project implementation support,
+capacity development for the MRG and MCDC in urban services management, and awareness
+programs for the residents on health and environment.
+
+D.       Investment and Financing Plans
+
+12.      The project is estimated to cost $129.9 million (Table 1).
+
+                                       Table 1: Project Investment Plan
+                                                   ($ million)
+                                                                                                                a
+Item                                                                                                  Amount
+                      b
+A.       Base Cost
+         1. Water supply systems improved                                                               43.9
+         2. Wastewater and drainage management improved                                                 52.3
+         3. Urban services management capacity strengthened                                             13.5
+             Subtotal (A)                                                                              109.7
+                        c
+B.       Contingencies                                                                                  15.9
+                                                  d
+C.       Financing Charges During Implementation                                                         4.3
+             Total (A+B+C)                                                                             129.9
+a
+  Includes taxes and duties of $9.5 million to be financed from government resources through exemption for the grant
+  portion and through cash contribution for the loan portion.
+b
+  In mid-2015 prices.
+c
+  Physical contingencies computed at 10% for civil works, 15% for land acquisition and resettlement, and 10% for all
+  other categories. Price contingencies computed at 1.3% on foreign exchange costs in 2016 and 1.5% thereafter,
+  and 6.9% on local currency costs in 2016, 6% in 2017, and 5% thereafter; includes provision for potential exchange
+  rate fluctuation under the assumption of a purchasing power parity exchange rate.
+d
+  Includes interest. Interest during construction for the Asian Development Bank loan is 1% per year and will be
+  capitalized. There are no commitment charges.
+Source: Asian Development Bank estimates.
+
+13.     The government has requested a loan in various currencies equivalent to
+SDR42,547,000 from ADB’s Special Funds resources to help finance the project. The loan will
+have a 32-year term, including a grace period of 8 years, an interest rate of 1.0% per annum
+during the grace period and 1.5% per annum thereafter, and such other terms and conditions as
+set forth in the draft loan, grant, and project agreements.19 The UCCRTF (footnote 1) under the
+UFPF will provide grant cofinancing equivalent to $4 million, to be administered in parallel by
+ADB.20 Parallel financing is proposed for a €40.0 million loan from AFD and a €5.9 million grant
+from the European Union’s Asian Investment Facility administered by AFD. The financing plan
+is in Table 2.
+
+
+
+19
+   The loan will include financing charges during implementation. Local transportation and insurance charges may be
+   financed under the loan and grant.
+20
+   In case that the government is unable to finance taxes and duties, ADB loan can finance taxes and duties given
+   that the amount financed (i) is within the threshold identified in the interim country partnership strategy, (ii) does not
+   represent an excessive share of the project investment plan, (iii) applies only to ADB-financed expenditures, and
+   (iv) is material and/or relevant to the success of the project.
+                                                                                                                    5
+
+
+14.     The Government of the United Kingdom agreed to provide the $4 million grant through
+the UCCRTF (footnote 1) under the UFPF to be used exclusively for the project and such
+allocation constitutes an additional condition permitting the earmarking of that grant for the
+project. While the loan received Parliament approval, due to unforeseen circumstances, the
+grant has not yet received formal approval from the government. The first ADB project for
+Myanmar financed by a combination of a loan and grant, synchronizing approvals for the loan
+and the grant presented a challenge. However, the process for government approval of the
+grant has been initiated, and it is expected that such approval will be provided before the end of
+2015. The project’s design and implementation arrangements include the grant on the
+assumption that such approval will be received.
+
+15.     The borrower will be the Republic of the Union of Myanmar, which will relend the loan
+proceeds to MCDC. Relending will carry the same terms and conditions as the ADB and AFD
+loans, including the foreign exchange and interest rate variation risks. The grant funds will be
+transferred as grants.
+
+                                              Table 2: Financing Plan
+                                                                               Amount              Share of Total
+Source
+                                                                              ($ million)               (%)
+                               a
+Asian Development Bank                                                             60.0               46.2
+                                            b
+Urban Climate Change Resilience Trust Fund under the
+                                                                                     4.0               3.1
+  Urban Financing Partnership Facility
+                                     c
+Agence Française de Développement                                                  46.0               35.4
+                                          d
+European Union’s Asian Investment Facility                                          6.8                5.2
+           e
+Government                                                                         13.1               10.1
+                         Total                                                    129.9              100.0
+a
+  To finance output 2 and output 3a.
+b
+  To finance outputs 3c–e. Financing partners: the Rockefeller Foundation and the governments of the United
+  Kingdom and the United States. Administered by the Asian Development Bank. For the purpose of the Mandalay
+  Urban Services Improvement Project, only financing from the Government of the United Kingdom will be utilized.
+c
+  Parallel financing for output 1 and output 3a.
+d
+  Parallel financing administered by the Agence Française de Développement for output 3b and output 3e.
+e
+  To finance land acquisition, financing charges during implementation for the Agence Française de Développement
+  loan, and taxes and duties through exemption for the grant portion and cash contribution for the loan portion.
+Source: Asian Development Bank estimates.
+
+E.         Implementation Arrangements
+
+16.     MRG will be the executing agency and MCDC will be the implementing agency. MRG
+will be responsible for major decision making in relation to project implementation. MCDC will
+coordinate and monitor the project activities of the project management office (PMO). The PMO
+will be established under MCDC to undertake day-to-day project implementation activities. The
+project implementation and coordination committee led by the chief minister of MRG will be
+responsible for providing policy guidance, coordination with relevant ministries at the central
+level, and interdepartmental coordination at MRG and MCDC. The implementation
+arrangements are summarized in Table 3 and described in detail in the project administration
+manual (PAM).21
+
+17.     To strengthen project readiness, a project management team has already been
+established under MCDC to undertake preparatory activities. It will be upgraded to a PMO upon
+government approval of the project. The project preparatory TA was extended with additional
+
+21
+     Project Administration Manual (accessible from the list of linked documents in Appendix 2).
+6
+
+
+funds from AFD to conduct surveys and prepare technical specifications for the new wastewater
+treatment plant, and to engage a financial management specialist to provide training and help
+establish the project accounting system. MCDC requested ADB’s assistance in selecting the
+project implementation support consultant so as to expedite its mobilization.22 Since the project
+is financed with ADB-administered cofinancing resources as well as Asian Development Fund
+resources, universal procurement will apply to all contract packages under the project.23
+
+                                 Table 3: Implementation Arrangements
+Aspects                           Arrangements
+Implementation period             April 2016–March 2023
+Estimated completion date         31 March 2023 (estimated loan closing date: 30 September 2023)
+Management
+  (i) Oversight body              The project implementation and coordination committee will be chaired by
+                                  the chief minister, MRG. Members will include ministers and secretaries of
+                                  MRG; and mayor, secretaries, and committee members of MCDC.
+     (ii) Executing agency        MRG
+     (iii) Implementing agency    MCDC
+     (iv) Implementation unit     The project management office will be established under MCDC, headed
+                                  by a project director and comprising sufficient qualified staff.
+Procurement                       International                      4 contracts                   $58.6 million
+                                  competitive bidding
+Consulting services               QCBS                     91 person-months (international)         $6.9 million
+                                  5 packages                 514 person-months (national)
+Advance contracting               Selection of the project implementation support consultant will be initiated.
+Disbursement                      The loan and grant proceeds will be disbursed in accordance with ADB's
+                                  Loan Disbursement Handbook (2015, as amended from time to time) and
+                                  detailed arrangements agreed between the government and ADB.
+ADB = Asian Development Bank, MCDC = Mandalay City Development Committee, MRG = Mandalay Regional
+Government, QCBS = quality- and cost-based selection.
+Note: Procurement and consulting services cover the packages financed by the ADB loan and Urban Climate Change
+Resilience Trust Fund grant only. Accordingly, goods and works, and consulting services to be financed and
+administered by ADB under the project will be procured in accordance with ADB’s Procurement Guidelines (2015, as
+amended from time to time) and ADB’s Guidelines on the Use of Consultants (2013, as amended from time to time).
+Source: ADB.
+
+                                           III.    DUE DILIGENCE
+
+A.         Technical
+
+18.     Since reliable population data and projections were not available when project
+preparation started, a methodology for population projections was developed using assumptions
+on population densities and speed of new development by ward. MCDC will be able to monitor
+and adjust both assumptions over time. Alternative technical options were analyzed for each
+project facility, and the optimum design solutions were identified. In reviewing the alternatives,
+consideration was given to improvement of the overall efficiency of capital investment and
+operational expenditure, and to reduction of negative social and environmental impacts. The
+technology engaged for the project is within the capacity of the local government agencies
+assigned to implement, operate, and maintain the project facilities. The designs and the
+
+
+22
+     Provided that MCDC will negotiate and sign the consulting service contract.
+23
+     ADB. 2013. Blanket Waiver of Member Country Procurement Eligibility Restrictions in Cases of Cofinancing for
+     Operations Financed from Asian Development Fund Resources. Manila.
+                                                                                                           7
+
+
+operation and maintenance plan are prepared along appropriate standards to ensure
+sustainability.
+
+B.      Economic and Financial
+
+19.     Economic analysis. The economic analysis assesses the economic viability of the
+project through standard cost–benefit analysis.24 Conducted for each output as well as for the
+overall project, the analysis confirms the economic viability. Since most of the project benefits
+cannot be valued within traditional markets, they are assessed in terms of willingness to pay for
+the improved services. Average incremental willingness to pay compared with existing amounts
+is estimated at (i) MK50,820 per household per year for improved water supply, (ii) MK129,500
+per household per year for piped-water connections, (iii) MK39,000 per household per cleaning
+for improved septage services, and (iv) MK48,360 per household per year for improved
+wastewater and drainage services. The economic internal rate of return was estimated at 20.2%
+for the improved water supply (with an economic net present value of MK38.4 billion), at 23.4%
+for improved wastewater and drainage management (net present value: MK48.1 billion), and
+19.9% for the overall project (MK 76.8 billion). Sensitivity tests indicated that each output and
+the overall project are highly robust: a 10% cost increase combined with a 10% benefit
+decrease would reduce the economic internal rate of return of the overall project to 17%.
+
+20.    Financial analysis.25 The proceeds of the loans from ADB and the Asian Development
+Fund will be relent via the Ministry of Finance to MCDC in US dollars, and at the same terms as
+ADB and AFD loans. MCDC did not need any financial transfers from the central government
+during the last fiscal years, as revenues from toll fees, rentals, taxes, tariffs, and land
+development were sufficient to cover expenses, although MCDC did underspend on the
+operation and maintenance of urban infrastructure. A fiscal analysis and evaluation of MCDC, a
+government agency, was undertaken consistent with ADB’s Financial Management, Cost
+Estimates, Financial Analysis and Financial Performance Indicators to assess its capacity to
+service all incremental recurrent costs related to the project (i.e., debt service on the ADB and
+AFD loans, and operation and maintenance costs).26 To ensure MCDC’s financial sustainability,
+MCDC, MRG, and the government will have to take measures to increase MCDC’s current
+revenues; for example, through water and wastewater tariff increases, and updates and
+increases of the rental value of properties to generate more housing and lighting tax revenues,
+and implement tight operating cost controls. The fiscal analysis assumes that MCDC, MRG, and
+the government will make sure that MCDC has sufficient funds to cover operating expenses and
+debt service by jointly undertaking to balance MCDC’s budget through increased financial
+support to MCDC; for example, additional transfers from the MRG and/or the central
+government, as required.
+
+C.      Governance
+
+21.     The risk rating for financial management is high. The public financial management
+systems in Myanmar are relatively weak because of limited exposure to international best
+practices and low capacity and computerization. The major risks are (i) limited capacity of
+MCDC staff to (a) conduct project financial management, (b) prepare financial management
+reports, and (c) implement an internal audit; and (ii) weak financial management systems and
+
+24
+   Economic Analysis (accessible from the list of linked documents in Appendix 2).
+25
+   Financial analysis (accessible from the list of linked documents in Appendix 2).
+26
+   ADB. 2014. Financial Management, Cost Estimates, Financial Analysis, and Financial Performance Indicators.
+   Operations Manual. OM G2. Manila.
+8
+
+
+controls, including the current internal audit setup, which does not provide the requisite
+independence. This poses significant constraints for development effectiveness in Myanmar.
+The proposed risk mitigation measures involve capacity development through the engagement
+of international and national accounting and financial management consultants to (i) provide
+training, including on-the-job-training, for the PMO on ADB’s disbursement policies and
+procedures, and international best practices; and (ii) improve project budgeting and accounting
+systems, including computerization of the accounting system. Although the executing and
+implementing agencies do not have recent experience in implementing externally funded
+projects, two key staff at MCDC and the PMO participated in the implementation of a previous
+ADB-financed project. To mitigate procurement risks, (i) the number of contracts has been
+reduced to a minimum; (ii) MCDC has requested ADB to assist in selecting the project
+implementation support consultant, provided that MCDC will negotiate and sign the consulting
+service contract; and (iii) ample training on ADB’s procurement requirements will be conducted
+under the project.
+
+22.     ADB’s Anticorruption Policy (1998, as amended to date) was explained to and discussed
+with the government, MRG, and MCDC. Relevant policy sections will be included in all project
+documents and contracts relating to procurement. The policy requirements and supplementary
+measures are described in the PAM (footnote 21).
+
+D.         Poverty and Social
+
+23.     The project will cover all poor and vulnerable households in the project area, including
+households headed by women, with individual water connections and improved sanitation,
+which is anticipated to yield health and economic benefits. The framework for inclusion of the
+poor and vulnerable will ensure that targeted coverage of all poor and vulnerable households is
+part of the gender equality and social inclusion action plan. 27 The project is categorized as
+effective gender mainstreaming. The water connection subsidy will ensure affordability and
+access to better service, while a lifeline tariff subsidy for water supply and wastewater will
+ensure continuous affordability of user charges by poor households. Participation of the
+community, especially of women and those from socially excluded groups, is elicited by raising
+awareness of the project. The stakeholder strategy and participation plan for the project will
+maximize the participation of stakeholders, particularly women, the poor, and vulnerable groups.
+A gender equality and social inclusion action plan will ensure that gender equality and social
+inclusion are implemented and monitored at regular intervals. Data, disaggregated by sex and
+social and economic background, will be collected within 1 year of the regular intervals to help
+establish baseline figures to track social and gender equality results as the project progresses.
+
+E.         Safeguards
+
+24.     Environment. The project is classified as category B. An initial environmental
+examination was prepared in accordance with ADB’s Safeguard Policy Statement (2009) and
+the applicable environment regulations of the government. 28 The project is not expected to
+cause irreversible adverse environmental impacts. Mitigation measures for identified impacts
+are included in the environmental management plan (EMP). In addition, potential impacts of
+climate change and natural hazards (mainly floods and earthquakes) are recommended for
+integration into the detailed engineering design in terms of location and structure of the facilities.
+At the detailed engineering design stage, the EMP will be updated and finalized. The final EMP,
+
+27
+     Gender Action Plan (accessible from the list of linked documents in Appendix 2).
+28
+     Initial Environmental Examination (accessible from the list of linked documents in Appendix 2).
+                                                                                                              9
+
+
+cleared by ADB, will form part of the contract bidding documents. Effective environmental
+monitoring at all stages of subproject implementation will be ensured. In compliance with ADB’s
+information disclosure and consultation requirements, the safeguard documents will be posted
+on ADB’s website.
+
+25.     Involuntary resettlement. The project is classified as category B. The proposed
+acquisition of 5.253 hectares of land for the wastewater treatment plant will affect
+17 households (58 persons), including 8 landowners, 3 tenants, and 6 seasonal workers. A
+resettlement plan was prepared and includes a review of local laws and regulations, gap
+analysis, and proposed gap-filling measures. 29 The resettlement plan is in compliance with
+ADB’s Safeguard Policy Statement and takes into consideration provisions of local laws and
+regulations. The resettlement plan includes an internal and external monitoring framework.
+Consultations with the affected households were conducted during project preparation and will
+continue throughout resettlement planning and implementation. The project information booklet
+will be distributed and a grievance redress mechanism will be established. Effective internal and
+external monitoring at all stages of subproject implementation will be ensured. MCDC is
+committed to implementing the resettlement plan and allocating sufficient counterpart funds for
+land acquisition. Capacity development of MCDC for social safeguards was conducted during
+project preparation and will continue during project implementation. The resettlement plan will
+be updated at the detailed engineering stage and cleared by ADB. In compliance with ADB’s
+information disclosure and consultation requirements, the safeguard documents will be posted
+on ADB’s website.
+
+26.    Indigenous peoples. The safeguard category for indigenous peoples is C. Some 96.4%
+of the city population is Barmar by ethnicity. However, no communities of ethnic minorities or
+groups live separately in the urban area. As the project will benefit all residents in the project
+area equally, no adverse impact on indigenous peoples is anticipated. In accordance with ADB’s
+Safeguard Policy Statement, no separate indigenous peoples plan is required.
+
+F.         Risks and Mitigating Measures
+
+27.     The project is categorized as high risk because of (i) the limited capacity of the executing
+and implementing agencies for administering externally funded projects, and (ii) ADB’s limited recent
+experience in the country. However, the integrated benefits and impacts are expected to outweigh the
+costs. Major risks and mitigation measures are summarized in Table 4 and described in detail in
+the risk assessment and risk management plan.30
+
+                          Table 4: Summary of Risks and Mitigating Measures
+Risks                                                              Mitigating Measures
+PMO staff do not have sufficient              Consultant will be engaged to support project implementation
+knowledge and experience in                   and train PMO staff on ADB’s requirements and procedures for
+implementation of externally funded           procurement, funds disbursement (including use of imprest fund
+projects, thus risks for financial            and state of expenditure procedures), and financial
+management and procurement are                management procedures.
+rated high.                                   The number of procurement packages has been minimized.
+MCDC revenue is insufficient to cover         MRG and MCDC will ensure that MCDC secures in a timely
+operation and maintenance of project          manner a subsidy, fiscal transfer, or any other financial support
+facilities and repay loans.                   from MRG or the Government of Myanmar to cover the shortfall.
+
+29
+     Resettlement Plan (accessible from the list of linked documents in Appendix 2).
+30
+     Risk Assessment and Risk Management Plan (accessible from the list of linked documents in Appendix 2).
+10
+
+
+Risks                                                          Mitigating Measures
+Inadequate subsidies are provided to    Consultant will assist MRG and MCDC in estimating shortfalls
+meet shortfall in water supply and      during construction to allow them to allocate sufficient budget
+wastewater revenues.                    for operation and maintenance.
+ADB = Asian Development Bank, MCDC = Mandalay City Development Committee, MRG = Mandalay Regional
+Government, PMO = project management office.
+Source: ADB.
+
+                           IV.     ASSURANCES AND CONDITIONS
+
+28.    The government has assured ADB that implementation of the project shall conform to all
+applicable ADB policies including those concerning anticorruption measures, safeguards,
+gender, procurement, consulting services, and disbursement as described in detail in the PAM
+and loan documents.
+
+29.     The government has agreed with ADB on certain covenants for the project, which are
+set forth in the loan, grant, and project agreements.
+
+30.      The government has agreed that no withdrawals will be made from the loan and grant
+accounts until (i) MCDC has entered into a subsidiary loan agreement with the government, and
+(ii) the PMO has been established with qualified staff.
+
+                                   V.       RECOMMENDATION
+
+31.    I am satisfied that the proposed loan would comply with the Articles of Agreement of the
+Asian Development Bank (ADB) and recommend that the Board approve
+       (i)    the loan in various currencies equivalent to SDR42,547,000 to the Republic of
+              the Union of Myanmar for the Mandalay Urban Services Improvement Project,
+              from ADB’s Special Funds resources, with an interest charge of 1.0% per annum
+              during the grace period and 1.5% per annum thereafter; for a term of 32 years,
+              including a grace period of 8 years; and such other terms and conditions as are
+              substantially in accordance with those set forth in the draft loan and project
+              agreements presented to the Board; and
+       (ii)   the administration by ADB of the grant not exceeding the equivalent of
+              $4,000,000 to the Republic of the Union of Myanmar for the Mandalay Urban
+              Services Improvement Project, to be provided by the Urban Climate Change
+              Resilience Trust Fund under the Urban Financing Partnership Facility as
+              described in para. 14.
+
+                                                                 Takehiko Nakao
+                                                                 President
+22 October 2015
+                                                                                        Appendix 1        11
+
+                            DESIGN AND MONITORING FRAMEWORK
+
+ Impact the Project is Aligned with
+
+ Urban environment and public health in Mandalay is improved (proposed National
+ Comprehensive Development Plan, 2016–2021)a
+                    Performance Indicators with Targets          Data Sources and
+Results Chain                 and Baselines                    Reporting Mechanisms             Risks
+Outcome             By 2024
+
+Access to           a. Households with access to water         a–e. Mandalay City          MCDC revenue
+sustainable         supply without interruption increased to   annual report, end-of-      is insufficient to
+urban services in   124,000 (2014 baseline: 19,000)            project survey              cover operation
+Mandalay                                                                                   and
+improved            b. Nonrevenue water reduced to 25%                                     maintenance of
+                    (2014 baseline: 52%)                                                   project facilities
+                                                                                           and repay
+                                                                                           loans.
+                    c. Direct discharge of wastewater to
+                    receiving waters reduced to 25,000                                     Inadequate
+                      3                              3
+                    m /day (2014 baseline: 85,000 m /day)                                  subsidies are
+                                                                                           provided during
+                    d. Households living in wards affected                                 the period of
+                    by seasonal flooding reduced to 18,000                                 shortfall in
+                    (2014 baseline: 92,000) with frequency                                 water supply
+                    of flooding raised to 1 in 2 years (2014                               and wastewater
+                    baseline: more than 1 in 6 months)                                     revenues.
+
+                    e. Budgets for water supply and
+                    sanitation operations ring-fenced
+Outputs             By 2023
+
+1. Water supply     1a. Water production capacity increased 1a–e. Quarterly                PMO staff do
+                                 3
+   systems          to 183,000 m /day (2014 baseline:         construction report          not have
+                              3
+   improved         97,000 m /day) by rehabilitating existing                              sufficient
+                    treatment plant and reservoirs and                                     knowledge and
+                    constructing a new treatment plant                                     experience in
+                                                                                           implementation
+                    1b. 19 km of main transmission lines                                   of externally
+                    and 116 km of distribution systems                                     funded projects.
+                    constructed (2014 baseline: not
+                    applicable)
+
+                    1c. 18 km of existing network
+                    rehabilitated and new network extended
+                    (2014 baseline: not applicable)
+
+                    1d. 20,000 connections, including
+                    meters, replaced (2014 baseline: not
+                    applicable)
+
+                    1e. At least 30% of unskilled labor
+                    force in civil works are women
+                    (2014 baseline: not applicable)
+12        Appendix 1
+
+                   Performance Indicators with Targets         Data Sources and
+ Results Chain               and Baselines                   Reporting Mechanisms            Risks
+2. Wastewater      By 2023                                                             PMO staff do
+   and drainage                                                                        not have
+   management      2a. 27 km of sewerage networks            2a–h. Quarterly           sufficient
+   improved        constructed (2014 baseline: 0)            construction report       knowledge and
+                                                                                       experience in
+                   2b. 31 km of interceptor networks and                               implementation
+                   a pumping station constructed at                                    of externally
+                   Thingazar Creek (2014 baseline: 0)                                  funded projects.
+
+                   2c. A wastewater treatment plant with a
+                                       3
+                   capacity of 75,000 m /day constructed
+                   (2014 baseline: 0)
+
+                   2d. Pilot wastewater connections in
+                   densely populated city center
+                   implemented (2014 baseline: 0)
+
+                   2e. 10 septage collection vehicles
+                   provided (2014 baseline: 6 operational)
+
+                   2f. 60 km of main canals dredged and
+                   rehabilitated (2014 baseline: not
+                   applicable)
+
+                   2g. Stormwater pumping capacity
+                                         3
+                   increased to 65,100 m /hour
+                                           3
+                   (2014 baseline: 21,900 m /hour)
+
+                   2h. At least 30% of unskilled labor
+                   force in civil works are women
+                   (2014 baseline: not applicable)
+3. Capacity for    By 2023                                                             PMO staff
+   urban service                                                                       assigned by
+   management      3a. Project implementation support        3a–b. Attendance          MCDC are
+   strengthened    provided in terms of detailed             sheets, end-of-training   frequently
+                   engineering designs, procurement,         survey                    rotated.
+                   construction supervision,
+                   disbursement, financial management,
+                   social and environmental safeguards,
+                   and operation and maintenance
+
+                   3b. At least 50 MRG and MCDC staff
+                   trained on municipal financing,
+                   nonrevenue water reduction, cost
+                   recovery, and corporatization of water
+                   and wastewater operations (at least
+                   30% of participants are women)
+
+                   3c. Urban spatial plan and                3c. MCDC annual report
+                   infrastructure development plans
+                   developed, endorsed, and
+                   implemented
+                                                                                         Appendix 1        13
+
+                    Performance Indicators with Targets            Data Sources and
+Results Chain                    and Baselines                  Reporting Mechanisms              Risks
+                    3d. Pilot community-based solid waste       3d. PMO quarterly report
+                    management designed and
+                    implemented
+
+                   3e. Programs to raise awareness on           3e. Program materials,
+                   public health and environmental              attendance sheets
+                   protection conducted (with equitable
+                   share of male and female participants)
+Key Activities with Milestones
+
+Output 1. Water supply systems improved
+1.1    Complete detailed designs and update EMP by 2016.
+1.2    Complete procurement of works and goods by 2017.
+1.3    Complete civil works and equipment installation by 2021.
+
+Output 2. Wastewater and drainage management improved
+2.1    Complete detailed designs and update EMP and resettlement plan by 2016.
+2.2    Complete land acquisition and resettlement activities by 2017.
+2.3    Complete procurement of works and goods by 2018.
+2.4    Complete civil works and equipment installation by 2022.
+
+Output 3. Urban service management capacity strengthened
+3.1    Establish PMO with qualified staff by 2015.
+3.2    Recruit and mobilize consultants by 2016.
+3.3    Review and assess existing organization, staffing, and administration systems; and identify
+       institutional bottlenecks and capacity development needs by 2017.
+3.4    Prepare guidelines and manuals, and develop training programs by 2018.
+3.5    Conduct training for MRG and MCDC by 2022.
+3.6    Develop public health and environmental protection awareness programs and materials for
+       beneficiaries by 2019.
+3.7    Conduct awareness programs by 2022.
+
+Inputs
+Asian Development Bank (loan): $60,000,000
+Urban Climate Change Resilience Trust Fund under the Urban Financing Partnership Facility (grant):
+$4,000,000
+Government of Myanmar: $13,100,000
+Assumptions for Partner Financing
+The outputs financed by the following partners in parallel will be implemented without delay.
+Agence Française de Développement (loan): $46,000,000 (€40,000,000) for entire output 1 and part of
+output 3a.
+European Union (grant): $6,800,000 (€5,900,000) for output 3b and part of output 3e.
+                                                         3
+EMP = environmental management plan, km = kilometer, m = cubic meter, MCDC = Mandalay City Development
+Committee, MRG = Mandalay Regional Government, PMO = project management office.
+a
+  Ministry of National Planning and Economic Development. 2015. National Comprehensive Development Plan, First
+  Five Year Plan & Nay Pyi Taw Accord. Nay Pyi Taw (PowerPoint presentation).
+Source: Asian Development Bank.
+14    Appendix 2
+
+
+
+                              LIST OF LINKED DOCUMENTS
+                   http://www.adb.org/Documents/RRPs/?id=47127-002-3
+
+1.    Loan Agreement
+2.    Grant Agreement
+3.    Project Agreement
+4.    Sector Assessment (Summary): Water and Other Urban Infrastructure and Services
+5.    Project Administration Manual
+6.    Contribution to the ADB Results Framework
+7.    Development Coordination
+8.    Financial Analysis
+9.    Economic Analysis
+10.   Country Economic Indicators
+11.   Summary Poverty Reduction and Social Strategy
+12.   Gender Action Plan
+13.   Initial Environmental Examination
+14.   Resettlement Plan
+15.   Risk Assessment and Risk Management Plan
+
+
+Supplementary Document
+16.   Consultation and Participation Plan
+17.   Economic Analysis–Supplementary Tables
+

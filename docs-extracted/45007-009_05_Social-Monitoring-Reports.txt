@@ -1,0 +1,746 @@
+Periodic Financing Request Report
+
+
+
+
+Project Number: 45007-009
+MFF Number: 0078
+June 2020
+
+
+
+
+Mongolia: Ulaanbaatar Urban Services and Ger
+Areas Development Investment Program (Tranche 3)
+
+
+
+
+This document is being disclosed to the public in accordance with ADB's Access to Information
+Policy.
+                                       CURRENCY EQUIVALENTS
+                                           (as of 22 June 2020)
+                                     Currency unit    –   togrog (MNT)
+                                         MNT1.00      =   $0.00036
+                                            $1.00     =   MNT2,814.04
+
+
+                                               ABBREVIATIONS
+
+                        ADB                –      Asian Development Bank
+                        COVID-19           –      coronavirus disease
+                        DEIA               –      detailed environmental impact assessment
+                        EIB                –      European Investment Bank
+                        EIRR               –      economic internal rate of return
+                        FFA                –      framework financing agreement
+                        km                 –      kilometer
+                        LARP               –      land acquisition and resettlement plan
+                        MFF                –      multitranche financing facility
+                        MUB                –      Municipality of Ulaanbaatar
+                        OCR                –      ordinary capital resources
+                        PMO                –      program management office
+                        SDR                –      special drawing right
+
+
+                                                    NOTE
+
+                              In this report, "$" refers to United States dollars.
+
+Vice-President           Ahmed M. Saeed, Operations 2
+Director General         James P. Lynch, East Asia Department (EARD)
+Director                 Sangay Penjor, Urban and Social Sectors Division (EASS), EARD
+
+Team leaders             Bai Jie, Urban Development Specialist, EASS, EARD
+                         Arnaud Heckmann, Principal Urban Development Specialist, EASS, EARDa
+Team members             Tuul Badarch, Senior Project Officer (Infrastructure), Mongolia Resident
+                         Mission, EARD
+                         Maria Victoria Dela Cruz, Project Officer, EASS, EARD
+                         Shinsuke Kawazu, Principal Counsel, Office of the General Counsel
+                         Marimar Montemayor, Senior Operations Assistant, EASS, EARD
+                         Viswanathan Ramasubramanian, Senior Safeguards Specialist
+                         (Resettlement), EASS, EARD
+                         Mark Allister Robis, Senior Financial Management Officer, Office of the
+                         Director General, EARD
+                         Shotaro Sasaki, Senior Environment Specialist, EASS, EARD
+                         Gohar Tadevosyan, Senior Social Development Specialist (Safeguards),
+                         EASS, EARD
+                         Maria Carina Tinio, Economics and Statistics Analyst, Social Sectors and
+                         Public Sector Management Division, Pacific Department (PARD)
+Peer reviewer            Shinjini Mehta, Infrastructure Specialist, Pacific Liaison and Coordination
+                         Office, PARD
+a   Outposted to the Mongolia Resident Mission.
+In preparing any country program or strategy, financing any project, or by making any designation
+of or reference to a particular territory or geographic area in this document, the Asian
+Development Bank does not intend to make any judgments as to the legal or other status of any
+territory or area.
+                                      CONTENTS
+
+                                                                                   Page
+
+TRANCHE AT A GLANCE
+I.     BACKGROUND                                                                        1
+II.    ASSESSMENT OF MULTITRANCHE FINANCING FACILITY IMPLEMENTATION                      2
+III.   PERIODIC FINANCING REQUEST                                                        4
+       A.   Impact and Outcome                                                           4
+       B.   Outputs                                                                      4
+       C.   Summary Cost Estimates and Financing Plan                                    5
+       D.   Implementation Arrangements                                                  6
+       E.   Tranche Readiness                                                            7
+IV.    DUE DILIGENCE                                                                      7
+       A.    Technical                                                                    7
+       B.    Economic and Financial                                                       8
+       C.    Governance                                                                   8
+       D.    Poverty, Social, and Gender                                                  9
+       E.    Safeguards                                                                   9
+       F.    Summary of Risk Assessment and Risk Management Plan                         11
+V.     ASSURANCES                                                                        11
+VI.    THE PRESIDENT'S DECISION                                                          11
+
+APPENDIXES
+1.   Design and Monitoring Framework for Tranche 3
+2.   Loan Agreements
+3.   Project Agreement
+4.   Status of Compliance with Framework Financing Agreement Undertakings and Loan
+     Covenants for Tranches 1 and 2
+5.   Updated Facility Administration Manual
+6.   Economic Analysis for Tranche 3
+7.   Financial Analysis for Tranche 3
+8.   Summary Poverty Reduction and Social Strategy for Tranche 3
+9.   Updated Environmental Assessment and Review Framework
+10.  Initial Environmental Examination and Environmental Management Plan for Tranche 3
+     (including Environment Management Plan for Contractors)
+11.  Updated Land Acquisition and Resettlement Framework
+12.  Land Acquisition and Resettlement Plan for Tranche 3
+13.  Social Development and Gender Action Plans for Tranche 3
+14.  Updated Risk Assessment and Risk Management Plan
+15.  Climate Change Assessment for Tranche 3
+16.  Client Feasibility Studies and Engineering Designs (available on request)
+
+SUPPLEMENTARY APPENDIXES
+17.  Implementation of Remedial Measures to Address Involuntary Resettlement-Related
+     Complaints in Tranche 1
+18.  Detailed Economic Analysis
+                                            I.       BACKGROUND
+
+1.      Ulaanbaatar city is home to more than 1.44 million people. 1 The central city core with
+comprehensive utility services is surrounded by vast, substandard, and unserved ger areas of
+about 100 square kilometers. 2 Ger areas accommodate about 60% of the city's population (about
+840,000 inhabitants) 3 and have spread and expanded through successive waves of migration. 4
+These settlements of low- and medium-income households are characterized by loosely aligned
+plots, creating irregular unpaved pathways. 5 The majority of households living here have land
+tenure. Lack of basic urban infrastructure and services in ger areas has caused severe pollution
+that threatens city residents' health. Obsolete household coal stoves for heating, and traffic
+congestion caused by unplanned road networks have helped generate some of the highest levels
+of air pollution in the world. 6 Households’ exclusive reliance on open pit latrines and a poor solid
+waste collection system has led to poor sanitation, along with limited access to water supplied by
+water kiosks. There is a lack of basic social and public facilities, such as green spaces, parks,
+sports centers, kindergartens, and primary health centers. The upgrading of ger areas is
+constrained by inadequate urban infrastructure, lack of urban planning, poor urban services, and
+limited public spaces and facilities.
+
+2.      Multitranche financing facility. On 12 December 2013, the Asian Development Bank
+(ADB) approved the Ulaanbaatar Urban Services and Ger Areas Development Investment
+Program 7 using a multitranche financing facility (MFF) modality, comprising three tranches, and
+with a revised implementation period of 10 years or until 11 December 2023. 8 The total program
+cost is $320.00 million, of which $163.70 million will be financed by ADB; $96.00 million by the
+Municipality of Ulaanbaatar (MUB); and up to €50.00 million ($60.30 million equivalent at the time
+of approval) parallel cofinancing by the European Investment Bank (EIB). This program is the
+result of a successful policy dialogue between ADB and the MUB that catalyzed the (i) integration
+of ger areas in the Ulaanbaatar city master plan for the first time in December 2013, and
+(ii) adoption of a priority service and economic hubs (subcenters) development strategy in ger
+areas as a catalyst for more polycentric and inclusive city development. Under this program, a
+road map has been developed to establish a network of well-developed city subcenters to provide
+jobs, housing, and economic opportunities with reduced soil and air pollution. The program has
+introduced a paradigm shift and replicable mechanism to systematically extend modern
+infrastructure and key social facilities to ger areas. 9 The program's impact is improved living
+conditions in Ulaanbaatar; its outcome is a network of livable, competitive, and inclusive
+subcenters in Ulaanbaatar's ger areas. The program has four outputs: (i) roads and urban
+services are expanded within the targeted subcenters and connectivity between subcenters is
+improved; (ii) economic and public services in subcenters are improved; (iii) service providers
+become more efficient; and (iv) institutions and capacity for urban development, program
+
+1 Ulaanbaatar City Statistics Office. http://ubstat.mn/StatTable=11/ (Mongolian version, accessed 16 January 2020).
+2 Ger is the Mongolian word for yurt, and a ger area refers to a peri-urban area not connected to basic services.
+3 Almost 54% of the population of Ulaanbaatar’s ger areas lives in solid houses and 46% lives in traditional gers.
+
+  Ulaanbaatar City Statistics Office. http://ubstat.mn/ (Mongolian version, accessed 18 January 2020).
+4 Since 2010, the estimated average population growth in ger areas was about 25,000 inhabitants per year. This
+
+  represents half of the city's 3.8% annual growth rate.
+5 The average household monthly income in ger areas is $380.
+6 World Health Organization. 2019. Air Pollution in Mongolia. Bulletin of the World Health Organization. 97(2). pp. 79–
+
+  80.
+7 ADB. Mongolia: Ulaanbaatar Urban Services and Ger Areas Development Investment Program.
+8 On 16 April 2020, the President approved the extension of the MFF availability period from 9 years to 10 years (or
+
+  from 31 December 2022 to 11 December 2023) to ensure the timely implementation of tranche 3.
+9 For example, this mechanism will be replicated in ADB's forthcoming Aimag and Soum Centers Regional
+
+  Development Investment Program.
+2
+
+
+management, and service delivery are strengthened. The framework financing agreement (FFA)
+was signed on 9 December 2013 and ratified by the Parliament of Mongolia on 23 May 2014.
+
+3.       Tranches. Tranche 1 was approved on 17 December 2013, with a revised closing date of
+30 June 2021. It supports the city master plan in developing the Selbe and Bayankhoshuu
+subcenters. 10 ADB financing for tranche 1 consists of (i) a $27.50 million regular ordinary capital
+resources (OCR) loan, (ii) a SDR14.54 million (equivalent to $22.50 million at the time of approval)
+concessional OCR loan, and (iii) a $3.70 million grant from the Urban Environmental Infrastructure
+Fund under the Urban Financing Partnership Facility. 11 EIB cofinancing for tranche 1 is
+$22.01 million, while MUB financing is $33.15 million. Tranche 2 was approved on 31 March 2017,
+with a closing date of 28 February 2022. It aims to extend the urban infrastructure and social
+facilities upgrading and spatial restructuring to the Dambadarjaa and Denjiin subcenters and to
+provide additional investments in the Bayankhoshuu and Selbe subcenters. 12 ADB financing for
+tranche 2 consists of (i) a $37.11 million regular OCR loan, and (ii) a SDR21.59 million (equivalent
+to $29.24 million at the time of approval) concessional OCR loan. EIB cofinancing for tranche 2
+is $19.64 million, while MUB financing is $35.15 million.
+
+4.     ADB received a periodic financing request for the third tranche under the MFF from the
+Government of Mongolia on 15 April 2020. The third tranche is included in ADB's country
+operations business plan for Mongolia, 2020–2021. 13
+
+    II.      ASSESSMENT OF MULTITRANCHE FINANCING FACILITY IMPLEMENTATION
+
+5.      Progress on road map. The progress on road map is satisfactory. Tranches 1 and 2 have
+supported the development of four subcenters in ger areas, by expanding roads and basic urban
+services and increasing economic and public services. Water operation efficiency of the
+Ulaanbaatar Water Supply and Sewerage Authority has improved with reduced power
+consumption at the pumping stations and reduced energy consumption per cubic meter of water.
+The first batch of community development councils and business councils have been established
+and functioning with significant representation of women. With improved city planning capacity,
+MUB has formulated the local development plans for tranche 1 subcenters, which will be followed
+by tranches 2 and 3 and other subcenter development. The program has already acted as a
+catalyst for other initiatives by the MUB, ADB, and other development partners, creating strong
+partnerships and synergies to achieve the outcome and impact of the overall road map. 14
+
+
+10 ADB. Mongolia: Ulaanbaatar Urban Services and Ger Areas Development Investment Program (Tranche 1).
+11 Administered by ADB. The financing partner is the Government of Sweden. The grant supported output 3 to improve
+
+   water and wastewater services operation and energy efficiency of the Ulaanbaatar Water Supply and Sewerage
+   Authority.
+12 ADB. Mongolia. Ulaanbaatar Urban Services and Ger Areas Development Investment Program (Tranche 2).
+13 ADB. 2018. Country Operations Business Plan: Mongolia, 2020–2021. Manila.
+14 For example: (i) ADB. Mongolia. Ulaanbaatar Air Quality Improvement Program, a policy-based loan of $130 million
+
+   that supports a switch to alternative fuels for heating in ger areas to reduce air pollution; (ii) the joint Build4Skills
+   initiative by ADB, the German Federal Ministry of Economic Cooperation and Development, and German
+   development cooperation through Deutsche Gesellschaft für Internationale Zusammenarbeit, which is being piloted
+   using tranche 1 construction activities to improve technical skills of the local communities; (iii) Pomagalski S.A., a
+   French company, is at the final negotiation stage with the MUB and the Treasury of the Government of France to
+   build a ropeway public transportation system linking tranche 1 subcenters to Ulaanbaatar city center; (iv) the Asia
+   Foundation’s Women Entrepreneurship Program, which will partner with the business incubator operator to build
+   capacity of women entrepreneurs; (v) the Second Compact Grant, for $350 million, signed by the Millennium
+   Challenge Corporation and the Government of Mongolia to increase the potable water supply capacity by 80%; and
+   (vi) construction of a new central wastewater treatment plant with a capacity of 250,000 cubic meters, partly financed
+   through a $300 million loan from the Government of the People's Republic of China.
+                                                                                                                     3
+
+
+6.     Improvements in policy framework. Significant achievements in the policy framework
+are as follows: (i) there has been an increase in water and wastewater tariffs, (ii) an affordable
+housing strategy and the ADB-financed Ulaanbaatar Green Affordable Housing and Resilient
+Urban Renewal Sector Project amounting to $80.0 million were approved, 15 and (iii) the subcenter
+redevelopment strategy remains a high priority for the MUB. 16
+
+7.      Tranche 1 implementation performance. As of 31 March 2020, the overall
+implementation progress was 75.1% against 83.4% of the elapsed implementation period. Of the
+overall contract amount, $45.3 million (84.3%) had been awarded, while total disbursement was
+at $31.0 million (57.7%). On 14 December 2019, ADB approved the extension of the loan closing
+date for tranche 1 until 30 June 2021 to ensure the satisfactory completion of all construction
+works and other remaining activities. The $3.7 million grant from the Urban Environmental
+Infrastructure Fund was financially closed on 21 November 2019. For outputs 1 and 2, 30 of the
+31 contracts have been awarded, of which 13 have been physically completed. The remaining
+packages will be physically completed by the first quarter of 2021. Output 3 activities have been
+completed which improved the operations efficiency of the Ulaanbaatar Water Supply and
+Sewerage Authority. The institutional and capacity strengthening activities under output 4 for
+urban development, program management, and service delivery have been substantially
+completed. There is no change in tranche 1 outputs and its performance is rated on track.
+
+8.      Tranche 2 implementation performance. As of 31 March 2020, the overall
+implementation progress was 10.8% against 61.1% of the elapsed implementation period. Of the
+overall contract amount, $14.8 million (22.3%) had been awarded, while total disbursement was
+$10.1 million (15.2%). Detailed design for outputs 1 and 2 will be completed and approved by
+State Expertise in August 2020. 17 For output 3, community participation and small and medium-
+sized enterprises development were supported through consultation meetings, socioeconomic
+surveys, and focus group discussions. The project implementation consulting team is working on
+the mobilization of primary groups and community development councils. Local development
+plans are being prepared, and redevelopment process and community engagement will follow the
+same steps and principles as those used in tranche 1. There is no change in tranche 2 outputs
+and its performance is rated on track.
+
+9.     Compliance with undertakings and loan covenants. Compliance by the Government
+of Mongolia with the loan covenants and FFA undertakings has been satisfactory overall
+(Appendix 4). Compliance with FFA Schedule 6, Undertaking 4 is ongoing but should be
+expedited. 18 Current subcenter development initiatives and community activities should be
+consolidated and developed into an operational framework and submitted to ADB for approval by
+31 December 2020. Under tranche 1, two eligible complaints were filed with ADB's Office of the
+Special Project Facilitator. The complaints were from affected persons and nongovernment
+
+15 ADB. Mongolia: Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project.
+16 The subcenters development is the main strategy and the principal investment program of the MUB to modernize
+
+   ger areas. It is one of the key components of the “Adjustments to the Ulaanbaatar City Urban Development Master
+   Plan 2020 and Development Directions 2030” approved by the Mongolian Parliament.
+17 Tranche 2 detailed design completion for output 1 has been delayed because of lengthy discussion around the district
+
+   heating solutions to be implemented that should take the form of transmission line from the central system or
+   decentralized heating facilities. A working group was formed in November 2019, and the final decision was made in
+   April 2020.
+18 FFA Schedule 6, Undertaking 4: The Government of Mongolia shall cause the MUB to establish and make operational
+
+   an agency and transparent mechanism, acceptable to ADB, that will ensure community-led ger subcenter
+   redevelopment; monitor relevant community development councils' conducting adequate community consultation;
+   catalyze private sector participation; and ensure equitable land redevelopment, land pooling practices, and fair
+   compensation to affected persons.
+4
+
+
+organizations and related to the implementation of the resettlement provisions. The corrective
+measures to resolve the complaints were agreed through a joint memorandum of understanding
+signed among various parties on 2 July 2018, and the implementation progress is summarized in
+Supplementary Appendix 17. The project team is working closely with the MUB in implementing
+these corrective measures to achieve the Office of the Special Project Facilitator's formal closure
+of the complaints, which is expected by the second quarter of 2020.
+
+10.    Lessons. Lessons from previous tranches have been incorporated in the design of
+tranche 3, including enhancing community participation and minimizing project delays because of
+the slow land acquisition and resettlement process and detailed design preparation.
+
+11.     Continuity of longer-term engagement. Approved under the previous government and
+implemented under the current one, the program has ownership from all political parties, and
+continues to be highly relevant for the government, as it is a major instrument to reduce air
+pollution and implement the long-term redevelopment of ger areas. The program has also built
+strong synergies with other development partners, the MUB, the private sector, and local
+communities, and it has gained visibility in the local media, making it resilient to political changes
+and interference.
+
+12.     Response to coronavirus disease. The program will significantly contribute to
+Mongolia’s response to coronavirus disease (COVID-19) by improving access to clean water,
+sanitation, and hygiene in ger areas and reducing the citywide air pollution caused by household
+stoves and traffic congestion. In addition, tranche 3 has sought effective coordination with ongoing
+health sector projects to contribute to post-pandemic recovery. This includes construction of a
+primary health care center to further improve the essential health service delivery, including for
+COVID-19, in ger areas.
+
+13.    All outputs under the MFF-financed physical and nonphysical investments will be delivered
+by the end of the 10-year MFF availability period to achieve timely completion (footnote 8).
+
+                                   III.      PERIODIC FINANCING REQUEST
+
+A.         Impact and Outcome
+
+14.   Tranche 3 is aligned with the following impact: improved living conditions in Ulaanbaatar. 19
+Tranche 3 will have the following outcome: a network of livable, competitive, and inclusive
+subcenters in Ulaanbaatar's ger areas. 20
+
+B.         Outputs
+
+15.     Tranche 3 of the MFF will have three outputs to support the redevelopment of two
+additional subcenters in the eastern and western ger areas (Sharkhad and Tolgoit). 21
+
+19 State Great Khural (Parliament) of Mongolia. 2013. Adjustments to the Ulaanbaatar City Urban Development Master
+
+    Plan 2020 and Development Directions 2030. Ulaanbaatar.
+20 The design and monitoring framework is in Appendix 1.
+21 Tranche 3 targeted areas have been selected because they are compliant with the FFA selection criteria: (i) central
+
+    characteristics (i.e., agglomeration and densification processes) are already ongoing; (ii) large influence areas;
+    (iii) socioeconomic impacts; (iv) high pollution levels; (v) economic potential; (vi) alignment with the city master plan;
+    and (vii) potential synergies with tranches 1 and 2 investments. All components of tranche 3 are compliant with the
+    selection criteria indicated in Schedule 4 of the FFA. In 2019, the populations of Sharkhad and Tolgoit subcenter
+    project areas were 9,046 and 6,979, respectively.
+                                                                                                                5
+
+
+16.      Output 1: Roads and urban services expanded within the targeted subcenters and
+connectivity between subcenters improved. This output will involve the construction of
+(i) 16.62 kilometers (km) of priority roads with 10 closed-circuit television cameras installed;
+(ii) 10.88 km of flood protection channels and two sediment retention ponds; (iii) 40.00 km of
+overhead electricity cables and 9.60 km of fiber-optic cables with auxiliary facilities for a
+telecommunication network; (iv) 17.26 km of water supply, 6.80 km of sewerage pipeline, and
+8.02 km of heating network pipes with seven substations and secondary connections; and (v) one
+reservoir in Sharkhad and one pumping station each for water supply in Sharkhad and Tolgoit.
+
+17.     Output 2: Economic and public services in targeted subcenters improved. This
+output will involve the construction of (i) two kindergartens in Tolgoit and Sharkhad, (ii) one
+primary health care center in Tolgoit, (iii) two community development and service centers in
+Tolgoit and Sharkhad, (iv) two training centers in Tolgoit and Sharkhad, (v) one sports complex
+in Sharkhad, (vi) five green public spaces in Tolgoit and Sharkhad, and (vii) 50 social housing
+units in Sharkhad.
+
+18.     Output 3: Institutional capacity for program management and urban development
+strengthened. This output will involve the engagement of consulting services for a people-
+centered subcenter redevelopment mechanism and platform to ensure a green, livable, and
+efficient subcenter redevelopment process involving people and public and private stakeholders.
+This output aims to finalize and institutionalize the activities that have been implemented under
+tranches 1 and 2, including community participation, awareness, and empowerment; and small
+and medium-sized enterprises development. External monitoring consultants will also be
+engaged to ensure compliance with ADB safeguard requirements.
+
+C.      Summary Cost Estimates and Financing Plan
+
+19.     Tranche 3 is estimated to cost $114.20 million (Table 1). Detailed cost estimates by
+financier and by outputs are included in the updated facility administration manual (Appendix 5).
+
+                                   Table 1: Summary Cost Estimates
+                                               ($ million)
+Item                                                                                                Amounta
+A. Base Costb
+    1. Roads and urban services expanded
+       1.1 Roads and associated infrastructure                                                        50.92
+       1.2 Water supply and sewerage, including flood protection                                      15.34
+       1.3 Heating services                                                                           10.80
+                 Subtotal (A1)                                                                        77.06
+    2. Economic and public services in targeted subcenters improved                                   14.05
+    3. Institutional capacity for program management and urban development                             3.29
+       strengthened
+                 Subtotal (A)                                                                         94.40
+B. Contingenciesc                                                                                     16.62
+C. Financial Charges During Implementationd                                                            3.18
+                        Total (A+B+C)                                                                114.20
+a Includes value-added taxes and custom duties estimated at $8.22 million for tranche 3. Such amount does not
+  represent an excessive share of the project cost. The government will finance these taxes and duties through
+  exemption.
+b In 2019 prices as of 25 November 2019.
+c Physical contingencies computed at 8% for roads and associated infrastructure, including heating; 5.0% for civil
+
+  works and consulting services; and 10.3% for water supply and sewerage, including flood protection. Price
+  contingencies computed at average of 1.6% on foreign exchange costs and 6.8% on local currency costs; includes
+6
+
+
+  provision for potential exchange rate fluctuation under the assumption of a purchasing power parity exchange rate.
+d Includes interest and commitment charges. Financial charges during implementation of the Asian Development Bank
+  (ADB) loans are computed at (i) 2.0% per annum for the concessional ordinary capital resources (OCR) loan; and
+  (ii) 5-year United States dollar fixed swap rate plus an effective contractual spread of 0.5% and a maturity premium
+  of 0.1% for the regular OCR loan. Commitment charges for the regular OCR loan are 0.15% per year to be charged
+  on the undisbursed loan amount. Financial charges during implementation for the European Investment Bank loan
+  were calculated based on the same assumptions as ADB’s regular OCR loan.
+Source: ADB estimates.
+
+20.     Table 2 shows the financing plan of tranche 3. The government has requested a regular
+loan of $25.05 million and a concessional loan of $18.60 million from ADB's OCR to help finance
+the project. The regular loan will have a 26-year term, including a grace period of 6 years, an
+annual interest rate determined in accordance with ADB's London interbank offered rate-based
+lending facility; a commitment charge of 0.15% per year (the interest and other charges during
+construction to be capitalized in the loan); and such other terms and conditions set forth in the
+draft loan and project agreements. Based on the custom-tailored repayment method, the average
+maturity is 16 years, and the maturity premium payable to ADB is 0.10% per year. The
+concessional loan will have a 25-year term, including a grace period of 5 years, an interest rate
+of 2.0% per year during the grace period and thereafter, and such other terms and conditions set
+forth in the draft loan and project agreements. The government will relend the proceeds of the
+loans to the MUB upon terms and conditions satisfactory to ADB.
+
+21.      Cofinancing and counterpart funds. The EIB will provide parallel cofinancing totaling
+$18.65 million for water supply and sewerage subprojects, including contingencies and financial
+charges during implementation. The EIB loan will have a 25-year term, including a grace period
+of 5 years and an interest rate in accordance with its London interbank offered rate-based lending
+facility. The MUB will provide counterpart funding of $51.90 million for land acquisition and
+resettlement support, civil works and equipment, taxes and duties, and contingencies.
+
+                                    Table 2: Summary Financing Plan
+    Source                                                      Amount ($ million)          Share of Total (%)
+    Asian Development Bank
+        Ordinary capital resources (regular loan)                     25.05                        21.93
+        Ordinary capital resources (concessional loan)                18.60                        16.29
+    European Investment Bank (loan)a                                  18.65                        16.33
+    Municipality of Ulaanbaatarb                                      51.90                        45.45
+                     Total                                           114.20                       100.00
+a The European Investment Bank is providing parallel collaborative cofinancing (not administered by the Asian
+  Development Bank) for water supply and sanitation of up to $60.30 million equivalent for the multitranche financing
+  facility investment program. If this cofinancing does not materialize as planned, the Government of Mongolia will
+  undertake necessary measures to substitute for the shortfall with suitable funding.
+b Includes value-added taxes and custom duties, which will be financed by the government through exemption.
+
+Source: Asian Development Bank estimates.
+
+22.     Climate mitigation is estimated to cost $1.12 million and climate adaptation is estimated
+to cost $12.17 million. ADB will finance $0.87 million (77.7%) of mitigation costs and $2.84 million
+(23.3%) of adaptation costs. Details are in the climate change assessment (Appendix 15).
+
+D.        Implementation Arrangements
+
+23.    The implementation arrangements are summarized in Table 3 and described in detail in
+the updated facility administration manual (Appendix 5).
+                                                                                                            7
+
+
+                       Table 3: Implementation Arrangements for Tranche 3
+ Aspects                                                       Arrangements
+ Implementation period            July 2020–December 2023
+ Estimated completion date        11 June 2023
+ Estimated loan closing date      11 December 2023
+ Management
+     (i) Oversight body           Steering committee (Mayor of Ulaanbaatar [chair]; and representatives
+                                  from the Ministry of Construction and Urban Development; Ministry of
+                                  Environment and Tourism; Ministry of Finance; Ministry of Labor and
+                                  Social Protection; Ministry of Education, Culture, Science and Sports;
+                                  and relevant departments of the Municipality of Ulaanbaatar [members])
+     (ii) Executing agency        Municipality of Ulaanbaatar
+     (iii) Key implementing       Project Management and Regulation Division under the Municipality of
+           agency                 Ulaanbaatar
+     (iv) Implementation unit     The Ulaanbaatar program management office was established under the
+                                  deputy governor in charge of infrastructure and ger areas development;
+                                  it has 27 staff
+ Procurement                      International competitive bidding 5 contracts              $44.36 million
+                                  National competitive bidding         10 contracts          $20.91 million
+ Consulting services              Quality- and cost-based              International:         $1.80 million
+                                  selection                            24 person-months
+                                                                       National:
+                                                                       57 person-months
+                                  Consultants’ qualifications          National: 68           $0.36 million
+                                  selection                            person-months
+ Advance contracting              Advance contracting is requested for the participatory urban planning
+                                  consulting services and civil works contracts for socioeconomic facilities.
+ Disbursement                     The loan proceeds will be disbursed following the Asian Development
+                                  Bank's Loan Disbursement Handbook (2017, as amended from time to
+                                  time) and detailed arrangements agreed between the government and
+                                  the Asian Development Bank.
+Source: Asian Development Bank.
+
+E.      Tranche Readiness
+
+24.      The draft feasibility study report for tranche 3 has been submitted and accepted by ADB,
+and all required due diligence has been conducted. The updated land acquisition and resettlement
+framework and environmental assessment and review framework, including the initial
+environmental examination and resettlement plan, were disclosed on the ADB website on
+8 April 2020. The consulting firms engaged under tranche 2 are preparing the detailed design and
+will update the resettlement plan for tranche 3.
+
+                                        IV.     DUE DILIGENCE
+
+A.      Technical
+
+25.    Technical design and specifications are based on the detailed design of tranches 1 and 2.
+They are in line with local plans produced by the MUB for the targeted locations and include
+comparative analyses, needs assessments, and design methods that promote best solutions for
+ger areas and for better structured and efficient urban development. Cold climate factor has been
+incorporated based on Mongolian and international standards. Heat production is based on the
+most environment-friendly solution currently in use. Green building features, such as solar panels
+and glass greenhouses, have been incorporated in some of the project facilities. Primary health
+8
+
+
+care center design follows the relevant Mongolian standard (MNS 5292:2017). Climate change
+assessment was conducted (Appendix 15) and includes responses to climate risk management
+measures, which will be incorporated in the detailed design.
+
+B.       Economic and Financial
+
+26.     Overall, the project is economically viable, with a total economic internal rate of return
+(EIRR) of 15.3%, higher than the 12.0% threshold rate used for consistency with the economic
+analyses for tranches 1 and 2. Investments in each project area are also found to be viable, with
+EIRRs of 16.8% in Sharkhad and 13.8% in Tolgoit. The individual subprojects were also found to
+be economically viable, except for the sewerage improvement subproject whose EIRR is below
+12.0% in both Sharkhad and Tolgoit. However, benefits for the sewerage and heating
+improvements subprojects are believed to be understated because the analysis does not
+incorporate communities’ willingness to pay for reliable sewerage and heating services. Sensitivity
+analyses show that subprojects remain largely viable under adverse scenarios, but are most
+sensitive to changes or delays in benefits as well as the worst-case scenario, wherein costs are
+increased and benefits decreased.
+
+27.     The financial analysis was conducted to assess the financial viability and sustainability of
+the project in accordance with ADB guidelines. 22 The financial evaluation of the revenue-
+generating heating subprojects results in a financial internal rate of return of 8.95%, exceeding
+the weighted average cost of capital of 1.94%. The sensitivity analysis indicates that the combined
+heating projects remain financially viable under all scenarios. When separately assessed, the
+Tolgoit heating subproject is most sensitive because of its higher investment cost. The financial
+sustainability analysis shows that the fiscal burden of the non-revenue-generating subprojects in
+relation to the government budget is negligible. However, the MUB is implementing several
+foreign-funded projects, including various ADB-funded projects and programs. Thus, to ensure
+the required counterpart financing is properly allocated and provided, an assurance is included in
+the loan and project agreements.
+
+28.      The affordability analysis indicates that the proposed combined tariffs of Ulaanbaatar city
+for water supply and sewerage services is $0.48 per cubic meter, similar to the willingness to pay
+in the Sharkhad and Tolgoit project areas. In addition, the households in these project areas are
+willing to pay $9.85 and $9.50 per month for improved heating services. The unified tariffs for
+clean water, wastewater, and heating services will not exceed 17.0% of the monthly income of
+the lowest-income households during winter. Except during winter, the household water and
+sewerage cost is 6.2% of the monthly income of the lowest-income households in the Sharkhad
+and Tolgoit project areas.
+
+C.       Governance
+
+29.    The project procurement risk assessment concludes that the MUB and program
+management office (PMO), through the implementation of tranches 1 and 2, have acquired
+experience in procurement and in managing ADB projects, in accordance with ADB policies and
+procedures as well as national laws and regulations. Through tranche 3 implementation, the MUB
+and PMO will continue to receive adequate practical knowledge and training support for
+procurement. The financial management risk is moderate. The MUB, which will administer the
+
+22 ADB. 2015. Financial Management Technical Guidance Note: Financial Management Assessment. Manila; ADB.
+
+    2005. Financial Management and Analysis of Projects. Manila; and ADB. 2009. Financial Due Diligence: A
+    Methodology Note. Manila.
+                                                                                                   9
+
+
+advance accounts, has sufficient experience in managing projects financed by multilateral
+agencies, including ADB. Although the implementing agency and PMO have financial
+management capacity and project management experience, a component to strengthen their
+capacity to implement tranche 3 in line with ADB policies and procedures is still required. The
+financial management assessment recommends mitigation and capacity development measures
+to be executed by the MUB and PMO during project preparation and implementation, including
+procurement of accounting software, updating of the financial management manual, and training
+of PMO financial management staff.
+
+30.    ADB's Anticorruption Policy (1998, as amended to date) was explained to and discussed
+with the government and the MUB. The specific policy requirements and supplementary
+measures are described in the updated facility administration manual (Appendix 5).
+
+D.      Poverty, Social, and Gender
+
+31.     Tranche 3 will directly benefit 15,799 residents in the Sharkhad and Tolgoit subcenters.
+Social development and gender action plans have been developed for tranche 3 (Appendix 13)
+to mitigate the social risks related to the project and to ensure the positive benefits of project
+components for vulnerable groups. A community action plan and stakeholders' communication
+strategy have also been prepared to strengthen community participation in the urban
+redevelopment process and communication with stakeholders. Social measures will be monitored
+through the project performance management system, project progress reports, and ADB review
+missions. Social and gender indicators will be included in the project performance management
+system, and consultant inputs will be provided for implementation and monitoring.
+
+32.      Gender. Tranche 3 is categorized effective gender mainstreaming. The project will have
+significant benefits for women and will allow them to participate in a behavioral change and
+awareness-raising campaign, capacity building, and decision-making. Women strongly support
+the project across all subprojects, and they perceive that the project will improve their quality of
+life and create education, employment, and income opportunities for them and their family
+members. The gender action plan prepared for tranche 3 (i) incorporates gender-sensitive actions
+in the design and operation of urban infrastructure and social facilities, including roads, community
+development and service centers, sports complex, kindergartens, primary health care center, and
+green public spaces; (ii) strengthens response and prevention services for victims of domestic
+violence and gender-based violence through at least two capacity building activities of five
+multidisciplinary teams comprising frontline service providers; (iii) increases community and
+service providers’ knowledge on gender inequality and the safety of girls and women through at
+least 10 public awareness-raising events in each subcenter, with at least 70% female participation;
+(iv) strengthens the role of women within the community-based organizations such as community
+development councils and subcenter development councils through empowerment and
+leadership in community-based organizations; and (v) supports the prevention of sexual
+harassment, exploitation, and abuse.
+
+E.      Safeguards
+
+33.    In compliance with ADB's Safeguard Policy Statement (2009), the project's safeguard
+categories are as follows. 23
+
+
+
+23 ADB. Safeguard Categories.
+10
+
+
+34.      Environment (category B). The initial environmental examination and environmental
+management plan for tranche 3 were prepared based on the feasibility study report, and were
+disclosed on the ADB website on 8 April 2020. A general environmental impact assessment for
+tranche 3 was issued by the Ministry of Environment and Tourism in October 2019, which
+concluded that tranche 3 is subject to detailed environmental impact assessment (DEIA) pursuant
+to the requirements of the Mongolian Law on Environmental Impact Assessment (2012). The draft
+DEIA has been prepared and is expected to be approved by the Ministry of Environment and
+Tourism after public consultation meetings at the khoroo (municipal subdistrict) level are
+conducted. 24 Approval of the DEIA is a prerequisite for starting the civil works. Potential
+environmental impacts, which are largely site-specific and short-term disturbances, are
+insignificant and reversible. Construction-related disturbances such as noise, dust, soil erosion,
+surface water sedimentation, solid and liquid waste pollution, worker camp disturbances, traffic
+safety, and worker and public safety can be managed with national standards and guidelines on
+construction practices. Operation-related disturbances such as increased traffic congestion, water
+consumption, wastewater, and waste can be managed by operational entities based on the
+operation and maintenance plan. Public consultation meetings that identified environmental
+issues and concerns, and appropriate impact mitigations, were conducted in June 2019 in
+Sharkhad and Tolgoit. The environmental assessment and review framework prepared for the
+entire investment program was updated and disclosed on the ADB website on 8 April 2020. The
+project implementation consulting team will develop and deliver training courses to MUB and PMO
+staff to strengthen their capacity to oversee and monitor contractors' implementation of the
+environmental management plan.
+
+35.     Involuntary resettlement (category A). The 2016 resettlement framework for the MFF
+has been updated based on the implementation experiences in tranche 1 and to reflect the
+changes in the national requirements. The updated resettlement framework for tranches 2 and 3
+is compliant with ADB’s Safeguard Policy Statement and does not lower the standards adopted
+in the 2016 resettlement framework. A land acquisition and resettlement plan (LARP) for the two
+tranche 3 subcenters has been prepared based on the feasibility designs and the updated
+resettlement framework. The LARP will be updated upon completion of the detailed designs of
+the subprojects. A total of 846 land parcels with a land area of 297,740 square meters will be
+affected, of which 474 will be fully affected. A total of 1,350 householdswill be affected, including
+1,324 residential households and 26 business entities; 1,270 of the 1,350 affected households
+will experience major impacts. 25 In addition to the 26 business entities, economic displacement
+impacts will occur to 87 residential households that have income-generating activities on their
+residential parcels. A total of 5,170 people are estimated to be affected. A social housing facility
+with 50 apartment units will be constructed under tranche 3 and will be utilized for relocation of
+affected households without legal title to the impacted properties. The institutional arrangements
+and grievance redress mechanisms for resettlement implementation established under tranche 1
+will be continued for tranche 3, with adequate enhancements incorporating tranche 1
+implementation experiences and lessons. While the PMO and MUB have the required capacity
+and staff with experience in implementing LARPs, ADB will continue its technical assistance
+programs for capacity building initiatives on livelihood restoration and the training of PMO, MUB,
+and Land Management Agency staff on the implementation of LARPs. The PMO will be supported
+by consultants on the preparation and implementation of LARPs. The MUB is committed to work
+closely with ADB to ensure compliance with ADB requirements on involuntary resettlement.
+
+24 Because of the outbreak of coronavirus disease, the government has suspended any public gathering of more than
+
+  eight people. The consultant will organize public consultations as soon as the moratorium is lifted.
+25 Affected households that (i) are physically displaced from housing or (ii) lose 10% or more of their productive assets
+
+  (income generating) are considered households with major impacts.
+                                                                                                      11
+
+
+36.     Indigenous peoples (category C). The indigenous peoples safeguard requirements are
+not triggered, as the population in the project areas does not include communities that could be
+treated as such under ADB’s Safeguard Policy Statement.
+
+F.      Summary of Risk Assessment and Risk Management Plan
+
+37.     There are no high or substantial risks identified for tranche 3. The overall risk assessment
+of the project is moderate, and the benefits and impact are expected to outweigh the costs.
+Significant risks and mitigating measures are summarized in Table 4 and described in detail in
+the risk assessment and risk management plan. 26
+
+                       Table 4: Summary of Risks and Mitigating Measures
+Risks                                                     Mitigation Measures
+Policy reforms are delayed or   The program will continue to support the development and
+prevented by political          implementation of a reform road map, and strengthen the awareness of
+interference                    the program stakeholders through a combination of high-level advocacy
+                                and awareness campaigns.
+Delays in commencement of       The program management office will ensure that requirements for
+civil works because of the long resettlement will be minimized through extensive community
+preparation period required for consultations during the detailed design of tranche 3 to reach a
+negotiated settlements with     consensus on the project scope and resettlement plans. Baselines for
+affected people                 land compensation for affected people will be agreed with the
+                                Municipality of Ulaanbaatar.
+Possibility of tranche 3 not    Tranche 2 project implementation consulting team is preparing a
+being completed by the end of detailed engineering design for tranche 3 and will continue to provide
+the multitranche financing      project implementation support for tranche 3. Resettlement plan
+facility validity period        updating will also be conducted under tranche 2. The Municipality of
+                                Ulaanbaatar has committed to provide adequate counterpart funds and
+                                human resources to complete tranche 3 in time for the Asian
+                                Development Bank’s project completion review in case it is not
+                                completed by end of the multitranche financing facility validity period.
+Source: Asian Development Bank.
+
+                                          V.       ASSURANCES
+
+38.     The government and the MUB have assured ADB that implementation of the project shall
+conform to all applicable ADB policies including those concerning anticorruption measures,
+safeguards, gender, procurement, consulting services, and disbursement as described in detail
+in the updated facility administration manual and loan documents.
+
+39.    The government and the MUB have agreed with ADB on certain covenants for the project,
+which are set forth in the loan and project agreements.
+
+                                  VI.    THE PRESIDENT'S DECISION
+
+40.     On the basis of the approval by ADB's Board of Directors for the provision of loans and
+grant under the multitranche financing facility in an aggregate principal amount not exceeding
+$163,700,000 equivalent to Mongolia for the Ulaanbaatar Urban Services and Ger Areas
+Development Investment Program, the President has approved the tranche as described in para.
+20 and such other terms and conditions as are substantially in accordance with those set forth in
+the draft loan and project agreements.
+
+26 The updated risk assessment and risk management plan is in Appendix 14.
+

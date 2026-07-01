@@ -1,0 +1,2110 @@
+                                                                                           PÚBLICO
+                                                                            DIVULGACIÓN SIMULTÁNEA
+
+
+                  DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                             ARGENTINA
+
+
+
+    LÍNEA DE CRÉDITO CONDICIONAL PARA PROYECTOS DE INVERSIÓN
+ (CCLIP), PARA EL PROGRAMA DE INTEGRACIÓN SOCIAL Y URBANA EN LA
+                    PROVINCIA DE BUENOS AIRES
+
+                                              (AR-O0012)
+
+      PRIMERA OPERACIÓN INDIVIDUAL BAJO LA CCLIP, PROGRAMA DE
+        INTEGRACIÓN SOCIAL Y URBANA EN EL GRAN BUENOS AIRES
+
+                                              (AR-L1288)
+
+
+
+
+                                    PROPUESTA DE PRÉSTAMO
+
+
+
+
+Este documento fue preparado por el equipo de proyecto integrado por: Martín Soulier Faure
+(CSD/HUD), Jefe de Equipo; Verónica Adler (CSD/HUD), Jefe de Equipo Alterno; Francisca Rojas,
+Catarina Mastellaro, Beatriz González, Mariana Poskus, Dianela Avila, Paloma Acevedo y Jessica
+Guzman (CSD/HUD); Gustavo Gonnelli y Jorge Oyamada (INE/WSA); Julieta Abad y Lynn Scholl
+(INE/TSP); Jennifer Doherty (CSD/CCS); Javier Reyes (IFD/ICS); Mariel Sabra (MIF/CAR);
+Claudia Vázquez (SCL/LMK); Andrea Monje (GDI/CAR); Maria Castro-Muñoz y Milagros Aimé
+(VPS/ESG); Analía La Rosa y Roberto Laguado (VPC/FMP); Viviana Maya (LEG/SGO); Cecilia
+Ares (CSC/CAR); Ana Maria Cuesta (SPD/SDV); y Andres Juan, Guadalupe Rojo, Fabian
+Schvartzer, Carolina Conde, Francisco Garcia Faure, Ramiro De Marco y Horacio Seillant
+(consultores).
+
+De conformidad con la Política de Acceso a Información el presente documento se divulga al público de forma
+simultánea a su distribución al Directorio Ejecutivo del Banco. El presente documento no ha sido aprobado
+por el Directorio. Si el Directorio lo aprueba con modificaciones, se pondrá a disposición del público una
+versión revisada que sustituirá y reemplazará la versión original.
+                                                       ÍNDICE
+
+
+
+
+RESUMEN DEL PROYECTO .......................................................................................... 1
+
+
+I.     DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS ........................... 3
+
+       A.      Antecedentes, Problemática y Justificación .................................................. 3
+       B.      Objetivos, Componentes y Costo ................................................................ 11
+       C.      Indicadores Claves de Resultados .............................................................. 13
+
+II.    ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS ................................. 14
+
+       A.      Instrumentos de Financiamiento ................................................................. 14
+       B.      Riesgos Ambientales y Sociales ................................................................. 16
+       C.      Riesgos Fiduciarios .................................................................................... 18
+       D.      Otros Riesgos del Proyecto ........................................................................ 18
+
+III.   PLAN DE IMPLEMENTACIÓN Y GESTIÓN ........................................................... 20
+
+       A.      Resumen de los Arreglos de Implementación ............................................. 20
+       B.      Resumen de los Arreglos para el Monitoreo de Resultados ........................ 21
+                                             - ii -
+
+
+
+                                         ANEXOS
+Anexo I     Matriz de Efectividad en el Desarrollo (DEM) - Resumen
+Anexo II    Matriz de Resultados
+Anexo III   Acuerdos y Requisitos Fiduciarios
+
+
+
+                    ENLACES ELECTRÓNICOS REQUERIDOS (EER)
+EER#1       Plan de Ejecución Plurianual (PEP) / Plan Operativo Anual (POA)
+EER#2       Plan de Monitoreo y Evaluación
+EER#3       Informe de Gestión Ambiental y Social (IGAS)
+EER#4       Plan de Adquisiciones
+
+
+
+                     ENLACES ELECTRÓNICOS OPCIONALES (EEO)
+EEO#1       Evaluación Económica
+EEO#2       Análisis del Cumplimiento de Política de Servicios Públicos (PUP)
+EEO#3       Análisis técnico de la muestra
+EEO#4       Análisis de capacidad de deuda
+EEO#5       Referencias Bibliográficas
+EEO#6       Análisis del Cumplimiento de Política CCLIP
+EEO#7       Borrador del Reglamento Operativo del Programa (ROP)
+EEO#8       Anexo de Contabilidad Cambio Climático
+EEO#9       Filtro de Política de Salvaguardias (SPF)
+                                    - iii -
+
+
+
+                                ABREVIATURAS
+BID     Banco Interamericano de Desarrollo
+CABA    Ciudad Autónoma de Buenos Aires
+CCLIP   Línea de Crédito Condicional para Proyectos de Inversión
+CO      Capital Ordinario
+DID     Diferencias en Diferencias
+DPOMyFB Dirección Provincial de Organismos Multilaterales y Financiamiento
+        Bilateral del Ministerio de Economía de la Provincia de Buenos Aires
+EIA     Evaluación de Impacto Ambiental y Social
+ESMR    Informe de Gestión Ambiental y Social
+ESS     Estrategia Ambiental y Social
+GBA     Gran Buenos Aires
+HTC     Honorable Tribunal de Cuentas
+IGAS    Informe de Gestión Ambiental y Social
+JGM     Jefatura de Gabinete de Ministros
+LPI     Licitación Pública Internacional
+LPN     Licitación Pública Nacional
+ME      Ministerio de Economía
+MIySP   Ministerio de Infraestructura y Servicios Públicos
+MJGM    Ministerio de Jefatura de Gabinete de Ministros
+MRI     Marco de Reasentamiento Involuntario
+OE      Organismo Ejecutor
+OPISU   Organismo Provincial de Integración Social y Urbana
+PA      Plan de Adquisiciones
+PBG     Producto Bruto Geográfico
+PEP     Plan de Ejecución Plurianual
+PBA     Provincia de Buenos Aires
+PMB     Programas de Mejoramiento de Barrios
+PME     Plan de Monitoreo y Evaluación
+PMR     Reporte de Monitoreo de Progreso
+POA     Plan Operativo Anual
+PR      Plan de Reasentamiento
+PROMEBA Programa de Mejoramiento de Barrios
+RENABAP Relevamiento Nacional de Barrios Populares
+ROP     Reglamento Operativo del Programa
+RPPVAP  Registro Público Provincial de Villas y Asentamientos Precarios
+SECI    Análisis de Capacidad Institucional
+TIRE    Tasa Interna de Retorno Económico
+UCEPO   Unidad de Coordinación y Ejecución de Proyectos de Obras del MIySP
+UCIBA   Unidad de Coordinación de Infraestructura Barrial del MIySP
+UEPEX   Sistema de Gestión de Unidades Ejecutoras de Préstamos Externos
+VAN     Valor Actual Neto
+                                RESUMEN DEL PROYECTO
+                                       ARGENTINA
+ LÍNEA DE CRÉDITO CONDICIONAL PARA PROYECTOS DE INVERSIÓN (CCLIP) PARA EL PROGRAMA
+            DE INTEGRACIÓN SOCIAL Y URBANA EN LA PROVINCIA DE BUENOS AIRES
+                                      (AR-O0012)
+ PRIMERA OPERACIÓN INDIVIDUAL BAJO LA CCLIP PROGRAMA DE INTEGRACIÓN SOCIAL Y URBANA
+                               EN EL GRAN BUENOS AIRES
+                                      (AR-L1288)
+                                         Términos y Condiciones Financieras
+Prestatario: Provincia de Buenos Aires (PBA)                           Facilidad de Financiamiento Flexible(a)
+                                                             Plazo de amortización:                25 años
+Garante: República Argentina                                 Período de desembolso:                4 años
+                                                             Período de gracia:                    5,5 años (b)
+Organismo Ejecutor: Ministerio de Jefatura de Gabinete Tasa de interés:                            Basada en LIBOR
+a través del Organismo Provincial de Integración Social                                            (c)
+Urbana (OPISU)                                          Comisión de crédito:
+                                                             Comisión de inspección y              (c)
+             Monto CCLIP         Monto Primera
+ Fuente                                               %      vigilancia:
+                (US$)           Operación (US$)
+
+BID                                                          Vida Promedio Ponderada               15,25 años
+              400.000.000          100.000.000         90
+(CO):                                                        (VPP):
+Local:          44.500.000          11.150.000         10    Moneda de aprobación:                 Dólares de los Estados
+                                                                                                   Unidos de América
+Total:        444.500.000          111.150.000        100
+
+                                                  Esquema del Proyecto
+Objetivo del proyecto/descripción: El objetivo general de la CCLIP y de su primera operación es contribuir a mejorar
+las condiciones de vida de la población de las villas, asentamientos precarios y conjuntos habitacionales de la Provincia
+de Buenos Aires (PBA) a través de intervenciones de integración social y urbana. Los objetivos específicos de la
+primera operación son: (i) fortalecer y apoyar a los gobiernos locales y provincial en la planificación, gestión y ejecución
+de proyectos integrales de intervención y regularización de barrios informales; (ii) mejorar el acceso y facilitar el uso
+de servicios básicos, infraestructura urbana resiliente, espacio público, equipamiento comunitario y servicios del estado
+destinados a los habitantes de los barrios integrándolos a la trama urbana municipal; y (iii) fortalecer el capital social,
+potenciar oportunidades de desarrollo comunitario social, laboral y productivo y mejorar las condiciones de
+habitabilidad y tenencia.
+Condiciones contractuales especiales previas al primer desembolso del financiamiento: Presentar evidencia de
+la entrada en vigencia del Reglamento Operativo del Programa (ROP) y sus respectivos anexos, de conformidad con
+los términos previamente acordados con el Banco (¶3.3). Adicionalmente el prestatario deberá cumplir las condiciones
+contractuales especiales previas al primer desembolso previstas en el Informe de Gestión Ambiental y Social (IGAS) -
+Anexo B.
+Condiciones contractuales especiales de ejecución: Presentar evidencia, a satisfacción del Banco: (i) para la
+ejecución del Componente II, de la vigencia de un convenio entre Organismo Provincial de Integración Social y Urbana
+(OPISU) y el Ministerio de Infraestructura y Servicios Públicos (MIySP); y (ii) para la ejecución de las obras de
+prestación de servicios del Componente II, la vigencia de convenios firmados entre OPISU y el/los prestador/es de
+dichos servicios (¶1.20) (¶3.3). Adicionalmente el prestatario deberá cumplir las condiciones contractuales especiales
+de ejecución previstas en el Informe de Gestión Ambiental y Social (IGAS) – Anexo B.
+Excepciones a las políticas del Banco: Se solicita una dispensa a las disposiciones de los incisos (i), (ii) y (iii) de la
+sección 1.19 de la Política CCLIP GN-2246-9, respecto a OPISU, que no posee experiencia previa en la ejecución de
+programas con organismos internacionales dado que fue recientemente creada para liderar la urbanización de barrios
+populares de la PBA (¶2.1).
+                                                                   -2-
+
+
+
+                                                          Alineación Estratégica
+
+ Desafíos(d):                                        SI                               PI                               EI
+
+
+ Temas Transversales(e):                            GD                              CC                                IC
+ (a)
+       Bajo los términos de la Facilidad de Financiamiento Flexible (documento FN-655-1) el Prestatario tiene la opción de solicitar
+       modificaciones en el cronograma de amortización, así como conversiones de moneda, de tasa de interés y de productos básicos.
+       En la consideración de dichas solicitudes, el Banco tomará en cuenta aspectos operacionales y de manejo de riesgos.
+ (b)
+       Bajo las opciones de reembolso flexible de la Facilidad de Financiamiento Flexible (FFF), cambios en el periodo de gracia son
+       posibles siempre que la Vida Promedio Ponderada (VPP) Original del préstamo y la última fecha de pago, documentadas en el
+       contrato de préstamo, no sean excedidas.
+(c)
+       La comisión de crédito y la comisión de inspección y vigilancia serán establecidas periódicamente por el Directorio Ejecutivo como
+       parte de su revisión de los cargos financieros del Banco, de conformidad con las políticas correspondientes.
+(d)
+       SI (Inclusión Social e Igualdad); PI (Productividad e Innovación); y EI (Integración Económica).
+(e)
+       GD (Igualdad de Género y Diversidad); CC (Cambio Climático y Sostenibilidad Ambiental); y IC (Capacidad Institucional y Estado
+       de Derecho).
+                                                           -3-
+
+
+
+
+                    I.    DESCRIPCIÓN DEL PROYECTO Y MONITOREO DE RESULTADOS
+
+        A.       Antecedentes, Problemática y Justificación
+
+        1.1      La Provincia de Buenos Aires (PBA) es la provincia más extensa y poblada de
+                 Argentina. Según datos del censo1, en la PBA habita un tercio (15,6 millones) de
+                 la población del país, con dos tercios concentrada en 24 municipios del Gran
+                 Buenos Aires (GBA), que forma parte del principal aglomerado urbano del país2.
+                 El 26% de los 4,7 millones de hogares de la PBA presentan algún tipo de déficit
+                 habitacional, concentrándose su gran mayoría (72%) en el GBA, donde 392.000
+                 familias (13,4%) presentan déficit cuantitativo y 960.000 (32,7%) cualitativo3 [2].
+                 Los valores del GBA están por encima del promedio de los déficits habitacionales
+                 del país (10,3% y 28,6%, respectivamente).
+
+        1.2      Según datos del año 2015 del Registro Público Provincial de Villas y
+                 Asentamientos Precarios (RPPVAP)4, los hogares con déficit habitacional de la
+                 PBA se concentran en 1.579 barrios informales o vulnerables donde residen
+                 aproximadamente 418.000 familias sin seguridad dominial y con escaso acceso a
+                 servicios públicos. En la PBA, de acuerdo a la Ley Provincial 14.449 de Acceso
+                 Justo al Hábitat, los barrios informales o vulnerables se clasifican principalmente
+                 como: (i) villas, refiriéndose a ocupaciones de terrenos públicos o privados con
+                 tramas urbanas irregulares y de alta densidad, viviendas construidas con
+                 materiales precarios, alta densidad poblacional, escaso o nulo espacio verde e
+                 infraestructura autoprovista; y (ii) asentamientos precarios, refiriéndose a
+                 ocupaciones con trazados más regulares y menor densidad, localizados
+                 típicamente en la periferia urbana5. En el GBA se encuentran 328.000 de esos
+                 hogares, agrupados en 965 barrios informales (317 villas, 470 asentamientos
+                 precarios y 178 conjuntos habitacionales y otros).
+
+        1.3      El Organismo Provincial de Integración Social y Urbana (OPISU) establece las
+                 siguientes tipologías con el propósito de definir criterios para las intervenciones
+                 de regularización de barrios informales:
+
+
+
+
+1       Censo 2010.
+2       El Área Metropolitana de la Ciudad de Buenos Aires (AMBA) es la región comprendida por la Ciudad Autónoma
+        de Buenos Aires (CABA) y 24 municipios de PBA que rodean a la CABA, denominados GBA o conurbano
+        bonaerense. (Ver EEO#5 Referencias Bibliográficas [1]).
+3       El déficit cuantitativo es la demanda de vivienda no atendida por la formación de nuevos hogares, los que
+        comparten vivienda y los hogares cuyas viviendas deben ser remplazadas. El déficit cualitativo representa los
+        hogares con viviendas de materiales precarios o carencia de servicios básicos [3].
+    4   Creado en el marco de la Ley Provincial 14.449 de Acceso Justo al Hábitat.
+    5   El Gobierno de la PBA identifica también variantes más complejas entre las que se incluyen grandes conjuntos
+        habitacionales de vivienda social colectiva construidos por el Estado hasta la década del ochenta que presentan
+        en la actualidad alto grado de obsolescencia de su infraestructura.
+                                               -4-
+
+
+
+                    Cuadro 1. Tipología de Barrios Vulnerables en Gran Buenos Aires
+        Tipología        Escala     Ubicación                Morfología                  Ejemplos
+        de barrio      (familias)                                                  (nombre, municipio)
+       Mega            >3.000                        Villa y/o asentamiento en   La Cava, San Isidro (*)
+                                                     zona urbana (de 200 a       Costa Esperanza/ Costa
+                                                     400 /hab por hectárea)      del Lago/8 de mayo, San
+                                                                                 Martín (*)
+                                                                                 Itatí, Quilmes
+       Mediano/        <750         Primer y         Villa                       Porá, Lanús (*)
+       pequeño                      segundo                                      El Garrote, Tigre
+                                    cordón GBA                                   Puerta de Hierro/San
+                                                                                 Petersburgo,
+                                                                                 La Matanza
+       Borde           ~1.000       Tercer          Asentamiento en periferia    Libertad/Don      Orione,
+                                    cordón GBA      urbana                       Almirante Brown (*)
+        Conjunto         ~3.000                     Grandes        conjuntos     Carlos Gardel, Morón
+        habitacional                                habitacionales        de
+        (80 en GBA)                                 vivienda colectiva con
+                                                    redes de infraestructura
+                                                    degradadas
+      (*) Barrios priorizados para esta operación. Fuente: OPISU.
+
+1.4   En el Mapa 1 se puede observar la ubicación de los 24 municipios del GBA
+      (alcance geográfico de esta primera operación individual) y de los barrios
+      vulnerables priorizados por OPISU como ejemplos de las tipologías mencionadas.
+
+                          Mapa 1. Alcance geográfico de la operación AR-L1288
+
+
+
+
+       Fuente: Elaboración propia con base a Observatorio Metropolitano.
+                                                     -5-
+
+
+
+1.5       Los hogares de barrios populares6 del GBA presentan un 32% de acceso formal
+          al servicio eléctrico, 11% de acceso formal a la red de agua potable y 3% a la red
+          cloacal. Los barrios vulnerables relevados por el RPPVAP en el GBA presentan
+          déficits de recolección de residuos (49% sin recolección regular), de alumbrado
+          público (55% sin cobertura), de pavimentación (44% sin pavimentar) y de desagüe
+          pluvial (48% sin cobertura). Los barrios que carecen de alumbrado adecuado y de
+          aceras de calidad, por ejemplo, generan condiciones menos seguras para
+          mujeres, niños y personas de la tercera edad, limitando su movilidad y
+          accesibilidad [4]. Solo 7% y 9% de estos barrios cuentan con jardín de infantes y
+          salas médicas respectivamente, 30% posee una parada de ómnibus dentro de sus
+          límites y el 76% se encuentra a más de 1km de una estación de ferrocarril, lo que
+          dificulta el acceso a empleos, servicios de salud y educación. En el barrio de Costa
+          Esperanza (muestra de esta operación), en el partido de San Martin, el 30,6% de
+          los hogares estuvieron afectados con enfermedades respiratorias durante el
+          último año, el 15,4% con problemas de piel u ojos y el 14,4% con diarrea y/o
+          parasitosis7.
+
+1.6       Las condiciones ambientales también son críticas: una muestra de 274 barrios
+          informales realizada por Techo en 2016 amplia el diagnóstico, al indicar que
+          42% de los barrios se inundan por lo menos una vez al año debido a la falta de
+          infraestructura básica o por su ubicación debajo de las cotas establecidas como
+          aptas para uso residencial, 64% no cuenta con arbolado público y 21% está
+          ubicado a menos de cien metros de un basural [5]. En lo social, el RENABAP
+          identificó que en los barrios de la PBA sólo el 18% de los adultos cuenta con
+          empleo formal (denominado en blanco8) y 23% se encuentra desocupado. No
+          obstante que en un 65% de los barrios existen organizaciones para el desarrollo
+          comunitario, solo 17% de estos barrios cuentan con equipamiento comunitario
+          (como centros deportivos, escuelas o guarderías) y 13,8% con una plaza o
+          parque, lo que dificulta la asociatividad y la convivencia entre vecinos, resultando
+          en una baja cohesión social. Según Techo, el mayor problema para la población
+          de los asentamientos del GBA es la falta de: (i) acceso a servicios (30,2%);
+          (ii) seguido por la inseguridad (18%); (iii) la falta de pavimentación (14,4%); (iv) el
+          consumo de droga, alcohol y/o tabaco (9,9%); y (v) y la carencia de alumbrado
+          (5,2%). En el mismo relevamiento, dos tercios de la población manifiesta que la
+          policía entra siempre al barrio, un 23,4% que “a veces” y un 10,2% que “nunca”.
+          Solo en el 1,3% de los barrios funciona una comisaría.
+
+1.7       Los procesos de urbanización informal son resultado de la insuficiente respuesta
+          del mercado formal al crecimiento de la demanda habitacional, especialmente en
+          los segmentos de menores ingresos. Los hogares argentinos de los dos quintiles
+          más bajos de la población enfrentan restricciones financieras y de ingresos para
+          comprar, refaccionar y/o alquilar viviendas de calidad. El acceso al crédito se
+          dificulta debido a: (i) el bajo grado de desarrollo del mercado de crédito
+          hipotecario; (ii) la volatilidad de los ingresos de los trabajadores en condiciones
+          precarias o informales; y (iii) la baja disponibilidad de garantías para las familias
+
+6     El Relevamiento Nacional de Barrios Populares (RENABAP) del 2018 define un barrio popular como aquel
+      reúne al menos a ocho familias agrupadas o contiguas, donde más de la mitad de la población no cuenta
+      con título de propiedad del suelo, ni acceso regular a por lo menos dos de tres de los servicios básicos (red
+      de agua corriente, red de energía eléctrica con medidor domiciliario y/o red cloacal).
+7     Universidad Nacional de Avellaneda (UNDAV), 2012.
+8     Es decir que trabajan de acuerdo a las leyes labores y es un trabajo registrado.
+                                                     -6-
+
+
+
+          de menores ingresos. Por lo tanto, la autoconstrucción de vivienda constituye la
+          forma general de acceso a la vivienda de la población no atendida por el mercado
+          formal. A su vez, los municipios no cuentan con el presupuesto o herramientas de
+          planificación y gestión territorial para anticipar o atender la demanda de
+          infraestructura básica que genera la autoconstrucción9 u orientar el desarrollo de
+          su territorio, generando así un crecimiento descontrolado y altos índices de
+          informalidad [19]. Por otra parte, gran parte de los municipios carece de recursos
+          humanos capacitados, la información necesaria, y las herramientas tecnológicas
+          para analizar y hacer seguimiento a su dinámica territorial [20].
+
+1.8       Consideraciones de género. Argentina tiene niveles relativamente altos de
+          tenencia informal10, situación que afecta desproporcionadamente a las mujeres.
+          La menor participación en el trabajo remunerado de las mujeres se relaciona con
+          la elevada carga del trabajo doméstico y se traduce en menor autonomía
+          económica y dificultades en acceder al mercado formal de vivienda11. Según datos
+          de la Encuesta Anual de Hogares Urbanos de 2013, la tasa de participación
+          femenina en el trabajo doméstico no remunerado en la PBA es de 88% versus
+          59% de los hombres. De acuerdo con el RENABAP, en los barrios informales del
+          GBA, el 61% de las mujeres son jefes de hogar (sustento económico del hogar).
+          Sin embargo, a nivel mundial las mujeres representan solo 20% de los dueños de
+          propiedad [6]. La inseguridad de la tenencia aumenta la dependencia de los
+          hombres, lo que puede disuadirlas de dejar relaciones violentas por miedo a
+          quedarse sin lugar donde vivir [7]. Respecto a la violencia de género, los ocho
+          municipios de GBA priorizados por OPISU registran un número elevado de
+          llamadas a la línea 14412.
+
+1.9       Consideraciones de cambio climático. Debido a su ubicación geográfica,
+          condiciones socioeconómicas e infraestructura deficitaria, los habitantes de los
+          barrios informales tienen una mayor exposición y vulnerabilidad ante los efectos
+          del cambio climático [8]. En Argentina, durante el periodo 1960-2010, se observó
+          un aumento de la temperatura media de alrededor de 0,5°C, un aumento de las
+          precipitaciones medias en casi todo el territorio nacional (especialmente al este) y
+          una duplicación de los días con olas de calor [21]. En el GBA, durante la ola de
+          calor experimentada entre diciembre de 2013 y enero de 2014 se produjeron
+          500 muertes [22]. La población en riesgo de inundaciones en la PBA alcanza el
+          7% (1,1 millones de habitantes en un 19% del territorio) y casi un 50% de la
+          población con alta vulnerabilidad social [23]. Con el fin de aumentar su resiliencia,
+          Argentina está implementando planes de adaptación locales como parte de su
+          Contribución Determinada a nivel Nacional (NDC, por sus siglas en ingles),
+          instrumento clave de planificación para identificar amenazas y proponer
+
+
+
+9     Los municipios en Argentina ejecutan solo el 13,2% del total del gasto público consolidado, insuficiente para
+      cubrir el 86% de los costos de la prestación de servicios básicos [7].
+10    Dentro los hogares de los dos quintiles de ingresos inferiores, 9,3% tienen tenencia informal de la vivienda,
+      superior a Brasil (4,3%), Chile (1,7%) y Paraguay (2,3%) [8].
+11    En Argentina, de las parejas en los quintiles de menores recursos, el 38% de las cónyuges no disponen de
+      ingresos propios y la proporción de mujeres que están insertas en el mercado laboral es 27%, contra el 46%,
+      de los hombres [9].
+12    La línea 144 es una línea gratuita que brinda contención y asesoramiento ante situaciones de violencia de
+      género. La tasa de llamadas cada 10.000 mujeres fue etiquetada como alta en cinco de los ocho barrios
+      priorizados por OPISU y como media en los 3 restantes (OPISU, datos 2017).
+                                                   -7-
+
+
+
+          soluciones de diseño y construcción resiliente en las zonas con mayor potencial
+          de afectación.
+
+1.10      Normativa. En 2012, la PBA promulgó la Ley 14.449 de Acceso Justo al Hábitat
+          para promover un hábitat digno y sustentable, atendiendo a las necesidades de la
+          población más vulnerable, esta busca facilitar la gestión de proyectos
+          habitacionales, urbanizaciones y procesos de regularización en los barrios
+          informales, estableciendo que su aplicación es responsabilidad conjunta de la
+          PBA y de los municipios. El 1 de enero de 2018, la Ley Provincial de Ministerios
+          14.989 crea el OPISU como una entidad autárquica de derecho público, en la
+          órbita del Ministerio de la Jefatura de Gabinete de Ministros, designándola entidad
+          responsable de implementar lo dispuesto en el Artículo 27 de la Ley 14.449, que
+          determina llevar adelante procesos de regularización integrales en barrios
+          informales entendidos como: “el conjunto de acciones que de forma progresiva,
+          integral y participativa, incluyan, entre otras, la construcción, mejora y ampliación
+          de viviendas, del equipamiento social y de la infraestructura, el acceso a los
+          servicios, el tratamiento de los espacios libres y públicos, la eliminación de
+          barreras urbanas, cuando existieran, la mejora en la accesibilidad y conectividad,
+          el saneamiento y mitigación ambiental, el redimensionamiento parcelario y la
+          regularización dominial”.
+
+1.11      Justificación y metodología. Una CCLIP resulta el instrumento pertinente para
+          apoyar los objetivos estratégicos de mediano plazo del gobierno de la PBA para
+          mejorar la calidad de vida en villas, asentamientos precarios y conjuntos
+          habitacionales de la PBA, ya que permite la implementación de la normativa
+          vigente, la provisión de un marco técnico de trabajo continuo en el tiempo que
+          posibilite acompañar todo el proceso desde el desembarco en el barrio hasta la
+          titulación y la disponibilidad de recursos de financiamiento en forma oportuna. La
+          línea CCLIP propuesta apoyará el desarrollo de estrategias de regularización e
+          integración social y urbana de barrios informales, permitiendo la prestación de
+          servicios básicos y sociales de calidad. La estrategia prevé que la CCLIP y los
+          programas que serán parte de la CCLIP atenderán de manera gradual e integral
+          las distintas tipologías de barrios que conforman la demanda relevada, generando
+          políticas públicas integrales vinculadas a la gestión urbana y social de barrios
+          vulnerables que puedan ser expandidas a toda la Provincia.
+
+1.12      La primera operación de la CCLIP, planteada como una operación de obras
+          múltiples con proyectos físicamente similares pero independientes entre sí,
+          permitirá relevar y sistematizar buenas prácticas para el abordaje de la
+          problemática, incorporar aprendizajes a través de las experiencias, y recomendar
+          ajustes en la operatoria de las siguientes operaciones. Esta primera operación
+          financiará el diseño (plan maestro) de al menos cuatro proyectos integrales de
+          regularización de barrios informales e intervenciones resultantes en al menos dos
+          de ellos, de forma de apoyar el desarrollo de estrategias de intervención
+          adecuadas para cada tipología de barrio identificado en el Cuadro 113. De esta
+          forma, el programa construirá capacidad en la PBA para: (i) aplicar un modelo de
+          gestión que articule los actores relevantes, incluyendo ministerios, municipios,
+
+
+13   Para ello se complementarán las lecciones aprendidas con otras resultantes de las intervenciones llevadas
+     adelante por OPISU en el resto de los barrios vulnerables priorizados.
+                                                  -8-
+
+
+
+          entes metropolitanos, sociedad civil y sector privado14; (ii) localizar y cruzar
+          políticas de inclusión social y desarrollo productivo teniendo en cuenta las
+          necesidades específicas de las mujeres; y (iii) implementar estrategias de diseño
+          urbano resiliente al cambio climático y que promuevan la igualdad de género. Con
+          base a los criterios de intervención que se desarrollarán a través de este programa
+          para cada tipología de barrio, OPISU escalará su actuación para atender la
+          regularización de barrios informales en toda la PBA. La Figura 1 refleja la teoría
+          del cambio que sustenta la lógica del programa.
+
+                                      Figura 1. Teoría del Cambio
+
+
+
+
+1.13      La integralidad de la intervención también se sustenta en la evidencia
+          internacional reflejada en el Marco Sectorial de Desarrollo Urbano y Vivienda15,
+          basado en los principios para el desarrollo de políticas y programas del sector:
+          (i) intervenciones multisectoriales con integralidad territorial, diseñadas en función
+          de las características específicas de un territorio; (ii) intervenciones sostenibles y
+          efectivas, considerando el impacto de corto y largo plazo en la sociedad,
+          medioambiente, las finanzas públicas, y la gobernabilidad urbana; y
+          (iii) intervenciones focalizadas en el ciudadano, mejorando la calidad de vida e
+          inclusión en las actividades productivas de los hogares urbanos, especialmente
+          de los más vulnerables. También sostiene que las evaluaciones sin atribución
+          causal de los programas de mejoramiento de barrios son positivas respecto al
+          acceso y cobertura de servicios básicos, salud, educación, satisfacción con las
+          condiciones de vida y seguridad, y valorización de la vivienda.
+
+14   Se plantea articulación de OPISU con sociedad civil y el sector privado para potenciar actividades del
+     Componente III “Gestión Social y Desarrollo Comunitario”, incluyendo mesas de gestión comunitarias y
+     proyectos de desarrollo productivo.
+15   Algunos relevamientos mencionados en el Marco Sectorial de Desarrollo Urbano y Vivienda.
+                                                    -9-
+
+
+
+1.14       La evidencia rigurosa de la efectividad de los programas de mejoramiento de
+           barrios es escasa, sin embargo, existe evidencia que muestra la efectividad de
+           algunos aspectos parciales de las intervenciones de mejoramiento de barrios en
+           la calidad de vida de los habitantes. Por ejemplo, una evaluación de impacto en
+           Argentina detectó que la mejora en la provisión de agua generó una reducción del
+           8% en la mortalidad infantil [10]; estudios en México [11] y Brasil [12] mostraron
+           que pavimentar las calles mejora la inversión en la vivienda, los resultados
+           laborales y un aumento en la calidad de vida de los residentes; espacios públicos
+           y verdes bien diseñados y mantenidos generan beneficios ambientales [12],
+           mejoran la salud física y mental [13], aumentan la recaudación municipal [14] y
+           disminuye la probabilidad de que los jóvenes se involucren en actividades de
+           riesgo [15]. Con respecto a los efectos de la titulación de las propiedades,
+           evidencia en Argentina [16] y Perú [17] muestra que la entrega de títulos de
+           propiedad aumenta la inversión en la vivienda, la educación de los hijos y el
+           acceso a mercados de crédito, lo que es especialmente importante cuando se
+           realiza a nombre de mujeres, constituyéndose en un factor clave para la
+           promoción la igualdad de género16.
+
+1.15       Uno de los principales desafíos de esta metodología integral se refiere a la
+           posibilidad de que estos programas incentiven la urbanización informal, dado que
+           incrementan beneficios esperados de las invasiones de tierras fiscales (Abramo,
+           2003). En general, los programas integrales de infraestructura urbana son
+           programas remediales, que no inciden directamente en las causas del problema,
+           sino que tratan de aliviar las condiciones ya existentes y deben combinarse con
+           otras políticas dirigidas a la prevención de la conformación de asentamientos17.
+
+1.16       Lecciones Aprendidas. El diseño de la CCLIP y su primera operación incorpora
+           lecciones aprendidas a partir de la ejecución de operaciones que el Banco ha
+           apoyado en Argentina y otros países de Latinoamérica y el Caribe (LAC). El
+           programa avanza en las estrategias de reurbanización in situ de asentamientos
+           informales que se vienen desarrollando en Argentina desde 1997 a través de los
+           Programas de Mejoramiento de Barrios (PROMEBA: AR-X1004; AR-0262;
+           1307/OC-AR; 1842/OC-AR) cuyos ejes incluyen: (i) la provisión de infraestructura
+           urbana, equipamiento comunitario y saneamiento ambiental; (ii) la regularización
+           de la propiedad de la tierra; y (iii) el desarrollo comunitario [3,13]. Este programa
+           incorpora especialmente lecciones aprendidas en la ejecución de los PROMEBA
+           en cuanto a: (i) plantear las intervenciones sobre áreas de gran extensión en forma
+           de etapas, de forma de utilizar eficazmente el presupuesto anual disponible,
+           generar en conjunto con la comunidad los abordajes y cambios culturales
+           necesarios y aprovechar instrumentos de financiamiento de mediano plazo como
+           la CCLIP para generar los proyectos requeridos para futuras etapas o nuevas
+           intervenciones; (ii) la necesidad de disminuir los tiempos de titulación, a través de
+           estrategias de abordaje y acompañamiento social continuo en conjunto con los
+           municipios y la realización de acuerdos con organismos de nivel provincial que
+           participan del proceso; y (iii) mejorar la confianza y participación de los vecinos en
+           los procesos de integración barrial, a través de estrategias de desembarco físico
+
+16     Las mujeres con titulación de la propiedad se sienten más empoderadas para abandonar relaciones abusivas
+       y situaciones de violencia doméstica y facilita su acceso al crédito [18].
+17     Si bien esta primera operación no lo contempla, se encuentra abierta la posibilidad de incluir en futuras
+       operaciones bajo esta CCLIP acciones dirigidas a abordar las causas de la formación de asentamientos,
+       como pueden ser pilotajes de mejora de oferta y demanda de vivienda social.
+                                                  - 10 -
+
+
+
+          territorial de alto impacto, incluyendo la realización de obras de confianza con
+          anterioridad al diseño final de los planes maestros. Lecciones aprendidas de los
+          PROMEBA destacan también la sostenibilidad de intervenciones que fomentan
+          procesos participativos y que involucran a los municipios en la formulación y
+          gestión de proyectos.
+
+1.17      En 2017 el Programa de Integración Urbana e Integración Social y Educativa de
+          la Ciudad Autónoma de Buenos Aires (AR-L1260; 4303/OC-AR) sumó a las
+          estrategias de los PROMEBA los ejes de mejoramiento de viviendas, para abarcar
+          más eficazmente el déficit habitacional, y el desarrollo de estrategias de
+          productividad laboral para vincular los habitantes de barrios informales a los
+          beneficios de las economías urbanas. Este programa recoge las lecciones
+          aprendidas en esta experiencia en cuanto a: (i) la necesidad de realizar un
+          diagnóstico exhaustivo y pormenorizado de las condiciones de cada vivienda del
+          barrio; (ii) la posibilidad de aprovechamiento de las capacidades de
+          autoconstrucción de la población (especialmente extranjera) mediante estrategias
+          de entrega de materiales y de pago mediante provisión de servicios; y
+          (iii) estrategias de vinculación laboral con actividades del entorno urbano, de
+          capacitación e introducción de nuevas tecnologías para formalización de
+          actividades.
+
+1.18      Esta primera operación también generará conocimiento entorno al desarrollo de
+          proyectos de diseño estratégico-urbano que serán resilientes al cambio climático
+          y adaptadas a cada tipología de barrios y sus déficits ambientales y de
+          habitabilidad, aplicará estrategias asociativas multinivel (comunidad, municipio,
+          provincia) para establecer procesos de planificación participativos, y fortalecerá la
+          perspectiva de género. OPISU también se encuentra incorporando lecciones
+          aprendidas de la ejecución del Proyecto de Transformación Urbana del Área
+          Metropolitana de Buenos Aires (operación del Banco Internacional de
+          Reconstrucción y Fomento - BIRF 8707-AR18) que está dirigido a la integración
+          social y urbana del primero de los barrios priorizados por la PBA (Carlos Gardel,
+          en Morón). La organización para la ejecución de esta operación, los actores
+          participantes y los instrumentos de gestión han sido beneficiados de esta
+          experiencia anterior.
+
+1.19      Alineación Estratégica. El programa es consistente con la Actualización de la
+          Estrategia Institucional - UIS 2010-2020 (AB-3008) y con el Marco de Resultados
+          Corporativos 2016-2019 (GN-2727-6) a través del desafío de Inclusión Social e
+          Igualdad, mediante la reducción del déficit de vivienda y la ampliación del acceso
+          a los servicios urbanos para todos los segmentos de la población. Se alinea con
+          los temas transversales de: (i) Equidad de Género y Diversidad, a través del
+          desarrollo de espacios públicos seguros y la titulación; (ii) Cambio Climático: el
+          40,9% de los recursos de la operación se invierten en actividades de mitigación y
+          adaptación al cambio climático, según la metodología conjunta de los BMD de
+          estimación de financiamiento climático, contribuyendo a la meta del Grupo BID de
+          aumentar el financiamiento de proyectos relacionados con el cambio climático a
+          un 30% de todas las aprobaciones de operaciones a fin de año 2020; y
+          (iii) Capacidad Institucional y Estado de Derecho, mediante las acciones de
+          fortalecimiento comprendidas en el Componente I. Asimismo, se alinea con la
+18   Aprobado por Directorio en febrero 2017 y efectivo desde marzo 2018.
+                                                 - 11 -
+
+
+
+           Estrategia Integrada de Mitigación y Adaptación al Cambio Climático, y de Energía
+           Sostenible y Renovable (GN-2609-1) y la Estrategia Sectorial sobre Instituciones
+           para el Crecimiento y el Bienestar Social (GN-2587-2). Adicionalmente, es
+           consistente con el Marco Sectorial de Desarrollo Urbano y Vivienda (GN-2732-6)
+           de acuerdo a lo especificado en ¶1.13, el Marco Sectorial de Cambio Climático
+           (GN-2835-8; EEO#8), el Marco Sectorial de Género y Diversidad (GN-2800-8) al
+           apoyar acciones específicamente dirigidas al empoderamiento de la mujer y con
+           la Estrategia de País con Argentina 2016-2019 (GN-2870-1) por su contribución
+           al eje prioritario de reducción de la pobreza y la desigualdad, así como con su
+           objetivo estratégico de mejoramiento del hábitat y acceso a servicios básicos,
+           especialmente para regiones de menores ingresos, como el conurbano
+           bonaerense. La primera operación se encuentra incluida en el Informe sobre el
+           Programa de Operaciones 2019 (GN-2948).
+
+1.20       Cumplimiento con la Política de Servicios Públicos Domiciliarios (PUP)
+           (GN-2716-6). De acuerdo con el análisis realizado (EEO#2), el programa cumple
+           con las condiciones de sostenibilidad financiera y evaluación económica de la
+           política y es coherente con sus principios. Para asegurar la sostenibilidad de la
+           inversión, la PBA firmará, como condición contractual especial de ejecución de las
+           obras de prestación de servicios del Componente II, convenios con el/los
+           prestador/es de dichos servicios19 para: (i) acordar que el prestador asumirá su
+           mantenimiento; (ii) garantizar la calidad de la prestación del servicio según lo
+           establecido en las normas regulatorias existentes; y (iii) acordar el cargo tarifario
+           para cubrir los costos de operación, mantenimiento y depreciación de la
+           infraestructura construida por este programa. Los prestadores participan desde la
+           fase inicial de diseño, dando su acuerdo para las obras a realizarse mediante
+           informes de factibilidad. Cabe destacar que los prestadores cuentan con un
+           sistema tarifario que prevé tarifas diferenciales de los servicios, a los efectos de
+           asegurar su mayor asequibilidad para la población socioeconómicamente
+           vulnerable. En efecto, el pago de tarifas sociales de servicios de luz, agua y
+           cloaca, y de la tasa municipal de Alumbrado, Barrido y Limpieza (ABL)
+           representaría menos del 5% del ingreso del quintil más pobre (2,3%).
+
+B.         Objetivos, Componentes y Costo
+
+1.21       El objetivo general de la CCLIP y de la primera operación es contribuir a mejorar
+           las condiciones de vida de la población de las villas, asentamientos precarios y
+           conjuntos habitacionales de la PBA a través de intervenciones de integración
+           social y urbana. Los objetivos específicos de esta primera operación son:
+           (i) fortalecer y apoyar a los gobiernos locales y provincial en la planificación,
+           gestión y ejecución de proyectos integrales de intervención y regularización de
+           barrios informales; (ii) mejorar el acceso y facilitar el uso de servicios básicos,
+           infraestructura urbana resiliente, espacio público, equipamiento comunitario y
+           servicios del estado destinados a los habitantes de los barrios integrándolos a la
+           trama urbana municipal; y (iii) fortalecer el capital social, potenciar oportunidades
+           de desarrollo comunitario social, laboral y productivo y mejorar las condiciones de
+           habitabilidad y tenencia.
+
+19     AySA brinda el servicio de agua y saneamiento en la CABA y 26 partidos del Conurbano Bonaerense.
+       El servicio de abastecimiento de energía eléctrica en el GBA es brindado por EDESUR (sur) y EDENOR
+       (norte-oeste).
+                                                   - 12 -
+
+
+
+1.22     Beneficiarios. Se estima que los beneficiarios de esta primera operación serán
+         aproximadamente 23.600 personas que residen en los barrios elegibles bajo los
+         criterios estipulados en el programa20.
+
+1.23     Componente I. Planificación Integral y Fortalecimiento Institucional
+         (BID US$1.858.500; Local US$1.141.500). El componente apoyará la
+         planificación y formulación de proyectos integrales de regularización de barrios
+         informales y el fortalecimiento de las instituciones involucradas en su
+         implementación. Para ello se financiará: (i) estudios de relevamiento y diagnóstico
+         socio-habitacional y ambiental de los barrios elegibles del programa, incluyendo
+         los análisis catastrales para la regularización dominial y posibles relocalizaciones;
+         (ii) diagnósticos urbanos integrales y la formulación de planes maestros; y
+         (iii) herramientas de información para el análisis y gestión de los proyectos.
+
+1.24     Componente II. Infraestructura Urbana y Hábitat (BID US$57.220.000; Local
+         US$5.780.000). El componente apoyará los procesos de mejoramiento de las
+         condiciones de vida en los barrios mediante el desarrollo de infraestructura urbana
+         sostenible, saneamiento ambiental, equipamiento comunitario y viviendas nuevas
+         derivadas del proceso de relocalización. Para ello se financiará: (i) el desarrollo
+         de infraestructura urbana resiliente al cambio climático, incluyendo redes de
+         servicios públicos de agua y saneamiento, drenaje pluvial, y de acceso a la
+         energía; (ii) la construcción de espacios públicos y verdes seguros para todos;
+         pavimentación vial y peatonal y alumbrado público; (iii) las acciones de
+         saneamiento y mitigación ambiental, incluyendo gestión de residuos sólidos; (iv) la
+         construcción de equipamiento comunitario, incluyendo centros educativos, de
+         atención a la salud, deportivos y guarderías; (v) la ejecución de obras de vivienda
+         nueva, incluyendo tecnologías de eficiencia energética; y (vi) proyectos ejecutivos
+         y pliegos de licitación de acuerdo con lo mencionado en enlace EEO#8.
+
+1.25     Componente        III.   Gestión       Social     y     Desarrollo     Comunitario
+         (BID US$35.671.500; Local US$3.978.500). El componente apoyará los
+         procesos participativos relacionados a la planificación y gestión de los proyectos
+         integrales de regularización de barrios y actividades de desarrollo comunitario y
+         productivo basados en las necesidades diferenciadas de mujeres y hombres en
+         los barrios. Para ello, se financiará: (i) la gestión social de reasentamiento de
+         hogares, incluyendo la gestión de la solución habitacional21, y el mejoramiento
+         integral de viviendas con conexiones intradomiciliarias para servicios22; (ii) las
+         actividades participativas que acompañen la planificación y ejecución de las
+         intervenciones integrales; (iii) planes de desarrollo social comunitario y desarrollo
+         socio productivo23, y proyectos de iniciativa comunitaria; (iv) el acompañamiento
+
+
+
+20   Está previsto que esta primera operación centre su accionar en al menos cuatro barrios del GBA.
+21   Se contempla la posibilidad de utilización de unidades funcionales existentes en el barrio y zonas aledañas
+     de los hogares a reasentar.
+22   Contemplarán medidas de eficiencia energética de acuerdo a EEO#8.
+23   Algunas estrategias productivas en desarrollo: (i) fortalecimiento de unidades económicas, con la promoción
+     de nuevos emprendimientos, unidades productivas y su ecosistema, con consideraciones de género,
+     incluyendo capacitaciones y mejora de acceso a mercados; (ii) desarrollo de entornos de colaboración con
+     el sector privado, con acciones de capacitación específica y de formación de alianzas con empresas,
+     cámaras y organizaciones que mejoren la inserción laboral; y (iii) mejora de condiciones de consumo,
+     incluyendo acciones innovadoras de inclusión financiera (blockchain).
+                                                 - 13 -
+
+
+
+          de regularización dominial, priorizando la titulación a nombre de mujeres; y
+          (v) capacitaciones con consideraciones de género y cambio climático.
+
+1.26      Gestión y Seguimiento del Proyecto (BID US$5.250.000; Local US$250.000).
+          Se financiarán gastos de funcionamiento, equipamiento y gestión del OE,
+          incluyendo al equipo de gestión ambiental y social; servicios de consultoría para
+          la administración, monitoreo y evaluación del proyecto; y servicios de auditoría del
+          programa.
+
+C.        Indicadores Claves de Resultados
+
+1.27      Resultados esperados. Los principales resultados serán: (i) el incremento de las
+          capacidades instaladas para el diagnóstico y planificación integral que se reflejará
+          en la cantidad de planes integrales elaborados por OPISU en barrios que no
+          pertenecen a esta operación; (ii) el uso formal sostenido de la infraestructura
+          urbana generada (agua, saneamiento, drenaje), satisfacción con los espacios
+          públicos y equipamientos comunitarios, y mejora de las condiciones ambientales;
+          (iii) la mejora en el capital social de los barrios intervenidos reflejada en una mejor
+          relación con los vecinos, una mayor participación comunitaria, un mayor desarrollo
+          productivo; y (iv) a la seguridad en la tenencia de la propiedad reflejada en una
+          mayor inversión de recursos en la mejora de las viviendas. El impacto de la
+          operación sobre las condiciones de vida será medido a través de: (i) disminución
+          de problemas de salud asociados a las mejoras provistas por el programa; y
+          (ii) mejoras en la percepción de seguridad de los residentes con perspectiva de
+          género. Los indicadores y sus valores proyectados se presentan en el Anexo II.
+
+1.28      Viabilidad económica. Se realizó un análisis costo-beneficio para los proyectos
+          de una muestra representativa (EEO#1), basado en una comparación de costos y
+          beneficios incrementales, a precios económicos, en las situaciones con y sin
+          proyecto. La cuantificación de beneficios se apoyó en la teoría de los precios
+          hedónicos24 para estimar el aumento en el valor inmobiliario producto del
+          incremento de valor de sus atributos debido a las intervenciones del programa
+          [24]. La estimación de los beneficios se apoyó en la teoría que una mejora en las
+          condiciones de infraestructura urbana de los barrios redundará en un incremento
+          en el precio de los terrenos, identificando dicho cambio como un reflejo de la
+          mejora en términos de calidad de vida que registrarán las familias beneficiadas.
+          El análisis realizado arrojó un Valor Actual Neto (VAN) positivo equivalente a
+          US$4,7 millones para el total de la muestra, utilizando una tasa anual de
+          descuento del 12% y un horizonte de evaluación de 20 años, y una Tasa Interna
+          de Retorno Económico (TIRE) del 26,3%. El análisis de sensibilidad mostró que
+          el programa resiste razonablemente posibles variaciones tanto en el plazo, como
+          en las previsiones de costos y beneficios.
+
+
+
+
+24   Para el análisis se aplicó una ecuación hedónica construida a partir de un trabajo de campo que abarcó
+     267 encuestas, de 14 asentamientos, en tres partidos del Gran Buenos Aires, elaborada para el Proyecto
+     "Plan de Manejo Integral de la Cuenca del Río Reconquista", BID, Halcrow, marzo de 2013.
+                                                  - 14 -
+
+
+
+                 II.   ESTRUCTURA DE FINANCIAMIENTO Y PRINCIPALES RIESGOS
+
+A.         Instrumentos de Financiamiento
+
+2.1        Análisis de la CCLIP y cumplimiento de la política (EEO#6). De acuerdo con
+           lo mencionado en los párrafos ¶1.11 y ¶1.12, una línea CCLIP es el instrumento
+           adecuado para apoyar el esfuerzo continuado en el tiempo del Gobierno de la
+           PBA, contribuyendo al cumplimiento de la Ley de Acceso Justo al Hábitat. Se
+           propone una CCLIP Sectorial por un monto de hasta US$400 millones con un
+           plazo de 10 años de ejecución. El monto y plazo propuesto se justifica en las
+           estimaciones de disponibilidad presupuestaria realizadas por la PBA, la
+           cuantificación del universo a abordar, la naturaleza técnica de las intervenciones
+           desde que se inicia el proceso hasta la entrega de los títulos de propiedad y al
+           aumento progresivo previsto en la capacidad de ejecución de OPISU. Sin
+           embargo, por su reciente creación, OPISU no cumple con algunos requisitos
+           estipulados en la sección 1.19 del documento “Propuesta de Modificaciones a la
+           Línea de Crédito Condicional para Proyectos de Inversión (CCLIP):
+           Fortalecimiento de la Modalidad Multisectorial” (GN-2246-9; Política CCLIP) en
+           cuanto que: (i) no ha completado un proyecto similar en los cinco años anteriores;
+           (ii) no existe un proyecto anterior con un desempeño general de su ejecución o
+           cumplimiento de las condiciones del contrato de préstamo; y (iii) no cuenta con
+           sólidos antecedentes de desempeño satisfactorio en la ejecución del proyecto
+           anterior. Por lo tanto, para que actúe como Organismo Ejecutor (OE) se requerirá
+           una dispensa a las disposiciones de los incisos (i), (ii) y (iii) de la sección 1.19 de
+           la Política CCLIP. Como antecedentes, se mencionan las dispensas otorgadas a
+           los Programas del Túnel Internacional de Agua Negra (RG-L1116; 4338/OC-RG)
+           y de la primera línea del Metro de Bogotá (CO-L1234; 4572/OC-CO).
+
+2.2        Cabe destacar que: (i) el cumplimiento de la Ley de Acceso Justo al Hábitat
+           requiere de la coordinación técnica y operativa entre distintas áreas de gobierno,
+           lo que sustenta la decisión manifestada por Ley Provincial 14.989 de contar con
+           OPISU, en el ámbito del Ministerio de Jefatura de Gabinete, como el organismo
+           responsable del cumplimiento de los objetivos de la Ley; (ii) el OE implementa
+           actualmente un proyecto similar del cual se espera que capitalice experiencia y
+           capacidad de ejecución previo al inicio de ejecución del presente programa25;
+           (iii) el OE contará con el apoyo de MIySP y ME, los cuales poseen amplia
+           experiencia previa en la ejecución de proyectos con financiamiento multilateral26;
+           y (iv) el desempeño general de la ejecución de estos proyectos ha sido
+           satisfactorio, cumpliendo con sus condiciones contractuales y fiduciarias;
+
+2.3        Asimismo, la línea CCLIP y su primera operación cumplen con otros criterios de
+           la Política CCLIP en tanto: (i) el sector de desarrollo urbano está contemplado en
+           la Estrategia de País (GN-2870-1) así como con en su objetivo estratégico de
+           mejoramiento del hábitat y acceso a servicios básicos, especialmente para
+
+25    En 2018 OPISU comenzó la ejecución del Proyecto de Transformación Urbana del Área Metropolitana de
+      Buenos Aires (BIRF Nº8707-AR), que orienta su Componente II a mejorar la situación habitacional de los
+      hogares del Conjunto Habitacional Presidente Sarmiento del Municipio de Morón.
+26    Tanto ME como MIYSP cuentan con importante experiencia en la ejecución de préstamos con organismos
+      multilaterales. En los últimos 20 años ME lleva ejecutados más de US$1.200 millones correspondientes a
+      préstamos con organismos multilaterales de crédito, y MIYSP posee la ejecución técnica de obras de
+      infraestructura en programas por más de US$800 millones (EEO#6).
+                                                     - 15 -
+
+
+
+           regiones de menores ingresos como el GBA; (ii) se encuentra incluida en el
+           Programa de Operaciones 2019 (GN-2948); (iii) el OE es parte integral y
+           sostenible de la institución que maneja el sector, designado específicamente para
+           implementar la Ley de Acceso Justo al Hábitat; y (iv) el OE cuenta con un análisis
+           institucional satisfactorio. Con relación a este último punto, el análisis de
+           capacidad institucional evaluó las capacidades del OE para la programación y
+           organización, la ejecución de las actividades programadas y organizadas, y para
+           el control, en base a la metodología del Sistema de Evaluación de Capacidad
+           Institucional (SECI) que permite identificar las fortalezas y debilidades de los
+           sistemas administrativos y técnicos, como así también de los sistemas
+           complementarios, incluidos los de control interno y externo. Luego de acordarse
+           algunos arreglos para la organización de la ejecución, la capacidad institucional
+           de OPISU fue evaluada como de Desarrollo Medio y Riesgo Medio 27. Entre las
+           principales acciones de mitigación se propusieron: (i) la disponibilidad de un
+           Reglamento Operativo del Programa (ROP) previo a iniciar ejecución;
+           (ii) preparación de un Plan de Ejecución Plurianual (PEP), Plan Operativo Anual
+           (POA) y Plan de Adquisiciones (PA); (iii) finalizar la designación del personal clave
+           del OE (OPISU ya cuenta con alrededor de 150 empleados); y (iv) la mejora del
+           sistema de control interno y su reflejo en un manual operativo de la OPISU y el
+           ROP.
+
+2.4        Primera Operación de la CCLIP. La primera operación propuesta bajo la CCLIP
+           será estructurada como un Programa de Obras Múltiples, con cargo a los recursos
+           del Capital Ordinario (CO) del Banco por un monto de US$100 millones con un
+           plazo de desembolso de cuatro años. La modalidad de ejecución se justifica dado
+           que la operación financiará varios proyectos físicamente similares pero
+           independientes entre sí, aplicando los criterios de elegibilidad detallados en el
+           párrafo ¶2.6. En la preparación de esta operación se determinó una muestra
+           representativa del tipo de inversiones que se ejecutarán, compuesta de
+           15 proyectos por un total de US$34,7 millones, equivalente al 31,2% del monto
+           total de la primera operación (EEO#3).
+
+2.5        Costo y financiamiento. El costo de la primera operación individual de la CCLIP
+           será por un monto total de US$111.150.000, de los cuales US$100.000.000
+           corresponden a financiamiento del Banco y US$11.150.000 a la contraparte local.
+
+                                       Cuadro 2. Costo y Financiamiento (en US$)
+
+             Componentes                                         Banco           Local           Total      %
+
+             Componente I. Planificación Integral y             $1.858.500      $1.141.500     $3.000.000    2,7
+             Fortalecimiento Institucional
+               Relevamientos,      análisis    catastrales,       $688.500      $1.011.500     $1.700.000    1,5
+               diagnósticos y herramientas de información
+               Planes Maestros                                  $1.170.000        $130.000     $1.300.000    1,2
+             Componente II. Infraestructura Urbana y           $57.220.000      $5.780.000 $63.000.000      56,7
+             Hábitat
+               Proyectos ejecutivos, pliegos e inspección       $4.700.000                 -   $4.700.000    4,2
+               de obras
+               Obras de Infraestructura y Hábitat              $52.520.000      $5.780.000 $58.300.000      52,5
+
+
+27    En una escala de 1 (menor riesgo) a 4 (mayor riesgo), OPISU recibió calificaciones de nivel 2.
+                                                     - 16 -
+
+
+
+                                       Cuadro 2. Costo y Financiamiento (en US$)
+
+            Componentes                                             Banco          Local         Total      %
+
+            Componente III. Gestión              Social       y    $35.671.500    $3.978.500 $39.650.000    35,7
+            Desarrollo Comunitario
+            Gestión de reasentamientos, soluciones                 $21.096.000    $2.344.000 $23.440.000    21,1
+            habitacionales y regularización dominial
+            Conexiones domiciliarias                               $10.260.000    $1.140.000 $11.400.000    10,3
+            Fortalecimiento   comunitario    y    desarrollo        $4.315.500     $494.500    $4.810.000    4,3
+            productivo
+            Gestión y Seguimiento del Proyecto                      $5.250.000     $250.000    $5.500.000    4,9
+            Total                                                 $100.000.000   $11.150.000 $111.150.000   100
+
+
+
+2.6        Criterios de elegibilidad. Los barrios que se financien con cargo a esta operación
+           estarán compuestos principalmente por población vulnerable de bajo nivel
+           socioeconómico y deberán cumplir con los siguientes requisitos: (i) estar
+           identificados y relevados en el RPPVAP28; (ii) estar localizado en alguno de los
+           24 partidos del GBA; (iii) contar con un mínimo de 50 viviendas; (iv) no ocupar
+           áreas de reserva ecológica, preservación ambiental, patrimonio arqueológico,
+           expuestas a riesgo ante desastres naturales, zonas que presenten niveles
+           irreversibles de contaminación de suelos, aguas, aire u otros pasivos ambientales;
+           y (v) que puedan ser regularizados mayormente en el sitio en el que están
+           asentados. La elegibilidad de los proyectos será declarada por el OE en base a
+           un informe que deberá elaborar con el análisis de los distintos requisitos,
+           contemplando, cuando sea necesario, las consultas a las áreas específicas del
+           Gobierno competentes en cada materia. Se requerirá no objeción del Banco. Las
+           obras que se financien con la operación deberán ejecutarse en barrios elegibles,
+           formar parte de un plan integral con evaluación socioeconómica positiva y cumplir
+           con los requerimientos ambientales y sociales del MGAS. El desarrollo de los
+           criterios y el mecanismo de declaración de elegibilidad se especificará en el ROP.
+
+2.7        Cronograma de desembolsos. Teniendo en consideración la voluntad de
+           solicitar reconocimiento de gastos de las acciones ya iniciadas, el plazo de
+           ejecución previsto es de cuatro años a partir de la vigencia del contrato de
+           préstamo. El cronograma de desembolsos se presenta en el siguiente cuadro:
+                                    Cuadro 3. Cronograma de desembolsos (US$)
+             Financiamiento           Año 1 (*)           Año 2           Año 3              Año 4       Total
+            BID                       $23.910.000       $27.776,000 $14.911.000            $33.406.000   100,00
+             Local                     $4.950.000        $1.365,000     $1.287.000          $3.546.000    11,15
+             Total                    $28.860.000       $29.141.000 $16.198.000            $36.952.000   111,15
+             % BID                         23,91%            27,78%         14,91%             33,41%     100%
+             % Local                       44,39%            12,24%         11,54%             31,80%     100%
+            (*) Incluye el ejecutado retroactivo y/o reconocimiento de gastos.
+
+B.         Riesgos Ambientales y Sociales
+2.8        La primera operación de la CCLIP ha sido clasificada como Categoría “B”,
+           conforme con los criterios de la política de Salvaguardas Ambientales del Banco.
+
+28    O estar identificados posteriormente en normativa oficial como ámbito de actuación de OPISU.
+                                          - 17 -
+
+
+
+       Las políticas activadas incluyen: Medio Ambiente y Cumplimiento de
+       Salvaguardias (OP-703); Gestión del Riesgo de Desastres (OP-704);
+       Reasentamiento Involuntario (OP-710); Igualdad de Género en el Desarrollo
+       (OP-761); y Acceso a la Información (OP-102).
+2.9    Se estima que el programa tendrá impactos mayormente positivos. Sin embargo,
+       dada las condiciones de informalidad y vulnerabilidad de la población se han
+       previsto algunos impactos negativos que requieren ser mitigados. Se preparó un
+       EIAS de la muestra que comprende los proyectos en los barrios de Costa
+       Esperanza, Costa del Lago y 8 de Mayo, en el Municipio de General San Martín
+       incluyendo: (i) Pavimentación y veredas; (ii) Parque Escuela Costa Esperanza:
+       parque de 30 hectáreas y Equipamientos sociales (jardín maternal, un centro de
+       Salud, un polideportivo, un centro juvenil y una posta policial); (iii) Puesta en valor
+       y mejoramiento del Parque Lineal Zanjón Güemes; (iv) Infraestructura barrial para
+       la gestión de Residuos sólidos urbanos (Centros de disposición transitoria);
+       (v) Mejoramiento de viviendas: Piloto de conexiones domiciliarias de agua
+       potable; y (vi) Plaza Mercedes Sosa.
+
+2.10   De acuerdo con la muestra, el mayor impacto social del programa está vinculado
+       con el reasentamiento que generará el proyecto de pavimentos y veredas, que
+       está focalizado en un área y afecta un número reducido de familias (en principio
+       nueve). Para mitigar este impacto se ha elaborado un Plan de Reasentamiento
+       (PR) que incluye medidas de mitigación para asegurar que los hogares afectados
+       queden en igual o mejor situación luego del proyecto. El PR y las medidas de
+       mitigación propuestas fueron consultadas con las familias afectadas. En cuanto a
+       los reasentamientos contemplados en los proyectos que se remitan
+       posteriormente a elegibilidad del programa, estos deberán respetar la clasificación
+       B del programa y regirse por las disposiciones ambientales y sociales incluidas en
+       el contrato de préstamo y en el ROP.
+
+2.11   Los impactos ambientales adversos esperados están relacionados con los
+       procesos de construcción: movimiento y operación de vehículos, maquinarias,
+       afluencia de mano de obra, generación de residuos, excavaciones y movimientos
+       de suelo y manipulación de materiales. En la Evaluación de Impacto Ambiental y
+       Social (EIAS) se desarrolla un análisis pormenorizado de los potenciales impactos
+       y riesgos, presentándose en el Plan de Gestión Ambiental y Social (PGAS)
+       específicos para su correcta gestión.
+
+2.12   El proceso de consultas incluyó dos consultas públicas del EIAS con la comunidad
+       y la consulta del PR con la población directamente afectada. Los principales temas
+       tratados y consultados se refirieron al alcance del proyecto, coordinación entre las
+       obras actuales de cloaca y futuras de pavimentación, problemas puntuales de
+       inundaciones por niveles de terrenos, mantenimiento y recolección de desechos.
+       Se informó que los procesos de consulta continuarán conforme con el avance y
+       ejecución de las obras. Los proyectos futuros del programa se guiarán por los
+       lineamientos establecidos en el Marco de Gestión Ambiental y Social (MGAS) y el
+       Marco de Reasentamiento Involuntario (MRI) elaborados. Estos documentos
+       fueron publicados en septiembre de 2018 y actualizados en mayo 2019.
+
+2.13   OPISU desarrollará además acciones para promover la integración social y
+       productiva, que serán diseñadas por la Dirección de Servicio Social y Gestión
+                                                  - 18 -
+
+
+
+          Asociada y al Área Socio productiva y ejecutadas por su Equipo Territorial. Esto
+          permitirá articular las acciones en territorio, en conjunto con el municipio, y
+          desarrollar el vínculo con los vecinos y organizaciones.
+
+2.14      Por otra parte, se realizó un ejercicio adicional que arrojó la identificación de
+          algunos riesgos sociales medios ligados al contexto socioeconómico de los
+          barrios: (i) falta de capacidad de pago de servicios públicos una vez se
+          regularicen, lo que será mitigado mediante acompañamiento de los equipos
+          sociales a los beneficiarios más vulnerables para acceder a tarifas sociales y
+          convenios con las empresas proveedoras de servicios para establecerlas;
+          (ii) rechazo de la comunidad al proyecto (debido a falta de información, afectación
+          de su medio de vida o miedo a la relocalización, entre otros), lo cual será mitigado
+          mediante equipos territoriales con dedicación exclusiva directa en los barrios,
+          generando instancias de difusión y articulación con referentes y organizaciones
+          de la comunidad y propiciando procesos participativos de co-diseño; y
+          (iii) incremento de costos por demoras en procesos de planificación o
+          relocalización: se adopta como estrategia la minimización de relocalizaciones y la
+          participación de los equipos territoriales generando instancias de acuerdo,
+          difusión y articulación con la comunidad. Estos equipos sociales territoriales se
+          instalan para apoyar la preparación del programa y se mantendrán en los barrios
+          durante la construcción y operación.
+
+C.        Riesgos Fiduciarios
+
+2.15      Se identificó un riego fiduciario medio relacionado con el esquema de ejecución y
+          la posible desarticulación de actividades entre distintos ministerios, que podría
+          generar ineficiencias en la gestión del programa. El apoyo, formalizado, de la
+          Unidad de Coordinación y Ejecución de Proyectos de Obras del MIySP (UCEPO)
+          y de la Dirección Provincial de Organismos Multilaterales y Financiamiento
+          Bilateral del Ministerio de Economía de la Provincia de Buenos Aires (DPOMyFB)
+          a la gestión de OPISU como OE permite mitigar la exposición al riesgo y
+          mantenerlo en un nivel medio (Anexo III). A su vez, se desplegarán medidas de
+          mitigación tales como: (i) formalizar los mecanismos de apoyo interinstitucional, a
+          través de la suscripción de convenios, incluyendo los acuerdos con eventuales
+          municipios beneficiarios29; (ii) revisar, mejorar y reflejar en el ROP procesos
+          fiduciarios y de ambiente de control (incluyendo un capítulo contable-financiero);
+          (iii) verificar el ingreso adicional de personal fiduciario especializado en proyectos
+          de banca multilateral, y designación de un punto focal por cada temática;
+          (iv) capacitación fiduciaria para personal de OPISU; y (v) actualizar y/o desarrollar
+          manuales pertinentes, resoluciones ministeriales o anexos al ROP para su
+          adecuado funcionamiento.
+
+D.        Otros Riesgos del Proyecto
+
+2.16      En el taller de riesgos realizado durante la preparación se identificaron otros
+          riesgos altos y medios relacionados a: (i) la falta de condiciones de seguridad del
+          personal involucrado en las áreas a intervenir; (ii) la calidad de los proyectos
+          ejecutivos, incluida la identificación de pasivos ambientales al momento del diseño
+          de las intervenciones. Para mitigar estos riesgos, el programa prevé: (i) articular
+
+29   El ROP incluirá como anexo un modelo de convenio con municipios beneficiarios a satisfacción del Banco.
+                                         - 19 -
+
+
+
+       con fuerzas de seguridad para garantizar la presencia de personal con dedicación
+       exclusiva en los barrios a intervenir; y (ii) fortalecer los equipos técnicos bajo el
+       Componente I y actividades de administración. También se identificó la posibilidad
+       que las expectativas del proceso de integración socio-urbana incentive el
+       crecimiento de viviendas informales ocupando espacios previstos para otros fines
+       o haciendo insuficientes las intervenciones previstas, lo cual impactaría en los
+       objetivos y costos del programa. Para mitigar este riesgo, los proyectos seguirán
+       los protocolos establecidos en los MRI y los planes específicos de cada barrio,
+       procurando concientizar a los beneficiarios sobre el uso y cuidado de los espacios
+       públicos y comunitarios.
+
+2.17   Sostenibilidad de las intervenciones. La sostenibilidad de las intervenciones en
+       los municipios priorizados, más allá del horizonte de ejecución de esta operación,
+       se beneficiará de: (i) la generación y fortalecimiento de capacidades en los
+       equipos municipales para el diagnóstico y planificación integral en villas y
+       asentamientos de la PBA, que puedan ser utilizados en otros barrios informales
+       con recursos propios; (ii) el fortalecimiento del capital social, humano y productivo
+       de las comunidades para su integración a la ciudad formal, lo cual se espera se
+       traduzca en mayor apropiación y cuidado de las obras realizadas por el programa,
+       y un uso adecuado de los servicios; y (iii) la firma de convenios con los municipios
+       (¶2.15) y con las empresas prestatarias de servicios de agua, saneamiento y
+       electricidad (¶1.20), para garantizar la operación y mantenimiento posterior de las
+       obras.
+
+2.18   Sostenibilidad financiera, capacidad de deuda. Como parte de las actividades
+       de preparación de la operación se realizó un análisis de la situación financiera
+       histórica, actual y proyectada (2013-2030) de la PBA (EEO#4) que permitió
+       alcanzar algunas conclusiones: (i) los resultados económico y primario comienzan
+       a revertir tendencia de deterioro a partir de 2017, alcanzando resultados positivos
+       en 2018, mientras que el resultado financiero permaneció en déficit; (ii) el proceso
+       inflacionario ha implicado una reducción en valores constantes de los gastos
+       corrientes en los últimos dos años (el fuerte deterioro en 2018 compensó el ligero
+       aumento de 2017), que se refleja en el resultado primario; (iii) la Provincia ha
+       obtenido, a partir de 2017, mejoras sustanciales en su participación en los
+       recursos nacionales; (iv) los Recursos Totales pasaron de representar el
+       11,8% del Producto Bruto Geográfico (PBG) en 2010 al 14,6% en 2017 y 15% en
+       2018; y (v) en ese período, la deuda (4% con Organismos Multilaterales de
+       Crédito -OMC) creció como porcentaje de los Ingresos Totales y el PBG, se ha
+       reducido su vida promedio y el 74% está sometida a ley extranjera o corresponde
+       a OMC, lo que incrementa la necesidad de mantener la reducción del gasto a
+       futuro para disminuir la exposición a posibles choques macroeconómicos. En
+       conclusión, los análisis financieros históricos y proyectados realizados indican que
+       la PBA tiene capacidad de endeudamiento para hacer frente a las obligaciones
+       del pago del principal e intereses del programa, así como para realizar el aporte
+       local. Cabe destacar que el Gobierno de Argentina, garante de la operación,
+       realiza su análisis de capacidad de deuda de la PBA con anterioridad a la firma
+       del convenio de garantía.
+                                         - 20 -
+
+
+
+                      III. PLAN DE IMPLEMENTACIÓN Y GESTIÓN
+
+A.    Resumen de los Arreglos de Implementación
+
+3.1   El prestatario será la PBA, a través del Ministerio de Economía (ME). El OE será
+      el Organismo Provincial de Integración Social y Urbana (OPISU), dependiente del
+      Ministerio de Jefatura de Gabinete (MJGM), que tendrá directamente a su cargo
+      la ejecución de los Componentes I y III. Para la ejecución del Componente II,
+      OPISU contará con el apoyo del Ministerio de Infraestructura y Servicios Públicos
+      (MIySP), el que a través de la Unidad de Coordinación de infraestructura Barrial
+      (UCIBa) actuará en calidad de subejecutor. El ME, a través de la DPOMyFB
+      dependiente de la Subsecretaría de Finanzas (SSF), tendrá a su cargo la función
+      de administración financiera del programa. Su interacción quedará plasmada en
+      el ROP.
+
+3.2   El OE coordinará los aspectos técnicos y será responsable de la coordinación de
+      la ejecución del programa, la gestión, planificación y dirección de las
+      adquisiciones, la interlocución con el Banco, la solicitud de pagos y afectación del
+      presupuesto del crédito en el ámbito de su competencia y las solicitudes de no
+      objeción. El MIYSP brindará apoyo al OE a través de las diferentes áreas técnicas
+      coordinadas por la UCIBa. El MIySP será el responsable de la ejecución de los
+      proyectos de obras del programa planificados en conjunto con el OE, acorde a los
+      procedimientos del Contrato de Préstamo y el ROP.
+
+3.3   Para garantizar una ejecución exitosa del programa, será condición contractual
+      especial previa al primer desembolso del financiamiento presentar evidencia
+      de la entrada en vigencia del ROP y sus respectivos anexos, de conformidad
+      con los términos previamente acordados con el Banco. Serán condiciones
+      contractuales especiales de ejecución del Componente II: (i) presentar evidencia
+      de la vigencia de un convenio entre OPISU y el MIySP que especifique los
+      acuerdos de ejecución alcanzados a satisfacción del Banco; y (ii) para la ejecución
+      de las obras de prestación de servicios, la vigencia de convenios firmados entre
+      OPISU y el/los prestador/es de dichos servicios (¶1.20).
+
+3.4   Gestión financiera y adquisiciones. El Anexo III presenta los arreglos fiduciarios
+      para la ejecución. El préstamo se desembolsará bajo la modalidad de anticipos de
+      fondos, estando la frecuencia de éstos determinada en función de una adecuada
+      programación financiera y su consistencia con otros instrumentos de planificación
+      y financieros, tales como el POA y el PA. El Banco podrá efectuar nuevos anticipos
+      de fondos, preferentemente en forma semestral, siempre y cuando se haya
+      justificado al menos el 65% del total de los fondos previamente anticipados. Este
+      porcentaje se justifica en la experiencia ejecutando operaciones en la PBA, cuyo
+      circuito de flujo de fondos involucra a varias instituciones, lo cual atrasa el proceso
+      de recepción considerablemente. Las adquisiciones de obras y bienes, y la
+      contratación de servicios de consultoría, ambos con cargo al financiamiento de la
+      operación, se realizarán de conformidad con las políticas para la adquisición de
+      obras y bienes (GN-2349-9) y las políticas para la selección y contratación de
+      consultores (GN-2350-9). Para alcanzar los objetivos del Componente II y III a
+      nivel comunitario y social, se podrán implementar mecanismos de adquisiciones
+      con base en participación de la comunidad (GN-2349-9, Num. 3.17) que se
+                                        - 21 -
+
+
+
+      detallarán el ROP, y contratarse servicios de facilitación, apoyo técnico y
+      administrativo provistos por Organizaciones No Gubernamentales (ONG),
+      organismos públicos o privados especializados en la gestión de proyectos de
+      vivienda o servicios públicos domiciliarios.
+
+3.5   Financiamiento Retroactivo y Reconocimiento de Gastos. El Banco financiará
+      retroactivamente con cargo a los recursos del préstamo, hasta por la suma de
+      US$11,7 millones (11,7% del monto propuesto del préstamo), y reconocerá con
+      cargo al aporte local, hasta por la suma de US$2 millones (20% del monto
+      estimado del aporte local), gastos de proyectos elegibles efectuados por el
+      Prestatario en el Componente II de la operación, siempre que se hayan cumplido
+      con requisitos sustancialmente análogos a los establecidos en el Contrato de
+      Préstamo. Dichos gastos corresponderán a la ejecución de obras de
+      infraestructura como pavimentos, áreas verdes, espacios públicos, conexiones
+      domiciliarias y equipamientos públicos (entre otros), y deberán haberse efectuado
+      a partir de la fecha de aprobación del Perfil de Proyecto (1 de abril de 2019). No
+      podrán ser incluidos los gastos que superen los 18 meses antes de la fecha de
+      aprobación del programa por el Directorio del Banco.
+
+3.6   Auditoría. El OE, con el apoyo del ME, presentará anualmente los estados
+      financieros auditados del programa, de acuerdo con los términos requeridos por
+      el Banco en sus políticas. Dichos estados financieros auditados serán
+      presentados a los 120 días posteriores a la finalización del año fiscal. Los informes
+      de auditoría de cierre del programa serán presentados dentro de los 120 días
+      posteriores al último desembolso. La auditoría será efectuada por el Honorable
+      Tribunal de Cuentas de la PBA, si mantiene su elegibilidad para auditar
+      operaciones financiadas por el Banco, o por una firma auditora en caso la haya
+      perdido. La determinación del alcance y otros aspectos relacionados se regirá por
+      la Guía de Gestión Financiera para Proyectos (OP-273-6) y el Instructivo de
+      Informes Financieros y Gestión de Auditoría Externa. La contratación de la firma
+      auditora estará a cargo del OE.
+
+B.    Resumen de los Arreglos para el Monitoreo de Resultados
+
+3.7   Arreglos para el monitoreo. El Plan de Monitoreo y Evaluación (PME) (EER#2)
+      hará un seguimiento de la ejecución del programa de acuerdo con las metas e
+      indicadores de avance definidos en la Matriz de Resultados. El sistema de
+      monitoreo del programa estará conformado por la Matriz de Resultados, el PEP,
+      los POA, los Informes del Monitoreo del Progreso (PMR), los Informes Anuales, y
+      el Plan de Supervisión en terreno. Ello se complementará con la actualización
+      periódica de la Matriz de Mitigación de Riesgos. A través de estos instrumentos
+      se prevé llevar a cabo los procesos de planificación, actualización y monitoreo de
+      las acciones de ejecución del programa.
+
+3.8   Para el seguimiento financiero/fiduciario el programa cuenta con un sistema de
+      Unidades Ejecutoras de Préstamos Externos (UEPEX) el cual registra las
+      transacciones e hitos financieros. El seguimiento de adquisiciones se basará en
+      el Sistema de Ejecución de Planes de Adquisición (SEPA) ya implementado. El
+      OE cargará en su sistema de seguimiento los indicadores de producto y
+      resultados.
+                                         - 22 -
+
+
+
+3.9    El OE presentará semestralmente informes de progreso incluyendo: (i) el
+       desempeño en el cumplimento de los objetivos y resultados acordados en los POA
+       y en el PMR, incluyendo el análisis y seguimiento de los riesgos y sus medidas de
+       mitigación; (ii) el estado de ejecución y situación del PA; (iii) el cumplimiento de
+       las cláusulas contractuales; (iv) la aplicación de salvaguardas ambientales y
+       sociales; (v) el estado de ejecución financiera de sus respectivos componentes; y
+       (vi) el estado de ejecución del PME.
+
+3.10   Arreglos para la evaluación de resultados del programa. La metodología de la
+       evaluación del programa consistirá en (i) una metodología cuasi-experimental de
+       diferencias en diferencias (DID) y pareamiento para toda la línea CCLIP; y (ii) una
+       metodología de comparación reflexiva para aquellos indicadores en los que no se
+       pueda realizar la evaluación de impacto.
+                                                                                                                                                                                                Anexo I - AR-L1288
+                                                                                                                                                                                                     Página 1 de 1
+
+
+
+
+                                                                          Matriz de Efectividad en el Desarrollo
+                                                                                   Resumen
+I. Prioridades corporativas y del país
+1. Objetivos de desarrollo del BID                                                                                                           Sí
+
+                                                                                               -Inclusión Social e Igualdad
+                                                                                               -Equidad de Género y Diversidad
+   Retos Regionales y Temas Transversales                                                      -Cambio Climático y Sostenibilidad Ambiental
+                                                                                               -Capacidad Institucional y Estado de Derecho
+
+
+
+
+                                                                                               -Hogares que se benefician de soluciones de vivienda (#)*
+                                                                                               -Hogares con acceso nuevo o mejorado a agua potable (#)*
+                                                                                               -Hogares con acceso nuevo o mejorado a saneamiento (#)*
+                                                                                               -Caminos construidos o mejorados (km)*
+                                                                                               -Agencias gubernamentales beneficiadas por proyectos que fortalecen los
+                                                                                               instrumentos tecnológicos y de gestión para mejorar la provisión de servicios
+   Indicadores de desarrollo de países
+                                                                                               públicos (#)*
+                                                                                               -Hogares con tratamiento de agua residuales (#)*
+                                                                                               -Hogares con acceso Nuevo o mejorado al suministro de electricidad (#)*
+                                                                                               -Gobiernos subnacionales beneficiados por la descentralización, la gestión fiscal y
+                                                                                               proyectos de capacidad institucional (#)*
+
+
+
+
+2. Objetivos de desarrollo del país                                                                                                          Sí
+
+
+   Matriz de resultados de la estrategia de país                                                      GN-2870-1            Mejoramiento del hábitat y acceso a servicios básicos
+
+
+
+                                                                                                                           La intervención está incluida en el Programa de
+   Matriz de resultados del programa de país                                                           GN-2948
+                                                                                                                           Operaciones de 2019.
+
+
+
+   Relevancia del proyecto a los retos de desarrollo del país (si no se encuadra
+dentro de la estrategia de país o el programa de país)
+
+II. Development Outcomes - Evaluability                                                                                               Evaluable
+3. Evaluación basada en pruebas y solución                                                                                                 9.5
+   3.1 Diagnóstico del Programa                                                                                                            3.0
+   3.2 Intervenciones o Soluciones Propuestas                                                                                              4.0
+   3.3 Calidad de la Matriz de Resultados                                                                                                  2.5
+4. Análisis económico ex ante                                                                                                              8.0
+
+   4.1 El programa tiene una TIR/VPN, o resultados clave identificados para ACE                                                              3.0
+
+     4.2 Beneficios Identificados y Cuantificados                                                                                            3.0
+     4.3 Supuestos Razonables                                                                                                                0.0
+     4.4 Análisis de Sensibilidad                                                                                                            2.0
+     4.5 Consistencia con la matriz de resultados                                                                                            0.0
+5. Evaluación y seguimiento                                                                                                                  8.6
+     5.1 Mecanismos de Monitoreo                                                                                                             1.1
+     5.2 Plan de Evaluación                                                                                                                  7.5
+III. Matriz de seguimiento de riesgos y mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                                       Medio
+                     Se han calificado todos los riesgos por magnitud y probabilidad                                                        Sí
+
+  Se han identificado medidas adecuadas de mitigación para los riesgos principales                                                           Sí
+
+            Las medidas de mitigación tienen indicadores para el seguimiento de su
+                                                                                                                                             Sí
+                                                                   implementación
+Clasificación de los riesgos ambientales y sociales                                                                                          B
+IV. Función del BID - Adicionalidad
+El proyecto se basa en el uso de los sistemas nacionales
+
+                                                                                                                           Administración financiera: Presupuesto, Tesorería,
+                                                                                                                           Contabilidad y emisión de informes, Controles externos,
+                                                                                                                           Auditoría interna.
+                                                          Fiduciarios (criterios de VPC/FMP)               Sí
+                                                                                                                           Adquisiciones y contrataciones: Sistema de información,
+                                                                                                                           Método de comparación de precios, Contratación de
+                                                                                                                           consultor individual, Licitación pública nacional.
+
+
+
+                                                                                                                           Sistema Nacional de Planeación Estratégica, Sistema
+                                                                              No-Fiduciarios               Sí
+                                                                                                                           Nacional de Monitoreo y Evaluación.
+
+
+La participación del BID promueve mejoras adicionales en los presuntos
+beneficiarios o la entidad del sector público en las siguientes dimensiones:
+
+
+   Antes de la aprobación se brindó a la entidad del sector público asistencia
+técnica adicional (por encima de la preparación de proyecto) para aumentar las                             Sí              0
+probabilidades de éxito del proyecto
+
+
+Nota: (*) Indica contribución al Indicador de Desarrollo de Países correspondiente.
+
+
+El objetivo general de la CCLIP y de su primera operación es contribuir a mejorar las condiciones de vida de la población de las villas, asentamientos precarios y conjuntos
+habitacionales de la Provincia de Buenos Aires (PBA) a través de intervenciones de integración social y urbana. Los objetivos específicos de la primera operación son: (i) fortalecer y
+apoyar a los gobiernos locales y provincial en la planificación, gestión y ejecución de proyectos integrales de intervención y regularización de barrios informales; (ii) mejorar el acceso y
+facilitar el uso de servicios básicos, infraestructura urbana resiliente, espacio público, equipamiento comunitario y servicios del estado destinados a los habitantes de los barrios
+integrándolos a la trama urbana municipal; y (iii) fortalecer el capital social, potenciar oportunidades de desarrollo comunitario social, laboral y productivo y mejorar las condiciones de
+habitabilidad y tenencia.
+
+El proyecto presenta un diagnóstico completo; con una descripción precisa del déficit habitacional, condiciones ambientales y los procesos de urbanización informal de las villas,
+asentamientos y conjuntos habitacionales de la PBA. El diseño del proyecto se soporta en la evidencia tanto de proyectos realizados y evaluados en Argentina, como en las experiencias
+de otros países. Los indicadores de resultados incluidos en la matriz de resultados son SMART y cuentan con medios de verificación.
+
+El análisis económico del proyecto se llevó a cabo mediante un análisis de costo-beneficio (ACB) y se concentra en beneficios esperados relacionados con valorización de activos
+inmobiliarios de las propiedades de los asentamientos de la muestra y su entorno. El ACB se utilizó la metodología de precios hedónicos basada en proyectos implementados en la PBA
+y cuenta con un análisis de sensibilidad adecuado. El análisis concluye que el proyecto es económicamente viable, con una TIR de 26.3%, utilizando una tasa de descuento del 12%.
+
+El proyecto incluye un plan de monitoreo y evaluación que va acorde los estándares del Banco. La efectividad de la intervención propuesta se medirá siguiendo varios enfoques: un
+enfoque de análisis de diferencias en diferencias y emparejamiento estadístico y una evaluación económica expost.
+                                                                                                                                            Anexo II – AR-L1288
+                                                                                                                                                  Página 1 de 6
+                                                                  MATRIZ DE RESULTADOS
+
+    Objetivo del Proyecto:          El objetivo general de la CCLIP y de su primera operación es contribuir a mejorar las condiciones de vida de la
+                                    población de las villas, asentamientos precarios y conjuntos habitacionales de la Provincia de Buenos Aires (PBA)
+                                    a través de intervenciones de integración social y urbana.
+
+
+                                                                     IMPACTO ESPERADO
+                                                                                       Año
+                                                    Unidad de        Línea de                                           Medios de
+                 Indicadores                                                         Línea de       Meta Final                                Comentarios2
+                                                     Medida           Base1                                            Verificación
+                                                                                       Base
+    IMPACTO 1: MEJORA EN LA CALIDAD DE VIDA
+    Hogares donde al menos un miembro            % de la                n.a*           2019             -10%          OPISU – DPE3
+    reporta que padece actualmente una           población
+    enfermedad aguda.                            beneficiaria
+    Índice de seguridad de los habitantes        % de aumento           n.a.*          2019             n.a.*          OPISU - DPE
+    de las áreas precarias.                      del índice
+    Índice de percepción de seguridad de                                n.a.*          2019             n.a.*            Encuesta4
+                                                 % aumento
+    las mujeres habitantes de las áreas
+                                                 índice
+    precarias.
+
+
+
+
+1     Nota: Se indica con (n.a.*) aquellas mediciones de líneas de base para las cuales no se cuenta con datos todavía, pero se levantará la información en etapa
+      de diagnóstico de cada barrio.
+2     Detalles de la definición de los indicadores se encuentran en el Plan de Monitoreo y Evaluación (PME).
+3     Relevamientos OPISU-DPE que se realizan a todos los hogares del barrio (a nivel censo).
+4     Encuesta de percepción de OPISU que se realiza a una muestra representativa de los barrios intervenidos
+                                                                                                                                   Anexo II – AR-L1288
+                                                                                                                                         Página 2 de 6
+                                                               RESULTADOS ESPERADOS
+
+                                                                                              Año
+                                                               Unidad de       Línea de                 Meta        Medios de
+                         Indicadores                                                        Línea de                                  Comentarios2
+                                                                Medida           Base                   Final1     Verificación5
+                                                                                              Base
+
+    RESULTADO #1: fortalecer y apoyar a los gobiernos locales y provincial en la planificación, gestión y ejecución de proyectos integrales de
+    intervención y regularización de barrios informales;
+                                                              Número de           n.a*        2019        10     Informe
+    Cantidad de Planes Maestros elaborados por OPISU            Planes
+    en barrios que no pertenecen a esta operación             Integrales
+
+    RESULTADO #2: mejorar el acceso y facilitar el uso de servicios básicos, infraestructura urbana resiliente, espacio público, equipamiento
+    comunitario y servicios del estado destinados a los habitantes de los barrios integrándolos a la trama urbana municipal;
+    Viviendas de los barrios beneficiarios con uso formal    % de viviendas       11          2019        80     OPISU-DPE
+    sostenido de agua potable
+    Viviendas de los barrios beneficiarios que hacen         % de viviendas        3          2019        60     Ídem
+    disposición segura de aguas servidas
+    Viviendas de los barrios beneficiarios que reportan la   % de viviendas       31          2019        5      Ídem
+    existencia de basurales en su cuadra.
+    Porcentaje de hogares que reportan que están               % hogares          33          2019        43     Encuesta
+    satisfechos o muy satisfechos con el espacio público
+    disponible en el barrio
+    Porcentaje de hogares satisfechos o muy satisfechos        % hogares          66          2019        76     Encuesta
+    con el acceso a la salud disponible en el barrio
+    Hogares que reportan la existencia de inundaciones,        % hogares         n.a.*        2019      -10%     OPISU-DPE
+    olores fuertes y desbordes cloacales en su cuadra.
+    RESULTADO #3: fortalecer el capital social, potenciar oportunidades de desarrollo comunitario social, laboral y productivo
+    Porcentaje de hogares que reportan una buena o muy       % de hogares        93%          2019       97%     Encuesta
+    buena relación con otros vecinos.
+    Porcentaje proyectos de iniciativa comunitaria (PIC)         % PIC             0          2019        80     Informe
+    ejecutados satisfactoriamente del total financiado por
+    el programa
+    Porcentaje de Unidades productivas fortalecidas en el        % UP              0          2019        30     Informe
+    marco del Plan de Desarrollo Productivo del Barrio
+    Porcentaje de solicitudes en el SISC que han tenido      % solicitudes         0          2019        80     Informe
+    una resolución satisfactoria.                             por barrio
+
+
+5     Informe OPISU.
+                                                                                                                         Anexo II – AR-L1288
+                                                                                                                               Página 3 de 6
+                                                                                      Año
+                                                         Unidad de     Línea de                Meta       Medios de
+                    Indicadores                                                     Línea de                                Comentarios2
+                                                          Medida         Base                  Final1    Verificación5
+                                                                                      Base
+
+RESULTADO #4: mejorar las condiciones de habitabilidad y tenencia.
+Mejoras en la vivienda por inversión privada del hogar   % viviendas     38          2019        40     Encuesta
+realizadas en el último año
+
+RESULTADO #5: ahorro de energía, agua y energía de los materiales de construcción
+                                                          KW/hora       n.a.*        2020      -20%
+Ahorro del consumo energético en las edificaciones       consumido
+                                                         (mensual)
+                                                          M3/hora       n.a.*        2020      -20%     Estandares
+Ahorro del consumo de agua en las edificaciones          consumido                                      EDGE
+                                                         (mensual)
+Ahorro de energía incorporada en los materiales                         n.a.*        2020      -20%
+                                                           MJ/m2
+constructivos
+RESULTADO #6: Género
+Porcentaje de parcelas bajo proceso de                       %            0          2019        55     Informe
+regularización dominial a nombre de mujer o
+compartido
+                                                                                                                                     Anexo II – AR-L1288
+                                                                                                                                           Página 4 de 6
+                                                                             PRODUCTOS
+                                                                       Año
+                                                          Línea
+                                        Unidad de                     Línea                                       Meta      Medios de
+             Productos                                     de                  Año 1     Año 2    Año 3   Año 4                              Comentarios
+                                         Medida                         de                                        Final    Verificación6
+                                                          Base
+                                                                      Base
+
+    Componente I. Planificación Integral y Fortalecimiento Institucional
+    Relevamientos socio-                  Censos             0        2019       2         0        2       0       4      OPISU-DPE
+    habitacionales
+    Diagnóstico Urbano Integral          Estudios            0        2019       1         1        2       0       4      Informe          Incluye
+                                                                                                                                            integralmente
+    Planes Maestros diseñados             Planes             0        2019       1         1        2               4      Informe          cambio
+    Guías de gestión para               Número de            0        2019       0         0        1       1       2                       climático
+    replicar en futuras                   guías                                                                            Informe
+    intervenciones
+    Componente II. Infraestructura Urbana y Hábitat
+    Plan de intervención de               Planes             0        2019       2         0        0       0       2      Informe
+    infraestructura del barrio
+    diseñado
+    Plan de intervención de               Planes             0        2019       0         0        0       2       2      Informe
+    infraestructura del barrio
+    ejecutado
+    ➔ Hito: Calles                         Metros            0        2019     2.368     12.632     -       -     15.000   Certificados
+         pavimentadas                     lineales                                                                         de obras7
+    ➔ Hito: Lotes con                   Número de            0        2019       0         0        0       0      n.a*    Ídem
+      conexiones de agua y                lotes
+      cloaca realizadas por el
+      programa
+    ➔ Hito: Espacios públicos             Metros             0        2019     5.127     38.337     -       -     43.464   Ídem             Diseños
+      nuevos o mejorados                cuadrados                                                                                           ejecutivos y
+    ➔ Hito: Arbolado público              Árboles            0        2019      320      1.680      0       0     2.000    Ídem             pliegos de
+      nuevo                            implantados                                                                                          licitación
+    ➔ Hito: Nuevo alumbrado            Unidades de           0        2019      158       843       0       0     1.001    Ídem
+                                                                                                                                            incluyen
+      público LED en veredas            alumbrado
+                                        instaladas                                                                                          especificacion
+
+
+
+6      Informe OPISU.
+7      Certificados de Obras ratificados y reportados por el OPISU.
+                                                                                                                 Anexo II – AR-L1288
+                                                                                                                       Página 5 de 6
+
+                                                        Año
+                                               Línea
+                                Unidad de              Línea                                   Meta     Medios de
+        Productos                               de             Año 1   Año 2   Año 3   Año 4                             Comentarios
+                                 Medida                  de                                    Final   Verificación6
+                                               Base
+                                                       Base
+➔ Hito: Puntos de arrojo        Número de       0      2019      0       2       0       0      2      Informe          es de cambio
+  construidos                    puntos de                                                                              climático
+                                  arrojo y
+                                recolección
+                                 formales
+➔ Hito: Equipamiento            Número de       0      2019      1       4       0       0      5      Certificados
+  comunitario instalado y         nuevos                                                               de obras
+  en funcionamiento            equipamientos
+➔ Número de viviendas            Viviendas      0      2019    n.a*    n.a*    n.a*    n.a*    n.a*    Certificados
+  construidas                                                                                          de obra
+
+Componente III. Gestión Social y Desarrollo Comunitario
+Plan de Participación           Número de       0      2019      2       0       0       2      2      Informe
+Comunitaria diseñado              planes
+Plan de Participación           Número de       0      2019      0       0               2      2      Informe
+Comunitaria ejecutados            planes
+Planes de Desarrollo Social     Número de       0      2019      1       1       0       0      2      Informe
+Comunitario diseñados             planes
+Planes de Desarrollo Social     Número de                        0       0       0       2      2      Informe
+                                                0      2019
+Comunitario ejecutados            planes
+➔ Hito: Aumento de              Número de       0      2019      0       0       0       0     n.a*    Informe
+    vacantes en jardines y/o     vacantes
+    jardines comunitarios
+    para edades entre 0 y
+    5 años
+➔ Hito: Sistema de Gestión       SISC por       0      2019      2       0       0       0      2      Informe
+    de la Red de Protección       barrio
+    Social conformado y
+    funcionando
+Planes de Desarrollo            Número de       0      2019      1       1       0       0      2      Informe
+Productivo diseñados              planes
+Planes de Desarrollo            Número de       0      2019      0       0       0       2      2      Informe
+Productivo ejecutados             planes
+➔ Hito: Jornadas Socio                          0      2019      4      10      20      30      64     Informe
+                                 Jornadas
+    productivas realizadas
+                                                                                                                Anexo II – AR-L1288
+                                                                                                                      Página 6 de 6
+
+                                                       Año
+                                              Línea
+                                Unidad de             Línea                                   Meta     Medios de
+         Productos                             de             Año 1   Año 2   Año 3   Año 4                             Comentarios
+                                 Medida                 de                                    Final   Verificación6
+                                              Base
+                                                      Base
+➔ Hito: Cantidad de             Número de      0      2019     10      30      20      40     100     Informe
+  unidades económicas             unidades
+  fortalecidas                  financiadas
+                                Número de      0      2019     10      10      10      10      40     Informe
+Cantidad de PIC financiados
+                                 Proyectos
+Viviendas con conexiones        Número de      0      2019     400    1.200   1.200   1.200   4.000   Certificados
+intra-domiciliarias de agua       viviendas                                                           de obras
+potable realizadas
+Viviendas con conexiones                       0      2019     200     800    1.000   1.000   3.000   Ídem
+                                Número de
+intra-domiciliarias cloacales
+                                 viviendas
+realizadas
+Viviendas que reciben                          0      2019      0      50      150     200    400     Informe
+                                Número de
+asistencia para el
+                                 viviendas
+mejoramiento edilicio
+Hogares a los que se les                       0      2019      9      11       0       0      20     Informe
+ofrece ser reasentado           Número de
+(excluyendo construcción de      hogares
+vivienda nueva)
+Parcelas bajo proceso de        Número de      0      2019      0      800    1.000   1.000   2.800   Informe
+regularización dominial          parcelas
+                                                                      Anexo III – AR-L1288
+                                                                             Página 1 de 8
+
+
+
+                       ACUERDOS Y REQUISITOS FIDUCIARIOS
+
+País:                        Argentina
+Número de Programa:          AR-L1288
+Nombre del Programa:         Programa de Integración Social Urbana en el Gran
+                             Buenos Aires
+Organismo Ejecutor(OE):      Organismo Provincial de Integración Social y Urbana
+                             (OPISU), dependiente de Ministerio de Jefatura de
+                             Gabinete (MJGM)
+Equipo fiduciario:           Roberto Laguado y Analía La Rosa (FMP/CAR)
+
+                            I.   RESUMEN EJECUTIVO
+
+1.1   El Organismo Ejecutor (OE) del programa será el Organismo Provincial de
+      Integración Social y Urbana (OPISU), dependiente del Ministerio de Jefatura de
+      Gabinete de la PBA (MJGM). Para la ejecución del Componente II, OPISU contará
+      con el apoyo del Ministerio de Infraestructura y Servicios Públicos (MISP) quien a
+      través de la Unidad de Coordinación para la Integración Barrial (UCIBa) actuará
+      en calidad de subejecutor. El Ministerio de Economía (ME), a través de la
+      Dirección Provincial de Organismos Multilaterales y Financiamiento Bilateral
+      (DPOMyFB) dependiente de la Subsecretaría de Finanzas (SSF), tendrá a su
+      cargo la función de administración financiera del programa. Su interacción
+      quedará plasmada en el ROP.
+
+1.2   El Banco analizó la capacidad institucional del OE para planificar, ejecutar e
+      implementar el programa, utilizando la metodología para el Análisis de Capacidad
+      Institucional (SECI), derivando en conclusiones que le determinaron un nivel de
+      riesgo fiduciario “Medio”.
+
+            II.      CONTEXTO FIDUCIARIO DEL ORGANISMO EJECUTOR
+
+2.1   OPISU fue creado mediante Ley 14449/2018 (Art. 48), como entidad autárquica
+      de derecho público, en la órbita del MJGM. Su estructura y atribuciones están
+      determinadas por el Decreto 168/2018, que también establece la transferencia
+      presupuestaria del MJGM a OPISU a efectos de brindarle autonomía financiera.
+
+2.2   OPISU tiene entre sus funciones la planificación de las políticas de gestión urbana
+      y social, así como la formulación, implementación y ejecución de los programas y
+      planes de intervención para la integración socio-urbana en villas, asentamientos
+      y conjuntos habitacionales. En el marco de la ejecución del programa, será
+      responsable por la gestión, planificación y dirección de las adquisiciones, la
+      interlocución con el Banco, la solicitud de pagos, afectación del presupuesto del
+      crédito y solicitudes de No Objeciones.
+
+                          III.     RIESGOS FIDUCIARIOS
+
+3.1   El análisis de capacidad institucional realizado al OE aplicando la metodología
+      SECI, determinó un riesgo medio. Este análisis y sus conclusiones toman en
+                                                                        Anexo III – AR-L1288
+                                                                               Página 2 de 8
+
+
+       cuenta los desafíos relacionados con el esquema de ejecución basado en la
+       coordinación de actividades entre distintos ministerios y la reciente creación del
+       OPISU (OE del programa), el cual al momento de la evaluación se encuentra
+       todavía en proceso de conformación y estructuración. El apoyo del MISP,
+       formalizado a través de UCIBa y de la Unidad de Coordinación y Ejecución de
+       Proyectos de Obras (UCEPO), y del ME, a través de la DPOMyFB para las
+       actividades de gestión financiera, permite capitalizar la experiencia de estas
+       unidades en beneficio de OPISU y su capacidad para cumplir los objetivos del
+       programa con base en estándares fiduciarios aceptables para el Banco. Las
+       interacciones quedarán plasmadas en el ROP.
+
+3.2    Las medidas de mitigación de riesgos recomendadas son: (i) formalizar los
+       mecanismos de apoyo interinstitucional, a través de la suscripción de convenios,
+       para asegurar el cumplimiento de los objetivos del programa; (ii) revisar, mejorar
+       y reflejar en el ROP procesos fiduciarios y de ambiente de control (incluyendo un
+       capítulo contable-financiero que definirá los procesos de programación y
+       presupuesto, tesorería, contabilidad y sistemas de información, desembolsos y
+       flujo de caja, control interno y auditoria interna, y control externo), junto con
+       responsabilidades específicas según el esquema de ejecución; (iii) verificar el
+       ingreso de personal fiduciario especializado en proyectos de banca multilateral, y
+       designación de un punto focal por cada temática; (iv) capacitación fiduciaria para
+       personal de OPISU; y (v) actualizar y/o desarrollar manuales pertinentes,
+       resoluciones ministeriales o anexos al ROP para su adecuado funcionamiento.
+
+ IV.     ASPECTOS A SER CONSIDERADOS EN ESTIPULACIONES ESPECIALES A LOS
+                               CONTRATOS
+
+4.1    Cualquier Anticipo de Fondos podrá ser concedido por el Banco cuando el OE
+       haya justificado al menos el sesenta y cinco por ciento (65%) de los saldos
+       acumulados de Anticipo de Fondos pendientes de justificar. Este porcentaje se
+       justifica en la experiencia ejecutando operaciones en la PBA, cuyo circuito de flujo
+       de fondos involucra a varias áreas, lo cual atrasa el proceso de recepción
+       considerablemente.
+
+4.2    Para efectos de lo estipulado en el Artículo 4.10 de las Normas Generales, las
+       Partes acuerdan que la tasa de cambio aplicable será la indicada en el inciso (b)
+       (i) de dicho Artículo.
+
+4.3    Para efectos de determinar la equivalencia de gastos incurridos en moneda local
+       con cargo al aporte local o del reembolso de gastos con cargo al Préstamo, se
+       utilizará la tasa de cambio del primer día hábil del mes del pago.
+
+4.4    Para efectos de lo establecido en el Artículo 7.03 de las Normas Generales, los
+       informes de auditoría financiera externa y otros informes que se hayan identificado
+       como necesarios para supervisar la gestión financiera del programa, son los
+       estados financieros auditados del programa, que deberán presentarse al Banco
+       dentro un plazo de 120 días siguientes al cierre de cada ejercicio fiscal durante el
+       Plazo Original de Desembolso o sus extensiones, debidamente dictaminados por
+       auditores externos elegibles al Banco. Para efectos de lo dispuesto en el Artículo
+                                                                                            Anexo III – AR-L1288
+                                                                                                   Página 3 de 8
+
+
+              7.03 (a) de las Normas Generales, el ejercicio fiscal es el período comprendido
+              entre 1 de enero y 31 de diciembre de cada año.
+
+4.5           En el marco de la ejecución Componente III se contempla la posibilidad de ofrecer
+              unidades funcionales existentes en el barrio y zonas aledañas como opción a los
+              hogares a reasentar. Para ello se evalúa incorporar un mecanismo de
+              transferencias para el otorgamiento de compensaciones (subsidios) para la
+              adquisición de las unidades. En el caso de su eventual inclusión, los mecanismos
+              para efectuar, reconocer y auditar dichos subsidios y su eventual reconocimiento
+              como gastos elegibles deberán ser aprobados por el Banco en el ROP.
+
+      V.          ACUERDOS Y REQUISITOS PARA LA EJECUCIÓN DE LAS ADQUISICIONES
+
+A.            Ejecución de las Adquisiciones
+
+5.1           Se aplicará la Política para la Adquisición de Obras y Bienes (GN-2349-9) de abril
+              de 2011, y la Política para la Selección y Contratación de Consultores
+              (GN-2350-9) de abril de 2011.
+
+           i.    Adquisiciones de obras, bienes y servicios diferentes de consultoría. Los
+                 contratos de obras, bienes y servicios diferentes de consultoría1 generados bajo
+                 el programa y sujetos a Licitación Pública Internacional (LPI) se ejecutarán
+                 utilizando los Documentos Estándar de Licitaciones (DEL) emitidos por el
+                 Banco. Las licitaciones sujetas a Licitación Pública Nacional (LPN) se
+                 ejecutarán usando Documentos de Licitación Nacional acordados con el Banco.
+
+        ii.       Contratación con participación comunitaria. Para la ejecución de
+                  actividades de construcción de vivienda en el marco de los Componentes II y
+                  III, podrán utilizarse procedimientos para la participación de la comunidad en
+                  las contrataciones, con base en un relevamiento básico de necesidades,
+                  seguido de la selección de constructores de pequeña escala a nivel barrial y
+                  presencia geográfica. Tendrán a cargo: el cómputo y presupuesto detallado
+                  de intervenciones para cada vivienda, la provisión de los materiales, la
+                  gestión mano de obra con participación de la comunidad, y la certificación de
+                  funcionalidad de la infraestructura instalada y construida que promueva la
+                  transferencia de conocimientos. La selección de las constructoras de
+                  pequeña escala se hará con base en la cotización de precios unitarios/tarifas
+                  (a menor costo) y disponibilidad. Se detallará en el ROP.
+
+       iii.       Selección y contratación de consultores. Los contratos de servicios de
+                  consultoría generados bajo el programa se ejecutarán utilizando la Solicitud
+                  Estándar de Propuestas (SEP) emitida por el Banco.
+
+       iv.        Selección de los consultores individuales. Se hará teniendo en cuenta sus
+                  calificaciones para realizar el trabajo, sobre la base de procesos competitivos,
+                  especialmente, de comparación de calificaciones de al menos tres
+                  candidatos.
+
+1    Políticas GN-2349-9 párrafo 1.1: los servicios diferentes a los de consultoría tienen un tratamiento similar a
+     los bienes.
+                                                                                       Anexo III – AR-L1288
+                                                                                              Página 4 de 8
+
+
+ 5.2        La revisión de las especificaciones técnicas es responsabilidad del especialista
+            sectorial del programa.
+
+ 5.3        De los subsistemas nacionales aprobados por el Banco será utilizado el sistema
+            informativo.
+
+            Tabla 4.1 Montos Límite para LPI y Lista Corta con Conformación Internacional
+                 Obras                                 Bienes                               Consultoría
+      LPI          LPN      Compara         LPI           LPN         Compara-         Publicidad    Lista Corta
+                             -ción de                                  ción de       Internacional      100%
+                             Precios                                   Precios        Consultoría     Nacional
+>25.000.000 < 25.000.000    <350.000     >1.500.000   <1.500.000      <100.000       >200.000        <1.000.000
+               >350.000                               >100.000
+
+
+ B.         Adquisiciones Principales
+                                   Tabla 4.2 Tipo de Licitación y Montos
+
+                                                             Tipo de       Fecha          Monto Estimado
+                             Actividad
+                                                            Licitación    Estimada            (US$)
+             LPN     Pavimentos     Prioritarios   CDL,         LPN         Por             US$2.589.000
+             Parquización PECE Etapa 1 y Posta Policial                   confirmar
+             PECE
+             LPN Red Vial y Peatonal, CE, CDL y 8M              LPN              -        US$17.180.000
+             CP Centros de Disposición Transitoria (2)          CP               -            US$53.000
+             LPN Parquización PECE Etapa 2                      LPN              -          US$3.444.000
+             CP Parque Lineal Zanjón Güemes (incluye            CP               -          US$2.241.000
+             cruces viales)
+             CP Plaza Mercedes Sosa                           CP                 -          US$448.000
+             CP Jardín Maternal PECE                          CP                 -         US$2.033.000
+             CP Centro de Salud PECE                          CP                 -         US$1.797.000
+             CP Centro Juvenil PECE                           CP                 -         US$2.486.000
+             CP Polideportivo PECE                            CP                 -         US$1.436.000
+             LPN Obras Componente 2 Infraestructura         Múltiples            -        US$30.000.000
+             Urbana y Hábitat                                LPN
+             Servicios de conexiones domiciliarias,          LPN                 -        US$11.000.000
+             potenciamiento y mejora de vivienda
+             Consultoría de Inspección de Obras del           SP                 -            US$758.408
+             Proyecto CC8                                   Nacional
+             Consultores Equipo de Coordinación              CLND                -             US$32.500
+
+ C.         Supervisión de Adquisiciones
+
+ 5.4        Las adquisiciones serán supervisadas según el Plan de Adquisiciones y
+            generalmente de manera ex ante, con excepción de las comparaciones de
+            precios, firmas consultoras con base en calificaciones y consultoría individuales.
+            Las visitas de revisión ex post se realizarán cada 12 meses. Al menos el 10% de
+            los contratos revisados se inspeccionarán físicamente durante el programa.
+
+ 5.5        Los montos límites establecidos para revisión ex post se aplican en función de la
+            capacidad fiduciaria de ejecución de OPISU examinada durante el diseño de la
+                                                                        Anexo III – AR-L1288
+                                                                               Página 5 de 8
+
+
+      operación, y podrán ser modificados por el Banco en la medida que tal capacidad
+      varíe.
+
+
+
+                        Tabla 4.3 Límites para Revisión Ex post (US$)
+                                                  Servicios de           Consultoría
+             Obras               Bienes
+                                                  Consultoría             Individual
+
+          <15.000.000           <900.000            <600.000               <50.000
+
+
+D.    Disposiciones Especiales
+
+5.6   Mecanismos de prevención de prácticas prohibidas. Atender las disposiciones
+      de la GN-2349-9 y GN-2350-9 en cuanto a prácticas prohibidas (listas de
+      empresas y personas físicas inelegibles de organismos multilaterales).
+
+5.7   En el marco del componente III y las actividades para conexión, potenciamiento y
+      mejora de vivienda, podrán implementarse mecanismos de adquisiciones con
+      base en participación de la comunidad (GN-2349-9, Num. 3.17) o contratarse
+      servicios de facilitación, apoyo técnico y administrativo provistos por Organismo
+      no gubernamentales (ONG) u organismos públicos o privados especializados en
+      la gestión de proyectos de vivienda.
+
+E.    Registros y Archivos
+
+5.8   La documentación de los procesos de adquisiciones estará en las oficinas de
+      OPISU como responsable integral de las adquisiciones del programa. Para las
+      revisiones ex post se mantendrán los registros y archivos debidamente
+      ordenados, clasificados y actualizados.
+
+F.    Reconocimiento de gastos
+
+5.9   El Banco financiará retroactivamente con cargo a los recursos del préstamo, hasta
+      por la suma de US$11,7 millones (11,7% del monto propuesto del préstamo), y
+      reconocerá con cargo al aporte local, hasta por la suma de US$2 millones
+      (20% del monto estimado del aporte local), gastos de proyectos elegibles
+      efectuados por el Prestatario en el Componente II de la operación, siempre que
+      se hayan cumplido con requisitos sustancialmente análogos a los establecidos en
+      el Contrato de Préstamo. Dichos gastos corresponderán a la ejecución de obras
+      de infraestructura como pavimentos, áreas verdes, espacios públicos, conexiones
+      domiciliarias y equipamientos públicos (entre otros), y deberán haberse efectuado
+      a partir de la fecha de aprobación del Perfil de Proyecto (1 de abril de 2019). No
+      podrán ser incluidos los gastos que superen los 18 meses antes de la fecha de
+      aprobación del programa por el Directorio del Banco.
+                                                                            Anexo III – AR-L1288
+                                                                                   Página 6 de 8
+
+
+                                    VI.    GESTIÓN FINANCIERA
+
+6.1       Se aplicará la Política de la Guía de Gestión Financiera para Proyectos
+          Financiados por el BID (OP-273-6) y la Guía Operativa de Gestión Financiera para
+          Proyectos Financiados por el BID (OP-274-2).
+
+A.        Programación y Presupuesto
+
+6.2       El presupuesto del OE cuenta con categorías programáticas y otras
+          clasificaciones por objeto del gasto (partidas principales). Según su carácter
+          económico, los rubros pueden ser gastos corrientes, gastos de capital y
+          aplicaciones financieras. Por otro lado las fuentes internas de financiamiento
+          pueden ser el tesoro provincial, el uso del crédito y recursos propios.
+
+6.3       Se debe anticipar la asignación presupuestaria para asegurar la ejecución de la
+          operación dentro del plazo establecido.
+
+B.        Tesorería
+
+6.4       Todos los pagos se efectúan a través de la Tesorería General de la Provincia
+          (TGP) ya sea de los Organismos de Administración Central como así también de
+          los organismos Descentralizados.
+
+6.5       La DPOMyFB es la encargada de controlar mensualmente los saldos de la cuenta
+          recaudadora en US$ para recibir los fondos del préstamo y conciliarla.
+
+6.6       Las Cuentas Escriturales son subcuentas dentro de la Cuenta Única del Tesoro
+          (CUT) que administra la Tesorería General de la Provincia, donde se acreditan los
+          fondos pesificados para pagos de gastos elegibles de los organismos
+          contratantes.
+
+6.7       Los desembolsos se realizarán con base en un plan financiero detallado y de
+          acuerdo con las directrices del BID.
+
+C.        Contabilidad, Sistemas de Información y Generación de Reportes
+
+6.8       El prestatario, a través del ME, utilizará el Sistema de Gestión de Unidades
+          Ejecutoras de Préstamos Externos (UEPEX)2 como sistema de administración
+          financiera, el cual permite identificar los fondos del programa y también las fuentes
+          de financiamiento. El sistema UEPEX consigna, de conformidad con el catálogo
+          de cuentas aprobado por el Banco, las inversiones en el programa por categoría
+          de la matriz de gastos. El registro de la contabilidad se hará con base de caja y
+          se seguirán las Normas Internacionales de Información Financiera cuando
+          aplique, de acuerdo con los criterios nacionales establecidos. Los informes
+          financieros requeridos serán: (i) planes financieros por hasta 180 días posteriores
+          a la solicitud de anticipos; (ii) estados financieros anuales auditados del programa;
+          y (iii) otros informes a ser requeridos por los especialistas fiduciarios.
+
+
+
+
+2    https://dgsiaf.mecon.gov.ar/uepex/.
+                                                                         Anexo III – AR-L1288
+                                                                                Página 7 de 8
+
+
+6.9    La DPOMyFB, a través de su Dirección de Contabilidad y Desembolsos de
+       Proyectos, es responsable de realizar las siguientes actividades: (i) registrar
+       contablemente la ejecución de los programas en el Sistema UEPEX;
+       (ii) confeccionar las solicitudes de desembolsos, monitorear su aprobación y el
+       respectivo ingreso de los fondos a las cuentas de la Provincia; (iii) controlar
+       mensualmente los saldos de las cuentas especiales en dólares y conciliar las
+       cuentas bancarias de los programas; (iv) analizar mensualmente los saldos
+       contables y emitir los balances de sumas y saldos conciliados en pesos y en
+       dólares; (v) confeccionar los informes financieros requeridos por los Organismos
+       y por la Dirección Provincial; y (vi) preparar los Estados Financieros del Préstamo
+       y de su presentación a la Auditoría Externa para que realice los informes
+       correspondientes.
+
+D.     Desembolsos y flujo de caja
+
+6.10   Se aplicará la Política de Gestión Financiera para Proyectos Financiados por el
+       BID (OP-273-6) y la Guía Operativa de Gestión Financiera para Proyectos
+       Financiados por el BID (OP‐274‐2).
+
+6.11   Los recursos del financiamiento solicitados al Banco mediante la modalidad de
+       Anticipos de Fondos serán depositados en una cuenta en dólares que se
+       convertirá a moneda local de acuerdo con las necesidades operativas en una
+       cuenta en pesos exclusiva del proyecto, desde donde se pagarán los gastos e
+       inversiones de acuerdo a lo planificado. El ejecutor deberá llevar un estricto y
+       adecuado control sobre la utilización de los fondos del anticipo con mecanismos
+       que permitan verificar y conciliar los saldos disponibles que surjan de sus registros
+       con los que por iguales conceptos surgen de los registros del Banco
+       (Reporte LMS1).
+
+6.12   Se adoptará la modalidad de e-Desembolsos, el sistema web del BID que permite
+       al OE preparar y enviar electrónicamente solicitudes de desembolso al Banco,
+       reduciendo los costos de transacción, permitiendo al Banco revisar y procesar las
+       solicitudes remitidas de manera remota.
+
+E.     Control Interno y Auditoría Interna
+
+6.13   La Contaduría General de la Provincia (CGP) cumple funciones de control interno
+       vinculadas con los aspectos legales y financieros de la ejecución de los
+       préstamos. En los procesos de ejecución y pago, interviene antes de realizar los
+       pagos en forma centralizada desde la Tesorería General de la Provincia. En los
+       procesos de adquisiciones, en forma previa a las adjudicaciones o compras,
+       interviene la CGP para verificar los aspectos legales.
+
+F.     Control Externo: Auditoría Financiera Externa e Informes de los Programas
+
+6.14   El Honorable Tribunal de Cuentas (HTC) de la PBA fue declarado elegible por el
+       Banco para auditar operaciones con financiamiento del BID. Queda establecido
+       que, siempre y cuando el HTC mantenga la elegibilidad, la auditoría externa de la
+       operación será realizada por el mencionado Ente de Fiscalización Superior, sin
+       necesidad de que se realice un proceso competitivo de contratación. En caso de
+                                                                         Anexo III – AR-L1288
+                                                                                Página 8 de 8
+
+
+       que la auditoría externa no sea realizada por el HTC de la PBA, se deberá
+       contratar una firma auditora independiente aceptable por el Banco.
+
+G.     Plan de Supervisión Financiera
+
+6.15   El plan de supervisión financiera será diseñado a partir de las evaluaciones de
+       riesgo y capacidad fiduciaria realizadas de acuerdo con las revisiones “in situ” y
+       de “escritorio” previstas para el proyecto que incluye el alcance de las acciones
+       operacional, financiera y contable, de cumplimiento y legalidad, así como también
+       en base a los Informes emitidos por los auditores externos. Se planea realizar una
+       visita de inspección financiera anual, periodicidad que podrá revisarse en función
+       de la evaluación del riesgo del proyecto. Se adoptará la modalidad de revisión
+       ex post de desembolsos.
+
+H.     Mecanismo de Ejecución
+
+6.16   La DPOMyFB llevará adelante los aspectos financieros del préstamo y de
+       auditoría externa. Sus tareas más importantes con relación a los préstamos son:
+       (i) controlar y procesar solicitudes de anticipos de fondos para efectuar pagos;
+       (ii) controlar y procesar rendiciones de gastos; (iii) registro contable;
+       (iv) proyecciones de desembolsos; (v) controlar y conciliar saldos de cuentas
+       bancarias; (vi) analizar saldos contables y emitir balances conciliados; y
+       (vii) satisfacer requerimientos de auditorías.
+
+6.17   Se adoptará la modalidad de desembolsos de anticipos de acuerdo con el plan
+       financiero que abarque un máximo de 180 días, que serán rendidos cuando se
+       gaste como mínimo el 65% de los mismos. Para la solicitud se enviará el
+       formulario de solicitud de desembolsos, el estado de ejecución y el plan financiero
+       para los siguientes 180 días. El especialista de gestión financiera podrá requerir
+       información adicional, a saber: (i) detalle de compromiso; e (iii) informes de avance
+       físico financieros estimados del proyecto. Las rendiciones del anticipo deberán
+       presentarse al Banco con la siguiente información: (i) formulario de solicitud de
+       desembolsos; (ii) estado de ejecución de proyecto; (iii) conciliación de los recursos
+       del Banco; (iv) detalle de pagos; y (v) otros informes que ayuden a demostrar el
+       avance del proyecto. No se requerirá que la rendición de cuentas venga
+       acompañada de la documentación de soporte de los gastos o pagos efectuados,
+       lo cual no significa una aprobación por parte del Banco de los gastos efectuados.
+       La documentación de respaldo original de los gastos deberá estar disponible para
+       su revisión por parte del Banco en cuanto esto se solicite.
+             DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                           PROYECTO DE RESOLUCIÓN DE-___/19
+
+
+
+Argentina. Línea de Crédito Condicional para Proyectos de Inversión (CCLIP) para el Programa
+         de Integración Social y Urbana en la Provincia de Buenos Aires (AR-O0012)
+
+
+
+       El Directorio Ejecutivo
+
+RESUELVE:
+
+       1.      Autorizar al Presidente del Banco, o al representante que él designe, para que,
+en nombre y representación del Banco, proceda a formalizar el acuerdo o acuerdos que sean
+necesarios con la Provincia de Buenos Aires, como prestatario, y con la República Argentina,
+como garante, para establecer la Línea de Crédito Condicional para Proyectos de Inversión
+(CCLIP) para el Programa de Integración Social y Urbana en la Provincia de Buenos Aires
+(AR-O0012) hasta por la suma de US$400.000.000, con cargo a los recursos del Capital
+Ordinario del Banco.
+
+        2.     Establecer que los recursos asignados a Línea de Crédito Condicional para
+Proyectos de Inversión (CCLIP), para el Programa de Integración Social y Urbana en la
+Provincia de Buenos Aires, mencionada en el párrafo anterior, sean utilizados para financiar
+operaciones individuales de préstamo, de conformidad con: (a) los objetivos y reglamentos de
+la Línea de Crédito Condicional para Proyectos de Inversión aprobados mediante la Resolución
+DE-58/03 y su modificación aprobada mediante las Resoluciones DE-10/07, DE-164/07 y
+DE-86/16; (b) las disposiciones de los documentos GN-2246-9 y GN-2564-3; y (c) los términos
+y condiciones que consten en la Propuesta de Préstamo de la correspondiente operación
+individual.
+
+
+
+                          (Aprobada el ___ de ____________ de 2019)
+
+
+
+LEG/SGO/CSC/EZSHARE-1044359933-17809
+AR-O0012
+              DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                           PROYECTO DE RESOLUCIÓN DE-___/19
+
+
+
+     Argentina. Préstamo ____/OC-AR a la Provincia de Buenos Aires. Primera Operación
+      Individual bajo la Línea de Crédito Condicional para Proyectos de Inversión (CCLIP)
+             del Programa de Integración Social y Urbana en la Provincia de Buenos
+               Aires (AR-O0012) para el Programa de Integración Social y Urbana
+                               en el Gran Buenos Aires (AR-L1288)
+
+
+
+       El Directorio Ejecutivo
+
+RESUELVE:
+
+       Autorizar al Presidente del Banco, o al representante que él designe, para que, en
+nombre y representación del Banco, proceda a formalizar el contrato o contratos que sean
+necesarios con la Provincia de Buenos Aires, como prestatario, y con la República Argentina,
+como garante, para otorgarle al primero un financiamiento destinado a cooperar en la ejecución
+del Programa de Integración Social y Urbana en el Gran Buenos Aires, que constituye la
+primera operación individual bajo la Línea de Crédito Condicional para Proyectos de Inversión
+(CCLIP) del Programa de Integración Social y Urbana en la Provincia de Buenos Aires,
+aprobada el ___ de ________ de 2019 por Resolución DE-___/19. Dicho financiamiento será
+hasta por la suma de US$100.000.000, que formen parte de los recursos del Capital Ordinario
+del Banco, y se sujetará a los Plazos y Condiciones Financieras y a las Condiciones
+Contractuales Especiales del Resumen de Proyecto de la Propuesta de Préstamo.
+
+
+
+                          (Aprobada el ___ de ____________ de 2019)
+
+
+
+LEG/SGO/CSC/EZSHARE- 1044359933-17808
+AR-L1288
+

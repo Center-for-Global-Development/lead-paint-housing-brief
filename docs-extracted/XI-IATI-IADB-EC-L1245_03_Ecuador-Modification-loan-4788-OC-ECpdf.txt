@@ -1,0 +1,953 @@
+                                                                                          PUBLIC
+                                                                        SIMULTANEOUS DISCLOSURE
+
+                 DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                            ECUADOR
+
+
+
+
+    HOUSING SOLUTIONS FOR POOR AND VULNERABLE HOUSEHOLDS
+                          (EC-L1245)
+
+
+FIRST INDIVIDUAL OPERATION UNDER THE CONDITIONAL CREDIT LINE FOR
+INVESTMENT PROJECTS (CCLIP): CASA PARA TODOS SECTOR PROGRAM
+                           (EC-O0004)
+
+
+
+
+       SECOND PROPOSED MODIFICATION OF LOAN CONTRACT 4788/OC-EC
+
+
+
+
+ This document was prepared by the project team consisting of: Paloma Acevedo (CSD/HUD),
+ Project Team Leader; Karina Calahorrano (CAN/CEC); Silvia Pérez (CSD/HUD); and
+ Javier Jiménez (LEG/SGO).
+
+
+
+
+ This document is being released to the public and distributed to the Bank’s Board of Executive Directors
+ simultaneously. This document has not been approved by the Board. Should the Board approve the
+ document with amendments, a revised version will be made available to the public, thus superseding
+ and replacing the original version.
+                                                      CONTENTS
+
+
+
+I.     DOCUMENT PURPOSE AND BACKGROUND ................................................................ 1
+
+       A.     Document purpose .......................................................................................1
+       B.     Background ..................................................................................................1
+
+II.    SECOND MODIFICATION OF THE LOAN CONTRACT ..................................................... 5
+
+       A.     Description ...................................................................................................6
+       B.     Rationale ......................................................................................................8
+       C.     Cofinancing ................................................................................................ 10
+       D.     Strategic alignment ..................................................................................... 11
+       E.     Environmental and social risks ................................................................... 11
+       F.     Fiduciary risks ............................................................................................ 11
+       G.     Implementation arrangements .................................................................... 12
+       H.     Program evaluation .................................................................................... 12
+
+III.   RECOMMENDATION ............................................................................................... 12
+
+
+
+
+                                                    APPENDICES
+
+
+Proposed resolution
+                                                     - ii -
+
+
+                                                   ANNEXES
+
+Annex I     Evaluability Note
+Annex II    Results Matrix
+
+
+                                               UPDATED LINKS
+
+1.    Request for modification from the borrower
+2.    Program Operating Regulations
+3.    Report on use of loan proceeds as of September 2022
+4.    Component 1 procurement list
+5.    Ecuador housing sector study
+6.    Request for modification from the executing agency
+7.    Information technology institutional strengthening plan
+8.    Component 1 sustainability analysis
+9.    Aide-mémoire from the Agence Française de Développement (AFD)
+10.   Modification proposal report for beneficiary selection process
+11.   Modified cash flow projections
+12.   Loan proposal - Original
+13.   Loan proposal - First modification
+14.   Contract modification
+                                   - iii -
+
+
+                             ABBREVIATIONS
+
+
+AFD       Agence Française de Développement [French Development Agency]
+CCLIP     Conditional Credit Line for Investment Projects
+ENEMDU    Encuesta Nacional de Empleo, Desempleo y Subempleo [National
+          Survey of Employment, Unemployment, and Underemployment]
+INEC      National Institute of Statistics and Census
+MEF       Ministry of Economy and Finance
+MIDUVI    Ministry of Urban Development and Housing
+SBU       Salario Básico Unificado [Unified basic wage]
+SIIDUVI   Sistema Integral de Información de Desarrollo Urbano y Vivienda
+          [Integrated Urban Development and Housing Information System]
+SIV       Sistema de Incentivos para Vivienda [housing incentives system]
+VAT       Value added tax
+                           I. DOCUMENT PURPOSE AND BACKGROUND
+
+A.        Document purpose
+1.1       The Republic of Ecuador, acting through its Ministry of Economy and Finance
+          (MEF), requested—through official letter MEF-SFP-2022-0172-O (link 1) of
+          2 December 2022—that the Bank approve a second modification of the program
+          “Housing Solutions for Poor and Vulnerable Households” (4788/OC-EC) (the
+          “program”), in order to eliminate specific objective 2 and Component 2, which
+          would involve redirecting US$14 million from the Bank’s Ordinary Capital. In
+          parallel, the MEF made the same request to the Agence Française de
+          Développement (AFD), to transfer US$14 million to Component 1. Moreover, the
+          MEF requested the partial financing, with resources from that component, of the
+          strengthening of the sustainability of low-income housing construction. The
+          purpose of this document is to request that the Board of Executive Directors of the
+          Inter-American Development Bank (IDB) approve these modifications, and to
+          present the applicable technical rationale.
+B.        Background
+               Approval of conditional credit line for investment projects (CCLIP) and
+               first individual operation
+1.2       On 22 May 2019, through Resolutions DE-36/19 and DE-37/19, the Board of
+          Executive Directors approved the CCLIP: “Casa Para Todos Sector Program” for
+          up to US$200 million from the Bank’s Ordinary Capital, together with the
+          first individual operation under the CCLIP for US$93.9 million. This amount
+          increased with parallel cofinancing of US$54 million 1 from the AFD and a local
+          counterpart contribution of US$700,000, for a program total of US$148.6 million. 2
+          Loan contract 4788/OC-EC was signed on 12 July 2019, and declared eligible for
+          disbursement on 5 September 2019. 3
+1.3       Executing agency. The executing agency is the Ministry of Urban Development
+          and Housing (MIDUVI), which has extensive experience implementing housing
+          programs with the Bank, through a system of housing incentives (SIV) in Ecuador.
+          The SIV involves paying direct cash subsidies to poor households facing a housing
+          deficit, to help them gain access to adequate housing. Since its creation in 1997,
+          the SIV has supported housing solutions for over 30,000 low-income households.
+          Since 2012, the MIDUVI’s policies have helped reduce the housing deficit by
+          approximately 11 percentage points, 4 with support from the IDB through
+
+
+1     Operation with parallel IDB-AFD cofinancing. Through the Partnership Framework Agreement signed on
+      11 October 2018 and the Parallel Cofinancing Agreement with Services signed on 11 November 2019,
+      the parties agreed to the delivery of services for funds provided by the AFD for the shared components,
+      Components 1 and 2, which are governed by the same program Operating Regulations. On 22 November
+      2019, the AFD signed loan contract CEC-1031-01-U, providing resources in smaller amounts for the
+      shared components, decreasing the total from US$80 million to US$54 million.
+2     According to the changes made under the first modification, the counterpart contribution was eliminated,
+      and clarification was made that value added tax (VAT) payments will be covered with loan proceeds.
+3     The operation was declared eligible, except for Component 2, which would have remained pending until
+      the MEF and the MIDUVI determined the execution arrangements for the trust to manage these
+      resources. IDB communication CAN/CEC-1072/2019 of 5 September 2019.
+4     IDB sector diagnostic assessment.
+                                                        -2-
+
+
+
+          two previous operations executed successfully, achieving expected outcomes
+          (loans 2279/OC-EC5 and 2797/OC-EC). 6
+1.4       General objectives of the CCLIP. The general objectives are to: (i) improve
+          access for Ecuadorian households living in a situation of poverty or vulnerability
+          and without adequate housing, to affordable, sustainable, and universally
+          accessible housing; and (ii) strengthen the capacity of the Government of Ecuador
+          to generate and implement long-term housing policies.
+1.5       Specific objectives of the first individual operation. The specific objectives are
+          to: (i) reduce the quantitative housing deficit among rural households in the
+          country’s two lowest income quintiles, prioritizing those with specific vulnerability
+          indicators; 7 (ii) idem, but targeted on urban households; and (iii) optimize MIDUVI
+          institutional processes.
+               First modification of the loan contract
+1.6       Borrower’s request. On 25 September 2019, the MIDUVI 8 requested that the
+          MEF process a first modification to the scope of Components 1 and 2 of the loan
+          contract with the IDB, and that VAT payments be financed from loan resources.
+          On 21 November 2019, by official letter MEF-MINFIN-2019-0340-O, the MEF
+          submitted a formal request to the Bank. On 18 June 2020, the Board of Executive
+          Directors approved the first modification of the loan contract. On 29 June 2020, the
+          first contract modification was signed, authorizing the transfer of loan proceeds
+          from Component 2 to Component 1, the modification of the second specific
+          objective of the first individual operation, and the financing of VAT payments for
+          the procurement processes of Component 3 and other costs.
+1.7       General objectives of the CCLIP. Under the first modification, both general
+          objectives were maintained (paragraph 1.4).
+1.8       Specific objectives of the first individual operation. For the first modification,
+          specific objectives (i) and (iii) were left unchanged, while objective (ii) was modified
+          to be expressed as follows: “reduce the quantitative housing deficit among
+          households in urban areas in the first, second, and third quintiles, with household
+          incomes of up to twice the SBU” (paragraph 1.5).
+1.9       Components and other costs. As a result of the first contract modification, the
+          first individual operation had the following three components:
+
+
+
+
+5     According to its program completion report, under the indicators “quality of life of families” and “better
+      targeting.”
+6     According to its program completion report, as “percentage of beneficiary households with a Social
+      Registry score above the corresponding eligibility threshold” and “percentage of beneficiary households
+      from vulnerable groups.”
+7     For this operation, households with specific vulnerability indicators are those that include the elderly, three
+      or more minors, female heads of household, persons with disabilities, victims of domestic or sexual
+      violence, or persons belonging to indigenous, Afro-Ecuadorian, or Montubio ethnic groups.
+8     Official letter MIDUVI-MIDUVI-2019-0793-O of 25 September 2019.
+                                                   -3-
+
+
+
+        a. Component 1. Subsidies for the construction of new housing on own
+           land in rural and urban areas (IDB: US$74 million; AFD: US$40 million).
+           This component will finance direct subsidies 9 to family units living in conditions
+           of extreme and moderate poverty, in quintiles one and two based on their social
+           register score. The subsidy will be for up to 41.12 times the unified basic wage
+           (SBU). The component will also finance the construction of sustainable,
+           universally accessible housing on the beneficiary’s own land for up to
+           41.12 times the SBU. Homes will have two or three bedrooms (depending on
+           the family structure), and will meet architectural criteria adapted to the
+           bioclimatic zone. The MIDUVI will organize and prioritize demand by groups,
+           pursuant to the program Operating Regulations. Program beneficiaries may
+           request an additional subsidy of US$1,500 to finance works or equipment for
+           the provision of services (water, wastewater disposal, and electricity) when
+           these are lacking; and US$600 for titling processes. With the Bank’s financing
+           for this component, it is estimated that about 5,204 subsidies will be granted to
+           an equal number of families.
+        b. Component 2. Partial subsidies for the purchase of urban housing (IDB:
+           US$14 million; AFD: US$14 million). This component will finance direct
+           monetary subsidies to households living in poverty or moderate poverty, in the
+           first, second, and third quintiles, with household incomes of up to twice the
+           SBU, to purchase sustainable, universally accessible housing within a price
+           range from 57.57 to 101.52 times the SBU. The homes will include mitigation
+           measures to reduce their energy and water consumption. Individual and group
+           applications will be submitted to the MIDUVI and may be completed directly by
+           the eligible household. All households making up a committee will be prioritized
+           according to the criteria of the program Operating Regulations. The amount of
+           the subsidy will be US$6,000, which, in conjunction with credits from the
+           financial or cooperative sector and/or household savings, will enable
+           beneficiaries to purchase their homes. The Bank’s resources for this
+           component are expected to finance 2,333 subsidies awarded to an equal
+           number of family units.
+        c. Component 3. MIDUVI strengthening (IDB: US$3.9 million). This
+           component will finance technical and technological improvements in the
+           Integrated Urban Development and Housing Information System (SIIDUVI), in:
+           (i) the access module, to register, verify eligibility, and prioritize beneficiaries,
+           and award subsidies; (ii) the supply module, to register, qualify, award, and
+           evaluate housing developers and builders; and (iii) the optimization of the
+           property database (identification and selection of available land parcels, based
+           on criteria of accessibility and vulnerability to risks).
+        d. Other costs (IDB: US$2 million). Program resources will be used to finance
+           evaluation and monitoring costs, audits, administration, and contingencies.
+1.10    After the first modification, the program still prioritizes households on the basis of
+        specific vulnerability indicators: the presence of elderly persons, minors, female
+        heads of household, persons with disabilities, victims of domestic or sexual
+
+
+9   A nonmonetary subsidy consisting of the delivery of 100% subsidized housing to the beneficiary.
+                                               -4-
+
+
+
+         violence, or persons belonging to indigenous, Afro-Ecuadorian or Montubio ethnic
+         groups. Moreover, the Results Matrix maintains as targets that at least 6% of the
+         total of program subsidies be awarded to households with persons with disabilities,
+         and at least 22% benefit women heads of household, under criteria set out in the
+         current program Operating Regulations (link 2).
+1.11     Progress of components. Since signing the loan contract on 12 July 2019, the
+         executing agency has met all the conditions precedent for Components 1 and 3.
+         However, Component 2 has not been declared eligible. To date, a trust for the
+         component’s effective execution has not been established, due to the reasons
+         explained below. 10 The operation was declared eligible for disbursement, except
+         for Component 2, on 5 September 2019. The first advance of funds, US$40 million,
+         was provided on 9 September 2019 and the second advance of US$37,565,029.43
+         on 31 May 2022. Execution of the operation has so far been satisfactory. For
+         Component 1, 73% of the execution period has elapsed and 83% of resources
+         have been disbursed. The MIDUVI has managed to commit US$57,417,404 to
+         Component 1, representing over 78% of the total amount under this component,
+         and 86% of the disbursements have been made (link 3). This amount has enabled
+         the MIDUVI to serve 2,361 families: 32% are households headed by women and
+         16.5% include a person with disabilities (link 4). This complies with the targeting
+         objectives and eligibility guidelines set forth in link 2.
+1.12     The execution of Component 2 has not begun due to a combination of factors that
+         include the deterioration of the economic conditions of the population stemming
+         from the COVID-19 crisis with the existence of demand and supply constraints. To
+         identify these barriers and attempt to execute this component, an in-depth sector
+         study was conducted, reaching the following conclusions:
+         a. Demand. Private financial systems lack sufficient depth to offer mortgage
+            loans to the populations living in poverty or in moderate poverty who are eligible
+            for the program (in the first, second, and third quintiles, with household incomes
+            of up to twice the SBU), despite them having a US$6,000 subsidy and an
+            interest rate subsidy (offered under the guarantee for program 4699-OC-EC).
+         b. Supply. The housing supply is limited by the low return on the eligible type of
+            housing (up to US$40,000) and the great uncertainty of low demand, which
+            involves a high risk for developers and builders of being unable to sell these
+            homes.
+1.13     Twice, 11 the MIDUVI requested that the remaining proceeds available
+         (US$14 million) be transferred from Component 2 to Component 1, to address
+
+
+
+
+10   This trust was not established because of the demand and supply constraints described in
+     paragraph 1.12.
+11   Electronic correspondence (no number) from the MIDUVI of 29 December 2020 (INPUT
+     CAN/CEC-55/2021); and MIDUVI’s official letter MIDUVI-PEV-2022-0125-O of 5 July 2022 (link 6,
+     requesting that the MEF process a modification with the IDB).
+                                                     -5-
+
+
+
+          growing demand under this component. 12 The Bank’s first response 13 stated that,
+          while the underlying reasons were understandable, it had determined that at the
+          time, there were administrative, operational, and financial considerations to be
+          taken into account in justifying the fund transfer. Subsequently, during an
+          administration mission from 22 February to 5 March 2021, the MIDUVI presented
+          an analysis that showed potential demand. The parties agreed to expand this
+          analysis and attempt to execute this component. However, it was later determined
+          that the profile of the potential beneficiaries did not meet the program’s eligibility
+          criteria. To expand the knowledge about the barriers and find possible solutions to
+          execute the component, the IDB and the MIDUVI prepared a “Sector Study of
+          Ecuador’s Housing Sector Value Chain” (link 5). This included conducting an in-
+          depth analysis of the sector and interviewing more than 50 strategic stakeholders
+          in the country’s housing sector, including the managers of the main commercial
+          and public banks, as well as construction companies. The study concluded that
+          currently, the demand and supply conditions necessary to finance housing in that
+          segment for such vulnerable populations do not exist. In addition, the study
+          proposed ways to improve the housing deficit, which have been part of a dialogue
+          with the authorities and will be considered in defining future operations under the
+          CCLIP.
+1.14      For Component 3, on 27 May 2022, US$1.17 million were disbursed to execute an
+          information technology institutional strengthening plan agreed upon between the
+          IDB and the MIDUVI (link 7), to cover: (i) operational information technology issues
+          at the ministry; and (ii) the strategic implementation of the ministry’s digital
+          transformation. However, challenges of an institutional nature emerged regarding
+          the plan’s implementation, including high personnel turnover. This directly
+          impacted the component’s execution and progress in achieving the associated
+          specific objective, to “optimize MIDUVI institutional processes.” For the moment, a
+          strategic plan has been designed for the contracting of staff and information
+          technology resources to strengthen MIDUVI’s information technology, which is in
+          the process of execution.
+
+                      II. SECOND MODIFICATION OF THE LOAN CONTRACT
+
+2.1       Borrower’s       request.       The     MIDUVI,        through   official     letter
+          MIDUVI-PEV-2022-0125-O (link 6) of 5 July 2022, requested that the MEF process
+          a second modification of the loan contract with the IDB, in order to: (i) eliminate
+          specific objective 2 and therefore, Component 2, from the program; (ii) redirect
+          US$14 million (from the Bank’s Ordinary Capital) from Component 2 to
+          Component 1 to continue financing new homes on own land in urban and rural
+          areas, for households in the first and second quintiles; and (iii) finance the
+          strengthening of sustainability considerations in low-income housing construction,
+
+12    According to the MIDUVI, in 2021 the housing deficit impacted 57% of households (including both
+      qualitative and quantitative deficits), concentrated among low-income families and vulnerable
+      populations. This quantitative deficit consists of approximately 580,000 households that lack resources
+      or affordable lending instruments from the private sector to gain access to housing. Moreover, to date,
+      the social register includes approximately 1 million households that would possibly benefit from 100%
+      subsidized housing on their own land.
+13    CEC-75/2021 of 20 January 2021 and Administration mission aide-mémoire of February 2021.
+                                                       -6-
+
+
+
+          supported by a technical report (link 8) with the corresponding analysis. On 2
+          December 2022, by official letter MEF-SFP-2022-1072-O (link 1), the MEF
+          submitted a formal request to the Bank. Separately, by official letter
+          MIDUVI-PEV-2022-0157-O of 26 August 2022, the MIDUVI requested that the
+          MEF process with the AFD the transfer of proceeds between components for loan
+          CEC-1031-01-U, which is partly managed by the IDB. Therefore, on 24 November
+          2022, correspondence AFD QUITO/2022/456 was signed, authorizing the transfer
+          of US$14 million from Component 2B to Component 1A (link 9).
+A.        Description
+2.2       Objectives of the CCLIP. Under the second modification, both general objectives
+          are also maintained (paragraph 1.4).
+2.3       Specific objectives of the first individual operation. Under the second
+          modification of the loan contract, objectives (i) and (iii) were left unchanged, and
+          objective (ii) was eliminated (paragraph 1.5).
+2.4       Components and other costs. As a result of the second contract modification,
+          the first individual operation will have the following two components:
+          a. Component 1. Subsidies for the construction of new housing on own land in
+             rural and urban areas (IDB: US$88 million; AFD: US$53,757,000). This
+             component will finance direct subsidies to family units living in conditions of
+             extreme and moderate poverty, in quintiles one and two, according to their
+             social register score. To meet sustainable housing criteria, the subsidy amount
+             will be modified according to the amount determined under current national
+             regulations. 14,15 Financing will be provided for the construction of sustainable,
+             universally accessible housing on the beneficiary’s own land for the maximum
+             amount that the country establishes. Homes will have two or three bedrooms
+             (depending on the family structure), and will meet architectural criteria adapted
+             to the bioclimatic zone. 16 Under this component, the strengthening of
+             sustainability considerations in low-income housing construction may also be
+             financed. The program’s beneficiaries may request an additional subsidy to
+             finance works or equipment for the provision of services (water, wastewater
+             disposal, and electricity) when these are lacking, pursuant to current national
+             regulations; 17 and for titling processes, pursuant to current national
+
+
+
+14    For purposes of this program, the Bank will agree with MIDUVI on the maximum value for this purpose,
+      which will be incorporated into the program Operating Regulations. Currently, Article 10 of Executive
+      Decree 405 of 21 April 2022 sets forth that low-income housing that is fully subsidized by the State and
+      constructed on the beneficiary’s own land will have a value of up to 44 times the SBU.
+15    Eligible expenditures incurred by the borrower will be those made between the time that the MEF
+      submitted the request through official letter MEF-SFP-2022-0172-O (link 1) of 2 December 2022 and the
+      entry into force of the contract modification.
+16    Characterized by reduced energy and water use of 20% and 20% savings in the embodied energy of
+      building materials, compared to conventional construction.
+17    For purposes of this program, the Bank will agree with MIDUVI on the maximum value for this purpose,
+      which will be incorporated into the program Operating Regulations. Currently, Article 19(2) of Executive
+      Decree 405 of 21 April 2022 sets forth that the amount of the incentives to deliver public services will be
+      of up to 12 times the SBU.
+                                                      -7-
+
+
+
+               regulations. 18 With the Bank’s financing for this component, it is estimated that
+               approximately 5,934 subsidies will be granted to an equal number of families.
+         b. New Component 2 (formerly Component 3). MIDUVI strengthening (IDB:
+            US$3.9 million). This component will finance technical and technological
+            improvements in the SIIDUVI, in: (i) the access module, to register, verify
+            eligibility, prioritize beneficiaries, and award subsidies; (ii) the supply module,
+            to register, qualify, award, and evaluate housing developers and builders; and
+            (iii) the optimization of the property database (identification and selection of
+            available land parcels, based on criteria of accessibility and vulnerability to
+            risks). Activities are based on an initial improvement plan that includes
+            programming, systems, equipment, and human talent. An algorithm will be
+            designed to improve beneficiary selection, and to enhance coordination and
+            training on land management (including VAT) for the decentralized
+            autonomous municipal governments.
+         c. Other costs (IDB: US$2 million). This will finance costs associated with
+            evaluation and monitoring activities, audits, administration, and contingencies
+            (including VAT).
+
+                       Table 1. Estimated program costs under the second modification 19
+                                                (US$ million)*
+                         Components                    IDB      Local     AFD      Total       %
+          Component 1. Subsidies for the construction of new housing on own land in rural and urban
+          areas
+          Subsidies for housing construction                83       0     48.7      131.7        89
+          Subsidies for water connection                   3.6       0        3        6.6       4.4
+          Subsidies for administrative and legal           1.4       0        2        3.4       2.3
+          expenses
+          Total Component 1                                 88       0     53.7      141.7        96
+          Component 2. MIDUVI strengthening
+          Support for the MIDUVI                           3.9       0        0        3.9       2.9
+          Total Component 2                                3.9       0        0        3.9       2.9
+          Other costs
+          Administration                                   1.2       0        0        1.2       0,9
+          Evaluation and monitoring                        0.5       0        0        0.5       0.4
+          Audits                                           0.3       0        0        0.3       0.2
+          Total other expenses                               2       0        0          2       1.5
+          Total                                           93.9      0**    53.7      147.6      100
+          *        Sums rounded to the nearest decimal.
+          **       In compliance with Executive Decree 0001 of 2 January 2020.
+
+
+
+
+18   For purposes of this program, the Bank will agree with MIDUVI on the maximum value for this purpose,
+     which will be incorporated into the program Operating Regulations. Currently, Article 20 of Executive
+     Decree 405 of 21 April 2022 sets forth that the amount of the incentives for land titling will be of up to
+     twice the SBU. For purposes of this program, the Bank and the MIDUVI will agree upon the maximum
+     amount allocated for these purposes in the program Operating Regulations.
+19   This modification does not affect the program’s overall budget, since it only transfers amounts between
+     categories. Specifically, Component 1 will change from US$69 million (under the first modification) to
+     US$83 million after the transfer of US$14 million from former Component 2, which this second
+     modification eliminated.
+                                                     -8-
+
+
+
+2.5       Results Matrix. The Results Matrix will reflect the outcome and output indicators
+          established in order to finance the increase in funds for Component 1 and eliminate
+          specific objective 2 and Component 2, while maintaining two components, as
+          follows: Component 1, Subsidies for the construction of new housing on own land
+          in rural and urban areas; former Component 2 (eliminated); and Component 3,
+          MIDUVI strengthening.
+B.        Rationale
+              Elimination of specific objective 2 and Component 2
+2.6       With respect to the housing supply, low-income housing project records from the
+          Office of the Deputy Secretary of Housing of the MIDUVI, with a cut-off date of
+          31 May 2022, show that the recording of 4,641 housing units for Component 2
+          (low-income housing partially subsidized by the State) is pending. Of these,
+          82.63% correspond to urban areas and 17.37% to rural areas. With respect to
+          demand, that same entity, as of June 2022, has qualified 207 beneficiaries;
+          however, these beneficiaries do not meet the criteria for Component 2, because
+          their household incomes are more than twice the SBU. To address the housing
+          needs of this population, other strategies have been identified including addressing
+          the qualitative housing deficit with improvements to existing housing (as part of the
+          second operation under the CCLIP), and there has also been exploration of the
+          search for new financing solutions for the lower income population and/or those
+          earning informal income with strategic stakeholders in the housing sector (such as
+          cooperatives and savings and loan associations), and for those families that do
+          have access to mortgage credit with intermediary financial institutions and have an
+          income in excess of two SBUs, the authorities could serve this demand with fiscal
+          resources. 20 Financial hardships in Ecuador and the COVID-19 pandemic have
+          impacted the ability of households with income of up to twice the SBU to obtain
+          credit, as shown in reports submitted by the MIDUVI and the “Sector Study of
+          Ecuador’s Housing Sector Value Chain” prepared by the IDB (2021). The study
+          identified the following two main barriers for the execution of Component 2, which
+          existed prior to program design but whose scope had not been determined:
+          a. Demand. The program focuses on poor populations with household income of
+             up to twice the SBU (US$850), to acquire housing priced at up to US$40,000.
+             Under this component, the assumption is that eligible populations qualify for
+             mortgage loans from financial system institutions. However, due to the extreme
+             vulnerability of potential beneficiary families and the high incidence of informal
+             sources of income among them, these households do not qualify to obtain
+             mortgages through the financial system, because they face difficulties meeting
+             credit terms and requirements.
+          b. Supply. There is great uncertainty among housing construction companies
+             and developers regarding vulnerable populations, which extremely limits the
+             supply of these types of housing. This uncertainty is caused by the financial
+             constraints of the demand. The regulatory framework requires construction
+
+
+
+
+20    Technical report analyzing the housing deficit in Ecuador, MIDUVI, 2022.
+                                                      -9-
+
+
+
+               companies to obtain guarantees in order to draw up low-income projects, which
+               prevents many of them from registering these projects.
+2.7       The elimination of this component and deactivation of associated indicators are
+          based on the impossibility of executing Component 2 for the program’s eligible
+          populations and achieving the specific objective within the execution period for the
+          first individual operation, because of the lack of necessary conditions in the sector.
+          These lessons learned will be considered in future operations and will be duly
+          documented in the PCR. In addition, the Ecuadorian government and the Bank are
+          actively working to find alternative solutions that enable populations in this poverty
+          segment to access adequate housing.
+               Transfer of remaining resources from Component 2 to Component 1
+2.8       The proposed modification will optimize the redirection of program resources,
+          considering the high demand among beneficiaries for Component 1 and the status
+          of the component’s execution (73% of the execution period has elapsed and 78%
+          of component resources have been committed). As mentioned in paragraph 1.14,
+          the MIDUVI reported that there is a large demand backlog for Component 1, which
+          can be executed quickly, providing housing for the program’s target vulnerable
+          populations.
+2.9       The transfer of resources will enable the MIDUVI to address increased demand in
+          rural areas stemming from rising poverty levels and the rural housing deficit. 21
+          Nationwide data shows that poverty 22 in June 2017 stood at 23.1% and, in the
+          same period of 2019, it reached 25.5%. 23 However, rural poverty rose from 40.9%
+          to 43.8% over the period. This situation is accompanied by a significant housing
+          deficit. As of June 2017, the national housing deficit was 13.8%, and in the same
+          period of 2019 it had risen to 14.6%. 24 These gaps are even wider in rural areas.
+          Whereas in June 2017 the quantitative housing gap in rural areas was 26.8%, in
+          2019 it had increased to 29.6% (National Statistics and Census Institute (INEC),
+          2019).
+2.10      Significantly, the MIDUVI has the legal framework to support this modification.
+          Executive Decree 405 of 21 April 2022 sets forth the regulations for low-income
+          housing and public housing. Article 7(1) of this decree establishes: “Low-income
+          housing is fully subsidized by the State for beneficiaries living in a situation of
+          poverty or vulnerability, who meet the eligibility and prioritization criteria governed
+          by the lead agency on habitat and housing, based on the selection recorded in the
+
+
+
+
+21    The MIDUVI has received a total of 6,977 new applications both at its technical offices across the country
+      and via its website (link 4).
+22    INEC calculates poverty by determining the poverty line, the income threshold below which people are
+      considered poor. As of June 2019, the poverty line stood at US$85.03. The income threshold for people
+      under conditions of extreme poverty was US$47.92.
+23    For more, see Indicadores de Pobreza INEC, June 2019.
+24    To calculate the quantitative housing deficit between 2017 and 2019, the INEC’s National Survey of
+      Employment, Unemployment, and Underemployment (ENEMDU) for June of each year analyzed was
+      used.
+                                                    - 10 -
+
+
+
+         social register database. If housing is built on the beneficiary’s own land, its value
+         will be of up to 44 times the SBU.” 25
+2.11     It is also noteworthy that at the macroeconomic level, the country has made
+         notable progress in strengthening its policy framework, transparency, and fiscal
+         consolidation. In December 2022, for the first time in 20 years, it closed an
+         agreement with the IMF that includes indications of its commitment to
+         macroeconomic stability. Despite the favorable economic results in 2022,
+         performance in 2023 will be affected by the recent increase in global interest rates
+         and the decline in oil prices, putting additional pressure on fiscal accounts. In the
+         political arena, on 15 October, there was a second round of voting in which the
+         next president was elected. The President-elect will take office in December 2023
+         for an exceptionally short term until May 2025. During the transition process, both
+         the public and private sectors are operating normally. Moreover, in the elections
+         held on 20 August, new authorities were selected for the National Assembly. With
+         respect to the program, the IDB has been financing housing programs in the
+         country for more than two decades, through a strategic approach that has made it
+         the main multilateral partner in structuring and financing low-income housing
+         programs. In this regard, its sustainability is expected, as demonstrated through
+         several political cycles, regardless of potential changes of authorities.
+              Finance    the    strengthening   of   environmental                          sustainability
+              considerations in low-income housing construction
+2.12     In 2022, the MIDUVI began working to design new prototypes for sustainable
+         low-income housing, incorporating climate change features to address energy
+         efficiency, water savings, and optimization of the embodied energy of building
+         materials. Based on a “Sustainable Housing Study” that the IDB conducted (2022),
+         this initiative is aimed at meeting sustainability standards and certifying housing
+         according to international criteria, using the EDGE methodology as a benchmark.
+         Housing prototypes to be implemented will be designed based on the climate zone
+         and sociocultural context, including supporting beneficiary families to ensure the
+         proper use and a sense of ownership of the sustainability measures adopted.
+         Strengthening these features involves slightly increasing the maximum amount for
+         construction subsidies to match current legislation, based on the new national
+         maximum amount specified under Executive Decree 405 (at the time of this
+         modification, it was of up to 44 times the SBU). According to the Bank’s technical
+         assessment, this amount is justified to be able to strengthen sustainability
+         considerations.
+C.       Cofinancing
+2.13     Meanwhile, the AFD, the bilateral development agency with which the IDB signed
+         a parallel cofinancing agreement with services 26 to complement resources for this
+         program’s Components 1 and 2, after reviewing the applicable technical,
+
+
+25   While Executive Decree 405 sets a subsidy amount of up to 44 times the SBU, the request from the MEF
+     did not update the amount set forth in the original contract, which therefore remains in U.S. dollars, as
+     41.12 times the SBU.
+26   On 22 November 2019, the AFD signed loan contract CEC-1031-01-U for US$54 million with the
+     Government of Ecuador.
+                                           - 11 -
+
+
+
+       operational, and economic rationale, has expressed its agreement with the
+       modifications proposed by Ecuadorian authorities. This includes to: (i) eliminate
+       specific objective 2; (ii) transfer the remaining resources from Component 2 to
+       Component 1; and (iii) finance the strengthening of sustainability considerations in
+       low-income housing construction, to be undertaken with its own project (link 9).
+D.     Strategic alignment
+2.14   The proposed modification remains consistent with the second Update to the
+       Institutional Strategy (document AB-3192-2) and the Corporate Results
+       Framework, 2020-2023 (document GN-2727-12), responding to the challenge of
+       social inclusion and equality by promoting access to quality housing for poor
+       households. It is also aligned with the following crosscutting themes: (i) gender
+       equality and diversity, by prioritizing households headed by women, people with
+       disabilities, and other vulnerable groups; and (ii) climate change and
+       environmental sustainability, by promoting sustainable housing.
+2.15   The operation remains aligned with the IDB Integrated Strategy for Climate
+       Change Adaptation and Mitigation, and Sustainable and Renewable Energy
+       (document GN-2609-1), by promoting the reduction of carbon dioxide (CO2)
+       emissions in the construction sector. It is also aligned with the following sector
+       framework      documents:      (i) Urban       Development       and      Housing
+       (document GN-2732-6), by promoting access to housing for households in the
+       poorest income quintiles; (ii) Climate Change (document GN-2835-8), by
+       promoting housing with bioclimatic adaptations; and (iii) Gender and Diversity
+       (document GN-2800-8), by prioritizing property titling for women and universal-
+       access housing. Lastly, this operation contributes to Goal 11 of the Sustainable
+       Development Goals, by promoting adequate, safe, and affordable housing.
+E.     Environmental and social risks
+2.16   In accordance with the Bank’s Environment and Safeguards Compliance Policy
+       (Operational Policy OP-703), the first individual operation is classified as a “B.13”
+       operation, meaning that neither environmental and social analyses nor public
+       consultations are required. Potential environmental, social, health, and safety
+       impacts associated with the program are considered to be minor. Effective
+       mitigation measures already exist, mainly through compliance with applicable local
+       regulations and with a list of exclusions. The operation does not involve household
+       resettlement.
+F.     Fiduciary risks
+2.17   The operation maintains its “medium risk” classification. A medium fiduciary risk
+       was identified related to delays in budgetary allocations and the issuance of
+       multiyear certifications, which caused a delay in the contracting of the audit firm to
+       verify the fulfillment of subsidy allocation and use requirements. As a mitigation
+       measure, the MIDUVI will: (i) work with the MEF to ensure that multiyear budgetary
+       appropriations are received on a timely basis; and (ii) move forward with timely
+       internal measures to contract an audit firm to perform annual financial audits and
+       periodic verifications of subsidies, from the start of the program and throughout
+       its execution. In addition, the 2022 audited financial statements identified a
+       medium-high risk in internal processes that indicated that if control, supervision,
+       and monitoring processes are not established in the MIDUVI for the early detection
+                                           - 12 -
+
+
+
+       of execution exceptions and/or advanced termination of contracts, it is possible
+       that the financial information will not be reconciled in a timely manner, and the
+       financial report will not meet the contractual deadlines. In response, the program
+       management team will design the internal controls necessary to ensure that the
+       program objectives and resources are used for the purposes of the loan. In
+       addition, the MIDUVI will establish supervision procedures for the activities
+       performed by the public and/or private companies that execute the resources.
+       Lastly, the Bank team responsible for project supervision will verify that the intern
+       controls implemented work properly and at the same time will carry out
+       administrative missions.
+G.     Implementation arrangements
+2.18   As part of this modification, after the second contract modification is signed and
+       enters into force, as a condition precedent to the next disbursement, the executing
+       agency will: (i) submit the updated program Operating Regulations; (ii) update the
+       cash flow and multiyear execution plan for program execution; and (iii) maintain
+       the management team to ensure fulfillment of the stipulations of the loan contract.
+H.     Program evaluation
+2.19   Evaluations originally planned are maintained without changes, including a
+       midterm evaluation to verify progress in implementation and make changes if
+       necessary. There will also be a quasi-experimental final evaluation to measure the
+       program’s impact. The evaluation’s strategy will include a difference-in-differences
+       methodology with matching, in which the variation is measured with respect to
+       beneficiary households living in a new home, compared to beneficiary households
+       still living in inadequate housing. This evaluation will be conducted through an
+       independent consulting assignment financed by the IDB, and will be submitted
+       180 days after the last disbursement. The evaluation will include lessons learned
+       and specific recommendations for the design of future operations (supplementing
+       those of programs 2279/OC-EC and 2797/OC-EC). It will also specify
+       environmental sustainability impacts and outcomes for households headed by
+       women and those including persons with disabilities.
+
+                                 III. RECOMMENDATION
+
+3.1    Considering the information and analysis presented in this document, the Bank’s
+       Management recommends that, in accordance with the provisions of
+       paragraph 3.29(c) of the Regulations of the Board of Executive Directors of the
+       IDB (document DR-398-19) and of paragraph 6 of the List of matters to be
+       considered by the Board via Short Procedure (document CS-3953-4), the Board
+       of Executive Directors approve the modifications proposed in this document by
+       short procedure. The corresponding modifications will be reflected, as applicable,
+       in a modification to loan contract 4788/OC-EC, “Housing Solutions for Poor and
+       Vulnerable Households,” pursuant to the terms and conditions of this document.
+                                                                           Annex I – EC-L1245;4788/OC-EC
+                                                                                               Page 1 of 1
+
+
+
+                                     Evaluability Note
+EC-L1245 - First Individual Operation "Housing Solutions for Poor and Vulnerable
+ Households", under the Conditional Credit Line for Investment Projects (CCLIP)
+                "Sectoral Program House Everyone " (EC-O0004)
+
+
+                                   Second Modification
+The second modification to operation EC-L1245 maintains the general objectives of the
+CCLIP: (i) improve access for Ecuadorian households living in a situation of poverty or
+vulnerability and without adequate housing, to affordable, sustainable, and universally
+accessible housing; and (ii) strengthen the capacity of the Government of Ecuador to
+generate and implement long-term housing policies; and has as specific objectives: (i)
+to reduce the quantitative housing deficit among households in rural and urban-marginal
+areas of the two bottom quintiles of income in the country, prioritizing specific vulnerability
+indicators, and (ii) optimize the institutional processes of MIDUVI.
+The results matrix is consistent with the vertical logic, progress, and scope of the project,
+presenting adequate indicators at the outcome level. The outcome indicators are
+appropriately defined to measure the project's achievements and the fulfillment of its
+specific objectives.
+The effectiveness of the proposed intervention will be measured following a difference-
+in-difference analysis and matching.
+                                                                                                                                                                                  Annex II
+                                                                                                                                                                                Page 1 of 4
+
+
+
+                                                                                     RESULTS MATRIX
+
+
+    Objective:     The specific objectives of the first individual operation (EC-L1245) are to: (i) reduce the quantitative housing deficit among rural households in the country’s two lowest
+                   income quintiles, prioritizing those with specific vulnerability indicators; and (ii) optimize Ministry of Urban Development and Housing (MIDUVI) institutional processes.
+
+
+                                                                                     EXPECTED OUTCOMES
+
+                                                                                          Baseline     Intermediate        Final          Means of
+                    Indicators                       Unit of measure        Baseline                                                                                   Comments 2
+                                                                                            year          target 1        target         verification
+    Specific objective 1: Reduce the quantitative housing deficit among rural households in the country’s two lowest income quintiles, prioritizing those with specific
+    vulnerability indicators
+    Outcome 1.1: Reduction of the housing deficit in rural and urban periphery areas
+    Number of beneficiary households with              Households                0          2019              -           5,934     Delivery-acceptance      By vulnerability status.
+    new homes built according to the program                                                                                        certificates
+    Operating Regulations.
+    Outcome 1.2: Better access to water services
+    Percentage of homes delivered that are          Number of homes             0%          2019           100%           100%      Delivery-acceptance      By vulnerability status.
+    connected to domestic drinking water            delivered that are                                                              certificates
+    service.                                          connected to
+                                                    domestic drinking
+                                                    water service/Total
+                                                    number of homes
+                                                         delivered
+    Outcome 1.3: Increase in property titling
+    Percentage of homes delivered, with full         Number of new              0%          2019           100%           100%      Municipal records        By vulnerability status.
+    property titles.                                homes titled/Total
+                                                     number of new
+                                                        homes
+
+
+
+
+1      Intermediate target measured when 50% of program funds have been disbursed.
+2      Data should be reported by vulnerability status.
+Annex II
+Page 2 of 4
+
+
+                                                                                    Baseline   Intermediate    Final        Means of
+                   Indicators                     Unit of measure        Baseline                                                                     Comments 2
+                                                                                      year        target 1    target       verification
+ Percentage of property titles in the name of    Number of property        0%        2019          57%        57%      Municipal records     57% of households that are
+ women or jointly with their partner.            titles in the name of                                                                       eligible under the social
+                                                 women or jointly with                                                                       register are headed by women,
+                                                   their partner/Total                                                                       or by women jointly with their
+                                                  number of property                                                                         partners.
+                                                     titles delivered
+ Outcome 1.4: Reduction of household energy consumption
+ Efficient use of electricity.                   Monthly consumption       88.9      2012          50          50      MIDUVI records        Baseline of the Environmental
+                                                   in kilowatt hours                                                   (through the Energy   Information Module of the
+                                                         (kWh)                                                         Ministry)             National Survey of
+                                                                                                                                             Employment, Unemployment,
+                                                                                                                                             and Underemployment
+                                                                                                                                             (ENEMDU 2012). Monthly
+                                                                                                                                             electricity consumption - Rural.
+                                                                                                                                             The intermediate outcome is
+                                                                                                                                             the same as the final outcome,
+                                                                                                                                             because savings are expected
+                                                                                                                                             for every home delivered.
+ Specific objective 3: Optimize MIDUVI institutional processes
+ Simplification of the beneficiary                Time taken (hours)       120       2019          80          80      MIDUVI records
+ registration, eligibility, and prioritization
+ process and the registration process for
+ housing developers and builders
+ (Integrated Urban Development and
+ Housing Information System (SIIDUVI)
+ module 1).
+ Simplification of the procedure for technical           Ibid              120       2019          80          80      MIDUVI records
+ verification of land parcels (SIIDUVI
+ module 2).
+ Simplification of the procedure for                     Ibid              120       2019          80          80      MIDUVI records
+ monitoring and control of the delivery of
+ housing and compliance with the rules of
+ civic coexistence (SIIDUVI module 3).
+                                                                                                                                                                   Annex II
+                                                                                                                                                                 Page 3 of 4
+
+
+                                                                                        OUTPUTS
+
+                                                                                                                          2024
+                                                                             Baseline                                               Means of
+                 Outputs                  Unit of measure         Baseline              2020      2021    2022    2023    Final                          Comments 3
+                                                                               year                                                verification
+                                                                                                                         target
+    Component 1. Subsidies for the construction of new housing on own land in rural and urban areas
+    Number of subsidies delivered.            Subsidies              0        2019      2,361     1,421   1,422   710    5,934       MIDUVI
+                                                                                                                                     records
+    Number of additional subsidies            Subsidies              0        2019      2,361      43      0      497    2,901
+    for connection to piped water
+    delivered on land parcels without
+    services.
+    Subindicator: Percentage of         Number of subsidies          0        2019       519      313     313     156    22%         MIDUVI       Subindicator.
+    subsidies awarded to women          awarded to women                                                                             records      21.6% of households in
+    heads of household.                      heads of                                                                                             poverty or extreme poverty
+                                          household/Total                                                                                         are headed by women
+                                        number of subsidies                                                                                       (Living Conditions Survey,
+                                             awarded                                                                                              2014).
+    Subindicator: Percentage of         Number of subsidies          0        2019       142       85      85      42     6%         MIDUVI       Subindicator.
+    subsidies awarded to                     awarded to                                                                              records      The prevalence of disability
+    households including persons             households                                                                                           in Ecuador is 5.64%, with a
+    with disabilities.                   including persons                                                                                        higher incidence in
+                                        with disabilities/Total                                                                                   households living in
+                                        number of subsidies                                                                                       poverty (INEC 2010).
+                                              awarded
+    Component 2 (formerly 3). MIDUVI strengthening
+    SIIDUVI module 1, access to               Systems                0        2019        0        0       0       1       1      SIIDUVI
+    housing; and feasibility and                                                                                                  reports on
+    viability analysis (access,                                                                                                   households
+    registration, eligibility,                                                                                                    registered
+    qualification, prioritization,                                                                                                and subsidies
+    allocation, and award of                                                                                                      awarded
+    subsidies to beneficiaries;
+    registration of
+    builders/developers; and
+    qualification and registration of
+    low-income housing projects).
+
+
+3      Data should be reported by vulnerability status.
+Annex II
+Page 4 of 4
+
+
+                                                                                                                                    2024
+                                                                             Baseline                                                         Means of
+                 Outputs                  Unit of measure       Baseline                  2020      2021       2022      2023       Final                            Comments 3
+                                                                               year                                                          verification
+                                                                                                                                   target
+    Simplification of the beneficiary
+    registration, eligibility, and
+    prioritization process. 4
+    SIIDUVI module 2, land bank:              Systems               0          2019         0                   0          1         1      MIDUVI
+    construction issues and financing                                                                                                       records
+    models (land bank, cartographic
+    data, accessibility, and
+    environmental risks. Monitoring
+    of house construction and
+    inspection, types of subsidies).
+    Simplification of the registration
+    process for housing developers
+    and builders. 5
+    SIIDUVI module 3, habitat                 Systems               0          2019         0         0         0          1         1      MIDUVI
+    formation and monitoring and                                                                                                            records
+    control.
+    Simplification of the procedures
+    for technical verification of land
+    parcels 6 and for monitoring of the
+    delivery of housing and
+    compliance with the rules of civic
+    coexistence.
+
+
+
+
+4      The process considers the management of beneficiary records; MIDUVI analysis of eligibility by contrasting information with the social register, civil register, internal revenue
+       service (SRI), etc.; and notification of priority to MIDUVI headquarters. The optimization process considers enabling interoperability between several systems and eliminating the
+       current manual checks, as well as replacing notifications by the Quipux system with online reports through SIIDUVI.
+5      The optimization process considers the implementation of system interoperability for the developer register.
+6      The procedure considers the analysis of information on the land, a field visit, preparation of reports, and submission to MIDUVI head office. The process will be optimized by
+       developing a SIIDUVI module allowing the inputting of reports, plans, files, etc., so that information can be transferred online, eliminating the need to send reports via Quipux.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                               PROPOSED RESOLUTION DE-__/23
+
+
+
+ Ecuador. Second Modification to Loan Contract 4788/OC-EC “Housing Solutions for Poor and
+    Vulnerable Households. First Individual Operation under the Conditional Credit Line for
+         Investment Projects (CCLIP) EC-O0004 Casa Para Todos Sector Program”
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+       1       To approve the second modification to Loan Contract 4788/OC-EC “Housing
+Solutions for Poor and Vulnerable Households. First Individual Operation under the Conditional
+Credit Line for Investment Projects (CCLIP) EC-O0004 Casa Para Todos Sector Program”, in
+accordance with the terms and conditions established in document PR-____.
+
+       2.       That the President of the Bank, or such representative as he shall designate, is
+authorized, in the name and on behalf of the Bank, to enter into such contract or contracts as may
+be necessary with the Republic of Ecuador, as borrower, to implement the modification to which
+reference is made in paragraph 1.
+
+
+
+                               (Adopted on ___ ____________ 2023)
+
+
+
+LEG/SGO/CAN/EZIDB0000366-263631146-21198
+4788/OC-EC (EC-L1245) – Modification
+

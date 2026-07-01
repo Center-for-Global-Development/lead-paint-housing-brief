@@ -1,0 +1,2338 @@
+                                                                                       PÚBLICO
+                                                                       DISTRIBUCIÓN SIMULTÁNEA
+
+              DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                                          SURINAME
+
+
+
+  FORTALECIMIENTO DE LA PLANIFICACIÓN ESPACIAL Y LA GESTIÓN
+                   AMBIENTAL EN SURINAME
+
+
+
+                                          (SU-L1067)
+
+
+
+                                PROPUESTA DE PRÉSTAMO
+
+
+
+
+Este documento fue preparado por el equipo de proyecto integrado por Tatiana Kopelman
+(CSD/HUD), jefa de equipo; Anaitee Mills (CSD/CCS); Santiago Bucaram Villacis
+(CSD/RND), cojefes de equipo. Francine Vaurof y Raul Delgado (CSD/CCS);
+Raijant Gangadin (CCB/CSU); Carlos Salazar; Washington Fajardo; Silvia Perez;
+Dianela Avila; Sofia del Castillo; Gabriel de Barros; Manuela Palacios; y Roberto Madera
+(CSD/HUD); Sara Vila Saintetienne (LEG/SGO); Cleide Berlanda Custodio de Silva,
+Veerle Vivienne Combee (VPC/FMP); Luis Quintero (SPD/SDV) Adriana Zambrano
+(VPS/ESG); Yves Lesenfants, y Adam Mehl (CSD/ACU); Suzanne Duryea (SCL/GDI); y
+Jason Malcolm Wilks (IFD/ICS).
+
+
+El presente documento se divulga al público de forma simultánea a su distribución al Directorio
+Ejecutivo del Banco. El presente documento no ha sido aprobado por el Directorio. Si el Directorio lo
+aprueba con modificaciones, se pondrá a disposición del público una versión revisada que sustituirá y
+reemplazará la versión original.
+                                                       ÍNDICE
+
+
+
+RESUMEN DEL PROYECTO
+
+I.     DESCRIPCIÓN DEL PROYECTO Y SEGUIMIENTO DE RESULTADOS ................................ 2
+
+             Antecedentes, problema abordado y justificación ......................................... 2
+             Objetivo, componentes y costos .................................................................. 18
+             Indicadores de resultados clave .................................................................. 21
+
+II.    ESTRUCTURA DE FINANCIAMIENTO Y RIESGOS PRINCIPALES .................................... 23
+
+             Instrumentos financieros .............................................................................. 23
+             Riesgos para las salvaguardias ambientales y sociales .............................. 24
+             Riesgo fiduciario .......................................................................................... 25
+             Otros riesgos y temas clave ......................................................................... 26
+
+III.   PLAN DE IMPLEMENTACIÓN Y GESTIÓN DEL PROYECTO............................................ 27
+
+             Resumen del plan de implementación ......................................................... 27
+             Resumen del plan de seguimiento de los resultados................................... 29
+                                                    - ii -
+
+
+                                                  ANEXOS
+Anexo I       Resumen de la Matriz de Efectividad en el Desarrollo (DEM)
+Anexo II      Matriz de Resultados
+Anexo III     Acuerdos y Requisitos Fiduciarios
+
+
+
+
+                                                 ENLACES
+REQUERIDOS:
+1.   Plan de ejecución plurianual/Plan operativo anual
+2.   Plan de seguimiento y evaluación
+3.   Resumen de la revisión ambiental y social (ESRS)
+4.   Plan de adquisiciones
+OPCIONALES:
+1.   Análisis de costos y viabilidad financiera del proyecto
+2.   Manual operativo del proyecto
+3.   Sostenibilidad y cambio climático
+4.   Propuesta de reingeniería institucional para la NMA y el ROM
+5.   Estrategia para apoyar la gestión de datos en Suriname
+6.   Propuesta de viabilidad previa de construcción
+7.   Lógica vertical
+8.   Evaluación del panorama jurídico
+9.   Análisis de la innovación
+10. Acuerdo de ejecución
+11. Bibliografía
+12. Sinergias y contribuciones en todo el Grupo BID
+13. Análisis sobre género y diversidad
+14. Filtro de Política de Salvaguardias y Formulario de Análisis de Salvaguardias
+                                      - iii -
+
+
+                          SIGLAS Y ABREVIATURAS
+
+
+GEI     gases de efecto invernadero
+GIH     Centro de Inteligencia Geoespacial
+ROM     Ministerio de Planificación Espacial y Medio Ambiente
+NIMOS   Instituto Nacional de Medio Ambiente y Desarrollo
+NMA     Dirección Ambiental Nacional
+SMIN    Red de Información Ambiental de Suriname
+                                                    RESUMEN DEL PROYECTO
+
+                                               SURINAME
+            FORTALECIMIENTO DE LA PLANIFICACIÓN ESPACIAL Y LA GESTIÓN AMBIENTAL EN SURINAME
+                                              (SU-L1067)
+
+                                                Términos y condiciones financieros
+ Prestatario                                                                  Facilidad de Financiamiento Flexible(a)
+ República de Suriname                                           Plazo de amortización:                  22,5 años
+                                                                 Período de desembolso:                  7 años
+ Organismo ejecutor                                              Período de gracia:                      8 años(b)
+ Ministerio de Planificación Espacial y Medio Ambiente           Tasa de interés:                        Basada en la SOFR
+                                                                                                         (c)
+                                                                 Comisión de crédito:
+                                                                                                         (c)
+            Fuente               Monto (US$)           %         Comisión de inspección y vigilancia:
+ BID (Capital Ordinario):           30.000.000             100   Vida promedio ponderada:                15,25 años
+ Total:                             30.000.000             100   Moneda de aprobación:                   Dólar estadounidense
+                                                       Esquema del proyecto
+Objetivo/descripción del proyecto: El objetivo del programa es mejorar la capacidad institucional de Suriname para gestionar
+el uso de la tierra. Los objetivos específicos son los siguientes: (i) fortalecer los marcos, normas e instrumentos ambientales y
+de planificación espacial de Suriname; (ii) aumentar la disponibilidad y el uso de datos para la planificación espacial, el cambio
+climático y la gestión ambiental; y (iii) reforzar las condiciones operativas del Ministerio de Planificación Espacial y Medio
+Ambiente (ROM) y de la Dirección Ambiental Nacional (NMA) (párrafo 1.431.43).
+Las condiciones contractuales especiales previas al primer desembolso son las siguientes: El prestatario, a través del
+organismo ejecutor, acreditará, a satisfacción del Banco (i) la creación de la unidad de ejecución del programa provisional dentro
+del ROM y la selección de un coordinador para el programa; (ii) la aprobación y entrada en vigor del manual operativo del
+proyecto (enlace opcional 2), en los términos previamente acordados con el Banco; y (iii) la aprobación por parte del Consejo de
+Ministros de la declaración sobre la visión de desarrollo verde (párrafo 3.5). En el Anexo B del resumen de la revisión ambiental
+y social figuran las condiciones ambientales y sociales adicionales.
+Condiciones contractuales especiales de ejecución: Antes de la licitación para la construcción de los dos edificios
+bioclimáticos incluidos en el Componente 1.c, el prestatario, a través del organismo ejecutor, deberá haber presentado pruebas
+de que todos los diseños de dichos edificios cumplen las normas EDGE (párrafo 3.7). Véanse las condiciones ambientales y
+sociales adicionales descritas en el Anexo B del resumen de la revisión ambiental y social.
+Excepciones a las políticas del Banco: Ninguna.
+                                                       Alineación estratégica
+ Objetivos(d):                                     O1 ☐                             O2 ☒                             O3 ☐
+ Áreas de enfoque operativo(e):          OF1 ☒       OF2-G ☒         OF3 ☒          OF4 ☐       OF5 ☐          OF6 ☒        OF7 ☐
+                                                     OF2-D ☒
+(a)   En virtud de la Facilidad de Financiamiento Flexible (FN-655-1), el prestatario tiene la opción de solicitar modificaciones al
+      calendario de amortización, así como conversiones de moneda, tasas de interés, productos básicos y protección contra
+      catástrofes. Al considerar esas solicitudes, el Banco tendrá en cuenta factores de carácter operativo y de gestión de riesgos.
+(b)   En virtud de las opciones de amortización flexible de la Facilidad de Financiamiento Flexible, se puede modificar el período
+      de gracia a condición de que no se excedan la vida promedio ponderada original y la fecha de amortización final indicadas
+      en el acuerdo de préstamo.
+(c)   La comisión de crédito y la comisión de inspección y vigilancia serán establecidas periódicamente por el Directorio Ejecutivo
+      como parte de su revisión de los cargos financieros del Banco, de conformidad con las políticas correspondientes.
+(d)   O1 (reducir la pobreza y la desigualdad); O2 (abordar el cambio climático); y O3 (impulsar el crecimiento regional sostenible).
+(e)   OF1 (biodiversidad, capital natural y acción por el clima); OF2-G (igualdad de género); OF2-D (inclusión de grupos de
+      población diversos); OF3 (capacidad institucional, Estado de derecho y seguridad ciudadana); OF4 (protección social y
+      desarrollo del capital humano); OF5 (desarrollo productivo e innovación por medio del sector privado); OF6 (infraestructura
+      sostenible, resiliente e inclusiva); y OF7 (integración regional).
+                                                    -2-
+
+
+
+
+             I. DESCRIPCIÓN DEL PROYECTO Y SEGUIMIENTO DE RESULTADOS
+
+         Antecedentes, problema abordado y justificación
+1.1      Suriname, una pequeña nación que cuenta con importantes recursos naturales y
+         un nivel de ingresos de mediano a alto, tiene aproximadamente
+         618.040 habitantes. Forma parte del Escudo Guayanés, que abarca un tercio de
+         la Amazonía y es uno de los últimos vestigios de bosque primario intacto.
+         Suriname es el país más boscoso del mundo, dado que el 93% de su superficie
+         está cubierta de bosques. Con una tasa de deforestación del 0,2%, el país está
+         entre los tres primeros países con un alto índice de bosques y una baja tasa de
+         deforestación1, por lo que desempeña un papel fundamental en la adaptación al
+         cambio climático y la mitigación de sus efectos. También alberga una diversidad
+         de ecosistemas marinos, costeros, de agua dulce, de sabana y de bosques
+         tropicales, que desempeñan un papel crucial en su desarrollo y en el refuerzo del
+         bienestar de su población.
+1.2      Actualmente, Suriname está saliendo de una grave crisis macroeconómica. El
+         país no se había recuperado totalmente de la conmoción de precios de las
+         materias primas de 2015 cuando se produjo la pandemia de COVID-19. La crisis
+         impulsó el diseño de un plan de recuperación para estabilizar la economía,
+         proteger a las personas de bajos ingresos, restablecer la sostenibilidad de la
+         deuda, reconstruir las reservas internacionales y crear una base sólida para el
+         crecimiento inclusivo. El BID ha proporcionado apoyo presupuestario por valor
+         de US$350 millones, mientras que el Fondo Monetario Internacional (FMI)
+         desembolsó US$323 millones hasta la quinta revisión del acuerdo ampliado en el
+         marco del Servicio Ampliado del Fondo. Aunque la deuda pública sigue siendo
+         elevada, la consolidación fiscal está cobrando impulso, las reservas siguen
+         aumentando, los tipos de cambio se han estabilizado y la inflación de los precios
+         al consumo se está desacelerando.
+1.3      Los abundantes recursos naturales del país son cruciales para el panorama
+         económico nacional. La industria extractiva genera aproximadamente el 86% de
+         los ingresos en divisas y el 25% de los ingresos públicos [2]. Además, las
+         recientes prospecciones en alta mar demostraron la existencia de abundantes
+         recursos de petróleo y gas, lo que representa una nueva y prometedora fuente de
+         ingresos públicos2. Suriname tiene un potencial agrícola excepcional3 que no se
+         ha explotado al máximo [3]. Aunque las áreas y los recursos naturales
+         desempeñan un papel crucial en el desarrollo económico del país, un cambio
+         desequilibrado en el uso de la tierra socava su resiliencia frente a los crecientes
+         desafíos del cambio climático, lo que amenaza los medios de vida, provoca la
+
+
+
+1   Los países con un alto índice de bosques y bajas tasas de deforestación son aquellos que tienen una
+    cubierta forestal superior al 50% y una tasa promedio anual de deforestación inferior al promedio mundial
+    en el período de referencia de 10 años.
+2   Según el FMI (2024), se prevé que la producción de petróleo en Suriname se iniciará a finales de 2028,
+    para alcanzar un máximo de 79 millones de barriles en 2030 y 2031 antes de disminuir gradualmente.
+    Con una inversión total de US9.000 millones y flujos de inversión previa a partir de finales de 2024, el
+    crecimiento empezará a repuntar tan pronto como en 2025.
+3   En 2019, el sector agrícola representó el 5,8% del PIB de Suriname [3].
+                                                      -3-
+
+
+
+         escasez de recursos, ralentiza la conservación y, a su vez, impacta en la gestión
+         ambiental sostenible del territorio y sus comunidades.
+1.4      En Suriname, el cambio de uso de la tierra está impulsado por múltiples factores,
+         como las presiones del crecimiento económico [7], las demandas demográficas y
+         la expansión urbana. La limitada capacidad institucional del país para regular,
+         supervisar y controlar el uso de la tierra a través de la planificación espacial y la
+         gestión ambiental contribuye a un cambio desequilibrado en el uso de la tierra4,5.
+1.5      La población del país aumentó significativamente, de 183.681 habitantes en
+         1950 [8] a 618.040 en 2022 [9], lo que trajo consigo la intensificación de las
+         demandas urbanas y socioeconómicas. Dada la falta de normas de desarrollo
+         espacial, la huella urbana se extendió siguiendo un modelo de ocupación territorial
+         expansivo, fragmentado y no planificado. Esto es evidente en el Gran Paramaribo,
+         donde la huella urbana creció de 118 km2 en 1975 a 289 km2 en 2020 (Gráfico 1).
+         Este crecimiento se produjo de forma desestructurada, con bajas densidades, un
+         tejido urbano discontinuo y un carácter suburbano6, que dio lugar a la absorción
+         de zonas rurales y naturales. Si bien la superficie urbana aumentó un 13% de su
+         área total, el bosque perdió un 11,4% de cobertura [10]. En la actualidad, la
+         urbanización se considera uno de los principales impulsores del cambio de uso de
+         la tierra en el país7 [11].
+
+
+
+
+4   La falta de políticas de planificación crea un entorno en el que no hay coacción frente a discontinuidades
+    en el tejido urbano [32].
+5   El cambio de uso de la tierra representa uno de los principales motores del cambio ambiental. La gestión
+    ineficaz de la tierra ha generado una amplia degradación de la tierra, ha disminuido la productividad
+    agrícola y supone un riesgo significativo para los medios de subsistencia rurales de numerosos países en
+    desarrollo [33].
+6   La estructura de parcelas del Gran Paramaribo está formada por numerosas parcelas más pequeñas e
+    independientes, compuestas por edificios independientes y de poca altura. En la ciudad, el 62,1% de las
+    viviendas son de baja altura, con una o dos plantas [32].
+7   La expansión se ha asociado a la suburbanización del empleo, el aumento de los desplazamientos al
+    trabajo, la dependencia del automóvil, la congestión y la falta de un transporte público eficiente. Asimismo
+    está intrínsecamente vinculada a la fragmentación del hábitat, la pérdida de biodiversidad y el aumento
+    del efecto isla urbana de calor [32].
+                                                    -4-
+
+
+
+                     Gráfico 1: Crecimiento urbano del Gran Paramaribo 1975-2020
+
+
+
+
+      Fuente: URSA, a partir de Global Human Settlement Layer (GHSL).
+
+
+1.6      Otros factores que impulsan el cambio de uso de la tierra son las prácticas
+         cada vez más recurrentes e insostenibles de extracción de oro, que se dan
+         principalmente en el distrito de Brokopondo [11], y la dependencia de los
+         agricultores de subsistencia respecto de los métodos de cultivo itinerantes [13].
+         Esto, unido al limitado control gubernamental8, degrada el suelo, reduce la
+         cubierta forestal y las zonas protegidas y aumenta la erosión9, lo que incrementa
+         las emisiones de gases de efecto invernadero (GEI). Aproximadamente el 15,47%
+         de la superficie de Suriname está sometida a degradación del suelo [16]. Las
+         actividades mineras han generado 100 km² de tierras degradadas pendientes de
+         rehabilitación [16] y han supuesto el 68,9% de toda la pérdida de cubierta forestal
+         entre 2000 y 2017 [17]. Además, en 2023, la deforestación causada por la
+         agricultura itinerante representó el 93% de todas las emisiones por
+         deforestación [17]. Por otra parte, la erosión del suelo inducida por la
+         deforestación y la contaminación relacionada con la minería contribuyen a la
+         sedimentación de las vías fluviales y a la contaminación marina, y afectan
+         negativamente a hábitats críticos para la biodiversidad [15]. Las explotaciones
+         mineras y forestales agravan todo esto aún más al fragmentar y simplificar el
+
+
+8   En 2009, solo 115 de las decenas de miles de pequeños mineros de Suriname operaban legalmente [14].
+9   Estas actividades liberan cantidades sustanciales de mercurio y sedimentos en los ecosistemas terrestres
+    y acuáticos [15].
+                                            -5-
+
+
+
+       paisaje, lo que reduce la integridad estructural de los ecosistemas y compromete
+       su función y la prestación de servicios. A escala nacional, las repercusiones
+       incluyen efectos adversos para la salud y el bienestar, disminución de los ingresos
+       debido a las pérdidas de productividad del suelo y agotamiento de las tierras
+       cultivables [15].
+1.7    Los ecosistemas de Suriname son cruciales para la adaptación al cambio
+       climático y la mitigación de sus efectos. Las emisiones de carbono del país
+       son negativas, gracias a sus bosques y manglares, que almacenan 13,1 Gt de
+       CO2e. Sin embargo, los ecosistemas de Suriname están amenazados por la
+       urbanización y las actividades productivas, como la minería y la agricultura [1]. De
+       no gestionarse de forma sostenible, estas tendencias crecientes en estos sectores
+       podrían socavar gravemente la capacidad de sumidero de carbono de Suriname
+       y exacerbar los impactos del cambio climático y amenazar los medios de vida de
+       la comunidad.
+1.8    Las últimas proyecciones climáticas de Suriname [18] apuntan a un aumento de
+       la temperatura diaria de 32°C a 37°C (SSP2-4,5) o 39°C (SSP5-8,5) en todo el
+       país para todos los períodos, así como a un aumento del nivel del mar de un metro
+       para el año 2100, y eventos de precipitación más intensos. Estos cambios
+       intensificarán los peligros, lo que ejercerá una grave presión sobre la
+       infraestructura y el desarrollo urbano, dificultará aún más la gestión eficaz de
+       los activos naturales y contribuirá a la degradación de los ecosistemas y a la
+       pérdida de medios de subsistencia. El Plan de Desarrollo Plurianual de Suriname
+       2022-2026 estima que una subida de un metro del nivel del mar tendrá
+       importantes repercusiones económicas y sociales, puesto que afectará a más del
+       6,4% del producto interno bruto (PIB) del país, al 7% de su población y al 5,6% de
+       las tierras agrícolas. Suriname ya se enfrenta a una gran erosión costera y a los
+       daños causados por lluvias torrenciales, inundaciones, altas temperaturas y
+       fuertes vientos [1]. Los estudios hallaron que la pérdida de estabilización de los
+       manglares en el complejo turístico de Wegnaar Zee, en Wanica, provocó
+       inundaciones y erosión, que se tradujeron en la pérdida de 27 metros de tierra en
+       un año [19]. Con más del 90% de su población y gran parte de su infraestructura
+       y actividades humanas situadas a lo largo de la franja costera baja, muchos
+       sectores corren el riesgo de sufrir pérdidas y daños provocados por el cambio
+       climático gradual y las condiciones meteorológicas extremas [19]. Estos efectos
+       supondrán una presión añadida sobre las defensas costeras, los sistemas de
+       drenaje e irrigación de la tierra, las viviendas y la infraestructura en general [20].
+1.9    Respuesta institucional de Suriname al cambio de uso de la tierra y al
+       cambio climático. Desde 2019, el Gobierno de Suriname ha asumido importantes
+       compromisos para hacer frente a los desafíos que plantean el cambio de uso de
+       la tierra y el cambio climático. A través de su contribución determinada a nivel
+       nacional para el período 2020-2030 y el Plan Nacional de Adaptación 2019-2029,
+       se ha comprometido globalmente a mantener el 93% de su cubierta forestal
+       y a llevar a cabo una planificación y regulación integrales de la adaptación
+       al clima. Además, Suriname ratificó su compromiso con el Convenio de las
+       Naciones Unidas sobre la Diversidad Biológica y con la conservación y el uso
+       racional de los humedales y sus recursos a través de la Convención de Ramsar.
+1.10   Sin embargo, el país reconoce la necesidad de abordar los desafíos que impiden
+       una gestión óptima del uso de la tierra para alcanzar estos compromisos [21]. Esto
+       pasa por lo siguiente: (i) reforzar las instituciones para que lideren actividades
+                                                      -6-
+
+
+
+          acordes con estos compromisos; (ii) promulgar legislación y mejorar la existente;
+          (iii) introducir estrategias de uso de la tierra y planificación espacial que tengan en
+          cuenta consideraciones relativas al cambio climático; (iv) desarrollar y mejorar la
+          recopilación y el intercambio de datos; y (v) aumentar la capacidad para exigir el
+          cumplimiento de la normativa.
+1.11      En respuesta al llamamiento a prestar más atención a la planificación espacial y
+          a una política ambiental coordinada, en 2020 el país creó el Ministerio de
+          Planificación Espacial y Medio Ambiente (ROM), encargado de formular y aplicar
+          la política ambiental y de planificación espacial del país y de la coordinación
+          institucional. Adscrita al ROM, la Dirección de Medio Ambiente tiene el mandato
+          general de abordar la adaptación al cambio climático y la mitigación de sus efectos
+          y vela por que todos los acuerdos multilaterales sobre medio ambiente y cambio
+          climático se integren en las políticas y la legislación nacionales. Además, la
+          Dirección de Planificación Espacial supervisa el diseño de políticas, planificación
+          y legislación sólidas en materia de planificación espacial.
+1.12      Por otro lado, para promover un enfoque integrador de la sostenibilidad
+          económica, social y ambiental el Gobierno de Suriname promulgó en 2020 la
+          Ley Marco Ambiental para regular la contaminación, la gestión de residuos y el
+          impacto ambiental. En virtud de esta ley se creó la Dirección Ambiental Nacional
+          (NMA)10, un organismo autónomo, responsable de evaluar, hacer el seguimiento
+          y velar por el cumplimiento de la política ambiental. Hasta entonces, la gestión
+          ambiental y sostenible era responsabilidad del Instituto Nacional de Medio
+          Ambiente y Desarrollo (NIMOS), incluida la implementación de las directrices
+          institucionales de evaluación de impacto ambiental. Así, se determinó que NIMOS
+          haría la transición hacia la NMA, ampliando su mandato de implementación de la
+          política ambiental al cumplimiento y control ambientales, con la promulgación
+          pendiente de los estatutos operativos de la Ley Marco Ambiental11. El proceso de
+          transición comenzó a finales de 202312.
+1.13      Además de estos esfuerzos, el Gobierno de Suriname está preparando la visión
+          de desarrollo verde para definir los valores económicos ecológicos, promover el
+          crecimiento económico sostenible y establecer directrices para la conservación de
+          la tierra, con el objetivo de aprovechar los activos naturales y mejorar las
+          capacidades institucionales para un futuro equilibrado y sostenible13.
+1.14      Problema. A pesar de sus esfuerzos, Suriname tiene dificultades para gestionar
+          su uso de la tierra de forma sostenible dada su insuficiente capacidad. El país
+          carece de tres de las cinco áreas críticas establecidas como prácticas óptimas
+
+
+
+10   La NMA posee autonomía para velar por el cumplimiento de la normativa y en el ámbito técnico. Está
+     representada en el Consejo de Estado y el Parlamento por el ROM para asuntos normativos.
+11   Las normas subsidiarias de la Ley Marco Ambiental incluyen la regulación del ruido, los contaminantes
+     del agua y el aire y las sustancias peligrosas, la regulación de las evaluaciones de impacto ambiental y
+     social, el cumplimiento de la normativa ambiental y el fondo ambiental. En el enlace opcional 8 figura una
+     descripción detallada, la situación, el cronograma y explicaciones.
+12   La transición a la NMA es una propuesta en cuatro fases. A junio de 2024 estaban en marcha las primeras
+     dos fases.
+13   Actualmente, la visión de desarrollo verde está pasando por un proceso exhaustivo de interacción con las
+     partes interesadas en el que el BID ha participado activamente. A finales de 2024 se presentará una
+     primera propuesta de la declaración.
+                                                        -7-
+
+
+
+          para una gobernanza eficaz de la tierra, a saber14: (i) un marco jurídico,
+          institucional y normativo que reconozca los derechos existentes, vele por su
+          cumplimiento a bajo costo y empodere a los usuarios para ejercerlos de acuerdo
+          con sus aspiraciones, al tiempo que beneficia a la sociedad; (ii) sistemas
+          tributarios y de planificación del uso de la tierra diseñados para evitar
+          externalidades negativas y promover una descentralización eficaz; y (iii) un
+          sistema de suministro público de información sobre la tierra de amplio acceso,
+          completo, fiable, actual y rentable a largo plazo. Esto está asociado a los
+          siguientes factores determinantes.
+1.15      Marcos de uso de la tierra, criterios normativos e instrumentos de gestión
+          deficientes15. El uso de la tierra y la planificación espacial en Suriname están
+          caracterizados por la falta de una estrategia rectora general, una regulación
+          insuficiente, la inexistencia de instrumentos de planificación y la ausencia de
+          mecanismos de seguimiento. En la actualidad, ninguno de los 10 distritos del país
+          cuenta con un plan estructural o de zonificación. Esto ha dado lugar a una
+          parcelación descontrolada de las tierras, al solapamiento de concesiones mineras
+          y forestales, y a la doble expedición del dominio de la tierra. El marco jurídico
+          actual de planificación espacial se basa en dos leyes obsoletas y limitadas16 que
+          se han centrado en la gestión por parte del Ministerio de Obras Públicas de la
+          infraestructura de las áreas urbanas y residenciales [7] y no tienen en cuenta el
+          mandato del ROM de regulación y gestión ambiental y territorial. Además, los
+          instrumentos legislativos de gestión de la tierra están fragmentados en varios
+          documentos que regulan la emisión, el uso y la protección de la tierra y los
+          recursos naturales [7]. Actualmente, el Gobierno de Suriname está en proceso de
+          aprobación de la Ley de Planificación Espacial, que prevé un enfoque participativo
+          integrado de la planificación espacial y que incorpora consideraciones
+          relacionadas con el cambio climático y factores socioeconómicos para regular el
+          desarrollo espacial del país en los próximos 50 años. Sin embargo, son necesarias
+          normas subsidiarias17, instrumentos18, procedimientos y órganos institucionales
+          reforzados para promulgar y aplicar eficazmente la normativa [7].
+1.16      En 2020 Suriname promulgó la Ley Marco Ambiental y estableció la NMA, lo que
+          supuso un importante avance en la protección, promoción y gestión de su medio
+          ambiente. Sin embargo, los estatutos establecidos en virtud de dicha ley exigen la
+          elaboración de ordenanzas de procedimiento y reglamentarias que faciliten su
+
+
+14   Las otras áreas son las siguientes: (i) identificación y gestión de las tierras estatales claramente definidas
+     que brinden bienes públicos de forma rentable; y (ii) mecanismos accesibles para resolver con autoridad
+     las disputas y gestionar los conflictos [36].
+15   Los acuerdos institucionales se refieren a la delegación, distribución o reparto de atribuciones
+     relacionadas con la autoridad de toma de decisiones y ejecución en materia de gestión del
+     crecimiento [37].
+16   La Ley de Planificación de 1973, la Ley de Desarrollo Urbano de 1972, y la Ley de Construcción de 1952
+     regulan los permisos de construcción en las zonas residenciales de Suriname.
+17   Los marcos jurídicos se basarán en la Ley de Planificación Espacial e incluirán normas sobre los siguientes
+     aspectos, entre otros: planes estructurales, zonificación y códigos, tasas por los servicios prestados por el
+     Ministerio o subdivisiones.
+18   Los planes estructurales indican la planificación territorial de un distrito, parte de un distrito o una región
+     y se ajustan y responden a las disposiciones establecidas en el plan nacional de desarrollo espacial. Los
+     planes de zonificación son más detallados que los estructurales y establecen normas sobre la zonificación,
+     el desarrollo y el uso de las tierras incluidas en el plan.
+                                                      -8-
+
+
+
+          operatividad y amplíen su capacidad técnica de seguimiento. Además, en el ROM,
+          la Dirección de Medio Ambiente es fundamental para formular la política ambiental
+          y supervisar los proyectos relacionados con el cambio climático. Sin embargo, se
+          enfrenta a una deficiente coordinación institucional, a capacidad limitada para
+          realizar trabajo normativo y a un grado limitado de apropiación para la toma de
+          decisiones estratégicas a escala nacional y local.
+1.17      Insuficiencia de datos disponibles y fiables para gestionar el uso de la tierra
+          y el cambio de uso de la tierra. En general, los países de la Amazonía carecen
+          de suficientes datos fiables, recientes, oficiales y de fácil acceso, sobre todo en lo
+          que se refiere al uso de la tierra, la planificación espacial y los temas
+          ambientales19. Esta escasez obstaculiza los procesos normativos y la capacidad
+          de tomar decisiones basadas en pruebas. En Suriname se necesitan más
+          conocimientos para apoyar las acciones ambientales, de planificación espacial y
+          de cambio climático, pero la limitada disposición de datos fiables y de acuerdos
+          de intercambio de información representa un desafío importante [21] [34]. Una
+          encuesta realizada en 2022 reveló que el 45% de los ciudadanos encuestados no
+          podía acceder a los datos del gobierno [38]. Suriname obtuvo un puntaje de
+          57/100 en términos de cobertura y apertura de datos ambientales [39]. La
+          insuficiencia de datos territoriales, socioeconómicos y ambientales obstaculiza la
+          posibilidad de: (i) hacer el seguimiento, conceder licencias e inspeccionar el medio
+          ambiente y el territorio; y (ii) llevar a cabo una planificación ambiental y
+          territorial [22], lo que limita en última instancia la capacidad de decisión.
+1.18      En este sentido, Suriname tiene actualmente lagunas de datos sobre clima
+          y meteorología, elevación, geomorfología, hidrografía e hidrología, registro
+          ambiental rural, áreas protegidas territoriales, zonificación, turismo y carreteras20 [22]
+          (enlace opcional 5). En virtud de la Ley Marco Ambiental, la NMA se encarga de
+          recabar e intercambiar información sobre el entorno natural y humano. Para cumplir
+          esta tarea, necesita equipos especializados, tales como sistemas adecuados para
+          rastrear los datos de procedimiento21 y ambientales22 y capacitación para identificar,
+          recopilar, generar y albergar nuevos datos.
+1.19      Además, Suriname se enfrenta a la inexistencia de mecanismos de intercambio
+          de datos23 y a la falta de claridad sobre la propiedad institucional de la información
+          sobre planificación espacial, cambio climático y temas ambientales. La normativa
+          vigente no especifica las responsabilidades en materia de propiedad, intercambio
+          y mantenimiento de datos, lo que da lugar a una gestión descoordinada y a una
+          limitada colaboración interinstitucional [22]. Cada institución gestiona las bases de
+          datos existentes con parámetros técnicos y niveles de digitalización diferentes. De
+
+
+19   Por ejemplo, datos terrestres, marítimos, forestales, hidrológicos, climáticos, demográficos y geográficos.
+20   Actualmente se dispone de datos sobre vegetación, fauna y flora, saneamiento, riesgos ambientales,
+     subdivisiones políticas, demografía y energía.
+21   El sistema ha de permitir a la NMA llevar un control del programa o calendario de seguimiento, frecuencia;
+     funciones y responsabilidades; cumplimiento/incumplimiento; etc.
+22   El sistema ha de permitir a la NMA acceder a información crucial de la evaluación de impacto ambiental
+     necesaria para el seguimiento ambiental y la toma de decisiones fundamentadas: datos de referencia
+     (cuantitativos y cualitativos); datos geográficos; impactos ambientales significativos; medidas de
+     mitigación; variables de seguimiento o indicadores de desempeño; resultados de seguimiento.
+23   La información sobre minería, vida silvestre y conservación de la naturaleza está dispersa en documentos
+     de investigación, informes y sitios web de terceros [22].
+                                                     -9-
+
+
+
+          un total de 30 organizaciones que actualmente poseen algún tipo de datos, solo
+          el 30% los comparte [22]. Asimismo, la recopilación de datos sobre emisiones de
+          carbono detectó numerosos obstáculos que dificultan la elaboración de
+          inventarios nacionales sobre GEI y la planificación del financiamiento para
+          adaptación y la acción climática en todo el país [12]. Hasta la fecha, Suriname
+          solo ha elaborado tres de los siete inventarios nacionales sobre GEI [12].
+1.20      En 2016 se creó la Red de Información Ambiental de Suriname (SMIN)24, que
+          actúa como red con el fin de producir de forma colaborativa información y datos
+          ambientales oficiales y formales para la formulación de políticas y la planificación
+          a nivel nacional, así como de establecer y publicar procesos de elaboración de
+          informes coherentes (Plan Nacional de Adaptación, 2019). Esta red no ha llegado
+          a ponerse en funcionamiento debido a la falta de un mandato legal [22] y de
+          recursos financieros para apoyar sus objetivos.
+1.21      En la práctica, estas lagunas y ambigüedades pueden dar lugar a duplicaciones,
+          solapamientos, contradicciones entre algunos grupos de datos, un gasto
+          innecesario de recursos humanos y financieros e incertidumbre en la validación
+          de los datos, lo que en últimas perjudica la credibilidad de la información y sus
+          decisiones. Esto dificulta la capacidad del país para hacer seguimiento, comunicar
+          y verificar las medidas nacionales en materia de clima, desarrollo espacial y medio
+          ambiente.
+1.22      Los nuevos organismos gubernamentales con competencias sobre el uso
+          de la tierra, la planificación espacial, el cambio climático y la gestión
+          ambiental tienen limitaciones en lo que respecta a su capacidad
+          institucional, capital humano calificado e instalaciones idóneas, además de
+          mecanismos de coordinación insuficientes. Tanto la NMA como el ROM
+          carecen de conocimientos técnicos suficientes y sus sistemas de gestión operativa
+          son inadecuados. La NMA tiene dificultades para contratar personal debido a los
+          desafíos que supone encontrar profesionales calificados. Este órgano tiene
+          40 puestos vacantes, y solo tiene cubierto el 50% del total de sus puestos 25.
+          También carece de programas regulares de capacitación de personal, soluciones
+          digitales para supervisar y gestionar los proyectos, y procedimientos para la
+          gestión de la calidad técnica de las obras/bienes, la contabilidad financiera y las
+          adquisiciones. Asimismo, con el gran incremento de responsabilidades26, la NMA
+          tiene previsto contratar a 40 funcionarios más para finales de 202427. Así pues,
+          necesita adoptar procesos robustos de incorporación de personal, plataformas
+          sólidas de capacitación y fortalecimiento de capacidad, y sistemas de planificación
+          y control que apoyen la gestión de los recursos humanos del equipo en
+          crecimiento.
+
+
+
+
+24   La SMIN está compuesta por la NMA (antiguo NIMOS), MGLIS, ABS, PlanBuro y SBB. Forma parte de la
+     NMA, que es la entidad que la preside.
+25   Datos de diciembre de 2023.
+26   La NMA se puso en marcha el 22 de julio, el gobierno concluyó los diálogos con los sindicatos de
+     trabajadores, se aprobaron modificaciones de la Ley Marco Ambiental, se revisaron los reglamentos de
+     gestión y las escalas salariales y se contrató a un oficial de finanzas.
+27   El número total de empleados será de 42, puesto que se ha concluido una primera tanda de nuevas
+     contrataciones y el personal existente del NIMOS habrá hecho la transición a la NMA para el 22 de julio.
+                                           - 10 -
+
+
+
+1.23   El ROM también necesita más personal calificado, dada su tasa de vacantes en
+       los departamentos técnico, de contrataciones, contabilidad y finanzas, y gestión
+       de proyectos, que es superior al promedio (20% frente al 10%) [44]. La plantilla
+       del ROM está formada por 69 personas y necesita que el equipo crezca al menos
+       un 30% en el próximo año para cumplir su mandato. El ROM está realizando
+       sistemáticamente procesos de contratación para completar su plantilla. En la
+       actualidad, el puesto de Secretario Permanente de Planificación Espacial está
+       vacante y el área solo cuenta con seis funcionarios, lo que dificulta en buena
+       manera su capacidad para elaborar, aplicar y hacer cumplir las políticas
+       requeridas, brindar servicios de asesoría y coordinarse con otros organismos.
+       Para paliar estas carencias, el ROM contrató a consultores temporales para que
+       presten apoyo a actividades clave y evaluó a funcionarios públicos existentes para
+       incorporarlos a su plantilla. Asimismo, está trabajando con entidades educativas
+       locales e internacionales para estudiar la posibilidad de atraer a estudiantes al
+       Ministerio y crear oportunidades de educación y formación continua. Sin embargo,
+       el Ministerio y las entidades académicas locales necesitan apoyo financiero y
+       técnico para llevar a cabo estos esfuerzos.
+1.24   El ROM y la NMA no disponen de sus propias instalaciones. Los espacios que
+       ambas entidades alquilan actualmente son ineficientes. El espacio físico es
+       insuficiente para dar cabida y expandir a los equipos. Además, estos espacios no
+       son accesibles para personas con discapacidad física, lo que crea barreras para
+       su participación y el uso de los servicios. La falta de tecnologías ecoeficientes para
+       mejorar el uso de la energía y el agua, unida a los precios del alquiler, suponen
+       una carga financiera recurrente. El ROM paga actualmente US$4.000 en concepto
+       de alquiler mensual y se han presupuestado otros US$20.000 para reparaciones,
+       estacionamiento y servicios públicos. La NMA paga US$9.000 por el alquiler de
+       sus oficinas actuales. Tampoco tiene suficiente mobiliario de oficina,
+       almacenamiento, equipos y programas informáticos, equipos de seguimiento,
+       vehículos, internet, telecomunicaciones y servicios de seguridad. Por último,
+       ambas instituciones están rezagadas en cuanto a prestación de servicios en línea
+       y acceso público a la información. Suriname obtuvo un puntaje de 108/193 en la
+       clasificación de la ONU sobre gobierno electrónico [40]. A esto se suma una
+       estrategia de comunicación deficiente, lo cual limita el alcance y el impacto de las
+       acciones de ambos organismos.
+1.25   Género. En todo el mundo, las mujeres se ven afectadas de forma desigual por
+       el uso de la tierra, la planificación espacial y las decisiones ambientales. Sin
+       embargo, sus intereses y necesidades suelen quedar excluidos de los procesos
+       de planificación espacial comunitaria y a menudo están infrarrepresentadas en
+       profesiones afines como la arquitectura y la ingeniería [41]. En Suriname,
+       representan el 51,5% de la población y, a pesar del aumento relativo del número
+       de mujeres en puestos directivos y del incremento de su matriculación en
+       educación terciaria, siguen teniendo una participación marginal en la toma de
+       decisiones a escala nacional [25]. Por ejemplo, en 2022 la brecha de género en
+       Suriname en el liderazgo político ascendía al 23%, y en la participación
+       económica, al 74%. Solo el 29,4% de los cargos ministeriales están ocupados por
+       mujeres, y los hombres ocupan 2,4 veces más escaños en el parlamento nacional
+       que las mujeres [52]. Asimismo, por lo que se refiere a las oportunidades
+       económicas, la educación, la salud y el liderazgo político, el índice de brecha de
+       género está cerca del 74%, seis puntos por encima del promedio mundial y
+       un punto por encima del promedio de América Latina y el Caribe [24]. A través de
+                                           - 11 -
+
+
+
+       su Documento de Política de Visión de Género 2021-2035, el país se ha
+       comprometido a promover la participación y la inclusión de las mujeres. Sin
+       embargo, la falta de conciencia de género es uno de los principales obstáculos en
+       el proceso de eliminación de las prácticas discriminatorias [43]. Un estudio
+       realizado específicamente para el ROM y la NMA determinó que estas entidades
+       aún no cuentan con disposiciones para la igualdad de oportunidades, la equidad
+       y la lucha contra la discriminación del personal femenino [44] (véase el enlace
+       opcional 13).
+1.26   Diversidad. En Suriname habitan varios pueblos indígenas y cimarrones
+       (afrodescendientes), los cuales representan alrededor del 22% de la población
+       total [25]. Se concentran principalmente en el interior del país, donde se han
+       registrado sequías e inundaciones extremas. Su dependencia de los recursos
+       naturales para cubrir sus necesidades básicas los hace especialmente
+       vulnerables al cambio climático y a los desastres. Estas comunidades también
+       están rezagadas en infraestructura y servicios básicos como agua potable y
+       saneamiento [25]. Tener en cuenta esta realidad es esencial para la economía y
+       la población del país. Sin embargo, los pueblos indígenas y los afrodescendientes
+       muchas veces están excluidos de los procesos de planificación que tienen un
+       impacto significativo sobre ellos [41].
+1.27   Las personas con discapacidad representan el 15,9% de la población del país.
+       Sin embargo, el marco jurídico de Suriname no ha establecido esquemas de
+       planificación espacial que se adapten a sus necesidades ni códigos de
+       construcción que exijan aspectos de accesibilidad. Aunque no se dispone de datos
+       sobre Suriname, los informes regionales apuntan a su limitada participación en los
+       procesos de toma de decisiones [42] y al bajo nivel de accesibilidad de las
+       instalaciones públicas de América Latina y el Caribe para este segmento de la
+       población [42]. Además, las personas con discapacidad del país tienen menos
+       probabilidades de estar empleadas que las personas sin discapacidad (39,9%
+       frente a 53,2%). En 2012, solo 9 de los 17 ministerios tenían a personas con
+       discapacidad como empleados de las oficinas gubernamentales, y solo
+       dos trabajaban en el sector de planificación espacial. Las personas con
+       discapacidad entrevistadas consideran que algunas de las razones son la
+       preocupación por la seguridad de la entidad contratante y la falta de voluntad de
+       colegas para ayudarlos en el lugar de trabajo [45]. En todo el mundo, las personas
+       con discapacidad también se enfrentan a barreras discriminatorias al acceder a la
+       información y los servicios públicos. Por ejemplo, afrontan numerosos desafíos a
+       la hora de acceder a plataformas digitales, ya que a menudo no están diseñadas
+       pensando en la accesibilidad.
+1.28   Estrategia del programa. Al ser la primera operación de financiamiento que
+       busca fortalecer la capacidad institucional de Suriname para gestionar el uso de
+       la tierra, el programa representa un paso fundamental en la integración transversal
+       de la preparación ante el cambio climático y la gestión ambiental en la planificación
+       espacial y el desarrollo socioeconómico del país. Además, las inversiones
+       realizadas mediante esta operación resultan oportunas y críticas para respaldar la
+       ambición ambiental de Suriname y la consecución de su compromiso internacional
+       2030. El programa abordará los factores determinantes del problema en tres áreas
+       clave: planificación espacial, gestión ambiental y respuesta al cambio climático.
+       Esto implica desarrollar marcos, normativas e instrumentos sólidos para lograr
+       prácticas sostenibles de uso de la tierra y un desarrollo con bajas emisiones de
+                                          - 12 -
+
+
+
+       carbono. El proyecto se centrará en diseñar y aplicar una estrategia integral de
+       planificación espacial centrada en las prioridades ambientales y la resiliencia
+       climática. Tanto la planificación espacial como la del uso de la tierra son facetas
+       integrales en la elaboración de estrategias y planes sostenibles, bien coordinados
+       e inclusivos que fomenten el desarrollo de comunidades más resilientes y
+       habitables [27].
+1.29   El proyecto abordará las brechas de datos existentes proporcionando un
+       sistema de información ambiental integrado, lo que incluye un Centro de
+       Inteligencia Geoespacial (GIH) y un sistema de seguimiento, información y
+       verificación para mejorar la toma de decisiones sobre el clima. El sistema de
+       información ambiental facilitará el uso y la distribución de datos ambientales para
+       evaluar el impacto climático y ambiental, hacer el seguimiento de las emisiones
+       de GEI y otros contaminantes, calibrar los efectos económicos de los cambios
+       ambientales y formular políticas que mejoren el desempeño ambiental de
+       empresas, sectores y unidades administrativas. Dados los crecientes efectos
+       negativos del cambio climático, es imperativo contar con un sólido sistema de
+       seguimiento a fin de configurar la capacidad de Suriname para alcanzar sus
+       objetivos de desarrollo [28]. Desarrollar un sistema de ese tipo es crucial para
+       discernir los patrones de emisión, identificar las áreas para las actividades de
+       reducción de GEI, hacer un seguimiento del apoyo a los esfuerzos de mitigación,
+       medir la eficacia de las acciones planificadas, autoevaluar el impacto de la
+       asistencia recibida y llevar un control del avance en la reducción de
+       emisiones [29].
+1.30   Para asegurar la preparación institucional, el proyecto establecerá programas de
+       creación de capacidad y medidas de fortalecimiento operativo para el ROM y la
+       NMA. Por último, para mejorar la gobernanza ambiental en general, el proyecto
+       diseñará plataformas digitales de zonificación, uso de la tierra y permisos
+       ambientales que se ajusten a las normas internacionales y satisfagan las
+       necesidades tanto de los funcionarios públicos como de los ciudadanos de
+       Suriname. Esto empoderará al país para regular el impacto de las actividades
+       humanas sobre los recursos naturales, salvaguardar el bienestar público y
+       promover la prosperidad sostenible [30]. La lógica vertical de este programa se
+       incluye en el enlace opcional 7.
+1.31   Experiencia del Banco en el sector y el país y lecciones aprendidas. El Banco
+       tiene una larga trayectoria en la promoción del uso sostenible de la tierra a través
+       de una sólida planificación espacial, gestión ambiental e integración transversal
+       del cambio climático, que se asientan en capacidades institucionales robustas
+       nacionales y subnacionales. La operación se basa en experiencias derivadas de
+       la Política Nacional de Planificación y Ordenamiento Territorial
+       (ATN/OC-15982-PN), que acompañó la formulación del plan y la política nacional
+       de ordenamiento territorial de Panamá, así como la formulación de programas de
+       capacitación institucional para su implementación. Por otro lado, el programa de
+       Apoyo a la Implementación de la Ley de Ordenamiento Territorial en República
+       Dominicana (ATN/AC-19697-DR; ATN/OC-19696-DR) apoyó el diseño de
+       instrumentos para el ordenamiento territorial municipal teniendo en cuenta
+       consideraciones relacionadas con el cambio climático. La operación también se
+       basa en el Apoyo para el Desarrollo e Implementación de Sistemas de Información
+       Territorial y Urbano en México (ATN/JF-16577-ME), con el que se ayudó al país a
+       conceptualizar el sistema nacional de información territorial y urbana. Este
+                                                      - 13 -
+
+
+
+           programa también incorpora experiencias del proyecto de Apoyo para la
+           Conservación y Gestión del Patrimonio Cultural y Natural (4450/OC-PN) y del
+           Programa de Competitividad Agropecuaria (4097/OC) sobre el uso de entidades
+           externas de gestión para crear capacidad, salvaguardar la calidad técnica y
+           asegurar el éxito en la ejecución del programa.
+1.32       En Suriname, el Banco ha prestado apoyo para promover una planificación
+           espacial y gestión ambiental sostenibles y resilientes, en consonancia con las
+           estrategias del país (párrafo 1.39). La operación de cooperación técnica titulada
+           Gestión Ambiental (ATN/SF-5941-SU) apoyó el establecimiento de la política
+           ambiental inicial, que sentó las bases del NIMOS, recién creado en ese momento.
+           Ante la creciente vulnerabilidad al cambio climático, el Banco proporcionó a
+           Suriname la operación de cooperación técnica titulada Incorporación del Cambio
+           Climático en Herramientas Sostenibles de Toma de Decisiones
+           (ATN/OC-17395-SU), que respaldar la inclusión del cambio climático en el Plan
+           Nacional de Desarrollo de Suriname y el fortalecimiento del NIMOS. Estas
+           operaciones de cooperación técnica fueron las actividades iniciales dirigidas a
+           establecer el panorama actual para la planificación espacial, la gestión ambiental
+           y la adaptación al cambio climático y la mitigación de sus efectos y sirvieron de
+           base para implementar esta operación. Además, mediante el proyecto de Apoyo
+           al Desarrollo de una Evaluación de la Planificación Espacial para Suriname
+           (ATN/AC-19447-SU; ATN/OC-19009-SU; ATN/OC-20167-SU), el Banco fomentó
+           un enfoque participativo para el establecimiento de una visión de la planificación
+           espacial para Suriname y la redacción de la Ley de Planificación Espacial del país.
+           Asimismo, gracias a financiamiento de la Unidad de Coordinación Amazónica,
+           este programa se beneficia de la experiencia del Banco con la plataforma28, al
+           brindar asistencia técnica para el diseño del GIH. Asimismo, se hicieron
+           evaluaciones sobre la capacidad del país para administrar el uso de la tierra y las
+           medidas necesarias para fortalecer la planificación espacial y la gestión ambiental,
+           que se financiará con cargo a la operación.
+1.33       Las lecciones aprendidas de estas experiencias se identificaron e incorporaron al
+           programa como sigue:
+
+                                        Cuadro 1. Lecciones aprendidas
+
+                   Lecciones aprendidas                          Reflejado en el diseño del proyecto
+     1.   Consideraciones de cambio climático en           El programa financiará evaluaciones del riesgo de
+          el uso de la tierra y la planificación           desastres y del cambio climático en el marco de
+          espacial. La importancia de incorporar las       la elaboración de instrumentos de planificación
+          consideraciones de cambio climático y de         espacial y uso de la tierra.
+          utilizar las evaluaciones del riesgo de cambio
+          climático en los instrumentos de planificación
+          y las herramientas de toma de decisiones.
+     2.   Datos fiables y sistemas de información          El programa apoyará la creación del GIH, que
+          integrados. Para una gestión eficaz del uso      proporciona la arquitectura institucional y las
+          de la tierra es fundamental disponer de datos    tecnologías para la recopilación, organización e
+          fiables y precisos e integrar sistemas de        intercambio de datos. El programa incluye la
+          información sobre la tierra amparados por        creación de sistemas de información geográfica
+
+
+28   La Unidad de Coordinación Amazónica está elaborando Amazonía 360, una plataforma digital que integra
+     y armoniza datos sobre la región amazónica procedentes de diversas fuentes utilizando sistemas de
+     información geográfica de forma sencilla.
+                                                    - 14 -
+
+
+
+               Lecciones aprendidas                             Reflejado en el diseño del proyecto
+       marcos institucionales y normativos                para apoyar la toma de decisiones y fomentar la
+       completos.                                         transparencia.
+  3.   Institucionalización del intercambio de
+       datos. La racionalización de la recopilación,
+       el intercambio, el análisis y la presentación de
+       datos puede mejorarse considerablemente
+       institucionalizando el intercambio de datos a
+       través de estructuras interinstitucionales
+       existentes, formales e informales.
+  4.   Sistemas de seguimiento, presentación de           El programa financiará la creación de un sistema
+       información y verificación adaptados al            de seguimiento, presentación de información y
+       contexto. Los sistemas de seguimiento,             verificación para hacer un seguimiento de la
+       presentación de información y verificación         gestión ambiental y promover la toma de
+       son la mejor base para los procesos de toma        decisiones adecuadas al contexto. Esto se verá
+       de decisiones. A efectos de asegurar su uso        reforzado por la construcción de la infraestructura
+       duradero, deben adecuarse al contexto local,       tecnológica necesaria para unas interacciones
+       responder a las limitaciones internas,             eficientes y ágiles.
+       adaptarse a las necesidades del país y
+       asentarse en una sólida base de
+       conocimientos para fomentar el seguimiento
+       ambiental y climático.
+  5.   Coordinación de donantes. Establecer               El programa apoyará la creación de una unidad
+       mecanismos de coordinación dirigidos por el        de coordinación de donantes dentro del ROM.
+       gobierno es importante para articular los          Esta unidad articulará todas las iniciativas y
+       esfuerzos complementarios de diversas              fondos que apoyen la aplicación de las políticas,
+       organizaciones y donantes, evitar el               estrategias, planes y proyectos de uso de la
+       solapamiento y asegurar una acción                 tierra, planificación espacial y gestión ambiental.
+       cohesionada.
+  6.   Formación para el establecimiento de               El programa hace especial hincapié en la
+       capacidades institucionales. Es necesario          creación de capacidad y el fortalecimiento
+       reforzar los organismos públicos de nueva          operativo a partir de un conocimiento profundo de
+       creación para que funcionen con eficiencia,        los procesos y la gestión operativa actual para
+       diseñando y aplicando estrategias de gestión       identificar áreas de oportunidad y mejora. El
+       del cambio, acompañadas de oportunidades           préstamo se centra en la creación de
+       de formación y herramientas de creación de         capacidades técnicas mediante el diseño de
+       capacidad.                                         materiales de formación para la transferencia
+                                                          duradera de conocimientos.
+  7.   Apoyo del proceso de ejecución del proyecto        El mecanismo de ejecución del programa
+       con conocimientos técnicos y experiencia en        incorporará la contratación de una unidad
+       gestión de programas.                              operativa externa para apoyar al ROM en la
+                                                          ejecución del programa y la creación de
+                                                          capacidad técnica y de gestión de proyectos en
+                                                          ambas entidades.
+
+
+1.34    Aspectos técnicos. La operación de cooperación técnica titulada Apoyo al
+        Desarrollo de una Evaluación de la Planificación Espacial para Suriname
+        (ATN/AC-19447-SU) proporcionó los análisis técnicos pertinentes para preparar
+        los requisitos ambientales y de infraestructura de los nuevos edificios para el ROM
+        y la NMA (enlace opcional 6), una estrategia de gestión del cambio (enlace
+        opcional 4), una estrategia de gestión y gobernanza de datos geoespaciales
+        (enlace opcional 5), un diagnóstico rápido del panorama legal de planificación
+        espacial y ambiental (enlace opcional 8), y la formulación de una evaluación
+                                                     - 15 -
+
+
+
+          integral del estado de preparación técnica para plantear posibles escenarios de
+          ejecución y definir una hoja de ruta29 para cumplir los resultados del programa.
+1.35      Financiamiento del cambio climático. El proyecto es coherente con el
+          Documento de Marco Sectorial de Cambio Climático del Banco (GN-2835-8). Se
+          estima que el proyecto cuenta con un 38,19% de financiamiento para la
+          adaptación al cambio climático y mitigación de sus efectos según el enfoque
+          conjunto de los bancos multilaterales de desarrollo sobre financiamiento climático,
+          por medio de la planificación espacial relacionada con el cambio climático y la
+          gestión ambiental, el apoyo a los sistemas de regulación del cambio climático y la
+          recopilación de datos, y la construcción de edificios bioclimáticos que cumplirán
+          los estándares de certificación verde. Según la metodología de financiamiento
+          verde del Grupo BID (GN-3101), la operación también contribuye a los objetivos
+          de sostenibilidad ambiental de fortalecer los sistemas de gobernanza ambiental y
+          prevenir y controlar la contaminación, por lo que la operación tiene en total un
+          73,98% de financiamiento verde y climático.
+1.36      Alineación con el Acuerdo de París. Esta operación se analizó utilizando el
+          Marco Conjunto de los Bancos Multilaterales de Desarrollo para Evaluar la
+          Alineación con el Acuerdo de París y el Enfoque de Implementación para la
+          Alineación con el Acuerdo de París del Grupo BID (GN-3142-1) y se determinó lo
+          siguiente: (i) la operación está alineada con el objetivo de adaptación del Acuerdo
+          de París; y (ii) es congruente con el objetivo de mitigación del Acuerdo de París
+          basado en una evaluación específica. La alineación se basó en la consideración
+          de los siguientes elementos: de acuerdo con el manual operativo del proyecto, la
+          adquisición de equipos para centros de datos tendrá en cuenta criterios de
+          eficiencia energética equivalentes a Energy Star. La operación se considera
+          coherente con la contribución determinada a nivel nacional y no se han
+          identificado riesgos de retención de carbono o activos varados.
+1.37      Estrategia del país en el sector. El programa contribuirá a ayudar a Suriname a
+          alcanzar algunos de los objetivos del Plan de Desarrollo Plurianual:
+          a. Promover un entorno habitable, la naturaleza y la seguridad.
+          b. Integrar la visión ambiental del país en los marcos, las normas y los
+             instrumentos de uso de la tierra, planificación espacial y gestión ambiental
+             aprovechando las decisiones basadas en pruebas y respaldadas por bases de
+             datos con información espacial y ambiental.
+          c. Contribuir a un gobierno eficiente y eficaz, mediante el fortalecimiento del
+             ROM y la NMA [31].
+1.38      Además, esta operación apoyará al país en sus avances hacia la consecución
+          de la contribución determinada a nivel nacional en tres sectores emisores
+          prioritarios (a saber, bosques, agricultura y transporte) mediante el aumento de
+          las capacidades de seguimiento, presentación de información y verificación. Un
+          nuevo marco de planificación espacial, incluidos un plan nacional de desarrollo
+          sostenible y planes estructurales subnacionales, ayudará al país a mantener la
+          cobertura forestal en un nivel óptimo desde el punto de vista económico.
+
+
+29   Los escenarios incluyeron un progreso ideal, optimizado y limitado. La hoja de ruta se desarrolló bajo el
+     escenario de progreso optimizado que tiene un enfoque pragmático y gradual considerando las leyes y
+     normas actuales con limitaciones contextuales y restricciones presupuestarias.
+                                               - 16 -
+
+
+
+         Contribuirá también a avanzar en la gestión de las emisiones en el transporte y la
+         infraestructura urbana, al brindar la normativa necesaria para limitar la expansión
+         urbana.
+1.39     Estrategia del Banco en el país. La operación contribuye al objetivo de la
+         Estrategia de País con Suriname 2021-2025 (GN-3065) de mejorar el gobierno
+         digital mediante la implementación de plataformas digitales para la tramitación de
+         permisos y la mejora del acceso a la información geoespacial. Asimismo,
+         contribuye a los objetivos de mejorar la resiliencia al cambio climático y la
+         capacidad institucional al aumentar las aptitudes y velar por el cumplimiento de
+         los marcos en favor de la sostenibilidad y la resiliencia del país. Busca fomentar
+         la ampliación de escala y las sinergias en todo el Grupo BID y reforzará los marcos
+         de desarrollo y crecimiento territorial del país que orientan las inversiones del
+         sector público y privado hacia una visión sostenible, resiliente y equitativa,
+         coherente con los compromisos internacionales. En particular, el programa
+         contribuirá a las operaciones actuales y futuras del Grupo BID, al promover el uso
+         sostenible, la conservación de los ecosistemas en la bioeconomía, la resiliencia
+         de la infraestructura y el desarrollo socioeconómico inclusivo integrando las
+         comunidades locales y los conocimientos tradicionales y asegurando la aplicación
+         efectiva y el éxito de los proyectos que contribuyen directamente a medir las
+         emisiones de GEI reducidas por las actividades de mitigación y adaptación e
+         informar al respecto, en concreto a través de los proyectos titulados Programa de
+         Financiamiento para un Desarrollo Productivo y Sostenible en Suriname
+         (SU-L1069) y Empoderamiento de la Bioeconomía en las Comunidades Indígenas
+         de Suriname Mediante el Acceso a los Servicios de Agua, Energía y
+         Telecomunicaciones (Bio-SWEET) (SU-L1076). Asimismo, apoyará proyectos con
+         posibilidades de ampliación y sinérgicos de BID Invest y BID Lab con empresas
+         privadas30 orientando futuras contribuciones hacia una visión unificada de
+         crecimiento verde (enlace opcional 12). También aportará una adicionalidad
+         crítica a la aplicación de la Estrategia REDD+ y la Estrategia Nacional de
+         Biodiversidad para gestionar de forma sostenible los ecosistemas forestales y la
+         biodiversidad en colaboración con otros donantes, como el Banco Mundial, el
+         Programa UN-REDD, el PNUD, Conservation International, el Fondo Mundial en
+         favor de la Naturaleza y el Fondo para el Escudo Guayanés. La nueva legislación
+         sobre planificación espacial ha de prever un mecanismo mejorado de
+         coordinación, consulta y participación con los agentes no estatales. La operación
+         contribuye significativamente a la Estrategia REDD+ de Suriname,
+         específicamente a sus líneas estratégicas de mantener el estatus de país con un
+         alto índice de bosques y una baja deforestación, así como a la planificación del
+         uso de la tierra, al respaldar la planificación espacial acelerada y regulada, hacer
+         un seguimiento de las actividades de conservación, servir de insumo para la toma
+         de decisiones y fortalecer instituciones reguladoras y supervisoras. Por último, la
+         implementación de la Estrategia REDD+ es responsabilidad de la NMA, que
+         servirá de puente entre el sistema de seguimiento, presentación de información y
+         verificación de la silvicultura y el sistema nacional, a fin de velar por que la
+         capacidad de seguimiento de la silvicultura de Suriname mejore constantemente
+         y esté en consonancia con los requisitos generales en materia de presentación de
+
+
+
+30   En 2023, BID Invest se asoció con Aannemings-Maatschappij Baitali (Baitali) para aumentar la
+     conectividad y la integración en el noroeste de Suriname [35].
+                                           - 17 -
+
+
+
+       informes sobre GEI, uso de la tierra, cambio de uso de la tierra y silvicultura y de
+       adaptación al clima y mitigación de sus efectos de acuerdo con la Convención
+       Marco de las Naciones Unidas sobre el Cambio Climático.
+1.40   Alineación estratégica. El programa es coherente con la Estrategia Institucional
+       del Grupo BID: Transformación para una Mayor Escala e Impacto (CA-631), pues
+       está en línea con los siguientes objetivos: abordar el cambio climático dotando a
+       Suriname de las capacidades necesarias para mitigar las emisiones de GEI,
+       adaptarse a los impactos del cambio climático, adoptar estrategias de planificación
+       espacial orientadas a patrones sostenibles de desarrollo territorial y minimizar los
+       efectos adversos del cambio de uso de la tierra. El programa también está en
+       correlación con las siguientes áreas de enfoque operativo: (i) biodiversidad,
+       capital natural y acción climática; (ii) igualdad de género e inclusión de grupos
+       diversos de población; (iii) capacidad institucional y Estado de derecho; y
+       (iv) infraestructura sostenible, resiliente e inclusiva.
+1.41   Además, el programa es coherente con el Documento de Marco Sectorial de
+       Cambio Climático (GN-2835-8) puesto que contribuye a la línea de acción 1
+       (adaptar y crear resiliencia climática) al fortalecer las capacidades locales para
+       comprender las implicaciones del cambio climático y considerarlas en la toma de
+       decisiones sobre el desarrollo territorial. También está en consonancia con el
+       Documento de Marco Sectorial de Vivienda y Desarrollo Urbano (GN-2732-11) en
+       las líneas de acción 2 (reducir la contaminación y aumentar los niveles de
+       mitigación resiliencia frente al cambio climático) y 4 (promover la buena
+       gobernanza urbana). Al aumentar la capacidad del Gobierno de Suriname para
+       elaborar y aplicar políticas ambientales y espaciales, la operación es congruente
+       con el programa Amazonía Siempre por medio de su área transversal de creación
+       de capacidades institucionales y promoción del Estado de derecho.
+1.42   La operación está en consonancia con el marco estratégico de One Caribbean
+       dado que contribuye al aumento de la inclusión social sensible al clima apoyando
+       proyectos que promueven la inclusión social y la igualdad con una perspectiva de
+       adaptación al clima, como la formulación de marcos de planificación espacial que
+       tienen en cuenta factores ambientales y de cambio climático. Asimismo, es
+       congruente con el resultado esperado de mejora de la resiliencia de la
+       infraestructura en la región, ya que tiene por objeto crear una plataforma y un
+       sistema digital de concesión de permisos para la zonificación y el desarrollo
+       espacial, lo que fortalecerá la infraestructura digital para la planificación espacial
+       y aumentará la disponibilidad de datos para la toma de decisiones resilientes
+       frente al clima. Concuerda en gran medida con el Plan de Acción para la
+       Integración del Capital Natural y la Biodiversidad 2024-2025 del Grupo BID, ya
+       que sirve como medio de implementación estratégica de la Estrategia y Plan de
+       Acción Nacional sobre Biodiversidad en Suriname. Al fortalecer los marcos
+       institucionales y los sistemas de gestión de datos, mejorar la capacidad operativa
+       y técnica de instituciones clave como el ROM y la NMA, subir la calidad de las
+       intervenciones relacionadas con la biodiversidad y aumentar la movilización de
+       recursos, contribuye a los Componentes 2 (operaciones y rendición de cuentas),
+       3 (productos de conocimiento y fortalecimiento de capacidad) y 4 (movilización de
+       recursos y financiamiento de la naturaleza).
+                                                     - 18 -
+
+
+
+          Objetivo, componentes y costos
+1.43      El objetivo del programa es mejorar la capacidad institucional de Suriname para
+          gestionar el uso de la tierra. Los objetivos específicos son los siguientes:
+          (i) fortalecer los marcos, normas e instrumentos ambientales y de planificación
+          espacial de Suriname; (ii) aumentar la disponibilidad y el uso de datos para la
+          planificación espacial, el cambio climático y la gestión ambiental; y (iii) reforzar las
+          condiciones operativas del ROM y de la NMA. Estos objetivos se alcanzarán por
+          medio de los componentes que se describen a continuación.
+1.44      Componente 1. Fortalecimiento de la capacidad del ROM en materia
+          de planificación espacial, cambio climático y gestión ambiental
+          (US$16.950.000). Este componente busca mejorar las capacidades operativas de
+          planificación espacial, cambio climático y gestión ambiental del ROM31. Para ello,
+          apoyará al Ministerio a definir las prioridades para alcanzar y supervisar la visión
+          ambiental del país. El componente apoyará el diseño y la aplicación de marcos de
+          planificación espacial que guiarán el uso de la tierra y el desarrollo territorial, con
+          consideraciones ambientales y de cambio climático, a escala nacional y
+          subnacional. También respaldará las actividades de capacitación y el espacio
+          físico que necesita el Ministerio para cumplir sus funciones. Las actividades
+          financiadas en el marco de este componente se agrupan en tres categorías, a
+          saber:
+          a. Instrumentos para la gestión ambiental y del cambio climático. En esta
+             categoría se incluye lo siguiente: (i) la creación de un marco para la
+             declaración de la visión de desarrollo verde y un plan de acción de ejecución
+             que integren aspectos relacionados con el cambio climático, la biodiversidad
+             y la protección ambiental; (ii) el apoyo a la definición de los aspectos políticos,
+             económicos y sociales del marco de la visión de desarrollo verde por medio
+             de la modelización de los valores definidos por el gobierno para el desarrollo
+             sostenible y bajo en carbono; y (iii) la formulación de una estrategia de
+             interacción con las partes interesadas, inclusiva y participativa.
+          b. Marcos e instrumentos de planificación espacial y uso de la tierra.
+             En esta categoría se incluye lo siguiente: (i) la formulación de la Estrategia
+             de Planificación Espacial de Suriname en línea con las prioridades
+             ambientales nacionales32; (ii) la redacción de planes de desarrollo estructural
+             y de zonificación33 que guiarán la ejecución de la estrategia de planificación
+             espacial a escala subnacional; (iii) la creación y la puesta en marcha de la
+             plataforma de zonificación y uso de la tierra34 para promover la transparencia
+
+
+31   El desarrollo territorial incluye tanto la masa terrestre como las aguas y el espacio aéreo adyacentes.
+32   Esto incluye, entre otros, la creación del plan nacional de desarrollo espacial, la redacción de enmiendas
+     para velar por que se establezcan las disposiciones institucionales para las leyes y estatutos necesarios,
+     así como la elaboración de campañas de sensibilización pública sobre planificación espacial, y la
+     normativa que entrará en vigor y su aplicación. Estos marcos e instrumentos buscarán la representación
+     de mujeres, pueblos indígenas, afrodescendientes y personas con discapacidad mediante la participación
+     de las partes interesadas y de directrices inclusivas.
+33   De acuerdo con las prioridades del gobierno y la normativa incluida en la Ley de Planificación Espacial,
+     la operación financiará el diseño de 10 planes de zonificación.
+34   El préstamo apoyará la creación de la plataforma de zonificación y uso de la tierra, como plataforma
+     pública para estudiar las normas en la materia, las propuestas de desarrollo y las iniciativas de
+     planificación urbana.
+                                                    - 19 -
+
+
+
+              sobre las normativas y propuestas aplicables y aumentar la disponibilidad de
+              datos para la toma de decisiones, la concientización pública y la vigilancia del
+              cumplimiento; y (iv) el diseño y la implementación de un sistema de permisos
+              y licencias de zonificación y planificación espacial accesible para las personas
+              con discapacidad visual35. La plataforma y el sistema de licencias fomentarán
+              el acceso de las personas con discapacidad a datos y herramientas para
+              participar en los procesos de planificación con decisiones fundamentadas36.
+          c. Fortalecimiento institucional y operativo. Incluye (i) el fortalecimiento del
+             ROM mediante el diseño de un plan de gestión del cambio y el establecimiento
+             de sistemas de gestión críticos como los de gestión de documentos,
+             instalaciones, recursos materiales y de personal; (ii) la elaboración y puesta
+             en marcha de un plan estratégico de operaciones que se valga de la
+             digitalización y promueva sistemas de evaluación del impacto y el seguimiento
+             del avance para establecer una unidad de coordinación de donantes37 a fin de
+             apalancar y articular sus contribuciones para el desarrollo sostenible de
+             Suriname; (iii) la formulación de un plan de capacitación para el personal del
+             ROM, que abarcará el diseño y uso de materiales y programas de capacitación
+             sobre planificación espacial y gestión ambiental, gestión de proyectos y
+             organizacional, y habilidades interpersonales. En materia de género y
+             diversidad, se desarrollará capacitación en prácticas no discriminatorias en el
+             lugar de trabajo y en los servicios públicos para promover la inclusión de las
+             mujeres y las personas con discapacidad; (iv) la creación y puesta en marcha
+             de alianzas con instituciones académicas para la formulación de planes de
+             estudio de educación avanzada asociados a la planificación espacial, la
+             gestión ambiental y el cambio climático; y (v) el diseño y la construcción de
+             dos edificios bioclimáticos para albergar el ROM y la NMA38, en consonancia
+             con los estándares EDGE, que incluyan elementos sensibles al género en la
+             concepción, así como elementos de diseño y señalización para asegurar el
+             acceso de las personas con discapacidad.
+1.45      Componente 2. Fortalecimiento de la capacidad de la NMA para la gestión
+          ambiental y la transparencia climática (US$10.050.000). Este componente
+          contribuirá a fortalecer los marcos, reglamentos e instrumentos ambientales, a
+          aumentar la disponibilidad de datos sobre medio ambiente y cambio climático y a
+          desarrollar las capacidades operativas de la NMA. Esto se conseguirá mediante
+          las siguientes actividades agrupadas en cuatro categorías:
+          a. Sistema de información ambiental. Financiará (i) la puesta en marcha del
+             GIH, que servirá de repositorio sistematizado, centralizado y actualizado de
+             todos los datos espaciales que se necesiten en el país. Abarcará sólidas
+
+
+35   Esto incluye la configuración procedimental e institucional, así como una solución digital para el
+     funcionamiento eficiente.
+36   La plataforma y el sistema de licencias se crearán siguiendo un diseño centrado en el usuario que tenga
+     en cuenta las necesidades específicas de las mujeres y las personas con discapacidad. Estarán
+     adaptados a las personas con deficiencias e incluirán datos desagregados sobre género y diversidad de
+     los solicitantes de permisos. Su concepción incluirá campañas de sensibilización, extensión y
+     comunicación para educar al público sobre las funcionalidades y los beneficios.
+37
+     Todos los sistemas que se desarrollen para establecer la unidad de coordinación de donantes se
+     vincularán al Ministerio de Finanzas y Planificación.
+38   Los edificios se construirán en una parcela de propiedad del ROM y destinada a ese uso.
+                                                     - 20 -
+
+
+
+               funcionalidades, tales como capacidades avanzadas para generar informes,
+               estudios de correlación y herramientas de visualización para hacer un análisis
+               espacial exhaustivo, así como la capacidad de extraer y descargar
+               eficazmente los datos pertinentes, lo que incluye (a) la creación de
+               mecanismos institucionales para proporcionar solidez jurídica al GIH; (b) el
+               establecimiento del sistema de gobernanza del GIH, incluida la creación de su
+               comité coordinador, el fortalecimiento de los departamentos pertinentes dentro
+               de la SMIN para apoyar al GIH; (c) la redacción y el establecimiento de
+               mecanismos de intercambio de datos, incluida la definición de normas y
+               protocolos de datos; (d) la compra de equipos y programas informáticos
+               energéticamente eficientes; (e) el diseño y ejecución de un plan de
+               recopilación de datos, que incluya la identificación de nuevas fuentes de
+               datos39 y la digitalización de los activos físicos existentes; (f) la compra de
+               conjuntos de datos; y (g) el desarrollo de aplicaciones sectoriales específicas
+               dentro del GIH (enlace opcional 5); y (ii) el diseño y la ejecución del sistema
+               de información ambiental, que proporcionará datos geoespaciales y
+               estadísticos públicos a los usuarios sobre indicadores ambientales y
+               fomentará el acceso de las mujeres a la información para la toma de
+               decisiones40.
+          b. Sistema para velar por el cumplimiento de la normativa ambiental.
+             Financiará la optimización de las evaluaciones de impacto ambiental y social
+             y el proceso de concesión de permisos ambientales que actualmente realiza
+             manualmente la NMA. Ello se hará a través de un sistema digital de permisos
+             y licencias estableciendo normas, protocolos y procedimientos de
+             autorización, seguimiento y velando por el cumplimiento de las evaluaciones
+             de impacto ambiental y social, los permisos ambientales y la vigilancia. Incluye
+             la formulación de las normas ambientales41, el establecimiento de los
+             procedimientos de concesión de permisos, la elaboración y aplicación de
+             protocolos de seguimiento, incluida la adquisición de equipos de eficiencia
+             energética42, la creación y puesta en marcha de un plan de sensibilización,
+
+
+
+
+39   Lo que incluye la teledetección y la observación de la tierra; un sistema de gestión de datos geoespaciales
+     para recopilar y hacer el seguimiento de datos sobre la tierra, el agua, la biodiversidad, la huella urbana
+     y la vulnerabilidad; equipos de muestreo y medición; y aparatos y suministros especializados de
+     laboratorio.
+40   El sistema de información ambiental se creará siguiendo un diseño centrado en el usuario que tenga en
+     cuenta las necesidades específicas de las mujeres y los grupos diversos. Su concepción también incluirá
+     campañas de sensibilización, extensión y comunicación para educar al público sobre las funcionalidades
+     y los beneficios.
+41   Incluye normas mínimas sobre contaminación del aire, el agua y el suelo.
+42   Se refiere a la compra de equipos de seguimiento, como estaciones pasivas de control de la calidad del
+     aire y estaciones portátiles de calidad del aire, sistemas de comunicación por satélite y vehículos para
+     llevar a cabo actividades de seguimiento. Los equipos cumplirán los criterios de eficiencia energética,
+     siempre que sea posible, incluidos, entre otros, los productos con certificación Energy Star u otras
+     especificaciones de eficiencia energética.
+                                                     - 21 -
+
+
+
+               extensión y comunicación, y el despliegue de la estrategia para velar por el
+               cumplimiento de la normativa ambiental43.
+          c. Mecanismos de implementación de la transparencia climática. Financiará
+             la creación y puesta en marcha de un sistema nacional de seguimiento,
+             presentación de información y verificación de los sectores económicos
+             prioritarios44 que asegure una medición precisa de las emisiones de GEI con
+             capacitación técnica intersectorial complementaria45; lo que incluye el
+             establecimiento de una unidad nacional de seguimiento de las emisiones de
+             carbono.
+          d. Capacidad institucional de la NMA. Financiará (i) el apoyo a la estructura
+             organizacional y la reingeniería de los procesos de la NMA, lo que incluye la
+             formulación y ejecución de un plan de gestión del cambio que acompañe las
+             fases finales de la transición de la NMA; (ii) la creación y puesta en marcha de
+             sistemas críticos de gestión como los de gestión financiera, documental y de
+             personal; (iii) el diseño y la implementación de un plan de capacitación con
+             funcionarios públicos de la NMA, incluidas la elaboración de material educativo
+             y la puesta en marcha de programas de capacitación sobre gestión ambiental
+             y cambio climático, gestión de proyectos, gestión financiera, de recursos
+             humanos y organizacional, y competencias interpersonales. En materia de
+             género y diversidad, se desarrollará capacitación en prácticas no
+             discriminatorias en el lugar de trabajo y en los servicios públicos para
+             promover la inclusión de las mujeres y personas con discapacidad; y (iv) la
+             creación de alianzas con instituciones académicas para crear planes de
+             estudios avanzados asociados a la gestión ambiental y el cambio climático.
+1.46      Gestión, seguimiento, evaluación y auditorías del proyecto (US$3.000.000).
+          Financiará (i) la contratación de una unidad de ejecución del programa provisional
+          (párrafo 3.1); (ii) la contratación de la unidad operativa externa (párrafo 3.2);
+          (iii) las actividades de seguimiento y evaluación del programa, incluidas una
+          evaluación intermedia y otra final; (iv) la auditoría financiera anual externa; y (v) la
+          aplicación de los instrumentos de gobernanza ambiental y social, incluidas las
+          actividades de interacción con las partes interesadas.
+          Indicadores de resultados clave
+1.47      Resultados esperados y posibles beneficiarios. El impacto a largo plazo
+          del proyecto es contribuir a evitar las emisiones de GEI reduciendo la tasa
+          de deforestación prevista. No obstante, el objetivo es mejorar la capacidad
+          institucional de Suriname para gestionar el uso de la tierra, en particular en
+          relación con la protección de la cobertura forestal. Esto se conseguirá a través de
+
+
+43   De acuerdo con la Ley Marco Ambiental, el programa reforzará las capacidades de la NMA para velar por
+     el cumplimiento de la política ambiental (i) redactando la normativa necesaria para establecer un
+     programa de agentes de cumplimiento ambiental; (ii) formulando la estrategia para velar por el
+     cumplimiento de la normativa; (iii) contratando y capacitando a los agentes de cumplimiento ambiental; y
+     (iv) adquiriendo equipos para generar información, incluidos vehículos y comunicación por satélite para
+     lugares remotos.
+44   Una evaluación de las necesidades tecnológicas de 2019 determinó los sectores prioritarios y definió y
+     priorizó las tecnologías pertinentes con un plazo de implementación estimado de 15 meses.
+45   El préstamo apoyará el fortalecimiento de la capacidad para generar información sobre las emisiones de
+     GEI en los ámbitos de agricultura, silvicultura, energía y transporte en los sectores privado, público y no
+     gubernamental.
+                                                      - 22 -
+
+
+
+          los resultados principales del programa, que aumentan sustancialmente la
+          probabilidad de éxito al proporcionar la infraestructura, los datos y la capacidad
+          institucional necesarios para gestionar y proteger con eficacia los bosques. La
+          adopción de estrategias de planificación espacial por parte del ROM, incluida la
+          estrategia nacional de planificación espacial, los planes de zonificación
+          subnacionales y la plataforma pública de zonificación y uso de la tierra, brinda el
+          marco necesario para orientar el desarrollo sostenible al tiempo que se preservan
+          zonas forestales críticas. La mayor disponibilidad y uso de datos sobre el clima, el
+          medio ambiente y el uso de la tierra46 permite realizar un seguimiento en tiempo
+          real y tomar decisiones basadas en datos sobre el cambio de uso de la tierra y las
+          posibles amenazas a la cubierta forestal. Esta capacidad es crucial para evitar las
+          emisiones de CO2 y preservar los reservorios de carbono. La mejora del
+          cumplimiento de la normativa ambiental y de las capacidades operativas de los
+          organismos asegura la presencia de personal capacitado y de sistemas sólidos
+          para aplicar y hacer cumplir la normativa sobre uso de la tierra y las medidas de
+          protección forestal. Esto es esencial para la sostenibilidad a largo plazo de las
+          actividades de gestión forestal. Se prevé que el programa beneficie directamente
+          a los 140 empleados del ROM y de la NMA, que adquirirán los instrumentos
+          necesarios para desempeñar sus funciones. Además, los 618.040 ciudadanos de
+          Suriname se beneficiarán indirectamente de un uso más sostenible de los
+          recursos naturales mediante la regulación de los contaminantes y las actividades
+          peligrosas, así como de una mayor sensibilización sobre el uso de la tierra, los
+          temas ambientales y la acción por el clima.
+1.48      Viabilidad socioeconómica. Se realizó un análisis económico de costos y
+          beneficios (enlace opcional 1) para el programa. Este análisis prevé las
+          condiciones de deforestación en ausencia y existencia del proyecto y su cambio
+          respectivo en las emisiones de CO2. Las emisiones se valoran utilizando el costo
+          social del carbono. La diferencia entre el valor de las emisiones en los dos estados
+          se considera como los beneficios del proyecto. Así pues, los beneficios
+          cuantificados se derivan de la reducción de la deforestación, lo que se traduce en
+          captura de carbono y preservación del medio ambiente. La tasa interna de
+          rendimiento estimada del ejercicio principal es del 74%, con un valor actualizado
+          neto de US$405.700.944 y una relación costo-beneficio del 6,78. Este ejercicio
+          parte de un precio de US$85 por tonelada de carbono y una tasa de deforestación
+          reducida en un 10% con respecto a la situación sin proyecto. Se realizaron análisis
+          de sensibilidad para variables clave que podrían afectar a la rentabilidad del
+          proyecto, como el porcentaje de reducción de la deforestación, los precios del
+          carbono, el momento de los beneficios y los costos de operación y mantenimiento.
+          El proyecto presenta una rentabilidad neta positiva en la mayoría de los
+          escenarios, con valores actualizados netos positivos si el precio del carbono
+          supera los US$57,6 por tonelada, lo que demuestra la solidez de los resultados.
+1.49      Viabilidad institucional. La viabilidad institucional del programa se considera
+          alta, dado que las actividades propuestas apoyarán al Gobierno de Suriname a
+
+
+
+
+46   Esto incluye conjuntos de datos estructurados que detallan los tipos de actividades en los diferentes sitios,
+     con las referencias geoespaciales conexas. Debe señalar metadatos que describan las nomenclaturas y
+     jerarquías de uso de la tierra, así como información sobre zonas protegidas y forestales y un archivo bien
+     mantenido de los usos previos de la tierra.
+                                                       - 23 -
+
+
+
+          cumplir sus compromisos internacionales47, los objetivos nacionales establecidos
+          en el plan de desarrollo plurianual y los mandatos del ROM y la NMA. Además,
+          las actividades incluirán capacitación técnica, operativa y organizacional para
+          promover una ejecución eficaz y sostenible del programa. Además, se llevó a cabo
+          una evaluación de la capacidad institucional para identificar las necesidades y
+          oportunidades de reforzar las aptitudes para ejecutar este programa. La
+          evaluación encontró fortalezas generales relacionadas con la gestión de la calidad
+          técnica, la salud, la seguridad, el medio ambiente y las salvaguardias sociales. Sin
+          embargo, puso de relieve la necesidad de fortalecer los conocimientos específicos
+          y las capacidades de ejecución del programa en el marco de las políticas del BID,
+          en particular en materia de planificación de proyectos, gestión financiera y de
+          adquisiciones, presentación de informes, gobernanza de proyectos y gestión del
+          riesgo. Las recomendaciones de la evaluación de la capacidad institucional se
+          incorporan al esquema de ejecución del programa (párrafo 3.1) (enlace
+          opcional 10).
+
+                II. ESTRUCTURA DE FINANCIAMIENTO Y RIESGOS PRINCIPALES
+
+          Instrumentos financieros
+2.1       Estructuración del programa. El Banco respaldará la capacidad institucional del
+          Gobierno de Suriname para gestionar el uso de la tierra, la planificación espacial
+          y los aspectos ambientales y climáticos mediante un préstamo para inversiones
+          específicas, debido a la necesidad de establecer un enfoque sectorial cohesivo en
+          materia de gestión de la tierra y el medio ambiente, que se logrará con las
+          actividades que contempla esta operación. El calendario se estableció teniendo
+          en cuenta que los compromisos internacionales apoyados por el préstamo están
+          fijados para 2030, lo que permite hacer el seguimiento respectivo.
+2.2       Costo del programa. El monto de este préstamo asciende a US$30.000.000, que
+          serán financiados en su totalidad con cargo a los recursos del Capital Ordinario
+          del Banco. No hay contribución local ni cofinanciamiento.
+
+                         Cuadro 2. Resumen de los costos del programa (en US$)
+
+                            Componentes                               BID           Total         %
+       Componente 1. Fortalecimiento de la capacidad del           16.950.000    16.950.000       56,5
+       ROM en materia de planificación espacial, cambio
+       climático y gestión ambiental
+       1.1 Instrumentos para la gestión ambiental y del cambio        750.000        750.000        2,5
+           climático
+       1.2 Marcos e instrumentos de planificación espacial y        8.650.000      8.650.000      29,0
+           uso de la tierra
+       1.3 Fortalecimiento institucional y operativo                7.550.000      7.550.000      25,0
+       Componente 2. Fortalecimiento de la capacidad de la         10.050.000    10.050.000       33,5
+       NMA para la gestión ambiental y la transparencia
+       climática
+
+
+
+
+47   Los compromisos de la contribución determinada a nivel nacional se contrajeron en el gobierno anterior.
+     A pesar del cambio de partido político, el actual Gobierno de Suriname está trabajando en la consecución
+     de estos compromisos.
+                                                               - 24 -
+
+
+
+                                  Cuadro 2. Resumen de los costos del programa (en US$)
+
+                                     Componentes                                    BID             Total          %
+               2.1 Sistema de información ambiental                               4.555.000        4.555.000       15,0
+               2.2 Sistema para velar por el cumplimiento de la                   2.575.000        2.575.000        8,6
+                   normativa ambiental
+               2.3 Mecanismos de implementación de la transparencia               1.670.000        1.670.000        5,5
+                   climática
+               2.4 Capacidad institucional de la NMA                              1.250.000        1.250.000        4,2
+               Gestión, seguimiento, evaluación y auditorías del                  3.000.000        3.000.000       10,0
+               proyecto
+               Total                                                           30.000.000         30.000.000       100
+
+
+        2.3       Calendario de desembolso. El período de desembolso será de siete años48 de
+                  acuerdo con el plan de ejecución plurianual (enlace requerido 1).
+
+                                      Cuadro 3. Calendario de desembolsos (en US$)
+
+    Categoría          Año 1    Año 2        Año 3         Año 4          Año 5           Año 6         Año 7             Total
+Componente 1               0    35.000     2.180.000      3.475.000     6.540.000      4.520.000        200.000        16.950.000
+Componente 2               0          0      175.000      2.465.000     2.060.000      3.195.000       2.155.000       10.050.000
+Otros costos               0    61.517       643.663        550.709       573.638         566.859       603.613         3.000.000
+Total                      0    96.517     2.998.663      6.490.709     9.173.638      8.281.859       2.958.613       30.000.000
+%                        0%      0,32%           10%           22%            31%             28%           10%             100%
+
+
+                  Riesgos para las salvaguardias ambientales y sociales
+        2.4       De conformidad con el Marco de Política Ambiental y Social del BID, esta
+                  operación se ha clasificado en la categoría B, dado que es probable que sus
+                  actividades causen impactos ambientales y sociales negativos en su mayor parte
+                  locales y a corto plazo para los que existen medidas de mitigación eficaces que
+                  ya están disponibles. Se prevé que los principales impactos ambientales y
+                  sociales, que están asociados a la construcción de dos edificios ministeriales, se
+                  producirán sobre todo durante la fase de construcción: (i) la inducción de procesos
+                  erosivos; (ii) la alteración de las características del suelo; (iii) el aumento del nivel
+                  de partículas y ruido; (iv) los desechos sólidos; (v) las molestias por corte de
+                  servicios y accesos; y (vi) las molestias a la comunidad y la obstaculización del
+                  acceso a residencias y comercios. Las obras físicas se llevarán a cabo en una
+                  zona periurbana desarrollada y no se prevé que tengan impactos adversos sobre
+                  los pueblos indígenas, grupos vulnerables, hábitats críticos/naturales, o servicios
+                  ecosistémicos o sitios culturales dentro del área del proyecto. El proyecto no
+                  requerirá la adquisición de terrenos, pero sí provocará el desplazamiento físico de
+
+
+        48   El período de ejecución de siete años es fundamental para el éxito y el impacto a largo plazo del programa
+             teniendo en cuenta el contexto singular de Suriname, ya que da cabida a desarrollar de forma integral el
+             marco normativo y realmente crear capacidad, procesos que no pueden apresurarse sin sacrificar la
+             calidad y la sostenibilidad. Asimismo, brinda la flexibilidad necesaria para hacer frente a las inestabilidades
+             políticas y económicas y adoptar, al mismo tiempo, un enfoque de aumento gradual que guarde
+             consonancia con los compromisos climáticos de Suriname para 2030.
+                                         - 25 -
+
+
+
+      una familia (cuatro adultos). No se ha determinado ningún desplazamiento
+      económico.
+2.5   La calificación del riesgo ambiental y social se ha clasificado como sustancial
+      debido principalmente a los riesgos relacionados con la salud y la seguridad en el
+      trabajo (principalmente vinculados al amianto), la contaminación del agua por
+      hidrocarburos y otros desechos peligrosos, los riesgos de accidentes de tránsito
+      y los relacionados con el desplazamiento físico de una familia, así como a la
+      capacidad limitada del ROM, ya que no tiene experiencia con el Marco de Política
+      Ambiental y Social del Banco.
+2.6   La clasificación del riesgo de desastres y cambio climático es alta. El área de
+      influencia del programa está expuesta a inundaciones fluviales moderadas, alto
+      nivel de sequía y aumento del nivel del mar, además de amenazas climáticas. La
+      criticidad y vulnerabilidad de la infraestructura propuesta se consideran altas
+      (construcción de edificios). Con la construcción de los edificios, no se prevé que
+      aumenten las condiciones actuales de peligros naturales en el entorno o la
+      vulnerabilidad de las comunidades circundantes o del medio ambiente. El
+      programa elaborará una evaluación del riesgo de desastres y un plan de gestión
+      del riesgo de desastres y respuesta de emergencia, teniendo en cuenta los riesgos
+      climáticos presentes y futuros.
+2.7   Para esta operación se creó un sistema de gestión ambiental y social. Para el
+      subcomponente normativo, se preparó una evaluación ambiental y social
+      estratégica con el fin de valorar los riesgos e impactos potenciales de la
+      implementación de los cambios propuestos, incluido un plan de gestión ambiental
+      y social estratégico con directrices para mitigar estos riesgos e impactos en el
+      momento de la formulación de políticas (ejecución). Se elaboró una evaluación
+      ambiental y social y el plan de gestión respectivo para las obras de un edificio.
+      Tanto el plan de gestión ambiental y social regular como el estratégico incluyen el
+      correspondiente plan de interacción con las partes interesadas. En cuanto al
+      componente normativo, se contratará a una empresa para que formule el marco
+      normativo, y la evaluación y el plan de gestión ambiental y social estratégicos se
+      incluirán en los documentos de licitación para velar por que esta empresa tenga
+      en cuenta los requisitos y planes establecidos. En cumplimiento con el plan de
+      interacción con las partes interesadas, el ROM llevó a cabo las consultas los días
+      3 y 4 de julio de 2024. Los principales comentarios sobre la evaluación de impacto
+      ambiental y social y el plan de gestión ambiental y social tenían que ver con
+      materiales de construcción y problemas de tránsito, mientras que los comentarios
+      sobre la evaluación y el plan de gestión ambiental y social estratégicos se referían
+      a la ley obsoleta de pesticidas y a los derechos de los pueblos indígenas y las
+      comunidades tribales. Las versiones definitivas de la evaluación y el plan de
+      gestión ambiental y social, incluidos los respectivos planes de interacción con las
+      partes interesadas y de acción de reasentamiento, la evaluación y el plan de
+      gestión ambiental y social estratégicos con su correspondiente plan de interacción
+      con las partes interesadas, el sistema de gestión ambiental y social y los informes
+      de la consulta se divulgaron en la página web del Banco el 26 de agosto de 2024.
+      Riesgo fiduciario
+2.8   Los principales riesgos fiduciarios señalados en la evaluación de la capacidad
+      institucional incluyen los siguientes: (i) la falta de experiencia del ROM con
+      políticas del BID y su limitada capacidad para ejecutar un proyecto de esta
+                                                      - 26 -
+
+
+
+          envergadura, complejidad y alcance pueden crear retrasos en la ejecución. A fin
+          de mitigar este riesgo, el programa contratará una unidad operativa externa para
+          que brinde apoyo y orientación técnica, administrativa, financiera y de
+          adquisiciones (párrafo 3.1); y (ii) dada la naturaleza multidisciplinaria y altamente
+          especializada del programa, se requiere la participación de varios departamentos
+          del ROM y de la NMA, otras entidades del sector público49 y partes interesadas.
+          Los posibles conflictos entre los departamentos y las limitadas capacidades de
+          coordinación pueden afectar la ejecución del programa y obstaculizar la
+          consecución de su objetivo. Para mitigar este riesgo, el programa se basará en lo
+          siguiente: (i) para la coordinación y gestión interna de conflictos en el ROM y la
+          NMA, se establecerá un comité coordinador del proyecto (párrafo 3.3); y (ii) la
+          unidad operativa externa brindará apoyo en las actividades logísticas y
+          administrativas necesarias para asegurar una coordinación fluida entre los
+          agentes adicionales. Además, para mitigar los riesgos de integridad, en el marco
+          del programa se financiarán actividades para apoyar la adopción de prácticas
+          óptimas por parte del organismo ejecutor en materia de gestión de conflictos de
+          interés, análisis de debida diligencia y administración de activos.
+          Otros riesgos y temas clave
+2.9       También se han identificado como elevados los siguientes riesgos: (i) las
+          elecciones presidenciales de 2025 pueden dar lugar a una redefinición de las
+          prioridades y afectar el éxito de la ejecución del programa; y (ii) la cultura
+          organizacional que está arraigada50 en el ROM y la NMA plantea desafíos para los
+          nuevos enfoques que promueve el programa, lo que redundaría en bajos niveles
+          de participación y en una implementación parcial o ineficaz de las actividades.
+          Para mitigar estos riesgos, el programa (i) llevará a cabo campañas de
+          sensibilización en las que se hará hincapié en la alineación con los objetivos
+          climáticos de Suriname para 2030; (ii) recurrirá a la unidad operativa externa y
+          establecerá un sólido comité coordinador del proyecto para asegurar la
+          continuidad y un alto grado de apoyo en las transiciones políticas; y (iii) adoptará
+          un enfoque flexible y gradual en el plazo de siete años a efectos de facilitar ajustes
+          sin dejar de lado los objetivos básicos. Además, el programa identificará a
+          promotores del cambio, adaptará las capacitaciones y aprovechará el marco de la
+          visión de desarrollo verde con el fin de crear una base apolítica de largo plazo
+          para los objetivos del proyecto.
+2.10      Sostenibilidad. Para asegurar la sostenibilidad técnica, el préstamo financiará la
+          elaboración del material de capacitación, que brindará oportunidades para el
+          fortalecimiento de capacidad más allá de la ejecución. El diseño del edificio
+          conforme a las normas EDGE permitirá hacer un mantenimiento de bajo costo. La
+          sostenibilidad financiera del préstamo considera el compromiso del gobierno de
+          asignar partidas presupuestarias para el personal adicional necesario y mantener
+          las inversiones del préstamo. Se prevé que la NMA sea autosuficiente en términos
+          financieros, mediante el cobro de tasas de tramitación, permisos y sanciones. El
+
+
+49   Otras entidades públicas incluyen la Oficina Nacional de Planificación, el Ministerio de Política Territorial
+     y Silvicultura, el Ministerio de Recursos Naturales, el Ministerio de Salud, el Ministerio de Obras Públicas,
+     el Ministerio de Agricultura, Pesca y Ganadería, el Ministerio de Desarrollo Regional y el Ministerio de
+     Asuntos Exteriores.
+50   La cultura organizacional es un conjunto de creencias, valores y expectativas compartidas por la empresa
+     que definen el entorno de trabajo y la experiencia de los empleados.
+                                                                         - 27 -
+
+
+
+        gobierno está creando oportunidades de financiamiento verde para respaldar las
+        actividades y los mandatos necesarios para estas entidades.
+
+                        III. PLAN DE IMPLEMENTACIÓN Y GESTIÓN DEL PROYECTO
+
+        Resumen del plan de implementación
+3.1     Plan de ejecución (enlace opcional 10). El prestatario del programa es la
+        República de Suriname por medio del Ministerio de Finanzas y Planificación.
+        Como encargado del sector, el ROM será la entidad gubernamental responsable
+        de la implementación y ejecución del proyecto. El organismo ejecutor establecerá
+        una unidad de ejecución provisional conformada por consultores de corto plazo
+        para asegurar la contratación de la unidad operativa externa. La descripción de
+        las tareas, el papel y las responsabilidades de la unidad de ejecución se incluyen
+        en el manual operativo del proyecto.
+3.2     El programa incluirá la contratación de una empresa que prestará asistencia
+        técnica como unidad operativa externa a fin de apoyar al organismo ejecutor en la
+        planificación, la gestión y el seguimiento del programa, en la preparación y
+        supervisión de los documentos técnicos y en otras tareas que se precisen(enlace
+        opcional 10). La unidad operativa externa seguirá la estructura del Gráfico 2.
+3.3     Por último, a fin de brindar orientación estratégica y normativa para el proceso de
+        toma de decisiones y coordinación entre el ROM y la NMA y dirigir y orientar los
+        aspectos técnicos del programa, se creará un comité coordinador del proyecto
+        (enlace opcional 10). La descripción de las tareas, el papel y las responsabilidades
+        respectivas se incluyen en el manual operativo del proyecto.
+
+                                        Gráfico 2. Mecanismo de ejecución del programa
+
+
+                                                                          Ministro
+                                                                          del ROM
+                                        Organismo ejecutor                                                Comité coordinador
+                                                                                                          del proyecto
+                                                                                                          ROM + NMA
+
+                                                                    Secretario Permanente
+                                                                     de Gestión General y
+                                                                     Asuntos Financieros
+
+
+
+
+                             Unidad operativa externa
+
+
+                                                                          Gerente del
+                                                                           proyecto
+
+
+
+      Especialista en                                           Enlace para la          Especialista en     Especialista                  Especialista en
+                         Especialista        Especialista en                                                               Especialista
+      seguimiento y                                            coordinación del         salvaguardias       en sistemas                    planificación
+                          financiero          adquisiciones                                                                 ambiental
+        evaluación                                                programa                 sociales           digitales                      espacial
+
+
+
+
+  Fuente: BID.
+
+
+3.4     Mantenimiento de las obras. El prestatario y el organismo ejecutor se
+        asegurarán de que las obras y los equipos financiados en el marco del programa
+        reciban un mantenimiento adecuado con arreglo a normas técnicas generalmente
+                                                      - 28 -
+
+
+
+          aceptadas con el apoyo del Ministerio de Obras Públicas responsable del
+          mantenimiento y la conservación de propiedades gubernamentales.
+3.5       Las condiciones contractuales especiales previas al primer desembolso son
+          las siguientes: El prestatario, a través del organismo ejecutor, acreditará, a
+          satisfacción del Banco (i) la creación de la unidad de ejecución del programa
+          provisional en el ROM y la selección del coordinador del programa; (ii) la
+          aprobación y entrada en vigor del manual operativo del proyecto (enlace
+          opcional 2), bajo las condiciones previamente acordadas con el Banco; y
+          (iii) la aprobación por parte del Consejo de Ministros de la declaración sobre
+          la visión de desarrollo verde. En el Anexo B del resumen de la revisión
+          ambiental y social figuran las condiciones ambientales y sociales
+          adicionales.
+3.6       La primera condición tiene por objeto asegurar que el proceso de contratación de
+          la unidad operativa externa sea oportuno y rápido, como hito crítico para la
+          ejecución del programa; la segunda condición se incluye para respaldar la
+          organización interna del organismo ejecutor a efectos de salvaguardar el éxito de
+          la implementación del programa; y la tercera condición es necesaria dada la
+          pertinencia de ese documento para el cumplimiento de las metas sectoriales.
+3.7       Condiciones contractuales especiales de ejecución. Antes de la licitación para
+          la construcción de los dos edificios bioclimáticos incluidos en el Componente 1(c),
+          el prestatario, a través del organismo ejecutor, deberá haber presentado pruebas
+          que demuestren que todos los diseños correspondientes cumplen las normas
+          EDGE.
+3.8       Acuerdos y requisitos financieros. El programa se ceñirá a las disposiciones
+          incluidas en la Guía de Gestión Financiera para Proyectos Financiados por el BID
+          (OP-273-12).
+3.9       Adquisiciones. El organismo ejecutor adquirirá bienes y contratará obras, servicios
+          y servicios de consultoría según lo establecido en las Políticas para la Adquisición
+          de Bienes y Obras Financiados por el Banco Interamericano de Desarrollo
+          (GN-2349-15), las Políticas para la Selección y Contratación de Consultores
+          Financiados por el Banco Interamericano de Desarrollo (GN-2350-15) y otros
+          procedimientos internos del Banco. Todas las adquisiciones del programa se
+          regirán por lo dispuesto en el plan de adquisiciones, incluidos los métodos
+          adecuados, la supervisión y la modalidad de seguimiento.
+3.10      Período y modalidad de los desembolsos. El período de desembolso será de
+          siete años. Los desembolsos se harán en función de las necesidades de liquidez
+          del programa como anticipo de fondos, sobre la base del flujo de caja de los
+          compromisos debidamente adquiridos para los seis meses siguientes y tras haber
+          justificado al menos el 80% del monto previamente anticipado.
+3.11      Estados financieros auditados. El organismo ejecutor, con el apoyo de la unidad
+          operativa externa, será el responsable de presentar los siguientes documentos al
+          Banco: (i) estados financieros anuales auditados del programa e informe de
+          controles internos, dentro de los 120 días posteriores al cierre de cada ejercicio
+          fiscal51; y (ii) estados financieros anuales auditados finales, en un plazo de
+
+
+
+51   El ejercicio fiscal abarca del 1 de enero al 31 de diciembre.
+                                             - 29 -
+
+
+
+       120 días tras la fecha de desembolso final del programa. Las auditorías estarán a
+       cargo de una empresa independiente de auditoría externa aceptable para el
+       Banco, de conformidad con las directrices del BID (OP-273-12). El organismo
+       ejecutor contratará a la empresa con recursos de la administración del programa.
+       Resumen del plan de seguimiento de los resultados
+3.12   Seguimiento. El seguimiento del programa consiste en verificar las medidas
+       normativas acordadas en el plan de seguimiento y evaluación (enlace
+       requerido 2). El organismo ejecutor y el Banco se reunirán periódicamente para
+       hacer un seguimiento de los resultados de la operación y prever y resolver las
+       dificultades técnicas relacionadas con la ejecución. El organismo ejecutor
+       presentará al Banco toda la información necesaria para medir el cumplimiento de
+       los objetivos del programa y proporcionará información puntual sobre el avance
+       que se alcance al respecto.
+3.13   Evaluación. La estrategia de evaluación comprenderá (i) una evaluación para
+       verificar la consecución de los objetivos propuestos; (ii) un análisis económico
+       ex post; y (iii) al cierre del proyecto, un análisis que se ciña a las directrices del BID
+       sobre los informes de terminación de proyecto. El primer componente se basará
+       en (i) un análisis del antes y el después de los indicadores de resultados e impacto
+       incluidos en la matriz de resultados; (ii) una evaluación de la eficacia que
+       examinará la teoría del cambio de la intervención; y (iii) una evaluación cualitativa
+       que brinde información complementaria sobre cómo pueden atribuirse al
+       programa los resultados alcanzados. Las principales preguntas de la evaluación
+       abordarán si las medidas implementadas ayudaron a alcanzar los objetivos del
+       programa. La evaluación ex post, el análisis económico y el informe de
+       terminación del proyecto se llevarán a cabo al final de la ejecución.
+                                                                                                                                                                                  Anexo I - SU-L1067
+                                                                                                                                                                                       Página 1 de 1
+
+
+
+
+                                                                       Matriz de Efectividad en el Desarrollo
+
+                                                                               Resumen             SU-L1067
+I. Prioridades corporativas y del país
+1. Alineación con la estrategia institucional del Grupo BID
+
+
+
+
+                                                                                            -Biodiversidad, capital natural y acción climática
+                                                                                            -Igualdad de género e inclusión de grupos poblacionales diversos
+Áreas de enfoque operativo                                                                  -Capacidad institucional, estado de derecho, seguridad ciudadana
+                                                                                            -Infraestructura sostenible, resiliente e inclusiva
+
+
+
+
+[Marcador de espacio: Indicadores del marco de impacto]
+
+2. Objetivos de desarrollo del país
+
+
+
+
+   Matriz de resultados de la estrategia de país                                                   GN-3065          1.2 Mejorar el gobierno digital
+
+
+
+
+                                                                                                                    La intervención está incluida en el Programa de Operaciones
+   Matriz de resultados del programa de país                                                       GN-3207
+                                                                                                                    de 2024.
+
+
+
+   Relevancia del proyecto a los retos de desarrollo del país (si no se encuadra
+dentro de la estrategia de país o el programa de país)
+
+II. Development Outcomes - Evaluability                                                                                        Evaluable
+3. Evaluación basada en pruebas y solución                                                                                          7.6
+     3.1 Diagnóstico del Programa                                                                                                   2.5
+     3.2 Intervenciones o Soluciones Propuestas                                                                                     1.6
+     3.3 Calidad de la Matriz de Resultados                                                                                         3.5
+4. Análisis económico ex ante                                                                                                       10.0
+     4.1 El programa tiene una TIR/VPN, o resultados clave identificados para ACE                                                   1.5
+     4.2 Beneficios Identificados y Cuantificados                                                                                   3.0
+     4.3 Supuestos Razonables                                                                                                       2.5
+     4.4 Análisis de Sensibilidad                                                                                                   2.0
+     4.5 Consistencia con la matriz de resultados                                                                                   1.0
+5. Evaluación y seguimiento                                                                                                         9.5
+     5.1 Mecanismos de Monitoreo                                                                                                    4.0
+     5.2 Plan de Evaluación                                                                                                         5.5
+III. Matriz de seguimiento de riesgos y mitigación
+Calificación de riesgo global = magnitud de los riesgos*probabilidad                                                             Medio Alto
+Clasificación de los riesgos ambientales y sociales                                                                                  B
+IV. Función del BID - Adicionalidad
+El proyecto se basa en el uso de los sistemas nacionales
+
+
+
+                                                       Fiduciarios (criterios de VPC/FMP)
+
+
+
+
+                                                                           No-Fiduciarios
+
+
+
+La participación del BID promueve mejoras adicionales en los presuntos
+beneficiarios o la entidad del sector público en las siguientes dimensiones:
+
+
+   Antes de la aprobación se brindó a la entidad del sector público asistencia técnica
+adicional (por encima de la preparación de proyecto) para aumentar las                                 Sí           ATN/AC-19447-SU,ATN/OC-19009-SU,ATN/OC-20167-SU
+probabilidades de éxito del proyecto
+
+
+
+
+El objetivo general del programa es mejorar la capacidad institucional de Surinam para gestionar el uso del suelo. Los objetivos específicos son: (i) fortalecer los marcos,
+regulaciones e instrumentos de planificación espacial y ambiental de Surinam; (ii) aumentar la disponibilidad y el uso de datos para la planificación espacial, el cambio
+climático y la gestión ambiental; y (iii) fortalecer las condiciones operativas del MinROM y la NMA.
+
+El proyecto presenta un diagnóstico completo. Los indicadores asociados a los objetivos específicos incluidos en la Matriz de Resultados son SMART y cuentan con medios
+de verificación. Algunos indicadores no tienen una línea de base y/o meta establecida; el Plan de Monitoreo y Evaluación indica que se determinarán antes de iniciar la
+ejecución del programa.
+
+Se realizó un análisis costo-beneficio (ACB) para evaluar la viabilidad económica de la intervención propuesta considerando un periodo de 20 años y una tasa de descuento
+del 3%. El ACB prevé las condiciones de deforestación en ausencia del proyecto, y su cambio asociado en las emisiones de CO2. Los beneficios estimados se derivan de la
+reducción de la deforestación, que conlleva la captura de carbono y la preservación del medio ambiente. El valor actual neto estimado es de U$405,7 millones; y la tasa
+interna de rentabilidad es del 74%, suponiendo un precio de US$85 por tonelada de carbono. El ejercicio concluye que el proyecto es económicamente viable e incluye
+análisis de sensibilidad que arroja rendimientos positivos si el precio del carbono supera los 57,6 dólares por tonelada.
+
+El proyecto incluye un plan de monitoreo y evaluación acorde a los estándares del Banco. La efectividad de la intervención propuesta se medirá mediante una evaluación
+que utiliza la metodología de antes y después. Adicionalmente, se propone realizar un análisis de costo-beneficio ex-post actualizado utilizando la misma metodología
+utilizada para el estudio ex-ante.
+                                                                                                                                                                                   Anexo II
+                                                                                                                                                                              Página 1 de 6
+
+
+                                                                                 MATRIZ DE RESULTADOS
+
+ Objetivo del proyecto:        El objetivo del programa es mejorar la capacidad institucional de Suriname para gestionar el uso de la tierra. Los objetivos específicos de esta operación
+                               son los siguientes: (i) fortalecer los marcos, normas e instrumentos ambientales y de planificación espacial de Suriname; (ii) aumentar la disponibilidad y
+                               el uso de datos para la planificación espacial, el cambio climático y la gestión ambiental; y (iii) reforzar las condiciones operativas del ROM y de la NMA.
+                               El logro de estos objetivos contribuirá al objetivo general de mejorar la capacidad institucional de Suriname para gestionar el uso de la tierra.
+
+
+
+                                                                           OBJETIVO DE DESARROLLO GENERAL
+ Objetivo de desarrollo general: Mejorar la capacidad institucional de Suriname para gestionar el uso de la tierra
+                                       Unidad de        Valor de          Año de         Año previsto
+           Indicadores                                                                                         Meta         Medios de verificación                 Comentarios
+                                       medición        referencia       referencia       para el logro
+ Indicador 1. Emisiones de GEI          Toneladas           0             2024               2044            7.965.686    Informe sobre el uso de la      Véase el enlace requerido 2
+ evitadas gracias a la                   de CO2e                                                                          tierra basado en imágenes
+ reducción de la deforestación                                                                                            satelitales y calculadora de
+                                                                                                                          emisiones de GEI
+
+
+                                                                        OBJETIVOS DE DESARROLLO ESPECÍFICOS
+ Objetivo de desarrollo específico 1: Fortalecer los marcos, normas e instrumentos ambientales y de planificación espacial de Suriname
+                            Unidad de          Valor de      Año de                                                                             Fin del       Medios de
+     Indicadores                                                        Año 1    Año 2      Año 3    Año 4      Año 5    Año 6      Año 7                                     Comentarios
+                            medición          referencia   referencia                                                                          proyecto      verificación
+1.1 Aprobación por          Número de             0          2023         -          -        -          -        -        -          1            1       Orden de           Véase el
+    parte del Consejo        sistemas                                                                                                                      aprobación del     enlace
+    de Ministros del                                                                                                                                       Consejo de         requerido 2
+    sistema de                                                                                                                                             Ministros
+    planificación
+    espacial
+1.2 Porcentaje de         km2 de territorio      0%          2024         -          -        -          -        -        -        100%         100%      Planes de          Véase el
+    territorio nacional     con plan de                                                                                                                    zonificación       enlace
+    con un plan de         zonificación /                                                                                                                  firmados por los   requerido 2
+    zonificación           territorio total                                                                                                                ministros del
+    aprobado por el                                                                                                                                        ROM
+    ROM
+1.3 Solicitudes             Número de             0          2023         -          -        -          -        -        -         21            21      Solicitudes de     Véase el
+    recibidas de             permisos                                                                                                                      permisos           enlace
+    permisos                                                                                                                                               ambientales        requerido 2
+    ambientales
+    anuales
+Anexo II
+Página 2 de 6
+
+
+                          Unidad de         Valor de      Año de                                                                        Fin del       Medios de
+    Indicadores                                                      Año 1   Año 2   Año 3    Año 4    Año 5     Año 6      Año 7                                    Comentarios
+                          medición         referencia   referencia                                                                     proyecto      verificación
+Objetivo de desarrollo específico 2: Aumentar la disponibilidad y el uso de datos para la planificación espacial, el cambio climático y la gestión ambiental
+2.1 Descargas             Número de            0          2023         -       -        -        -        -        -        Por          Por     Rastreador de       Véase el
+    anuales de datos     descargas de                                                                                    determinar   determinar descargas del       enlace
+    de la plataforma        datos                                                                                                                servidor            requerido 2
+    de información
+    ambiental
+2.2 Visitas anuales a     Número de            0          2023         -       -        -        -        -        -        Por          Por     Rastreador de IP Véase el
+    la plataforma de    visitas a la web                                                                                 determinar   determinar del servidor     enlace
+    información                                                                                                                                                   requerido 2
+    sobre uso de la
+    tierra y
+    zonificación
+2.2.1      Visitas        Número de            0          2023         -       -        -        -        -        -        Por          Por     Rastreador de IP Véase el
+     anuales a la       visitas a la web                                                                                 determinar   determinar del servidor     enlace
+     plataforma de      que utilizan las                                                                                                                          requerido 2
+     información         adaptaciones
+     sobre uso de la    para personas
+     tierra y                  con
+     zonificación que   discapacidad /
+     utilizan las         Número de
+     adaptaciones       visitas a la web
+     para personas
+     con discapacidad
+2.3 Sectores que          Número de            0          2023         -       -        -        -        -        -          4            4       Informe anual de Véase el
+    comunican datos        sectores                                                                                                                GEI              enlace
+    de nivel 2 en el                                                                                                                                                requerido 2
+    sistema de
+    seguimiento,
+    información y
+    verificación
+Objetivo de desarrollo específico 3: Reforzar las condiciones operativas del ROM y de la NMA
+3.1 Personal del         Personal que          0          2024         -       -        -        -        -        -        70%          70%       Registros de      Para aprobar,
+    ROM que aprobó      asistió al menos                                                                                                           asistencia a      el personal
+    el curso sobre       al 80% de las                                                                                                             cursos e          debe asistir al
+    capacidad               clases y                                                                                                               informes de       menos al 80%
+    organizacional y    presentó todas                                                                                                             finalización de   de las clases y
+    gestión                las tareas                                                                                                              tareas            presentar
+                           exigidas /                                                                                                                                todas las
+                         personal que                                                                                                                                tareas
+                         participó en el                                                                                                                             exigidas.
+                                                                                                                                                                    Anexo II
+                                                                                                                                                               Página 3 de 6
+
+
+                         Unidad de         Valor de      Año de                                                                   Fin del      Medios de
+    Indicadores                                                     Año 1   Año 2   Año 3   Año 4   Año 5   Año 6     Año 7                                    Comentarios
+                         medición         referencia   referencia                                                                proyecto     verificación
+                            curso                                                                                                                              Véase el
+                                                                                                                                                               enlace
+                                                                                                                                                               requerido 2
+3.2 Personal del        Personal que          0          2024         -       -       -       -       -       -       70%          70%      Registros de       Véase el
+    ROM que aprobó asistió al menos                                                                                                         asistencia a los   enlace
+    el curso sobre      al 80% de las                                                                                                       cursos y           requerido 2
+    prácticas no           clases y                                                                                                         pruebas
+    discriminatorias   presentó todas                                                                                                       fotográficas
+    en cuanto a           las tareas
+    género y              exigidas /
+    personas con        personal que
+    discapacidad en    participó en el
+    el lugar de             curso
+    trabajo y en los
+    servicios públicos
+3.3 Personal de la      Personal que          0          2024         -       -       -       -       -       -       70%          70%      Registros de       Para aprobar,
+    NMA que aprobó     asistió al menos                                                                                                     asistencia a       el personal
+    el curso sobre      al 80% de las                                                                                                       cursos e           debe asistir al
+    capacidad              clases y                                                                                                         informes de        menos al 80%
+    organizacional y   presentó todas                                                                                                       finalización de    de las clases y
+    gestión               las tareas                                                                                                        tareas             presentar
+                          exigidas /                                                                                                                           todas las
+                        personal que                                                                                                                           tareas
+                        participó en el                                                                                                                        exigidas.
+                             curso                                                                                                                             Véase el
+                                                                                                                                                               enlace
+                                                                                                                                                               requerido 2
+3.4 Personal de la      Personal que          0          2024         -       -       -       -       -       -       70%          70%      Registros de       Véase el
+    NMA que aprobó asistió al menos                                                                                                         asistencia a los   enlace
+    el curso sobre      al 80% de las                                                                                                       cursos y           requerido 2
+    prácticas no           clases y                                                                                                         pruebas
+    discriminatorias   presentó todas                                                                                                       fotográficas
+    en cuanto a           las tareas
+    género y              exigidas /
+    personas con        personal que
+    discapacidad en    participó en el
+    el lugar de             curso
+    trabajo y en los
+    servicios públicos
+3.5 Tiempo promedio         Días          Por deter-     2024         -       -       -       -       -       -        Por          Por     Informe del        Véase el
+    de respuesta del                        minar                                                                   determinar   determinar sistema de         enlace
+    Ministerio en el
+Anexo II
+Página 4 de 6
+
+
+                              Unidad de         Valor de      Año de                                                                              Fin del        Medios de
+    Indicadores                                                          Año 1   Año 2    Año 3       Año 4     Año 5     Año 6     Año 7                                      Comentarios
+                              medición         referencia   referencia                                                                           proyecto       verificación
+    envío de                                                                                                                                                  correspondencia requerido 2
+    correspondencia
+3.6 Número de                 Número de            0          2024         -         -        -         -         -         -        Por            Por     Sistema de         Véase el
+    procesos                   procesos                                                                                           determinar     determinar gestión            enlace
+    digitalizados                                                                                                                                                              requerido 2
+
+                                                                                         PRODUCTOS
+ Componente 1: Fortalecimiento de la capacidad del ROM en materia de planificación espacial, cambio climático y gestión ambiental.
+                                Unidad de        Valor de    Año de                                              Fin del
+       Indicadores                                                    Año 1 Año 2 Año 3 Año 4 Año 5 Año 6 Año 7                                Medios de verificación       Comentarios
+                                medición        referencia referencia                                           proyecto
+1.1 Formulación del plan        Número de           0          2024       0      0        1       0         0         0     0        1         Documento del plan de      Véase el enlace
+    de acción para la             planes                                                                                                       acción del marco de la     requerido 2
+    ejecución del marco                                                                                                                        visión de desarrollo verde
+    de la visión de
+    desarrollo verde
+1.2 Formulación de las          Número de           0          2024       0      0        0       0         0         1     0        1         Documento de la           Véase el enlace
+    estrategias de              estrategias                                                                                                    estrategia de             requerido 2
+    planificación espacial                                                                                                                     planificación espacial
+     Hito: Formulación de       Conjunto de         0          2024       0      0        1       0         0         0     0        1         Documento con las         Véase el enlace
+     un conjunto de              directrices                                                                                                   directrices               requerido 2
+     directrices para la
+     inclusión de las
+     mujeres, los pueblos
+     indígenas, los
+     afrodescendientes y
+     las personas con
+     discapacidad en las
+     estrategias de
+     planificación espacial
+     Hito: Formulación del      Número de           0          2024       0      0        0       0         1         0     0        1         Documento del plan        Véase el enlace
+     plan nacional de             planes                                                                                                       espacial                  requerido 2
+     desarrollo espacial
+1.3 Formulación de              Número de           0          2024       0      0        0       0         4         4     2        10        Planes de zonificación    Véase el enlace
+    planes de zonificación        planes                                                                                                                                 requerido 2
+    para las áreas
+    prioritarias
+1.4 Puesta en marcha de         Número de           0          2024       0      0        0       0         0         1     0        1         Plataforma en línea       Véase el enlace
+    la plataforma pública       plataformas                                                                                                                              requerido 2
+                                                                                                                                                                Anexo II
+                                                                                                                                                           Página 5 de 6
+
+
+                              Unidad de       Valor de    Año de                                              Fin del
+       Indicadores                                                 Año 1 Año 2 Año 3 Año 4 Año 5 Año 6 Año 7             Medios de verificación        Comentarios
+                              medición       referencia referencia                                           proyecto
+    de zonificación y uso
+    de la tierra
+1.5 Establecimiento de        Número de         0        2024     0      0       0      0       0      1         0   1   Sistema de concesión de Véase el enlace
+    una ventanilla única      ventanillas                                                                                licencias en               requerido 2
+    para el sistema de                                                                                                   funcionamiento en el sitio
+    concesión de                                                                                                         web del gobierno
+    permisos y licencias
+    de zonificación y
+    desarrollo
+1.6 Creación de la unidad     Número de         0        2024     0      0       0      0       0      0         1   1   Descripción de las tareas Véase el enlace
+    de coordinación de         unidades                                                                                  de la unidad, personal    requerido 2
+    donantes                                                                                                             para la unidad
+                                                                                                                         En el organigrama
+1.7 Construcción de           Número de         0        2024     0      0       0      0       0      2         0   2   Certificado de finalización Véase el enlace
+    edificios bioclimáticos    edificios                                                                                 de la construcción y        requerido 2
+    y accesibles                                                                                                         pruebas fotográficas de
+                                                                                                                         las características de
+                                                                                                                         accesibilidad para
+                                                                                                                         personas con
+                                                                                                                         discapacidad (ancho de
+                                                                                                                         entrada > = 90cm, banda
+                                                                                                                         táctil)
+1.8 Puesta en marcha del       Número de        0        2024     0      0       2      1       2      0         0   5   Registros de asistencia    Véase el enlace
+    programa de                programas                                                                                                            requerido 2
+    formación operativa            de
+    para la capacidad         capacitación
+    institucional del ROM
+Componente 2: Fortalecimiento de la capacidad de la NMA para la gestión ambiental y la transparencia climática
+2.1 Publicación del           Número de         0        2024     0      0       0      0       0      1         0   1   Sitio web operativo        Véase el enlace
+    sistema de                 sistemas                                                                                                             requerido 2
+    información ambiental
+2.2 Puesta en marcha del      Número de         0        2024     0      0       0      0       0      1         0   1   Sistema de concesión de Véase el enlace
+    sistema de concesión       sistemas                                                                                  licencias en               requerido 2
+    de permisos y                                                                                                        funcionamiento en el sitio
+    licencias para las                                                                                                   web del gobierno
+    evaluaciones de
+    impacto ambiental y
+    los permisos
+    ambientales
+Anexo II
+Página 6 de 6
+
+
+                            Unidad de       Valor de    Año de                                              Fin del
+      Indicadores                                                Año 1 Año 2 Año 3 Año 4 Año 5 Año 6 Año 7            Medios de verificación       Comentarios
+                            medición       referencia referencia                                           proyecto
+    Hito: Establecimiento   Número de         0        2024     0      0     0     1      0     0      0      1       Documento con las         Véase el enlace
+    de normas sobre          normas                                                                                   normas sobre              requerido 2
+    contaminación                                                                                                     contaminación aprobado
+                                                                                                                      por el director de la NMA
+2.3 Establecimiento del     Número de         0        2024     0      0     0     0      0     0      1      1       Seguimiento, información Véase el enlace
+    sistema de               sistemas                                                                                 y verificación           requerido 2
+    seguimiento,
+    información y
+    verificación
+    Hito: Formulación de    Número de         0        2024     0      0     2     2      0     0      0      4       Memorandos de             Véase el enlace
+    mecanismos y            mecanismos                                                                                entendimiento             requerido 2
+    acuerdos para el        y acuerdos                                                                                interinstitucionales
+    intercambio
+    interinstitucional de
+    datos
+2.4 Puesta en marcha del     Número de        0        2024     0      0     1     1      1     1      1      5       Registros de asistencia   Véase el enlace
+    programa de              cursos de                                                                                                          requerido 2
+    formación operativa     capacitación
+    para la capacidad
+    institucional de la
+    NMA
+                                                                                           Anexo III
+                                                                                       Página 1 de 6
+
+
+
+País: Suriname               División: HUD          Operación No.: SU-L1067                 Año: 2024
+
+
+                             ACUERDOS Y REQUISITOS FIDUCIARIOS
+
+
+Organismo ejecutor:          Ministerio de Planificación Espacial y Medio Ambiente
+Nombre de la operación: Fortalecimiento de la Planificación Espacial y la Gestión Ambiental en
+                        Suriname
+
+                    I.   CONTEXTO FIDUCIARIO DEL ORGANISMO EJECUTOR
+
+1. Uso de los sistemas nacionales en la operación (cualquier sistema o subsistema que se
+   apruebe con posterioridad podrá ser aplicable a la operación, de acuerdo con los términos de
+   la validación del Banco).
+
+                                                                                     Licitación
+                                 Presentación de           Sistema de
+  ☐     Presupuesto          ☐                       ☐                        ☐      pública nacional
+                                 informes                  información
+                                                                                     (LPN)
+                                 Auditoría                 Comparación
+  ☐     Tesorería            ☐                       ☐                        ☐      Otro
+                                 interna                   de precios
+                                                           Consultores
+  ☐     Contabilidad         ☐   Control externo     ☐                        ☐      Otro
+                                                           individuales
+
+
+2. Mecanismo de ejecución fiduciaria
+
+  ☒    Particularidades de la      Este préstamo será ejecutado por el Ministerio de Planificación
+       ejecución fiduciaria        Espacial y Medio Ambiente.
+
+
+3. Capacidad fiduciaria
+
+  Capacidad fiduciaria del         El resultado de la evaluación de la capacidad institucional indica
+  organismo ejecutor               que la capacidad del Ministerio de Planificación Espacial y Medio
+                                   Ambiente para ejecutar SU-L1067 es relativamente deficiente.
+                                   Sin embargo, teniendo en cuenta la disposición del ROM para
+                                   desarrollar su enfoque de ejecución del proyecto y las fortalezas
+                                   clave demostradas en áreas como gestión de proyectos,
+                                   sistemas y procedimientos de gestión de adquisiciones,
+                                   capacidad y disponibilidad de recursos humanos, sistemas de
+                                   gestión fiduciaria, gestión de la calidad técnica, políticas,
+                                   procedimientos y salvaguardias en materia de salud, seguridad,
+                                   medio ambiente y asuntos sociales, y la experiencia con socios
+                                   internacionales de desarrollo como el PNUMA y el
+                                   Banco Mundial, se puede reforzar la capacidad de ejecución.
+                                   Esto puede lograrse adoptando las recomendaciones que se
+                                   presentan en la sección siguiente.
+Anexo III
+Página 2 de 6
+
+
+4. Riesgos fiduciarios y respuesta al riesgo
+
+  Clasificación                                        Nivel de
+                               Riesgo                                   Respuesta al riesgo
+   del riesgo                                           riesgo
+  Procesos         Si la capacidad de ejecución          Alto     Este riesgo puede mitigarse
+  internos         del ROM sigue siendo limitada                  incorporando una unidad
+                   para un proyecto de esta                       operativa externa en el plan de
+                   envergadura, alcance y                         ejecución del proyecto. La
+                   complejidad, pueden                            unidad se dedicará a apoyar la
+                   materializarse retrasos en la                  ejecución del proyecto del ROM
+                   ejecución de todo el proyecto                  al tiempo que transferirá
+                   que afecten negativamente la                   conocimientos y desarrollará su
+                   consecución de sus objetivos.                  capacidad de ejecución.
+  Procesos         Si existen importantes                Alto     Este riesgo puede mitigarse
+  internos         conflictos de gestión interna                  integrando a los distintos
+                   entre los departamentos del                    departamentos durante los
+                   ROM, pueden producirse                         talleres de planificación de
+                   trastornos en la ejecución del                 proyectos, las misiones y la
+                   proyecto que, en última                        revisión de la cartera.
+                   instancia, pueden afectar los
+                   objetivos a largo plazo.
+  Procesos         Si existe una falta de                Alto     Este riesgo puede mitigarse
+  internos         coordinación del proyecto entre                utilizando un comité coordinador
+                   el ROM y la NMA, el ritmo de                   del proyecto con la supervisión
+                   ejecución del proyecto puede                   directa del Ministro del ROM,
+                   verse reducido, provocando así                 dado que este ministerio es el
+                   retrasos generales en la                       organismo ejecutor del proyecto.
+                   consecución de las actividades                 Además, debe diseñarse y
+                   y los resultados del proyecto.                 ejecutarse un acuerdo de trabajo
+                                                                  interinstitucional y someterse a
+                                                                  seguimiento para velar por su
+                                                                  eficacia.
+  Bienes y         Si los sistemas, normas y           Mediano-   Esto puede mitigarse con
+  servicios        procedimientos de gestión de          alto     iniciativas de fortalecimiento de
+                   adquisiciones del ROM son                      capacidad, como capacitación
+                   inadecuados para la ejecución                  relacionada con el Banco sobre
+                   del proyecto, podrán producirse                gestión fiduciaria para el
+                   errores, omisiones y retrasos                  personal del proyecto.
+                   en los procesos de gestión de
+                   las adquisiciones, lo que
+                   obstaculizará la ejecución del
+                   proyecto y la finalización de sus
+                   actividades.
+
+
+5. Políticas y guías aplicables a la operación: Las adquisiciones y contrataciones se ceñirán
+    a las Políticas para la Adquisición de Bienes y Obras Financiados por el Banco Interamericano
+    de Desarrollo (GN-2349-15) y las Políticas para la Selección y Contratación de Consultores
+    Financiados por el Banco Interamericano de Desarrollo (GN-2350-15), así como a los
+    acuerdos fiduciarios incluidos en este documento, en vigor desde enero de 2020.
+6. Excepciones a políticas y guías: No aplicable.
+                                                                                          Anexo III
+                                                                                      Página 3 de 6
+
+
+II. ASPECTOS QUE SE DEBEN TENER EN CUENTA EN LAS CONDICIONES ESPECIALES DEL
+                            ACUERDO DE PRÉSTAMO
+
+Condiciones previas al primer desembolso: El prestatario, a través del organismo ejecutor,
+deberá acreditar, a satisfacción del Banco (i) la creación de la unidad de ejecución del programa
+provisional en el ROM y la selección del coordinador del programa; (ii) la aprobación y entrada
+en vigor del manual operativo del proyecto (enlace opcional 2), en los términos previamente
+acordados con el Banco; y (iii) la aprobación por parte del Consejo de Ministros de la declaración
+sobre la visión de desarrollo verde. Véanse las condiciones ambientales y sociales adicionales
+descritas en el Anexo B del resumen de la revisión ambiental y social.
+
+Tipo de cambio: A los efectos de las disposiciones del Artículo 4.10 de las Normas Generales,
+las partes acuerdan que el tipo de cambio aplicable será el indicado en el párrafo (b)(i) de dicho
+artículo. Para determinar la equivalencia de los gastos incurridos en moneda local con cargo a
+los recursos adicionales o del reembolso de los gastos con cargo a recursos del préstamo, el
+tipo de cambio acordado será el vigente en la fecha efectiva en la que el prestatario, el
+organismo ejecutor u otra persona física o jurídica en la que se hayan delegado facultades para
+efectuar gastos haga los pagos respectivos al contratista, proveedor o beneficiario.
+
+Tipo de auditoría: Se realizarán visitas o reuniones de inspección financiera, contable e
+institucional con vistas a (i) revisar la conciliación y la documentación justificativa de los
+desembolsos; (ii) comprobar el cumplimiento de los procedimientos financieros y de
+adquisiciones; (iii) revisar el cumplimiento de los criterios de concesión de financiamiento; y
+(iv) hacer un seguimiento de las conclusiones y recomendaciones de las auditorías. La revisión
+de los desembolsos se hará ex post.
+
+
+
+        III. ACUERDOS Y REQUISITOS PARA LA EJECUCIÓN DE LAS ADQUISICIONES
+
+
+☒     Documentos de        Para la adquisición de bienes y la contratación de obras y servicios
+      licitación           distintos de los de consultoría ejecutados de acuerdo con las Políticas
+                           para la Adquisición de Bienes y Obras Financiados por el Banco
+                           Interamericano de Desarrollo (GN-2349-15), sujetos a una licitación
+                           pública internacional, se emplearán los documentos estándar de
+                           licitación del Banco o los acordados entre el organismo ejecutor y el
+                           Banco para adquisiciones o contrataciones particulares. Asimismo, la
+                           selección y contratación de servicios de consultoría se llevarán a cabo
+                           de conformidad con las Políticas para la Selección y Contratación de
+                           Consultores Financiados por el Banco Interamericano de Desarrollo
+                           (GN-2350-15) y se utilizará la solicitud estándar de propuestas emitida
+                           por el Banco o acordada entre el organismo ejecutor y el Banco para
+                           la selección.
+Anexo III
+Página 4 de 6
+
+
+
+  ☒    Supervisión de           El método de supervisión será ex ante.
+       las adquisiciones
+
+  ☒    Registros y              El organismo ejecutor tendrá la responsabilidad de mantener los
+       archivos                 archivos y registros del proyecto, los cuales se mantendrán de acuerdo
+                                con normas aceptables para el Banco (prácticas óptimas) y se
+                                conservarán durante un mínimo de siete años una vez finalizado el
+                                período de ejecución del proyecto.
+
+
+Principales adquisiciones
+
+                                                                                           Monto
+                                                        Nuevos
+   Descripción de las               Método de                              Fecha          estimado
+                                                    procedimientos
+     adquisiciones                  selección                             estimada        (miles de
+                                                    y herramientas
+                                                                                            US$)
+
+ Bienes
+ Adquisición de equipos              Licitación                          1 de marzo               950
+ y programas                          pública                              de 2028
+ informáticos para (i) la          internacional
+ plataforma pública de                 (LPI)
+ zonificación y uso de la
+ tierra; y (ii) la ventanilla
+ única para el sistema de
+ concesión de permisos y
+ licencias de zonificación
+ y desarrollo.
+ Obras
+ Construcción de un                  Licitación                          1 de marzo             5.000
+ edificio bioclimático y              pública                              de 2027
+ accesible para la sede            internacional
+ del Ministerio.                       (LPI)
+
+ Servicios distintos de consultoría
+ Contratación para la                Licitación                          1 de octubre             350
+ formulación y ejecución              pública                              de 2025
+ de la estrategia de               internacional
+ gestión y fortalecimiento             (LPI)
+ institucional.
+ Contratación de la                  Licitación                          1 de enero               420
+ capacitación operativa.              pública                             de 2027
+                                   internacional
+                                       (LPI)
+                                                                                         Anexo III
+                                                                                     Página 5 de 6
+
+
+
+                                                                                       Monto
+                                                     Nuevos
+  Descripción de las             Método de                             Fecha          estimado
+                                                 procedimientos
+    adquisiciones                selección                            estimada        (miles de
+                                                 y herramientas
+                                                                                        US$)
+Empresas de consultoría
+Consultoría para crear           Selección                          13 de abril de          3.045
+(i) el sistema de              basada en la                             2026
+información ambiental; y        calidad y el
+(ii) el sistema de             costo (SBCC)
+concesión de permisos y
+licencias para las
+evaluaciones de impacto
+ambiental y los permisos
+ambientales.
+Consultoría para                 Selección                           1 de octubre           6.300
+formular la estrategia de      basada en la                            de 2025
+planificación espacial de       calidad y el
+Suriname y crear un            costo (SBCC)
+plan estructural regional,
+planes de zonificación y
+códigos de construcción
+para cada uno de los
+distritos.
+Consultores individuales
+Agentes de                      Selección de                        4 de mayo de            1.300
+cumplimiento para el            consultores                             2026
+sistema de concesión de         individuales
+permisos y licencias             (mediante
+para las evaluaciones             invitación
+de impacto ambiental y             abierta)
+los permisos
+ambientales.
+Consulte el plan de adquisiciones aquí.
+
+
+                IV. ACUERDOS Y REQUISITOS PARA LA GESTIÓN FINANCIERA
+
+
+ ☒    Programación y         El organismo ejecutor preparará e implementará un plan operativo, que
+      presupuesto            incluirá el plan presupuestario, el plan de adquisiciones y el plan
+                             financiero, en consonancia con un plan financiero de 12 meses que
+                             será obligatorio. El prestatario se ha comprometido a asignar, para
+                             cada año fiscal de ejecución del programa, el espacio fiscal adecuado
+                             para garantizar la ejecución sin restricciones del programa.
+
+ ☒    Tesorería y            El mecanismo de desembolsos será manual y seguirá los métodos
+      gestión de             establecidos en la guía OP-273-12 y el manual de desembolsos. La
+      desembolsos            moneda para gestionar la operación es el dólar estadounidense. Por
+                             lo general, la operación funcionará con un período financiero de
+Anexo III
+Página 6 de 6
+
+
+                          seis meses, debido al ciclo de planificación del proyecto. El método de
+                          desembolso preferente será el anticipo de fondos, pero también se
+                          podrá recurrir a otros tipos de desembolsos.
+                          Se prevé que la operación justifique el 80% de los saldos acumulados
+                          pendientes de justificación antes de solicitar otro anticipo de fondos.
+
+  ☒    Contabilidad,      Normas de contabilidad específicas: Normas Internacionales de
+       sistemas de        Información Financiera (NIIF).
+       información e
+                          Informes de contabilidad: El organismo ejecutor utilizará el programa
+       informes
+                          informático de gestión contable y financiera QuickBooks, que se
+                          emplea actualmente para la contabilidad y la presentación de informes
+                          financieros de muchos programas del país.
+                          Los estados financieros del programa se prepararán de acuerdo con
+                          las normas del BID, dado que la reforma de la gestión de las finanzas
+                          públicas aún está en curso. El especialista financiero tendrá la
+                          responsabilidad de mantener registros y sistemas auxiliares (por
+                          ejemplo, QuickBooks o un programa similar).
+
+  ☒    Control externo:   El prestatario y el organismo ejecutor, según lo acordado con el Banco,
+       auditoría          contratarán los servicios de una empresa auditora a través de un
+       financiera         proceso de licitación. El alcance de la auditoría y las consideraciones
+       externa e          conexas se regirán por la Guía de Gestión Financiera para Proyectos
+       informes del       Financiados por el BID (OP-273-12) y la Guía de Informes Financieros
+       proyecto           y Auditoría Externa. Las auditorías financieras anuales/los informes de
+                          verificación deben presentarse en un plazo de 120 días a partir del final
+                          de un ejercicio fiscal y en un plazo de 120 días a partir de la fecha del
+                          último desembolso.
+
+  ☒    Supervisión        Se realizarán visitas o reuniones de inspección financiera, contable e
+       financiera del     institucional para (i) revisar la conciliación y la documentación
+       proyecto           justificativa de los desembolsos; (ii) comprobar el cumplimiento de los
+                          procedimientos financieros y de adquisiciones; (iii) revisar el
+                          cumplimiento de los criterios de concesión de financiamiento; y
+                          (iv) hacer un seguimiento de las conclusiones y recomendaciones de
+                          las auditorías. La revisión de los desembolsos se hará ex post.
+             DOCUMENTO DEL BANCO INTERAMERICANO DE DESARROLLO
+
+
+
+
+                            PROYECTO DE RESOLUCIÓN DE-__/24
+
+
+
+                 Suriname. Préstamo ____/OC-SU a la República de Suriname
+                       Fortalecimiento de la Planificación Espacial y la
+                               Gestión Ambiental en Suriname
+
+
+
+       El Directorio Ejecutivo
+
+RESUELVE:
+
+       Autorizar al Presidente del Banco, o al representante que él designe, para que, en
+nombre y representación del Banco, proceda a formalizar el contrato o contratos que sean
+necesarios con la República de Suriname, como prestatario, para otorgarle un financiamiento
+destinado a cooperar en la ejecución del proyecto “Fortalecimiento de la Planificación Espacial
+y la Gestión Ambiental en Suriname”. Dicho financiamiento será hasta por la suma de
+US$30.000.000, que formen parte de los recursos del Capital Ordinario del Banco, y se sujetará
+a los Términos y Condiciones Financieras y a las Condiciones Contractuales Especiales del
+Resumen del Proyecto de la Propuesta de Préstamo.
+
+
+
+                          (Aprobada el ___ de ____________ de 2024)
+
+
+
+LEG/SGO/CCB/EZSHARE-171363792-5447
+SU-L1067
+

@@ -1,0 +1,1796 @@
+                                                                                        PUBLIC
+                                                                      SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                              PERU
+
+
+
+
+             PROGRAM TO PROMOTE SOCIAL HOUSING IN PERU
+
+
+
+                                           (PE-L1293)
+
+
+
+
+                                       LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Sebastián Lew, Project Team
+Leader; Francisco Demichelis (IFD/CMF) and Jason Hobbs (CSD/HUD), Alternate Project
+Team Leaders; Luis Felipe Vera, María Paloma Silva de Anzorena, Nora Libertun de Durén,
+Dianela Ávila, Sofía Del Castillo, Silvia Pérez Moreno, Elena Acosta Maldonado, Alejandro
+Torero, Gabriel De Barros Torres, and Karin Villaroel (CSD/HUD); Rhina Cabezas Valencia
+(CAN/CAN); Jaime Fernández-Baca (CSD/CCS); Abel Cuba Valdivia and Freddy Andara
+Chacón (VPC/FMP); Javier Jiménez Mosquera and Monica Centeno Lappas (LEG/SGO);
+Diana Bocarejo (SCL/GDI); Yesimer Gamboa Vallecillos and Diego Villanueva Moreano
+(CAN/CPE); and Franklin Mendoza Yauri (INO/SMC).
+
+
+
+In accordance with the Access to Information Policy, this document is being released to the public and
+distributed to the Bank's Board of Executive Directors simultaneously. This document has not been
+approved by the Board. Should the Board approve the document with amendments, a revised version
+will be made available to the public, thus superseding and replacing the original version.
+                                                    CONTENTS
+
+
+
+PROJECT SUMMARY
+
+I.     DESCRIPTION AND RESULTS MONITORING .................................................................2
+
+       A.    Background, problem addressed, and rationale.............................................2
+       B.    Objectives, components, and cost................................................................11
+       C.    Viability analysis ...........................................................................................14
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ................................................................15
+
+       A.    Financing instruments ..................................................................................15
+       B.    Environmental and social risks .....................................................................16
+       C.    Fiduciary risks...............................................................................................17
+       D.    Other key issues and risks ...........................................................................17
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN..............................................................18
+
+       A.    Summary of implementation arrangements..................................................18
+       B.    Summary of arrangements for monitoring results ........................................20
+       C.    Post-approval design activities .....................................................................20
+                                                      - ii -
+
+
+
+
+                                                     REQUIRED LINKS
+
+Annex I            Development Effectiveness Matrix (DEM) – Summary
+
+Annex II           Results Matrix
+
+Annex III          Fiduciary Agreements and Requirements
+
+
+                                                     REQUIRED LINKS
+
+1           Multiyear execution plan
+
+2           Monitoring and evaluation plan
+
+3           Environmental and social review summary
+
+
+                                                     OPTIONAL LINKS
+
+1           Analysis of project cost and economic viability
+
+2           Sustainability and climate change
+
+3           Program Operating Regulations
+
+4           Theory of change
+
+5           Study on demand and housing programs
+
+6           Bibliography
+
+7           Technical cooperation: Support for the Program to Promote Social Housing in Peru (PE-T1593; ATN/CV-
+            21221-PE; ATN/OC-21222-PE)
+
+8           Environmental safeguards policy filter
+                                          - iii -
+
+
+
+                                     ABBREVIATIONS
+ABC      Ahorro-Bono-Crédito (Savings-Subsidy-Credit)
+APEIM    Asociación Peruana de Empresas de Inteligencia de Mercado (Peruvian Association
+         of Market Intelligence Companies)
+BBP      Bono del Buen Pagador (Good payer subsidy)
+BFH      Bono Familiar Habitacional (Family housing subsidy)
+ENAHO    Encuesta Nacional de Hogares (National Household Survey)
+ESRS     Environmental and Social Review Summary
+FMV      Fondo MiVivienda
+FONAFE   Fondo Nacional de Financiamiento de la Actividad Empresarial del Estado (National
+         Fund for Financing State Business Activity)
+ICAP     Institutional Capacity Assessment Platform
+IFI      Intermediary financial institution
+LLMIH    Low- and lower-middle-income household
+MEF      Ministry of Economy and Finance
+MVCS     Ministry of Housing, Construction, and Sanitation
+NCMV     Nuevo Crédito Mi Vivienda
+OC       Ordinary Capital
+SBS      Superintendency of Banking, Insurance, and Pension Fund Managers
+SPT      Specialized program team
+                                                        PROJECT SUMMARY
+                                                     PERU
+                                    PROGRAM TO PROMOTE SOCIAL HOUSING IN PERU
+                                                  (PE-L1293)
+
+                                                  Financial Terms and Conditions
+ Borrower:                                                                                Flexible Financing Facility(a)
+                                                                         Amortization period:             11.5 years
+ Republic of Peru
+                                                                         Disbursement period:             5 years
+ Executing agency:                                                       Grace period:                    7.5 years(b)
+                                                                         Interest rate:                   SOFR-based
+ Fondo MiVivienda (FMV)
+                                                                         Credit fee:                      (c)
+
+                                              Amount
+                Source                                          %
+                                               (US$)                     Weighted average life:           10 years
+ IDB (OC):                                  300,000,000          100
+                                                                         Approval currency:               U.S. dollars
+ Total:                                     300,000,000          100
+
+                                                          Project at a Glance
+ Project objective/description: The general development objective is to help expand access to adequate housing solutions
+ for low- and lower-middle-income households (LLMIHs) in Peru. The specific objective is to broaden access to financing
+ for adequate housing solutions for LLMIHs.
+ Special contractual conditions precedent to the first disbursement of the loan: (i) the borrower, through the Ministry
+ of Economy and Finance (MEF), and the executing agency have entered into an agreement, and this is in force, for the
+ transfer of proceeds from the loan and the obligations of the parties with respect to execution of the program; and (ii) the
+ executing agency has approved the Program Operating Regulations, and these are in force, in accordance with the terms
+ and conditions previously agreed on with the Bank, which include clauses relating to socioenvironmental issues based on
+ the environmental and social review summary (ESRS) (paragraph 3.5).
+ Exceptions to Bank policies: None
+                                                          Strategic Alignment
+ Objectives:(d)                        O1 ☒                                    O2 ☒                                      O3 ☒
+ Areas of
+                                             OF2-G ☒
+ operational                 OF1 ☒                             OF3 ☐           OF4 ☒          OF5 ☒             OF6 ☒           OF7 ☐
+ focus:(e)                                   OF2-D ☒
+(a)   Under the terms of the Flexible Financing Facility (FN-655-1), the borrower has the option of requesting changes to the amortization
+      schedule, as well as currency, interest rate, commodity, and catastrophe protection conversions. The Bank will take operational
+      and risk management considerations into account when reviewing such requests.
+(b)   Under the flexible repayment options of the Flexible Financing Facility, changes to the grace period are permitted provided that
+      they do not entail any extension of the original weighted average life or the last payment date as documented in the loan contract.
+(c)   The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its
+      review of the Bank’s lending charges in accordance with the applicable policies.
+(d)   O1 (Reduce poverty and inequality); O2 (Address climate change); and O3 (Bolster sustainable regional growth).
+(e)   OF1 (Biodiversity, natural capital, and climate action); OF2-G (Gender equality); OF2-D (Inclusion of diverse population groups);
+      OF3 (Institutional capacity, rule of law, and citizen security); OF4 (Social protection and human capital development); OF5
+      (Productive development and innovation through the private sector); OF6 (Sustainable, resilient, and inclusive infrastructure); and
+      OF7 (Regional integration).
+                            I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+
+1.1       Background. Over the past 20 years, Peru has experienced significant economic
+          growth, tripling its gross domestic product (GDP) per capita.[1]1, 2 This growth has
+          been accompanied by a sustained urbanization process, and 79% of the country's
+          10 million households now live in urban areas.3 Despite economic progress, deep
+          economic and social inequalities persist due to institutional and market failures,
+          which are reflected in disparate income levels and inadequate housing conditions
+          among urban households.[4] For example, 75% of the economically active
+          population engages in informal employment,[5] and the majority of urban
+          households earn lower-middle (35.5%)4 or low (34.8%) incomes.5
+
+1.2       With household growth outpacing population growth, the country is undergoing a
+          demographic transition, which is increasing the demand for adequate housing. At
+          present, 220,000 new urban households are being formed each year, exceeding
+          the annual intercensal average (2007-2017), which was 149,821 households.[6] In
+          addition, the country has received more than 1.5 million Venezuelan migrants.[7]
+          This contributed to the fact that around 3 million households in urban areas suffer
+          from a housing deficit due to limited access to adequate housing solutions.[9]6 This
+          deficit exists in 37.4% of households and breaks down into 5.7% with a quantitative
+          deficit7 (448,000 households) and 31.7% with a qualitative deficit8 (2.5 million
+          households).[10]9
+
+1.3       High levels of informality, combined with other factors described below, mean that
+          most homes built in Peru are self-builds with scant technical assistance and
+          deficient permitting. Out of a total stock of 6,600,000 urban homes, 71% are
+          self-built, of which only 3% comply with an acceptable quality building process and
+          have all the necessary permits.[11] In regional terms, there is a substantial gap in
+          the proportion of permitted housing10 in Peru (1.5 per 1,000 inhabitants) with
+
+1     See complete list of bibliographic references identified by the number in square brackets [#].
+2     Driven by the country’s mining sector and sound macroeconomic policies, GDP per capita grew from
+      US$2,126.14 in 2003 to US$7,789.87 in 2023.
+3     Although this growth began in Lima in the 1940s,[2] in the last 20 years Peru's cities have expanded by
+      almost 50%, at a rate of more than 3,400 hectares per year.[3]
+4     Lower-middle-income households are households earning between two and four times the minimum
+      wage, which is equivalent to US$270.
+5     Low-income households are households earning less than two times the minimum wage.
+6     Adequate housing solutions are solutions that are affordable, accessible, efficient, safe, resilient,
+      well-connected, and well-located.[8]
+7     Households with multiple people living together or living in homes with irreparable deficiencies.
+8     Households in homes with any of the following deficiencies: lack of one or more public services,
+      overcrowding (more than three people per room), or poor quality of materials.
+9     Clarification: These values are not comparable with the INEI official definition of housing deficit, because
+      they take into account additional housing deficiencies.
+10    Permitting is the process that local governments follow to authorize home construction or remodeling,
+      ensuring that homes comply with urban development and building parameters and other applicable
+      regulations.
+                                                       -3-
+
+
+
+          respect to Colombia (4.2) and Chile (7.5).[12] Self-builds run into cost overruns
+          and inefficiencies that entail up to twice the cost, which falls mainly (83%) on
+          households.11
+
+1.4       The housing deficit is also concentrated in the group of low- and lower-middle-
+          income households (LLMIHs)12 and decreases as incomes rise. In total, 83.47% of
+          households in housing deficit are LLMIHs,[15] with 378,542 LLMIHs in quantitative
+          deficit and 2,081,612 in qualitative deficit. Of the latter, 31.41% have precarious
+          materials in flooring, walls, or roofing, 31.22% are overcrowded, and the remaining
+          37.37% lack one or more basic services.[16]
+
+1.5       Social housing policies. Since 2002, the Peruvian government has implemented
+          a market-based system called Ahorro-Bono-Crédito (Savings-Subsidy-Credit)
+          (ABC). This system is based on three pillars: (i) a direct demand-side subsidy
+          given by the government; (ii) prior savings by families; and (iii) a mortgage to close
+          the transaction, extended by intermediary financial institutions (IFIs). This system
+          is implemented through two main programs, with different types of interventions:
+          (i) Nuevo Crédito Mi Vivienda (NCMV),13 which grants the Bono del Buen Pagador
+          (Good Payer Subsidy) (BBP); and (ii) Techo Propio,14 which grants the Bono
+          Familiar Habitacional (Family Housing Subsidy) (BFH). In 2024, the government
+          created the Integrator BBP, which provides an additional subsidy of US$895 to the
+          low-income15 or vulnerable (older adults, persons with disabilities, or returned
+          migrants) population. While housing programs have a significant impact, they can
+          be optimized, scaled up, and better targeted to LLMIHs. Despite the programs'
+          incentives, the lack of access to mortgage loans hinders the use of subsidies by
+          LLMIHs, which continue to engage in self-builds.
+
+
+
+
+11    The main cost overruns arise as a result of building inefficiencies (lack of economies of scale), overpriced
+      basic services, and expenses due to related health problems.[13]
+12    In all, 44.35% (2,460,154) of LLMIHs have a housing deficit.[14]
+13    The NCMV program provides a mortgage loan through an IFI to buy, build, or improve, together with the
+      BBP subsidy that complements the down payment. Between 2013 and 2023, the NCMV financed 58.8%
+      of social housing and 20.8% of formal housing.
+14    The Techo Propio program provides the BFH subsidy to LLMIHs to buy, build, or improve homes and
+      offers complementary financing through IFIs. Between 2013 and 2023, Techo Propio financed 73,087,
+      41.2% of social housing and 14.6% of formal housing.
+15    Maximum income of US$1,098.
+                                                    -4-
+
+
+
+                Figure 1. Distribution of housing production by socioeconomic level16 and type of
+                                            production in 11 major cities
+
+
+
+
+           Source: Espinoza and Fort, 2021.
+
+
+1.6       Fondo MiVivienda (FMV). This fund is a public financial institution that promotes
+          access to housing, especially for the low-income population, under the Ministry of
+          Housing, Construction, and Sanitation (MVCS). It administers housing subsidies
+          and operates as a second-tier bank, providing loans to IFIs to finance home
+          purchases, construction, and improvements. Until 2023, the FMV financed 16.9%
+          of the country's total mortgage portfolio and annually administers more than
+          US$300,000,000 in subsidies.[17] The remaining 83.1% of mortgages are
+          financed by private banks (commercial banks, municipal savings banks, and rural
+          savings banks) using own resources. The FMV also provides the Credit Risk
+          Coverage service, which provides insurance for the IFI-extended mortgage
+          subloans to improve the prospects of recovery in the event of default and stimulate
+          a larger supply of home loans.
+
+1.7       New regulatory framework. In 2021, the Peruvian government approved the
+          National Housing and Urban Development Policy for 2030 and enacted the
+          Sustainable Urban Development Law to improve the population’s housing
+          conditions, with an emphasis on vulnerable and low-income sectors. In 2023, the
+          Social Interest Housing Regulations were approved, and two other regulations of
+          the Sustainable Urban Development Law are being drafted: (i) public land operator
+          and (ii) land management instruments, which will help increase the supply of
+          available urban land.
+
+1.8       Problem addressed. LLMIHs face difficulties in accessing adequate housing
+          solutions, which pushes them toward self-builds without assistance on plots
+
+16    The y-axis represents the number of homes and the x-axis represents socioeconomic groups, with AB
+      being the highest level and E the lowest. The socioeconomic levels correspond to the taxonomy prepared
+      by the Peruvian Association of Market Intelligence Companies (APEIM), with data from the National
+      Household Survey (ENAHO).
+                                                       -5-
+
+
+
+          acquired in the informal market. This problem is associated with market failures
+          (asymmetric information; insufficient supply of financing for households with the
+          ability to pay; low production of affordable formal housing; scarcity of well-located
+          land; climate change externalities due to increasing vulnerability to disasters; and
+          inefficient use of energy and water) and institutional failures (inefficiencies in
+          housing programs and limited interagency coordination) that require a public policy
+          response. Consequently, two main determinants for this problem have been
+          identified.
+
+1.9       Determinant 1. Limited supply of financing for LLMIHs to access adequate
+          housing solutions. The private mortgage market is insufficient, with less than 3%
+          of households having mortgages.[18] Although the sector is expanding, it still has
+          great growth potential when compared with neighboring economies such as Chile
+          and Colombia, both in terms of mortgage debt relative to GDP17 and the number
+          of outstanding mortgage loans per 1,000 inhabitants.[21]18 In addition, there are
+          failures in the functioning of the mortgage market (such as asymmetric
+          information), which make it regressive, as it mainly serves middle- and
+          high-income households: those with incomes over eight times the minimum wage
+          (7% of all households) represent 30% of households with mortgage loans. In
+          contrast, households with incomes below two times the minimum wage (35% of
+          the total) only account for 9% of households with mortgage loans.[22]
+
+1.10      The limited supply of existing mortgage loans does not reach LLMIHs, even if they
+          have sufficient purchasing power to access social housing through the ABC
+          system.[23]19 Most of these households lack formal incomes and make low use of
+          bank services, which hinders their eligibility to receive loans from the financial
+          system under current conditions. In addition, limited financial education in these
+          segments of the population translates into strong distrust of the formal financial
+          system, mainly due to the lack of knowledge about terms and conditions and the
+          scoring processes.[26]
+
+1.11      At present, there is also a limited supply of financial products20 that effectively
+          foster improvement processes or incremental building, despite the substantial
+          growth potential of this financing market.21 Accordingly, households resort to their
+          savings and/or personal loans (which can have interest rates of up to 80%) to
+          improve their homes.[28] Also, from acquisition to completion of the home the
+          self-build process currently takes 16 years, so access to credit for improvement
+
+
+
+17    Mortgage debt relative to GDP is 28.5% for Chile, 8.2% for Colombia, and only 6.7% for Peru.[19]
+18    The number of mortgage loans per 1,000 inhabitants is 79 for Chile, 28.3 for Colombia, and only 8.41 for
+      Peru.[20]
+19    For example, the cost that they pay for land without any infrastructure or services is often higher than the
+      standard 10% down payment in housing programs.[24] On average, families that engage in self-building
+      invest US$405 per month and about US$50,000 in total over about 16 years starting from
+      acquisition/illegal occupation of the land to completion of the home.[25]
+20    Existing home improvement products include: (i) the Techo Propio program for home improvement; (ii) the
+      NCMV for improving an existing home; (iii) consumer loans offered by several municipal savings banks;
+      and (iv) lines of credit used for home improvement provided by private banks (Mi Banco, BBVA, BANBIF,
+      and Pichincha).
+21    Currently, 2.9 million urban homes are in the self-build process.[27]
+                                                      -6-
+
+
+
+         could accelerate this process and lead to a decent solution in a more reasonable
+         period of time.[29]
+
+1.12     At the same time, under the ABC approach the FMV's housing programs lack
+         adequate targeting to serve LLMIHs on a large scale, thereby reproducing the bias
+         toward higher-income households.[30] As it stands, while households with
+         incomes of less than four times the minimum wage represent 70.3% of all urban
+         households,[31] loans to this population originated by the FMV through IFIs
+         account for only 23.4% of its outstanding portfolio (US$645,475,744).[32],22
+         despite the fact that they have a lower arrears rate than average.23 In this
+         connection, there are opportunities to optimize the programs’ parameters by
+         defining the value of subsidies as an inverse function of household income levels,
+         unifying programs by market segments, and reducing the number of housing
+         ranges that can be financed. Added to this are the information barriers associated
+         with the dissemination of existing programs.24
+
+1.13     Determinant 2. Low production of affordable formal housing targeting
+         LLMIHs. The supply of new housing in Peru is insufficient to meet the demand
+         arising from the annual formation of new households. Between 2007 and 2017, an
+         average of 129,877 formal and informal homes were built per year, yet 149,821
+         households were formed.[34] An estimated 260,000 homes would need to be
+         produced per year: 220,000 for new households and 40,000 to fill the shortfall in
+         stock in 10 years.[35] In total, 75% (190,000 homes) of this demand relates to
+         LLMIHs.[36] However, the market produces only 45,000 formal units per year,[37]25
+         which are mostly accessed by the high-income population.26 This contributes to a
+         growing quantitative deficit and fosters informality. In addition, the scarcity and high
+         cost of urban land and weak regulation limit social housing production.[39] [40]
+
+1.14     Gender and diversity gaps. In terms of gender distribution in access to credit for
+         home purchases, only 11.1% of the LLMIHs that took out mortgages have a female
+         head of household, whereas 88.9% of households with the same level of income
+         have a male head of household.[41] However, FMV has gender-disaggregated
+         data indicating that mortgage lending in its programs remained equitably split
+         between female- and male-headed households between 2017 and 2024,
+         averaging 49%. As for diversity, 22.8% of the total number of heads of household
+         who took out mortgage loans self-identified as Quechua, 5.3% as
+         Afro-descendant, 1.8% as Aymara, and 1.8% as Indigenous Amazonian.[42] In
+         this regard, the FMV does not have records of loans to households belonging to
+         these populations—since this breakdown is not included in the IFI loan application
+
+22   Relevant portfolio as at June 2024.
+23   The arrears rate for all loan transactions under the NCMV program is 4.63%, and the rate among the
+     LLMIH segment is 4.30%, slightly lower than the program average but higher than the general arrears
+     rate for all mortgages in the country’s financial system (2.88%), making this population a low-risk segment
+     for mortgage lending.
+24   Overall, 27% of municipios are unaware of the Techo Propio program's structure and offerings, and only
+     18% state that they are aware of projects run under this program in their community. This reveals the lack
+     of coordination between the MVCS and local governments to promote and use housing subsidies.[33]
+25   Out of a total of 130,000 new homes per year.
+26   In the Lima metropolitan region, which is home to 29.9% of the total population, home construction for
+     LLMIHs (2019-2023) fell from 2,303 to 562 units per year, and its share also fell from 7.8% to 3.5% with
+     respect to total supply.[38]
+                                                   -7-
+
+
+
+         form—or        communication      strategies   targeting    Indigenous   peoples,
+         Afro-descendants, or persons with disabilities. However, the Integrator BBP does
+         benefit persons with disabilities, although only some IFIs implement and promote
+         it on their platforms.
+
+1.15     Climate change gaps. Household energy use accounts for approximately 30% of
+         total energy sector emissions—the second largest share. In 2019, the residential
+         and commercial sector accounted for about 6% to 8% of energy sector emissions
+         (6,569 tons of CO₂ equivalent).[43] In recent years, Peru has seen a moderate
+         increase in emissions from the residential sector due to urban growth and
+         increased energy demand, although these figures are being mitigated in part by
+         the adoption of more efficient and cleaner technologies.[44]
+
+1.16     In terms of vulnerability to the effects of climate change, in the absence of effective
+         mechanisms for formal housing production, most of the homes produced informally
+         are located in high-risk areas; this trend will increase in the future in the event of
+         extreme weather events.[45] For example, between 2017 and 2021, 64% of urban
+         expansion in Lima and Callao took place in areas exposed to one or more hazards,
+         such as high slopes, landslides, or mudflows.[46] Nationally, between 2003 and
+         2023, 145,592 homes (formal and informal) were destroyed and 1,864,635
+         damaged by climate-related events[47]—a trend that is expected to continue to
+         increase unless housing units are located outside these areas.
+
+1.17     Program strategy. Given the institutional and market failures that affect the
+         housing sector in Peru and a difficulty in accessing finance that limits LLMIH
+         access to adequate housing (Determinant 1),27 this operation will seek to expand
+         the supply of home loans (relevant portfolio), improving the targeting of this
+         population through defined eligibility criteria. To address the housing deficit
+         problem (paragraphs 1.1 to 1.5), the strategy looks to promote the development of
+         more inclusive financing markets and encourage greater participation by the
+         private sector and the FMV to discourage informal occupancy and provide
+         preventive and mitigating measures aimed at LLMIHs. The operation resources
+         will exclusively target LLMIHs through eligible IFIs, diversifying solutions for: (i) the
+         purchase of adequate housing, built and sold by the private sector under market
+         conditions; and (ii) home improvements with technical assistance through a new
+         loan product to be developed by the FMV.28
+
+1.18     In addition to the project, a nonreimbursable technical cooperation
+         (ATN/CV-21221-PE; ATN/OC-21222-PE) was prepared to support the FMV’s
+         institutional strengthening and enhance the impact and scale of housing products
+         and programs for LLMIHs. In particular, it will support updates to regulations and
+         policies to reduce existing barriers, the strengthening of climate change
+
+
+
+27   Resources from this operation will not be used to address Determinant 2. This determinant will be
+     addressed through: (i) technical support from technical cooperation PE-T1593 (ATN/CV-21221-PE;
+     ATN/OC-21222-PE), including activities such as support for the implementation of a construction loan;
+     and (ii) additional efforts external to the operation, such as the approval of the land management and
+     public land operator regulations under the Sustainable Urban Development Law, by the MVCS.
+28   This operation will help lay the groundwork to create a guarantee fund to back mortgage loans for
+     low-income households, a measure currently under study by the Ministry of Economy and Finance (MEF).
+                                                                                    -8-
+
+
+
+       considerations, and actions targeting female-headed households, Indigenous
+       peoples, Afro-descendants, and persons with disabilities (see paragraph 1.24).
+
+                                                                       Figure 2: Theory of change
+
+
+                                                                                      Subcomponent 1.
+                                                                                      Financing for home
+                                              Determinant                            purchases for LLMIHs
+                                                1. Limited                                                                           Outcome. LLMIH                     Impact.
+                                                supply of                                                                           access finance for               Expand access
+                                              financing for                                                                          home purchases                   to adequate
+                                                                                    1.1. Program                                         or home                        housing
+                                                LLMIHs to                           resources earmarked
+                                                 access                                                                               improvements                  solutions in Peru
+                                                                                    to provide financing for                          with technical
+                                                adequate                            LLMIHs to purchase
+                                                 housing                                                                                assistance
+             Problem                                                                homes
+            LLMIHs in                           solutions
+            Peru face
+           difficulties in                                                                                                                                         1. LLMIH
+            accessing                                                                  Subcomponent 2.                                                             beneficiaries of
+            adequate                                                                   Financing for home                           1.1 LLMIHs that                loans with a
+              housing                                                                   improvement for                             accessed financing             reduced
+             solutions                                                                      LLMIHs                                  for adequate                   quantitative
+                                                                                                                                    housing solutions as           housing deficit
+                                                                                                                                    a result of program            2. LLMIH
+                                                                                    2.1. Program                                    support                        beneficiaries of
+                                                                                    resources earmarked                             1.2. Relevant                  loans with a
+                                                                                    to provide home                                 portfolio of the FMV           reduced
+                                              Determinant                           improvement financing                           for LLMIH access to            qualitative
+                                                  2. Low                            for LLMIHs                                      housing                        housing deficit
+                                               production                                                                           1.3. Financing for
+                                              of affordable                                                                         LLMIH access to
+                                                  formal                                                                            adequate housing
+                                                 housing                                                                            solutions extended
+                                                targeting                                                                           to women
+                                                                                                                                                                Long-term impact.
+                                                 LLMIHs
+                                                                                                                                                                 Together with the
+                                                                                     PE-T1593                                                                     aforementioned
+                                                                                     -Amendment of                                                                 conditions, this
+                                                                                     eligibility conditions                                                     program will develop
+                                                                                     -Amendment of             Assumption 3. LLMIHs apply                          markets for the
+                                                                                     subsidy parameters        for loans                                             beneficiary
+                       Efforts supported                                                                                                                             population.
+                   by technical cooperation
+                    PE-T1593 to fulfill the
+                         assumptions
+
+
+
+                                                                                                                 Assumption 2. Improved              Assumption 5. The LLMIHs
+                                                                                                               mechanisms for documenting            accessing home loans live in
+                                                           Assumption 1. The FMV                              the informal income of LLMIHs                 those homes
+                                                          successfully implements the
+                                                           new construction loan and
+                                                          mechanisms to improve the                            Assumption 3. Between the
+                                                                                                               new amounts of the subsidy              Assumption 6. LLMIHs
+                                                              credit scoring of the
+                                                                                                              and the loan, LLMIHs are able         accessing home improvement
+                                                           population with irregular or
+                                                                                                                to cover the housing costs             loans use the money to
+                                                               informal incomes
+                                                                                                                                                         improve their homes
+                                                                                                              Assumption 4. LLMIHs apply
+                                                                                                                      for loans
+
+                                                              Assumption 7. With World
+                Additional efforts external to                  Bank support, the MVCS                         Assumption 8. Affordable
+                       the operation                          approves the regulations of                     housing production is spurred
+                                                                 the land management                          by greater access to loans for
+                                                              instruments and public land                       builders and households
+                                                                   operator under the
+                                                                   Sustainable Urban
+                                                                   Development Law
+
+
+
+
+1.19   Underdeveloped mortgage markets stand as a barrier to improving living
+       conditions, especially for the low-income population.[48] Therefore, the benefits of
+       expanding the availability of financing for adequate housing solutions are directly
+       related to the benefits generated by access to adequate housing. Making changes
+       in housing infrastructure has major effects on vulnerable families’ quality of life in
+       areas such as physical health [49], mental health,[50] cognitive development in
+       children,[51] satisfaction with quality of life,[52] household functionality,[53] and
+       school absenteeism,[54] among others.
+
+1.20   Bank experience. The Bank has supported the housing sector in Peru since the
+       1960s (PE0067). The most recent operation in this sector was the Housing Sector
+       Support Program (1461/OC-PE), which was approved in 2003 and introduced the
+       BFH granted by the Techo Propio program; this intervention is expected to
+                                            -9-
+
+
+
+       enhance its efficiency and progressiveness. In the last five years, the Bank
+       supported the MVCS and the FMV with knowledge transfer and technical
+       assistance (ATN/CV19177PE; ATN/OC18604PE; ATN/FM-16452-PE; and
+       ATN/CV-20648-PE). IDB Invest is providing financing to three Peruvian
+       developers to build social housing, one of them through a subsidy (Viva 13466-01;
+       Los Portales 12468-01; Los Portales II 13823-01; and Menorca 12531-01).
+
+1.21   In addition, the Bank has experience in several countries in financing new housing
+       through second-tier banks (3853/OC-PR; 5352/OC-ES; 5910/OC-EC) and in
+       improving housing in Paraguay (3538/OC-PR; 4700/OC-PR), Uruguay
+       (1186/OC-UR), Argentina (AR-O0005), and Brazil (5765/OC-BR; 5732/OC-BR;
+       3630/OC-BR; 2482/OC-BR). The Bank has vast experience in structuring
+       financing programs to reach a larger number of beneficiaries with more flexible and
+       accessible terms of credit, such as in the experiences in Argentina (AR-X1004;
+       4804/OC-AR) and Brazil (5765/OC-BR; 5732/OC-BR; 3630/OC-BR;
+       2482/OC-BR). In addition, the Bank's participation can guide the development of
+       new lines of credit, innovative financing models, or even public-private
+       partnerships that multiply this program’s reach, as in Brazil's experiences
+       (5765/OC-BR; 5732/OC-BR; 3630/OC-BR; 2482/OC-BR). In programs such as
+       EC-U0001 and ES-O0009, the integration of knowledge between the Connectivity,
+       Markets, and Finance Division and the Housing and Urban Development Division
+       made it possible to make agile adjustments in the Program Operating Regulations,
+       resulting in their satisfactory performance. These experiences in housing finance
+       and productive finance projects validate the program's strategy, demonstrating the
+       Bank's complementarity of knowledge and experience in the housing and capital
+       markets sectors and extending the reach toward low-income families.
+
+1.22   Lessons learned. The program design incorporates lessons learned from the
+       monitoring and evaluation of Bank operations in the sector, including: (i) previous
+       operations with second-tier banks demonstrate that they are effective in
+       addressing market failures and promoting market development when they adopt
+       comprehensive approaches; accordingly, it was decided to structure this global
+       credit program with the FMV by considering the various financing instruments and
+       subsidies, incentives, and relevant actors; (ii) in Ecuador (4788/OC-EC), for
+       example, lessons were learned about the importance of serving the population
+       without access to credit, diversifying housing solutions, and working with new
+       financial agents, which contributed to the design of this program as one targeted
+       to low-income households with the ability to save and pay; and (iii) based on the
+       Housing Sector Support Program (1461/OC-PE), the need was identified to
+       develop appropriate mechanisms for this population segment that include
+       microcredit for improvement with assistance from technical entities, and not only
+       for home purchases, which is why a pilot program for home improvement is
+       included in the program.
+
+1.23   Nonfinancial additionality. Although the dimension of access to finance is the
+       most significant, there are other institutional and legal barriers that have an impact
+       on the problem. The value added of the Bank's involvement in financing this
+       program can be seen both in the activities prior to design of the operation and in
+       the activities to be performed during execution, which will ensure the program’s
+       sustainability. The Bank has previously provided support through technical
+       cooperation ATN/CV-19177-PE; ATN/OC-18604-PE, which supported the
+                                           - 10 -
+
+
+
+       preparation and approval of the National Housing and Urban Planning Policy, the
+       Sustainable Urban Development Law, and a proposal to implement the public land
+       operator. The project also enabled the preparation of an in-depth analysis of the
+       housing value chain, which identifies the main causes of the housing deficit and
+       puts forward a set of strategies, policies, and regulatory adjustments to boost
+       access to adequate housing solutions for the most vulnerable households,
+       including the reform of the subsidy system, incentives for greater placement of
+       mortgage loans with LLMIHs, and new products for home improvement, among
+       others. In addition, through technical cooperations ATN/FM-16452-PE and
+       ATN/CV-20648-PE, the IDB supported the government in designing
+       transit-oriented development projects that will generate urban land for housing for
+       different socioeconomic levels, located in areas close to mass public transport
+       stations.
+
+1.24   During the execution phase, in addition to the program’s financing resources,
+       technical assistance (ATN/CV-21221-PE; ATN/OC-21222-PE) will be provided to
+       the MVCS and the FMV to strengthen their capacities and reduce the main barriers
+       that limit LLMIH access to financing for adequate housing solutions. The
+       nonfinancial additionality will be reflected mainly in the following activities to
+       improve and diversify existing housing products and programs and optimize their
+       implementation: (i) review of the current FMV-administered housing subsidy
+       system to improve its targeting and progressivity, as well as the efficiency of public
+       spending; (ii) structuring of new models and tools that encourage IFIs to expand
+       their participation in housing finance extended to the population with irregular or
+       informal incomes, such as alternative credit scoring systems for households
+       without formal income and lending models with fiduciary guarantees to back
+       unpaid or delayed loan installments, while also including diverse populations;
+       (iii) development and piloting of a new financing product for home improvements;
+       (iv) creation of a sustainability baseline for social housing; (v) dissemination
+       actions for FMV programs through communication pieces targeting female heads
+       of household and diverse populations, such as Indigenous people,
+       Afro-descendants, persons with disabilities, and the migrant population;
+       (vi) training activities with IFIs to improve their ability to serve LLMIHs, including
+       the implementation on their platforms of the Integrator BBP for persons with
+       disabilities; and (vii) the preparation of a study on the challenges and gaps in
+       access to financing for adequate housing solutions for the diverse population
+       (Indigenous people, Afro-descendants, and persons with disabilities) and migrant
+       population and the design of service delivery strategies to be implemented. These
+       activities will not only help correct existing market failures by expanding credit for
+       home purchases and improvement, but will also have a broader impact on the
+       improved design and execution of public policies in the sector. In the long run, all
+       these efforts are expected to contribute to the development of credit markets for
+       LLMIHs.
+
+1.25   Parallel to IDB assistance, the World Bank is providing complementary support.
+       While the IDB will be focusing primarily on strengthening access to finance for low-
+       and lower-middle-income sectors, the World Bank is supporting: (i) actions to
+       reduce the risk of this loan portfolio through MEF-provided technical assistance in
+       housing finance, which includes the creation of a guarantee fund for mortgages;
+       and (ii) actions to boost the production and efficient use of urban land through
+                                                    - 11 -
+
+
+
+         technical assistance provided to the MVCS in preparing the Sustainable Urban
+         Development Law regulations relating to land management.
+
+B.       Objectives, components, and cost
+
+1.26     Objective. The general development objective is to help expand access to
+         adequate housing solutions for low- and lower-middle-income households
+         (LLMIHs) in Peru. The specific objective is to broaden access to financing for
+         adequate housing solutions for LLMIHs.
+
+1.27     Sole component. Financing support for adequate housing solutions
+         (US$300,000,000). Program resources will be used for the FMV to provide
+         financing for adequate housing solutions29 through its portfolio of lending products
+         for home purchases and improvements in urban areas,30 exclusively targeting
+         households with incomes up to four times the minimum wage, following a resilient
+         and inclusive approach. Program resources will be channeled through sub-loans
+         through eligible IFIs, using existing lending products and associated subsidies.31,32
+         The outputs resulting from the financing granted under this component will benefit
+         from the technical support delivered through technical cooperation PE-T1593
+         (optional link 7), for operational support, which will generate mechanisms and
+         incentives to expand the placement of mortgage loans with LLMIHs.33
+
+1.28     Subcomponent 1. Financing for home purchases (US$260,000,000). This will
+         help reduce the quantitative deficit by providing financing for mortgage loans
+         through IFIs to final beneficiaries for the purchase of new or used homes located
+
+29   The average expected loan for new homes is estimated at US$29,000 and for home improvements at
+     approximately US$5,000. To reach these amounts, the loan is complemented by a subsidy and
+     household savings. The average value of the homes purchased using program funds is US$42,582.
+     Accordingly, subloans for home purchases (70% of the value of the home on average) must be
+     complemented with a subsidy (11%) and household savings (19%). The estimated average value of
+     the subsidy for Subcomponent 1 is US$5,025. For Subcomponent 2, the subsidy will be US$3,283 (see
+     optional link 1). Following an analysis of the items for potential improvement (walls, flooring, roofing,
+     structural reinforcement, and expansion), it is estimated that US$9,000—resulting from the loan, plus
+     the subsidy and savings—will cover the improvement costs. The maximum loan amounts will be
+     US$50,000 for home purchases and US$20,000 for home improvements.
+30   At present, the FMV has the following portfolio of mortgage products active: NCMV and complementary
+     Techo Propio financing.
+31   IFIs supervised by the Superintendency of Banking, Insurance, and Pension Fund Managers (SBS)
+     that meet the eligibility criteria stipulated in the Program Operating Regulations may participate in the
+     program. Program funds will be earmarked for LLMIH lending and complemented by a direct subsidy
+     from the State, depending on the program that they access. For the Techo Propio program,
+     beneficiaries will receive the BFH, and for the NCMV program, they will receive the BBP plus the
+     Integrator BBP. The amounts of BBP and BPH subsidies are regulated by the MVCS and are updated
+     annually by Supreme Decree, considering factors such as changes in the consumer price index (CPI)
+     and the average increase in the basic daily wage paid to construction workers. In 2024, the BBP
+     subsidy provided between US$2,000 and US$7,079 to purchase homes costing between US$17,737
+     and US$93,447. The BFH subsidy provided between US$11,791 and US$13,146 to purchase homes
+     costing between US$14,474 and US$34,342. In both cases, the applicable subsidy is determined in
+     inverse relation to the cost of the home to be purchased (see optional link 5).
+32   A guarantee may be established on the parent property for the construction of housing projects in the
+     case of future benefits.
+33   The technical support delivered through technical cooperation PE-T1593 (ATN/CV-21221-PE;
+     ATN/OC-21222-PE) will address issues identified in the determinants of the problem such as lack of
+     formal income, lack of information, and distrust of LLMIHs in the financial system, among others.
+                                                     - 12 -
+
+
+
+         outside nonmitigable risk zones. At least 45% of the subcomponent's resources
+         will be earmarked for subloans to purchase green homes. Green homes will meet
+         sustainability criteria equivalent to at least EDGE Level 1.34 In addition, 50% of the
+         beneficiary households will be headed by women.
+
+1.29     Subcomponent 2. Financing for home improvements (US$40,000,000). This
+         will help reduce the qualitative deficit by financing home improvement loans and
+         the pilot of a new financial product for home improvement with technical assistance
+         outside nonmitigable risk zones. The Program Operating Regulations will describe
+         the eligibility conditions for each type of intervention such that sustainability is
+         guaranteed.
+
+1.30     Outcome indicators. The operation's outcome indicators are as follows:
+         (i) number of LLMIHs that accessed financing for adequate housing solutions;
+         (ii) financing for LLMIH access to adequate housing solutions extended to women;
+         and (iii) relevant portfolio of the FMV for LLMIH access to adequate housing
+         solutions.
+
+1.31     Beneficiaries. The operation looks to directly serve 16,979 urban LLMIHs, with
+         beneficiaries gaining access to loans to purchase new or used homes
+         (8,979 loans) or make home improvements (8,000 loans). In addition, 50% of the
+         beneficiary households will be headed by women. The operation is expected to
+         serve a total of 55,352 people,35 who will have better housing conditions. Due to
+         the revolving effect, the operation is expected to serve an additional estimated
+         43,042 home improvement loans and 14,589 new home loans.36
+
+1.32     Eligibility of final beneficiaries. The program will exclusively benefit urban
+         households with monthly incomes below four times the minimum wage. With
+         respect to Subcomponent 1, the program will establish as eligibility criteria that
+         neither the applicant nor his or her spouse or legally recognized partner can be the
+         owner or co-owner of another home in the country. For Subcomponent 2,
+         beneficiaries may not be owners or co-owners of another home in the country,
+         other than the home to which the financing will be applied. Details on eligibility and
+         prioritization criteria will be defined in the Program Operating Regulations.
+
+1.33     Strategic alignment. The program is consistent with the IDB Group Institutional
+         Strategy 2023-2030: Transforming for Scale and Impact (CA-631) and aligns with
+         its three objectives: (i) reducing poverty and inequality by providing equitable
+         access to social housing; (ii) addressing climate change by financing the purchase
+         of green housing; and (iii) bolstering sustainable regional growth by encouraging
+         private sector participation in social housing finance. The program is also aligned
+         with the following areas of operational focus: (i) biodiversity, natural capital, and
+
+34   EDGE is a green building certification system focused on making buildings more efficient. Level 1
+     means that a building has achieved savings of at least 20% in energy, water, and embodied energy in
+     materials.
+35   In 2022, average household size is estimated at 3.26 people.
+36   The program will finance long-term housing loans that the FMV will continue to place in the same
+     population. Amortization of the original principal, along with a portion of the interest, will help finance
+     new loan transactions. From the start of the program across an operational horizon of 20 years, over
+     57,000 additional households are expected to benefit from the mortgage or home improvement loans,
+     tripling the impact of the Bank’s resources (see optional link 1, paragraph 4.1).
+                                                     - 13 -
+
+
+
+         climate action; (ii) gender equality and inclusion of diverse population groups;
+         (iii) social protection and human capital development; (iv) productive development
+         and innovation through the private sector; and (v) sustainable, resilient, and
+         inclusive infrastructure, by promoting formal housing that incorporates
+         sustainability considerations. The program aligns with the Housing and Urban
+         Development Division's strategic vision for the housing sector and is consistent
+         with the Housing and Urban Development Sector Framework Document
+         (GN-2732-11) by financing access to formal housing. The program is also
+         consistent with the IDB Group Country Strategy with Peru 2022-2026 (GN-3110-1)
+         through its strategic objective to improve the coverage and quality of basic
+         services. The program is aligned with the government’s priorities as set out in the
+         General Government Policy 2021-2026 and the 2030 National Housing and Urban
+         Development Policy. Specifically, the program contributes to priority objective 3 of
+         the National Housing and Urban Development Policy by "expanding access to
+         adequate housing, prioritizing the population in a situation of poverty or social
+         vulnerability," within the framework of service 17 "promotion of affordable
+         mortgage loans" and service 23 "improvement of urban and rural housing,
+         prioritizing the population in a situation of poverty or social vulnerability." Lastly,
+         the operation is consistent with the Gender and Diversity Sector Framework
+         Document (GN-2800-13) in its dimension 5 (improving economic opportunities and
+         expanding women’s access to housing services, credit, and titles) and is aligned
+         with the IDB Group's Gender and Diversity Action Plan 2022-2025 (GN-3116-1).
+
+1.34     Paris alignment. This operation has been analyzed using the Joint Multilateral
+         Development Bank Assessment Framework for Paris Alignment and the IDB
+         Group Paris Alignment Implementation Approach (GN-3142-1). It has been found
+         to be: (i) aligned with the adaptation target of the Paris Agreement based on a
+         simplified analysis; and (ii) aligned with the mitigation target of the Paris
+         Agreement based on a specific analysis. Alignment was based on consideration
+         of the following elements: (i) under the Program Operating Regulations, at least
+         45% of Subcomponent 1 will be earmarked for mortgages to purchase homes that
+         meet sustainability criteria at least equivalent to EDGE Level 1; (ii) under the
+         Program Operating Regulations, the energy efficiency of the gas appliances to be
+         financed under the operation will be guaranteed; (iii) all housing solutions to be
+         financed are located outside nonmitigable risk zones; and (iv) through the technical
+         cooperation (ATN/CV-21221-PE; ATN/OC-21222-PE), the FMV will be supported
+         in developing a sustainability baseline for social housing that will be an integral
+         part of the housing policy.
+
+1.35     Climate finance. An estimated 39.36% of the operation’s total amount counts as
+         climate financing according to the joint methodology of the multilateral
+         development banks for tracking climate finance since it finances access to housing
+         that achieves at least 20% savings in energy, water, and embodied energy in the
+         materials used.37
+
+1.36     Prioritized gender and diversity alignment activities. One outcome indicator is
+         defined as 50% of financing going to women, which will enable the FMV to continue
+         closing the gap in access to credit for female-headed LLMIHs. In addition, through
+
+37   Equivalent to an available national or international green building certification, even if the certification
+     process is not carried out.
+                                           - 14 -
+
+
+
+       project (ATN/CV-21221-PE; ATN/OC-21222-PE, a study on the challenges and
+       gaps in access to financing for adequate housing solutions for the diverse
+       populations and a population-adapted communication strategy (women,
+       Indigenous peoples, Afro-descendants, and persons with disabilities) will be
+       prepared, and the Integrator BBP will be implemented for persons with disabilities
+       on the IFI platforms.
+
+1.37   Synergies with the IDB Group. This operation seeks to maximize synergies
+       within the IDB Group and correct market failures from the public sector by
+       expanding demand for adequate housing solutions. With IDB Invest’s Corporate
+       Division, there are collaboration opportunities linked to the three clients that have
+       already been financed and that rank among the leading real estate developers in
+       the country, as well as with the new prospects that mainly target population
+       segments prioritized by this operation. In effect, expanding financing to LLMIHs
+       through this operation will help promote a greater supply of social housing aligned
+       with environmental sustainability criteria. In addition, new synergies such as rent-
+       to-own models will be sought, which would be innovative in Peru. Coordination is
+       under way with the Financial Institutions Division to mobilize more resources and
+       maximize the impact of this operation on two fronts: (i) direct complementary
+       financing from IDB Invest to the FMV to expand access to credit for affordable
+       housing for middle-income segments of the population; and (ii) coordination with
+       the IFIs that currently have projects with IDB Invest in the structuring phase and
+       that could potentially be beneficiaries of this operation through the FMV, in order
+       to make complementary use of funds, without overlapping with the IDB Group
+       resources. Collaboration with IDB Lab will develop alternative credit scoring
+       systems for segments that do not have access to bank services.
+
+C.     Viability analysis
+
+1.38   Technical viability. Based on an analysis performed using the Institutional
+       Capacity Assessment Platform (ICAP), the program is considered viable in view of
+       the FMV's capacity and experience in implementing housing finance lines of credit.
+       The FMV has demonstrated satisfactory performance in the execution of projects
+       with international cooperation funds in the last three years. The personnel in all
+       responsible technical and financial departments have sufficient capacity,
+       experience, and time to manage new operations.
+
+1.39   Socioeconomic viability. In order to determine whether the program will produce
+       economic returns, the project's cost and economic viability was analyzed using the
+       cost-benefit analysis, which monetizes all the income generated and expenses
+       incurred in executing the program, while determining whether the benefits of
+       carrying out the credit program are greater than its costs. The intervention is
+       assumed to start in 2025; to take into account the program's long-term effects,
+       benefits are estimated for a 20-year period using a 12% discount rate. The results
+       suggest that the program's net return for the period amounts to US$79.4 million.
+       The program's benefit-cost ratio is estimated at US$1.2 per US$1 invested, with
+       an internal rate of return of 14.5%. In addition, several sensitivity analyses were
+       performed, which demonstrate that the program will continue to be socially and
+       economically viable, even when more conservative and demanding values are
+       assumed for various parameters of the analysis.
+                                            - 15 -
+
+
+
+
+1.40   Socioenvironmental viability. In accordance with the Bank's Environmental and
+       Social Policy Framework and based on the assessments made during the due
+       diligence process, this operation is classified under the “FI” (Financial Intermediary)
+       category, where the executing agency acts as an intermediary in the distribution of
+       funds and, therefore, assumes delegated responsibility for assessing and managing
+       the environmental and social risks and impacts of eligible activities.
+
+1.41   The Bank's due diligence review sought to determine the operation's
+       socioenvironmental viability and focused on evaluating the executing agency's
+       environmental and social policies and procedures and its commitment to, capacity
+       to, and track record in applying them, as well as identifying the measures needed
+       to strengthen its environmental and social risk and impact management system.
+       The socioenvironmental viability is presented in the Environmental and Social
+       Review Summary (ESRS), which will be included in the Program Operating
+       Regulations and will define the program’s environmental and social requirements.
+       No adverse social or environmental effects are expected as a result of the eligible
+       activities.
+
+1.42   As part of the operation preparation process, the executing agency will develop
+       and implement an environmental and social management system in line with the
+       level of environmental and social risks of the portfolio and eligible activities. This
+       system will incorporate the relevant principles of Environmental and Social
+       Performance Standards 1 (Assessment and Management of Environmental and
+       Social Risks and Impacts), 2 (Labor and Working Conditions), and 10 (Stakeholder
+       Engagement and Information Disclosure).
+
+1.43   Institutional and financial viability. The ICAP analysis found no significant
+       institutional weaknesses. However, a series of recommendations were identified,
+       as follows: (i) a specialized program team (SPT) should be created under the
+       Finance Division, which will be responsible for the program's execution,
+       management, and overall coordination and will act as a direct point of contact with
+       the Bank. It will also be responsible for the financial and accounting management
+       of the operation; (ii) the executing agency should be trained on the Bank's
+       fiduciary, monitoring, and evaluation policies; and (iii) the program Operating
+       Regulations should be approved to define the institutional coordination
+       mechanisms, the execution strategy for each line of credit, and the roles and
+       responsibilities of the FMV's various functional areas, including the SPT.
+
+                      II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.     Financing instruments
+
+2.1    Financing structure and modality. Given its nature as a form of financial
+       intermediation, this loan has been structured as a global credit program for
+       US$300 million from the IDB’s Ordinary Capital. This instrument is the most
+       appropriate to expand access to housing finance to LLMIHs with the ability to pay,
+       through IFIs. Complemented by the Bank's technical assistance, this program has
+                                                       - 16 -
+
+
+
+          the potential to strengthen the FMV's ability to provide financing to this segment
+          and to expand and develop housing finance markets in Peru.
+
+                                   Table 1. Estimated costs of the program (US$)38
+
+          Components                                                        IDB            Total           %
+          Sole component. Financing support for adequate                 300,000,000     300,000,000           100
+          housing solutions
+
+          Subcomponent 1. Financing for home purchases                   260,000,000     260,000,000       86.67
+
+          Subcomponent 2. Financing for home improvement                  40,000,000      40,000,000       13.33
+
+          Total                                                          300,000,000     300,000,000           100
+          * The costs per subcomponent or main activity are indicative (see details in required link 1).
+
+
+2.2       Disbursement schedule. Based on expected demand and prior experience with
+          this type of instrument, the execution and disbursement period will run for five
+          years as from the effective date of the loan contract to be entered into by the Bank
+          and the Republic of Peru.
+
+                                        Table 2. Disbursement schedule (US$)39
+
+         Component             Year 1         Year 2        Year 3         Year 4       Year 5         Total
+         Sole component       57,085,597     62,708,903    68,282,209     61,654,056   50,269,235   300,000,000
+         Subcomponent 1       57,085,597     59,358,903    61,632,209     49,154,056   32,769,235   260,000,000
+         Subcomponent 2                  0    3,350,000     6,650,000     12,500,000   17,500,000    40,000,000
+         Total                57,085,597     62,708,903    68,282,209     61,654,056   50,269,235   300,000,000
+         Percentage              19.03%         20.90%          22.76%       20.55%       16.76%       100.00%
+
+
+B.        Environmental and social risks
+
+2.3       In accordance with the Bank’s Environmental and Social Policy Framework
+          (GN-2965-23), this operation is classified as financial intermediation with a
+          moderate environmental and social risk rating. The financial intermediaries will
+          transfer funds through subloans based on the program components to finance
+          home purchases or home improvement projects equivalent to the Bank's category
+          “C,” and projects classified as category “A” or “B” under the Bank's classification
+          system will be excluded. These eligibility criteria are presented in the Program
+          Operating Regulations.
+
+2.4       The operation’s disaster and climate change risks are also considered low. The
+          program supports mortgage loans for LLMIHs, which will finance home purchases
+          or improvements. In addition, the program will not finance subprojects classified
+
+
+38    The distribution of percentages is the result of an estimate of the use of resources of each subcomponent.
+      Execution details will be included in the Program Operating Regulations.
+39    Program execution may begin once eligibility has been reached and is not contingent on changes in the
+      schedule of subsidies. The expectation is that 19% will be executed in the first year, not counting the
+      impact of technical assistance, which is already reflected in the disbursement schedule. The
+      subcomponent 2 reform will help scale up execution beginning in the second year.
+                                                 - 17 -
+
+
+
+          as category “A” or “B” under the Bank's classification system. These eligibility
+          criteria are presented in the Program Operating Regulations.
+
+C.        Fiduciary risks
+
+2.5       The fiduciary risk is considered to be low. However, certain actions were identified
+          as a result of the ICAP analysis, relating to the following: (i) the creation of internal
+          coordination mechanisms between the Finance Division and other bodies involved
+          in program management, as well as the interaction with the MEF for disbursement
+          requirements, for which an SPT will be created within the FMV structure and the
+          respective governance and coordination arrangement will be described in the
+          Program Operating Regulations; and (ii) the training of FMV personnel on the
+          Bank's monitoring and fiduciary policies and tools in order to comply with the
+          disclosure requirements throughout program execution.
+
+D.        Other key issues and risks
+
+2.6       This operation’s economic and financial risk is medium-high since, if exchange rate
+          conditions become unfavorable in the short term and volatility persists, then an
+          imbalance in the program accounts could occur, since the Bank's loans are
+          denominated in U.S. dollars. Loans to the end borrowers will be disbursed in local
+          currency. Since it is regulated by the Superintendency of Banking, Insurance, and
+          Pension Fund Managers (SBS), the FMV must meet coverage ratios that mitigate
+          this risk. The FMV may request a currency conversion of the Bank so that
+          disbursements are denominated in local currency.40 In addition, the IDB will ensure
+          that the FMV is apprised of strategies to hedge this risk in coordination with other
+          financial institutions willing to hold U.S. dollar positions locally.
+
+2.7       Another risk is a potential reduction in the allocation of financial resources for
+          affordable housing subsidies, which would directly affect lending by the IFIs and
+          would require the goals and activities planned at the start of project execution to
+          be rescheduled. In order to mitigate this risk, the FMV would conduct planning and
+          monitoring of affordable housing disbursements and establish a mechanism for
+          coordination with the MCVS and the MEF for the analysis of subsidy requirements
+          and their connection with the program’s expected results and disbursements.
+
+2.8       Sustainability of the operation. The execution of the credit operation supported
+          by technical cooperation (ATN/CV-21221-PE; ATN/OC-21222-PE) and the
+          Peruvian government’s other complementary initiatives will together contribute to
+          promoting the development of housing finance markets that better serve LLMIHs.
+          Addressing market failures, broadening targeted financing, and strengthening
+          housing policies are expected to lead to a crowding-in effect that will expand the
+          private sector’s participation and enhance its capacity to serve low-income
+          households. The operation will expand the demand for and supply of credit to low-
+          income households to buy homes built and sold by the private sector under market
+          conditions. The operation will also support the creation of a new lending product
+          for the FMV that will expand the financing market for households facing a
+
+40    In the framework of the Financing Program for Women Entrepreneurs in Peru (5596/OC-PE),
+      disbursements denominated in local currency have already been considered, which diversifies the
+      country’s disbursement options.
+                                            - 18 -
+
+
+
+      qualitative deficit to make nonstructural or structural improvements to their homes.
+      Also notable is the counterpart's commitment to continue improving the regulatory
+      framework, such as the Sustainable Urban Development Law land management
+      regulations, which will in the medium term strengthen the program's sustainability.
+      Creating conditions for greater private sector participation once market failures
+      have been corrected and LLMIH access to credit expanded will have a systemic
+      impact on Peru’s housing market.
+
+                    III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+
+3.1   Borrower and executing agency. The borrower will be the Republic of Peru, and
+      the executing agency will be Fondo MiVivienda (FMV). The FMV is part of the local
+      financial system and, therefore, is authorized to engage in financial intermediation
+      activities permitted by law. It operates as a second-tier bank and is governed by
+      Law 28579. Since its creation in 1998, its core business has been the promotion
+      and financing of housing throughout the country, channeling funds to lenders
+      through IFIs. The FMV is owned by the National Fund for Financing State Business
+      Activity (FONAFE) and is supervised by the Superintendency of Banking,
+      Insurance, and Pension Fund Managers (SBS) and the Superintendency of the
+      Securities Market.
+
+3.2   Execution mechanism. As the executing agency, the FMV will be responsible for
+      the program’s technical, administrative, socioenvironmental, fiduciary, and
+      operational execution, including overall coordination and resource management.
+      For the execution of program resources, the FMV, within the scope of the Finance
+      Division, the Commercial Division, and the Real Estate and Social Projects
+      Division, will set up a specialized program team (SPT) as indicated in the Program
+      Operating Regulations. The SPT will coordinate with and rely on the FMV's
+      functional areas.
+
+3.3   To extend subloans, the FMV will act as an intermediary institution of the resources
+      to the eligible beneficiaries through the IFIs and will be responsible for transferring
+      the resources and monitoring the program accounts in its role as executing
+      agency. The FMV will be responsible for implementing the following procedures
+      relating to the use of the Bank's financing resources, which will be included in the
+      Program Operating Regulations to be approved by the Bank, including:
+      (i) definition of the attributes and conditions of the financial products; (ii) selection,
+      evaluation, accreditation, and monitoring of the financial and socioenvironmental
+      performance of the eligible subloans; (iii) application of eligibility criteria, resource
+      allocation and collection, monitoring and supervision of beneficiaries and
+      projects/investments; and (iv) instruction for all stakeholders on the program's
+      requirements and conditions, including breaches. To this end, the FMV's Finance
+      Division will be in charge of program management and act as the focal point
+      vis-à-vis the Bank, including all the activities described in the Program Operating
+      Regulations and the monitoring and evaluation plan.
+                                                   - 19 -
+
+
+
+3.4       IFI eligibility. Authorized IFIs that have a current line of credit under FMV
+          programs and meet the eligibility criteria set out in the Program Operating
+          Regulations41 may participate.
+
+3.5       Special contractual conditions precedent to the first disbursement of the
+          loan. The following will be special contractual conditions precedent to the
+          first disbursement of the loan: (i) the borrower, through the Ministry of
+          Economy and Finance (MEF), and the executing agency have entered into an
+          agreement, and this is in force, for the transfer of proceeds from the loan
+          and the obligations of the parties with respect to execution of the program;
+          and (ii) the executing agency has approved the Program Operating
+          Regulations, and these are in force, in accordance with the terms and
+          conditions previously agreed on with the Bank, which include clauses
+          relating to socioenvironmental issues based on the environmental and
+          social review summary (ESRS). These conditions are justified since: (i) the
+          Program Operating Regulations contain basic criteria and requirements for
+          program execution; and (ii) the borrower/FMV agreement formalizes the
+          mechanisms to transfer resources and obligations between the borrower and the
+          executing agency.
+
+3.6       Procurement. Since the program is structured as a global credit operation and
+          does not consider the procurement of goods or consulting services, its resources
+          will be used exclusively to extend loans as defined in the program Operating
+          Regulations. The provisions of paragraph 3.13 of the Policies for the Procurement
+          of Goods and Works Financed by the IDB (GN-2349-15) and, consequently,
+          current commercial or private sector practices will apply, without prejudice to the
+          contents of Section I of these policies.
+
+3.7       Disbursement. The loan proceeds may be disbursed through the advance of
+          funds or reimbursement of expenses modalities. For advances of funds, the FMV
+          will request the disbursement of funds from the Bank based on a financial
+          programming supported by the program’s actual liquidity needs for up to 180 days.
+          Disbursements will be substantiated with the transfers that the FMV makes to the
+          IFIs for at least 80% of the total cumulative balances pending substantiation, using
+          the Bank's forms.
+
+3.8       Financial management and audits. Financial management is governed by the
+          guidelines set out in document OP-273-12. The fiduciary agreements and
+          requirements (Annex III) set out the financial management, planning, and
+          supervision framework applicable to the operation. The FMV will submit annual
+          and final financial reports for the program, audited by a Bank-eligible external audit
+          firm contracted by the FMV in accordance with the terms of reference agreed on
+          with the Bank, even if the cost of the audit is financed using FMV resources.
+          Audited financial reports for the program will be submitted within 120 days
+          following the closing date of each financial year, and final audited financial
+          statements will be submitted within 120 days following the date of the last
+          disbursement. Program audits will be financed with own resources of the FMV.
+
+41    The program Operating Regulations will set out eligibility criteria aimed at promoting the access of
+      low-income households to financing for adequate housing solutions, such as the implementation of the
+      Integrator BBP to issue the NCMV loans.
+                                             - 20 -
+
+
+
+3.9    Program Operating Regulations. Program execution will be governed by the
+       provisions set out in the loan contract and in the program Operating Regulations,
+       which will be subject to the Bank's no objection and will include at least: (i) the
+       organizational arrangement for program execution, including the SPT's roles and
+       responsibilities; (ii) the guidelines for financial, audits (such as the scope of audited
+       financial statements), procurement, and environmental and social processes; and
+       (iii) the description of the mechanisms for coordination, monitoring, and evaluation
+       of the program's physical and financial progress, both within the FMV and with the
+       MEF, in the case of disbursements. The Program Operating Regulations will
+       contain the eligibility criteria for beneficiaries, the terms and conditions of subloans,
+       information and reporting requirements on financial conditions, and other
+       parameters or restrictions that will govern the use of program resources.
+
+B.     Summary of arrangements for monitoring results
+
+3.10   Monitoring. The executing agency will monitor and control project management,
+       including: (i) half-yearly monitoring reports on the achievement of objectives for the
+       indicators in the Results Matrix, physical and financial progress of the outputs and
+       the annual work plan, compliance with environmental and social safeguards, risk
+       assessment, and the updating of planning and monitoring tools; (ii) the issue of the
+       program’s audited financial statements; and (iii) the preparation of the project
+       completion report as detailed in the monitoring and evaluation plan.
+
+3.11   Evaluation. The program provides for a midterm evaluation, covering technical,
+       administrative, and financial issues as well as issues relating to the operation's
+       effectiveness, so as identify from an early stage whether the program's specific
+       objective will be achieved and, if not, to make the necessary adjustments to ensure
+       its achievement, once 50% of the loan has been disbursed or three years have
+       elapsed since the loan contract came into force (whichever occurs first). At the end
+       of the operation, a final evaluation will verify achievement of the proposed
+       objectives and determine their attribution; a qualitative evaluation will validate the
+       theory of change within the context of Peru and, subsequently, an impact
+       evaluation will measure the contribution to the general objective; and an economic
+       evaluation will be conducted to enable an ex post economic analysis. At closing, a
+       final evaluation will be conducted in accordance with the Bank's guidelines to
+       generate inputs for the project completion report.
+
+C.     Post-approval design activities
+
+3.12   Resources will be dedicated from technical cooperation ATN/CV-21221-PE;
+       ATN/OC-21222-PE) to support technical studies related to: (i) the optimization of
+       housing subsidy parameters; (ii) the development of mechanisms to reduce risk
+       and/or capture the savings capacity of households with informal incomes; (iii) the
+       structuring of a new home improvement product; (iv) the creation of a baseline for
+       sustainable social housing; and (v) the strengthening of the FMV's communication
+       capabilities with a focus on low-income and vulnerable groups.
+                                                                                                                                                                                  Annex I - PE-L1293
+                                                                                                                                                                                          Page 1 of 1
+
+
+
+
+                                                                        Development Effectiveness Matrix
+                                                                                  Summary             PE-L1293
+I. Corporate and Country Priorities
+Section 1. IDB Group Institutional Strategy Alignment
+
+
+                                                                                               -Biodiversity, natural capital, and climate action
+                                                                                               -Gender equality and inclusion of diverse population groups
+                                                                                               -Social protection and human capital development
+ Operational Focus Areas
+                                                                                               -Sustainable, resilient, and inclusive infrastructure
+                                                                                               -Productive development and innovation through the private sector
+
+
+
+
+ [Space-Holder: Impact framework indicators]
+
+2. Country Development Objectives
+
+
+                                                                                                                       Strengthen environmental management with a focus on
+  Country Strategy Results Matrix                                                                    GN-3110-1         sustainability and climate change/
+                                                                                                                       Improve social inclusion.
+
+
+
+                                                                                                                       The intervention is not included in the 2024 Operational
+  Country Program Results Matrix
+                                                                                                                       Program.
+
+
+
+   Relevance of this project to country development challenges (If not aligned to country
+   strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                          Evaluable
+3. Evidence-based Assessment & Solution                                                                                               9.8
+     3.1 Program Diagnosis                                                                                                            2.5
+     3.2 Proposed Interventions or Solutions                                                                                          3.5
+     3.3 Results Matrix Quality                                                                                                       3.8
+4. Ex ante Economic Analysis                                                                                                          10.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                   1.5
+     4.2 Identified and Quantified Benefits and Costs                                                                                 3.0
+     4.3 Reasonable Assumptions                                                                                                       2.5
+     4.4 Sensitivity Analysis                                                                                                         2.0
+     4.5 Consistency with results matrix                                                                                              1.0
+5. Monitoring and Evaluation                                                                                                          6.1
+     5.1 Monitoring Mechanisms                                                                                                        0.6
+     5.2 Evaluation Plan                                                                                                              5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                Medium Low
+Environmental & social risk classification                                                                                             FI
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+
+                                                                                                                       Budget, Treasury, Accounting and Reporting, External
+                                                                                                                       Control, Internal Audit.
+                                                                Fiduciary (VPC/FMP Criteria)
+
+
+
+
+                                                                              Non-Fiduciary
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+Additional (to project preparation) technical assistance was provided to the public sector
+                                                                                                         Yes                       ATN/CV-19177-PE,ATN/OC-18604-PE
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+Evaluability Assessment Note: The general objective of the program is to contribute to improving access to adequate housing solutions for low- and middle-low-income
+households in Peru. The specific objective is: (i) to expand access to financing for adequate housing solutions for low- and middle-low-income households.
+
+The project presents a comprehensive diagnosis that identifies the main determinants. The outcome indicators included in the results matrix are SMART (specific, measurable,
+achievable, relevant, and time-bound) and have appropriate verification means.
+
+The economic analysis was conducted separately for subcomponent 1, which finances the acquisition of housing, and subcomponent 2, which finances housing improvements,
+achieving internal rates of return of 14.3% and 15.1%, respectively, with an aggregate internal rate of return of 14.5%. The benefits considered the value of the housing and its
+appreciation over time as sources of increased wealth for beneficiaries, and imputed rent as a measure of the benefits from consuming housing services. In addition to the
+described benefits, given the defined timeframe for the implementation of the investment project (20 years), it was considered that the initial capital of the operation could,
+through a revolving mechanism, finance a considerable number of new credit operations by recycling the capital resources. The analysis includes reasonable assumptions and
+an appropriate sensitivity analysis in the form of a base scenario and a conservative scenario.
+
+The Monitoring and Evaluation Plan proposes a mid-term evaluation, which will identify progress in product and outcome indicators, and a final evaluation, which will consist of
+a before-and-after evaluation, an ex post economic analysis, a qualitative analysis, and a quantitative impact evaluation with attribution, leveraging the discontinuity in the
+scoring that determines whether a household's credit application is accepted.
+                                                                                                                                                                   Annex II
+                                                                                                                                                                 Page 1 of 5
+
+
+
+                                                                           RESULTS MATRIX
+
+ Program objective: The specific objective is to broaden access to financing for adequate housing solutions for low- and lower-middle-income households (LLMIH). Achieving
+ this objective will contribute to the general development objective of helping expand access to adequate housing solutions for LLMIHs in Peru.
+
+
+
+                                                                    GENERAL DEVELOPMENT OBJECTIVE
+
+General development objective: Help expand access to adequate housing solutions for low- and lower-middle-income households (LLMIHs) in Peru
+
+                                                                                  Expected
+                                                         Baseline     Baseline                                    Means of
+       Indicators            Unit of measurement                                   year of          Target                                      Comments
+                                                          value         year                                     verification
+                                                                                 achievement
+
+ 1. LLHMIH                 LLMIH beneficiaries of           0          2024           2031           N/A       Ex post survey     See Required link 2 The baseline will be
+    beneficiaries of       loans with a reduced                                                                                   confirmed within the framework of the
+    loans with a reduced   quantitative housing                                                                                   kick-off workshop, in coordination with
+    quantitative housing   deficit/LLMIH beneficiaries                                                                            the Office of Strategic Planning and
+    deficit                of loans with quantitative                                                                             Development Effectiveness (SPD).
+                           housing deficit decreased
+
+ 2. LLHMIH                 LLMIH beneficiaries of           0          2024           2031           N/A       Ex post survey     See Required link 2 The baseline will be
+    beneficiaries of       loans with a reduced                                                                                   confirmed within the framework of the
+    loans with a reduced   qualitative housing                                                                                    kick-off workshop, in coordination with
+    qualitative housing    deficit/LLMIH beneficiaries                                                                            the Office of Strategic Planning and
+    deficit                of loans with qualitative                                                                              Development Effectiveness (SPD).
+                           housing deficit decreased
+                                                                                                                                                                                    Annex II
+                                                                                                                                                                                  Page 2 of 5
+
+
+
+                                                                          SPECIFIC DEVELOPMENT OBJECTIVES
+
+    Specific development objective: Broaden access to financing for adequate housing solutions for low- and lower-middle-income households (LLMIHs)
+
+                                          Baseli    Base-
+                          Unit of                                                                                                  End of           Means of
+      Indicators                           ne        line      Year 1       Year 2         Year 3        Year 4        Year 5                                                 Comments
+                        measurement                                                                                                project         verification
+                                          value     year
+1.1 LLMIHs that       Number of              0       2024         -            -1          8,150             -         16,979       16,979     FMV report               Adequate housing
+    accessed          households                                                                                                                                        solutions include new
+    financing for                                                                                                                                                       home purchases and
+    adequate                                                                                                                                                            home improvements.
+    housing                                                                                                                                                             See required link 2
+    solutions as a
+    result of program
+    support
+1.2 Relevant           US$               645,47      2024         -            -        833,552,453          -       945,475,7 945,475,74 FMV report                    Adequate housing
+    portfolio of the                     5,744                                                                          44          4                                   solutions include new
+    FMV for access                                                                                                                                                      home purchases and
+    to adequate                                                                                                                                                         home improvements.
+    housing                                                                                                                                                             This indicator measures
+    solutions for                                                                                                                                                       the program's impact on
+    LLMIHs                                                                                                                                                              expanding the FMV's
+                                                                                                                                                                        portfolio of loans to
+                                                                                                                                                                        LLMIHs through IFIs.
+                                                                                                                                                                        See required link 2
+1.3 Financing for      Financing for     50%         2024         -            -            50%              -          50%          50%       FMV report               Adequate housing
+    LLMIH access to    LLMIH access                                                                                                                                     solutions include new
+    adequate           to adequate                                                                                                                                      home purchases and
+    housing            housing                                                                                                                                          home improvements.
+    solutions          solutions                                                                                                                                        See required link 2
+    extended to        extended to
+    women              women/
+                       Financing for
+                       access to
+                       adequate
+                       housing
+                       solutions
+                       extended to
+                       LLMIHs
+
+
+
+1         The program is expected to provide 8,979 loans for home purchases (new or used) and 8,000 loans for home improvement (paragraph 1.31 of the loan proposal).
+                                                                                                                                                                            Annex II
+                                                                                                                                                                          Page 3 of 5
+
+
+                                                                                    OUTPUTS
+
+   Subcomponent 1: Financing for home purchases
+
+                                          Base-   Base-
+                          Unit of                                                                                         End of            Means of
+      Indicators                           line    line    Year 1      Year 2       Year 3       Year 4        Year 5                                                  Comments
+                        measurement                                                                                       project          verification
+                                          value   year
+
+1.1 Program                  US$           0      2024    57,085,597   59,358,903   61,632,209   49,154,056   32,769,235 260,000,000       FMV report           See Required link 2 This
+    resources                                                                                                                                                   output will benefit from the
+    disbursed to IFIs                                                                                                                                           technical support provided
+    and earmarked to                                                                                                                                            through PE-T1593, which
+    provide financing                                                                                                                                           will generate mechanisms
+    for LLMIHs to                                                                                                                                               and incentives to expand
+    purchase homes                                                                                                                                              the placement of
+                                                                                                                                                                mortgage loans with
+                                                                                                                                                                LLMIHs. See optional link
+                                                                                                                                                                7
+
+Milestone 1.1.1.        Financing for      0      2024        -           -            -           -           45%          45%        FMV report, which
+Financing for housing   housing with at                                                                                                shows that a
+with at least 20%       least 20%                                                                                                      minimum of 45% of
+savings in water and    savings in                                                                                                     the financing went
+embodied energy in      water and                                                                                                      to housing with at
+the materials used      embodied                                                                                                       least 20% savings
+                        energy in the                                                                                                  in energy, water,
+                        materials                                                                                                      and embodied
+                        used/Total                                                                                                     energy in the
+                        financing                                                                                                      materials used
+                                                                                                                                       equivalent to an
+                                                                                                                                       available national
+                                                                                                                                       or international
+                                                                                                                                       green building
+                                                                                                                                       certification, even if
+                                                                                                                                       the certification
+                                                                                                                                       process is not
+                                                                                                                                       carried out.
+                                                                                                                                              Annex II
+                                                                                                                                            Page 4 of 5
+
+
+                                       Base-   Base-
+                           Unit of                                                                  End of        Means of
+      Indicators                        line    line   Year 1   Year 2   Year 3   Year 4   Year 5                                        Comments
+                         measurement                                                                project      verification
+                                       value   year
+
+1.2. Population-         Number of      0      2024      0        1        0        0        0        1       Communication       See required link 2
+     adapted             strategies                                                                           strategy document
+     communication                                                                                                                This output will be funded
+     strategy (female                                                                                                             by technical cooperation
+     heads of                                                                                                                     PE-T1593.
+     household,
+     Indigenous
+     people, Afro-
+     Peruvians, and
+     persons with
+     disabilities)
+     developed and
+     implemented
+
+1.3. Dissemination        Number of     4      2024      0        0        0        0       14        14      FMV report          See Required link 2
+     activities with IFIs activities
+     to promote the                                                                                                               This output will be funded
+     implementation of                                                                                                            by technical cooperation
+     the Integrator BBP                                                                                                           PE-T1593.
+     in their platforms
+
+1.4. Study prepared on Number of        0      2024      0        1        0        0        0        1       Study document      See Required link 2
+     the challenges    studies
+     and gaps in                                                                                                                  This output will be funded
+     access to                                                                                                                    by technical cooperation
+     financing for                                                                                                                PE-T1593.
+     adequate housing
+     solutions for
+     Indigenous
+     people, Afro-
+     Peruvians,
+     persons with
+     disabilities, and
+     migrant
+     populations
+                                                                                                                                                       Annex II
+                                                                                                                                                     Page 5 of 5
+
+
+
+  Subcomponent 2: Home improvement
+
+                                                Base-
+                          Unit of   Base-line                                                                    End of       Means of
+     Indicators                                  line   Year 1   Year 2      Year 3       Year 4      Year 5                                       Comments
+                        measurement  value                                                                       project     verification
+                                                year
+
+2.1 Program                 US$         0       2024      0      3,350,000   6,650,000   12,500,000   17,500,00040,000,000   FMV report     See required link 2
+    resources
+    disbursed to IFIs                                                                                                                       This output will benefit
+    and earmarked                                                                                                                           from the technical
+    to provide home                                                                                                                         support provided through
+    improvement                                                                                                                             technical cooperation
+    financing for                                                                                                                           PE-T1593, which will
+    LLMIHs                                                                                                                                  enable the structuring of
+                                                                                                                                            a new lending product for
+                                                                                                                                            improvement. See
+                                                                                                                                            optional link 7
+                                                                                        Annex III
+                                                                                      Page 1 of 5
+
+
+
+                          Fiduciary Agreements and Requirements
+
+Country: Peru         Division: HUD            Operation No.: PE-L1293        Year: Sept/2024
+
+Executing agency: Fondo MiVivienda (FMV)
+Operation name: Program to Promote Social Housing in Peru
+
+                    I.    FIDUCIARY CONTEXT OF THE EXECUTING AGENCY
+
+1. Use of country systems in the operation (any system or subsystem approved
+   subsequently could be used for the operation, under the terms of the Bank’s validation).
+
+    Budget                  Reports                   Information           National
+                                                      system                competitive
+                                                                            bidding
+    Treasury                Internal audit            Shopping              Others
+    Accounting              External control          Individual            Others
+                                                      consultants
+
+
+2. Fiduciary execution mechanism
+
+      Special             The executing agency will be Fondo MiVivienda (FMV), a State-
+      features of         owned company governed by private law created in 1998 under the
+      fiduciary           National Fund for Financing State Business Activity (FONAFE) and
+      execution           attached to the Ministry of Housing, Construction, and Sanitation,
+                          which is supervised by the Superintendency of Banking, Insurance,
+                          and Pension Fund Managers (SBS) in Peru. Its principal activity is
+                          the promotion of and financing for the purchase, improvement, and
+                          construction of social housing. Program execution will use the
+                          FMV's current structure, concentrated in the Finance Division,
+                          which will coordinate with the institutional areas involved in
+                          execution, will be responsible for managing the program's technical,
+                          operational, and fiduciary issues, and will be the counterpart vis-à-
+                          vis the Bank.
+
+
+3. Fiduciary capacity
+
+ Fiduciary capacity      An analysis was performed using the Institutional Capacity
+ of the executing        Assessment Platform (ICAP) to evaluate the FMV's fiduciary
+ agency                  capacity and determined that the fiduciary risk is low. However, the
+                         following actions were proposed to be performed prior to program
+                         execution: (i) create the specialized program team (SPT) within the
+                         FMV's own organizational structure for internal coordination with
+                         other FMV agencies and with the Ministry of Economy and Finance
+                         (MEF) for program disbursements; and (ii) establish the necessary
+                         procedures for compliance with the eligibility criteria for the use of
+                         the IDB-provided resources. Both will be detailed in the Program
+                         Operating Regulations to be approved beforehand by the Bank. In
+                         addition, training will be provided on the Bank's operational and
+                                                                                       Annex III
+                                                                                     Page 2 of 5
+
+
+                       fiduciary policies and procedures because, although the FMV has
+                       extensive experience in advancing the program's purposes, it has
+                       not executed IDB financing in the past.
+
+
+4. Fiduciary risks and risk response
+
+    Risk                                             Level of
+                              Risk                                     Risk response
+ taxonomy                                              risk
+
+ Economic     If exchange rate conditions Medium-               The IDB will keep the FMV
+ and          become unfavorable in the short high              apprised about strategies
+ financial    term and volatility persists, then                to hedge this risk and will
+              an imbalance in the program                       remain             sufficiently
+              accounts could occur, since the                   connected       with     other
+              IDB loans are denominated in                      financial institutions willing
+              U.S. dollars and loans to end                     to    hold     U.S.      dollar
+              borrowers are expected to be                      positions locally.
+              disbursed mostly in local
+              currency.
+
+
+5. Policies and guidelines applicable to the operation: Financial Management Guidelines
+   for IDB-financed Projects (OP-273-12), Disbursement Instructions, Audited Financial
+   Reporting Instructions, and External Audit Management. Policies for the Procurement
+   of Goods and Works Financed by the IDB (GN-2349-15) and Policies for the Selection
+   and Contracting of Consultants Financed by the IDB (GN-2350-15).
+6. Exceptions to policies and guidelines: Not applicable
+
+      II. CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE LOAN CONTRACT
+
+ Special contractual     See Executive Summary and paragraph 3.5 of the proposal for
+ conditions              operation development.
+ precedent to the
+ first disbursement:
+ Exchange rate:          For the purposes of Article 4.10 of the General Conditions, the
+                         parties agree that the exchange rate to be used will be the rate
+                         stipulated in Article 4.10(b)(i). For the purpose of determining the
+                         equivalent value of expenditures incurred in local currency as
+                         charges against the local counterpart or for the reimbursement of
+                         expenditures chargeable to the loan, the agreed-on exchange rate
+                         will be the exchange rate on the effective date on which the
+                         borrower, the executing agency, or any other person or legal entity
+                         given the authority to incur expenses, makes the respective
+                         payments to the contractor, vendor, or beneficiary.
+ Type of audit:          The program's audited financial reports will be prepared by an
+                         external audit firm acceptable to the IDB on an annual basis, within
+                         120 days after the close of each financial year, and 120 days after
+                         the expiration of the original disbursement period or extensions
+                         thereof. The terms of reference will be previously agreed on with
+                         the Bank.
+                                                                            Annex III
+                                                                          Page 3 of 5
+
+
+   III. AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+Procurement     The project is structured as a global credit program and,
+supervision     therefore, the funds are provided to the FMV for the rediscounting
+                of eligible credit operations through IFIs, which allocate these
+                resources to legal entities and individuals carrying out activities
+                compatible with the Program Operating Regulations (second-tier
+                operations). The provisions of paragraph 3.13 of the Policies for
+                the Procurement of Goods and Works Financed by the IDB
+                (GN-2349-15) and, consequently, current commercial or private
+                sector practices will apply, without prejudice to the contents of
+                Section I these policies.
+Records and     The FMV’s Finance Division will be in charge of keeping the
+files           program files and records. In order to prepare and file the reports
+                of this program, the official disbursement request forms must be
+                used, in which the list of the subloans that are the object of the
+                rediscounted loan must be recorded with the financing of the
+                program.
+
+      IV. FINANCIAL MANAGEMENT AGREEMENTS AND REQUIREMENTS
+
+Programming     The FMV has an operations manual that defines budgetary and
+and budget      financial procedures, including accounting and treasury. The
+                Finance Division is responsible for managing program resources.
+                The FMV's budget administration is independent, i.e. it is not
+                included in the national administrative budget. The FMV will
+                manage the IDB funds through a transfer made by the MEF
+                through a subsidiary agreement. The FMV has the legal capacity
+                to administer loans with external financing.
+Treasury and    Disbursements of program resources channeled by the FMV to
+disbursements   accredited IFIs to issue eligible subloans, through the COFIDE
+                trustee, which will validate the relevance of transfers, will
+                constitute the expenditure for the purposes of justification vis-à-
+                vis the IDB. Disbursements will be committed and made to the
+                FMV on a half-yearly basis in accordance with IDB policies.
+                Disbursements will be made based on a committed portfolio
+                (reimbursements) or a projected portfolio (advances) of at least
+                80%. In all cases, the portfolio of subloans to be recognized by
+                the program will be subject to review by the IDB in order to
+                proceed with the disbursement. Reimbursement requests will be
+                accompanied by a list of eligible rediscounted loans, as
+                established in the Program Operating Regulations. The FMV will
+                prepare the disbursement schedule annually. The programming
+                that justifies the disbursement will cover periods of up to six
+                months. The IDB will make disbursements to the treasury single
+                account, from which the resources will then be transferred to an
+                FMV account for program use. Since the MEF is the joint and
+                several guarantor of the operation, it will authorize the
+                disbursements that the FMV requests of the IDB.
+                                                                                  Annex III
+                                                                                Page 4 of 5
+
+
+
+Accounting,        The program accounting records will be kept using the FMV's
+information        accounting system, integrated for the different areas of planning,
+systems, and       budgeting, accounting, and treasury. The financial statements
+reporting          are extracted from the Sistema Integrado de Gestión
+                   Administrativa (Integrated Administrative Management System).
+                   The Finance Division is responsible for keeping the accounting
+                   records and generating the financial statements of the program
+                   and the appropriate third parties, following the rules issued by the
+                   SBS and stipulated by FONAFE. The program's financial
+                   statements will be prepared separately in accordance with the
+                   Financial Management Guidelines for IDB-financed Projects
+                   (OP˗273˗12) and the Bank’s instructions for audited financial
+                   reports and external audit management.
+Internal control   The FMV has an internal audit unit and internal control body that
+and internal       contribute to improving corporate control management. The
+auditing           internal audit unit discharges its duties independently with
+                   hierarchical dependence on the FMV board of directors, which
+                   are for providing assurance and consultation to improve the
+                   entity's operations. It is governed by the provisions of the General
+                   Law of the Financial and Insurance Systems and the charter law
+                   of the SBS and the internal audit regulations.
+External           As the governing body of the National Control System, the Office
+control and        of the Comptroller General of the Republic outsources the
+financial          external audit of the projects to Bank-eligible independent audit
+reports            firms. Eligible independent audit firms are periodically evaluated
+                   by the Bank to ensure that they are of high quality.
+                   The external audit will verify compliance with the eligibility criteria
+                   set out in the Program Operating Regulations, for which the type
+                   of engagement to be commissioned to the auditor will be agreed,
+                   either a financial audit or reasonable assurance engagement.
+                   The terms of reference will be approved by the Bank.
+                   The independent audit firm will be selected and contracted in
+                   agreement with the FMV and the Office of the Comptroller
+                   General of the Republic. The process will be carried out following
+                   the Bank's policies and for the entire execution period, including
+                   extensions to the final disbursement period. The program auditor
+                   may be the same independent audit firm that audits the FMV's
+                   institutional financial statements, provided it is a Bank-eligible
+                   independent audit firm. External audit costs will be covered using
+                   the FMV’s own resources.
+                   Management of the program's audit is governed by document
+                   OP-273-12 and the IDB's instructions for instructions for audited
+                   financial reports and external audit management.
+                                                                               Annex III
+                                                                             Page 5 of 5
+
+
+
+Financial        Support will be provided during project execution through on-site
+supervision of   visits to the executing agency’s offices, participation in the launch
+the operation    workshop and other training sessions, the review of the audited
+                 financial statements, and any other reviews that may be set up in
+                 coordination with the project team leader. The frequency of these
+                 activities is determined based on the risk associated with project
+                 execution. The portfolio will also be reviewed with the FMV twice
+                 per year.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-___/24
+
+
+
+                          Peru. Loan ____/OC-PE to the Republic of Peru
+                            Program to Promote Social Housing in Peru
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with the Republic of Peru, as borrower, for the purpose of granting it a financing to
+cooperate in the execution of the Program to Promote Social Housing in Peru. Such financing will
+be for the amount of up to US$300,000,000 from the resources of the Bank’s Ordinary Capital
+and will be subject to the Financial Terms and Conditions and the Special Contractual Conditions
+of the Project Summary of the Loan Proposal.
+
+
+
+                               (Adopted on ___ ____________ 2024)
+
+
+
+LEG/SGO/CAN/EZIDB0000366-862165579-22810
+PE-L1293
+

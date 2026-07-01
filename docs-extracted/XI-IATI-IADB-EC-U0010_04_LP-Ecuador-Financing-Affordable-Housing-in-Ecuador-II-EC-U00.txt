@@ -1,0 +1,1860 @@
+                                                                                        PUBLIC
+                                                                      SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                          ECUADOR
+
+
+
+
+              FINANCING AFFORDABLE HOUSING IN ECUADOR II
+
+
+
+                                          (EC-U0010)
+
+
+
+
+                                   GUARANTEE PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Sebastián Vargas Macedo
+(IFD/CMF), Project Team Leader; María Paloma Silva de Anzorena (CSD/HUD), Alternate
+Project Team Leader; Joan Prats (IFD/CMF), Alternate Project Team Leader; Omar Villacorta
+(IFD/CMF), Alternate Project Team Leader; Adrián Ortega-Andrade, Viviane Azevedo,
+Ernesto Cuestas, Alex Vasa, Karina Azar, Áurea Fuentes, Sandra Ávalos, Cecilia Bernedo
+(IFD/CMF); Juan José Cervantes Bautista, Jorge Guerrero Espinosa, Álvaro Orbea
+(CSD/HUD); Sara Vila, Arturo Bonilla (LEG/SGO); Roberto Esmeral (CSD/CCS); Mylenna
+Cárdenas, Roberto Laguado (VPC/FMP); Karina Calahorrano (CAN/CEC); and Gabriela
+Mera (ICT/FLI).
+
+
+
+In accordance with the Access to Information Policy, this document is being released to the public and
+distributed to the Bank’s Board of Executive Directors simultaneously. This document has not been
+approved by the Board. Should the Board approve the document with amendments, a revised version will
+be made available to the public, thus superseding and replacing the original version.
+                                                         CONTENTS
+
+
+
+
+PROJECT SUMMARY ............................................................................................................1
+
+
+PROJECT STRATEGIC ALIGNMENT SUMMARY ........................................................................2
+
+
+I.       PROJECT RATIONALE AND DESCRIPTION ....................................................................3
+
+         A.     Project description ..........................................................................................3
+         B.     The Bank’s additionality................................................................................13
+
+II.      COSTS AND FINANCING STRUCTURE ........................................................................18
+
+         A.     Project components......................................................................................18
+         B.     Dimensioning and financing structure ..........................................................18
+         C.     Financing instrument or modality..................................................................20
+
+III.     MAIN RISKS AND MANAGEMENT STRATEGY ..............................................................21
+
+         A.     Risks.............................................................................................................21
+         B.     Sustainability ................................................................................................22
+         C.     Environmental and social risks .....................................................................23
+
+IV.      IMPLEMENTATION, MONITORING, AND EVALUATION ARRANGEMENTS ........................23
+
+         A.     Summary of implementation arrangements..................................................23
+         B.     Implementation arrangements for monitoring and evaluation ......................26
+                                                   - ii -
+
+
+
+                                               ANNEXES
+Annex I     Development Effectiveness Matrix – Summary
+Annex II    Results Matrix
+Annex III   Fiduciary Agreements and Requirements
+
+
+
+                                           REQUIRED LINKS
+     1.     Theory of change
+     2.     Monitoring, evaluation, and learning
+     3.     Environmental and social review summary
+
+
+
+                                           OPTIONAL LINKS
+     1.     Program Operating Regulations
+     2.     Economic evaluation
+     3.     Bibliography
+     4.     Climate change and sustainability annex
+     5.     Managing risks associated with guarantees on sovereign loans
+     6.     Context of the Ecuadorian mortgage market
+     7.     Summary of housing financing public policy in Ecuador
+     8.     Public and social-interest housing financing program – Main features and results
+     9.     Macroeconomic context of Ecuador
+                                            - iii -
+
+
+
+                                     ABBREVIATIONS
+AFD        French Development Agency
+CGE        State Comptroller General’s Office
+CONAFIPS   Corporación Nacional de Finanzas Populares y Solidarias (National Corporation for
+           Popular and Solidarity Finance)
+CTH        Compañía de Titularización Hipotecaria
+GDP        Gross domestic product
+GUS        Tool for Determining the Level of Development and Use of Public Financial
+           Management Systems
+MEF        Ministry of Economy and Finance
+MEL        Monitoring, evaluation, and learning
+MIT        Ministry of Infrastructure and Transportation
+PIH        Public-interest housing
+SBU        Unified basic salary
+SDG        Sustainable Development Goal
+SIH        Social-interest housing
+                                                           PROJECT SUMMARY
+                                                        ECUADOR
+                                        FINANCING AFFORDABLE HOUSING IN ECUADOR II
+                                                       (EC-U0010)
+                                                      Financial Terms and Conditions
+ Guarantor:                                                                        Flexible Financing Facility(a)
+ Inter-American Development Bank                        Maximum guarantee period:                 25 years
+ Secured creditors:
+ Creditors of the Republic of Ecuador under             Weighted average life:                    15.25 years
+ the secured instrument
+ Secured debtor:
+                                                        Guarantee fee:                            (a)
+ Republic of Ecuador
+ Counterguarantor:
+                                                        Standby fee:                              (a)
+ Republic of Ecuador
+ Executing agency:
+                                                        Inspection and supervision fee:           (a)
+ Ministry of Economy and Finance
+ Secured obligations:
+ Payment obligations to be taken on by the              Currency of approval:                     U.S. dollar
+ Republic of Ecuador under a sovereign bond
+ and/or a loan (the “Secured Instrument”)
+ Source               Amount (US$)             %
+ IDB                                                                                              Urban Development and Housing /
+                                                        Sector(s):
+ (Ordinary             250,000,000           100                                                  Housing
+ Capital):
+                                                        Socioenvironmental
+ Total:                250,000,000           100                                                  FI
+                                                        classification:
+                                                              Project at a Glance
+ General and specific objectives. The general development objective of the operation is to help reduce the quantitative
+ housing deficit in Ecuador. This will be achieved through the specific development objective of expanding affordable
+ mortgages for middle-income households.
+ Special conditions precedent to the issuance of the guarantee: Issuance of the guarantee will be subject to the following
+ conditions: (i) the Bank will have negotiated and agreed to the terms of the guarantee contract; (ii) the Bank will be satisfied with
+ the structuring of the Secured Instrument and associated documentation; (iii) the counterguarantee agreement entered into by
+ the Bank and the counterguarantor will have come into force on terms acceptable to the Bank; and (iv) in connection with the
+ program: (a) the management trust will have been modified to include the execution of the proceeds from the Secured
+ Instrument; and (b) the program Operating Regulations will have been approved and entered into force under terms previously
+ agreed on by the Bank and the Ministry of Economy and Finance (paragraph 4.5).
+ Please see required link 2 for special socioenvironmental conditions.
+ Exceptions to Bank policy: A waiver is requested of the rule contained in footnote 37 of the Proposed Policy for a Flexible
+ Guarantee Instrument for Sovereign Guaranteed Operations (GN-2729-2), which states that IDB sovereign guarantees will not
+ cover debt acceleration (paragraph 4.7).
+(a)   The guarantee, standby, and inspection and supervision fees will be established periodically by the Board of Executive Directors as part of
+      its review of the Bank’s lending charges, in accordance with the applicable policies.
+                                                            -2-
+
+
+
+                                  PROJECT STRATEGIC ALIGNMENT SUMMARY
+
+                                             Alignment justification and links
+                         The program will help close gender gaps in the mortgage lending segment by ensuring that a significant
+                         proportion of the portfolio is designated for women.
+                         In Ecuador, 38.5% of households are headed by women, whereas 61.5% of households are headed by
+                         men,1 and the former exhibit higher housing deficits than the latter (43.7% vs. 41.1%). These gaps also
+Gender                   exist in access to credit:2 women account for 47.49% in the number of home mortgages, while men
+                         represent 52.51%.3 Although the demand analysis lacks sufficient gender-disaggregated information,
+                         information shows that there is no gender gap in the average amount of the loans extended.4 Lastly,
+                         although these gaps may trace back to demand factors (lower proportion of women-headed households)
+                         and supply factors (financial institutions), efforts on the supply side are important to keep these gaps
+                         from widening.
+                                                                   Paris Agreement
+                                  Aligned with climate resilience target:               Aligned with decarbonization target:
+                            Simplified analysis (low physical climate change risk)             Specific analysis required
+                                        Climate and green finance                                  Climate finance
+                         Climate and green finance (%) of total project budget:       Mitigation (%)                     14.37
+                                                    14.37                             Adaptation (%)
+                                                                                      Dual (%)
+Climate change
+                                                                                      Total climate finance (%)          14.37
+                         Adaptation indicator: ☐                                       Mitigation indicator: ☐
+                         The investment guarantee will expand the supply of credit for affordable housing. This operation is
+                         consistent with the national policies set out in Ecuador’s National Adaptation Plan and Nationally
+                         Determined Contribution, which recognize the need to expand access to housing to reduce informal
+                         settlements that are highly vulnerable to climate events. Ecuador’s affordable housing standards
+                         promote energy efficiency, water efficiency, and resilience measures. Under the program Operating
+                         Regulations, priority will be given to solutions that generate greater efficiency gains, including those
+                         associated with the possible transition to the use of electric cooking.
+Sustainable Development Goals (SDGs): SDG 5; SDG 11; SDG 17.
+Country strategy
+                         The operation is aligned with the IDB Group Country Strategy with Ecuador (2022-2025) (GN-3103-1)
+Country strategy         in priority area III (strengthening of social progress, with emphasis on reducing gender gaps) and
+                         strategic objective 7 (expand access to and improve coverage of basic and social services).
+
+
+
+
+         1   Optional link 3.[14]
+         2   Women participate less in the mortgage market due, among other reasons, to informal employment.
+             Optional link 3.[15]
+         3   Optional link 3.[16]
+         4   Ibid.
+                                                -3-
+
+
+
+                           I. PROJECT RATIONALE AND DESCRIPTION
+
+
+          Project highlights. The project provides a US$250 million IDB investment guarantee and
+          a financing structure that together are expected to mobilize a total of US$750 million in
+          additional private resources to expand the supply of mortgages available to middle-income
+          households and thus reduce the quantitative housing deficit in Ecuador. The project will
+          follow on the achievements of and build on the innovative financial structure developed by
+          an earlier IDB operation in Ecuador (4699/OC-EC) in the housing sector, which has yielded
+          significant results in improving access to financing and resource mobilization and has
+          delivered sector additionalities. The program seeks to achieve outcomes relating to a
+          reduction in the quantitative housing deficit in Ecuador, to direct private resource
+          mobilization, to an expansion of the mortgage portfolio for the target population, and to the
+          placement of mortgage loans for women.
+
+
+
+A.        Project description
+
+1.1       Objectives. The general development objective of the operation is to help reduce
+          the quantitative housing deficit in Ecuador. This will be achieved through the
+          specific development objective of expanding affordable mortgages for
+          middle-income households.5
+
+1.2       Main problem addressed: housing deficit in Ecuador. In Ecuador, the housing
+          problem manifests itself in a deficit that in 2022 affected 2.34 million homes—
+          equivalent to 46.2% of the occupied private homes in the country. This deficit takes
+          shape in two dimensions: the quantitative deficit, which relates to the 743,331
+          households that need new housing (substandard dwellings); and the qualitative
+          deficit, which affects the 1,595,162 existing homes that need structural
+          improvements, additions, or basic services to be adequate (recoverable dwellings).
+
+1.3       Housing deficit by income segment of the population. In both the quantitative
+          and qualitative dimensions, the housing deficit is a problem that affects various
+          income segments of the Ecuadorian population. As can be seen in Table 1, while
+          both types of deficits are more prevalent in the lower income ranges,
+          middle-income households (those with monthly incomes between US$700 and
+          US$2,500 or between 1.5 unified basic salary (SBU)6 units to 5.3 SBU (see
+          technical justification of this range in paragraph 1.17)) also suffer from this
+          problem. Accordingly, as of 2024, there were approximately 167,000 households
+          in the middle-income range with a qualitative housing deficit.
+
+
+
+
+5    See definition in paragraph 1.17.
+6    In 2025, 1 SBU is equivalent to US$470.
+                                                          -4-
+
+
+
+                  Table 1. Distribution of the housing deficit by income segment in Ecuador
+
+    Monthly income             Average monthly             Number of       Households with           Households with
+     ranges (SBU)           household income (US$)        households      quantitative deficit       qualitative deficit
+       0 – 0.5 SBU                        130             1,074,458                283,510                477,426
+     0.5 – 1.05 SBU                       360             1,238,229                197,059                538,062
+      1.05 – 2 SBU                        664             1,438,000                121,370                532,553
+       2 – 2.5 SBU                       1,030              431,189                 23,311                133,491
+      2.5 – 3.5 SBU                      1,355              462,464                 16,349                122,238
+      3.5 – 4.5 SBU                      1,814              317,662                  5,518                  43,683
+      4.5 – 6.3 SBU                      2,417              164,490                  2,543                  31,540
+       6.3 – 8 SBU                       3,231               61,619                   351                      8,659
+    More than 8 SBU                      5,396               64,197                   346                      6,547
+
+    Source: National Survey of Employment, Unemployment, and Underemployment (2024).
+
+
+1.4           The problem of housing affordability in Ecuador. Ecuador is facing a major
+              housing affordability problem, which is reflected in a significant gap between the
+              cost of housing solutions and the ability to pay of a large segment of the population.
+              This situation is compounded by several interrelated factors that limit access to
+              decent, adequate housing. According to a recent IDB study,7 more than 80% of
+              Ecuadorian households cannot access a standard two-bedroom single-family
+              home in the formal market. This gap not only reflects a difference in income and
+              prices, but also the lack of access to affordable mortgage financing, which prevents
+              households from transforming their potential ability to pay into effective housing
+              demand. As a result, a significant proportion of households opt for informal
+              solutions, self-builds, or substandard housing, feeding into a total housing deficit
+              that affects 46.2% of the country’s households.
+
+       Table 2. Households that can afford a standard two-bedroom single-family home under market
+                                                 conditions
+    Deciles                        1        2      3         4        5       6        7         8         9            10
+    Annual income (US$)          5,114    7,253   8,739    9,901   11,357 12,923 14,647 16,826           21,621    41,195
+    Maximum monthly
+                                  128      181    218       248     284      323      366     421         541          1,030
+    housing payment (US$)
+    Can buy the house
+                                  N         N      N        N         N       N        N         N         Y            Y
+    (US$78,000)
+
+    Source: IDB (2025). Cadena de valor de la vivienda en Ecuador: Estudio sectorial de vivienda en Ecuador.
+
+
+1.5           Determinant 1: Shortage of affordable mortgage financing for middle-income
+              families in Ecuador. As mentioned above, one of the main determinants of the
+              housing deficit in Ecuador is the lack of affordable mortgage financing
+              (paragraph 1.4), which affects households in various income brackets
+              (paragraph 1.3). Among them, middle-income households face a particular
+              constraint in the housing market. Even though most of them meet creditworthiness
+
+7     Optional link 3.[1]
+                                                  -5-
+
+
+
+          criteria and have formal access to the financial system, they are unable to access
+          formal housing because of the lack of affordable mortgages in terms of rates,
+          terms, and downpayments. The country’s mortgage portfolio is barely equivalent
+          to 2% of gross domestic product (GDP), compared to a regional average of 15%
+          to 20%, which points to the market’s shallowness and limited capacity to serve this
+          segment. With rates around 10% to 11% and terms of up to 15 to 20 years, debt
+          service under these conditions exceeds the threshold of 40% of household income
+          that is considered affordable, while downpayments of up to 30% are far beyond
+          the reach most households’ savings capacity. Consequently, although middle-
+          income families (equivalent to 34% of all households in Ecuador)8 are creditworthy,
+          they face a financial system that does not offer suitable conditions for accessing
+          formal housing and are excluded from the available supply of this type of financing.
+          The mortgage market is small and costly, with a limited supply of long-term credit
+          compared to potential household demand. An array of structural characteristics
+          and market failures explain this socially suboptimal equilibrium, including notably
+          the following:
+
+          a. Financial system geared toward short-term financing. The Ecuadorian
+             financial system is characterized by a high concentration of short-term financing
+             and an excess of precautionary liquidity. In 2024, nearly 45% of deposits were
+             demand or nontime deposits, while long-term deposits represented only 3% to
+             5% of total deposits. This structure reflects financial institutions’ preference for a
+             conservative maturity matching, mainly financing assets of similar maturity and
+             limiting their exposure to long-term loans, such as mortgages. This configuration
+             is linked to the structural constraints of the country’s macrofinancial framework,
+             including: (i) the limited availability of long-term resources to improve maturity
+             matching in the financial system; and (ii) the absence of a lender of last resort,
+             along with the limitations on the Central Bank of Ecuador to expansively utilize
+             net international reserves in a crisis. These restrictions stem from the official
+             policy of dollarization, which, while having contributed to price stability, has
+             lowered the system’s capacity to absorb liquidity shocks and promote long-term
+             financing. In addition, factors such as macroeconomic volatility and political
+             instability (reflected in an average country risk of more than 1,400 basis points
+             over the last five years)9 raise risk premiums and drive a preference for liquidity
+             in the financial system. In addition, limited institutional savings and shallow
+             capital markets restrict the participation of local institutional investors such as
+             pension funds and insurance companies, which are the primary demanders of
+             long-term financial instruments.
+
+          b. Shallow capital market.10 As a result, the country lacks strong secondary
+             market mechanisms essential for expanding mortgage financing.
+             Securitization, which in other systems makes it possible to transfer risk and
+             free up liquidity by selling mortgage portfolios to institutional investors, remains
+8    Optional link 3.[2]
+9    Optional link 3.[3]
+10   In general, the Ecuadorian stock market remains notably small in relation to the size of its economy. In
+     2023, the total market capitalization of listed companies amounted to just 6.9% of GDP. In contrast, the
+     regional average for Latin America exceeds 30%, and in developed economies such as the United States,
+     the ratio exceeds 150% of GDP. This marked difference reflects Ecuador’s shallow capital market and
+     underdeveloped financial system, with companies relying almost exclusively on bank borrowings rather
+     than market-based financing.
+                                                  -6-
+
+
+
+              limited. Between 2016 and 2021, mortgage issues totaled just US$891 million
+              (equivalent to about 2,000 homes per year), reflecting a shallow market and an
+              investor base with no appetite or capacity to absorb mortgage-backed
+              securities. Furthermore, there is no legal framework to issue covered bonds—
+              low-risk instruments that in other markets provide a stable and long-term
+              source of funding. The absence of these mechanisms forces the financial
+              system to operate under an originate-to-hold model, where banks keep the
+              loans they extend on their balance sheets, thus limiting their capacity to
+              originate new mortgage portfolios.
+
+          c. Limited savings capacity of the population to cover downpayments. The
+             private financial system in Ecuador generally requires a downpayment of
+             approximately 30% of a property’s value. For Ecuadorian households, meeting
+             this requirement is difficult due to their limited savings capacity. According to a
+             recent survey by Equifax Ecuador (2025),11 22.6% of the population does not
+             set aside savings, and only 14.2% hold annual amounts greater than
+             US$4,000, thus highlighting households’ limited capacity to build up their own
+             capital. In addition, high rates of informal employment limit middle-income
+             households’ access to formal mortgages by making it difficult to verify income
+             and build a credit history. In Ecuador, the informal employment rate reached
+             68.6% in 2024,12 and regional evidence shows that informal workers tend to
+             have restricted access to credit,13 which exacerbates housing finance gaps.
+             For middle-income households with preferences for liquidity in volatile
+             economies, building up that initial capital is difficult even if the installment-to-
+             income ratio is manageable. As highlighted in an IDB study,14 macroeconomic
+             volatility and income instability in the region push households to prioritize short-
+             term precautionary savings over long-term capital accumulation for investment
+             projects such as housing. The high downpayment requirement functions as a
+             screening mechanism for banks, thereby ensuring that only applicants with the
+             highest savings capacity and capital at risk can gain access to financing,
+             effectively shutting out most middle-income households from the market.
+
+1.6       The consequences are a national mortgage market in which the private sector
+          cannot meet a large part of demand, with 46% of lending coming from public
+          institutions or programs,15 either from the Banco del Instituto Ecuatoriano de
+          Seguridad Social (Bank of the Ecuadorian Social Security Institute)16 or from the
+          housing program for social-interest housing (SIH) and public-interest housing
+          (PIH).17 Against this backdrop, through the private banking system the SIH/PIH
+          housing program plays a key role in providing a significant portion of mortgage
+          financing to a population that, for the most part, would not otherwise be able to
+
+11   Optional link 3.[4]
+12   Optional link 3.[5]
+13   Optional link 3.[6]
+14   Optional link 3.[7]
+15   See optional link 7 for a summary of public policy on housing finance in Ecuador.
+16   The Bank of the Ecuadorian Social Security Institute extends mortgages on favorable terms to affiliated
+     workers who have formal jobs and make regular contributions to the Ecuadorian Social Security Institute.
+17   SIH, a segment subsidized or prioritized by public policy, aimed at low-income households; and PIH, an
+     intermediate segment between SIH and housing serviced by conventional real estate loans, aimed at
+     middle-income households.
+                                                                   -7-
+
+
+
+             access credit in the real estate segment. In terms of the number of homes financed
+             in the country, the SIH/PIH segments represent approximately 17.8% of the total
+             loans in the country. In terms of amount, this share is equivalent to 12.9% of
+             mortgage loans in the Ecuadorian system. The significant differences between the
+             lending conditions of conventional real estate loans and those provided by the
+             SIH/PIH program (paragraph 1.13) enable many families to access decent
+             housing, which would not be possible for most of them if these segments did not
+             exist.18
+
+                                                    Table 3. Housing loans in Ecuador
+       Amount in number of transactions
+
+      SECTOR / SEGMENT                     2019        2020       2021       2022       2023       2024       2025      Total       %
+      BANK OF THE ECUADORIAN
+                                           5,096       5,188      7,904      8,572      8,623      7,852      4,497     47,732    33.0%
+      SOCIAL SECURITY INSTITUTE
+       REAL ESTATE                         5,096       5,188      7,904      8,572      8,623      7,852      4,497    47,732     33.0%
+
+      PRIVATE BANKS                        8,604       5,458      8,038      8,428      7,569      7,366      4,535     49,998    34.6%
+
+       REAL ESTATE                         6,323       4,072      6,245      7,244      6,022      4,985      3,198    38,089     26.4%
+       PIH HOUSING                         2,281       1,386       953        595        582       1,072       490      7,359      5.1%
+       SIH HOUSING                                                 840        589        965       1,309       847      4,550      3.1%
+
+      COOPERATIVES AND MUTUAL
+                                           8,576       5,676      9,090      8,199      6,551      4,786      3,907     46,785    32.4%
+      ENTITIES
+
+       REAL ESTATE                         8,109       5,114      7,977      6,870      5,432      3,826      2,941    40,269     27.9%
+       PIH HOUSING                          467        551         786        692        697        565        631      4,389      3.0%
+       SIH HOUSING                                      11         327        637        422        395        335      2,127      1.5%
+
+                          Grand total:     22,276     16,322      25,032     25,199     22,743     20,004     12,939   144,515    100.0%
+
+       Source: Central Bank of Ecuador
+
+
+       Amount in US$ millions
+
+      SECTOR / SEGMENT                      2019        2020       2021       2022       20Z3       2024       2025     Total       %
+       BANK OF THE ECUADORIAN               234.54      263.32     402.17     440.07     440.22     406.82    236.22   2,423.35   25.0%
+       SOCIAL SECURITY INSTITUTE
+
+        REAL ESTATE                         234.54      263.32     402.17     440.07     440.22     406.82    236.22   2,423.35   25.0%
+
+       PRIVATE BANKS                        669.48      454.78     671.50     781.81     734.03     716.65    424.80   4,453.04   46.0%
+
+        REAL ESTATE                         533.98      366.82     554.72     697.24     614.61     543.71    330.80   3,641.88   37.6%
+
+        PIH HOUSING                         135.50      87.96      67.35      44.83      49.42      93.63      44.05   522.75      5.4%
+
+        SIH HOUSING                                                49.42      39.74      70.00      79.30      49.94   288.40      3.0%
+
+       COOPERATIVES AND
+                                            465.08      289.84     505.02     479.15     432.73     347.28    289.58   2,808.67   29.0%
+       MUTUAL ENTITIES
+        REAL ESTATE                         441.83      258.24     434.08     396.94     351.49     275.04    212.42   2,370.04   24.5%
+
+        PIH HOUSING                         23.25       31.11      55.53      55.09      59.15      48.97      57.23   330.33      3.4%
+
+        SIH HOUSING                                      0.49      15.41      27.12      22.08      23.27      19.93   108.30      1.1%
+
+                            Grand total:   1,369.10    1,007.94   1,578.68   1,701.02   1,606.98   1,470.74   950.59   9,685.06 100.0%
+     Source: Central Bank of Ecuador.
+
+
+
+
+1.7          Other determinants not addressed by the operation. Certain determinants of
+             the quantitative housing deficit in Ecuador for the target population fall outside the
+             scope of this operation yet have an influence on the operation’s expected impacts
+             in the long term. On one hand, the high costs of land19 and rising construction costs
+
+18   See optional link 6 for more context on the Ecuadorian mortgage market.
+19   Optional link 3.[1]
+                                                      -8-
+
+
+
+          (between 15% to 25% for some inputs between 2021 and 2024),20 which represent
+          between 30% and 40% of the final home value, limit the affordability of housing for
+          middle-income households. Public efforts are under way in the country to address
+          this through, for example, regulatory frameworks for zoning, land use, and
+          management, and tax incentives for the construction industry. On the other hand,
+          significant red tape slows growth of the housing supply. For example, securing a
+          building permit in the country takes more than 130 days.21 This calls for public
+          interventions to digitalize and simplify bureaucratic procedures, for example.
+          Lastly, insufficient financial market regulation in Ecuador22 creates barriers to
+          long-term financial intermediation, thus affecting the system’s ability to provide
+          affordable mortgages without public intervention, as one example. To address this,
+          the country’s guarantee system regulations were recently revised23 to include
+          mechanisms and instruments that can promote home loans.
+
+1.8       Proposed solution. The proposed solution consists of a public home financing
+          program that targets the middle-income population24 with a view to lowering the
+          barriers to access mortgages and expanding long-term financing. The program will
+          replicate and scale the structure (paragraphs 2.2–2.4) tested in the operation that
+          preceded it, which has yielded significant value added for the country
+          (paragraphs 1.12–1.15), and will be implemented through an investment
+          guarantee backing a new sovereign debt issue. The related proceeds will be
+          channeled through a public management trust and a mortgage securitization
+          mechanism to local financial institutions (banks, mutual entities, and cooperatives).
+          This will transfer and diversify risk, free up liquidity on banks’ balance sheets, and
+          mobilize private resources to create a mortgage portfolio that will include affordable
+          conditions (which will be required in the program Operating Regulations for all
+          mortgages) in rates, terms, and downpayments that will be passed on to the final
+          beneficiary. In addition to the guarantee, this resource execution framework is an
+          additionality delivered by the Bank, making the overall financing structure a high
+          value-added proposition. This operation includes key lessons (for further details,
+          see paragraph 1.15) learned from the execution of the previous guarantee
+          operation in terms of: (i) improvements in the efficiency of the financial structure
+          and its mobilization capacity, through the IDB’s experience in structuring guarantee
+          operations ; (ii) improvements in the operation’s scope, through adjustments to the
+          operating regulations to expand the operation’s impact at the level of the target
+          population and geographic areas; and (iii) improvements in the operation’s
+          monitoring and reporting through the update of the financing framework supporting
+          the Secured Instrument (paragraph 1.29); etc.
+
+1.9       The scale of the identified sector and financial needs (paragraphs 1.3, 1.16)
+          justifies the need for a solution with resource mobilization capacity (see rationale
+          for the instrument in paragraph 2.5) that delivers scale in generating resources,
+
+20   Optional link 3.[8]
+21   Optional link 3.[9]
+22   Optional link 3.[6]
+23   Optional link 3.[1]
+24   This program has been designed to effectively address the middle-income population. The housing deficit
+     affects multiple population segments, which require other types of solutions aligned with their characteristics
+     and particular gaps (detailed discussion in paragraphs 1.21-1.24 in the framework of the Bank’s programmatic
+     approach).
+                                                    -9-
+
+
+
+          among other additionalities. Accordingly, with a guarantee of up to US$250 million,
+          at least US$150 million is expected to be directly mobilized in the first stage of the
+          financing structure (paragraph 2.3) and, thanks to the projected financing of at
+          least US$400 million generated by the guarantee, an additional amount of
+          approximately US$600 million is expected to be mobilized in the second stage of
+          mortgage securitization (paragraph 2.4), leading to a projected total mobilization
+          of US$750 million. This scale of total mobilization would not be possible without
+          the mobilization generated by the sovereign guarantee instrument in the first stage.
+
+1.10      Need for public intervention. The nature and prevalence of market failures and
+          the market’s structural characteristics prevent the private financial sector from
+          expanding mortgage financing and/or providing affordable terms in the short to
+          medium term without some type of public intervention. On one hand, intermediary
+          financial institutions cannot control factors that directly influence the scarcity of
+          long-term financing for them, such as a shallow capital market, scarce long-term
+          resources, exposure to external economic cycles, macroeconomic instability, and
+          the lack of sufficient institutional investors (paragraphs 1.5(a), 1.5(b)). Against this
+          backdrop, a public intervention that provides long-term financing alternatives (such
+          as mortgage securitizations) to intermediary financial institutions helps expand
+          mortgage origination (paragraphs 1.12–1.14). On the other hand, the standard
+          market terms for mortgages set by the intermediary financial institutions are
+          incompatible with the characteristics of demand, such as the limited savings
+          capacity of many households, which limit housing affordability (paragraph 1.5(c)).
+          In this context, public interventions are necessary that provide financial incentives
+          to intermediary financial institutions so that they can originate portfolios at lower
+          rates, with longer terms, and with lower downpayments.
+
+1.11      Evidence of the effectiveness of the proposed solution. The available
+          evidence supports the relevance of this solution. From a theoretical point of view,
+          sovereign guarantees help improve the country’s risk perception, lower financing
+          costs, and enable additional resources to be leveraged in markets with access
+          restrictions.25 At the empirical level specific to the proposed solution, which
+          includes the guarantee instrument plus the additionality of the resource execution
+          framework, operation 4699/OC-EC demonstrated the viability of this structure and
+          achieved a higher resource mobilization than initially foreseen through the
+          established mechanism (paragraph 1.13). In addition, the experience of the
+          preceding operation shows the capacity of the instrument and the financing
+          structure to build capacity and promote development of the mortgage market
+          (paragraphs 1.14, 1.15).
+
+1.12      Evidence from the Financing Low-income Housing in Ecuador I program
+          (4699/OC-EC). Approved in 2018, this program marked a milestone for affordable
+          housing finance in Ecuador.26 The program’s main value added consisted of
+          developing and implementing a financing structure (to provide affordable mortgage
+          financing) that included an investment guarantee provided by the IDB and a
+          resource execution framework that has mobilized a significant amount of private
+          resources and generated additionalities, thereby fostering capacity-building and
+          market development. The operation consisted of a US$300 million investment
+
+25   Optional link 3.[12]
+26   See optional link 8 for more details on the program structure.
+                                            - 10 -
+
+
+
+         guarantee that backed the issue of a US$400 million sovereign social bond in
+         2020. The proceeds from the social bond were channeled through a group of local
+         financial institutions (banks, mutual entities, and cooperatives), which transformed
+         them into mortgage loans for both SIH and PIH.
+
+1.13     As of September 2025, the IDB guarantee catalyzed a cumulative mortgage
+         portfolio of US$950 million, mobilizing approximately US$650 million in private
+         resources and financing 13,575 loans in 155 cantons, with 48% of the beneficiaries
+         being women. The loans offered significantly better terms than the market:
+         maximum rates of 5% (vs. approximately 10%), terms of 20 to 25 years, and
+         downpayments as low as 5% (vs. ≥30%).
+
+1.14     One of the program’s main additionalities was the development of a replicable
+         financing structure for the housing sector, which did not previously exist in the
+         country and which strengthened the capacities of both the government and the
+         financial sector. The operation was executed through a mortgage portfolio
+         securitization mechanism that was unprecedented in Ecuador (paragraphs 2.2–2.4)
+         and has issued more than US$700 million in securities as of September 2025. This
+         has made it possible to recycle capital at the originators and generated continuous
+         liquidity for new loans, thus making the second stage of resource mobilization viable.
+         Accordingly, the foundations have been laid for a secondary mortgage market by:
+         (i) generating a significant volume of securities (US$714 million), which has
+         expanded the stock of these long-term investment assets in the country; and
+         (ii) creating a replicable securitization architecture (the program’s execution
+         framework) benefitting from standardized loan origination by the intermediary
+         financial institutions following specific criteria.
+
+1.15     In addition to the outcomes, a number of lessons learned were identified and
+         included in the design of this operation:
+
+         a. The IDB guarantee instrument plays a catalytic role in mobilizing private capital
+            and facilitating access to thematic markets. Operation 4699/OC-EC was the first
+            guarantee approved by the IDB in Ecuador and enabled the issue of the world’s
+            first sovereign social bond. Following this operation, two additional guarantee
+            operations were approved and successfully executed, thereby enabling the
+            country to access international capital markets and mobilize resources for
+            sustainability purposes through innovative financing structures.27 This also
+            created capacities at the Ministry of Economy and Finance (MEF) in terms of the
+            knowledge transferred for structuring and implementing this type of transaction
+            and for identifying the value added that this type of instrument can bring to the
+            country. This operation incorporates this lesson by utilizing the guarantee
+            instrument for resource mobilization to meet the identified sector need.
+
+         b. The IDB’s unique expertise in designing guarantee operations in the region
+            translates into more efficient financial structures for the countries. In this case,
+            the IDB’s experience will allow the country to include a loan (in addition to the
+            option of a sovereign bond as in the first operation) as an alternative sovereign
+            guaranteed instrument, which can generate financial efficiency gains and
+            better meet the transaction’s processing needs. Similarly, the IDB instrument’s
+
+27   See operations 5619/OC-EC and 5947/OC-EC.
+                                  - 11 -
+
+
+
+   growing recognition in international markets provides the country with
+   improved resource mobilization: while the first operation required a
+   US$300 million guarantee for a US$400 million sovereign issue, this operation
+   is expected to secure similar financing but with a smaller guarantee
+   (US$250 million).
+
+c. In the context of investment programs with financial intermediaries, the
+   combination of the investment guarantee instrument with an appropriate
+   financing and execution structure can enhance the capacity to mobilize
+   resources by generating two stages of mobilization. These interlinked stages
+   (paragraph 1.13) encourage capacity-building within the government and the
+   financial sector by transferring knowledge about the design and management
+   of innovative financial structures, among others (paragraph 1.29). This
+   operation includes this lesson through the choice of the same combination of
+   guarantee instrument plus execution framework based on mortgage
+   securitization to meet the sector need identified for the target population.
+
+d. The program design has the flexibility necessary to adapt to changing
+   conditions during execution in order to optimize its impact. In fact, during
+   execution of the previous operation, challenges were identified to address
+   lower-cost housing segments (SIH), to include a population that had been left
+   out of the eligible beneficiary population, and to avoid the concentration of
+   housing in large cities such as Quito and Guayaquil. Accordingly, during
+   operation execution, adjustments were made to the program Operating
+   Regulations to encourage the inclusion of lower-income households and
+   include the migrant (foreign) population and self-employed earners as eligible
+   beneficiaries. Initially planned to concentrate on PIH housing, the operation’s
+   expected scope was thus expanded to include beneficiaries that consisted of
+   46% SIH and 54% PIH as of September 2025. For this operation, mechanisms
+   are being explored for inclusion in the program Operating Regulations, through
+   the inclusion of parameters to limit the concentration in large cities and expand
+   the participation of SIH housing among the beneficiaries.
+
+e. The previous program has demonstrated that the designed execution
+   framework has been successfully implemented from a fiduciary point of view.
+   The fact that the management trust (paragraphs 2.2–2.4) is independent, has
+   an exclusive purpose, and also holds all the funds allocated to the program has
+   instilled confidence in real estate developers and financial institutions. In
+   addition, the eligibility requirements for intermediary financial institutions (see
+   program Operating Regulations) helped ensure effective execution of the
+   resources, and the design features a sound supervisory framework (external
+   auditors, risk rating agencies, the Superintendency of Banks, and
+   Superintendency of Companies and Securities). The program was thus able to
+   maintain a solid pace of disbursement, with the nonperforming loan ratio falling
+   within the expected range for this mortgage segment (5.2% as of September
+   2025) and yields on the mortgage-based securities issued being paid without
+   interruption. This lesson learned is included in this operation by preserving
+   these key elements within the execution structure in order to promote an
+   adequate execution of the trust’s resources and minimize risks.
+                                                    - 12 -
+
+
+
+1.16      Demand for affordable financing. It has been estimated that the quantitative
+          housing shortage in 2024 for middle-income households (paragraph 1.17) was
+          equal to 167,000 homes (paragraph 1.3). Assuming an average home value of
+          US$70,000 (equivalent to the average home value financed by the first social
+          bond), the financing needs to cover this deficit are equivalent to an estimated
+          US$11.7 billion.
+
+1.17      Beneficiaries. The operation’s direct beneficiaries are defined as middle-income
+          families, at the national level, with monthly incomes between 1.5 SBU and
+          6.34 SBU (equivalent in 2025 to US$700 and US$2,979, respectively).28 In
+          accordance with the IDB’s harmonized methodology for classifying income
+          segments in the region,29 this bracket corresponds primarily to the middle segment
+          of monthly household income.30 Indirect beneficiaries include: (i) the Ecuadorian
+          financial system, through a strengthened capacity for mortgage portfolio
+          origination and turnover;31 (ii) the construction sector, through greater activity
+          boosted by the expansion of solvent demand in traditionally underserved
+          segments; and (iii) society in general, through a reduction in the housing deficit
+          and in the negative effects associated with overcrowding and informal housing.
+
+1.18      Beneficiary selection criteria. Eligibility criteria will be set out in the operation’s
+          program Operating Regulations (paragraph 4.3). In addition, women will be
+          prioritized as loan holders or cobeneficiaries to ensure that at least 49% of the
+          loans benefit women and thus make progress in narrowing gender gaps in access
+          to financing, considering the context of demand.
+
+1.19      Expected project contribution. The program’s expected impact is the reduction of
+          the quantitative housing deficit in Ecuador. The program’s expected outcomes are:
+          (i) the direct mobilization of at least US$150 million through the issue of the Secured
+          Instrument; (ii) a mortgage portfolio volume of US$1 billion generated in the next five
+          years; (iii) interest rate ratio; (iv) terms; (v) better terms for downpayments than the
+          current system; (vi) number of new program-financed homes; and (vii) the
+          participation of women beneficiaries in at least 49% of the relevant portfolio.
+
+1.20      Economic analysis. A cost-benefit analysis was performed, monetizing two
+          effects: (i) the difference in value added in the construction and intermediation
+          chain, net of land, between the scenario with and without program; and (ii) the
+          difference in housing services (imputed income), valued using the rent-to-value
+          ratio in both scenarios. The costs relate to the present value of the program’s
+          disbursements/financial factors (issues/guarantee, operation, and other relevant
+
+
+28   It should be noted that 87% of the families that benefited from the previous program (more than 13,000
+     families nationwide; for this operation, the number of beneficiaries is expected to be similar, depending on
+     the macrofinancial context) were located within the range of 1.5 SBU to 5.3 SBU (US$700 to US$2,500 in
+     2025) in monthly household income.
+29   Optional link 3.[13]
+30   The IDB’s middle-income category ranges from US$750 to US$3,750 per month. For this calculation, a
+     household with 3.2 members was assumed, based on figures from the last census in 2022. The estimated
+     range in 2011 purchasing power parity is US$1,191 to US$5,952. A factor of 0.63 was used to calculate
+     the 2024 current dollar values, which was derived from the purchasing power parity conversion factor for
+     Ecuador for 2011 (0.51) and cumulative inflation through 2024 (approximately 23%). World Bank.
+31   Participating financial institutions will be banks, mutual entities, and cooperatives.
+                                                      - 13 -
+
+
+
+          costs). A net present value of US$234.19 million and an internal rate of return of
+          14.85% were achieved.
+
+                                      Figure 1. Theory of change summary
+
+
+
+
+B.        The Bank’s additionality
+
+1.21      Programmatic approach. This operation is part of a strategy by the IDB and the
+          Government of Ecuador to address the housing problem and housing deficit in the
+          country. This strategy has focused in the short and medium terms on providing
+          service based on a segmentation done using the income levels of the target
+          population,32 including populations living in extreme poverty, poverty, and the
+          lower-middle income, and middle income populations. In addition, each of these
+          segments requires solutions tailored to their specific needs in response to the
+          market failures (paragraph 1.5) relevant to each one, such as direct subsidies for
+          home purchases or improvements, bank loans for new or improved housing, etc.
+          Moreover, public or private stakeholders are involved in the interventions, such as
+
+32   The value chain study in optional link 3 [1], conducted with the main actors in the sector, identified that it was
+     necessary to segment service in the sector with new subsidy and loan products and actors, in addition to
+     strengthening the sector’s institutional and legal frameworks, and shifting toward resilient and sustainable
+     housing, etc.
+                                                    - 14 -
+
+
+
+          the Ministry of Infrastructure and Transportation (MIT), the Corporación Nacional
+          de Finanzas Populares y Solidarias (National Corporation for Popular and Solidarity
+          Finance) (CONAFIPS), mutual entities, cooperatives, and private banks, based on
+          the segment served or the type of solution provided.
+
+1.22      Complementarity with solutions for low-income populations. For the population living
+          in extreme poverty and poverty, who, due to their income levels cannot assume the
+          cost of financing, even under improved conditions, solutions based on direct
+          subsidies have been developed through operations 2797/OC-EC and 4788/OC-EC,
+          which address the quantitative housing deficit by delivering 100% subsidized
+          housing on land that the beneficiaries own. In addition to addressing the quantitative
+          deficit for the population living in extreme poverty, operation 5821/OC-EC also
+          focuses on the qualitative deficit through incentives to improve existing housing. For
+          the unbanked middle- and lower-middle income population belonging to the popular
+          and solidarity-based economy,33 access to financing has been facilitated through
+          global credit operation 5910/OC-EC, in which CONAFIPS channels funds through
+          mutual entities and savings and credit cooperatives to extend loans for new home
+          purchases and home improvement loans that address the qualitative deficit.
+
+1.23      Monitoring solutions for middle-income populations. The Bank has addressed the
+          needs of the middle-income bankable population using financial intermediation
+          solutions through guarantee operations such as operation 4699/OC-EC. This
+          operation builds on the achievements and lessons learned from the previous
+          guarantee to continue the IDB’s support in relation to the dearth of mortgage
+          financing to address the housing deficit in the target population. As it stands, the
+          previous operation has yielded significant results in improving the affordability of
+          financing for middle-income households (paragraph 1.13), in mobilizing private
+          resources (paragraph 1.13), and in building capacity, and in fostering market
+          development (paragraph 1.14). The operation was also highly relevant because it
+          stood as the main source of financing for a public program that accounts for a
+          significant percentage (17.8%) of the country’s mortgage portfolio
+          (paragraph 1.5)—a portfolio that could not be replaced by the traditional mortgage
+          lending segment, given the characteristics of the target population and the market.
+          It includes key lessons from the execution of the previous guarantee operation
+          regarding: the capacity of the instrument and financing structure to generate
+          access to capital markets and enhance resource mobilization; the design’s
+          flexibility to optimize the operation’s scope; and the execution framework’s
+          capacity to successfully perform from a fiduciary point of view (paragraph 1.15).
+
+1.24      Structural reforms. In 2020, in order to revitalize the housing sector, the IDB
+          conducted a comprehensive diagnostic assessment of the housing deficit and an
+          analysis of the housing value chain in Ecuador,34 proposing structural reforms in
+          terms of governance and institutional arrangements, diversification of subsidy
+          programs, and innovative financial products. In this line, the IDB has helped
+          strengthen the Government of Ecuador’s capacity through, for example, support
+          for the preparation of the national urban policy as a guiding instrument for the
+          government to establish a long-term vision and framework for action to guide
+
+33   A sector of the economy that includes a significant portion of the middle and lower-middle income population
+     and that has microenterprises or other forms of economic activity on a similar scale.
+34   Optional link 3.[17]
+                                                  - 15 -
+
+
+
+          development of the country’s cities and communities. Efforts also began to
+          strengthen the information of the housing supply and demand registry to enable
+          the monitoring of the housing actions carried out (Integrated System for Urban
+          Development and Housing Information).
+
+1.25      Closing the development gap in the country. The set of operations implemented
+          by the Bank in recent years in the housing sector (paragraphs 1.22-1.23) has
+          helped progressively close the housing gap in a coordinated manner. The
+          percentage of households with both quantitative and qualitative deficits fell
+          between 2010 and 2022. The quantitative deficit dropped from 18.9% in 2010 to
+          14.4% in 2022 (i.e. 4.5 percentage points lower over the last decade), while the
+          qualitative deficit was down 1.3 percentage points from 2010 (33.1% to 31.8%).35
+
+
+
+
+35   Source: National Statistics and Census Institute, Ecuador Census 2022 – National Technical Bulletin.
+                                                                        Figure 2. Timeline of Bank support
+
+
+
+                                                                                                                                          CCLIP – Housing Solutions for
+                                                                                                                                          Poor and Vulnerable Households
+                            CCLIP – Housing Solutions for Poor and                                                                        (EC-O0004)
+                            Vulnerable Households (EC-O0004)                                                                              Operation 2 – Housing Solutions
+                                                                                                                                          for Poor and Vulnerable
+                            Operation 1 – (4788/OC-EC)                                                                                    Households (5821/OC-EC)
+                            Address the quantitative and qualitative deficit with
+    Housing subsidies       partial and total subsidies for low-income
+                            households
+
+      Neighborhood                                                                                                                        CCLIP – Financing Housing
+      improvement                                                                                                                         Solutions for the Popular and
+                                                                                                                                          Solidarity Economy (EC-O0014)
+                                                      Guarantee – Financing Low-income
+ Home construction and                                Housing in Ecuador (4699/OC-EC)                                                     Operation 1 – (5910/OC-EC)
+    improvement                                                                                                                           Housing solutions through financing
+                                                      Addressing the quantitative deficit for the
+                                                                                                                                          for lower middle-income households
+                                                      middle-income population
+                                                                                                                                          CSD/HUD + IFD/CMF
+                                                      IFD/CMF + OSCE/HUD
+Municipal modernization
+
+
+
+
+    1997-2018                 2019                    2020                   2021                   2022       2023                2024                 2025
+
+                                                                            Housing value chain study                           Development of
+Institution-strengthening                                                                                   National Urban                        Evaluation of the theory
+                                                                            (ATN/FG-16735-EC)                                   sustainable
+                                                                                                            Policy (PUN)                          of change (RG-E1993)
+                                                                            CSDHUD + IFC/CMF + IDB Invest                       housing
+                                                                                                            Identifies          products
+                                                                                                            CONAFIPS as a       (ATN/OC-
+                                 Loan/guarantee operations                                                                                        Support for the
+                                                                                                            strategic partner   21651-EC)         sustainable development
+                                                                                                            for housing         and new housing
+                                 Technical-cooperation                                                                                            of housing and the urban
+                                                                                                            solutions           products
+                                 operations                                                                                                       sector in Ecuador
+                                                                                                                                                  (ATN/OC-21651-EC)
+1.26   Synergies with the private sector – Financial additionality. The operation’s
+       solution provides financial additionality in terms of private resource mobilization
+       and improved financial conditions for the supported mortgages compared to
+       existing market conditions. In addition, the IDB guarantee instrument opens up the
+       country’s access to international capital markets and thematic investors, which
+       expands the sources of financing available to the country. Indirectly, the expanded
+       supply of mortgages generated by the operation will provide a boost to the
+       country’s construction sector by including a previously excluded segment of
+       families in the market.
+
+1.27   In parallel to this operation, the Bank is strategically coordinating with IDB Invest
+       in the housing sector to identify opportnities for synergies. One potential area of
+       intervention for IDB Invest in Ecuador would be through support for the
+       construction sector and real estate developers to facilitate an increase in housing
+       supply, which would directly complement the demand component driving this
+       operation.
+
+1.28   Complementarity with other institutions. This operation complements the
+       efforts of other institutions such as the French Development Agency (AFD) and the
+       World Bank to address the housing deficit and improve urban habitats. In 2019,
+       operation 4788/OC-EC had parallel AFD cofinancing of US$80 million to address
+       the housing deficit for lower income populations. In addition, the AFD and World
+       Bank have approved operations with characteristics that complement the IDB’s
+       efforts. For example, in 2023, the World Bank approved a US$100 million project
+       aimed at addressing both the housing deficit and the quality of urban habitat for
+       low-income families, with improvements in infrastructure, public spaces,
+       sustainable material use, and emergency response mechanisms. The AFD has
+       allocated home loans of approximately US$30 million for the construction,
+       acquisition, and rehabilitation of safe, earthquake-resistant housing in areas
+       affected by the 2016 earthquake, with extended terms and technical requirements
+       that guarantee structural resistance. Despite addressing different aspects of the
+       sector’s problems, the three institutions share common technical standards in
+       sustainable and resilient housing, strategically use a combination of instruments
+       (technical cooperation funding, loans, guarantees), and maintain consistency in
+       social eligibility criteria (income, woman head of household, disability), which
+       facilitates synergies.
+
+1.29   Complementary support – Nonfinancial additionality. The proposed solution
+       provides nonfinancial additionalities that constitute a core element of this
+       operation’s value-added proposition. These include:
+
+       a. The issue supported by this operation will be joined by an update to the Social
+          Bond Framework for Affordable and Decent Housing developed for the first
+          operation. The update to the framework is expected to include a resilience
+          dimension in addition to the social dimension, which seeks to improve reporting
+                                                 - 18 -
+
+
+
+              on resource use in order to identify the operation’s scope to provide housing in
+              regions more vulnerable to climate change.36
+
+          b. Creating a resource execution framework for a public program focused on
+             mortgage securitization to maximize mobilization is an additionality that the
+             Bank offers to the country, entailing the transfer of a technical product.
+
+          c. Capacity-building for the Government of Ecuador takes place at two levels. On
+             one hand, the Bank’s experience with guarantee operations in Ecuador
+             expands the MEF’s experience in the structuring and financial execution of this
+             type of transaction in the capital markets. On the other hand, the previous
+             operation’s execution structure has involved the participation of public entities
+             such as the MEF, the Ministry of Infrastructure and Transportation (MIT),
+             Corporación Financiera Nacional, and CTH, thus enabling knowledge transfer
+             in the management of this type of structure.
+
+                              II. COSTS AND FINANCING STRUCTURE
+
+A.        Project components
+
+2.1       Single component (US$250 million) – Financing Affordable Housing in
+          Ecuador II. This component consists of the issue of an investment guarantee for
+          up to US$250 million (paragraph 2.5), which will be used to support the issue of a
+          sovereign debt instrument. The proceeds from this debt instrument will be
+          channeled to mortgages through intermediary financial institutions using an
+          execution framework developed for the operation (paragraph 2.4). The target is for
+          49% of the relevant portfolio to benefit women.
+
+B.        Dimensioning and financing structure
+
+2.2       The guarantee will be financed using the Bank’s Ordinary Capital resources. The
+          operation offers a financing structure that aims to enhance resource mobilization
+          while providing financial and sector additionalities to the country. This financing
+          structure comprises an IDB investment guarantee and a resource execution
+          framework centered on a mortgage securitization mechanism (Figure 3). This
+          structure will be implemented on top of the structure developed for operation
+          4699/OC-EC, which has generated significant value added for the country
+          (paragraphs 1.12–1.15).
+
+
+
+
+36   This resilience dimension does not entail additional eligibility requirements in the program Operating
+     Regulations, but rather focuses on expanding the reporting categories available to date in the previous
+     operation.
+                                                   - 19 -
+
+
+
+2.3       In a first stage, the investment guarantee (for up to US$250 million) will back the
+          issue of a sovereign debt instrument for at least US$400 million, enabling direct
+          private resource mobilization of at least US$150 million.37
+
+2.4       In a second stage, the proceeds from the Secured Instrument (US$400 million) will
+          be channeled to a management trust, which will use these funds to incentivize
+          mortgage        origination      under     affordable    terms    and       conditions
+          (program Operating Regulations) through participating intermediary financial
+          institutions within a framework for mortgage securitization. Under this mechanism,
+          intermediary financial institutions originate SIH/PIH mortgages under the affordability
+          conditions set out in the program Operating Regulations38 and transfer the portfolios
+          generated to private securitization trusts that issue mortgage-backed securities with
+          varying levels of risk. Higher risk securities will be purchased by the management
+          trust using resources from the IDB-backed sovereign instrument, while lower risk
+          securities may be sold to private investors or retained by the intermediary financial
+          institutions themselves. This mechanism allows the intermediary financial institutions
+          to transfer risks and at the same time release committed capital from their balance
+          sheets, which generates the additional mobilization of resources in the lower risk
+          tranches. Accordingly, the US$400 million channeled is expected to generate around
+          US$600 million in addition to the SIH/PIH mortgage portfolio, equivalent to an indirect
+          mobilization of the same amount, for an estimated total of US$1 billion39 in the new
+          mortgage portfolio.40
+
+
+
+
+37   The mobilization estimate is based on a US$250 million IDB guarantee of a US$400 million issue, whose
+     leverage effect—modeled on IDB and market rates—would reduce the cost of financing to manageable
+     levels under current market conditions. Contingent on market conditions, it is estimated that the guarantee
+     will generate savings for the country of 382 basis points (comparing the estimated cost of the Secured
+     Instrument (7.44%) to the cost of financing without the guarantee (11.28%)), which represents savings of
+     US$309 million in debt service or US$122 million in net present value. Since the operation is an investment
+     guarantee, the totality of resources will be devoted to financing the public housing program.
+38   The intermediary financial institutions themselves originate and service the loans to final beneficiaries
+     using their own risk assessment systems and processes.
+39   Projections are based on the results of operation 4699/OC-EC, the portfolio of which maintained strong
+     demand and stable performance even during the pandemic, which reinforces the viability and consistency
+     of the projections for this operation.
+40   Total mobilization = direct mobilization of additional private resources generated in the bond issue
+     (US$150 million, excluding the value of the guarantee) + indirect mobilization corresponding to the lower
+     risk tranches acquired by private investors or retained by the intermediary financial institutions
+     (US$600 million) = US$750 million.
+     Total mortgage portfolio = portfolio financed with bond proceeds through the management trust
+     (US$400 million) + additional portfolio generated by the lower risk tranches of the securitizations
+     (US$600 million) = US$1 billion.
+                                                     - 20 -
+
+
+
+                                          Figure 3. Financing structure
+
+
+
+
+      Source: Prepared by the authors. IDB (2025).
+
+
+C.    Financing instrument or modality
+
+2.5   The selected instrument is an investment guarantee, which will partially cover the
+      Republic of Ecuador’s obligations vis-à-vis the Secured Instrument creditors. The
+      investment guarantee will be for up to US$250 million from Ordinary Capital and
+      have a maximum term of 25 years and a maximum weighted average life of
+      15.25 years. The guarantee will bear the sovereign counterguarantee of the
+      Republic of Ecuador. The scale of the identified sector and financial needs
+      (paragraphs 1.3, 1.16) justify the need for a solution with resource mobilization
+      capacity. The investment guarantee instrument is the most appropriate choice
+      compared to other IDB financing modalities, since it combines a greater
+      mobilization effect with an efficient use of resources. With a guarantee of up to
+      US$250 million, at least US$150 million is expected to be directly mobilized in the
+      first stage of the financing structure (paragraph 2.3) and, thanks to the
+      US$400 million in financing generated by the guarantee, an additional amount of
+      approximately US$600 million is expected to be mobilized in the second stage of
+      mortgage securitization (paragraph 2.4), leading to a projected total mobilization
+      of US$750 million. This scale of total mobilization would not be possible without
+      the mobilization generated by the guarantee instrument in the first stage.
+                                                     - 21 -
+
+
+
+2.6       The operation’s program Operating Regulations are an integral part of the
+          financing structure, not only regulating resource governance and allocation but
+          also ensuring, through its requirements (paragraph 4.3), that all
+          program-supported loans have financial conditions that are more favorable than
+          market conditions, thus securing benefits for the target population.
+
+2.7       Terms and conditions of the counterguarantee. Prior to issuing the guarantee,
+          the Bank will enter into a sovereign counterguarantee agreement with Ecuador.
+          Among other matters, this agreement will stipulate that in the event that the Bank
+          needs to make a payment under the guarantee, the Bank will be reimbursed within
+          180 days for the amount paid. As of the date of the payment by the Bank, the total
+          amount to be reimbursed will accrue interest at the same rate applicable to
+          sovereign-guaranteed loans from the Bank’s Ordinary Capital and will be subject
+          to the applicable policies. A different repayment profile may be agreed on by the
+          Bank and the Republic of Ecuador, at the Bank’s discretion. Failure to pay the
+          counterguarantee is treated in the same way as defaults on sovereign guaranteed
+          loans.
+
+2.8       Noncompliance and remedies. The counterguarantee agreement will stipulate
+          that whenever the Bank has determined that there is a breach of integrity
+          requirements (determination of the existence of prohibited practices) in relation to
+          the program or noncompliance with the program agreed on with the Bank
+          (including the program Operating Regulations) or with any other obligation under
+          the counterguarantee agreement, then the Bank may make an advance
+          disbursement and deposit the amount of the guarantee with a third party for the
+          benefit of the secured creditor. Such advance disbursement terminates the
+          guarantee and triggers the sovereign repayment obligations under the
+          counterguarantee agreement (see footnote 43 of document GN-2729-2).
+
+                            III. MAIN RISKS AND MANAGEMENT STRATEGY
+
+A.        Risks
+
+3.1       Context risk. A medium-high context risk linked to the economic and financial
+          environment was identified.41 High macroeconomic and fiscal volatility in Ecuador
+          could lead to lower investor appetite for the Secured Instrument, which would
+          generate less favorable financial conditions for the operation. To mitigate this risk,
+          the MEF, with the IDB’s support, will coordinate with the placement agents on the
+          timing of issues in favorable market windows and will adjust the issue conditions
+          based on changes in the market.
+
+3.2       Project-specific risk.42 A medium-high risk related to the governance system was
+          identified. Delays in interagency coordination between the MEF, the MIT, and the
+          trust’s trustee could delay the timely implementation of disbursements and
+
+41   See optional link 9 for more details on the country’s macroeconomic context.
+42   The analysis of the MEF’s institutional capacity was updated during preparation of this operation and
+     identified areas for improvement relating to the institution’s staff turnover. In the operation’s risk analysis,
+     taking into account this guarantee’s particular execution structure, these areas for improvement were
+     considered to translate into a risk of coordination of the MEF with the mechanism’s other participants, as
+     described herein.
+                                                  - 22 -
+
+
+
+          securitization processes, which would have an impact on the operation’s
+          execution. To mitigate this risk, the IDB team will support the MEF during the
+          operation design process to design the most appropriate interagency coordination
+          mechanisms, which will include the assignment of a focal point at the MIT (of its
+          own designation) to coordinate matters relating to program execution with the
+          MEF.
+
+3.3       Integrity considerations. To strengthen program risk management and mitigate
+          potential reputational impacts on the IDB and the program, the IDB will include the
+          Bank’s applicable integrity and risk management mechanisms in the guarantee
+          contract and the counterguarantee agreement, as applicable.
+
+B.        Sustainability
+
+3.4       Sustainability of results and financial sustainability. As long as the country
+          faces challenging conditions in its macroeconomic, institutional, and social
+          environment, the Bank’s intervention remains justified because: (i) there are no
+          mechanisms that enable the private sector to provide adequate solutions without
+          public intervention and without compromising its financial and commercial viability
+          (paragraph 1.10); and (ii) there is a large-scale and significant development
+          problem (paragraph 1.3) affecting the target population, which has long-term
+          impacts on the country’s economic development and is not sufficiently addressed.
+          The structural and rigid nature of such distortions may mean that such solutions
+          are consistently required at different levels of magnitude in financial systems with
+          differing levels of development.43 With this in mind, elements can be identified in a
+          long-term horizon that favor the sustainability of results and financial sustainability
+          of a program such as this. These include consolidating mechanisms, capacities,
+          and incentives that remain in the system over time so that necessary interventions
+          such as this can contribute, in spite of the persistent magnitude of the
+          shortcomings, to leaving credit expansion mechanisms in place so that it continues
+          under commercial conditions with less dependence on public intervention. In
+          operational terms, while the loans are originated under intermediary financial
+          institutions’ risk models with amounts and terms calibrated to the ability to pay in
+          order to maintain sustainable installment-to-income ratios, they are expected to
+          generate payment histories and data that inform intermediary financial institutions’
+          risk models and reduce information asymmetries over time. In financial terms, the
+          program promotes the use of long-term financing through mechanisms such as
+          mortgage securitization, which is expected to contribute over time to the
+          development of secondary markets to gradually move from publicly supported
+          resources to market-based solutions. In institutional terms, it is key to continue
+          establishing common eligibility, origination, monitoring, and performance protocols
+          that standardize the affordable housing mortgage product and promote private
+          equity crowd-in.
+
+3.5       Scalability and replicability of results. The program design opens up clear
+          opportunities for scalability and replicability. At the country level, the experience
+          gained with this second social housing financing operation will make it possible to
+
+43   Models of public intervention through support for mortgage securitization frameworks that help mitigate
+     the risk of maturity mismatch exist at present even in advanced economies such as the United States. See
+     optional link 3.[18]
+                                                  - 23 -
+
+
+
+          expand the model to a larger number of households, diversifying financial
+          instruments and channels to meet different demand segments. At the regional
+          level, the use of a sovereign guarantee backed by a multilateral agency combined
+          with the fiduciary channeling of resources constitutes a proven structure that can
+          serve as a benchmark for other countries in the region facing similar challenges in
+          terms of access to affordable housing.
+
+C.        Environmental and social risks
+
+3.6       In accordance with the Environmental and Social Policy Framework (GN-2965-23),
+          the operation is classified as financial intermediation (FI) with a low environmental
+          and social risk rating. Based on the findings of the environmental and social due
+          diligence, the environmental and social impact of the eligible housing under the
+          program is anticipated to be Category C. Potential environmental and social
+          impacts associated with the program will be managed through an environmental
+          and social management system, which will be based on compliance with the IDB’s
+          exclusion list, local law, and additional eligibility and exclusion criteria, such as the
+          exclusion of Category A or B housing and housing with a substantial or high
+          environmental and social risk rating. The program’s environmental and social
+          requirements constitute the environmental and social management system, which
+          will be included in the program Operating Regulations.
+
+           IV. IMPLEMENTATION, MONITORING, AND EVALUATION ARRANGEMENTS
+
+A.        Summary of implementation arrangements
+
+4.1       Executing agency. The Republic of Ecuador will act as counterguarantor, and the
+          MEF will be the operation’s executing agency.
+
+4.2       Execution mechanism.44 The program Operating Regulations will govern all
+          aspects of executing the program’s financing structure (paragraph 2.1). The
+          proceeds of the Secured Instrument will go to the management trust, which will be
+          in charge of financial and operational management. Corporación Financiera
+          Nacional is expected to continue in its role as administrator of the management
+          trust and CTH45 in its role as master servicer of the securitization process, which it
+          has been carrying out since the previous operation. In this role, CTH will be in
+          charge of managing and supervising the mortgage securitization process, verifying
+          that it is carried out in accordance with the program Operating Regulations. It will
+          thus channel the proceeds from the Secured Instrument to the securitization trusts
+          on behalf of the management trust. Securitization trusts are private trusts set up
+          by the participating intermediary financial institutions in charge of securitizing the
+          intermediary financial institutions’ portfolios and transferring the liquidity and
+          securities resulting from this process to the intermediary financial institutions (more
+          details on the operation’s execution structure can be found in the
+          program Operating Regulations). The MEF will be responsible for program
+
+
+
+44   See optional link 8 for more details on the execution mechanism.
+45   CTH is a partially public-owned limited liability company.
+                                                 - 24 -
+
+
+
+          administration, control, and monitoring; in coordination with the MIT,46 it will
+          supervise performance of the management trust and will send to the IDB the
+          necessary monitoring reports and audits. The MEF will have a focal point at the
+          MIT (of the MIT’s own designation) to coordinate matters relating to program
+          execution.
+
+4.3       Program Operating Regulations. The program Operating Regulations will
+          govern the processes for administering and placing the proceeds from the Secured
+          Instrument, which include the transfer of the proceeds to the management trust
+          and the mortgage securitization process. The program Operating Regulations will
+          also govern the eligibility criteria for intermediary financial institutions (legal and
+          technical capacity, risk levels, liquidity, solvency, capital adequacy, etc.), housing
+          to be financed (maximum amounts, type of housing), and final beneficiaries
+          (maximum income) in order to guarantee proper use of the proceeds from the
+          Secured Instrument and allocation of thereof to the final beneficiaries. The program
+          Operating Regulations require all program-supported mortgages to comply with
+          the financial terms set out therein, which include: limits on amounts, maximum
+          interest rates, minimum loan terms, minimum downpayments, and maximum debt-
+          to-income ratios of the beneficiaries. This ensures that all mortgages under the
+          program include affordable financial terms for the beneficiaries. Although the
+          program Operating Regulations may be adjusted during the operation’s execution
+          in various ways that improve the operation’s scope, the key parameters
+          determining the affordability of the loans (and therefore, that the target population’s
+          needs are properly served) are the same as those present in the Ecuadorian public
+          regulations issued by Ecuador’s Financial Policy and Regulation Board and cannot
+          be modified without the Financial Policy and Regulation Board doing so. This
+          ensures that the program Operating Regulations and the program in general
+          always remain in line with the country’s key sector public policy objectives.
+
+4.4       Lessons learned for project implementation. In addition to the lessons learned
+          from the previous operation (paragraph 1.15), the program will implement the
+          following lessons learned from its experience in developing guarantee operations:
+          (i) rapid involvement and dialogue with the various stakeholders to ensure the
+          operation’s adequate technical and financial structuring, through constant dialogue
+          with the MEF, MIT, Corporación Financiera Nacional, and CTH; (ii) adaptation of
+          the IDB’s sovereign guarantee instrument to the country’s financial needs to
+          improve the expected mobilization of resources by dimensioning the guarantee
+          and using this execution structure; and (iii) the importance of setting up clear
+          fiduciary mechanisms that ensure transparent allocation of the operation’s
+          resources and at the same time instill the necessary confidence to facilitate
+          structured operations with the participation of private investors by maintaining the
+          key aspects of the execution framework that have been proven to generate optimal
+          results (paragraph 1.15). Lastly, lessons learned from large-scale programs that
+          have integrated gender targets in the relevant portfolio show that it is important to
+          consider that, in significant portfolio expansions (such as housing), gender gaps
+          tend to widen because segments with higher male participation are included, given
+          their higher levels of, inter alia, head of household status, formal employment, and
+          credit criteria. These lessons show the importance of maintaining the proportion of
+
+46   The MIT is the management trust’s settlor and the sector agency charged with overseeing that resources
+     are allocated in accordance with the public guidelines for SIH/PIH (program Operating Regulations).
+                                                - 25 -
+
+
+
+          women in portfolios and even improving it gradually, but with realistic and informed
+          gender targets.
+
+4.5       Special conditions precedent to issuance of the guarantee. Issuance of the
+          guarantee will be subject to the following conditions: (i) the Bank will have
+          negotiated and agreed to the terms of the guarantee contract; (ii) the Bank
+          will be satisfied with the structuring of the Secured Instrument and
+          associated documentation; (iii) the counterguarantee agreement entered
+          into by the Bank and the counterguarantor will have come into force on terms
+          acceptable to the Bank; and (iv) in connection with the program: (a) the
+          management trust will have been modified to include the execution of the
+          proceeds from the Secured Instrument; and (b) the program Operating
+          Regulations will have been approved and entered into force under terms
+          previously agreed on by the Bank and the Ministry of Economy and Finance.
+          Meeting these conditions is a requirement for the Bank to issue the guarantee, as
+          a means of ensuring due compliance with the project’s operational considerations.
+
+4.6       Fiduciary management considerations. Since this is a guarantee, no purchases
+          or payments will be made with project funds, so there are no associated fiduciary
+          procurement risks. Disbursements are contingent and would only be made in the
+          event of a default by the debtor in the payment of interest and/or principal to the
+          Secured Instrument creditors. Accordingly, the trust agreements are limited to the
+          provisions of the Operational Guidelines for Guarantee Instruments for Sovereign
+          Guaranteed Operations (GN-2729-4).
+
+4.7       Exceptions to Bank policies. A waiver will be requested of the rule contained in
+          footnote 37 of the Proposed Policy for a Flexible Guarantee Instrument for
+          Sovereign Guaranteed Operations (GN-2729-2), which states that IDB sovereign
+          guarantees will not cover debt acceleration. Accordingly, if the secured debtor
+          defaults on its obligations, the disbursements under the IDB guarantee will follow
+          the original repayment schedule of the Secured Instrument, regardless of its
+          acceleration. Accelerating the IDB guarantee would strengthen the structure of the
+          guarantee for the market and substantially improve the financial conditions of the
+          Secured Instrument for Ecuador.47 Two risks associated with this waiver have been
+          considered: (i) greater financial exposure, i.e. concentrated payments; and
+          (ii) distorted incentives, i.e. incentives to trigger the guarantee to secure more
+          beneficial repayment terms from the Bank. The exposure risk is considered low,
+          since the amount of the guarantee operation is not of such a volume so as to affect
+          the Bank’s balance sheet. Also considered low, the risk related to distorted
+          incentives will be mitigated through a short amortization period to be included in
+          the counterguarantee agreement to be entered into by the government and the
+          IDB. Any payment made by the IDB under the guarantee will be reimbursed by the
+          government within 180 days of the date of payment of the guarantee, although the
+          IDB, at its sole discretion, may agree to more flexible payment terms.48
+
+
+
+47   This waiver was requested and approved by the Bank’s Board of Execution Directors for the following
+     operations: 5568/OC-BA in 2022; 5619/OC-EC in 2022; 5819/OC-BH in 2023; and 5947/OC-EC and
+     5902/OC-BA in 2024.
+48   In accordance with paragraph 3.24 of the guarantee policy.
+                                      - 26 -
+
+
+
+B.    Implementation arrangements for monitoring and evaluation
+
+4.8   Monitoring and evaluation. Project execution will be monitored through the
+      semiannual progress reports submitted within 60 days of the end of each six-month
+      period. The reports will be based on the commitments of the Results Matrix
+      (Annex II) and the financial status reports. The semiannual progress reports will
+      include the updating and monitoring of the project information and the resources
+      allocated for this purpose, in accordance with the monitoring, evaluation, and
+      learning (MEL) plan. The MEF will be responsible for collecting and verifying the
+      information. For the program’s final evaluation, an ex post evaluation using a
+      before-and-after approach will analyze the program’s success in achieving its
+      outcomes measured through the outcomes indicators detailed in the program’s
+      Results Matrix.
+                                                                                                                                                    Annex I - EC-U0010
+                                                                                                                                                             Page 1 of 1
+
+
+
+                                                               Development Effectiveness Matrix
+                                                                                   Summary          EC-U0010
+I. Development Outcomes - Evaluability                                                                                       Evaluable
+1. Evidence-based Assessment & Solution                                                                                         7.5
+    1.1 Program Diagnosis                                                                                                       1.8
+    1.2 Proposed Interventions or Solutions                                                                                     1.9
+    1.3 Results Matrix Quality                                                                                                  3.8
+2. Ex ante Economic Analysis                                                                                                    8.0
+3. Monitoring and Evaluation                                                                                                    9.5
+    3.1 Monitoring Mechanisms                                                                                                   4.0
+    3.2 Evaluation Plan                                                                                                         5.5
+II. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                         Medium Low
+Environmental & social risk classification                                                                                      FI
+Evaluability Assessment Note (completed by SPD): The purpose of this note is to provide an overall assessment of the project's evaluability, as
+well as to ensure that the Board understands why scores were or were not given to the project.
+I. Quality of the diagnosis and proposed solutions
+The diagnosis identifies the quantitative housing deficit in Ecuador and quantifies its determinants, such as the scarcity of long-term funding and capital market
+limitations. The beneficiaries are defined by an income range in the operation proposal, and the selection criteria are detailed in the Operational Regulations,
+being generally consistent. The solution is based on the experience of a previous operation (4699/OC-EC). The economic analysis confirms the project's
+viability, including its resilience to schedule delays and variations in financing costs.
+
+The project's vertical logic articulates how the provision of financing will impact the creation of housing. An indicator has been incorporated that links financing
+with the number of new homes, allowing for the evaluation of results attribution. The program seeks to increase the supply of mortgage credit, with specific
+goals for resource mobilization and portfolio expansion.
+
+
+
+II. Quality of the Results Matrix
+The Results Matrix reflects the project's vertical logic, connecting outcomes with the expected impact. Indicators are included to measure key dimensions of
+affordability: rate, term, and down payment. The indicators have justified baselines and are SMART.
+
+
+
+
+III. Economic Analysis
+The Cost-Benefit Analysis (CBA) identifies and quantifies investment costs and economic benefits, including Value Added and imputed rent. The assumptions
+are documented. The analysis is consistent with the Results Matrix, aligning benefits with the targets in the Results Matrix. A pertinent sensitivity analysis is
+included, which is generally consistent with the project's Risk Matrix. The project demonstrates its viability in all scenarios.
+
+
+
+
+IV. Monitoring and Evaluation
+The Monitoring and Evaluation (MEL) Plan establishes a "before-and-after" evaluation methodology. The data sources are plausible. The plan includes annual
+planning of targets for the indicators, a schedule of monitoring activities, and a budget to finance the monitoring and evaluation activities.
+
+
+
+
+V.   Other evaluability topics to highlight (if applicable)
+                                                                                                                                              Annex II – EC-U0010
+                                                                                                                                                        Page 1 of 4
+
+
+                                                                        Results Matrix
+                                                         Statement of Project Development Objectives
+
+
+General development
+                           The general development objective is to help reduce the quantitative housing deficit in Ecuador.
+objective
+
+
+Specific development       The specific development objective is to expand affordable mortgages for middle-income households.
+objectives
+
+
+
+                                                               A.   General Development Objective
+
+                                                                Baseline            Evaluation scenario
+                                               Unit of     (pre-intervention)       (post-intervention)
+  No.                Indicator                                                                                                      Comments
+                                              measure                                        Expected year
+                                                            Value       Year      Target
+                                                                                               measured
+General development objective: to help reduce the quantitative housing deficit in Ecuador
+                                                                                                               This guarantee of the program will enable the
+                                                                                                               mobilization of resources to expand the supply of
+                                                                                                               mortgage financing in Ecuador. Since the loans will
+                                                                                                               be earmarked for new or first-time homes, the
+                                                                                                               purchase of these homes will help reduce the
+                                                                                                               quantitative dimension of the housing deficit in
+                                                                                                               Ecuador. The baseline takes into account information
+                                                                                                               from the National Survey of Employment,
+                                                                                                               Unemployment, and Underemployment (2024). The
+                                                                                                               target is calculated considering the inertial trend of
+         Quantitative housing deficit in     Thousands                                                         the quantitative housing deficit and the operation's
+  I.1                                                        647        2024        558           2030
+         Ecuador                              of homes                                                         contribution to reducing it. Accordingly, the trend
+                                                                                                               observed based on 2010, 2022, and 2024 data from
+                                                                                                               the 2010 and 2022 censuses and the 2024 National
+                                                                                                               Survey of Employment, Unemployment, and
+                                                                                                               Underemployment indicates that, if this rate
+                                                                                                               continues, the deficit will reach approximately 10.5%
+                                                                                                               (roughly 569,354 housing units) in 2030. Subtracting
+                                                                                                               the program's contribution of a decrease of 11,128
+                                                                                                               homes from the deficit results in a final target of
+                                                                                                               558,226 homes (see Table 2 of the MEL plan for
+                                                                                                               more details on the calculation).
+                                                                                                                                  Annex II – EC-U0010
+                                                                                                                                            Page 2 of 4
+
+
+                                                      B.     Specific Development Objectives
+
+                                                          Baseline              Evaluation scenario
+                                           Unit of   (pre-intervention)         (post-intervention)
+ No.              Indicator                                                                                               Comments
+                                          measure                                        Expected year
+                                                     Value          Year       Target
+                                                                                           measured
+Specific development objective: to expand affordable mortgages for middle-income households
+                                                                                                         This indicator will measure the direct
+                                                                                                         mobilization achieved by the investment
+                                                                                                         guarantee. It is measured as the total value
+                                                                                                         of guaranteed sovereign debt less the value
+       Direct mobilization of resources
+                                           US$                                                           of the IDB guarantee. Accordingly, a
+R1.1   obtained through the IDB                        0           2025         150            2030
+                                          millions                                                       US$250 million guarantee is expected to
+       guarantee
+                                                                                                         back a US$400 million debt instrument, so
+                                                                                                         the expected mobilization is US$150 million.
+                                                                                                         The baseline is 0 because this indicator
+                                                                                                         applies exclusively to new sovereign debt.
+                                                                                                         This indicator measures the value of the
+                                                                                                         mortgage portfolio generated by the
+                                                                                                         operation for the target population. The
+                                                                                                         baseline is equal to the value of the
+                                                                                                         mortgage portfolio managed by the trust
+                                                                                                         prior to the issuance of the guarantee
+                                                                                                         associated with the new operation. The
+                                                                                                         portfolio generated by the trust is considered
+                                                                                                         to be the relevant portfolio because the
+       Relevant portfolio supported by     US$                                                           participating intermediary financial
+R1.2                                                 1,044         2025        2,144           2030      institutions do not serve this sector outside
+       the operation                      millions
+                                                                                                         the framework provided by the program.
+                                                                                                         The program Operating Regulations will set
+                                                                                                         out the requirements regarding the financial
+                                                                                                         conditions (in terms of rates, terms, and
+                                                                                                         downpayments) that all loans to be
+                                                                                                         extended must meet to ensure improved
+                                                                                                         affordability conditions with respect to loans
+                                                                                                         extended under average market conditions
+                                                                                                         outside the program.
+
+       Ratio between the average                                                                         This indicator seeks to monitor the
+       interest rate of program-                                                                         affordability dimension of financing by
+R1.3   facilitated loans and the           Ratio      0.5          2025         0.5            2030      measuring the ratio between the average
+       benchmark interest rate for                                                                       interest rate of the loans facilitated by the
+       mortgages outside the program                                                                     relevant portfolio (see definition in section A
+                                                                                                         of the MEL plan) and the system's
+                                                                                                                           Annex II – EC-U0010
+                                                                                                                                     Page 3 of 4
+
+
+                                                        Baseline         Evaluation scenario
+                                         Unit of   (pre-intervention)    (post-intervention)
+No.              Indicator                                                                                         Comments
+                                        measure                                  Expected year
+                                                   Value        Year    Target
+                                                                                   measured
+                                                                                                 benchmark rate, outside the program. The
+                                                                                                 baseline is equal to the value of the average
+                                                                                                 rate of the loans facilitated by the first social
+                                                                                                 bond (4.99%) over the benchmark rate for
+                                                                                                 housing as of September 2025 (9.74%).
+                                                                                                 According to information provided by the
+                                                                                                 CTH, as of August 2025, the average term
+                                                                                                 of SIH/PIH loans was 288 months (24 years)
+       Ratio between the average term                                                            for the first operation granted under the first
+       of mortgages extended under                                                               social bond. With this as a reference, it is
+R1.4   the program and the reference     Ratio      1.2         2025     1.2          2030       divided by the maximum mortgage term
+       term of mortgages granted                                                                 identified outside the program (called the
+       outside the program                                                                       “reference term”), which is 20 years. The
+                                                                                                 numerator will be measured on the relevant
+                                                                                                 portfolio (see definition in section A of the
+                                                                                                 MEL plan).
+                                                                                                 Under the first social bond, the average ratio
+                                                                                                 of the downpayment for SIH and PIH loans
+                                                                                                 financed using social bond proceeds is
+                                                                                                 11.30%, calculated based on the ratio
+       Ratio of the average
+                                                                                                 between the commercial appraisal and the
+       downpayment for mortgages
+                                                                                                 original amount of each loan. Outside the
+R1.5   extended under the program to     Ratio     0.565        2025    0.565         2030
+                                                                                                 program, intermediary financial institutions
+       the reference downpayment for
+                                                                                                 require a minimum downpayment (called the
+       mortgages outside the program
+                                                                                                 “reference downpayment”) of 20% (11.3% ÷
+                                                                                                 20% = 0.565). The numerator will be
+                                                                                                 measured on the relevant portfolio (see
+                                                                                                 definition in section A of the MEL plan).
+                                                                                                 The baseline is 0 since this indicator
+       Number of new homes financed                                                              commences with this operation. For the
+R1.6                                    Number      0           2025    11,128        2030
+       under the program                                                                         target, an estimated total of 11,128 new
+                                                                                                 homes will be financed.
+                                                                                                                                       Annex II – EC-U0010
+                                                                                                                                                 Page 4 of 4
+
+
+                                                                        C.   Outputs
+
+                                                                             Baseline       Baseline
+    No.                     Indicator                Unit of measure                                    EOP value                Comments
+                                                                              value           year
+Single component
+                                                                                                                     This indicator measures the value of
+             Value of the guarantee to back
+   P1.1                                                  US$ millions            0           2025         250        the guarantee to back Ecuador's
+             Ecuador's sovereign debt instrument
+                                                                                                                     sovereign debt instrument.
+
+
+
+                                                    D.   Other Indicators of Crosscutting Themes
+
+                                                                        Baseline               Evaluation scenario
+                                                     Unit of       (pre-intervention)          (post-intervention)
+  No.                   Indicator                                                                                       Component          Comments
+                                                    measure
+                                                                    Value            Year      Target       Year
+Outcome indicators
+          Percentage of women beneficiaries
+                                                                                                                           Single           Pro-gender
+   T1     within the relevant portfolio supported        %              48           2025        49         2030
+                                                                                                                         component           indicator.
+          by the operation
+                                                                                 Annex III – EC-U0010
+                                                                                            Page 1 of 4
+
+
+
+ Country: Ecuador       Division: IFD/CMF        Project number: EC-U0010               Year: 2025
+
+                     FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+Executing agency: Ministry of Economy and Finance
+Program/project name: Financing Affordable Housing in Ecuador II
+Key execution considerations and fiduciary team requirements.
+
+ ☐   Cofinancing               N/A
+
+ ☐   Coexecuting /             N/A
+     subexecuting agencies
+
+ ☐   Projects with financial   N/A
+     intermediaries
+
+ ☐   Formation of the          N/A
+     technical team
+
+ ☒   Executing agency          The Republic of Ecuador will be the secured debtor and the
+                               MEF the executing agency of the operation. This investment
+                               guarantee will partially cover the Republic of Ecuador’s
+                               obligations vis-à-vis the creditors of the Secured Instrument
+                               (bond or loan).
+
+ ☒   Other topics              The proceeds from the Secured Instrument will be transferred
+                               to a public administration trust responsible for financial and
+                               operational management. This trust will channel the resources
+                               to the eligible intermediary financial institutions, which will be
+                               responsible for extending the mortgages to the final
+                               beneficiaries. The MEF will maintain the institutional
+                               relationship with the trust and monitor its performance,
+                               ensuring that execution is aligned with program objectives.
+                               Portfolio securitization mechanisms will also be implemented
+                               to generate additional liquidity and enhance the operation's
+                               impact. The resources requested under the investment
+                               guarantee will be used in accordance with the terms of the loan
+                               contract and the program Operating Regulations, which will
+                               also detail the corresponding fiduciary arrangements.
+                               The Bank will be notified by the secured creditors in the event
+                               of default. In such a situation, the IDB will make the
+                               corresponding payment of the guarantee, either directly to the
+                               creditor (in the case of a single creditor) or to the fiduciary agent
+                               of the representatives (in the case of multiple creditors).
+                                                                                  Annex III – EC-U0010
+                                                                                             Page 2 of 4
+
+
+                                    I.   FIDUCIARY CONTEXT
+
+  1. Country and sector context
+
+Maturity level of fiduciary systems.
+Financial management fiduciary system:
+- Budget, treasury, accounting, and reporting: Central government agencies included in the
+  General State Budget use the e-SIGEF integrated financial management system, which
+  comprises three subsystems. Based on the 2024 evaluation carried out using the Tool for
+  Determining the Level of Development and Use of Public Financial Management Systems
+  (GUS), it was concluded that these systems are reliable, aligned with international standards,
+  highly developed, and adequate to manage IDB-financed projects. The accounting and
+  reporting subsystem identifies and tracks financial transactions, ensures the traceability of
+  resources by funding source, and is aligned with International Public Sector Accounting
+  Standards. It was recommended that a code be assigned to classify expenditures by
+  component and to separate transactions by executing agency in projects with multiple
+  executing agencies in the organizational and sequential report. Generated from the budget,
+  treasury, and accounting modules, this report is the basis for the preparation of project
+  financial statements and facilitates the reconciliation thereof with e-SIGEF information.
+- Internal control: Under Ecuador’s constitution, the State Comptroller General’s Office (CGE)
+  controls the use of public resources in the state and private sector. It leads the administrative
+  control system, which includes internal and external audits and internal control, and issues
+  the corresponding regulations. The program will have mechanisms set out in the program
+  Operating Regulations that define the governance, planning, monitoring, evaluation, and
+  fiduciary processes (financial management and procurement) for its execution. In 2025, the
+  GUS guide for this subsystem will be applied to support CGE strengthening.
+- External control: Government agencies are subject to control and oversight by the CGE,
+  which may audit projects financed by multilateral development banks as per its annual audit
+  plan. However, it is not currently eligible to audit Bank-financed projects, so executing
+  agencies must contract independent Bank-eligible audit firms for reporting. In 2025, the GUS
+  guide for this subsystem will be applied to support CGE strengthening.
+Procurement management fiduciary system: Due to the nature of the operation, no procurement
+will be managed through any local system or regulation, and the Bank's procurement policies
+do not apply.
+     - Execution environment. Ecuador faces citizen insecurity and is highly exposed to
+        natural hazards (floods, landslides, earthquakes, and volcanic activity). These factors
+        impact the housing sector through direct damage to the housing stock and, indirectly,
+        through delays in construction, appraisals, and insurance in affected areas. Since this
+        is a financial intermediation operation, its direct exposure to these risks is limited; in
+        addition, the structural demand for housing sustains the capacity to channel resources
+        to the intended beneficiaries.
+     - Market complexity. The operation will take place against a backdrop of political
+        tensions and fiscal pressures that may affect investor confidence in the macroeconomic
+        stability and institutional capacity of the State. At the sector level, the financial system
+        perceives fragility in the real estate market due to the limited availability of affordable
+        mortgage financing for low-income but creditworthy households, which restricts solvent
+        demand. However, the operation mitigates these perceptions through a country-tested
+        IDB sovereign guarantee, and by offering resources to intermediary financial institutions
+        on more favorable terms than market conditions, it will encourage the placement of
+        affordable mortgages and reinforce program sustainability.
+                                                                                 Annex III – EC-U0010
+                                                                                            Page 3 of 4
+
+
+   2. Use of country system in the operation
+
+     Budget              Reports                  Information              National competitive
+                                                  system                   bidding (NCB)
+     Treasury            Internal audit           Shopping                 Other (system use at
+                                                                           executing agency was
+                                                                           validated)
+     Accounting          External control         Individual
+                                                  consultants
+
+   3. Executing agency capacity and performance level
+
+ During the operation’s design phase, the MEF's institutional capacity analysis was updated to
+ validate the executing agency's capacity to guarantee both the operation’s technical quality and
+ the quality of the trust's operational supervision. It was also corroborated that the execution
+ framework adopted for loan contract 4699/OC-EC is relevant to this operation and that the
+ fiduciary management of the resources through the public administration trust will be
+ maintained.
+ Since the guarantee consists of a contingent fund and not the management of resources or
+ procurements by the MEF using IDB funds, no fiduciary risks classified as medium-high or high
+ were identified.
+
+
+   4. Budget cycle and flow of funds
+
+ Programming         The Organic Code of Planning and Public Finances establishes the rules
+ and budget          governing the programming, preparation, approval, execution, control,
+                     evaluation, and liquidation of the budgets. These rules are applicable to the
+                     execution of Bank-financed programs in Ecuador and their application in
+                     the public sector is standardized through the e-SIGEF system.
+                     If the guarantee is triggered, the secured creditor may request the
+                     corresponding disbursement without the need for budget certification or a
+                     current investment project, since the contingent liability alone is triggered.
+ Flow of funds       If it is necessary to trigger the IDB guarantee, the designated representative
+                     for the bond creditors or the bank extending the loan, as appropriate, will
+                     directly request the IDB to disburse the resources. The IDB will transfer the
+                     requested amount as follows: (i) in the case of bonds, the resources will be
+                     deposited in a bank account with the sole purpose of managing the
+                     guarantee funds, which will be in the name of the representative of the
+                     creditors; and (ii) in the case of a loan, the resources will be transferred
+                     directly to the lending bank in the account defined by it for such purpose.
+
+
+   5. Risks affecting fiduciary function
+No fiduciary risks were identified.
+                                                                                 Annex III – EC-U0010
+                                                                                            Page 4 of 4
+
+
+                     II. CONSIDERATIONS FOR THE SPECIAL PROVISIONS
+
+Exceptions to           No exceptions are foreseen.
+fiduciary policies
+Special conditions      No special fiduciary conditions are foreseen.
+precedent to the
+first disbursement
+Exchange rate           This does not apply in Ecuador, since the legal tender is the U.S. dollar.
+Type of external        Given the nature of the operation and since the disbursement of funds
+audit                   by the IDB is contingent, audited financial reports of the project are not
+                        required.
+Other conditions        During the term of the guarantee, the counterguarantor will submit to the
+                        Bank an annual external audit of the public administration trust and the
+                        use of program resources within 120 days following the end of the
+                        financial year. On liquidation and termination of the trust, the external
+                        audit report will be submitted within 120 days of the termination date. The
+                        audit will be performed by an independent external audit firm acceptable
+                        to the Bank under previously agreed terms of reference. The trust will
+                        finance the cost of the audit.
+
+
+                         III. KEY PROCUREMENT CONSIDERATIONS
+
+The nature of the operation excludes procurements, and there is no component that has
+financing or expenditures other than the guarantee for bonds or loans. It is therefore concluded
+that there is no key procurement consideration to be regulated in this Annex III.
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                               PROPOSED RESOLUTION DE-__/25
+
+
+
+     Ecuador. ____/OC-EC. Guarantee for the Financing Affordable Housing in Ecuador II
+
+
+
+        The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contracts as may be necessary for the
+purpose of granting a guarantee to support the financing and implementation of the Guarantee
+for the Financing Affordable Housing in Ecuador II, which will have the Republic of Ecuador as
+counterguarantor. The guarantee shall be for the amount of up to US$250,000,000, chargeable
+to the resources of the Bank’s Ordinary Capital, on terms substantially as set forth in the Project
+Summary of the Guarantee Proposal.
+
+
+
+                               (Adopted on __ ____________ 2025)
+
+
+
+LEG/SGO/CAN/EZIDB0000366-263631146-22563
+EC-U0010
+

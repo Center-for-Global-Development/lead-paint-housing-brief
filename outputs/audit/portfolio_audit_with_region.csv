@@ -1,0 +1,68 @@
+project_id,institution,country,project_name,commitment_usd,n_docs_scanned,lead_paint_hits,classifications_found,verdict,region
+50022-002,ADB,Uzbekistan,Affordable Rural Housing Program,500000000,2,0,,absent,Europe & Central Asia
+P505746,World Bank,Pakistan,Sindh Flood Emergency Housing Reconstruction Project,450000000,0,0,,no-docs,South Asia
+55307-001,ADB,Bangladesh,Improving Urban Governance and Infrastructure Program,301000000,7,0,,absent,South Asia
+XI-IATI-IADB-EC-U0001,IDB,Ecuador,FINANCING LOW-INCOME HOUSING IN ECUADOR,300000000,22,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-PE-L1293,IDB,Peru,Program to promote Social Housing in Peru,300000000,7,0,,absent,Latin America & Caribbean
+58122-001,ADB,Armenia,Transformative Housing Reforms for Improved Vitality and Empowerment,266450000,6,0,,absent,Europe & Central Asia
+P508310,World Bank,Armenia,Armenia Housing Response and Mortgage Market Enhancement Project,250000000,12,5,"hazard, testing",testing-commitment,Europe & Central Asia
+XI-IATI-IADB-EC-U0010,IDB,Ecuador,Financing Low-Income Housing in Ecuador II,250000000,4,0,,absent,Latin America & Caribbean
+55201-001,ADB,Bangladesh,Coastal Towns Climate Resilience Project,250000000,15,0,,absent,South Asia
+P513953,World Bank,El Salvador,"Housing Opportunity: Governance, Affordability, Reform in El Salvador",230000000,1,0,,absent,Latin America & Caribbean
+49169-002,ADB,Mongolia,Ulaanbaatar Green Affordable Housing and Resilient Urban Renewal Sector Project,225000000,12,0,,absent,East Asia & Pacific
+P181251,World Bank,Western and Central Africa,Financial Inclusion for Households and MSMEs in the WAEMU,205000000,11,0,,absent,Sub-Saharan Africa
+P507999,World Bank,Cameroon,"Cameroon Finance for Jobs, Inclusion and Growth",200000000,1,0,,absent,Sub-Saharan Africa
+P512529,World Bank,Brazil,Promoting Sustainable Housing in Brazil Project,200000000,4,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-AR-L1179,IDB,Argentina,Neighborhood Improvement Program Third Individual Operation,200000000,27,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-ME-L1167,IDB,Mexico,Project to Address Social and Basic Services Gaps in Urban Areas,200000000,10,0,,absent,Latin America & Caribbean
+39295-013,ADB,Bangladesh,Third Urban Governance and Infrastructure Improvement (Sector) Project,200000000,7,0,,absent,South Asia
+44318-023,ADB,Uzbekistan,Housing for Integrated Rural Development Investment Program - Tranche 1,200000000,2,0,,absent,Europe & Central Asia
+44318-025,ADB,Uzbekistan,Housing for Integrated Rural Development Improvement Program - Tranche 2,200000000,1,0,,absent,Europe & Central Asia
+51348-001,ADB,Uzbekistan,Mortgage Market Sector Development Program,200000000,6,0,,absent,Europe & Central Asia
+56182-001,ADB,China,Chongqing Gaoxin District Green and Low-Carbon Urban Development Program,195381600,3,0,,absent,East Asia & Pacific
+58135-001,ADB,Kazakhstan,Promoting Inclusive and Green Housing Finance Project,193948794,2,0,,absent,Europe & Central Asia
+53080-001,ADB,China,Heilongjiang Green Transformation Demonstration Project and Program,193000000,9,0,,absent,East Asia & Pacific
+P512540,World Bank,Brazil,Fortaleza Urban and Fiscal Sustainability Development Policy Loan,177193472,2,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-ES-L1172,IDB,El Salvador,Comprehensive Program for Urban Regeneration and Sustainable Revitalization of the Municipal Markets in Santa Tecla and La Libertad,170000000,5,0,,absent,Latin America & Caribbean
+49430-006,ADB,Mongolia,Aimags and Soums Green Regional Development Investment Program - Tranche 1,168200000,10,0,,absent,East Asia & Pacific
+XI-IATI-IADB-AR-L1361,IDB,Argentina,Urban Social Integration and Housing Improvement Program,150000000,10,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-AR-L1341,IDB,Argentina,Barrio Improvement Program,150000000,11,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-BR-L1588,IDB,Brazil,State Housing Program - State of Paran - Vida Nova Project,150000000,11,0,,absent,Latin America & Caribbean
+53067-004,ADB,India,"Inclusive, Resilient, and Sustainable Housing for Urban Poor Sector Project in Tamil Nadu",150000000,3,0,,absent,South Asia
+51348-005,ADB,Uzbekistan,Mortgage Market Sector Development Program,150000000,3,0,,absent,Europe & Central Asia
+XI-IATI-IADB-BR-L1520,IDB,Brazil,STATE PROGRAM TO SUPPORT URBAN DEVELOPMENT AND MUNICIPAL INFRASTRUCTURE IMPROVEMENTS: PARAN URBANO III,118370100,20,0,,absent,Latin America & Caribbean
+P512660,World Bank,Croatia,Croatia Disaster Preparedness and Resilience Development Policy Loan with a Catastrophe Deferred Drawdown Option (Cat DDO),115700000,3,0,,absent,Europe & Central Asia
+XI-IATI-IADB-AR-L1288,IDB,Argentina,Social and Urban Integration Program in Greater Buenos Aires,100000000,18,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-BR-L1497,IDB,Brazil,Vitria Urban Improvement and Citizen Security Program (First Stage of the Sustainable Vitria Action Plan),100000000,42,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-PN-L1154,IDB,Panama,Comprehensive urban urban development program with tourist vocations,100000000,58,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-PR-L1152,IDB,Paraguay,HOUSING AND REHABILITATION PROGRAM FOR BAADO SUR IN ASUNCIN,100000000,28,0,,absent,Latin America & Caribbean
+52334-001,ADB,Kazakhstan,Promoting Gender Equality in Housing Finance Project,100000000,3,0,,absent,Europe & Central Asia
+44318-026,ADB,Uzbekistan,Housing for Integrated Rural Development Investment Program - Tranche 3,100000000,0,0,,no-docs,Europe & Central Asia
+P178986,World Bank,Eastern and Southern Africa,"Africa Green, Resilient and Inclusive Housing De-Risking (GRIHD) Facility",95000000,8,6,hazard,hazard-identified,Sub-Saharan Africa
+XI-IATI-IADB-EC-L1245,IDB,Ecuador,First individual operation under the CCLIP Housing Solutions for poor and vulnerable households,93900000,23,0,,absent,Latin America & Caribbean
+P510438,World Bank,Ukraine,Housing Repair for People's Empowerment Project  (HOPE),84000000,0,0,,no-docs,Europe & Central Asia
+46094-001,ADB,Indonesia,Neighborhood Upgrading and Shelter Project (Phase 2),74400000,3,0,,absent,East Asia & Pacific
+XI-IATI-IADB-EC-L1290,IDB,Ecuador,Financing of Housing Solutions for the Popular and Solidarity Economy Population (EPS),70000000,12,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-UR-L1146,IDB,Uruguay,Neighborhood Improvement Program III,70000000,26,0,,absent,Latin America & Caribbean
+45007-005,ADB,Mongolia,Ulaanbaatar Urban Services and Ger Areas Development Investment Program - Tranche 2,66350000,6,0,,absent,East Asia & Pacific
+58345-001,ADB,Kyrgyz Republic,Enhancing Housing Finance for Affordable and Energy-Efficient Housing Project,65000000,4,0,,absent,Europe & Central Asia
+XI-IATI-IADB-UR-L1188,IDB,Uruguay,Program for the Social and Urban Integration in Uruguay,60000000,8,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-BR-L1596,IDB,Brazil,ProMorar Brasil - Promotion of New Housing Strategies in Brazil for Low-income Population,54055925,10,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-AR-L1306,IDB,Argentina,Social and Urban Integration Program,50000000,18,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-ES-L1165,IDB,El Salvador,"Financing Program for Sustainable, Inclusive, Low-income Housing",50000000,7,0,,absent,Latin America & Caribbean
+45007-004,ADB,Mongolia,Ulaanbaatar Urban Services and Ger Areas Development Investment Program - Tranche 1,50000000,2,0,,absent,East Asia & Pacific
+49430-005,ADB,Mongolia,Aimags and Soums Green Regional Development Investment Program,48000000,2,0,,absent,East Asia & Pacific
+45007-009,ADB,Mongolia,Ulaanbaatar Urban Services and Ger Areas Development Investment Program - Tranche 3,44650066,6,0,,absent,East Asia & Pacific
+37919-014,ADB,Philippines,PHI: NHMFC&apos;s DISPOSAL OF NON-PERFORMING LOANS,33000000,1,0,,absent,East Asia & Pacific
+P500611,World Bank,Serbia,Second Real Estate Management Project,32500000,13,0,,absent,Europe & Central Asia
+XI-IATI-IADB-TT-L1056,IDB,Trinidad and Tobago,Urban Upgrading and Revitalization Program,32500000,19,0,,absent,Latin America & Caribbean
+P512048,World Bank,Pakistan,Integrated Flood Resilience and Adaptation Project,32000000,0,0,,no-docs,South Asia
+XI-IATI-IADB-PR-L1082,IDB,Paraguay,Improvement of Housing and Habitat,30000000,34,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-SU-L1067,IDB,Suriname,Strengthening Spatial Planning and Environmental Management in Suriname,30000000,6,0,,absent,Latin America & Caribbean
+54355-001,ADB,Bhutan,Green and Resilient Affordable Housing Sector Project,30000000,9,0,,absent,South Asia
+P510584,World Bank,Maldives,Maldives Fire Reconstruction and Building Resilience Emergency Project,20000000,4,0,,absent,South Asia
+P505490,World Bank,Belize,Belize  Development Policy Credit with a Catastrophe Deferred Drawdown Option,20000000,3,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-TT-L1057,IDB,Trinidad and Tobago,Urban Upgrading and Revitalization Program,17500000,17,0,,absent,Latin America & Caribbean
+XI-IATI-IADB-BL-L1046,IDB,Belize,Sustainable and Inclusive Urban Development Program,10000000,16,0,,absent,Latin America & Caribbean
+41914-014,ADB,Maldives,MLD: EQUITY INVESTMENT AND LOAN TO THE HOUSING DEVELOPMENT FINANCE CORPORATION,7500000,2,0,,absent,South Asia
+47127-002,ADB,Myanmar,Mandalay Urban Services Improvement Project,4000000,3,0,,absent,East Asia & Pacific

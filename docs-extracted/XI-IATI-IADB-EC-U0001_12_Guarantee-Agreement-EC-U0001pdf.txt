@@ -1,0 +1,2016 @@
+                                                             Execution Version
+
+
+
+
+                           PARTIAL CREDIT GUARANTEE
+
+
+
+                                       among
+
+
+
+                       INTER-AMERICAN DEVELOPMENT BANK,
+
+                                    as Guarantor,
+
+
+
+                         THE BANK OF NEW YORK MELLON,
+
+                             as Trustee and Registrar, and
+
+
+
+                 THE BANK OF NEW YORK MELLON, LONDON BRANCH,
+
+                                   as Paying Agent
+
+
+
+                             Dated as of January 30, 2020
+
+
+
+
+US-DOCS\110126563.28
+                                                TABLE OF CONTENTS
+
+Article I DEFINITIONS AND INTERPRETATION......................................................................3
+
+   Section 1.01              Definitions................................................................................................... 3
+   Section 1.02              Interpretation ............................................................................................... 8
+   Section 1.03              Business Day Adjustment ........................................................................... 9
+   Section 1.04              Absence of Rights of Third Parties ............................................................. 9
+
+Article II PARTIAL CREDIT GUARANTEE ................................................................................9
+
+   Section 2.01              Establishment of Guarantee ........................................................................ 9
+   Section 2.02              Conditions Precedent to Effectiveness...................................................... 10
+   Section 2.03              Guarantee Payments.................................................................................. 11
+   Section 2.04              Method of Guarantee Payments ................................................................ 11
+   Section 2.05              Reinstatement of Maximum Guaranteed Amount .................................... 12
+   Section 2.06              Continuing Obligation; Status of Guarantee ............................................. 12
+   Section 2.07              Waiver of Defenses ................................................................................... 12
+   Section 2.08              Subrogation ............................................................................................... 12
+   Section 2.09              Guarantor Events of Default and Guarantee Acceleration ....................... 13
+   Section 2.10              Termination Events ................................................................................... 14
+   Section 2.11              IDB Right to Purchase .............................................................................. 15
+   Section 2.12              Bail-in ....................................................................................................... 16
+
+Article III MISCELLANEOUS .....................................................................................................17
+
+   Section 3.01              Notices ...................................................................................................... 17
+   Section 3.02              Governing Law; Dispute Resolution ........................................................ 17
+   Section 3.03              Language ................................................................................................... 19
+   Section 3.04              Waiver of the Guarantor Security ............................................................. 19
+   Section 3.05              Waiver of Trial by Jury ............................................................................. 19
+   Section 3.06              Scope of Guarantor’s Immunity................................................................ 20
+   Section 3.07              Amendments, Modifications, Etc. ............................................................ 20
+   Section 3.08              Entire Agreement ...................................................................................... 20
+   Section 3.09              Successors and Assigns............................................................................. 21
+   Section 3.10              Severability ............................................................................................... 21
+   Section 3.11              Counterparts .............................................................................................. 21
+   Section 3.12              Saving of Rights; Waivers and Remedies ................................................. 21
+   Section 3.13              Not an Insurance Product .......................................................................... 22
+   Section 3.14              Trustee, Registrar, Paying Agent. ............................................................. 22
+
+
+Schedule I        Maximum Guaranteed Notes Amount
+
+Exhibit A         Demand Notice
+Exhibit B         Form of Escrow Agreement
+
+
+
+US-DOCS\110126563.28
+        This PARTIAL CREDIT GUARANTEE (this “Guarantee”), dated as of January 30,
+2020, is entered into by the INTER-AMERICAN DEVELOPMENT BANK, an international
+organization established by the Agreement Establishing the Inter-American Development Bank
+among its member countries (the “Guarantor”); THE BANK OF NEW YORK MELLON, not in
+its individual capacity but solely as Trustee and Registrar under the Indenture (as defined below);
+and THE BANK OF NEW YORK MELLON, LONDON BRANCH, as Paying Agent under the
+Indenture.
+
+                                           WHEREAS
+
+        (A)     The Guarantor aims to enhance financing of sovereign loans and bonds through
+partial credit guarantees counter-guaranteed by the borrowing sovereign;
+
+      (B)     The Republic of Ecuador (the “Republic”) has asked for the assistance of the
+Guarantor in financing the Program to Finance Social Housing in Ecuador (EC-U0001) (the
+“Program”);
+
+       (C)     Pursuant to the Trust Indenture, dated as of January 30, 2020, between, inter alios,
+the Republic, the Guarantor, the Trustee, the Registrar and the Paying Agent (the “Indenture”),
+the Republic will issue four hundred million U.S. Dollars (US$400,000,000) in aggregate principal
+amount of its 7.25% Fixed Rate Senior Partially Guaranteed Notes due 2035 (the “Notes”). The
+Notes will initially be issued in global form (such Notes while in global form being “Global
+Notes”), as specified in the Indenture and the Terms. Subsequently, any holder of an interest in
+Global Notes may exchange some or all of its interest in Global Notes for Notes in definitive form,
+in which case the principal amount of the Global Notes shall be written down by the Trustee and
+Notes in definitive form shall be issued (such Notes in definitive form being “Definitive Notes”);
+
+        (D)     The Guarantor has agreed to guarantee to the Trustee (for the benefit of the
+Guaranteed Holders), on the conditions set forth in this Guarantee, each payment of scheduled
+interest and scheduled principal on the Notes, up to the Maximum Guaranteed Amount (as defined
+below);
+
+       (E)    The Guarantor and the Republic have entered into a Contract for Contingent
+Reimbursement (Contrato de Reembolso por Contingencia), dated as of December 12, 2019 (the
+“Counter-Guarantee Agreement”), which provides, among other matters, for the Republic to
+reimburse the Guarantor for any amounts paid by the Guarantor under this Guarantee;
+
+        (F)     The Guarantor has entered into an Escrow Agreement, dated as of January 30, 2020,
+with, inter alios, the Escrow Agent (the “Escrow Agreement”), which provides for, among other
+things, the establishment of escrow arrangements relating to amounts paid by the Guarantor
+following the occurrence of an Early Disbursement Event (as defined below); and
+
+       (G)      The Guarantor is authorized to issue partial credit enhancements, and is willing,
+pursuant to the terms and conditions of the Counter-Guarantee Agreement, and in consideration of
+the payment and reimbursement obligations of the Republic contained in the Counter-Guarantee
+Agreement, to issue this Guarantee with respect to the Notes.
+
+
+
+                                                2
+US-DOCS\110126563.28
+        NOW, THEREFORE, for good and valuable consideration, the receipt and adequacy of
+which are hereby acknowledged, the acceptance hereof by the Trustee (acting pursuant to the
+authority granted in the Indenture) constitutes evidence of such agreement.
+
+                                        ARTICLE I
+                             DEFINITIONS AND INTERPRETATION
+
+        Section 1.01 Definitions
+
+        Capitalized terms used but not defined in this Guarantee shall have the meanings set forth
+in the Indenture. The following capitalized terms used in this Guarantee shall have the following
+meanings:
+
+        “Applicable Law” means any statute, law, treaty, convention, regulation, ordinance, rule,
+judgment, order, decree, grant, franchise, concession, agreement, directive, permit, authorization,
+license, requirement or any form of decision of or determination by, or any interpretation or
+administration of any of the foregoing that has the effect of law with respect to any Person by, any
+Authority, whether now or hereafter in effect, including any of the foregoing relating to money
+laundering or terrorism.
+
+         “Approved Assignee” means The Goldman Sachs Group, Inc., any affiliate of Goldman
+Sachs or any trust, funding facility or vehicle or another bank, insurance company or financial
+institution which is regularly engaged in or established for the purpose of making, purchasing or
+investing in securities or other financial assets or acting as a trustee or fiduciary in relation thereto,
+and in each case such entity:
+
+      (a)     is not a party sanctioned pursuant to a decision of the United Nations Security
+Council taken under Chapter VII of the Charter of the United Nations; and
+
+        (b)     is not a firm, individual, parent company, subsidiary, or previous form of
+organization constituted by or with any of the same individual(s) as principal(s) declared ineligible
+by the Guarantor; in accordance with its sanctions procedure, or declared ineligible by another
+international financial institution and subject to agreements that the Guarantor may have for the
+mutual       enforcement         of     sanctions,      and     listed      in      the      website
+https://www.iadb.org/en/transparency/sanctioned-firms-and-individuals.
+
+         “Authority” means any nation or any supranational, national, regional or local government
+or any other political subdivision thereof, any governmental, administrative, arbitral, regulatory,
+fiscal, judicial or government-owned body, department, commission, authority, tribunal, agency,
+central bank (or any Person, whether or not government-owned and howsoever constituted or
+called, that exercises the functions of a central bank) or other entity of any kind exercising
+executive, legislative, judicial, regulatory or administrative functions of or pertaining to
+government.
+
+         “Bail-in Legislation” means in relation to a Member State of the European Economic Area
+which has implemented, or which at any time implements, the BRRD, the relevant implementing
+law, regulation, rule or requirement as described in the EU Bail-in Legislation Schedule from time
+to time.
+
+                                                    3
+US-DOCS\110126563.28
+        “Bail-in Powers” means any Write-down and Conversion Powers as defined in relation to
+the relevant Bail-in Legislation.
+
+        “BRRD” means Directive 2014/59/EU, establishing a framework for the recovery and
+resolution of credit institutions and investment firms.
+
+       “BRRD Liability” has the same meaning as in such laws, regulations, rules or
+requirements implementing the BRRD under the applicable Bail-in Legislation.
+
+       “BRRD Party” means The Bank of New York Mellon, London Branch or any substitute
+Paying Agent, as it is subject to Bail-in Powers.
+
+        “Business Day” means any day except a Saturday, Sunday or other day on which
+commercial banks in London, the City of New York or Quito, Ecuador are required or authorized
+by law to be closed.
+
+       “Collection Account” means the Initial Collection Account, or such other replacement
+Collection Account as may be notified by the Trustee to the Guarantor, provided that the Collection
+Account shall be an Eligible Account and, if any Collection Account (whether the Initial Collection
+Account or a replacement Collection Account) ceases to be an Eligible Account, the Trustee shall
+promptly notify the Guarantor of a replacement Collection Account.
+
+        “Counter-Guarantee Agreement” has the meaning set forth in the recitals.
+
+        “Demand Notice” means a notice in writing from the Trustee to the Guarantor
+(a) notifying the Guarantor of any principal and/or interest which was due and payable on a
+Payment Date but remains unpaid and (b) constituting a demand by the Trustee on the Guarantor
+for payment pursuant to this Guarantee, in the form set forth in Exhibit A hereto.
+
+        “Early Disbursement Event” means any of the following:
+
+        (a)      the Republic does not pay (directly or indirectly) any amounts owed by the
+                 Republic to the Guarantor under the Counter-Guarantee, provided that any such
+                 delay has not been cured within sixty (60) days;
+
+        (b)      the Guarantor determines in its sole discretion in accordance with its sanctions
+                 procedures that any employee, agent or representative of the Republic has, in
+                 connection with the implementation of the Program engaged in fraudulent, corrupt,
+                 coercive or collusive practices;
+
+        (c)      the Guarantor determines in its sole discretion that (x) any employee, agent or
+                 representative of the Republic has breached the Guarantor’s environmental and
+                 social policies, as such policies are reflected in the ROP, and (y) corrective action
+                 plans in relation to such breaches have not been implemented in a reasonable time;
+                 or to the satisfaction of the Guarantor;
+
+        (d)      the Guarantor determines in its sole discretion that the Republic has breached one
+                 or more obligations set forth in the Counter-Guarantee Agreement or the ROP; or
+
+                                                   4
+US-DOCS\110126563.28
+        (e)      withdrawal or suspension of the Republic from membership in the Guarantor,
+                 provided this circumstance continues for more than sixty (60) days.
+
+       “Effective Date” means the date on which all the conditions set forth in Sections 2.02
+below have been satisfied.
+
+         “Eligible Account” means a bank account held with an institution of the United States’
+financial system, so long as such institution has a credit rating in its capacity as a financial
+institution equal to A-1 or better by Standard & Poor’s Ratings Services, Inc., P-1 or better by
+Moody’s Investors Service, Inc., or F-1 or better by Fitch Ratings Inc. or an equivalent rating by
+an equivalent rating agency in New York, New York.
+
+        “Escrow Agent” means The Bank of New York Mellon, in its capacity as escrow agent
+under the Escrow Agreement.
+
+        “Escrow Agreement” has the meaning set forth in the recitals.
+
+        “EU Bail-in Legislation Schedule” means the document described as such, then in effect,
+and published by the Loan Market Association (or any successor person) from time to time at
+http://www.lma.eu.com/.
+
+        “Event of Default” has the meaning set forth under the Indenture.
+
+        “Guarantee” has the meaning set forth in the preamble.
+
+        “Guarantee Acceleration” has the meaning set forth in Section 2.09.
+
+      “Guarantee Escrow Account” means the escrow account in New York created in the
+name of the Escrow Agent, for the benefit of the Guaranteed Holders, pursuant to the Escrow
+Agreement.
+
+       “Guarantee Payment” means any payment made by the Guarantor under this Guarantee,
+including payments made in accordance with Section 2.03(a) and 2.10(a)(ii) and (b) hereof. Any
+Guarantee Payment made by IDB shall be made in accordance with New York law. The Guarantee
+Payments will be made from a bank account of the Guarantor that is, as of the date of this
+Guarantee, located in New York, or in any other location as the Guarantor may subsequently
+determine in its sole discretion.
+
+       “Guarantee Payment Event” means the Republic’s failure to pay, or cause to be paid, a
+Scheduled Payment Amount (or portion thereof) on the applicable Payment Date, provided that
+such event will only constitute a Guarantee Payment Event on the date on which the five (5)
+Business Day grace period applicable to such non-payment (to the extent applicable) has expired.
+
+         “Guaranteed Holders” means, from time to time and subject to Section 3.09, Holders that
+hold a beneficial interest in the Notes in the form of Global Notes, it being understood that the
+initial Guaranteed Holder will be Ecuador Social Bond S.à r.l..
+
+        “Guarantor” has the meaning set forth in the preamble.
+
+
+                                                5
+US-DOCS\110126563.28
+       “Guarantor Event of Default” means the occurrence of any of the following events: (i)
+the Guarantor fails to pay, or cause to be paid, any Guarantee Payment when due under this
+Guarantee pursuant to Section 2.03 and such failure is not cured within three (3) Business Days
+from the date such Guarantee Payment was due; (ii) the Guarantor contests the validity of the
+Guarantee; (iii) the Guarantor denies any of its obligations under this Guarantee (whether by a
+general suspension of payments or otherwise); or (iv) the Guarantor terminates (or seeks to
+terminate) this Guarantee other than in accordance with Section 2.10.
+
+        “Holders” means the Persons or entities that appear as owners of the Notes in the Register.
+
+        “IDB Right to Purchase” has the meaning set forth in Section 2.10.
+
+        “Indebtedness” means (a) all indebtedness of or guaranteed by the Guarantor for or in
+connection with borrowed money, and (b) all obligations of or guaranteed by the Guarantor,
+evidenced by debt securities, debentures, notes or other similar instruments, provided that this
+definition shall not include obligations arising from commercial agreements not having the
+commercial effect of a borrowing.
+
+        “Indenture” has the meaning set forth in the recitals.
+
+      “Initial Collection Account” means the Issuer Guarantee Escrow Account (account no.
+153568400).
+
+        “Maturity Date” means January 30, 2035, the maturity date of the Notes.
+
+       “Maximum Guaranteed Amount” means, as of any date of determination, an amount
+equal to the lower of (a) US$300,000,000, minus the aggregate of all Guarantee Payments
+heretofore paid as of such date of determination; and (b) the Maximum Guaranteed Notes Amount,
+provided that following the Guarantor’s exercise of the IDB Right to Purchase pursuant to (and in
+accordance with the terms of) Section 2.11, the Maximum Guaranteed Amount shall equal US$0.
+
+       “Maximum Guaranteed Notes Amount” means, on any given date of calculation, the
+amount set forth in the column titled “Maximum Guaranteed Notes Amount” in Schedule I to this
+Guarantee determined by reference to the period ending on (but excluding) the Payment Date
+occurring on or immediately preceding the date of calculation.
+
+        “Notes” has the meaning set forth in the recitals.
+
+        “Offering Circular” means the final Offering Circular relating to the offering of the Notes
+dated as of January 16, 2020, and any additional and related materials which shall establish the
+specific terms and conditions of the offering of the Notes.
+
+       “Paying Agent” means The Bank of New York Mellon, London Branch or any substitute
+Paying Agent appointed pursuant to Section 3.8(c) of the Indenture.
+
+       “Payment Date” means each of the dates on which principal and interest, if any, on the
+Notes are originally scheduled to be paid, including the Maturity Date.
+
+
+
+                                                 6
+US-DOCS\110126563.28
+       “Person” means an individual, a corporation, a limited liability company, a partnership, an
+association, a trust or any other entity or organization, including a government or political
+subdivision or an agency or instrumentality thereof.
+
+        “Process Agent” has the meaning set forth in Section 3.03(d).
+
+        “Program” has the meaning set forth in the recitals.
+
+       “Purchase Agreement” means the Purchase Agreement dated January 16, 2020 between
+the Republic, the Guarantor, Goldman Sachs & Co. LLC as global coordinator, bookrunner and
+placement agent, and Ecuador Social Bond S.à r.l. as initial purchaser of the Notes.
+
+        “Register” has the meaning set forth in the Indenture.
+
+        “Registrar” means the Person at such time acting as Trustee with respect to such Notes.
+
+        “Relevant Resolution Authority” means the resolution authority with the ability to
+exercise any Bail-in Powers in relation to the relevant BRRD Party.
+
+         “Responsible Officer” means, when used with respect to the Trustee, the Paying Agent
+or the Guarantor, any officer thereof having direct responsibility for the administration of the
+Indenture or this Guarantee, and also, with respect to a particular matter, any other officer to whom
+such matter is referred because of such officer’s knowledge and familiarity with the particular
+subject.
+
+         “ROP” means the Operating Manual of the Program, which details, inter alia: (a) the
+applicable social and environmental safeguards; (b) minimum requirements for eligible housing;
+(c) the financial intermediary institutions that can intermediate the proceeds of the Notes to provide
+mortgages to Program beneficiaries; (d) the characteristics of the mortgages to be provided from
+the resources of the Program; (e) the functions and responsibilities of the unit for the
+implementation of the Program; (f) the functions and responsibilities of the trust for the
+management of the proceeds; and (g) the financial, economic and social reporting and auditing of
+the Program.
+
+        “RTP Period” has the meaning set forth in Section 2.11.
+
+        “Scheduled Payment Amount” means, for any Payment Date, the amount of principal
+and/or interest on the Notes originally payable on such Payment Date (without regard for any
+acceleration of the Notes), as provided for in the Indenture.
+
+        “Termination Date” means the earlier of: (a) the date on which all amounts have been
+paid by the Republic under the Notes, such that no further amounts are (or may become) payable
+thereunder; (b) the date on which the Maximum Guaranteed Amount equals zero; and (c) the date
+on which this Guarantee is terminated or cancelled pursuant to (and in accordance with the terms
+of) Section 2.10.
+
+        “Termination Event” has the meaning set forth in Section 2.10.
+
+
+
+                                                  7
+US-DOCS\110126563.28
+        “Transaction Documents” means the following documents or agreements:
+
+                 (a)    the Indenture;
+
+                 (b)    the Counter-Guarantee Agreement;
+
+                 (c)    this Guarantee;
+
+                 (d)    the Offering Circular;
+
+                 (e)    the Escrow Agreement; and
+
+                 (f)    any other documents so designated by the Republic.
+
+       “Trustee” means The Bank of New York Mellon or any substitute Trustee appointed
+pursuant to Section 6.9 of the Indenture.
+
+        “Trustee Process Agent” has the meaning set forth in Section 3.03(d).
+
+        “U.S. Dollars” or “US$” means the lawful currency of the United States of America.
+
+        Section 1.02 Interpretation
+
+        In this Guarantee, unless the context otherwise requires:
+
+        (a)     headings and the table of contents herein are for convenience only and do not affect
+the interpretation of this Guarantee;
+
+        (b)      any terms defined herein include the plural as well as the singular;
+
+        (c)     the words “herein,” “hereof” and “hereunder” and other words of similar import
+refer to this Guarantee as a whole and not to any particular Article, Section or other subdivision of
+this Guarantee;
+
+        (d)    a reference to an Article, a Section, a paragraph, a recital, the preamble, an Exhibit
+or a Schedule is a reference to an Article, a Section, a paragraph, a recital, the preamble, an Exhibit
+or a Schedule of or to this Guarantee, unless otherwise indicated;
+
+       (e)     a reference to a document includes an amendment or supplement to that document,
+provided that such amendment or supplement has not been made in breach of this Guarantee;
+
+       (f)     a reference to a party to any document includes that party’s successors and
+permitted assigns; and
+
+     (g)     any reference to treaties, statutes and related regulations shall include any
+amendments of the same and any successor treaties, statutes and regulations.
+
+
+
+
+                                                  8
+US-DOCS\110126563.28
+        Section 1.03 Business Day Adjustment
+
+       Unless otherwise provided, where the day on or by which a payment is due to be made is
+not a Business Day (in the place of payment), that payment shall be made on the immediately
+following Business Day (in the place of payment). In such case, interest, fees and charges (if any)
+accrue for the period from the due date which is not a Business Day (in the place of payment) to
+such immediately following Business Day (in the place of payment).
+
+        Section 1.04 Absence of Rights of Third Parties
+
+         None of the terms of this Guarantee is intended to confer any rights, benefits, remedies,
+obligations or liabilities upon any person who is not a party to this Guarantee (including any
+Holder) and no such Person may enforce any of its terms. Only the Trustee, for the benefit of the
+Guaranteed Holders, may enforce the terms of this Guarantee. The Guarantor shall have no
+liability to any of the Holders or to any agent or representative thereof, except for the Trustee.
+
+                                       ARTICLE II
+                               PARTIAL CREDIT GUARANTEE
+
+        Section 2.01 Establishment of Guarantee
+
+        (a)    Subject to the terms and conditions of this Guarantee, the Guarantor hereby
+establishes a partial credit guarantee, up to the Maximum Guaranteed Amount, in favor of the
+Trustee for the benefit of the Guaranteed Holders.
+
+        (b)    From the Effective Date until the Termination Date, the Guarantor irrevocably
+guarantees to the Trustee for the benefit of the Guaranteed Holders the payment of each Scheduled
+Payment Amount on each Payment Date (up to the Maximum Guaranteed Amount and without
+regard to any acceleration under the Notes), in accordance with the terms of this Guarantee.
+
+       (c)     This Guarantee shall only cover, up to the Maximum Guaranteed Amount,
+Scheduled Payment Amounts, without regard to any acceleration under the Notes, and shall not
+cover any other amounts, including any additional amounts or indemnification amounts payable
+on the Notes, fees, expenses, costs or other amounts payable pursuant to any Transaction
+Document. For the avoidance of doubt, if the Notes are accelerated, the Guarantee will continue
+to cover Scheduled Payment Amounts (including each amount of interest on the Notes that would
+have been payable by the Republic on the relevant Payment Dates had the Notes not been
+accelerated). This Guarantee shall not be accelerated except as provided for in Section 2.09.
+
+       (d)    This Guarantee covers all payments by the Republic of Scheduled Payment
+Amounts on the Notes (being all principal and interest amounts originally payable by the Republic
+on the Notes on each Payment Date) up to the Maximum Guaranteed Amount, provided that the
+Guarantee shall not cover any amounts payable by the Republic in connection with an Optional
+Redemption (as described in paragraph (e) below) and shall only cover Scheduled Payment
+Amounts originally payable by the Republic on Payment Dates (without regard to any acceleration
+under the Notes).
+
+
+
+                                                9
+US-DOCS\110126563.28
+       (e)    If there is an Optional Redemption and the Republic fails to make payment of any
+amount due in connection with such Optional Redemption, the Guarantee shall: (i) not cover the
+payment of the Optional Redemption Amount payable by the Republic in connection with such
+Optional Redemption; and (ii) continue to cover Scheduled Payment Amounts originally payable
+by the Republic on the Payment Dates (and, in accordance with the terms of the Indenture, the
+Holders may elect to reinstate the original schedule of payments of principal and interest on the
+Notes following a failure by the Republic to make payment of any amount due in connection with
+an Optional Redemption).
+
+        (f)     The obligations of the Guarantor under this Guarantee constitute direct, unsecured
+obligations of the Guarantor that rank equally, without any preference among themselves, with all
+other unsecured and unsubordinated Indebtedness of the Guarantor, provided that such ranking is
+in terms of priority only and does not require that the Guarantor make ratable payments on the
+Notes with payments made on its other Indebtedness.
+
+       (g)      This Guarantee is in favor of the Trustee (for the benefit of the Guaranteed
+Holders). Subject to Section 3.09, as the Guaranteed Holders shall only be Holders that hold a
+beneficial interest in the Notes in the form of Global Notes, the Guarantee shall not benefit (and
+no payments under the Guarantee shall be attributed to) any Holders of the Notes that are holding
+(or have an interest in) Definitive Notes.
+
+        Section 2.02 Conditions Precedent to Effectiveness
+
+        (a)      This Guarantee will become effective upon satisfaction of the following conditions:
+
+                 (i)    the Republic shall be a member country of the Inter-American Development
+        Bank;
+
+                (ii)    the financial terms of the Notes are acceptable to the Guarantor in its sole
+        discretion;
+
+               (iii) the Guarantor shall have been provided with a copy of the approval of the
+        Debt and Finance Committee of the Republic authorizing the issuance of the Notes;
+
+               (iv)   the conditions set forth in Section 2.02 (Conditions Precedent to Executing
+        the Guarantee) of the Counter-Guarantee Agreement shall be satisfied;
+
+                 (v)    there shall have been due execution and delivery to the parties thereto of:
+
+                 (a)    this Guarantee;
+
+                 (b)    the Indenture;
+
+                 (c)    the Purchase Agreement;
+
+                 (d)    the Counter-Guarantee Agreement;
+
+                 (e)    the Escrow Agreement; and
+
+
+                                                 10
+US-DOCS\110126563.28
+               (vi)    the Notes shall have been issued and authenticated under and in accordance
+        with the Indenture.
+
+        (b)     The Guarantor will confirm to the Trustee by email once the conditions precedent
+in items (i) to (iv) and (v)(d) of paragraph (a) have been satisfied. The Trustee shall have no
+obligation to monitor or confirm the satisfaction of such conditions precedent to effectiveness of
+the Guarantee.
+
+        Section 2.03 Guarantee Payments
+
+        (a)      If:
+
+                 (i)    no Termination Event has occurred and is continuing; and
+
+                 (ii)   a Guarantee Payment Event has occurred,
+
+then the Trustee may (but is not obliged to) submit a Demand Notice to the Guarantor. Any
+Demand Notice shall: (1) inform the Guarantor of the occurrence of the Guarantee Payment Event;
+(2) set forth the amount of the relevant Scheduled Payment Amount that was not paid on the
+relevant Payment Date; and (3) set forth the amount being requested for payment under the
+Demand Notice (which may be equal to or lower than the relevant Scheduled Payment Amount,
+but shall in no case exceed the Maximum Guaranteed Amount). Upon receipt of a duly completed
+Demand Notice by a Responsible Officer of the Guarantor, the Guarantor shall be obligated on
+the terms and conditions hereof and thereof to make payment of the amount requested in such
+Demand Notice (up to the Maximum Guaranteed Amount), by depositing the applicable U.S.
+Dollar amount in the Collection Account no later than fourteen (14) Business Days from the receipt
+of such Demand Notice (with the payment by the Guarantor of any amount requested in a Demand
+Notice constituting a Guarantee Payment). Any amounts paid pursuant to this Guarantee shall be
+applied as set forth in Section 3.8(b) of the Indenture.
+
+        (b)      If the Guarantor or the Trustee, in each case in its sole discretion, determines that a
+change in the manner or place of payment to the Paying Agent or the Trustee of any amount due
+hereunder or under any Notes is necessary or desirable to carry out the purposes of this Guarantee,
+the Trustee or any Paying Agent may agree with the Guarantor to any such change, provided that
+no such change may result in a delay of the date upon which the Guaranteed Holders are entitled
+to receive their proportionate share of any such payment or reduce the amount of any such payment
+under this Guarantee.
+
+        Section 2.04 Method of Guarantee Payments
+
+       (a)    Demand Notices shall be submitted in writing (which may be by email) and
+confirmed by telephone on the day of submission.
+
+       (b)     The Guarantor shall make each Guarantee Payment in the amount requested by the
+Trustee in a Demand Notice, and any payment due from the Guarantor in accordance with Section
+2.09 (up to the Maximum Guaranteed Amount), by depositing the applicable amount in U.S.
+Dollars in immediately available funds in the Collection Account.
+
+
+                                                  11
+US-DOCS\110126563.28
+       (c)   Any amounts paid by the Guarantor in excess of the amounts required to be paid
+by the Guarantor pursuant to this Guarantee will be promptly returned by the Trustee to the
+Guarantor.
+
+         (d)      The Trustee shall not set-off any amounts owed by the Republic or the Guarantor
+under any Transaction Document against any credits the Guarantor has against the Trustee or any
+of its affiliates, including any amounts or funds on deposit with the Trustee or any of its affiliates.
+
+        Section 2.05 Reinstatement of Maximum Guaranteed Amount
+
+       Any amount of Guarantee Payments disbursed by the Guarantor that the Republic later
+reimburses to the Guarantor in accordance with the Counter-Guarantee Agreement will not be
+available for new Guarantee Payments.
+
+        Section 2.06 Continuing Obligation; Status of Guarantee
+
+        (a)    This Guarantee is a continuing obligation and shall remain in full force and effect
+until the occurrence of the Termination Date. Accordingly, the obligations of the Guarantor
+hereunder shall not be discharged except by performance (and then to the extent of such
+performance) or as otherwise provided in this Guarantee.
+
+        (b)    The obligations of the Guarantor under this Guarantee will constitute direct,
+unsecured obligations of the Guarantor that will rank equally, without any preference among
+themselves, with all other unsecured and unsubordinated Indebtedness of the Guarantor, provided
+that such ranking is in terms of priority only and does not require that the Guarantor make ratable
+payments on the Notes with payments made on its other Indebtedness.
+
+       (c)     This Guarantee is issued by the Guarantor and will not be the obligation of any
+government or nation state that is a member of the Inter-American Development Bank. No such
+government or nation state will be responsible for payments under this Guarantee or liable to the
+Trustee or to any Person in case of a Guarantor Event of Default.
+
+        Section 2.07 Waiver of Defenses
+
+       For the benefit of the Trustee, who acts for the benefit of the Guaranteed Holders, and for
+purposes of this Guarantee only, the Guarantor waives diligence, notice of acceptance,
+presentment, protest, notice of dishonor or non-payment hereunder. Nothing in this Section 2.07
+requires the Guarantor to perform under this Guarantee if a Termination Event has occurred.
+
+        Section 2.08 Subrogation
+
+        (a)     The Guarantor shall be subrogated to the rights of the Holders to the extent of any
+Guarantee Payments made by the Guarantor hereunder arising as a result thereof by way of right
+of subrogation, contribution, reimbursement, indemnity or otherwise provided that the Guarantor
+shall not exercise any such rights in connection with any amount or payment (i) in respect of which
+it has been reimbursed by the Republic under the Counter-Guarantee Agreement or (ii) which,
+following an Early Disbursement Event in respect of which the Guarantor has deposited the
+Maximum Guaranteed Amount into the Guarantee Escrow Account, has not been made by the
+
+                                                  12
+US-DOCS\110126563.28
+Escrow Agent to the Trustee under the Escrow Agreement. In furtherance thereof, the Trustee
+shall from time to time take such actions as set forth in Section 4.12 of the Indenture to establish
+and facilitate the enforcement of the Guarantor’s rights pursuant to this Section 2.08. For the
+avoidance of doubt, any rights that the Guarantor has to receive payments from the Republic under
+the Notes (only by virtue of it being subrogated to the rights of bondholders following Guarantee
+Payments under the Guarantee) shall be pari passu with any rights of the bondholders to receive
+payments from the Republic under the Notes.
+
+        (b)   If the Guarantor exercises its subrogation rights pursuant to Section 2.08 of this
+Guarantee and Section 4.12 of the Indenture, the Guarantor shall notify the Trustee of the amounts
+of any reimbursements it receives from the Republic under the Counter-Guarantee Agreement.
+
+       (c)     To the extent the Guarantor is subrogated in the rights of the Holders pursuant to
+Section 2.08(a), the Trustee shall forthwith assign or transfer to the Guarantor, without
+representation, warranty or recourse, all of such Holders’ claims, interests, rights and security
+which it then has against the Republic under the Notes in respect of any amounts received by the
+Trustee on behalf of the Holders from the Guarantor.
+
+        (d)    For the avoidance of doubt, if the Guarantor exercises the IDB Right to Purchase,
+the above subrogation rights shall not apply with respect to the RTP Subject Notes (as defined in
+Section 2.11), delivered to the Guarantor, in respect of which the Guarantor will have the same
+direct recovery rights against the Republic as other Holders in respect of such RTP Subject Notes.
+The Guarantor’s exercise of the IDB Right to Purchase shall not affect any previously obtained
+subrogation rights, subject to there being no double counting.
+
+        Section 2.09 Guarantor Events of Default and Guarantee Acceleration
+
+        (a)    The Guarantor will give the Trustee notice by facsimile transmission or other
+written communication satisfactory to the Trustee of (i) the occurrence of any Guarantor Event of
+Default or of any condition or event which, with the giving of notice or the lapse of time or both,
+would constitute a Guarantor Event of Default, and (ii) of the measures it is taking to remedy such
+Guarantor Event of Default or such other event or condition (if any). In no event shall the Trustee
+be charged with knowledge of any Guarantor Event of Default unless a Responsible Officer of the
+Trustee shall have received written notice thereof from the Guarantor, the Republic or a Holder
+and such notice references the Guarantee, the Notes and the relevant Guarantor Event of Default
+or, with regard to a payment default, a Responsible Officer of any of the Trustee shall have actual
+knowledge thereof.
+
+        (b)    If (i) a Guarantor Event of Default occurs and is continuing and (ii) the Holders
+have elected to accelerate the Notes pursuant to paragraph 8 of the terms and conditions of the
+Notes, then the Guaranteed Holders representing at least twenty-five percent (25%) of the
+outstanding Notes may direct the Trustee to declare that all amounts payable under this Guarantee
+(up to the Maximum Guaranteed Amount on the relevant date) are immediately due and payable
+by the Guarantor in which case the Trustee shall notify the Republic and the Guarantor in writing
+(a “Guarantee Acceleration”), provided that any Guarantee Acceleration may be annulled or
+rescinded, and any Guarantor Event of Default may be waived, by Holders of not less than a
+majority of the principal amount of the then-outstanding Notes as provided in the Indenture. On
+
+
+                                                13
+US-DOCS\110126563.28
+the date of a Guarantee Acceleration (which shall be the date on which the Trustee gives notice
+thereof to the Guarantor), an amount equal to the Maximum Guaranteed Amount shall become
+immediately due and payable by the Guarantor to the Trustee (on behalf of the Guaranteed
+Holders) under this Guarantee, payable in accordance with Section 2.04.
+
+        Section 2.10 Termination Events
+
+         (a)    This Guarantee shall terminate, and any written Demand Notice from the Trustee
+pursuant to this Guarantee shall be void, if any of the following events (each, a “Termination
+Event”) occurs, and the Guarantor sends a notice to the Trustee and the Republic confirming that
+it is terminating this Guarantee due to the occurrence of such event:
+
+                (i)    the Holders or the Trustee (at the direction of the Holders under the
+        Indenture) make any amendment, modification or waiver of the Guarantee, the provisions
+        of the Notes and/or the Indenture which adversely affects the rights and the obligations of
+        the Guarantor, or give any written waiver or consent with respect thereto, without the
+        Guarantor’s prior written consent (with such written consent not to be unreasonably
+        withheld and to be deemed given by the Guarantor after ten (10) Business Days of such
+        written consent being sought);
+
+                (ii)    an Early Disbursement Event occurs and the Guarantor has deposited the
+        Maximum Guaranteed Amount into the Guarantee Escrow Account pursuant to the terms
+        thereof, as described in Section 2.10(b) below;
+
+                (iii) any assignment by the Trustee of any of its rights and obligations under the
+        Indenture or the Guarantee, which affect the rights and obligations of the Guarantor under
+        the Guarantee or the provisions of the Notes, without the prior written consent of the
+        Guarantor (with such written consent not to be unreasonably withheld and to be deemed
+        given by the Guarantor after ten (10) Business Days of such written consent being sought),
+        provided that no consent of the Guarantor shall be required (and no Termination Event
+        shall occur) in connection with any assignment to an Approved Assignee or any assignment
+        in accordance with Section 3.09(c) or in connection with the appointment of any successor
+        Trustee under the Indenture.
+
+        (b)    If, in the determination of the Guarantor, an Early Disbursement Event occurs, the
+Guarantor shall notify the Trustee and the Republic and shall then be entitled to deposit an amount
+equal to the Maximum Guaranteed Amount into the Guarantee Escrow Account, for payment to
+the Guaranteed Holders in the same amounts and subject to the same terms and conditions as under
+this Guarantee. Upon deposit by the Guarantor of such funds in the Guarantee Escrow Account,
+this Guarantee shall terminate.
+
+       (c)     In accordance with clause 3(b) of the Escrow Agreement, after the date on which
+all amounts have been paid by the Republic under the Notes, such that no further amounts are (or
+may become) payable thereunder, the Escrow Agent shall return any amounts in deposit in the
+Guarantee Escrow Account to the Guarantor within three (3) Business Days (as defined in the
+Escrow Agreement) of the Escrow Agent verifying the payment instructions of the Guarantor (as
+provided in clause 3(b) of the Escrow Agreement).
+
+
+                                                14
+US-DOCS\110126563.28
+         (d)    The termination of this Guarantee pursuant to this Section 2.10 shall be effective as
+of the date set forth in an officer’s certificate delivered by the Guarantor to the Trustee notifying
+it that a Termination Event has occurred and that this Guarantee and the Guarantor’s obligations
+hereunder are terminated (which date shall not precede the occurrence of such Termination Event);
+from and after such date, all obligations of the Guarantor hereunder shall terminate and be of no
+further force or effect.
+
+        (e)    Notwithstanding the foregoing, this Guarantee and all obligations of the Guarantor
+hereunder shall automatically terminate, without delivery of any notice or performance of any act
+by any party, upon the earlier to occur of any of the events set forth in section (a) and (b) of the
+definition of Termination Date.
+
+        (f)    Termination of this Guarantee shall not in any respect whatsoever affect any of the
+rights of the Guarantor, the Republic or any other party under the Counter-Guarantee Agreement,
+which shall remain in full force and effect.
+
+        Section 2.11 IDB Right to Purchase
+
+        (a)    If an Event of Default occurs and is continuing under the Notes, at any time between
+the date on which such Event of Default occurs and the date that is six (6) months therefrom (the
+“RTP Period”), the Guarantor shall have the right to purchase (and RTP Subject Notes Holders
+(as defined below) shall have the obligation to sell) the RTP Subject Notes (as defined below) for
+a price equal to par plus any interest accrued on such RTP Subject Notes, in an amount equal to
+the Maximum Guaranteed Amount (the “IDB Right to Purchase”).
+
+        (b)     In the event the Guarantor elects to exercise the IDB Right to Purchase, it shall
+provide the Trustee with (i) an irrevocable written notice of exercise no later than the last Business
+Day of the RTP Period (an “RTP Exercise Notice”) and (ii) an officer’s certificate from a
+Responsible Officer of the Guarantor certifying that the Guarantor is entitled to exercise the IDB
+Right to Purchase and that the all conditions precedent to the IDB Right to Purchase have been
+satisfied. The RTP Exercise Notice shall include the following information:
+
+               (i)    the Event of Default pursuant to which the Guarantor is exercising the IDB
+        Right to Purchase;
+
+                  (ii)    the date of occurrence of such Event of Default;
+
+                  (iii)   the Maximum Guaranteed Amount as of the date of the RTP Exercise
+        Notice;
+
+               (iv)   a calculation setting forth the total principal amount of the Notes to be
+        purchased at par (the “RTP Subject Notes”), and the total amount of interest accrued in
+        respect of such RTP Subject Notes, the sum of which shall be equal to the Maximum
+        Guaranteed Amount; and
+
+              (v)    the date on which, pursuant to the IDB Right to Purchase, the RTP Subject
+        Notes Holders shall deliver their RTP Subject Notes (the “RTP Settlement Date”),
+
+
+                                                   15
+US-DOCS\110126563.28
+        provided that the RTP Settlement Date shall be no earlier than ten (10) Business Days and
+        no later than thirty (30) days from the date of delivery of the RTP Exercise Notice.
+
+       (c)     Upon receipt of an RTP Exercise Notice, the Trustee shall promptly give the
+Holders written notice thereof in accordance with paragraph 17(c) of the terms and conditions of
+the Notes. The Notes that shall comprise the RTP Subject Notes shall be selected in accordance
+with the procedure set out in paragraph 17(c) of the terms and conditions of the Notes (with the
+holders of such RTP Subject Notes being the “RTP Subject Notes Holders”).
+
+        (d)    No later than 2:00 p.m., New York time on the RTP Settlement Date, the RTP
+Subject Notes Holders shall transfer, or cause the Trustee to transfer, to the Guarantor the RTP
+Subject Notes above; and (ii) the Guarantor shall transfer to the Collection Account, for the benefit
+of the RTP Subject Notes Holders holding RTP Subject Notes, an amount equal to the Maximum
+Guaranteed Amount.
+
+      (e)     Upon transfer of the Maximum Guaranteed Amount to the Collection Account on
+the RTP Settlement Date, the Maximum Guaranteed Amount will be automatically reduced to
+US$0.
+
+      (f)   For the avoidance of doubt, the Counter-Guarantee Agreement shall not cover any
+payments made by the Guarantor in connection with the exercise of the IDB Right to Purchase.
+
+        (g)     The Trustee shall be entitled to conclusively rely upon the information and
+calculations set forth in the RTP Exercise Notice and shall not be required to verify or re-calculate
+any of the above information.
+
+        Section 2.12 Bail-in
+
+       Notwithstanding any other term of this Guarantee, the Indenture or any other agreements,
+arrangements or understanding between the parties, each counterparty to a BRRD Party
+acknowledges, accepts and agrees to be bound by:
+
+        (a)     the effect of the exercise of Bail-in Powers by the Relevant Resolution Authority
+in relation to any BRRD Liability of any BRRD Party to it under this Guarantee, that (without
+limitation) may include and result in any of the following, or some combination thereof:
+
+              (i)     the reduction of all, or a portion, of the BRRD Liability or outstanding
+        amounts due thereon;
+
+                (ii)    the conversion of all, or a portion, of the BRRD Liability into shares, other
+        securities or other obligations of the relevant BRRD Party or another person (and the issue
+        to or conferral on it of such shares, securities or obligations);
+
+                 (iii)   the cancellation of the BRRD Liability; and
+
+                (iv)    the amendment or alteration of the amounts due in relation to the BRRD
+        Liability, including any interest, if applicable, thereon, the maturity or the dates on which
+        any payments are due, including by suspending payment for a temporary period; and
+
+                                                 16
+US-DOCS\110126563.28
+       (b)    the variation of the terms of the Indenture or this Guarantee, as deemed necessary
+by the Relevant Resolution Authority, to give effect to the exercise of Bail-in Powers by the
+Relevant Resolution Authority.
+
+                                        ARTICLE III
+                                      MISCELLANEOUS
+
+        Section 3.01 Notices. Except as provided in Section 2.04(a), any notice, demand,
+request, consent or other communication to be given or made under this Guarantee to the Guarantor
+or the Trustee shall be in writing. Such notice, demand, request, consent or other communication
+shall be delivered by hand, courier or email (provided that email delivery shall be effective only
+upon receipt of an acknowledgment from the intended recipient such as by the “return receipt
+request” function as available, reply email or other written acknowledgment) to the party’s address
+specified below or at such other address as that party notifies to the other party hereto from time
+to time, and will be effective upon receipt.
+
+        For the Trustee:
+
+        The Bank of New York Mellon
+        Attention: Corporate Trust – Global Americas
+        240 Greenwich Street – 7E
+        New York, NY 10286
+        Fax: 212-815-5603
+        Email: Karen.Ferry@bnymellon.com
+
+        For the Paying Agent:
+
+        The Bank of New York Mellon, London Branch
+        One Canada Square
+        Canary Wharf
+        London E14 5AL
+        England
+
+        For the Guarantor:
+
+        Inter-American Development Bank
+        1300 New York Avenue, N.W.
+        Washington, D.C. 20577
+        Fax No.: (202) 312-4135
+        Email: FIN-FIN@IADB.ORG (addressed to IDB’S CFO & Finance Manager)
+        FIN-TCS@iadb.org (addressed to IDB’s Treasury Client Solutions Group)
+        COFCEC@iadb.org (addressed to Country Representative – IDB’s Country Office
+        Ecuador)
+
+        Section 3.02 Governing Law; Dispute Resolution
+
+        (a)    This Guarantee shall be governed by and construed in accordance with the laws of
+the State of New York of the United States of America, without regard to the conflict of law rules
+
+                                                17
+US-DOCS\110126563.28
+thereof (other than Section 5-1401 of the New York General Obligations Law and successor
+provisions thereto).
+
+        (b)     Any dispute, controversy or claim of any nature arising out of, relating to or having
+any connection with this Guarantee, including any dispute as to the existence, validity,
+interpretation, performance, breach, termination or consequences of the nullity of this Guarantee
+(a “Dispute”), where the Guarantor is either a party, claimant, respondent or otherwise is necessary
+thereto, shall not be referred to a court of any jurisdiction and shall instead be referred to and
+finally resolved by arbitration under the Rules of the LCIA (“LCIA Rules”) as at present in force
+as modified by this Section 3.03, which LCIA Rules are deemed to be incorporated by reference
+into this Section 3.03. The provisions in the LCIA Rules regarding an Emergency Arbitrator shall
+not apply. Capitalized terms used in this Section 3.03 which are not otherwise defined in this
+Guarantee shall have the meaning given to them in the LCIA Rules. In particular:
+
+                 (i)   There shall be three arbitrators.
+
+                (ii)    Each arbitrator shall be an English or New York qualified lawyer of at least
+        fifteen (15) years’ standing with experience in relation to international banking or capital
+        markets disputes. At least one of those arbitrators shall be a lawyer qualified in New York.
+
+                (iii) Within thirty (30) days after the filing of the arbitration, the Paying Agent
+        and the Trustee shall jointly appoint one arbitrator and the Guarantor shall appoint one
+        arbitrator. If any such party or multiple parties fail to nominate an arbitrator within thirty
+        (30) days from and including the date of receipt of the relevant request for arbitration, an
+        arbitrator shall be appointed on their behalf by the LCIA Court in accordance with the
+        LCIA Rules and applying the criteria at subparagraph (ii) above. In such circumstances,
+        any existing nomination or confirmation of the arbitrator chosen by the party or parties on
+        the other side of the proposed arbitration shall be unaffected, and the remaining
+        arbitrator(s) shall be appointed in accordance with the LCIA Rules.
+
+               (iv)     The third arbitrator and chairman of the arbitral tribunal shall be appointed
+        by the LCIA Court in accordance with the LCIA Rules and applying the criteria at sub-
+        paragraph (ii) above.
+
+                 (v)   The seat, or legal place, of arbitration shall be London, England.
+
+               (vi)    The language to be used in the arbitration shall be English. This Section
+        3.03(b) shall be governed by English law.
+
+        (c)     The Trustee and the Guarantor each irrevocably waives, to the fullest extent
+permitted by Applicable Law, (i) any objection which it may now or hereafter have to the laying
+of venue of any action, suit or proceeding brought in any court referred to in this Section 3.03, and
+(ii) any claim that any such action, suit or proceeding brought in any such court has been brought
+in an inconvenient forum.
+
+       (d)     The Trustee hereby agrees that service of process in any such action, suit or
+proceeding may be effected by mailing a copy thereof by registered or certified mail (or any
+substantially similar form of mail) to The Bank of New York Mellon, London Branch (the
+
+                                                 18
+US-DOCS\110126563.28
+“Trustee Process Agent”) as the Trustee’s registered agent in London for service of process at its
+address at The Bank of New York Mellon, London Branch, One Canada Square, Canary Wharf,
+London E14 5AL, England or at such other address in London of which the Guarantor shall have
+been notified by the Trustee. The Guarantor hereby agrees that service of process in any such
+action, suit or proceeding may be effected by mailing a copy thereof by registered or certified mail
+(or any substantially similar form of mail) to Cogency Global (UK) Limited (the “Guarantor
+Process Agent”) as such Person’s registered agent in London for service of process at its address
+at 6 Lloyds Avenue, Unit 4CL, London EC3N 3AX or at such other address in London of which
+the Trustee shall have been notified by the Guarantor. The Trustee and the Guarantor shall each,
+for so long as it shall be bound to the Guarantor under this Guarantee, maintain their respective
+Process Agent (or if such Process Agent can no longer perform its functions of agent for service
+of process, another agent satisfactory to the other party) as its duly appointed agent to receive for
+and on its behalf service of summons, complaint or other legal process in any legal action, suit or
+proceeding the Guarantor or the Trustee may bring in the English courts in relation to any
+arbitration proceedings contemplated by this Section 3.02 or in relation to recognition or
+enforcement of any such arbitration award obtained in accordance with this Section 3.02.
+
+         (e)    Service of process in the manner provided in this Section 3.03 in any such action,
+suit or proceeding shall be deemed personal service and accepted by the Trustee and Guarantor (as
+applicable) as such and shall be valid and binding upon the Trustee and the Guarantor (as
+applicable) for all the purposes of any such action suit or proceeding.
+
+        Section 3.03 Language
+
+        This Guarantee is signed in the English language, which shall be binding upon the parties
+hereto, and the parties hereby agree that only a duly executed English version of this Guarantee is
+a valid version of this Guarantee.
+
+        Section 3.04 Waiver of the Guarantor Security
+
+        To the extent that the Holders or the Trustee may, in any suit, legal action or proceeding
+brought in any court in Ecuador, the United States, the State of New York or any other jurisdiction
+arising out of or in connection with this Guarantee or any other Transaction Document, be entitled
+to the benefit of any provision of any Applicable Law requiring the Guarantor, in such suit, legal
+action or proceeding, to post security for the costs of the Holders or the Trustee or to post a bond
+or to take similar action, the Trustee hereby irrevocably waives such benefit to the fullest extent
+now or hereafter permitted under the laws of Ecuador, the United States, the State of New York
+and, as the case may be, such other relevant jurisdictions.
+
+        Section 3.05 Waiver of Trial by Jury
+
+       The Trustee hereby acknowledges that the Guarantor shall, under Applicable Law,
+including without limitation the provisions of the International Organizations Immunities Act of
+1945 (22 U.S.C. 288) and the regulations issued thereunder, be entitled to immunity from a trial
+by jury in any action, suit or proceeding arising out of or relating to this Guarantee, or any other
+Transaction Document or the transactions contemplated hereby or thereby, that may be brought
+against the Guarantor in any court of the United States. TO THE MAXIMUM EXTENT
+
+
+                                                 19
+US-DOCS\110126563.28
+PERMITTED BY APPLICABLE LAW, THE TRUSTEE HEREBY IRREVOCABLY AND
+UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR
+PROCEEDING RELATING TO THIS GUARANTEE OR ANY OTHER TRANSACTION
+DOCUMENT AND FOR ANY COUNTERCLAIM WITH RESPECT THERETO. The Trustee
+agrees that the waivers set forth above shall have the fullest extent permitted under the Foreign
+Sovereign Immunities Act of 1976 of the United States (28 U.S.C. §§ 1602-1611) and are intended
+to be irrevocable and not subject to withdrawal for purposes of such Act.
+
+        Section 3.06 Scope of Guarantor’s Immunity
+
+        (a)     The Trustee and the Paying Agent acknowledge that, in accordance with the
+Agreement Establishing The Inter-American Development Bank, actions may be brought against
+the Guarantor only in a court of competent jurisdiction in the territories of a member country of
+the Guarantor in which the Guarantor has an office, has appointed an agent for accepting service
+or notice of process, or has issued or guaranteed securities.
+
+        (b)      The Trustee and the Paying Agent acknowledge further acknowledge that:
+
+               (i)    no actions shall be brought against the Guarantor by member countries of
+        the Guarantor or persons acting for or deriving claims from such member countries;
+
+                (ii)   the property and assets of the Guarantor, wherever located and by
+        whomsoever held, shall be immune from all forms of seizure, attachment or execution
+        before the delivery of final judgment against the Guarantor; and
+
+                 (iii)   the archives of the Guarantor shall be inviolable.
+
+        Section 3.07 Amendments, Modifications, Etc.
+
+        (a)     No amendment, modification or waiver of any provision of this Guarantee shall be
+effective unless such amendment, modification or waiver shall be in writing and signed by each of
+the parties hereto and the same shall be effective only for the period and on the conditions and for
+the specific instances specified therein.
+
+        (b)    No amendment, modification or waiver of any provision of the Indenture or the
+Notes that adversely affects the obligations of the Guarantor thereunder may be made without the
+prior written consent of the Guarantor. Such consent shall not be unreasonably withheld by the
+Guarantor and shall be subject to deemed consent after ten (10) Business Days of such written
+consent being sought. In connection with any amendment, modification or waiver of any provision
+of the Indenture or the Notes, the Republic will seek the relevant consent of the Guarantor under
+and in accordance with the terms of this Guarantee.
+
+        Section 3.08 Entire Agreement
+
+        The obligations of the Guarantor hereunder are governed by this Guarantee only and, in
+the event of any conflict between this Guarantee on the one hand, and any other Transaction
+Document on the other hand, the terms of this Guarantee shall govern. This Guarantee represent
+the final and complete agreement of the parties hereto with respect to the subject matter hereof,
+
+                                                  20
+US-DOCS\110126563.28
+and all prior negotiations, representations, understandings, writings and statements of any nature
+with respect thereto are hereby superseded in their entirety by the terms of this Guarantee.
+
+        Section 3.09 Successors and Assigns
+
+       (a)     This Guarantee shall bind and inure to the benefit of the respective successors and
+permitted assigns of the parties hereto. Subject to paragraphs (b) and (c) below, neither the Trustee
+nor the Guarantor may transfer or assign this Guarantee, or its rights or obligations under this
+Guarantee, without the prior written consent of the Guarantor, except that the Trustee may transfer
+and assign this Guarantee, or its rights or obligations under this Guarantee, to an Approved
+Assignee.
+
+        (b)    If, in accordance with Section 2.6(e) of the Indenture, all Notes (and not some only)
+are to be represented by Definitive Notes (such that no Notes will continue to be represented by
+the Global Notes), the Trustee may notify the Guarantor that the Guaranteed Holders will no longer
+be the Holders that hold a beneficial interest in the Notes in the form of Global Notes and will
+instead be such Holders specified in the Register by the Trustee from time to time, determined in
+accordance with Section 2.9 of the Indenture.
+
+        (c)     The Guarantor acknowledges that the Trustee or any Guaranteed Holder may
+charge, assign or otherwise create a security interest in or over any of its rights and obligations
+under this Guarantee to The Bank of New York Mellon (acting in the capacity of a collateral agent
+in connection with any transaction which references this Guarantee), provided that the relevant
+party will provide notice to the Guarantor promptly after any such charge, assignment or security
+interest has been created.
+
+        Section 3.10 Severability
+
+        Any provision of this Guarantee which is prohibited or unenforceable in any jurisdiction
+shall, as to such jurisdiction, be ineffective to the extent of such prohibition or unenforceability
+without invalidating the remaining provisions hereof, and any such prohibition or unenforceability
+in any jurisdiction shall not invalidate or render unenforceable such provision in any other
+jurisdiction.
+
+        Section 3.11 Counterparts
+
+        This Guarantee may be executed in several counterparts, each of which shall be deemed an
+original, but all of which together shall constitute one and the same agreement.
+
+        Section 3.12 Saving of Rights; Waivers and Remedies
+
+       (a)     No course of dealing or waiver by the Guarantor in connection with any condition
+of a Guarantee Payment under this Guarantee shall impair any right, power or remedy of the
+Guarantor with respect to any other condition of such Guarantee Payment, or be construed to be a
+waiver thereof, nor shall the action of the Guarantor with respect to any Guarantee Payment affect
+or impair any right, power or remedy of the Guarantor with respect to any other Guarantee
+Payment.
+
+
+                                                 21
+US-DOCS\110126563.28
+        (b)    Without prejudice to the generality of Section 3.13(a), the right of the Guarantor to
+require compliance with any condition under this Guarantee that may be waived by the Guarantor
+with respect to any Guarantee Payment is expressly preserved for the purposes of any subsequent
+Guarantee Payment.
+
+        (c)    No course of dealing, and no failure or delay by the Guarantor in exercising, in
+whole or in part, any power, remedy, discretion, authority or other right under this Guarantee or
+any other agreement shall waive or impair, or be construed to be a waiver of or an acquiescence
+in, such or any other power, remedy, discretion, authority or right under this Guarantee, or in any
+manner preclude its additional or future exercise.
+
+        Section 3.13 Not an Insurance Product
+
+       This Guarantee is not, is not intended to be, and shall not be construed as, financial guaranty
+insurance, but as a credit guarantee product.
+
+        Section 3.14 Trustee, Registrar, Paying Agent.
+
+        In executing this Guarantee and acting hereunder, the Trustee, Registrar and Paying Agent
+are acting in such capacities under the Indenture and not in their individual capacity and as such,
+shall be entitled to the rights, benefits, protections, indemnities and immunities afforded to each
+of them under the Indenture.
+
+
+
+                                    [SIGNATURE PAGES FOLLOW]
+
+
+
+
+                                                 22
+US-DOCS\110126563.28
+           INTER-AMERICAN DEVELOPMENT BANK
+
+          By:
+          Name:
+          Title:
+
+
+
+
+[Signature Page to Partial Credit Guarantee]
+                                     SCHEDULE I
+                          MAXIMUM GUARANTEED NOTES AMOUNT
+
+                       Period start date   Period end date (to
+                          (from and          but excluding)      Maximum Guaranteed
+                          including)       ("Payment Date")       Notes Amount (US$)
+                          30-Jan-20             30-Jul-20           300,000,000.00
+                          30-Jul-20            30-Jan-21            296,997,507.00
+                          30-Jan-21             30-Jul-21           293,995,014.00
+                          30-Jul-21            30-Jan-22            290,992,521.00
+                          30-Jan-22             30-Jul-22           287,990,028.00
+                          30-Jul-22            30-Jan-23            284,987,535.00
+                          30-Jan-23             30-Jul-23           281,985,042.00
+                          30-Jul-23            30-Jan-24            278,982,549.00
+                          30-Jan-24             30-Jul-24           267,019,056.00
+                          30-Jul-24            30-Jan-25            255,133,056.00
+                          30-Jan-25             30-Jul-25           243,364,056.00
+                          30-Jul-25            30-Jan-26            238,712,056.00
+                          30-Jan-26             30-Jul-26           234,086,056.00
+                          30-Jul-26            30-Jan-27            229,486,056.00
+                          30-Jan-27             30-Jul-27           224,912,056.00
+                          30-Jul-27            30-Jan-28            220,364,056.00
+                          30-Jan-28             30-Jul-28           215,842,056.00
+                          30-Jul-28            30-Jan-29            209,846,056.00
+                          30-Jan-29             30-Jul-29           203,895,556.00
+                          30-Jul-29            30-Jan-30            195,990,556.00
+                          30-Jan-30             30-Jul-30           188,157,056.00
+                          30-Jul-30            30-Jan-31            176,895,056.00
+                          30-Jan-31             30-Jul-31           165,750,056.00
+                          30-Jul-31            30-Jan-32            153,722,056.00
+                          30-Jan-32             30-Jul-32           141,824,056.00
+                          30-Jul-32            30-Jan-33            115,056,056.00
+                          30-Jan-33             30-Jul-33           88,613,056.00
+                          30-Jul-33            30-Jan-34            62,495,056.00
+                          30-Jan-34             30-Jul-34           36,702,056.00
+                          30-Jul-34            30-Jan-35            18,234,056.00
+
+
+
+
+US-DOCS\110126563.28
+                                                                                     EXHIBIT A
+
+                                     Form of Demand Notice
+
+[Date]
+
+Inter-American Development Bank
+1300 New York Avenue, N.W.
+Washington, D.C. 20577
+Fax No.: (202) 312-4135
+Attn: IDB’S CFO & Finance Manager
+       IDB’s Treasury Client Solutions Group
+       Country Representative – IDB’s Country Office Ecuador
+
+
+         Re:     Demand Notice – Partial Credit Guarantee to Ecuador’s Notes due 2035
+
+       1.    Reference is made to the Partial Credit Guarantee, dated as of [January 30, 2020]
+(the “Guarantee”), between Inter-American Development Bank (“Guarantor”), The Bank of
+New York Mellon (the “Trustee”) and The Bank of New York Mellon, London Branch (the
+“Paying Agent”).
+
+        2.     Capitalized terms used but not defined herein have the meanings assigned to them
+in the Guarantee.
+
+        3.      In accordance with the Guarantee, we submit to you this Demand Notice and we
+hereby certify to you that the Republic has failed to pay the following Scheduled Payment Amount
+on the following Payment Date:
+
+                 Payment Date:
+                 Scheduled Payment Amount(s): US$
+
+        4.     The Guarantor is hereby requested and instructed to make a payment of US$__,
+which shall constitute a Guarantee Payment under the Guarantee, and which relates to US$__ of
+the interest component of the Scheduled Payment Amount described above and US$__ of the
+principal component of the Scheduled Payment Amount described above. This Guarantee
+Payment shall be made to the Collection Account on or before the fourteenth (14th) Business Day
+following the Guarantor’s receipt of this Demand Notice.
+
+         To induce you to make such payment and as contemplated by the Guarantee, we further
+certify that (a) the amount of the Guarantee Payment specified under this Demand Notice does not
+exceed the Maximum Guaranteed Amount calculated as of today and that upon making said
+payment, you will not exceed your liability under the Maximum Guaranteed Amount; (b) we have
+complied with all terms and conditions of the Guarantee; (c) upon your payment, you shall
+automatically have full rights pursuant to Section 2.08 of the Guarantee; (d) no Termination Event
+has occurred; and (e) the making and submission of this Demand Notice has been duly authorized
+
+
+
+                                               A-1
+US-DOCS\110126563.28
+by the Trustee through all appropriate action and the undersigned is a Responsible Officer of the
+Trustee.
+
+                                    [Signature page follows]
+
+
+
+                                         Sincerely,
+                                         THE BANK OF NEW YORK MELLON
+
+
+
+                                         By:
+                                               Name:
+                                               Title:
+
+
+
+
+                                                A-2
+US-DOCS\110126563.28
+                                                  EXHIBIT B
+
+                       Form of Escrow Agreement
+
+
+
+
+                                 B-1
+US-DOCS\110126563.28
+                                                                      Execution Version
+
+
+
+
+                           ESCROW AGREEMENT
+
+                                    among
+
+            INTER-AMERICAN DEVELOPMENT BANK, as Depositor
+
+                                      and
+
+THE BANK OF NEW YORK MELLON in its capacity as Social Bond Trustee, as Party B
+
+                                      and
+
+             THE BANK OF NEW YORK MELLON, as Escrow Agent
+
+
+                          dated as of January 30, 2020
+
+
+
+
+                   ESCROW ACCOUNT NUMBER: 1573948400
+
+
+                 TITLE OF ACCOUNT: IDB ESCROW ACCOUNT
+         ESCROW AGREEMENT dated as of January 30, 2020 (the “Escrow Agreement”), by and among THE
+BANK OF NEW YORK MELLON, a New York banking corporation as escrow agent (the “Escrow Agent”), the
+INTER-AMERICAN DEVELOPMENT BANK as depositor (the “Depositor”) and THE BANK OF NEW YORK
+MELLON in its capacity as Social Bond Trustee under the Indenture (as defined in the Underlying Agreement)
+(“Party B” or the "Trustee"; the Depositor and Party B are also individually herein referred to as an “Interested
+Party” and collectively as the “Interested Parties”).
+
+
+         PRELIMINARY STATEMENTS:
+
+         WHEREAS, inter alios, the Depositor and the Trustee have entered into a Partial Credit Guarantee dated as
+of January 30, 2020 (as amended, supplemented or otherwise modified from time to time, the “Underlying
+Agreement”) pursuant to which the Depositor has agreed to guarantee each payment of scheduled interest and
+scheduled principal on the Notes up to the Maximum Guaranteed Amount (each as defined in the Underlying
+Agreement);
+
+        WHEREAS, the Underlying Agreement contemplates that the Depositor will cause to be deposited into
+escrow an amount equal to the Maximum Guaranteed Amount (the “Escrow Amount”) following, in the
+determination of the Depositor as Guarantor (as defined in the Underlying Agreement), the occurrence of an Early
+Disbursement Event (as defined in the Underlying Agreement);
+
+         WHEREAS, a copy of the Underlying Agreement has been delivered to the Escrow Agent;
+
+        WHEREAS, the Escrow Agent is willing to act as the Escrow Agent hereunder, and to hold the Escrow
+Amount in non-interest-bearing account no. 1573948400, title: IDB Escrow Account located in New York, New
+York (the “Guarantee Escrow Account”);
+
+         NOW, THEREFORE, in consideration of the foregoing and of the mutual agreements contained herein, and
+intending to be legally bound hereby, the Interested Parties hereby appoint the Escrow Agent to act as, and the
+Escrow Agent hereby agrees to act as, escrow agent hereunder and to hold and distribute Escrow Property (as
+defined herein) in accordance with and subject to the following Instructions and Terms and Conditions, and the
+parties hereby agree as follows:
+
+         I. DEFINITIONS:
+
+Capitalized terms used but not defined herein shall have the meaning assigned to such terms in the Underlying
+Agreement.
+
+         II. INSTRUCTIONS:
+
+          1. Escrow Property. Following the occurrence of an Early Disbursement Event, the Depositor shall
+deliver the Escrow Amount to the Escrow Agent by wire transfer of immediately available funds to the Escrow
+Account. The Escrow Amount, plus all interest, dividends and other distributions, payments and earnings thereon
+and proceeds thereof (collectively the "Distributions") received by the Escrow Agent, less any property and/or funds
+distributed or paid in accordance with this Escrow Agreement, are collectively referred to herein as "Escrow
+Property," and shall be held by the Escrow Agent in escrow and disbursed in accordance with the terms and
+provisions of this Escrow Agreement.
+
+          2. Investment and Reinvestment of Escrow Property. Upon the occurrence of an Early Disbursement
+Event, the Escrow Agent shall invest the Escrow Property, and reinvest all Distributions thereon, in (i) the Goldman
+Sachs US$ Treasury Liquid Reserves Fund (ISIN: IE00B2Q5LL07). If (i) the Escrow Agent is for any reason unable
+to invest such amounts in such fund or (ii) such fund ceases to be rated AAA by any rating agency then rating such
+fund, the Escrow Property shall be invested at the instruction of the Depositor; provided that during the term of this
+Escrow Agreement, the Escrow Property shall only be invested and reinvested by the Escrow Agent in Permitted
+Investments, where "Permitted Investments" means any debt with a maturity not exceeding one hundred and
+eighty (180) days from the date of acquisition thereof denominated in U.S. Dollars (or to the extent any proceeds
+                                                           2
+used to make such Permitted Investment are required to be released from the Escrow Account within a lesser
+number of days, not exceeding the Business Day falling immediately before the date on which funds are required to
+be released), issued or directly and fully guaranteed or insured by the United States of America or any agency or
+Governmental Authority thereof; provided that (i) such Permitted Investments are rated AAA by two of Moody's
+Investor Service ("Moody's"), Standard & Poor's Ratings Group, Inc ("S&P") and Fitch Ratings Ltd ("Fitch"), (ii)
+the full faith and credit of the United States of America is pledged in support thereof, (iii) such Permitted
+Investments are prepayable without penalty at par and (iv) the Escrow Agent is able to hold such Permitted
+Investments. The Escrow Agent shall have no liability for any loss sustained as a result of any investment selected
+as indicated in this Section 2 as a result of any liquidation of any investment prior to its maturity and the Escrow
+Agent shall not be responsible for monitoring the rating of any investment or confirming that an investment qualifies
+as a Permitted Investment.
+
+         3. Distribution of Escrow Property. The Escrow Agent is directed to hold and distribute the Escrow
+Property in the following manner:
+
+(a)       following the occurrence of an Early Disbursement Event which results in the Depositor depositing the
+Escrow Amount into the Guarantee Escrow Account, the Trustee shall submit notices in writing, in the form set
+forth in Schedule IV hereto (the "Escrow Account Demand Notice"), to the Escrow Agent, at the same times and in
+accordance with the same terms as when a Demand Notice could be submitted under the Underlying Agreement,
+informing the Escrow Agent of the occurrence of the Guarantee Payment Event, the amount of the relevant
+Scheduled Payment Amount that was not paid on the Notes by the Republic of Ecuador on the relevant Payment
+Date and the amount being requested for payment from the Guarantee Escrow Account (which may be equal to or
+lower than the relevant Scheduled Payment Amount, but shall in no case exceed the balance of the Escrow
+Account). The amount validly demanded in an Escrow Account Demand Notice shall be an "Escrow Payment". In
+respect of any Escrow Account Demand Notice, the Escrow Agent shall make the requested Escrow Payment by
+depositing an amount in U.S. Dollars equal to such Escrow Payment in the Collection Account no later than thirty
+(30) days from the receipt of such Escrow Account Demand Notice. Any payments of Escrow Payments to the
+Trustee shall be applied by the Trustee in the same manner as Guarantee Payments would in accordance with the
+terms of the Indenture; and
+
+(b)      upon (i) the Trustee submitting notice to the Escrow Agent that the Notes have been repaid in full,
+surrendered and cancelled and, (ii) for so long as Ecuador Social Bond S.à r.l. is the Holder of the Notes, the Trustee
+(having obtained prior confirmation from Ecuador Social Bond S.à r.l.) submitting notice to the Escrow Agent that
+the Class A Notes (as such term is defined in the Indenture, dated as of January 30, 2020, between inter alios,
+Ecuador Social Bond S.à r.l. and The Bank of New York Mellon (the "Repack Indenture")) issued by Ecuador
+Social Bond S.à r.l. have been repaid in full, surrendered and cancelled, the balance standing to the credit of the
+Escrow Account shall be paid by the Escrow Agent to the Depositor within three (3) Business Days (as defined in
+Section 6 of the Terms and Conditions hereto) after the Escrow Agent verifies the payments instructions in
+accordance with the procedure set forth on Schedule II hereto.
+
+          4. Authorized Persons. Each of the Interested Parties shall, on the date of this Escrow Agreement,
+deliver to the other parties a certificate in the form of Schedule I hereto as to the incumbency and specimen
+signature of at least two (2) officers or other representatives of such party authorized to act for and give and receive
+notices, requests and instructions on behalf of such party in connection with this Escrow Agreement (each such
+officer or other representative, an “Authorized Person”). From time to time, an Interested Party may, by delivering
+to the other parties a revised certificate in the form of Schedule I, change the information previously given, but each
+of the parties hereto shall be entitled to rely conclusively on the then-current schedule until receipt of a superseding
+schedule.
+
+          5. Facsimile/Email Instructions. Each of the Interested Parties hereby provides to the Escrow Agent and
+agrees with and accepts the authorizations, limitations of liability, indemnities, security procedure and other
+provisions set forth on Schedule II hereto in connection with the Escrow Agent’s reliance upon and compliance with
+instructions and directions sent by such parties via e-mail, facsimile and other similar unsecured electronic methods.
+
+         6. Addresses. Notices, instructions and other communications shall be sent to the Escrow Agent at The
+
+                                                           3
+Bank of New York Mellon, Corporate Trust Administration, 240 Greenwich Street, New York, New York 10286,
+Tel.: (212) 815-5550; Email: Karen.Ferry@bnymellon.com, and to the Interested Parties as follows:
+
+Inter-American Development Bank
+1300 New York Avenue, N.W.
+Washington, D.C. 20577
+Fax No.: (202) 312-4135
+Email: FIN-FIN@IADB.ORG (addressed to IDB’S CFO & Finance Manager)
+FIN-TCS@iadb.org (addressed to IDB’s Treasury Client Solutions Group)
+COFCEC@iadb.org (addressed to Country Representative – IDB’s Country Office Ecuador)
+
+The Bank of New York Mellon, as Social Bond Trustee
+240 Greenwich Street
+Floor 7E
+New York, NY 10286
+United States
+Tel.: (212) 815-5550
+Email: Karen.Ferry@bnymellon.com
+
+         7. Termination. This Escrow Agreement shall terminate upon the earlier to occur of (i) distribution or
+disbursement by the Escrow Agent of all Escrow Property in accordance with the terms hereof, (ii) the Trustee
+submitting notice to the Escrow Agent that the Notes have been repaid in full, surrendered and cancelled and (iii) for
+so long as Ecuador Social Bond S.à r.l. is the Holder of the Notes, the Trustee (having obtained prior confirmation
+from Ecuador Social Bond S.à r.l.) submitting notice to the Escrow Agent that the Class A Notes issued by Ecuador
+Social Bond S.à r.l. have been repaid in full, surrendered and cancelled.
+
+         8. Depositor’s Liability for Fees. For avoidance of doubt (but without limiting any indemnification
+obligations of the Depositor hereunder), the Depositor is not required to pay (or make any reimbursement of) any
+fees, expenses, charges and other amounts incurred by the Escrow Agent in connection to this Agreement.
+
+          9. Taxes and Immunities. The Depositor is exempt by law from payment or collection of all taxes. The
+Depositor shall provide the Escrow Agent with tax exemption certificates as evidence of exemption from payment
+of sales and use taxes as may be required. The Escrow Agent shall inform the Depositor if any taxing authority
+refuses to recognize the Depositor's proof of its exemption from taxation. The Depositor’s exemption from taxation
+does not extend to any taxes the Escrow Agent must contribute or withhold on behalf of its officers, agents or
+employees, including but not limited to, payroll and social security taxes or to any sales or other taxes the Escrow
+Agent may incur. Nothing in this Agreement shall operate to restrict, limit or defeat any rights, privileges or
+immunities granted to the Depositor or Depositor’s personnel under any treaty or domestic or international law.
+Upon becoming actually aware thereof, the Escrow Agent shall promptly inform the Depositor, in cases where
+public authorities or private concerns refuse to recognize the Depositor's privileges and immunities accorded by its
+constituent Treaty or local legislation so that the Depositor can take the actions it deems appropriate to protect such
+privileges and immunities. Nothing herein shall preclude the Depositor from taking whatever actions are necessary
+to prevent immediate, irreparable harm to its privileges and immunities.
+
+         III. TERMS AND CONDITIONS:
+
+1. Escrow Agent’s Duties. The duties, responsibilities and obligations of the Escrow Agent shall be limited to those
+expressly set forth herein, and no duties, responsibilities or obligations shall be inferred or implied. The Escrow
+Agent shall not be subject to, nor required to comply with, nor required to inquire as to the performance of any
+obligation under, any other agreement between or among the Interested Parties (including the Underlying
+Agreement) or to which any Interested Party is a party, even though reference thereto may be made herein, or to
+comply with any direction or instruction (other than those contained herein or delivered in accordance with this
+Escrow Agreement) from any Interested Party or any entity acting on its behalf. The Escrow Agent shall not be
+required to, and shall not, expend or risk any of its own funds or otherwise incur any financial liability in the
+performance of any of its duties hereunder.
+
+                                                           4
+2. Agreement for Benefit of Parties. This Escrow Agreement is for the exclusive benefit of the parties hereto and
+their respective successors hereunder, and shall not be deemed to give, either express or implied, any legal or
+equitable right, remedy, or claim to any other entity or person whatsoever.
+
+3. Escrow Agent’s Reliance on Orders, Etc. If at any time the Escrow Agent is served with any judicial or
+administrative order, judgment, decree, writ or other form of judicial or administrative process which in any way
+affects Escrow Property (including, but not limited to, orders of attachment or garnishment or other forms of levies
+or injunctions or stays relating to the transfer of Escrow Property), the Escrow Agent is authorized to comply
+therewith in any manner as it or its legal counsel of its own choosing deems appropriate; and if the Escrow Agent
+complies with any such judicial or administrative order, judgment, decree, writ or other form of judicial or
+administrative process, the Escrow Agent shall not be liable to any of the parties hereto or to any other person or
+entity even though such order, judgment, decree, writ or process may be subsequently modified or vacated or
+otherwise determined to have been without legal force or effect.
+
+4. The Escrow Agent.
+
+(a) The Escrow Agent shall not be liable for any action taken or omitted or for any loss or injury resulting from its
+actions or its performance or lack of performance of its duties hereunder in the absence of gross negligence or
+willful misconduct on its part. In no event shall the Escrow Agent be liable (i) for acting in accordance with or
+relying upon (and shall be fully protected in relying upon) any instruction, notice, demand, certificate or document
+from any Interested Party, any entity acting on behalf of any Interested Party or any other person or entity which it
+reasonably believes to be genuine, (ii) for any indirect, consequential, punitive or special damages, even if advised
+of the possibility thereof, (iii) for the acts or omissions of its nominees, correspondents, designees, subagents or
+subcustodians selected by it in good faith, or (iv) for an amount in excess of the value of the Escrow Property.
+
+(b) If any fees, expenses or costs incurred by, or any obligations owed to, the Escrow Agent hereunder are not
+promptly paid when due, the Escrow Agent may reimburse itself therefor from the income earned on investment of
+funds which are a part of the Escrow Property.
+
+(c) The Escrow Agent may consult with legal counsel at the reasonable expense of the Interested Parties as to any
+matter relating to this Escrow Agreement, and the Escrow Agent shall not incur any liability in acting in good faith
+in accordance with any advice from such counsel.
+
+(d) The Escrow Agent shall not incur any liability for not performing any act or fulfilling any duty, obligation or
+responsibility hereunder by reason of any occurrence beyond the control of the Escrow Agent (including, but not
+limited to, any act or provision of any present or future law or regulation or governmental authority, any act of God
+or war or terrorism, or the unavailability of the Federal Reserve Bank wire or telex or other wire or communication
+facility).
+
+5. Collections. Unless otherwise specifically set forth herein, the Escrow Agent shall proceed as soon as practicable
+to collect any checks or other collection items at any time deposited hereunder. All such collections shall be subject
+to the Escrow Agent's usual collection practices or terms regarding items received by the Escrow Agent for deposit
+or collection. The Escrow Agent shall not be required, or have any duty, to notify anyone of any payment or
+maturity under the terms of any instrument deposited hereunder, nor to take any legal action to enforce payment of
+any check, note or security deposited hereunder or to exercise any right or privilege which may be afforded to the
+holder of any such security.
+
+6. Statements. The Escrow Agent shall provide to the Interested Parties statements (not less frequently than
+monthly) reflecting activity in the Escrow Account for the preceding period. No statement need be provided for
+periods in which no Escrow Account activity occurred. Each such statement shall be deemed to be correct and final
+upon receipt thereof by the Interested Parties unless the Escrow Agent is notified in writing to the contrary within
+thirty (30) Business Days of the date of such statement. A "Business Day" shall mean any day on which the
+Escrow Agent is open for business.
+
+7. Limitation of Escrow Agent’s Responsibility. The Escrow Agent shall not be responsible in any respect for the
+form, execution, validity, value or genuineness of documents or securities deposited hereunder, or for any
+                                                           5
+description therein, or for the identity, authority or rights of persons executing or delivering or purporting to execute
+or deliver any such document, security or endorsement.
+
+8. Notices. Notices, instructions or other communications shall be in writing and shall be given to the address set
+forth in the "Addresses" provision herein (or to such other address as may be substituted therefor by written
+notification to the other parties). Notices to the Escrow Agent shall be deemed to be given when actually received
+by the Escrow Agent's Escrow Unit. The Escrow Agent is authorized to comply with and rely upon any notices,
+instructions or other communications believed by it to have been sent or given by an Interested Party or by a person
+or persons authorized by an Interested Party, including persons identified on Authorized Persons schedules delivered
+pursuant to Section 4 of the Instructions. Whenever under the terms hereof the time for giving a notice or
+performing an act falls upon a Saturday, Sunday, or banking holiday, such time shall be extended to the next day on
+which the Escrow Agent is open for business.
+
+9. Indemnity. Subject to Section 26 hereof (in the case of the Trustee), the Interested Parties, jointly and severally
+(except to the extent set forth in Section 9(ii) below), shall be liable for and shall reimburse and indemnify the
+Escrow Agent and hold the Escrow Agent and its affiliates, and the Escrow Agent’s and such affiliates’ respective
+directors, officers, employees, agents, successors and assigns, harmless from and against any and all claims, losses,
+liabilities, costs, disbursements, damages or expenses (including reasonable attorneys' fees and expenses and court
+costs) (collectively, "Losses") arising from or in connection with or related to this Escrow Agreement or being the
+Escrow Agent hereunder (including but not limited to Losses incurred by the Escrow Agent in connection with its
+successful defense, in whole or in part, of any claim of gross negligence or willful misconduct on its part), provided,
+however, (i) that nothing contained herein shall require the Escrow Agent to be indemnified for Losses caused by its
+gross negligence or willful misconduct and (ii) the Trustee shall not be responsible to provide indemnity with
+respect to any direction provided solely by the Depositor hereunder.
+
+10. Removal and Resignation of Escrow Agent; Successor Escrow Agent.
+
+(a) The Interested Parties (in the case of the Trustee, solely on behalf of the Guaranteed Holders and in its capacity
+as the Trustee, not in its individual capacity) may jointly remove the Escrow Agent at any time by giving to the
+Escrow Agent thirty (30) calendar days' prior notice in writing signed by the Interested Parties. The Escrow Agent
+may resign at any time and shall resign if the rating assigned to it by either S&P or Fitch falls below A by giving
+thirty (30) calendar days' prior written notice thereof, subject to Section 10(b) of the Terms and Conditions below.
+
+(b) Within ten (10) calendar days after giving the foregoing notice of removal to the Escrow Agent or receiving the
+foregoing notice of resignation from the Escrow Agent, the Interested Parties shall jointly agree on and appoint a
+successor Escrow Agent. If a successor Escrow Agent has not accepted such appointment by the end of such thirty
+(30) day period, the Escrow Agent may, in its sole discretion, deliver the Escrow Property to the Trustee at the
+address provided herein or may apply to a court of competent jurisdiction for the appointment of a successor Escrow
+Agent or for other appropriate relief, and thereafter be relieved of all further duties and obligations as Escrow Agent
+hereunder. Subject to Section 26 hereof (in the case of the Trustee), the Interested Parties, jointly and severally shall
+be obligated to and shall pay the costs and expenses (including reasonable attorneys' fees and expenses) incurred by
+the Escrow Agent in connection with such proceeding. For the avoidance of doubt, the resignation of the Escrow
+Agent may not take effect until a successor has been appointed.
+
+(c) Upon receipt of the identity of the successor Escrow Agent, the Escrow Agent shall deliver the Escrow Property
+then held hereunder to the successor Escrow Agent. Because of the nature of the Guarantee, deductions from the
+Escrow Property will not be payable obligations owed to the Escrow Agent.
+
+(d) Upon delivery of the Escrow Property to the Trustee, or in accordance with the instructions of a court of
+competent jurisdiction pursuant to subclause (c) above, or to successor Escrow Agent, the Escrow Agent shall have
+no further duties, responsibilities or obligations hereunder.
+
+11. Escrow Agent’s Obligations in the Event of Ambiguities, Conflicting Claims, Etc.
+
+(a) In the event of any ambiguity or uncertainty hereunder or in any notice, instruction or other communication
+received by the Escrow Agent hereunder, the Escrow Agent may, in its sole discretion, refrain from taking any
+                                                            6
+action other than retain possession of the Escrow Property, unless and until the Escrow Agent receives written
+instructions, signed by the Interested Parties, which eliminates such ambiguity or uncertainty.
+
+(b) In the event of any dispute between or conflicting claims by or among the Interested Parties and/or any other
+person or entity with respect to any Escrow Property, the Escrow Agent shall be entitled, in its sole discretion, to
+refuse to comply with any and all claims, demands or instructions with respect to such Escrow Property so long as
+such dispute or conflict shall continue, and the Escrow Agent shall not be or become liable in any way to any
+Interested Party for failure or refusal to comply with such conflicting claims, demands or instructions. The Escrow
+Agent shall be entitled to refuse to act until, in its sole discretion, either (i) such conflicting or adverse claims or
+demands shall have been determined by a final order, judgment or decree of a court of competent jurisdiction, which
+order, judgment or decree is not subject to appeal, or settled by agreement between the conflicting parties as
+evidenced in a writing satisfactory to the Escrow Agent, or (ii) the Escrow Agent shall have received security or an
+indemnity satisfactory to it sufficient to hold it harmless from and against any and all Losses which it may incur by
+reason of so acting. The Escrow Agent may, in addition, elect, in its sole discretion, to commence an interpleader
+action or seek other judicial relief or orders as it may deem, in its sole discretion, necessary. Subject to Section 26
+hereof (in the case of the Trustee), the Interested Parties, jointly and severally shall be obligated to and shall pay the
+costs and expenses (including reasonable attorneys' fees and expenses) incurred in connection with such proceeding.
+
+12. Governing Law; Jurisdiction; Waiver of Right to Trial by Jury.
+
+(a) This Escrow Agreement shall be governed by and construed in accordance with the laws of the State of New
+York of the United States of America, without regard to the conflict of law rules thereof (other than Section 5-1401
+of the New York General Obligations Law and successor provisions thereto).
+
+(b) Any dispute, controversy or claim of any nature arising out of, relating to or having any connection with this
+Escrow Agreement, including any dispute as to the existence, validity, interpretation, performance, breach,
+termination or consequences of the nullity of this Escrow Agreement (a “Dispute”), where the Escrow Agent, the
+Depositor or any Interested Party is either a party, claimant, respondent or otherwise is necessary thereto, shall not
+be referred to a court of any jurisdiction and shall instead be referred to and finally resolved by arbitration under the
+Rules of the LCIA (“LCIA Rules”) as at present in force as modified by this Section 12(b), which LCIA Rules are
+deemed to be incorporated by reference into this Section 12(b). The provisions in the LCIA Rules regarding an
+Emergency Arbitrator shall not apply. Capitalized terms used in this Section 12(b) which are not otherwise defined
+in this Escrow Agreement shall have the meaning given to them in the LCIA Rules. In particular:
+
+    (i) There shall be three arbitrators.
+
+    (ii) Each arbitrator shall be an English or New York qualified lawyer of at least fifteen (15) years' standing
+         with experience in relation to international banking or capital markets disputes. At least one of those
+         arbitrators shall be a lawyer qualified in New York.
+
+    (iii) Within 30 days after the filing of the arbitration, the Escrow Agent shall appoint one arbitrator and the
+          Depositor shall appoint one arbitrator. If any such party or multiple parties fail to nominate an arbitrator
+          within thirty (30) days from and including the date of receipt of the relevant request for arbitration, an
+          arbitrator shall be appointed on their behalf by the LCIA Court in accordance with the LCIA Rules and
+          applying the criteria at subparagraph (ii) above. In such circumstances, any existing nomination or
+          confirmation of the arbitrator chosen by the party or parties on the other side of the proposed arbitration
+          shall be unaffected, and the remaining arbitrator(s) shall be appointed in accordance with the LCIA Rules.
+
+    (iv) The third arbitrator and chairman of the arbitral tribunal shall be appointed by the LCIA Court in
+         accordance with the LCIA Rules and applying the criteria at sub-paragraph (ii) above.
+
+    (v) The seat, or legal place, of arbitration shall be London, England.
+
+    (vi) The language to be used in the arbitration shall be English. This Section 12(b) shall be governed by English
+         law.
+
+                                                            7
+(c) Each of the Escrow Agent and each Interested Party irrevocably waives, to the fullest extent permitted by
+Applicable Law, (i) any objection which it may now or hereafter have to the laying of venue of any action, suit or
+proceeding brought in any court referred to in this Section 12(c), and (ii) any claim that any such action, suit or
+proceeding brought in any such court has been brought in an inconvenient forum.
+
+(d) Each party hereby agrees as to each other party that service of process in any such action, suit or proceeding
+may be effected by mailing a copy thereof by registered or certified mail (or any substantially similar form of mail)
+to (i) The Bank of New York Mellon, London Branch in the case of the Escrow Agent (the “Escrow Agent Process
+Agent”) as such Person’s registered agent in London for service of process at its address at The Bank of New York
+Mellon, London Branch, One Canada Square, Canary Wharf, London E14 5AL, England or at such other address in
+London of which each other party to the Escrow Agreement shall have been notified by the Escrow Agent, (ii) The
+Bank of New York Mellon, London Branch in the case of The Bank of New York Mellon as Party B (the "BONY
+Process Agent" ) as such Person’s registered agent in London for service of process at its address at The Bank of
+New York Mellon, London Branch, One Canada Square, Canary Wharf, London E14 5AL, England or at such other
+address in London of which each other party to the Escrow Agreement shall have been notified by The Bank of New
+York Mellon as Party B, and (iii) Cogency Global (UK) Limited in the case of the Depositor (the "Depositor Process
+Agent" ) as such Person’s registered agent in London for service of process at its address at 6 Lloyds Avenue, Unit
+4CL, London EC3N 3AX, England or at such other address in London of which each other party to the Escrow
+Agreement shall have been notified by the Depositor. Each party to the Escrow Agreement shall, for so long as it
+shall be bound to each other party under this Escrow Agreement, maintain their respective Process Agent (or if such
+Process Agent can no longer perform its functions of agent for service of process, another agent satisfactory to the
+other party) as its duly appointed agent to receive for and on its behalf service of summons, complaint or other legal
+process in any legal action, suit or proceeding the parties to the Escrow Agreement may bring in the English courts
+in relation to any arbitration proceedings contemplated by this Section 12(d) or in relation to recognition or
+enforcement of any such arbitration award obtained in accordance with this Section 12(d).
+
+Service of process in the manner provided in this Section 12(d) in any such action, suit or proceeding shall be
+deemed personal service and accepted by the applicable party as such and shall be valid and binding upon the
+applicable party for all the purposes of any such action suit or proceeding.
+
+(e) To the extent that the Interested Parties may, in any suit, legal action or proceeding brought in any court in
+Ecuador, the United States, the State of New York or any other jurisdiction arising out of or in connection with this
+Escrow Agreement, be entitled to the benefit of any provision of any Applicable Law requiring the Depositor, in
+such suit, legal action or proceeding, to post security for the costs of The Bank of New York Mellon as Party B or to
+post a bond or to take similar action, the Escrow Agent hereby irrevocably waives such benefit to the fullest extent
+now or hereafter permitted under the laws of Ecuador, the United States, the State of New York and, as the case may
+be, such other relevant jurisdictions.
+
+(f) The Escrow Agent and the Interested Parties hereby acknowledge that the Depositor shall, under Applicable
+Law, including without limitation the provisions of the International Organizations Immunities Act of 1945
+(22 U.S.C. 288) and the regulations issued thereunder, be entitled to immunity from a trial by jury in any action,
+suit or proceeding arising out of or relating to this Escrow Agreement, or the transactions contemplated hereby or
+thereby, that may be brought against the Depositor in any court of the United States. TO THE MAXIMUM
+EXTENT PERMITTED BY APPLICABLE LAW, THE TRUSTEE HEREBY IRREVOCABLY AND
+UNCONDITIONALLY WAIVES TRIAL BY JURY IN ANY LEGAL ACTION OR PROCEEDING RELATING
+TO THIS ESCROW AGREEMENT AND FOR ANY COUNTERCLAIM WITH RESPECT THERETO. Each of
+The Escrow Agent and the Interested Parties agrees that the waivers set forth above shall have the fullest extent
+permitted under the Foreign Sovereign Immunities Act of 1976 of the United States (28 U.S.C. §§ 1602-1611) and
+are intended to be irrevocable and not subject to withdrawal for purposes of such Act.
+
+(g) Scope of Immunity
+
+    (i) The Escrow Agent and each Interested Party acknowledge that, in accordance with the Agreement
+        Establishing The Inter-American Development Bank, actions may be brought against the Depositor only in
+        a court of competent jurisdiction or arbitral tribunal in the territories of a member country of the Depositor
+        in which the Depositor has an office, has appointed an agent for accepting service or notice of process, or
+                                                          8
+         has issued or guaranteed securities.
+
+    (ii) The Escrow Agent and each Interested Party acknowledge further acknowledge that:
+
+             a.   no actions shall be brought against the Depositor by member countries of the Depositor or persons
+                  acting for or deriving claims from such member countries;
+
+             b.   the property and assets of the Depositor, wherever located and by whomsoever held, shall be
+                  immune from all forms of seizure, attachment or execution before the delivery of final judgment
+                  against the Depositor; and
+
+             c.   the archives of the Depositor shall be inviolable.
+
+13. Amendments, Etc. Except as otherwise permitted herein, this Escrow Agreement may be modified only by a
+written amendment signed by all the parties hereto, and no waiver of any provision hereof shall be effective unless
+expressed in a writing signed by the party to be charged.
+
+14. Remedies Cumulative. The rights and remedies conferred upon the parties hereto shall be cumulative, and the
+exercise or waiver of any such right or remedy shall not preclude or inhibit the exercise of any additional rights or
+remedies. The waiver of any right or remedy hereunder shall not preclude the subsequent exercise of such right or
+remedy.
+
+15. Representations and Warranties. Each of the Interested Parties represents and warrants (a) that this Escrow
+Agreement has been duly authorized, executed and delivered on its behalf and constitutes its legal, valid and binding
+obligation, enforceable against it in accordance with its terms, except as enforceability may be limited by applicable
+bankruptcy, insolvency, reorganization, moratorium or other debtor relief laws and that certain equitable remedies
+may not be available regardless of whether enforcement is sought in equity or at law, and (b) that the execution,
+delivery and performance of this Escrow Agreement by it do not and will not violate any applicable law or
+regulation.
+
+16. Illegality, Etc. The invalidity, illegality or unenforceability of any provision of this Escrow Agreement shall in
+no way affect the validity, legality or enforceability of any other provision; and if any provision is held to be
+unenforceable as a matter of law, the other provisions shall not be affected thereby and shall remain in full force and
+effect.
+
+17. Entire Agreement. This Escrow Agreement shall constitute the entire agreement of the parties with respect to
+the subject matter and supersedes all prior oral or written agreements in regard thereto.
+
+18. Survival of Certain Provisions. Section 8 of the Instructions and Sections 8-9, 12 and 21-22 of the Terms and
+Conditions of this Escrow Agreement shall survive termination of this Escrow Agreement and/or the resignation or
+removal of the Escrow Agent.
+
+19. Headings. The headings contained in this Escrow Agreement are for convenience of reference only and shall
+have no effect on the interpretation or operation hereof.
+
+20. Counterparts. This Escrow Agreement may be executed by each of the parties hereto in any number of
+counterparts, each of which counterpart, when so executed and delivered, shall be deemed to be an original and all
+such counterparts shall together constitute one and the same agreement.
+
+21. Certain Tax Matters. Except as provided in paragraph 4(b) of the Terms and Conditions above, the Escrow
+Agent does not have any interest in the Escrow Property but is serving as escrow holder only and having only
+possession thereof. Subject to Section 26 hereof, the Trustee shall indemnify the Escrow Agent upon request for
+any transfer taxes or other taxes relating to the Escrow Property incurred in connection herewith and shall indemnify
+and hold harmless the Escrow Agent for any amounts that it is obligated to pay in the way of such taxes. Any
+payments of income from this Escrow Account shall be subject to withholding regulations then in force with respect
+to United States taxes. The parties hereto will provide the Escrow Agent with appropriate W-9 forms for tax I.D.,
+                                                           9
+number certifications, or W-8 forms for non-resident alien certifications, and will inform the Escrow Agent as to the
+proper allocation of income in respect of the Escrow Property for annual and periodic tax and other reporting
+purposes. It is understood that the Escrow Agent shall be responsible for income reporting only with respect to
+income earned on investment of funds which are a part of the Escrow Property and is not responsible for any other
+reporting.
+
+22. Patriot Act Compliance, Etc. In order to comply with the laws, rules, regulations and executive orders in effect
+from time to time applicable to banking institutions, including, without limitation, those relating to the funding of
+terrorist activities and money laundering, including Section 326 of the USA Patriot Act, the Escrow Agent is
+required to obtain, verify, record and update certain information relating to individuals and entities which maintain a
+business relationship with the Escrow Agent. Accordingly, each Interested Party agrees to provide to the Escrow
+Agent, upon its request from time to time such identifying information and documentation as may be available for
+such Interested Party in order to enable the Escrow Agent to comply with the USA Patriot Act.
+
+23. [Reserved.]
+
+24. Information Sharing. The Bank of New York Mellon Corporation is a global financial organization that
+operates in and provides services and products to clients through its affiliates and subsidiaries located in multiple
+jurisdictions (the “BNY Mellon Group”). The BNY Mellon Group may (i) centralize in one or more affiliates and
+subsidiaries certain activities (the “Centralized Functions”), including audit, accounting, administration, risk
+management, legal, compliance, sales, product communication, relationship management, and the compilation and
+analysis of information and data regarding the Interested Parties (which, for purposes of this provision, includes the
+name and business contact information for the Interested Parties employees and representatives) and the accounts
+established pursuant to this Escrow Agreement (“Interested Parties Information”) and (ii) use third party service
+providers to store, maintain and process the Interested Parties Information (“Outsourced Functions”).
+Notwithstanding anything to the contrary contained elsewhere in this Escrow Agreement and solely in connection
+with the Centralized Functions and/or Outsourced Functions, the Interested Parties consent to the disclosure of, and
+authorize BNY Mellon to disclose, the Interested Parties Information to (i) other members of the BNY Mellon
+Group (and their respective officers, directors and employees) and to (ii) third-party service providers (but solely in
+connection with Outsourced Functions) who are required to maintain the confidentiality of the Interested Parties
+Information. In addition, the BNY Mellon Group may aggregate the Interested Parties Information with other data
+collected and/or calculated by the BNY Mellon Group, and the BNY Mellon Group will own all such aggregated
+data, provided that the BNY Mellon Group shall not distribute the aggregated data in a format that identifies the
+Interested Parties Information with the Interested Parties specifically. The Interested Parties represent that the
+Interested Parties are authorized to consent to the foregoing and that the disclosure of the Interested Parties
+Information in connection with the Centralized Functions and/or Outsourced Functions does not violate any relevant
+data protection legislation. The Interested Parties also consent to the disclosure of the Interested Parties Information
+to governmental and regulatory authorities in jurisdictions where the BNY Mellon Group operates and otherwise as
+required by law.
+
+25. Successors and Assigns of Escrow Agent. Any corporation or other company into which the Escrow Agent may
+be merged or converted or with which it may be consolidated, or any corporation or other company resulting from
+any merger, conversion or consolidation to which the Escrow Agent shall be a party, or any corporation or other
+company succeeding to the business of the Escrow Agent shall be the successor of the Escrow Agent hereunder
+without the execution or filing of any paper with any party hereto or any further act on the part of any of the parties
+hereto, except where an instrument of transfer or assignment is required by law to effect such succession, anything
+herein to the contrary notwithstanding.
+
+26. Social Bond Trustee. The Bank of New York Mellon is entering into this Agreement solely in its capacity as
+Social Bond Trustee under the Indenture and not in its individual capacity. Notwithstanding anything to the
+contrary contained in this Agreement, and for the avoidance of doubt, the obligation of the Trustee to indemnify,
+compensate or reimburse the Escrow Agent under the terms of this Agreement or to contribute under a joint and
+several theory of liability, shall be (i) an obligation of the Trustee solely in its capacity as Social Bond Trustee under
+the Indenture; and (ii) limited solely to, and payable solely from, funds available (either from indemnities provided
+to the Trustee or from enforcement actions) to the Trustee in its capacity as Social Bond Trustee under the Indenture
+                                                           10
+at any point in time (provided, however, the available funds shall be determined following payment of the Social
+Bond Trustee’s fees, expenses and indemnity amounts owed under the Indenture and the funds on deposit in the
+Contingency Account shall not be included within the funds available for purposes of this provision). The
+obligation of the Trustee to indemnify, reimburse, pay or contribute any amounts under the terms of this Agreement
+shall not be an obligation of The Bank of New York Mellon in its individual or corporate capacity.
+
+
+
+
+                                                        11
+IN WITNESS WHEREOF, each of the parties has caused this Escrow Agreement to be executed by a duly
+authorized officer as of the day and year first written above.
+
+
+INTER-AMERICAN DEVELOPMENT BANK, as Depositor
+
+
+By:____________________
+  Name:
+  Title:
+
+
+THE BANK OF NEW YORK MELLON, as Social Bond Trustee for and on behalf of the Guaranteed Holders
+under the Guarantee and as Party B
+
+
+By:____________________
+  Name:
+  Title:
+
+
+THE BANK OF NEW YORK MELLON, as Escrow Agent
+
+
+
+By:____________________
+  Name:
+  Title:
+
+
+
+
+                                 [Signature Page to Escrow Agreement]
+                          Schedule I
+
+
+               Authorized Officers of Depositor
+
+
+  Name                  Signature              Phone Number
+
+
+
+ _______________      _______________        _______________
+
+
+ _______________      _______________        _______________
+
+
+ _______________      _______________        _______________
+
+
+
+Authorized Officers of The Bank of New York Mellon, as Party B
+
+
+
+  Name                  Signature              Phone Number
+
+
+
+ _______________      _______________        _______________
+
+
+ _______________      _______________        _______________
+
+
+ ______________       _______________        _______________
+
+
+
+
+                [Schedule I to Escrow Agreement]
+                                                     Schedule II
+
+               ELECTRONIC METHODS AUTHORIZATION, LIMITATION OF LIABILITY
+
+          Interested Party Authorization, Limitation of Liability and Indemnity. Each Interested Party hereby
+authorizes the Escrow Agent and its affiliates (the "Bank") to rely upon and comply with instructions and directions
+sent by it via e-mail, facsimile and other similar unsecured electronic methods (but excluding on-line
+communications systems covered by a separate agreement (such as the Bank’s CA$H-Register Plus system) (“On-
+Line Communications Systems”)) (“Electronic Methods”) by persons believed by the Bank to be authorized to give
+instructions and directions on behalf of the Interested Party. Except as set forth below with respect to funds
+transfers, the Bank shall have no duty or obligation to verify or confirm that the person who sent such instructions or
+directions is, in fact, a person authorized to give instructions or directions on behalf of the Interested Party (other
+than to verify that the signature on a facsimile is the signature of a person authorized to give instructions and
+directions on behalf of the Interested Party); and the Bank shall have no liability for any losses, liabilities, costs or
+expenses incurred or sustained by the relevant Interested Party as a result of such reliance upon or compliance with
+such instructions or directions. Each Interested Party agrees to assume all risks arising out of the use of Electronic
+Methods to submit instructions and directions to the Bank, including without limitation the risk of the Bank acting
+on unauthorized instructions, and the risk of interception and misuse by third parties.
+
+          Funds Transfer Security Procedures. With respect to any “funds transfer,” as defined in Article 4-A of
+the Uniform Commercial Code, the following security procedure will apply: An Interested Party’s payment
+instruction is to include the name and (in the case of a facsimile) signature of the person initiating the funds transfer
+request. If the name is listed as an Authorized Person on a certificate in the form of Schedule I hereto delivered
+pursuant to the Agreement, the Bank will confirm the instructions by telephone call to any person listed as an
+Authorized Person, who may be the same person who initiated the instruction. When calling back, the Bank will
+request from the relevant Interested Party’s staff member his or her name. If the name is listed in the Escrow
+Agent’s records as an Authorized Person, the Bank will confirm the instructions with respect to amount, names and
+numbers of accounts to be charged or credited and other relevant reference information. Where the Agreement
+contemplates joint payment instructions from the interested parties, the Escrow Agent shall call back both the
+Depositor and Party B. Each Interested Party acknowledges that the Bank has offered such Interested Party other
+security procedures that are more secure and are commercially reasonable for such Interested Party, and that such
+Interested Party has nonetheless chosen the procedures described in this paragraph. Each Interested Party agrees to
+be bound by any payment order issued in its name, whether or not authorized, that is accepted by the Bank in
+accordance with the above procedures. When instructed to credit or pay a party by both name and a unique numeric
+or alpha-numeric identifier (e.g. ABA number or account number), the Bank, and any other bank participating in the
+funds transfer, may rely solely on the unique identifier, even if it identifies a party different than the party named.
+This applies to beneficiaries as well as any intermediary bank. Each Interested Party agrees to be bound by the rules
+of any funds transfer network used in connection with any payment order accepted by the Bank hereunder. The
+Escrow Agent shall not be obliged to make any payment or otherwise to act on any instruction notified to it under
+this Escrow Agreement if it is unable to validate the authenticity of the request by telephoning an Authorized Person
+who has not executed the relevant request or instruction of the relevant Interested Party. Payment or otherwise to
+act on any instruction by Authorized Person of the relevant Interested Party will be made by the Escrow Agent
+within three (3) Business Days (as defined in Section 6) after Escrow Agent’s verification of instructions as set forth
+above.
+
+         Authorization. This authorization shall remain in full force and effect until the earlier of termination of
+this Escrow Agreement or the date it is canceled, revoked or amended by written notice received by the Escrow
+Agent; and replaces and supersedes any previous authorization from an Interested Party to the Bank relating to the
+giving of instructions by facsimile, e-mail or other similar Electronic Methods (but excluding On-Line
+Communications Systems) in relation to this Escrow Agreement, and is in addition to all other authorizations.
+Notwithstanding any revocation, cancellation or amendment of this authorization, any action taken by the Bank
+pursuant to this authorization prior to the Bank's actual receipt and acknowledgement of a notice of revocation,
+cancellation or amendment shall not be affected by such notice.
+
+
+
+
+                                                          13
+    Schedule III
+[Intentionally Left Blank]
+
+
+
+
+           14
+                                              Schedule IV
+
+                            Form of Escrow Account Demand Notice
+
+[Date]
+
+         To:   The Bank of New York Mellon
+               240 Greenwich Street
+               Floor 7E
+               New York, NY 10286
+               United States
+
+         Re:    Escrow Account Demand Notice – Partial Credit Guarantee to Ecuador’s Notes
+         due 2035
+
+      1.      Reference is made to the Escrow Agreement, dated as of January 30, 2020 (the
+“Escrow Agreement”), between Inter-American Development Bank (“Depositor”), The Bank
+of New York Mellon, as escrow agent (the “Escrow Agent”) and The Bank of New York
+Mellon as Trustee (the "Trustee").
+
+        2.    Capitalized terms used but not defined herein have the meanings assigned to them
+in the Escrow Agreement.
+
+       3.     In accordance with the Escrow Agreement, we submit to you this Escrow
+Account Demand Notice and we hereby certify to you that the Republic has failed to pay the
+following Scheduled Payment Amount on the following Payment Date:
+               Payment Date:
+               Scheduled Payment Amount(s):       US$
+
+        4.     The Escrow Agent is hereby requested and instructed to make a payment of
+US$__, which shall constitute a Guarantee Payment under the Guarantee, and which relates to
+US$__ of the interest component of the Scheduled Payment Amount described above and US$__
+of the principal component of the Scheduled Payment Amount described above. This Guarantee
+Payment shall be made to the Collection Account on or before the thirtieth (30th) day following
+the Guarantor’s receipt of this Escrow Account Demand Notice.
+
+                                          Sincerely,
+
+                                          THE BANK OF NEW YORK MELLON, as Trustee
+
+
+
+                                          By:
+                                                Name:
+                                                Title:
+
+
+
+
+                                                  15
+

@@ -1,0 +1,2075 @@
+                                                                                        PUBLIC
+                                                                      SIMULTANEOUS DISCLOSURE
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                          URUGUAY
+
+
+
+
+                   SUPPORT PROGRAM FOR THE
+       SOCIO-URBAN INTEGRATION OF THE MIGRANT POPULATION
+
+
+
+                                          (UR-J0001)
+
+
+
+
+                                      GRANT PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Verónica Adler (HUD/CUR),
+Project Team Leader; Ana María Sáiz (SCL/MIG), Alternate Project Team Leader;
+Federica Gómez (INT/TIN), Alternate Project Team Leader; Conrado Mussi and
+Luis Rodriguez (CSC/CUR); Ana Cuesta and Gabriel Filc (SPD/SDV); Allizon Millicich,
+Emilie Chapuis, and Abel Cuba (FMP/CUR); Guillermo Eschoyez and Juan Manuel Casalino
+(LEG/SGO); Alejandro Pareja (IFD/ICF); Federico Brusa (CSD/CCS); Alexandra Alvear
+(INE/INE); and Luis Felipe Vera, Ana Cristina Garcia, Sofia del Castillo, Maria Villota,
+Silvia Perez, and Dianela Avila (CSD/HUD).
+
+
+
+In accordance with the Access to Information Policy, this document is being released to the public and
+distributed to the Bank’s Board of Executive Directors simultaneously. This document has not been
+approved by the Board. Should the Board approve the document with amendments, a revised version
+will be made available to the public, thus superseding and replacing the original version.
+                                                     CONTENTS
+
+
+
+PROJECT SUMMARY
+
+I.     PROJECT DESCRIPTION AND RESULTS MONITORING .................................................. 1
+
+       A.    Background, problem addressed, and rationale ............................................ 1
+       B.    Objectives, components, and costs ............................................................. 12
+       C.    Key results indicators ................................................................................... 15
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ................................................................ 16
+
+       A.    Financing instruments .................................................................................. 16
+       B.    Environmental and social safeguard risks.................................................... 19
+       C.    Fiduciary risks .............................................................................................. 19
+       D.    Other risks .................................................................................................... 19
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................. 20
+
+       A.    Summary of implementation arrangements ................................................. 20
+       B.    Summary of arrangements for monitoring results ........................................ 22
+
+
+
+
+                                                    APPENDICES
+
+
+Proposed resolution
+                                                    - ii -
+
+
+
+                                               ANNEXES
+Annex I           Development Effectiveness Matrix – Summary
+Annex II          Results Matrix
+Annex III         Fiduciary Agreements and Requirements
+
+
+                                                   LINKS
+REQUIRED
+1.   Multiyear execution plan / Annual work plan
+2.   Monitoring and evaluation plan
+3.   Procurement plan
+OPTIONAL
+1.   Project economic analysis
+2.   Program Operating Regulations
+3.   Migration eligibility profile
+4.   Climate change analysis and recommendations
+5.   Gender and diversity analysis
+6.   Safeguard policy filter and safeguard screening form
+                                   - iii -
+
+
+                             ABBREVIATIONS
+
+
+CCLIP      Conditional credit line for investment projects
+CGN        Contaduría General de la Nación [Comptroller General of the Nation]
+CSD/HUD    Housing and Urban Development Division
+CUN        Cuenta Única Nacional [National Single Account]
+DINAVI     Dirección Nacional de Vivienda [National Housing Bureau]
+DNM        Dirección Nacional de Migración [National Migration Bureau]
+EIRR       Economic internal rate of return
+GRF        IDB Grant Facility
+ICB        International competitive bidding
+INE        Instituto Nacional de Estadística [National Statistics Institute]
+MERCOSUR   Mercado Común del Sur [Southern Common Market]
+MVOT       Ministerio de Vivienda y Ordenamiento Territorial [Ministry of Housing
+           and Land Management]
+NCB        National competitive bidding
+PCU        Program coordination unit
+SCL/MIG    Migration Unit
+SIIF       Sistema Integrado de Información Financiera [Integrated Financial
+           Information System]
+TCR        Tribunal de Cuentas de la República Oriental del Uruguay [Court of
+           Auditors of the Eastern Republic of Uruguay]
+UCU        Universidad Católica del Uruguay [Catholic University of Uruguay]
+UNHCR      United Nations High Commissioner for Refugees
+                                                     PROJECT SUMMARY
+                                            URUGUAY
+            SUPPORT PROGRAM FOR THE SOCIO-URBAN INTEGRATION OF THE MIGRANT POPULATION
+                                           (UR-J0001)
+                                                Financial Terms and Conditions
+ Beneficiary:                                                                        IDB Grant Facility (GRF)(a)
+ Eastern Republic of Uruguay                                          Disbursement period:               18 months
+ Executing agency:
+ The beneficiary, acting through the Ministry of Housing and
+ Land Management (MVOT)
+          Source               Amount (US$)               %
+ IDB (GRF):                        5,000,000                  97.39   Currency of approval:              U.S. dollars
+ Local:                             134,000                    2.61
+ Total:                            5,134,000                   100
+                                                         Project at a Glance
+ Project objective/description: The general objective of this operation is to expand the scope of the Neighborhood Improvement
+ Program (loan 4651/OC-UR) by bringing the vulnerable immigrant population and its host communities closer together. Its
+ specific objectives are to: (i) foster urban integration by providing formal basic infrastructure and adequate social and urban
+ services, while guaranteeing secure property tenure and enhancing social capital, taking climate change issues into account;
+ and (ii) provide affordable housing to the low-income population groups, while restoring rundown urban spaces in Montevideo’s
+ historic downtown area.
+ Special contractual conditions precedent to the first disbursement of the financing: (i) the program coordination unit (PCU)
+ for the Neighborhood Improvement Program (loan 4651/OC-UR) has been designated as the execution unit for this operation,
+ and a coordinator has been contracted for migration-related matters; and (ii) the program Operating Regulations for the
+ Neighborhood Improvement Program (loan 4651/OC-UR) have been updated to incorporate the agreements on the execution
+ of resources and the activities financed with the grant contribution funds (paragraph 3.4).
+ Special contractual conditions of execution: (i) before work begins on remodeling the building for the welcome center under
+ Component 1, the Ministry of Social Development (MIDES) and the Ministry of Housing and Land Management (MVOT) will
+ sign an agreement establishing their responsibilities for the center’s management and maintenance and other matters; (ii) before
+ funds are transferred to MIDES for the delivery of temporary housing solutions under Component 1, MVOT and MIDES will sign
+ an agreement establishing their responsibilities and the mechanism for implementing those solutions; and (iii) before activities
+ begin under Component 3, whose outputs are intended for the National Migration Bureau (DNM) of the Ministry of the Interior,
+ MVOT and the Ministry of the Interior will sign an agreement establishing their roles and responsibilities for the implementation
+ of those activities (paragraph Error! Reference source not found.).
+ Exceptions to Bank policies: Waiver of fulfillment of Criterion 1 under paragraph 4.4(i) of document AB-3199, “IDB Grant
+ Facility: Support to Countries with Large and Sudden Intraregional Migration Inflows” and under Section II.A of its Operational
+ Guidelines (document GN-2947-6), to grant eligibility at the subnational level based on the impacts of migration flows in the city
+ of Montevideo (paragraphs 2.5 and 2.6).
+                                                         Strategic Alignment
+ Challenges:(b)                                   SI ☒                            PI ☐                             EI ☒
+ Crosscutting themes:(c)                    GE ☒ and DI ☒                    CC ☒ and ES ☒                         IC ☒
+(a)   Nonreimbursable financing: the IDB Grant Facility (GRF) is the nonreimbursable financing facility of the IDB. In accordance
+      with document GN-2947-6, the nonreimbursable funds for this operation are supplemental to loan 4651/OC-UR, which
+      combines a maximum of 20% in nonreimbursable resources (GRF) and 80% in reimbursable resources (Ordinary Capital).
+      The GRF funds will be disbursed simultaneously and proportionally with the proceeds of loan 4651/OC-UR.
+(b)   SI (Social Inclusion and Equality); PI (Productivity and Innovation); and EI (Economic Integration).
+(c)   GE (Gender Equality) and DI (Diversity); CC (Climate Change) and ES (Environmental Sustainability); and IC (Institutional
+      Capacity and Rule of Law).
+                      I. PROJECT DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and rationale
+1.1       Background. In November 2018, the Board of Executive Directors of the Inter-
+          American Development Bank (IDB) approved the Neighborhood Improvement
+          Program (loan 4651/OC-UR) for US$70 million from the Ordinary Capital as the third
+          individual operation under a conditional credit line for investment projects (CCLIP)
+          with the aim of improving the quality of life of persons residing in informal settlements
+          in Uruguay (UR-X0003). The loan’s general objective is to help improve living
+          conditions for the inhabitants of informal settlements and rundown areas. Its specific
+          objectives are to: (i) foster urban integration by providing formal basic infrastructure
+          and adequate social and urban services, while guaranteeing secure property tenure
+          and enhancing social capital, taking climate change issues into account; and
+          (ii) provide affordable housing to low-income population groups, while restoring
+          rundown urban spaces in Montevideo’s historic downtown area. The operation was
+          declared eligible in December 2019, and the deadline for its last disbursement is
+          currently 3 July 2024.
+1.2       Recent migration flows. Since 2016, Uruguay has been witnessing a significant
+          inflow of immigrants, most of whom are of Venezuelan or Cuban nationality.
+          According to data compiled by the National Statistics Institute (INE), a total of
+          94,196 persons born outside the country were living in private dwellings in Uruguay
+          in 2019. Of that total, 63% resided in Montevideo (approximately 59,000 persons),
+          equivalent to 4.3% of the total resident population of the country’s capital city. In
+          terms of the migration flows involved, 21,673 immigrants arrived in Montevideo
+          between 2016 and 2019, increasing the proportion of immigrants relative to the city’s
+          total population by 1.57% (optional link 3, Migration eligibility profile). According to
+          information available on the Interagency Coordination Platform for Refugees and
+          Migrants from Venezuela (R4V),1 Uruguay has received the fourth largest inflow of
+          Venezuelan migrants among the Southern Cone countries. The pandemic and
+          border closures temporarily halted these flows, but since the post-COVID reopening
+          of national borders the migrant population is once again on the rise, especially at the
+          regional level. In 2021, 14,933 applications for residency and over
+          10,000 applications for asylum and refugee status were started, almost all of them
+          from persons of Cuban or Venezuelan nationality, respectively.2
+1.3       Between 2019 and 2022, applications for temporary resident status processed by
+          the National Migration Bureau (DNM) of the Ministry of the Interior were up 129%,
+          and those submitted under the terms of the Southern Common Market
+          (MERCOSUR) Residence Agreement had increased 262%.3 Nearly
+          20,000 applications are being processed each year by the two agencies concerned
+          (the Ministry of Foreign Relations and DNM), whereas only slightly more than
+          5,000 residency applications were submitted in 2014. In 2021, for example,
+
+
+1     This platform is used by nearly 200 different organizations (including United Nations agencies, civil society
+      organizations, religious organizations, and NGOs, and others) to coordinate their efforts under the Regional
+      Response Plan for Refugees and Migrants from Venezuela.
+2     Estudio sociodemográfico sobre personas solicitantes de asilo, refugiadas y otras personas de interés en
+      diez departamentos uruguayos (UNHCR, 2022).
+3     Residency comparison, January to April (2019 and 2022), Department of Statistics, DNM.
+                                                        -2-
+
+
+
+          3,472 applications for refugee status were submitted in Uruguay, outpacing Chile
+          (2,498) and Argentina (2,229).
+1.4       Considerable efforts have been made over the years, even before this new wave of
+          migration, to adapt to the situation: (i) Law 18,076 of 2006, which deals with asylum
+          and the rights of refugees, led to the establishment of the Refugees Commission to
+          exercise authority in that area; (ii) Migration Law 18,250 of 2008 called for the
+          establishment of the National Migration Board4 as a coordinating and advisory body
+          on immigration issues; and (iii) Law 19,254 of 20145 provides for the possibility of
+          granting permanent residence status to nationals of MERCOSUR member and
+          associate member countries, thereby promoting social and labor inclusion for
+          refugees—including access to decent housing—on an equal footing with the local
+          community. In addition, under the Rapid Response Plan that the DNM of the Ministry
+          of the Interior has been implementing since 2012, foreign nationals who apply for
+          permanent residency in Uruguay can submit basic documents and immediately
+          receive a migration certificate that they can then use to obtain a two-year resident
+          identity card. In 2015, the executive branch was empowered to grant legal residency
+          to particularly vulnerable foreign nationals present in Uruguay whose migration
+          status is irregular.6 Then, in 2018, authorization was given to waive the requirement
+          for the notarization or apostille certification/legalization of unverifiable documents.7
+          That same year, different types of consular visas for entry into the country were
+          introduced.
+1.5       New challenges for the program. The recent, sudden inflow of migrants poses
+          new challenges for the program. Since the launch of the Neighborhood Improvement
+          Program, the presence of overcrowded migrant households located in informal
+          settlements and semiformal areas have posed an additional challenge, above and
+          beyond those initially addressed by the program. The increase in sudden inflows of
+          vulnerable migrants is putting pressure on urban service delivery and on residency
+          application processing capacity and has consequently added to the barriers
+          impeding access to decent housing for both the immigrant population and their host
+          communities. A large percentage of recent migrants, especially the most vulnerable
+          among them, live in the historic center of downtown Montevideo (the “Old Town”)
+          and the surrounding area. This includes persons of Cuban, Peruvian, and Dominican
+          origin, most of whom live in overcrowded boardinghouses. Data indicate that recent
+          immigrants are at a disadvantage in the labor market compared to the local
+          population and that the degree of inequality increased amid COVID-19. Recent
+          studies have found that migrants have less of a chance of being economically active
+          and have fewer job opportunities, with the unemployment rate for recent migrants
+
+
+4     The National Migration Board is composed of one delegate each from the Ministry of the Interior, the Ministry
+      of Foreign Relations, the Ministry of Labor and Social Security, the Ministry of Social Development (MIDES),
+      and civil society (the Advisory Council on Migration (CCAM)). The Board is authorized to call upon other
+      institutions for consultations or advisory services.
+5     Law 19,254 facilitates the granting of permanent resident status to nationals of MERCOSUR member and
+      associate member countries and to persons related to naturalized or Uruguayan-born citizens (spouses,
+      domestic partners, and siblings).
+6     Article 162 of National Budget Law 19,355 of 2015, on the regularization of migrant status, sets out the
+      implementing regulations for Decree 118/018.
+7     Article 112 of Accountability Law 19,670 of 2018.
+                                                      -3-
+
+
+
+          (10.7% in 2018) exceeding the rate for the nonmigrant local population (8.3%).8
+          Recent migrants are 43% less likely to be part of the labor market than nonmigrant
+          nationals, and those migrants who are economically active are 55% less likely to find
+          a job. Recent immigrants are also at greater risk of being employed in occupations
+          for which they are overeducated and of earning less in these occupations than their
+          Uruguayan counterparts. In addition, the stock of vulnerable migrant and host-
+          community households has been hit hard by a decline in income levels as a
+          consequence of COVID-19. A survey of immigrants indicates that some 20% of them
+          lost their job or saw a considerable decrease in their wages9 as a result of the
+          economic fallout from the pandemic. This, in turn, made it even harder for them to
+          pay their rent, thereby generating further pressure in terms of the formation or
+          redensification of informal settlements.10 The phenomenon of requests for immigrant
+          assistance and support received by the Ministry of Social Development (MIDES) has
+          increased fivefold over the last two years, according to data compiled by the
+          International Organization for Migration (IOM). Most of these requests came from
+          immigrants living in boardinghouses who were having difficulty in paying their rent.
+1.6       Action therefore needs to be taken to promote the urban integration of immigrant
+          households into their host communities. This can be done by providing formal basic
+          infrastructure, social and urban services, and affordable housing to low-income
+          people with a gender and diversity lens in the migrant population and their host
+          communities. This initiative will also entail promoting the delivery of housing
+          solutions that will expedite the integration of migrant households. The main problem
+          identified in this connection is the increase in barriers to access to decent housing.
+          Three causes of this situation have been identified, along with additional vulnerability
+          factors having to do with gender and diversity and climate change impacts.
+1.7       Cause 1. The migrant population has problems with access to public services, and
+          information on the integrative social services available in the country is not
+          systematically organized and does not reach the intended recipients as effectively
+          as it should. Although existing laws guarantee access for the migrant population to
+          a variety of public services on an equal footing with Uruguayan nationals, in practice
+          there are various types of barriers that interfere with that access, in part as a result
+          of the recent sudden increase in migrant inflows. Over half of the migrants who have
+          applied for refugee status in Uruguay report that it takes more than six months for
+          their applications to be processed.11 Between 2018 and 2022, the number of
+          migrants receiving the Equity Plan Family Allowance12 and the Uruguay Social
+
+
+
+
+8     Prieto Rosas, V., and Márquez Scotti, C. (2019). Inclusión social de inmigrantes recientes que residen en
+      viviendas particulares de Uruguay, working paper FCS-PP; 04.
+9     According to INE, mean income fell 10.2% in real terms during the pandemic.
+10    Between 4% and 10% of these persons had to move because they were unable to pay their rent.
+      UNHCR-UCU (2022).
+11    UNHCR-UCU (2022).
+12    The Equity Plan Family Allowance is a cash transfer granted to pregnant women, children and adolescents
+      under 18 years of age, and persons with disabilities belonging to socioeconomically vulnerable households.
+                                                       -4-
+
+
+
+          Card13 rose by 20.1% and 27.4%, respectively. The Montevideo district offices of
+          MIDES responded to over 16,850 requests for information and/or assistance from
+          migrants in the first half of 2022 alone. Most of these requests concern food,
+          documentation, cash transfers, or employment.14
+1.8       Information on different procedural mechanisms and processes is scattered across
+          different offices and sources, paving the way for overlaps, confusion, and
+          inaccuracies. A preliminary survey indicates that at least 115 different procedures or
+          public services relating to identity documents, education, social services and
+          resources, human rights violations, violence and justice, employment and job
+          training, health, and housing are offered by a diverse range of 18 different
+          government agencies. Only two of these offices explicitly require a Uruguayan
+          identification document (identity card) to be presented. Nonetheless, in practice,
+          access to some of these services is limited to persons who can produce a
+          Uruguayan identity card (e.g., the Uruguay Social Card, socioeducational inclusion
+          grants,15 and access via WhatsApp to the Automatic Processing System of the
+          Ministry of Labor and Social Security).16
+1.9       Similarly, the findings of the 2022 survey conducted by the United Nations High
+          Commissioner for Refugees (UNHCR) and Universidad Católica del Uruguay (UCU)
+          indicate that, even though primary education is readily accessible, the percentage
+          of immigrant children and adolescents who are still not enrolled and/or do not attend
+          secondary school is surprising (48.67%). Apart from respondents who stated that
+          their nonattendance is due to the fact that they have only recently arrived in the
+          country (24.6%), the rest of the stated reasons17 reflect a lack of information on the
+          subject, as respondents did not know that the Uruguayan educational system is free
+          of charge, that school materials and meals are provided to students in situations of
+          vulnerability, and that a Uruguayan identity document is not required for enrollment.
+1.10      Some public agencies have made efforts on their own to provide pamphlets or
+          frequently asked questions (FAQs) sheets regarding the available public services to
+          migrants. At least eight such guides in differing formats have been found that provide
+          information that overlaps with the information on services offered by civil society or
+          other institutions, such as private universities. The information provided on the main
+
+
+
+
+13    This card is used to make various cash transfer payments aimed at improving people’s incomes and
+      providing them with greater access to staple foods, cleaning and personal hygiene products, clothing, and
+      butane and propane fuels. These transfers are made to households and persons in situations of extreme
+      socioeconomic vulnerability.
+14    Source: MIDES Evaluation and Monitoring Division.
+15    Grants covering early childhood care and education services are provided for children between the ages of
+      0 and 2 years (in exceptional cases, up to 3 years of age) from vulnerable households who live in areas that
+      are underserved by public services and utilities.
+16    For example, whereas Uruguay was one of the countries at the forefront of the COVID-19 response and one
+      of the leaders in vaccination rates, persons who did not yet have a Uruguayan identity document were
+      unable to sign up for vaccinations. Consequently, people—regardless of their age—who did not have an
+      identity card had to wait for months before they could be vaccinated.
+17    Among the reasons cited, 21.8% of respondents said that they did not have the necessary information,
+      21.4% said that they did not have the required documentation, and 20% said that they did not have enough
+      money to cover the education costs.
+                                                       -5-
+
+
+
+         government portal concerning procedures and services available to the migrant
+         population is incomplete.18
+1.11     Additionally, 18.6% of the migrant population say they do not have access to health
+         services. This can be attributed partly to the fact that health coverage in Uruguay is
+         closely linked to access to the formal labor market and, while possession of an
+         identity card is not an absolute requirement, delays in obtaining that card can
+         translate into delays in entering the formal labor market (and, therefore, health
+         coverage). One of the main reasons cited was that the respondents did not have
+         enough money to cover the cost of health services. Since health care in Uruguay is
+         universal and free of charge for the migrant population, this response reflects a lack
+         of information on the part of migrants about how the Integrated National Health
+         System operates, how access is provided, and what benefits are offered.
+1.12     At a more general level, an additional constraint is that health workers need training
+         in how to serve migrant users of public health services. More specifically, MIDES is
+         the only institution that has a team with experience in working with vulnerable
+         migrants.
+1.13     The participatory evaluations carried out by UNHCR in 2021 with immigrants and
+         refugees residing in the Montevideo, Canelones, and Rocha Departments delved
+         into three main subject areas: (i) socioeconomic inclusion; (ii) housing; and
+         (iii) youth. In regard to access to services, respondents underscored difficulties in
+         finding formal employment in their occupational area and in obtaining information
+         about employment opportunities, shelters, and housing. They also underscored the
+         need for more opportunities for adolescents to meet up and interact with one another
+         and a lack of access to childcare services, which has a differential impact on the
+         labor inclusion of women.19
+1.14     It is believed that part of the solution for these problems can lie in promoting urban
+         integration by providing formal basic infrastructure and adequate social and urban
+         services, while guaranteeing secure property tenure and enhancing social capital,
+         taking climate change issues into account.
+1.15     Cause 2. The mechanisms in place for providing housing solutions are not geared
+         to meeting the needs of immigrants. The current immigration situation in the country
+         is having a negative impact on access to essential services, particularly housing.
+         This is reflected in the fact that a large percentage of immigrants live in
+         boardinghouses (shared-use dwellings with common spaces) in which
+         overcrowding, especially in the case of Peruvian and Dominican migrants, has often
+         reached critical levels.20 Regulated and unregulated boardinghouses are becoming
+         one of the main housing solutions used by immigrant families in Montevideo.21 The
+
+18   Migration portal on the Uruguayan government’s official website: www.gub.uy/migración.
+19   Fact sheet, Results in 2021, UNHCR (March 2022).
+20   Overcrowding, measured as the number of people per bedroom, is a problem faced by many migrants in
+     the first dwelling that they occupy in Montevideo; this is especially a problem for those who live in
+     boardinghouses (Bengochea and Madeiro, 2020). Peruvian migrants reporting that they resided in a
+     boardinghouse when they first arrived in the country were subject to critical levels of overcrowding (4.3), as
+     were Dominican migrants (3.6). The degree of overcrowding experienced by Cuban and Venezuelan
+     migrants living in boardinghouses was more moderate (2.9 and 2.3, respectively).
+21   Fossati and Uriarte, 2018; Prieto Rosas et al., 2019.
+                                                       -6-
+
+
+
+         growing supply of unregulated housing options exacerbates and perpetuates the
+         situation of immigrants living in boardinghouses that fail to meet minimum habitability
+         standards. In addition, because of the problems that immigrants have in finding a
+         decent housing solution, these boardinghouses often charge exorbitant prices that
+         further impede the socio-urban integration of migrants. According to the census of
+         boardinghouses conducted by Montevideo City Hall in 2018, 39% of the people
+         residing in them were foreign nationals, and in Montevideo there were
+         233 temporary lodging establishments (boardinghouses), 80% of which had some
+         type of structural defect. There is also another category of unregistered
+         boardinghouses where overcrowding conditions and structural defects are even
+         more critical.
+1.16     In the lowest two income quintiles, which include 52.5% of migrant households,
+         migrant household expenditure on rent represents 54% and 37% of total income,
+         respectively, which is above the recommended international standard.22
+         Furthermore, the rents paid by these households is proportionally higher than the
+         rents paid by Uruguayans. The difficulties encountered in gaining access to formal
+         housing solutions are chiefly attributable to the following factors: (i) Immigrants
+         generally know little about the Uruguayan real estate market. In fact, 91% state that
+         they are unfamiliar with the country’s housing plans. As a result, a large percentage
+         of them live in boardinghouses or other poor-quality housing. The data also indicate
+         that only 34% of the immigrant population lives in rental housing, while the other
+         76%23 resides in improvised shelters or settlements, on the street, in boardinghouses
+         or rooming houses, although they tend to find better housing as their situations
+         improve; (ii) Few regulatory or other tools are in place in Uruguay to meet the
+         housing needs of the population at a time when immigration inflows are fueling
+         demand. No rental subsidization mechanism currently in place is tailored to the
+         migrant population, there are no temporary shelters set aside for them, and no
+         agency or center focuses on supporting them in their search for other housing
+         solutions;24 25 and (iii) This population’s income levels are too low to allow entry into
+         the formal housing market.
+1.17     Cause 3. Instructions regarding the information that has to be supplied in connection
+         with various types of applications and procedures are not readily accessible, and the
+         wait times for the processing of some of them are unclear, which hinders immigrants
+         from gaining access to social services. Uruguay has made headway in standardizing
+         entry and documentation procedures, but the increasing number of residency
+         applications in recent years, as documented by the Ministry of the Interior, has
+
+
+22   On average, migrant households use 40% of their income to pay for where they live. This prevents or delays
+     their integration.
+23   UNHCR, 2022.
+24   Assistance will be provided to beneficiaries in the selection of a dwelling, and they will be coached on how
+     to care for their home and run it efficiently (ways of saving on energy, water use and waste management
+     techniques, etc.).
+25   MVOT has formal arrangements with 17 different agencies for the provision of rental subsidies to vulnerable
+     members of the population, chiefly with “Mujeres para Mujeres” [“Women for Women”], an initiative to
+     support women in their efforts to leave situations where they are subject to gender violence; the Institute for
+     Children and Adolescents of Uruguay; a witness protection agency; and an agency serving returnees,
+     representing approximately 1,100 subsidies per year.
+                                                        -7-
+
+
+
+         slowed the processing of those applications. This, in turn, has made it take longer
+         for immigrants to obtain a Uruguayan identity card.26 Without that card, access to the
+         formal labor market, housing, health care, and even education is more difficult.
+         These delays are attributable, in part, to two issues: (i) 60% of the target population
+         states that the process of applying for refugee status takes between 7 and
+         25 months, while 76.7% say that the main problems in obtaining a migrant visa are
+         a lack of familiarity with and/or access to the necessary information, which is not
+         available from a centralized source, and the difficulty for some highly vulnerable
+         people of submitting applications online without support; and (ii) the agencies
+         responsible for issuing resident visas have been overwhelmed by the number of
+         applications because they lack a streamlined, modern system that would allow them
+         to process applications for identity cards more rapidly.27
+1.18     Gender and diversity challenges. Some 54% of the vulnerable immigrants arriving
+         in the country between 2009 and 2014 were women,28 primarily from the
+         Dominican Republic, Cuba, Peru, and Venezuela. Migrant women are the heads of
+         most single-parent households, generally work in the informal domestic service
+         sector, and have the highest unemployment rates (18% higher than the rate for
+         Uruguayan women and 6 times higher than the rate for male immigrants).29 Migrant
+         women in Uruguay are also more likely than Uruguayan women to be victims of
+         gender-based violence. In 2020, of all the women in Montevideo who required care
+         as a consequence of gender-based violence, 40.5% were Uruguayan and 59.5%
+         were women of other nationalities (optional link 5) (optional link 3). These factors will
+         be taken into consideration in the design of this operation.
+1.19     Challenges posed by diversity-related factors. Persons of African descent are
+         the population group facing the most discrimination and exclusion. Members of this
+         group represent 11% of the Uruguayan population, are generally among the poorest,
+         and more have at least one unmet basic need30 (51.3% of Afro-descendants versus
+         32.2% of persons not belonging to this group).31 MIDES data indicate that more
+         migrant women of African descent are heads of household as compared to their
+         peers (13.5% versus 10.3%) and their unemployment rate is higher as well (14%
+         versus 6.6%).32 The trans population in Montevideo includes a large percentage of
+
+
+26   To obtain an identity card, the applicant must have a residency certificate or a certificate issued by the DNM
+     showing that they are applying for refugee status.
+27   Sociodemographic study on asylum-seekers, refugees, and other groups in 10 Uruguayan departments,
+     UNHCR, 2022.
+28   United Nations Children’s Fund (UNICEF) and MIDES. 2017. Caracterización de las nuevas corrientes
+     migratorias en Uruguay: Nuevos orígenes latinoamericanos: estudio de caso de las personas peruanas y
+     dominicanas.
+29   Idem.
+30   The Uruguayan government uses a system of unmet basic needs metrics in which certain items are
+     identified as basic needs and thresholds are set for each one. If access falls below those thresholds, the
+     level of deprivation is classified as critical. The elements used to calculate these unmet basic needs are:
+     (i) access to decent housing; (ii) drinking water supply; (iii) sanitation services; (iv) electricity; (v) basic
+     household amenities; and (vi) education.
+31   Cabella W. et al. 2011. Atlas sociodemográfico y de la desigualdad del Uruguay. La población afro-uruguaya
+     en el Censo.
+32   MIDES post on Twitter, 2015. Inequidades persistentes: datos sobre la situación de las mujeres afro en
+     Uruguay.
+                                                       -8-
+
+
+
+         migrants from other parts of Uruguay or abroad (35%).33 National data indicate that
+         most of this population group live in outlying areas and are subject to overcrowding,
+         5% are homeless, fewer have access to housing title (16% versus 59% of the
+         general population), 45% live in substandard housing,34 and 45% are victims of
+         violence connected with their gender identity. Relatively little data on the migrant
+         population in Uruguay is disaggregated by race, disability, ethnicity, and gender
+         identity. But, taking an intersectional approach to analysis of the data,35 it can be
+         assumed that the challenges faced by Afro-descendants and LGBTQ+ persons are
+         even greater if they are also migrants (optional link 5).36 These considerations will
+         be incorporated into the design of activities under this operation involving the
+         delivery of services to these population groups, and records will be kept on the
+         services provided to different population groups.
+1.20     Barriers associated with climate change impacts. In 2021, Uruguay unveiled its
+         National Long-Term Climate Strategy for achieving a low-emissions, climate-
+         resilient form of development37 in fulfillment of the commitments it has made under
+         the Paris Agreement. This strategy establishes an aspirational scenario of achieving
+         CO2 neutrality by 2050 and delivering on the pledge to make adaptation a national
+         climate policy and action priority for Uruguay, which is particularly vulnerable to the
+         impacts of climate change. The housing sector has a role to play in attaining this
+         goal, since it is a source of greenhouse gas emissions, primarily from:
+         (i) construction; (ii) energy and water use; and (iii) urban solid waste and
+         wastewater management. In addition, severe climate events (chiefly flooding and
+         droughts) have an impact on the sector that extends to households, their residents,
+         urban infrastructure, utilities, livelihoods, and the economy. According to estimates
+         of the National Water Resources Bureau, over 95,000 people in Uruguay reside in
+         floodplains.38 Their situation could become more tenuous, given current climate
+         projections for the country, which point to increased precipitation and temperatures
+         under the strong influence of El Niño – Southern Oscillation (ENSO).39 In view of the
+         challenges posed by climate change and in keeping with the international
+         commitments assumed by the country, the National Policy on Climate Change was
+         approved in 2017. One of the objectives of that policy is to promote the development
+         of sustainable cities, communities, human settlements, and infrastructure that are
+         resilient to climate change and climate variability while helping to reduce greenhouse
+
+
+
+33   Montevideo City Hall. 2016. Sexual Diversity and Social Equality Agenda 2016-2020.
+34   World Bank. 2020. Social Inclusion in Uruguay.
+35   The concept of intersectionality has to do with the fact that each person may suffer oppression as a result
+     of their association with many different social categories, such as gender, ethnicity, race, age, nationality,
+     disability, and gender identity. As one example, a woman migrant of African descent might be subject to
+     intersectional discrimination.
+36   National Census of Trans Persons, 2016, MIDES.
+37   Long-term climate strategy for low greenhouse gas emissions and climate-resilient development (Uruguay,
+     2021).
+38   Estimates prepared by the National Water Resources Bureau (DINAGUA) indicate that 95,375 people are
+     living in floodplains (2021). Accessed in July 2022, available at https://www.gub.uy/ministerio-
+     ambiente/politicas-y-gestion/inundaciones.
+39   Fourth National Communication to the Conference of the Parties to the United Nations Framework
+     Convention on Climate Change, Uruguay, 2016.
+                                                    -9-
+
+
+
+         gas emissions.40 The activities to be funded by the program, including the
+         refurbishments of buildings, will take climate change impacts into account and thus
+         contribute to the implementation of the national policy. In addition, the work to be
+         done in the area of housing subsidies will be designed to avoid the formation of
+         informal settlements and will be guided by established standards for the placement
+         of rental housing and the materials to be used. These considerations have been
+         incorporated into the program design (see paragraph 1.32).
+1.21     The country’s sector strategy. An absence or shortfall of decent housing interferes
+         with access to basic social services. It is difficult for people to find work, go to school,
+         or obtain health care if they do not have a dwelling that meets basic standards of
+         habitability. The country’s strategy aims to change this situation by providing support
+         to families from the time they enter the country until they are in a position to
+         participate in the habitat and housing programs that Uruguay has in place. This
+         support continuum starts with the provision of temporary lodging and continues on
+         to rental subsidies, the government-run Rental Guarantee Fund41 or other market-
+         based options (40% of this fund’s resources were granted in the form of guarantees
+         to migrants in 2019), and lastly, the housing solutions offered by the government,
+         such as subsidies for house payments, cooperative housing, and others.
+1.22     Request. In view of the foregoing, the Government of Uruguay, acting through the
+         Ministry of Economy and Finance, expressed interest in accessing resources from
+         the IDB Grant Facility to Support Countries with Large and Sudden Intraregional
+         Migration Inflows. Preparation of an investment grant operation was requested to
+         supplement the third individual operation (loan 4651/OC-UR), now in execution,
+         under the conditional credit line for investment projects (CCLIP) for the
+         Neighborhood Improvement Program (UR-X1003). This operation will strengthen
+         the components of loan 4651/OC-UR by improving the access of the immigrant
+         population in Montevideo to affordable housing and job opportunities. The request
+         meets the eligibility requirements for use of such nonreimbursable resources as set
+         out in documents AB-3199 and GN-2947-6 (see paragraphs 2.2 and 2.3). The
+         program also has synergies with other Bank operations now in the design stage,
+         including a program to increase financing to improve habitability conditions for
+         households in informal settlements.
+1.23     Progress of loan 4651/OC-UR. This third individual operation under the CCLIP for
+         the Neighborhood Improvement Program (UR-X1003) was approved by the Bank’s
+         Board of Executive Directors on 1 November 2018 and met the relevant eligibility
+         requirements on 18 December 2019. To date, two disbursements for a total of
+         US$7.05 million have been made out of the total financing of US$70 million. The last
+         disbursement of the US$30 million in local counterpart funds is currently scheduled
+         for 3 July 2024. The program has generated an investment project portfolio involving
+         at least 20 informal settlements. Headway has also been made on the
+         implementation of Component 2 with approval of the bidding specifications for the
+         rehabilitation of four buildings. The activities to be supported by this operation will
+         complement those of program 4651/OC-UR, which will increase its disbursements
+         and improve its performance due to two factors: (i) an increase in the physical space
+
+
+40   National Policy on Climate Change (2017).
+41   The Rental Guarantee Fund will enable recipients to obtain a government-backed guarantee certificate.
+                                              - 10 -
+
+
+
+       agreed upon with the Ministry of Economy and Finance for this program; and (ii) a
+       possible one-year extension for the corresponding resource commitments. The
+       investment grant financing operations will be agreed upon with the beneficiary
+       country, reflecting the pari passu disbursement requirements described in
+       paragraph 3.7, so the two operations will be interdependent. The actions of this
+       investment grant will thus make it possible to expand the program’s scope in:
+       Component 1, through the generation of urban services for social and urban
+       integration with emphasis on human capital; in Component 2, through rental housing
+       subsidies to prevent the formation of new informal settlements; and Component 3,
+       through the strengthening of government agencies involved in granting residency
+       status allowing access to social and urban services. All actions as part of this
+       operation will focus on the Department of Montevideo, based on the eligibility criteria
+       listed below in paragraph 2.5.
+1.24   Strategic alignment. This operation is aligned with the second Update to
+       the Institutional Strategy: Development Solutions that Reignite Growth and Improve
+       Lives (document AB-3190-2). Specifically, it is aligned with the development
+       challenges to: (i) social inclusion and equality, as many of the immigrants who have
+       recently arrived in Uruguay are women; and (ii) economic integration, as it will seek
+       to improve living conditions for migrant households as a means of promoting their
+       integration into the labor market. It is also aligned with the IDB Group Corporate
+       Results Framework 2020-2023 (document GN-2727-12), specifically the indicators
+       of: (i) social inclusion and equality, indicator 6 (beneficiaries of initiatives that support
+       migrants and their host communities); and (ii) institutional capacity and rule of law,
+       indicator 26 (agencies with strengthened digital technology and managerial
+       capacity). Additionally, it is aligned with the crosscutting themes of: (i) gender
+       equality and diversity, as it prioritizes women heads of household, persons with
+       disabilities, Afro-descendants, and the LGBTQ community; (ii) institutional capacity
+       and rule of law, as it will take steps to strengthen institutions and instruments of the
+       Government of Uruguay in order to better serve the immigrant population; and
+       (iii) climate change and environmental sustainability, as it will focus on degraded
+       areas subject to climate risk and support housing solutions in centrally located areas.
+       According to the joint methodology of the multilateral development banks, 21.53%
+       of the operation’s resources are invested in climate change mitigation and
+       adaptation activities. These resources contribute to the IDB target of increasing
+       financing for climate-related projects to 30% of approvals in 2022.
+1.25   The operation is also aligned with the IDB Group Country Strategy with Uruguay
+       2021-2025 (document GN-3056) and specifically with the strategic objective of
+       facilitating urban services and housing in the priority area of equality and social
+       inclusion. Additionally, it is consistent with three of the four lines of action of the
+       Housing       and    Urban       Development      Sector     Framework      Document
+       (document GN-2732-11), particularly as it will help to overcome structural social
+       exclusion by improving informal neighborhoods and promoting access to adequate
+       housing, build climate resilience by averting the formation of new informal
+       settlements, and promote urban good governance by strengthening data
+       management capacity, improving coordination, and fostering citizen participation.
+       The operation is also aligned with the Gender and Diversity Sector Framework
+       Document (document GN-2800-8), as it puts priority on regularizing the property title
+       of women heads of household. It is aligned with the objectives of the IDB Grant
+                                            - 11 -
+
+
+
+       Facility to Support Countries with Large and Sudden Intraregional Migration Inflows
+       (documents GN-2947-1 and AB-3199). Lastly, it was included in Annex III of the
+       Operational Programming Report 2022 (document GN-3087).
+1.26   Lessons learned. The Migration Unit (SCL/MIG) and the IDB Grant Facility to
+       Support Countries with Large and Sudden Intraregional Migration Inflows are fairly
+       new additions to the Bank. The Housing and Urban Development Division
+       (CSD/HUD) has recently approved an operation that will use GRF funds to help
+       reduce the number of local and immigrant households residing in informal
+       settlements in Chile (loan 5313/OC-CH; grant 5314/GR-CH). That operation will
+       seek both to improve existing informal settlements and to prevent the establishment
+       of new ones. There have also been a number of success stories around the world
+       that involve the application of comprehensive migrant service models, especially in
+       the areas of housing and urban integration. For example, the German town of Altena
+       has set up an integrated center that provides support for new arrivals and helps them
+       to enroll in school, find housing, and become a part of the local community. Ashley
+       Community Housing in the United Kingdom (2009) is another example, as this
+       initiative has succeeded in ensuring that refugees become self-sufficient, find work,
+       and make a positive contribution to the economy of their new community.
+1.27   “Fundación Idas y Vueltas” (the “Coming and Going Foundation”) in Montevideo
+       helps uphold the right to migrate by providing advisory assistance and information
+       to the migrant population about rental guarantees and following up on the progress
+       being made by people applying for a rental contract in order to identify any potential
+       blockers. The program has demonstrated that making information available in a
+       clear and organized fashion helps to empower vulnerable people and promote the
+       use of legal protections.
+1.28   Another innovative example is the Co-Housing and Case Management for
+       Unaccompanied Young Adult Refugees project in Antwerp, Belgium (CURANT),
+       which promotes the social integration of refugees there. This initiative uses a
+       combination of tools to provide a safe living environment for people between 17 and
+       22 years of age who wish to share affordable housing with local inhabitants. This
+       project puts social bonds at the heart of the conversation around migration issues.
+       In most cases, the close bonds that are formed among these young people when
+       they share the same dwelling better prepare foreign nationals for their new life in an
+       unfamiliar society and counter social prejudice against them. Another interesting
+       case is that of Startblok Riekerhaven. This initiative of the Amsterdam municipal
+       government has set up a residential cooperative where the participants not only live
+       together but also engage in cultural and social integration experiences.
+1.29   “Chile Te Recibe” (“Chile Welcomes You”) is a Latin American initiative focused on
+       safeguarding the rights of migrants under 18 years of age by regularizing their
+       migration status. This is accomplished by providing these immigrants with special
+       visas, regardless of the migration status of their families, that give them access to
+       educational, health, recreational, and other services. Another initiative is MigrApp in
+       Chile, a website and smart phone application of the Jesuit Migrant Service (SJM),
+       provides a virtual platform that facilitates migrants’ and refugees’ access to relevant,
+       personalized information about their rights and a digital means of connecting with
+       members of the local population. All these experiences have facilitated dialogue in
+       the country around finding innovative solutions for the housing access problems
+                                                       - 12 -
+
+
+
+         faced by the migrant population and will be incorporated into the design of the
+         proposed solutions.
+1.30     More recently, some countries have begun to offer rental subsidies to the migrant
+         population. One of those countries is Colombia, where the migrant population
+         accounted for a large percentage of total rentals in 2019, especially in cities such as
+         Cúcuta (27.4%) and Barranquilla (14.7%). In 2021, Colombia introduced the
+         “Semillero de Propietarios” (“Homeowner Incubator”) low-income rental program.
+         The regulations governing that program defined the category of “migrant household,”
+         the corresponding targeting standards, and the main operational aspects and
+         parameters of the subsidy. They also set a ceiling of the equivalent of 0.4 times the
+         minimum wage for up to 12 months at 100%, together with a guarantee covering
+         nonpayment of rent and utilities, and provided for an authorized real estate broker
+         to act as an intermediary. This subsidization program was not actually used during
+         its first year, however, mainly because of the lack of available housing for this
+         population group and because of the size of the subsidy. In June 2022, new
+         regulations were issued that increased the subsidy and did away with the provision
+         for a real estate broker to play an intermediary role; instead, the regulations now
+         provide for a third party, proposed by the renter, to verify the quality of the living
+         conditions afforded by the dwelling in question. In addition, the Office of the Mayor
+         of Bogotá has implemented the supply-side Plan Terrazas (“Terraces Plan”) based
+         on the idea that families in Bogotá could build an additional unit on the second floor
+         of their house as a way of expanding the supply of available rentals. The lessons
+         learned from the programs introduced in Colombia have been taken into account in
+         calculating the sizes of the subsidies to be offered under this operation and the
+         management mechanisms to be used.
+B.       Objectives, components, and costs
+1.31     The general objective of this operation is to expand the scope of the Neighborhood
+         Improvement Program (loan 4651/OC-UR) by bringing the vulnerable immigrant
+         population and its host communities closer together. Its specific objectives are to:
+         (i) foster urban integration by providing formal basic infrastructure and adequate
+         social and urban services, while guaranteeing secure property tenure and enhancing
+         social capital, taking climate change issues into account; and (ii) provide affordable
+         housing to the low-income population groups, while restoring rundown urban spaces
+         in Montevideo’s historic downtown area.42
+
+
+
+
+42   Paragraph 4.2 of the Operational Guidelines for the Use of Resources from the IDB Grant Facility to Support
+     Countries with Large and Sudden Intraregional Migration Inflows states: “… In order to ensure that the
+     migration component or operations financed through loans and a grant with GRF resources follow a common
+     vertical logic and to facilitate the pari passu disbursement, a single results matrix will be used for the loan
+     and the associated grant. For both, the loan and the GRF grant, the progress monitoring report (PMR) will
+     use the performance methodology applicable to the corresponding lending instrument and modality of the
+     loan, as stated in document OP-1072-5.” The indicators have been designed on the basis of the existing
+     execution period for loan 4651/OC-UR on the understanding that, for the time being, no extension has been
+     granted and that this is a matter that will be considered during the next portfolio review to be undertaken
+     with the country. The indicators for this matrix focus on this grant. The rest of the indicators are being
+     captured by operation 4651/OC-UR.
+                                                      - 13 -
+
+
+
+1.32     Component 1. Neighborhood improvement (Welcome Center for the Migrant
+         Population) (GRF: US$2,016,900). Financing will be provided for opening a Migrant
+         Welcome Center for activities aimed at increasing the socio-urban integration of the
+         migrant population. To support the implementation of this comprehensive migrant
+         services management model, financing will be provided for: (i) a Welcome Center
+         for the Migrant Population. The welcome center will be located in a building
+         belonging to the Ministry of Housing that will be remodeled and equipped with
+         improved infrastructure for that purpose. The building will be managed by the
+         Ministry of Housing in coordination with MIDES and will be used to provide the
+         immigrant population with appropriate information and support for accessing
+         government social services and the labor market. This building is located in
+         downtown Montevideo (“Old Town”), where a majority of the immigrant population
+         in Montevideo lives.43 The design of the welcome center will incorporate gender and
+         diversity and climate change considerations; (ii) the design and implementation of a
+         comprehensive management model for migrant services provided by the
+         government and possibly other agencies with a view to expediting the social and
+         urban integration of the migrant population. This will include at least nine services
+         dealing with gender and diversity issues.44 The welcome center will keep
+         administrative records on the population it serves that consider gender, disability,
+         race, gender identity, and other factors. It will also have a grievance system;
+         (iii) temporary housing solutions for particularly vulnerable members of the
+         immigrant population, giving priority to households headed by women and
+         households located in nonmitigable risk areas.45 An estimated 430 subsidies are to
+         be provided for periods of between three and six months, with the expectation being
+         that these households will then go on to take part in the pilot rental subsidy program
+         or make use of other solutions offered by Uruguay’s housing system. The family
+         eligibility requirements and prioritization criteria for participation in these
+         arrangements will be described in the program Operating Regulations and will
+         include such variables as ties with networks in the migrants’ place of origin, recent
+         arrivals, women heads of household or single-parent households, and
+         diversity-related factors such as race, disability, and sexual orientation or identity;
+         and (iv) social services support for families in finding housing solutions and their
+         subsequent maintenance/use starting at the stage of the temporary housing
+         solutions.46
+1.33     Component 2. Pilot project for the socially driven restoration of centrally
+         located rundown buildings (Rental Subsidy for the Immigrant Population)
+         (GRF: US$2,000,000). Financing will be provided for actions aimed at improving the
+         quality of housing and access to public services for the immigrant population by
+
+
+43   During the operation’s design stage, support was provided to the country to ensure that the remodeling plans
+     met Edge climate-change certification requirements and incorporated gender and diversity elements such
+     as breastfeeding rooms, playrooms for children, at least one gender-neutral bathroom (for LGBTQ+
+     persons), universal-access infrastructure for persons with mobility disabilities, and signage appropriate for
+     hearing- and sight-impaired persons. The welcome center will also have areas for future activities for
+     members of both the host community and immigrants, such as courses on starting a business and finding a
+     job, financial education courses, technology bootcamps, and other courses on job categories that are in high
+     demand; some of these will focus on women and other diverse groups, with their exact nature to be
+     determined depending on the demand for services.
+                                                       - 14 -
+
+
+
+         designing and launching a pilot project for providing rental subsidies to migrants,
+         giving priority to socioeconomically vulnerable migrant households. The purpose of
+         these subsidies will be to provide access to adequate rental housing in the private
+         real estate market. The eligibility and prioritization criteria both for families and for
+         housing units will be described in the program Operating Regulations47 and will
+         include such factors as household income level, status as a single-parent
+         household, and gender and diversity considerations. The criteria to be used in
+         selecting housing units will include such factors as good access to urban services
+         and location in areas not prone to flooding. Rental subsidies are to be provided for
+         an 18-month period to approximately 264 households as a means of expediting their
+         social and urban integration. Administrative records will be kept on the subsidies that
+         cover gender identity, ethnicity, sex, disability status, and other factors.
+1.34     Component 3. Institution-strengthening (GRF: US$850,000). This component
+         seeks to strengthen the delivery of comprehensive services to immigrants by
+         streamlining and facilitation processes and procedures. The emphasis will be on the
+         creation of a single system for residency procedures48 to facilitate centralized access
+         to information on the various steps involved such procedures. The Migrant Welcome
+         Center will provide a physical location as a one-stop window to provide information
+         and referrals for all the different government services and procedures relating to
+         immigration and residency. Financing will be provided for: (i) the design and
+         implementation of information and communication technology (ICT) systems used
+         by the National Migration Bureau (DNM) of the Ministry of the Interior49 to process
+         residency applications; (ii) office computer equipment;50 (iii) training in use of the new
+         system and outreach materials, including specialized training on gender and
+         diversity in the migrant context, to orient DNM public agents in terms of basic
+
+
+44   Gender- and diversity-related services to be provided at the welcome center include: (i) advisory services
+     concerning the procedures for changing a person’s name and sex as registered in administrative records;
+     (ii) applications for the “Accesos” social and employment inclusion program, which includes affirmative
+     action components (with quotas) for women, trans persons, and Afro-descendants; (iii) information on the
+     Uruguay Social Card and how trans persons can apply for it; (iv) access to training for trans persons;
+     (v) applications for reparation pensions for trans persons; (vi) guidance and referrals to services for victims
+     of gender-based violence; (vii) contact information for the Sexual Diversity Department; (viii) Contact
+     information for CRAm (an LGBT+-friendly psychological support service provided for under an agreement
+     between MIDES and university psychology department); and (ix) contact information for the Public Policy
+     for Afro-descendants Division.
+45   The eligibility requirements for housing as stated in the Low-Income Housing Performance Standards and
+     Requirements include: (i) environmental conditions; (ii) risk conditions; (iii) basic infrastructure; and
+     (iv) topographic conditions.
+46   The support to be provided to households will include assistance from teams of social workers under
+     Components 1 and 2.
+47   As in the case of temporary housing solutions, the criteria to be used will include single-parent households,
+     family income levels, and membership in such groups as Afro-descendants, households whose members
+     include persons with disabilities, and LGBTQ persons.
+48   This new interoperable back-end single system for residency procedures will make it possible for the
+     different agencies involved to align the criteria that they use and will provide a channel for strengthening
+     them and providing them with training, especially with regard to regularization, entry, residency, and
+     documentation procedures.
+49   The systems will need to be designed in such a way as to permit the necessary coordination with the Ministry
+     of Foreign Relations.
+50   This computer hardware will have a high energy-efficiency rating.
+                                                        - 15 -
+
+
+
+         knowledge and the specific needs and challenges of women, Afro-descendants, and
+         LGBTQ+ persons in the migration context, to combat discrimination, xenophobia,
+         unconscious bias, and gender violence; and (iv) strengthening of the offices of the
+         National Housing Bureau (DINAVI) for implementation of the subsidies.
+1.35     Management, evaluation, and audit (Total: US$267,100. IDB: US$133,100;
+         Counterpart funds: US$134,000). These funds will cover the cost of program
+         audits and capacity-building of the program coordination unit (PCU) to administer
+         the grant. They will also finance the evaluation of the various pilots and program
+         management expenses.51
+1.36     Beneficiaries. The target population will be migrants living in Montevideo. The
+         program is expected to directly benefit approximately 430 migrants, 54% of whom
+         are women. The program will also benefit the rest of the population of Montevideo
+         because the welcome center will be a multicultural space offering programs intended
+         to attract other residents of Montevideo and contribute to the integration
+         phenomenon. The rental subsidy pilot project will also benefit the rest of the
+         population because Uruguay currently has no rental subsidy program, so this pilot
+         will provide a model for the design and development of such a program for the
+         Uruguayan population.
+C.       Key results indicators
+1.37     Results. The expected outcomes are as follows: Components 1 and 3:
+         (i) percentage of procedures available for the migrant population at the welcome
+         center; and (ii) residency system improved and in operation. Component 2:
+         (i) households that, after receiving the rental subsidy, access one of the housing
+         policies of the Ministry of Housing and Land Management (MVOT) and/or other
+         market solutions; and (ii) housing solutions52 located in Montevideo’s historic center
+         as a % of total subsidies granted.
+1.38     Economic viability. The economic assessment methodology has been selected for
+         the ex ante economic evaluation of this program (optional link 1). The ultimate aim
+         of all actions under the three program components is the urban integration of
+         immigrant families. The migrant welcome center, the comprehensive services pilot
+         model, as well as the temporary housing response, Rental Subsidy Fund, and the
+         single system for residency procedures are all intended to expedite and improve the
+         migrant population’s process of regularization and access to services for better
+         socioeconomic integration.
+1.39     The analysis, using a 12% discount rate and a 15-year evaluation horizon, yielded
+         a positive net present value of US$399,000 on an investment of US$5,134,000
+         (US$5,031,000 at economic cost) and an economic internal rate of return (EIRR) of
+         15.8%. The sensitivity analysis indicates that there are nine key variables that do not
+         reverse the conclusion in favor or the program, in negative and positive scenarios
+         with variations of up to 20%, since the EIRR remains above the rate used for the
+
+
+51   The Neighborhood Improvement Program has arranged for the United Nations Development Programme
+     (UNDP) to manage some of the program’s contracts, and it is expected that the grant will be managed in
+     the same manner.
+52   The term “housing solution” is understood to refer to a rental housing unit located in the historic center or its
+     area of influence in Montevideo.
+                                                        - 16 -
+
+
+
+          opportunity cost even in the negative scenarios, or very near it. However, there are
+          three other variables that do not support the conclusion in favor or the program in
+          the negative scenarios because they yield a lower EIRR, which indicates conditions
+          in which the program benefits would not outweigh the opportunity costs of the funds
+          used for these interventions. These variables are, in descending order of impact, the
+          percentage of the amount borne by MIDES and MVOT for continuation of the pilots
+          on temporary housing solutions and rental subsidy funds, the amount of the current
+          cost for MIDES of the temporary housing solutions for migrants, and the number of
+          migrants recently arriving in the country.
+
+                             II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+2.1       The program is structured as an investment operation to be financed by an
+          investment grant of US$5 million from the IDB Grant Facility (GRF) and a local
+          counterpart contribution of US$134,000. The GRF financing will be drawn from the
+          resources authorized for the support of countries with large and sudden intraregional
+          migration inflows (per documents AB-3199 and GN-2947-6). The estimated costs
+          for each component are shown in Table 1. The disbursement period will be
+          18 months according to the flows in Table 2, under which the GRF funds will be
+          disbursed simultaneously and proportionally with the loan proceeds of the
+          Neighborhood Improvement Program (loan 4651/OC-UR).53
+
+
+
+
+53    The project will be executed in 18 months (following the execution timetable for loan 4651/OC-UR), due to
+      the following factors: (i) the country is already working on the bidding specifications for the work involved in
+      remodeling the buildings and managing the Migrant Welcome Center; (ii) the rental subsidy component will
+      not take long to implement because it will be carried out by means of bank transfers; and (iii) contracting will
+      be conducted by a management firm already working on loan 4651/OC-UR, thereby making it possible to
+      meet the contracting deadlines established in Annex III.
+                                                     - 17 -
+
+
+
+                                    Table 1. Estimated program costs (US$)
+
+                Subcomponents/Categories           Total budget         IDB (GRF)       Counterpart
+                Component 1                              2,016,900        2,016,900
+                Component 2                              2,000,000        2,000,000
+                Component 3                               850,000          850,000
+                Administration, total                     267,100          133,100            134,000
+                Total                                    5,134,000        5,000,000           134,000
+
+                                     Table 2. Disbursement flows (US$)
+
+                                          Year 1               Year 2                 Total
+                   IDB (GRF)              3,595,533             1,404,467             5,000,000
+                   Counterpart              109,360                  24,640           5,134,000
+                   Percentage (%)                   72                   28                   100
+
+
+2.2       Eligibility. In accordance with document GN-2947-6 (paragraph 4.4), the operation
+          is eligible for GRF financing via a supplementary investment grant when: (i) there
+          are components of the operation whose original scope can be scaled up in order to
+          directly benefit migrants living in overcrowded conditions in informal settlements in
+          Montevideo; (ii) the operation meets all eligibility criteria (see paragraph 2.5 and
+          optional link 3); and (iii) not more than 30% of the original loan amount has been
+          disbursed.
+2.3       Additionality of the grant funds. The unprecedented migrant flows present
+          Latin America and the Caribbean with a novel challenge and could have adverse
+          effects on host communities, if not dealt with appropriately. Responding to these
+          exceptional circumstances, the IDB Board of Governors approved the use of up to
+          US$100 million in Ordinary Capital resources, through the IDB Grant Facility to
+          Support Countries with Large and Sudden Intraregional Migration Inflows
+          (documents GN-2947-6 and AB-3199). The use of this facility is intended to help
+          countries to design appropriate actions for migrants and their host communities to
+          access to basic and social services, and to provide economic opportunities
+          benefitting both groups, to promote inclusive development and foster a positive
+          relationship.
+2.4       Fulfillment of migration GRF eligibility criteria and partial waiver of Criterion 1.
+          The results of an analysis of the eligibility criteria established in the Operational
+          Guidelines for the Use of Resources from the IDB Grant Facility to Support Countries
+          with Large and Sudden Intraregional Migration Inflows (document GN-2947-6) and
+          of the need for a waiver of Criterion 1, to establish eligibility at a subnational level
+          based on the impacts of the migration flows described in optional link 3 are
+          summarized as follows: (i) Uruguay is not on the list of eligible countries, as defined
+          in document GN-2947-1 and in paragraph 3.2 of the Operational Guidelines, but the
+          21,673 immigrants (1.57% of the total population, well in excess of the 0.5%
+          requirement)54 who arrived in the City of Montevideo (a subnational geographic area;
+
+
+54    Optional link 3.
+                                            - 18 -
+
+
+
+      see paragraph 2.5) between 2016 and 2019 are compromising the response
+      capacity of vulnerable subnational host communities; (ii) this is a rapid, massive
+      inflow in which: (a) many of the immigrants are living in what are often overcrowded
+      conditions (see paragraph 1.5) in boardinghouses (shared-use dwellings with
+      common areas); and (b) the immigrants living in unregulated boardinghouses are
+      the ones who are most likely to be so poor that they are obliged to live in informal
+      settlements far from places of employment and bereft of social safety nets, which
+      heightens their vulnerability; (iii) this operation is consistent with the thematic area
+      of intervention of the migration facility described in subparagraph 3.16(iii) of
+      document AB-3199 (GN-2947-1), as it will provide access to basic services and
+      benefit both the migrant population and host communities; (iv) the potential
+      beneficiary migrant population for the operation is composed of approximately
+      430 vulnerable migrants, the overall migrant population, and, in particular,
+      the women in that population, who account for 54% of recent migrants, in addition
+      to the members of their host communities residing in informal settlements
+      in Montevideo; and (v) the operation is included in Uruguay’s 2022 country
+      programming document (UR-O1159, paragraph 1.31). A detailed account of the
+      fulfillment of those criteria is provided in optional link 3.
+2.5   Rationale for waiver of Criterion 1. Criterion 1 as set out in paragraph 4.4(i) of
+      document AB-3199, IDB Grant Facility: Support to Countries with Large and Sudden
+      Intraregional Migration Inflows, and in Section II.A of document GN-2947-6 is that:
+      “the beneficiary country received a number of intraregional cross-border immigrants
+      in the last three years equivalent to 0.5% of its total population.” The partial waiver
+      of this criterion being sought so that a subnational unit may be deemed eligible, as
+      provided for in paragraph 4.5 of document AB-3199, is necessary because the
+      Eastern Republic of Uruguay as a country does not currently meet that requirement.
+      The subnational unit covered by this operation is the City of Montevideo. This legally
+      defined administrative area for program activities to be financed by GRF resources
+      has received a migrant population three times as great as the 0.5% benchmark,
+      which is jeopardizing the response capacity of vulnerable host communities (see
+      paragraph 2.4), thereby meeting the requirements set out in paragraphs 2.4 to 2.6
+      of document GN-2947-6. In 2021, a similar waiver was authorized by the Board of
+      Executive Directors for the Gender Equality and Women’s Empowerment Program
+      (ProWomen) (loan 5404/OC-UR and UR-J0002).
+2.6   The possibility of using GRF funds to support countries with large and sudden
+      intraregional migration inflows in operations at the subnational level is expressly
+      provided for in document AB-3199 (paragraph 4.5) and document GN-2947-6 in the
+      Operational Guidelines (paragraphs 2.4 to 2.6). Specifically, paragraph 4.5 of
+      document AB-3199 states that the Board of Executive Directors “may approve a
+      waiver for the eligibility criterion outlined in paragraph 4.4(i) if an operation presents
+      data to support the impact of large and sudden intraregional migration flows in
+      recipient communities at the subnational level. A clear justification of the waiver
+      request, including an analysis of the migration and population data, must be included
+      in every loan proposal.” The project team has reviewed and analyzed the data
+      furnished by the Government of Uruguay at the time that the GRF resources were
+      requested and has verified the fulfillment of the requirements established in
+      document GN-2947-6 for a program focused on the City of Montevideo (optional
+      link 3).
+                                                    - 19 -
+
+
+
+B.        Environmental and social safeguard risks
+2.7       The social benefits of the original program associated with this operation
+          (loan 4651/OC-UR) are positive and improve the living conditions of the residents of
+          informal settlements and rundown areas.
+2.8       The activities ultimately planned under this operation consist of small-scale civil
+          works55 that do not involve structural elements of a building currently being used to
+          store discarded furniture from various government offices. Consequently, it is not
+          expected to have any negative environmental or associated social impacts and has
+          therefore been reclassified as category “C.”
+C.        Fiduciary risks
+2.9       The fiduciary performance of the Ministry of Housing and Land Management
+          (MVOT) in connection with loan contracts 2052/OC-UR, 3097/OC-UR, and
+          4651/OC-UR has been good. The overall fiduciary risk level is low, given the fact
+          that MVOT has an adequate organizational and administrative structure and
+          sufficient fiduciary systems in place for execution of the operation. In the course of
+          program preparation, a medium-high risk was detected in connection with: (i) the
+          time required to process the payment of eligible expenditures owing to prior review
+          actions by the Court of Auditors (TCR) and the Comptroller General’s Office (CGN);
+          and (ii) the transfer system used by MVOT (the Temporary Housing Fund and Rental
+          Subsidy Fund) and the time it takes the Ministry of Social Development (MIDES),
+          the National Housing Bureau (DINAVI), and the National Migration Bureau (DNM)
+          to provide fiduciary information to MVOT (a mitigation measure is identified in
+          paragraph 3.7). The Bank will continue to implement its risk identification and
+          management procedures during execution.
+D.        Other risks
+2.10      Additional risks identified include the following: (i) some of the program actions will
+          entail coordinating work with various government agencies at the national level and
+          subnational level (Department of Montevideo), especially in connection with the
+          welcome center under Component 1. The work will also have to be coordinated with
+          a number of different government ministries in order to arrange for the various
+          services to be provided to the migrant population. This may lead to delays in the full
+          operation of the welcome center; (ii) delays could arise in the conclusion of
+          agreements with the agencies concerned, which could slow down the
+          implementation of program activities; and (iii) if the Neighborhood Improvement
+          Program (loan 4651/OC-UR) does not execute its resources as planned and on
+          schedule, the requirement for pari passu disbursements may not be met. The Bank
+          team will continue to implement risk identification and management procedures
+          during execution.
+
+
+
+
+55    The operation’s environmental and social impacts were originally classified as category “B” because the
+      procurement plan provided for a wide range of construction works in boardinghouses occupied by
+      socioeconomically vulnerable migrants, which would have required them to be temporarily relocated in
+      other lodgings.
+                                            - 20 -
+
+
+
+2.11   To mitigate these risks, work will be done to raise awareness of the program with
+       the various agencies that provide services to the migrant population in order to
+       ensure their participation at the welcome center. To mitigate the second risk
+       identified above, model agreements are being prepared and will soon be signed. To
+       mitigate the third risk identified above, the contracting activity of the Neighborhood
+       Improvement Program (loan 4651/OC-UR) is being monitored on a weekly basis.
+
+                     III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.     Summary of implementation arrangements
+3.1    The program executing agency will be the Ministry of Housing and Land
+       Management (MVOT), which will execute the activities through the program
+       coordination unit (PCU) of the Neighborhood Improvement Program
+       (loan 4651/OC-UR). The PCU will be responsible for liaison with the Bank and for
+       coordinating the necessary actions with the Ministry of Social Development
+       (MIDES), the National Housing Bureau (DINAVI), and the National Migration Bureau
+       (DNM) for the execution of Components 1, 2, and 3, respectively. PCU capacity will
+       be strengthened for program execution with the contracting of a coordinator for
+       migration-related matters. The PCU will also assume the same functions as under
+       program 4651/OC-UR in relation to the grant resources.
+3.2    For the execution of Component 1, MVOT will coordinate the following areas of work
+       with MIDES: (i) the remodeling of the building that will house the welcome center, to
+       be managed by MIDES; (ii) implementation of the temporary housing solutions; and
+       (iii) social support services for the families. For Component 2, the PCU will
+       coordinate with DINAVI, which reports to MOVT. DINAVI will be responsible for the
+       technical aspects involved in the delivery of the subsidies, and specific measures
+       will be adopted to strengthen its capacity for this purpose. Migrant families will be
+       provided with assistance in the selection of housing solutions, which must meet
+       certain requirements in terms of location, habitability conditions, and other criteria.
+       For Component 3, MVOT will have the support of the DNM of the Ministry of the
+       Interior. The DNM will coordinate with the Ministry of Foreign Relations and the e-
+       Government and Information and Knowledge Society Agency (AGESIC). Detailed
+       execution requirements will be incorporated into the program Operating Regulations.
+       The PCU will be responsible for the meeting Bank fiduciary requirements. Any
+       resource transfers will be covered in the relevant agreements as outlined in
+       paragraph 3.5. The Operating Regulations will include the appropriate guidelines
+       and will specify the supporting documentation required for the justification of
+       advances of funds disbursed by the Bank.
+3.3    Program Operating Regulations. Program execution will be governed by the
+       Operating Regulations of the Neighborhood Improvement Program
+       (loan 4651/OC-UR), which will be updated to include this operation. The Operating
+       Regulations establish guidelines and operational procedures regarding: (i) the
+       structure of program execution and the responsibilities of the PCU; (ii) the
+       responsibilities of other agencies and offices involved in its implementation;
+       (iii) procedures for planning and programming the activities to be financed;
+       (iv) technical management, financial administration, and procurement procedures
+       and processes; and (v) operational instructions for monitoring and evaluation
+       (included in optional link 2).
+                                          - 21 -
+
+
+
+3.4   Special contractual conditions precedent to the first disbursement of the
+      financing: (i) the program coordination unit (PCU) for the Neighborhood
+      Improvement Program (loan 4651/OC-UR) has been designated as the
+      execution unit for this operation, and a coordinator has been contracted for
+      migration-related matters; and (ii) the program Operating Regulations for the
+      Neighborhood Improvement Program (loan 4651/OC-UR) have been updated
+      to incorporate the agreements on the execution of resources and the activities
+      financed with the grant contribution funds.
+3.5   Special contractual conditions of execution: (i) before work begins on
+      remodeling the building for the welcome center under Component 1, MIDES and
+      MVOT will sign an agreement establishing their responsibilities for the center’s
+      management and maintenance and other matters; (ii) before funds are transferred
+      to MIDES for the delivery of temporary housing solutions under Component 1,
+      MVOT and MIDES will sign an agreement establishing their responsibilities and the
+      mechanism for implementing those solutions; and (iii) before activities begin under
+      Component 3, whose outputs are intended for the DNM of the Ministry of the Interior,
+      MVOT and the Ministry of the Interior will sign an agreement establishing their roles
+      and responsibilities for the implementation of those activities.
+3.6   Procurement. Procurements financed in whole or part with grant funds will be
+      conducted in accordance with the Policies for the Procurement of Goods and Works
+      Financed by the Inter-American Development Bank (document GN-2349-15) and
+      the Policies for the Selection and Contracting of Consultants Financed by the
+      Inter-American Development Bank (document GN-2350-15). Use of the country
+      procurement system, as approved by the Bank’s Board of Executive Directors via
+      resolution of 26 February 2020, is subject to the limitations set out in the approval
+      document, the provisions established in Annex III to this document, and the
+      procurement plan for this operation.
+3.7   Disbursements and audits. The grant funds will be disbursed on a pari passu basis
+      in accordance with fiduciary agreements and requirements similar to those applied
+      to loan 4651/OC-UR, and with the requirements of documents AB-3199 and
+      GN-2947-6. Disbursements will primarily in the form of advances of funds or other
+      modality as specified in the Financial Management Guidelines for IDB-financed
+      Projects (document OP-273-12). Advances of funds will be made in accordance with
+      a financial plan covering the project’s actual liquidity needs for up to 12 months.
+      Advances subsequent to the first will be processed when justification has been
+      provided for at least 60% of the total cumulative balances pending justification. This
+      is necessary because sufficient funds must be available to MVOT in the project bank
+      account to contract new obligations. In addition, the processing of payments calls
+      for prior review by the Court of Auditors (TCR) and the Comptroller General’s Office
+      (CGN). This is also required for the system used by MVOT to make transfers to the
+      relevant technical offices. MVOT will use the National Single Account (CUN) to
+      manage the funds. MVOT will deliver final audited financial statements under the
+      terms and on the dates required by Bank policies. The financial statements may be
+      audited by an independent auditing firm or by the TCR.
+                                            - 22 -
+
+
+
+3.8    Direct contracting. The coordinator for the Migration Unit is expected to be
+       contracted directly for a total sum of US$57,600 under the terms of paragraph 5.4(d)
+       of document GN-2350-15. The auditing firm engaged to audit loan 4651/OC-UR by
+       means of a competitive process is also expected to audit this grant.
+3.9    Advance procurement and retroactive financing. A total of US$370,000 in
+       retroactive financing may be requested, divided into up to US$70,000 for consulting
+       services for the design of the welcome center and up to US$300,000 to cover the
+       expenditures involved in providing temporary housing solutions. These expenditures
+       must have been made on or after 5 May 2021 but will not in any case include
+       expenditures incurred more than 18 months before the grant approval date. (See
+       document GN-2349-15, document GN-2350-15, and the Bank Policy on
+       Recognition of Expenditures, Retroactive Financing, and Advance Procurement
+       (document GN-2259-1)).
+3.10   Maintenance. After the work involved in remodeling the welcome center has been
+       completed, the borrower, acting through the executing agency, will ensure that the
+       works and equipment financed by the program are satisfactorily maintained in
+       accordance with generally accepted technical standards. The borrower, acting
+       through the executing agency, must develop an annual maintenance plan and
+       deliver an annual maintenance report to the Bank on the status of the program works
+       and equipment in the first quarter of each calendar year, starting in the year that the
+       first construction project financed by the program is completed and continuing on
+       until the year after the disbursement period has ended.
+B.     Summary of arrangements for monitoring results
+3.11   The executing agency and the Bank have agreed to monitor program execution
+       closely in order to track progress, using a results matrix, program execution plan,
+       annual work plans, and six-monthly performance monitoring reports. To facilitate
+       monitoring, the Housing and Urban Development Division (CSD/HUD) and/or the
+       Migration Unit (SCL/MIG), in cooperation with the IDB Country Office in Uruguay,
+       will, insofar as possible, make periodic field visits and meet with the work team to
+       discuss needs as identified in those reports. A project completion report will be
+       prepared at the end of program execution. The monitoring and evaluation plan
+       (required link 2) describes the monitoring activities to be conducted. Financing for
+       the evaluation is included in the program budget.
+                                                                                                                                                                              Annex I - UR-J0001
+                                                                                                                                                                                      Page 1 of 1
+
+
+
+
+                                                                            Development Effectiveness Matrix
+                                                                                      Summary              UR-J0001
+I. Corporate and Country Priorities
+Section 1. IDB Group Strategic Priorities and CRF Indicators
+                                                                                                   -Social Inclusion and Equality
+                                                                                                   -Economic Integration
+                                                                                                   -Gender Equality and Diversity
+   Development Challenges & Cross-cutting Issues
+                                                                                                   -Climate Change
+                                                                                                   -Institutional Capacity and the Rule of Law
+
+
+
+                                                                                                   -Households with improved access to water and sanitation (#)
+                                                                                                   -Households with improved access to energy services (#)
+                                                                                                   -Beneficiaries of initiatives that support migrants and their host communities (#)
+   CRF Level 2 Indicators: IDB Group Contributions to Development Results                          -Targeted beneficiaries of public services that have been adapted for diverse groups (#)
+                                                                                                   -Beneficiaries of enhanced disaster and climate change resilience (#)
+                                                                                                   -Agencies with strengthened digital technology and managerial capacity (#)
+
+
+
+2. Country Development Objectives
+
+                                                                                                                              Priority area of equity and social inclusion and the strategic
+   Country Strategy Results Matrix                                                                         GN-3056
+                                                                                                                              objective of facilitate urban services and housing.
+
+
+
+   Country Program Results Matrix                                                                          GN-3087            The intervention is included in the 2022 Operational Program.
+
+
+   Relevance of this project to country development challenges (If not aligned to country
+   strategy or country program)
+
+II. Development Outcomes - Evaluability                                                                                                 Evaluable
+3. Evidence-based Assessment & Solution                                                                                                          9.2
+     3.1 Program Diagnosis                                                                                                                       2.5
+     3.2 Proposed Interventions or Solutions                                                                                                     3.2
+     3.3 Results Matrix Quality                                                                                                                  3.5
+4. Ex ante Economic Analysis                                                                                                                     7.5
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                              1.5
+     4.2 Identified and Quantified Benefits and Costs                                                                                            3.0
+     4.3 Reasonable Assumptions                                                                                                                  0.0
+     4.4 Sensitivity Analysis                                                                                                                    2.0
+     4.5 Consistency with results matrix                                                                                                         1.0
+5. Monitoring and Evaluation                                                                                                                     9.5
+     5.1 Monitoring Mechanisms                                                                                                                   4.0
+     5.2 Evaluation Plan                                                                                                                         5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                        Medium Low
+Environmental & social risk classification                                                                                                     C
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                              Financial Management: Budget, Treasury, Accounting and
+                                                                                                                              Reporting, External Control, Internal Audit.
+                                                                    Fiduciary (VPC/FMP Criteria)              Yes
+                                                                                                                              Procurement: Information System, Price Comparison,
+                                                                                                                              Contracting Individual Consultant, National Public Bidding.
+
+
+
+                                                                                   Non-Fiduciary              Yes             Strategic Planning National System.
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+Additional (to project preparation) technical assistance was provided to the public sector
+                                                                                                              Yes                                            0
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+
+Evaluability Assessment Note: The proposal presents an operation for a total of US$5,134,000 to be financed through a Non-Reimbursable Fund (GRF) in the amount of
+US$5,000,000. This operation is associated with the "Neighborhood Improvement Program III (PMB III) (UR-L1146)". The specific objectives of this operation will be : (i) foster urban
+integration by providing formal basic infrastructure and adequate social and urban services, while guaranteeing secure property tenure and enhancing social capital, taking climate
+change issues into account; and (ii) provide affordable housing to low-income population groups, while restoring rundown urban spaces in Montevideo’s historic downtown area. The
+achievement of these objectives will contribute to the General Objective of complementing the scope of the PMB III (UR-L1146), linking the vulnerable immigrant population and its
+host community.
+
+The proposal presents an adequate diagnosis of the problem. Specifically, the main problem identified is the increase in barriers to access to decent housing, particularly among the
+migrant population. The proposed solutions are appropriate to respond to the identified problem and its contributing factors, and are related to the General Objective. The results
+matrix is congruent with the vertical logic of the project and includes appropriate indicators at the outcome level associated with several of the Specific Objectives' attributes and the
+General Objective. The result indicators are correctly defined to measure the achievements attained by the program and the contribution to the fulfillment of its specific objectives,
+while the strategic alignment with cross-cutting themes is reflected in output and result indicators.
+
+The proposal presents a cost-benefit analysis for the two projects that make up the program. The IRR for the program interventions is 15.8%. Given that the reference rate is 12%, the
+aggregate analysis suggests that the project is socioeconomically viable. The methodology for monetizing the benefits consists of valuing the effects of access to housing on human
+capital, mainly on health and education.
+
+The project includes a monitoring and evaluation plan that is in line with Bank standards. The effectiveness of the proposed intervention will be measured following two approaches:
+an ex-post cost-benefit analysis approach and a before-after comparison to verify the achievement of goals. These analyses are planned to use the information from the external
+verification of results.
+                                                                                                                                                                                         Annex II
+                                                                                                                                                                                       Page 1 of 7
+
+
+
+
+                                                                                       RESULTS MATRIX
+
+
+    Project objective:      The general objective of this operation is to expand the scope of the Neighborhood Improvement Program (loan 4651/OC-UR) by bringing the vulnerable
+                            immigrant population and its host communities closer together. Its specific objectives are to: (i) foster urban integration by providing formal basic infrastructure
+                            and adequate social and urban services, while guaranteeing secure property tenure and enhancing social capital, taking climate change issues into account;
+                            and (ii) provide affordable housing to the low-income population groups, while restoring rundown urban spaces in Montevideo’s historic downtown area.1
+
+
+                                                                                SPECIFIC DEVELOPMENT OBJECTIVES
+
+                                                                Base-        Base-
+                                                                                                                     End of              Means of
+               Indicators                Unit of measure         line         line       Year 1        Year 2                                                              Comments
+                                                                                                                     project            verification
+                                                                value        year
+    Specific development objective 1. To foster urban integration by providing formal basic infrastructure and adequate social and urban services, while guaranteeing secure property
+    tenure and enhancing social capital, taking climate change issues into account.
+    Procedures2 available for the                %                 0         2022         50%           80%           80%3         (*) Six-monthly           There are 42 different procedures for
+    migrant population at the                                                                                                      reports indicating the    social programs processed by the
+    welcome center                                                                                                                 volume of services        Ministry of Social Development
+                                                                                                                                   provided at the           (MIDES) using the ATC-SMART
+                                                                                                                                   welcome center            system, which will be made available
+                                                                                                                                                             at the welcome center.
+
+
+
+
+1      Paragraph 4.2 of the Operational Guidelines for the Use of Resources from the IDB Grant Facility to Support Countries with Large and Sudden Intraregional Migration Inflows
+       states: “… In order to ensure that the migration component or operations financed through loans and a grant with GRF resources follow a common vertical logic and to facilitate
+       the pari passu disbursement, a single results matrix will be used for the loan and the associated grant. For both, the loan and the GRF grant, the progress monitoring report
+       (PMR) will use the performance methodology applicable to the corresponding lending instrument and modality of the loan, as stated in document OP-1072-5.” The indicators
+       have been designed on the basis of the existing execution period for loan 4651/OC UR on the understanding that, for the time being, no extension has been granted and that
+       this is a matter that will be considered during the next portfolio review to be undertaken with the country. The indicators for this matrix focus on this grant. The rest of the indicators
+       are being captured by operation 4651/OC UR.
+2      The expression “available applications and other procedures” is understood to refer to systems that are in operation and/or staff members assigned by the Government of
+       Uruguay to process applications or carry out other procedures using the corresponding protocols.
+3      In the medium term, these 42 application procedures will be available at the welcome center but, given that the execution period is 18 months in duration, a more conservative
+       target has been set.
+Annex II
+Page 2 of 7
+
+
+                                                             Base-       Base-
+                                                                                                                End of              Means of
+              Indicators               Unit of measure        line        line       Year 1       Year 2                                                           Comments
+                                                                                                                project            verification
+                                                             value       year
+    Procedures available for the                                                                                 80%5        (*)                     (**) In addition to access to the above
+    migrant population with a                                                                                                                        procedures, there are another nine
+    gender and diversity lens4                                                                                                                       services dealing with gender and
+                                                                                                                                                     diversity groups that will be offered at
+                                                                                                                                                     the center.6 Additional vulnerability
+                                                                                                                                                     gaps faced by women migrants and
+                                                                                                                                                     migrants belonging to diverse groups
+                                                                                                                                                     are associated with additional
+                                                                                                                                                     constraints that interfere with their
+                                                                                                                                                     social and urban integration, such as
+                                                                                                                                                     their caregiving responsibilities,
+                                                                                                                                                     greater difficulty in entering the labor
+                                                                                                                                                     market, and a disconnect between
+                                                                                                                                                     self-perceived gender and the sex
+                                                                                                                                                     identity listed on identity documents.
+                                        % of procedures         0         2022
+                                          for women
+                                        % of procedures         0         2022                                               (*)                     (**)
+                                           for Afro-
+                                         descendants
+                                        % of procedures         0         2022                                               (*)                     (**)
+                                         for LGBTQ+
+                                            persons
+
+
+
+
+4      This indicator is disaggregated so that administrative records can be disaggregated by type of population group.
+5      The total number of applications and other procedures will not be reached because people who start the process of applying for some of the social housing solutions offered by
+       the Ministry of Housing and Land Management (MVOT).
+6      Gender- and diversity related services to be provided at the welcome center include: (i) advisory services concerning the procedures for changing a person’s name and sex as
+       registered in administrative records; (ii) applications for the “Accesos” social and employment inclusion program, which includes affirmative action components (with quotas) for
+       women, trans persons, and Afro-descendants; (iii) information on the Uruguay Social Card and how trans persons can apply for it; (iv) access to training for trans persons;
+       (v) applications for reparation pensions for trans persons; (vi) guidance and referrals to services for victims of gender-based violence; (vii) contact information for the Sexual
+       Diversity Department; (viii) Contact information for CRAm (an LGBT+-friendly psychological support service provided for under an agreement between MIDES and university
+       psychology department); and (ix) contact information for the Public Policy for Afro-descendants Division.
+                                                                                                                                                                             Annex II
+                                                                                                                                                                           Page 3 of 7
+
+
+                                                            Base-       Base-
+                                                                                                              End of             Means of
+              Indicators               Unit of measure       line        line       Year 1      Year 2                                                          Comments
+                                                                                                              project           verification
+                                                            value       year
+    Residency system improved                  0               0         2022          1                         1         Most recent six-
+    and in operation7                                                                                                      monthly report,
+                                                                                                                           including verification
+                                                                                                                           that the system is in
+                                                                                                                           operation
+    Specific development objective 2. To provide affordable housing to the low-income population groups, while restoring rundown urban spaces in Montevideo’s historic downtown
+    area.
+    Households that, after receiving   % of households         0         2022          0          30%           30%        Analysis of a
+    the rental subsidy, access one                                                                                         representative
+    of the MVOT housing policies                                                                                           sample of
+    and/or other market solutions8                                                                                         beneficiary migrant
+                                                                                                                           households residing
+    Households that, after receiving   % of households         0         2022          0          10%           10%        in individual
+    the rental subsidy, access one       headed by                                                                         dwellings as a % of
+    of the MVOT housing policies           women                                                                           total households that
+    and/or other market solutions                                                                                          applied for housing
+                                                                                                                           assistance
+    Housing solutions9 located in       % of subsidies         0         2022        20%                        20%        Six-monthly reports
+    Montevideo’s historic center as                                                                                        indicating the
+    a % of total subsidies granted                                                                                         number of housing
+                                                                                                                           solutions in the
+                                                                                                                           historic center as a
+                                                                                                                           % of total housing
+                                                                                                                           solutions
+
+
+
+
+7      This refers to the launch of the DNM’s back-end system for processing residency visas.
+8      Given the grant’s short disbursement period, access to market-based solutions is understood to be situations in which people have begun the process of applying for the housing
+       solutions offered by programs run by MVOT or for other available options.
+9
+       A “housing solution” is understood to be a rental housing unit located in the historic center or its area of influence in Montevideo.
+Annex II
+Page 4 of 7
+
+
+
+                                                                    OUTCOME INDICATORS (PHYSICAL)
+
+                                  Unit of     Baseline   Baseline                          End of
+         Indicators                                                 Year 1     Year 2                   Means of verification                    Comments
+                                 measure       value       year                            project
+Component 1
+The welcome center is fully       Number         0        2022        1          0            1      Final works report and the      “Fully operational” means that all
+operational, and its design                                                                          report of the external          the physical alterations have been
+incorporates criteria for                                                                            consultant contracted by the    performed and all the services
+mitigating climate change                                                                            Bank to review climate          provided for in the design and
+impacts and gender and                                                                               change and gender-related       programming for the repurposed
+diversity considerations                                                                             considerations along with the   welcome center are available.
+                                                                                                     services provided at the
+                                                                                                     welcome center
+The service delivery              Number         0        2022        1          0            1      Final consultant report         “Management model” refers to all
+management model for the                                                                             approved by the executing       the various mechanisms involved in
+migrant population has been                                                                          agency, along with the          the governance, operational
+designed, including                                                                                  migrant service management      financing, and protocols for
+administrative record-keeping                                                                        model                           services to be offered sustainably
+on the population served,                                                                                                            at the welcome center. The
+taking gender, disability                                                                                                            different fields to be filled in the
+status, race, and gender                                                                                                             administrative records will make it
+identity into account                                                                                                                possible to generate a report on the
+                                                                                                                                     population served that covers
+                                                                                                                                     various gender and diversity factors
+                                                                                                                                     that will serve as input for
+                                                                                                                                     subsequent public policies.
+Temporary housing solutions        Persons       0        2022       72         143                  SMART system report             Temporary subsidies granted for
+for the vulnerable migrant        receiving                                                          validated by MIDES with         the vulnerable migrant population
+population granted in areas      temporary                                                           temporary subsidies granted     means temporary lodging for the
+subject to low climate-related     housing                                                           for the vulnerable migrant      vulnerable population served by the
+risks                             solutions                                                          population                      MIDES.
+                                                                                             430
+                                   Women         0        2022       72         143
+                                  receiving
+                                 temporary
+                                   housing
+                                  solutions
+                                                                                                                                                                          Annex II
+                                                                                                                                                                        Page 5 of 7
+
+
+                                   Unit of     Baseline     Baseline                               End of
+         Indicators                                                      Year 1       Year 2                        Means of verification                   Comments
+                                  measure       value         year                                 project
+Support for households           Households        0          2022         430         430           430        Consultant report approved
+accessing the housing             supported                                                                     by the executing agency,
+subsidy10                                                                                                       indicating the number of
+                                                                                                                instances in which support
+                                                                                                                has been provided
+Component 2
+Months of rent subsidized in      Months           0          2022        3,173       1,586         4,759       Consultant report approved
+areas of low climate risk11                                                                                     by the executing agency,
+                                                                                                                indicating the number of
+                                                                                                                subsidies granted
+Component 3
+Design of the DNM                 Number           0          2022          1            0            1         Final consultant report
+information system for                                                                                          approved by the executing
+processing residencies                                                                                          agency
+Residency granting offices        Number           0          2022          1            1            1         Six-monthly report with a
+equipped                                                                                                        sample of equipped offices
+Personnel trained in use of       Number           0          2022          80          20           100        Partial and final training
+the new system                                                                                                  reports
+Specialized gender and            Number           0          2022          80          20           100        Final consultant report         The purpose is to orient DNM
+diversity training for the DNM                                                                                  approved by the executing       public agents in terms of basic
+                                                                                                                agency                          knowledge and the specific needs
+                                                                                                                                                and challenges of women, Afro-
+                                                                                                                                                descendants, and LGBTQ+
+                                                                                                                                                persons in the migration context, to
+                                                                                                                                                combat discrimination, xenophobia,
+                                                                                                                                                unconscious bias, and gender
+                                                                                                                                                violence.
+DINAVI offices strengthened       Number           0          2022          1            1            1         Final consultant report
+                                                                                                                approved by the executing
+                                                                                                                agency
+
+
+
+10   Support for these households will be provided by teams of social workers under Components1 and 2.
+11
+     The average amount of the subsidy will be US$420 per month. Housing solutions will be located in low-risk areas in accordance with the applicable laws and regulations.
+Annex II
+Page 6 of 7
+
+
+                                                                     OUTCOME INDICATORS (FINANCIAL) (US$)
+
+                                     Unit of        Baseline     Baseline                                   End of          Means of
+          Indicators                                                           Year 1       Year 2                                            Comments
+                                    measure          value         year                                     project        verification
+Component 1
+The welcome center is fully          Number             0          2022       664,600          -            664,600     Six-monthly project
+operational, and its design                                                                                             performance
+incorporates criteria for                                                                                               monitoring reports
+mitigating climate change
+impacts and gender and
+diversity considerations
+The service delivery model for       Number             0          2022       342,667      171,333          514,000     Six-monthly project
+the migrant population has been                                                                                         performance
+designed                                                                                                                monitoring reports
+Temporary housing solutions for       Persons           0          2022        69,000      138,000          414,000     Six-monthly project
+the vulnerable migrant               receiving                                                                          performance
+population granted in areas         temporary                                                                           monitoring reports
+subject to low climate-related        housing
+risks                                solutions
+                                    Women or            0          2022        69,000      138,000
+                                  diverse groups
+                                      receiving
+                                     temporary
+                                       housing
+                                      solutions
+Support for households             Households           0          2022       282,867      141,433          424,300     Six-monthly project
+accessing the housing subsidy12     supported                                                                           performance
+                                                                                                                        monitoring reports
+Component 2
+Months of rent subsidized in         Months             0          2022       1,333,333    666,667          2,000,000   Six-monthly project
+areas of low climate risk13                                                                                             performance
+                                                                                                                        monitoring reports
+
+
+
+
+12   Support for these households will be provided by teams of social workers under Components1 and 2.
+13
+     See footnote 11.
+                                                                                                                                   Annex II
+                                                                                                                                 Page 7 of 7
+
+
+                                   Unit of   Baseline   Baseline                      End of        Means of
+             Indicators                                            Year 1    Year 2                                   Comments
+                                  measure     value       year                        project      verification
+Component 3
+Design of the DNM information     Number        0        2022      497,000     -      497,000   Six-monthly project
+system for processing                                                                           performance
+residencies                                                                                     monitoring reports
+Residency granting offices        Number        0        2022      128,000     -      128,000   Six-monthly project
+equipped                                                                                        performance
+                                                                                                monitoring reports
+Personnel trained in use of the   Number        0        2022      35,000    30,000   65,000    Six-monthly project
+new system                                                                                      performance
+                                                                                                monitoring reports
+Specialized gender and            Number        0        2022       5,000    5,000    10,000    Six-monthly project
+diversity training for the DNM                                                                  performance
+                                                                                                monitoring reports
+DINAVI offices strengthened       Number        0        2022      100,000   50,000   150,000   Six-monthly project
+                                                                                                performance
+                                                                                                monitoring reports
+
+
+
+                                   Unit of   Baseline   Baseline                      End of        Means of
+             Indicators                                            Year 1    Year 2                                   Comments
+                                  measure     value       year                        project      verification
+MIG coordinator                                                    59,067    34,033   93,100    Six-monthly project
+                                                                                                performance
+                                                                                                monitoring reports
+Auditing                                                                     4,500     4,500    Six-monthly project
+                                                                                                performance
+                                                                                                monitoring reports
+Evaluation                                                                   40,000   40,000    Six-monthly project
+                                                                                                performance
+                                                                                                monitoring reports
+Other                                                              106,360   23,140   129,500   Six-monthly project
+                                                                                                performance
+                                                                                                monitoring reports
+                                                                                                  Annex III
+                                                                                                Page 1 of 7
+
+
+
+     Country: Uruguay             Division: HUD         Operation number: UR-J0001            Year: 2022
+
+
+                              FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+Executing agency:           Ministry of Housing and Land Management (MVOT)
+Operation name:             Support Program for the Socio-Urban Integration of the Migrant Population
+
+                             I.    FIDUCIARY CONTEXT OF THE EXECUTING AGENCY
+
+1. Use of the country system in the operation.1
+
+     Budget                 Reports                  Information system        National competitive
+                                                                                   bidding (NCB)
+
+     Cash flow              Internal audit           Price comparison          Other
+
+     Accounting             External oversight       Individual consultants    Other
+
+
+2. Fiduciary execution mechanism
+
+     Special features of                The executing agency is the Ministry of Housing and Land
+       fiduciary execution                Management (MVOT), which has fiduciary responsibility for the
+                                          operation. The Ministry of Social Development (MIDES), the
+                                          National Housing Bureau (DINAVI), and the National Migration
+                                          Bureau (DNM) will have technical responsibility for execution of
+                                          the components. Agreements for transfer of the proceeds of the
+                                          financing (Temporary Housing Fund and Rental Subsidy Fund)
+                                          will be signed in accordance with the fiduciary guidelines
+                                          established in the program Operating Regulations.
+
+
+3. Fiduciary capacity
+
+    Fiduciary capacity of         The operation has a waiver of the ICAS requirement. The grant
+    the executing agency          supplements the third individual operation (loan 4651/OC-UR), now in
+                                  execution, under the conditional credit line for investment projects
+                                  (CCLIP) for the Neighborhood Improvement Program (UR-X1003) and
+                                  has the same executing agency. MVOT previously executed
+                                  loan 2052/OC-UR (closed) and loan 3097/OC-UR (closure in process).
+                                  The fiduciary performance of all the operations has been good. The
+                                  overall fiduciary risk level is low, given the fact that MVOT has an
+                                  adequate organizational and administrative structure and sufficient
+                                  fiduciary systems in place for execution of the operation. The fiduciary
+                                  agreements and requirements established for this program are based on
+                                  MVOT’s track record as an executing agency.
+
+
+
+1    Any system or subsystem that is subsequently approved may be used in the operation in accordance with
+     the terms of its validation by the Bank
+Annex III
+Page 2 of 7
+
+
+4. Fiduciary risks and risk response
+
+      Risk
+                                 Risk                 Risk level             Risk response
+   taxonomy
+
+ Planning           If the response times of the      Medium-      Considering recent experiences
+                    Comptroller General’s Office       High        with loan contracts 3097/OC-UR
+                    (CGN) and the Court of                         and 4651/OC-UR, greater flexibility
+                    Auditors (TCR) are longer                      is proposed for the justification
+                    than ONE month, it will not be                 percentage of cumulative balances
+                    possible to make the planned                   of advances for this operation. As
+                    payments according to the                      an additional measure, MVOT
+                    financial planning, making it                  should consider the work of the
+                    impossible to provide the                      CGN, TCR, MIDES, DINAVI, and
+                    Bank with justification of                     the DNM in planning program
+                    payments of balances of                        payments.
+                    advances in a timely manner.
+                    A similar situation would arise
+                    with regard to the transfers by
+                    MVOT, if MIDES, DINAVI, and
+                    the DNM take longer to deliver
+                    fiduciary information to MVOT.
+
+
+5. Applicable policies and guidelines: Policies for the Procurement of Goods and Works Financed
+   by the IDB (document GN-2349-15), Policies for the Selection and Contracting of Consultants
+   Financed by the IDB (document GN-2350-15), and the policies of the country procurement
+   system in the cases identified in the procurement plan, in accordance with the approved terms
+   and conditions for use of the country procurement system. For financial management, the
+   Financial Management Guidelines for IDB-financed Projects (document OP-273-12) or current
+   version.
+6. Exceptions to policies and guidelines: None.
+
+
+              II.    CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE AGREEMENT
+
+
+ Special contractual conditions precedent to the first disbursement:
+
+ Exchange rate: For the purposes of Article 4.10 of the General Conditions, the parties agree that
+ the exchange rate to be used will be the rate stipulated in Article 4.10(b)(ii). For such purpose, the
+ agreed exchange rate will be the exchange rate in effect on the date when the borrower, the
+ executing agency, or any other person or corporation with delegated authority to incur expenditures
+ makes the respective payments to the contractor, vendor, or beneficiary.
+
+ Audits: The final audited financial statements for the program will be delivered within 120 days after
+ the date of the last disbursement, or as extended, if prepared by an independent audit firm
+ acceptable to the Bank, or within 180 days after the date of the last disbursement, or as extended,
+ if prepared by Court of Auditors (TCR) of the Eastern Republic of Uruguay.
+
+ [Other]:
+                                                                                            Annex III
+                                                                                          Page 3 of 7
+
+
+            III. AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+
+   Bidding documents         For procurements of works, goods, and nonconsulting services in
+                              accordance       with    the    Bank’s      procurement       policies
+                              (document GN-2349-15) subject to international competitive
+                              bidding (ICB), the Bank’s standard bidding documents will be used
+                              in accordance with its procurement policies. For procurements
+                              subject to national competitive bidding (NCB), the documents
+                              agreed upon by the executing agency and the Bank for a particular
+                              procurement will be used. The selection and contracting of
+                              consulting services will be conducted in accordance with the
+                              consultant selection policies (document GN-2350-15). The
+                              standard request for proposals issued by the Bank or another
+                              document agreed upon by the executing agency and the Bank
+                              for a particular selection process will be used in the case of
+                              processes subject to ICB. If it is appropriate and meets business
+                              needs, consideration may be given to the use of a procurement
+                              document agreed upon by the relevant national authority and the
+                              Bank in particular cases identified in the procurement plan. The
+                              review of technical specifications and the terms of reference for
+                              procurements during the preparation of selection processes will be
+                              the responsibility of the project’s sector specialist. This technical
+                              review may be ex ante and is independent of the procurement
+                              review method.
+
+   Use of country            MVOT is an agency under Article 2 of the Consolidated Accounting
+    systems                   and Financial Administration Code, so in accordance with the
+                              approval granted by the Board of Executive Directors of the Bank
+                              on 26 February 2020, MVOT may use the country procurement
+                              system for the processes designated in the operation’s
+                              procurement plan. If the Board broadens the scope of its approval
+                              for use of the country system, the expanded scope will be
+                              applicable to this operation.
+
+   Contracting and single-   The following single-source selection process is expected to be
+    source selection          included in the procurement plan: (i) single-source selection of the
+                              general coordinator of the PCU for a total of US$57,600 for the
+                              entire execution period for this operation under Section 5.4(d) of
+                              document GN-2350-15. Any technical, economic, or other
+                              modification of any kind will be subject to the Bank’s ex ante
+                              supervision.
+
+   Advance procurement       The selection process for remodeling of the building to house the
+    and retroactive           migrant welcome center will be conducted in advance under
+    financing                 paragraph 1.11 of document GN-2349-15. During the operation’s
+                              design phase, it was agreed that the contract resulting from this
+                              bidding process will commence when the operation is declared
+                              eligible. Additionally, a total of US$370,000 in retroactive financing
+                              may be requested, divided into up to US$70,000 for consulting
+                              services for the design of the welcome center and up to
+Annex III
+Page 4 of 7
+
+
+                          US$300,000 to cover the expenditures involved in providing
+                          temporary housing solutions. These expenditures must have been
+                          made on or after 5 May 2021 but will not in any case include
+                          expenditures incurred more than 18 months before the grant
+                          approval date. (See document GN-2349-15, document GN-2350-
+                          15, and the Bank Policy on Recognition of Expenditures,
+                          Retroactive Financing, and Advance Procurement (document
+                          GN-2259-1)).
+
+     Procurement         The supervision method will be ex post, except in cases where
+      supervision         ex ante supervision is justified. For procurements executed using
+                          the country system, the country’s supervisory system will be used
+                          for supervision. The [(i) ex ante, (ii) ex post, or (iii) country system]
+                          supervision method will be determined for each selection process
+                          in accordance with the procurement plan for the operation, which
+                          will be updated in line with the program document and Bank
+                          procurement policies. Ex post reviews will be carried out each year
+                          in accordance with the project supervision plan, subject to change
+                          during execution. The inspection will verify the existence of the
+                          procurements, leaving verification of quality and compliance with
+                          specifications to the sector specialist. The thresholds for ex post
+                          review are as follows:
+
+
+                            Executing                                               Consulting
+                                                Works          Goods/Services
+                             agency                                                  services
+                             MVOT           US$5,000,000        US$500,000         US$200,000
+
+
+     Records and files   The agreed formats and procedures described in the program
+                          Operating Regulations and in accordance with the relevant policy
+                          requirements will be used for the preparation and filing of project
+                          reports.
+                                                                                       Annex III
+                                                                                     Page 5 of 7
+
+
+Main procurements
+
+                                                           New                     Estimated
+                                         Selection                    Estimated
+      Procurement description                           procedures/                 amount
+                                          method                        date
+                                                           tools                  (US$000s)
+
+ Goods
+
+ Computer hardware                         NCB                        Q2 2023      128,000
+
+ Works
+
+ Remodeling and infrastructure
+ improvements for the migrant              NCB                        Q1 2023      646,950
+ welcome center
+
+ Nonconsulting services
+
+ Firms
+
+ Development, hosting, and             Quality- and
+ maintenance of computer system        cost-based
+                                                                      Q2 2023      387,000
+ for processing residency               selection
+ applications                           (QCBS)
+
+ Individuals
+
+ PCU coordinator                      Single-source
+                                       selection of
+                                                                      Q1 2023      57,600
+                                        individual
+                                       consultants
+
+ Specialized team. Nine consultants    Selection of
+ to design and implement the            individual
+ comprehensive service model            consultant                    Q1 2023      428,600
+                                          (open
+                                        invitation)
+
+ Specialized technical team. Nine      Selection of
+ consultants for temporary housing      individual
+ response                               consultant                    Q1 2023      424,300
+                                          (open
+                                        invitation)
+
+ To access the 18-month procurement plan, click here.
+Annex III
+Page 6 of 7
+
+
+               IV. AGREEMENTS AND REQUIREMENTS FOR FINANCIAL MANAGEMENT
+
+
+     Programming      The Integrated Financial Information System (SIIF) will be used to
+      and budget       manage the program budget, which is part of the draft consolidated
+                       national budget and approved in the Budget Act for the five-year term of
+                       the government. Reprogrammings and any increases in the budget are
+                       prepared by the executive branch annually when it submits the annual
+                       budget execution accountability report and statement. Within six months
+                       after the end of the budget exercise, the executive branch submits those
+                       reports to the legislature, at which time it may propose modifications on
+                       justified grounds. MVOT must therefore meet the deadlines set by the
+                       Ministry of Economy and Finance as approver in the process of
+                       incorporating the project budget into the national budget, and in the
+                       process of making modifications to the project budget involving increases
+                       in the credits allocated by law to MVOT. (Increases in the budget from
+                       MVOT’s own resources do not require approval from the Ministry of
+                       Economy and Finance.)
+
+     Cash flow and    The grant funds will be disbursed on a pari passu basis in accordance
+      disbursements    with fiduciary agreements and requirements similar to those applied to
+                       loan 4651/OC UR, and with the requirements of documents AB-3199 and
+                       GN-2947-6. The grant funds will be managed through the National Single
+                       Account (CUN), for which the National Treasury will, at MVOT’s request,
+                       set up a special account in the Central Bank of Uruguay (BCU) for the
+                       deposit of the Bank resources, and a specific bank account for the project
+                       at the State-owned commercial bank Banco de la República Oriental del
+                       Uruguay (BROU) for the program to make payments. The currency to be
+                       used for this operation is U.S. dollars, and the exchange rate to be used
+                       is identified in Section II. Disbursement requests will be processed via the
+                       Online Disbursement system (or current system). The preferred
+                       disbursement modality will be advances of funds. The operation will
+                       generally work with a 12-month financial plan using a justification
+                       threshold of 60% of the cumulative balances pending justification for the
+                       following reasons: (i) the central government entities of which MVOT is a
+                       part must have funds in the BCU account to contract new obligations;
+                       (ii) MVOT payment procedures call for prior review by the Court of
+                       Auditors (TCR) and the Comptroller General’s Office (CGN), whose
+                       response times are beyond MVOT’s control; and (iii) the execution
+                       mechanism calls for transfer of the loan proceeds, which, while subject to
+                       the fiduciary guidelines to be established in the program Operating
+                       Regulations, will also be subject to the response times of MIDES, DINAVI,
+                       and DNM (see document OP-273-12, Annex 1, paragraph 3.3, criteria (c)
+                       and (d)).
+                                                                                            Annex III
+                                                                                          Page 7 of 7
+
+
+
+   Accounting,        Accounts will be recorded in the Memory system, which is used by MVOT
+    information        to record and report transactions for all the projects under its
+    systems, and       responsibility. The SIIF country system will also be used to manage the
+    reporting          budgetary credits approved for the project, since it is also used to allocate
+                       and execute them. In processing project-related commitments and
+                       payments, MVOT will follow the relevant procedures established by the
+                       CGN and TCR. The program Operating Regulations with the documented
+                       definition of workflows and internal controls will be used as a supplement
+                       to the policies and guidelines applicable to the operation.
+
+   Internal control   The country system will be used as a basis in accordance with the laws
+    and external       and regulations now in force. In light of MVOT’s experience with
+    audit              loan contracts 3097/OC-UR and loan 4651/OC-UR, the program
+                       Operating Regulations will set out the applicable framework for financial
+                       management in accordance with Bank guidelines and instructions, which
+                       complement MVOT financial processes under the applicable local laws
+                       and regulations.
+
+   External control   External control will be exercised by a Bank-eligible independent audit
+    and financial      firm, as has been done for loan contracts 3097/OC-UR (closure in
+    reports            process) and 4651/OC-UR (now in execution). However, the TCR may
+                       also audit the program. Project audits will be conducted in accordance
+                       with terms of reference previously agreed upon with the Bank. The cutoff
+                       dates and delivery deadlines are identified in Section II. The additional
+                       time for the TCR is based on the time required for its internal procedures
+                       for approving audited financial statements before forwarding them to the
+                       Bank, the executing agency, and the General Assembly. Pursuant to the
+                       Consolidated Accounting and Financial Administration Code, the TCR
+                       must conduct prior review all expenditures related to execution of the
+                       operation.
+
+   Financial          The supervision plan may be adjusted on the basis of program execution
+    supervision plan   and external audit reports. The following activities are planned: monitoring
+                       of program progress and instruments, review of disbursement requests,
+                       and in-person or virtual visits to MVOT.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-__/22
+
+
+
+                    Uruguay. Nonreimbursable Financing ____/GR-UR to the
+                    Eastern Republic of Uruguay. Support Program for the
+                      Socio-urban Integration of the Migrant Population
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, as Administrator of the IDB Grant Facility, hereinafter
+referred to as the “Account”, to enter into such contract or contracts as may be necessary with
+the Eastern Republic of Uruguay, as beneficiary, for the purpose of granting it a nonreimbursable
+financing to cooperate in the execution of the Support Program for the Socio-urban Integration of
+the Migrant Population. Such nonreimbursable investment financing will be for an amount of up
+to US$5,000,000, which form part of the Account, and will be subject to the Terms and Financial
+Conditions and the Special Contractual Conditions in the Project Summary of the
+Nonreimbursable Financing Proposal.
+
+
+
+                                  (Adopted on __ ______ 2022)
+
+
+LEG/SGO/CSC/EZSHARE-1028536987-12378
+UR-J0001
+

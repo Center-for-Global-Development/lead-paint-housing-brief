@@ -1,0 +1,183 @@
+                Cálculo del índice de Vulnerabilidad.
+
+El índice de vulnerabilidad cuenta con dos elementos, uno relacionado a los efectos producidos
+por la violencia, específicamente los homicidios y otro componente relacionado a los factores de
+riesgo, los cuales con su combinación pueden estar relacionados a las causas que llevan a la
+presencia de violencia en el Municipio.
+
+De acuerdo a lo anterior, a continuación se describe el método para la construcción del índice:
+
+
+
+                                     𝐼𝑉𝑖 = 𝐼𝐹𝑅𝑖 ∗ 𝛾1 + 𝐼𝐻𝑖 ∗ 𝛾2
+
+IVi = Índice de vulnerabilidad del municipio i-esimo (valor máximo 1)
+
+IFRi = Índice de Factores de Riesgo del municipio i-esimo
+
+IHi = Índice de Homicidios del municipio i-esimo (tasa estandarizada de homicidios)
+
+γ1,2 = Factores de proporcionalidad de indicadores, tal que: γ1 + γ2 = 1
+
+
+
+Índice de Homicidios
+
+Con el objetivo de estandarizar valores que corresponden a distintas problemáticas y tipos de
+medición del dato se realiza un cambio de rango de tal manera que se pueda presentar con un
+valor que va de cero a uno realizando el siguiente cálculo.
+
+                                               𝑇𝐻𝐴𝑖 − 𝑇𝐻𝐴𝑚𝑖𝑛
+                                     𝐼𝐻𝑖 =
+                                              𝑇𝐻𝐴𝑚𝑎𝑥 − 𝑇𝐻𝐴𝑚𝑖𝑛
+
+THAi = Tasa de homicidios acumulada por cada 100,000 Hab. Del municipio i-esimo
+
+THAmin = Valor mínimo de tasa de homicidios acumulados dentro de la muestra seleccionada
+
+THAmax = Valor máximo de tasa de homicidios acumulados dentro de la muestra seleccionada
+                                         2013
+
+                               𝑇𝐻𝐴 = ( ∑ 𝑇𝑜𝐻𝑖 )⁄(𝑃𝑇𝑖 /100,000)
+                                         2011
+
+ToHi = Total de homicidios dolosos acumulados en el año, para municipio i-esimo, tomado en
+       cuenta los años 2011,2012 y 2013
+
+PTi = Poblacion total del municipio i-esimo
+Nota: Para el total de homicidios dolosos en el municipio se utilizaron los datos proporcionados
+      por el Secretariado Ejecutivo del Sistema Nacional de Seguridad Publica, de los años
+      mencionados, considerando para el 2013 los datos actualizados a Noviembre, para los
+      años 2011 y 2012 se detectaron vacíos de información para algunos municipios, en esos
+      casos se utilizó el dato proporcionado por INEGI en la sección de Registros Administrativos,
+      en el rubro de defunciones por Homicidio, en la categoría de causas externas de
+      morbilidad y de mortalidad, tomando en cuenta aquellos provocados por agresiones, de
+      acuerdo a la clasificación de la “Lista 1 para mortalidad CIE10”
+
+        Para la población total se tomaron en cuenta los datos del Censo INEGI 2010
+
+Índice de Factores de Riesgo
+Para el índice de factores de riesgo se tomaron en cuenta cinco datos los cuales se
+estandarizaron para que tuvieran un rango que fuera de 0 a 1 y se sumaron. Todos los
+datos utilizados corresponden al Censo de población INEGI 2010 a excepción de la
+población vulnerable por ingreso para lo cual se utilizaron los datos de CONEVAL.
+
+          𝐼𝐹𝑅𝑖 = 𝐼𝑃𝐷𝑖 ∗ 𝛾1 + 𝐼𝑃𝑁𝐴𝐸𝑖 ∗ 𝛾2 + 𝐼𝑃𝑉𝐼𝑖 ∗ 𝛾3 + 𝐼𝑃𝐻𝑎𝑖 ∗ 𝛾4 + 𝐼𝑃𝑁𝑒𝑁𝑡𝑖 ∗ 𝛾5
+
+IPDi = Índice estandarizado de la Población desocupada en el municipio i-esimo
+
+IPNAEi = Índice estandarizado de la Población de 6 a 17 años que no asiste al escuela en el
+        municipio i-esimo
+
+IPVIi = Índice estandarizado de la Población vulnerable por ingreso en el municipio i-esimo
+
+IPHai = Índice estandarizado de la Población que habita en una vivienda que tiene condiciones de
+         hacinamiento para todos o algunos de sus ocupantes, en el municipio i-esimo
+
+IPNeNti = Índice estandarizado de la Población de 15 a 19 años que no estudia y no trabaja en el
+        municipio i-esimo
+
+γ1,2,3,4,5 = Factores de proporcionalidad de indicadores, tal que: γ1 + γ2 + γ3 + γ4 + γ5 = 1
+
+                                               %𝑃𝐷𝑖 − %𝑃𝐷𝑚𝑖𝑛
+                                     𝐼𝑃𝐷𝑖 =
+                                              %𝑃𝐷𝑚𝑎𝑥 − %𝑃𝐷𝑚𝑖𝑛
+
+                                                  𝑃𝐷𝑇𝑖
+                                        %𝑃𝐷𝑖 =         ∗ 100%
+                                                  𝑃𝐸𝐴𝑖
+
+%PDi = Porcentaje de la población desocupada del municipio i-esimo
+
+%PDmin = Valor mínimo de Porcentaje de la población desocupada dentro de la muestra
+       seleccionada
+%PDmax = Valor máximo de Porcentaje de la población desocupada dentro de la muestra
+       seleccionada
+
+PDTi = Población desocupada total del municipio i-esimo
+
+PEAi = Población económicamente activa del municipio i-esimo
+
+                                           %𝑃𝑁𝐴𝐸𝑖 − %𝑃𝑁𝐴𝐸𝑚𝑖𝑛
+                              𝐼𝑃𝑁𝐴𝐸𝑖 =
+                                          %𝑃𝑁𝐴𝐸𝑚𝑎𝑥 − %𝑃𝑁𝐴𝐸𝑚𝑖𝑛
+
+                                                 𝑃𝑁𝐴𝐸𝑇𝑖
+                                   %𝑃𝑁𝐴𝐸𝑖 =             ∗ 100%
+                                                 𝑃6𝑎17𝑖
+
+%PNAEi = Porcentaje de la población de 6 a 17 años que no asiste a la escuela del municipio i-
+       esimo
+
+%PNAE min = Valor mínimo de Porcentaje de la población de 6 a 17 años que no asiste a la escuela
+      dentro de la muestra seleccionada
+
+%PNAE max = Valor máximo de Porcentaje de la población de 6 a 17 años que no asiste a la escuela
+      dentro de la muestra seleccionada
+
+PNAET i = Población total de 6 a 17 años que no asiste a la escuela del municipio i-esimo
+
+P6a17i = Población total de 6 a 17 años del municipio i-esimo
+
+                                               %𝑃𝑉𝐼𝑖 − %𝑃𝑉𝐼𝑚𝑖𝑛
+                                  𝐼𝑃𝑉𝐼𝑖 =
+                                              %𝑃𝑉𝐼𝑚𝑎𝑥 − %𝑃𝑉𝐼𝑚𝑖𝑛
+
+                                                 𝑃𝑉𝐼𝑇𝑖
+                                     %𝑃𝑉𝐼𝑖 =           ∗ 100%
+                                                  𝑃𝑇𝑖
+
+%PVIi = Porcentaje de la población vulnerable por ingreso del municipio i-esimo
+
+%PVI min = Valor mínimo de Porcentaje de la población vulnerable por ingreso dentro de la muestra
+        seleccionada
+
+%PVI max = Valor máximo de Porcentaje de la población vulnerable por ingreso dentro de la
+        muestra seleccionada
+
+PVIT i = Población vulnerable por ingreso total del municipio i-esimo
+
+PTi = Población total del municipio i-esimo
+
+                                             %𝑃𝐻𝑎𝑖 − %𝑃𝐻𝑎𝑚𝑖𝑛
+                                 𝐼𝑃𝐻𝑎𝑖 =
+                                            %𝑃𝐻𝑎𝑚𝑎𝑥 − %𝑃𝐻𝑎𝑚𝑖𝑛
+
+                                                 𝑃𝐻𝑎𝑇𝑖
+                                     %𝑃𝐻𝑎𝑖 =           ∗ 100%
+                                                  𝑃𝑇𝑖
+%PHai = Porcentaje de la población que habita en una vivienda con todos o algunos de sus
+       miembros en hacinamiento en el municipio i-esimo
+
+%PVI min = Valor mínimo de la población que habita en una vivienda con todos o algunos de sus
+        miembros en hacinamiento dentro de la muestra seleccionada
+
+%PVI max = Valor máximo de la población que habita en una vivienda con todos o algunos de sus
+        miembros en hacinamiento dentro de la muestra seleccionada
+
+PVIT i = Población total que habita en una vivienda con todos o algunos de sus miembros en
+         hacinamiento en el municipio i-esimo
+
+PTi = Población total del municipio i-esimo
+
+                                          %𝑃𝑁𝑒𝑁𝑡𝑖 − %𝑃𝑁𝑒𝑁𝑡𝑚𝑖𝑛
+                             𝐼𝑃𝑁𝑒𝑁𝑡𝑖 =
+                                         %𝑃𝑁𝑒𝑁𝑡𝑚𝑎𝑥 − %𝑃𝑁𝑒𝑁𝑡𝑚𝑖𝑛
+
+                                               𝑃𝑁𝑒𝑁𝑡𝑇𝑖
+                                  %𝑃𝑁𝑒𝑁𝑡𝑖 =            ∗ 100%
+                                               𝑃15𝑎19𝑖
+
+%PNeNti = Porcentaje de la población de 15 a 19 años que no estudia y no trabaja en el municipio
+      i-esimo
+
+%PNeNt min = Valor mínimo de la población de 15 a 19 años que no estudia y no trabaja dentro de
+      la muestra seleccionada
+
+%PNeNt max = Valor máximo de la población de 15 a 19 años que no estudia y no trabaja dentro de
+      la muestra seleccionada
+
+PNeNtT i = Población total de 15 a 19 años que no estudia y no trabaja en el municipio i-esimo
+
+P15a19i = Población total de 15 a 19 años en el municipio i-esimo
+

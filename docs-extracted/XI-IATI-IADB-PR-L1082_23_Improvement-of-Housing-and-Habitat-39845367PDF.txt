@@ -1,0 +1,1684 @@
+                                                                                       PUBLIC
+                                                                     SIMULTANEOUS DISCLOSURE
+
+
+                DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                         PARAGUAY
+
+
+
+
+                    IMPROVEMENT OF HOUSING AND HABITAT
+
+
+
+                                          (PR-L1082)
+
+
+
+
+                                       LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Roberto Camblor
+(FMM/CPR), Project Team Leader; Beatriz López (IFD/FMM) , Project Team Coleader;
+Rodolfo Graham (LEG/SGO); Christopher Mays Johnson (VPS/ESG); Jorge Oyamada
+(WSA/CPR); Christian Schneider (OMJ/CPR); Ignacio Fernández Admetlla (MIF/MIF);
+Alberto De Egea (FMP/CPR); Mariano Perales (FMP/CPR); Marta Corvalan (CSC/CPR);
+Ida M. Fernández (IFD/FMM); Felipe Morris, Hugo Roche, Víctor Vidal, and Marc Pérez
+(consultants); and María Lorena Kevish (IFD/FMM).
+
+
+
+
+This document is being released to the public and distributed to the Bank's Board of Executive
+Directors simultaneously. This document has not been approved by the Board. Should the Board
+approve the document with amendments, a revised version will be made available to the public, thus
+superseding and replacing the original version.
+                                                     CONTENTS
+
+
+
+PROJECT SUMMARY
+
+
+I.     DESCRIPTION AND RESULTS MONITORING ................................................................ 1
+
+       A.    Background, problems to be addressed, and rationale ................................. 1
+       B.    Objectives, components, and cost ................................................................ 6
+       C.    Key results indicators ................................................................................... 9
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ............................................................... 10
+
+       A.    Financing instruments ................................................................................ 10
+       B.    Environmental and social safeguard risks ................................................... 10
+       C.    Fiduciary risks ............................................................................................ 11
+       D.    Other risks .................................................................................................. 11
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 12
+
+       A.    Summary of implementation arrangements ................................................ 12
+       B.    Summary of arrangements for monitoring results ....................................... 14
+                                                         - ii -
+
+
+
+                                                       ANNEXES
+Annex I        Development Effectiveness Matrix (DEM) – Summary
+Annex II       Results Matrix
+Annex III      Fiduciary Agreements and Requirements
+
+
+                                               ELECTRONIC LINKS
+REQUIRED
+1.   Multiyear execution plan (PEP)
+2.   Annual work plan (AWP)
+3.   Monitoring and evaluation plan
+4.   Environmental and social management report (ESMR)
+5.   Procurement plan
+
+OPTIONAL
+1.   Economic analysis
+2.   Diagnostic assessment of the housing sector
+3.   Environmental and social management plan (ESMP)
+4.   Draft Operating Regulations
+5.   Analysis of compliance with the Bank’s Public Utilities Policy (document GN-2716-4)
+6.   Analysis of ability to pay for public utilities
+7.   Safeguard Screening Form (SSF) and Safeguard Policy Filter (SPF)
+                                      - iii -
+
+
+
+                                ABBREVIATIONS
+
+
+AFD         Agencia Financiera de Desarrollo [Development Finance Agency]
+ANDE        Administración Nacional de Electricidad [National Electricity
+            Administration]
+AWP         Annual work plan
+CASA        Crédito + Ahorro + Subsidio + ATC [Credit + Savings + Subsidy +
+            Construction-related Technical Assistance]
+CCLIP       Conditional credit line for investment projects
+DGEEC       Dirección General de Estadística, Encuestas y Censos [Bureau of
+            Statistics, Surveys, and Censuses]
+EDU         Empresa de Desarrollo Urbano de Medellín [Medellín Urban
+            Development Company]
+EETS        Entidad Especializada en Trabajo Social [specialized social work entity]
+EIRR        Economic internal rate of return
+EPH         Encuesta Permanente de Hogares [Ongoing Household Survey]
+ESMP        Environmental and social management plan
+ESMR        Environmental and social management report
+ESSAP       Empresa de Servicios Sanitarios del Paraguay [Sanitation Services
+            Company of Paraguay]
+FONAVIS     Fondo Nacional de Vivienda Social [National Low-income Housing
+            Fund]
+ICAS        Institutional Capacity Assessment System
+ICB         International competitive bidding
+MIF         Multilateral Investment Fund
+NPV         Net present value
+PEU         Program execution unit
+QCBS        Quality- and cost-based selection
+SCSP        Sistema de Contrataciones del Sector Público del Paraguay [Public
+            Sector Contracting System of Paraguay]
+SENAVITAT   Secretaría Nacional de la Vivienda y el Hábitat [National Department of
+            Housing and Habitat]
+SIAF        Sistema Integrado de Administración Financiera [Integrated Financial
+            Administration System]
+SICO        Sistema Integrado de Contabilidad [Integrated Accounting System]
+SNIP        Sistema Nacional de Inversión Pública [National Public Investment
+            System]
+SSS         Single-source selection
+USM         Unidad de salario mínimo [Minimum wage unit]
+WAL         Weighted average life
+                                                                 PROJECT SUMMARY
+
+                                                             PARAGUAY
+                                                 IMPROVEMENT OF HOUSING AND HABITAT
+                                                            (PR-L1082)
+
+                                                         Financial Terms and Conditions
+                                                                                                                                (a)
+Borrower: Republic of Paraguay                                                      Flexible Financing Facility
+                                                               Amortization period:                  25 years
+Executing agency: National Department of Housing and Habitat                                                     (b)
+                                                               Original WAL:                         15.17 years
+(SENAVITAT)
+                                                               Disbursement period:                  6 years
+                                                               Grace period:                         10 years
+               Source                       Amount                                                   (c)
+                                                               Inspection and supervision fee:
+                                                               Interest rate:                        LIBOR
+IDB (Ordinary Capital)                    US$30 million                                                   (c)
+                                                               Credit fee:                           0.25
+                                                                                                     U.S. dollars from the Bank’s
+Total                                     US$30 million        Currency of approval:
+                                                                                                     Ordinary Capital
+                                                        Project at a Glance
+Project objective/description: The objective is to improve housing conditions for the low-income population in metropolitan Asunción
+through: (i) housing subsidies to improve and expand dwellings; (ii) comprehensive neighborhood improvement of La Chacarita Alta;
+and (iii) improvement of the management, monitoring, and evaluation of housing programs of the National Department of Housing and
+Habitat (SENAVITAT).
+Special contractual condition precedent to the first disbursement of the loan proceeds: The no objection of SENAVITAT and the
+Bank to the program Operating Regulations (see paragraph 3.1).
+Special contractual conditions:
+Special contractual conditions precedent to the execution of Component I: (i) signed subexecution agreements with the
+participating financial institutions and credit unions; and (ii) a signed service contract with Agencia Financiera de Desarrollo (AFD) for
+administration of the subsidy funds (see paragraph 3.2).
+Special contractual conditions precedent to the execution of Component II: signed collaboration agreements between
+SENAVITAT, the Asunción municipal government, Entidad Especializada en Trabajo Social (EETS), the Sanitation Services Company
+of Paraguay (ESSAP), and the National Electricity Administration (ANDE) (see paragraph 3.3).
+Exceptions to Bank policies: None.
+                        (d)
+Project qualifies as:                                       SV                PE                         CC                           CI
+(a)
+      Under the Flexible Financing Facility (document FN-655-1), the borrower has the option of requesting changes to the amortization schedule, as
+      well as currency and interest rate conversions. The Bank will take operational and risk management considerations into account when reviewing
+      such requests.
+(b)
+      The original weighted average life (WAL) will be determined as of the contract signature date and may be shorter than 15.17 years.
+(c)
+      The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors as part of its review of the
+      Bank’s lending charges, in accordance with applicable policies.
+(d)
+      SV (Small and Vulnerable Countries), PE (Poverty Reduction and Equity Enhancement), CC (Climate Change, Sustainable Energy, and
+      Environmental Sustainability), CI (Regional Cooperation and Integration).
+                            I. DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problems to be addressed, and rationale
+1.1       Population and housing deficits. Paraguay’s population stood at 6.6 million in
+          2014.1 The country’s Bureau of Statistics, Surveys, and Censuses (DGEEC)
+          estimated the total number of housing units in the country at 1.6 million in 2012,
+          960,000 of which were in urban areas. Of the urban pool of housing, 490,000 units
+          were in the Metropolitan Area of Asunción.2 The DGEEC has not yet reported the
+          most recent census figures on quantitative and qualitative deficits3 at the national
+          level or for metropolitan Asunción.4 The last official estimates of these deficits were
+          based on the 2002 census data presented in the report on Paraguay’s housing
+          deficit5 and thus are out of date. For a more recent estimate of the magnitude of
+          housing deficits in the country, absolute housing deficits were calculated in 2012
+          using the ratios from the 2002 census. Based on those general estimates, the
+          qualitative deficit affects 1.4 million dwellings (88%) nationwide and 210,000
+          dwellings (43%) in metropolitan Asunción. These figures illustrate how important it
+          is for housing policy to institute programs to reduce the qualitative deficit, which is
+          the larger deficit in the country.
+1.2       There is no information available on the housing deficit by income level, so the
+          qualitative deficit cannot be calculated for the population earning less than the
+          equivalent of two minimum wage units (USMs).6 However, the classification of
+          households by living conditions and poverty provided in the 2011 Ongoing
+          Household Survey (EPH 2011) can be used to measure the magnitude of these
+          deficits and their relevance among the poor. The survey reports the following data:
+          60% of dwellings have running water inside the home, but the percentage varies
+          by poverty status, with piped water installed in 67% of nonpoor households but in
+          just 55% and 31% of poor and extreme poor households, respectively. Likewise,
+          66% of dwellings have an indoor bathroom with sanitary plumbing, but the rate is
+          72% for nonpoor households compared with 58% and 41% for poor and extreme
+          poor households, respectively.
+1.3       The large qualitative deficit in housing among poor households can be attributed to
+          several factors, notably the following: (i) these families have meager resources,
+          with 22.6% of the country’s population living in poverty (EPH 2014) and over half
+
+
+     Preliminary estimates by the DGEEC.
+     The Metropolitan Area of Asunción consists of the city of Asunción and the urban municipios of the
+     Central Department: Capiatá, Luque, San Lorenzo, Limpio, Ñemby, Lambaré, San Antonio, Fernando de
+     la Mora, Villa Elisa, Mariano Roque Alonso, and Itauguá.
+     The qualitative deficit refers to housing units that are can be brought up to standard but have material,
+     spatial, or service-related deficits. The quantitative deficit refers to housing units that cannot be salvaged
+     due to poor conditions or unacceptable materials, plus the units needed to meet natural population
+     growth.
+     The 2012 Housing and Population Census experienced problems that resulted in inconsistencies in
+     information that have yet to be resolved, so as of April 2015 the DGEEC had still not published findings.
+     The report was prepared by the DGEEC, the National Housing Council (CONAVI), with technical
+     assistance from Chile’s Ministry of Housing and Urban Planning (MINVU).
+     In 2014, one minimum wage unit (USM) equalled 1,824,055 guaraníes (about US$370), so the poverty
+     line for a four-person household was equivalent to 1.08 USMs at the national level and 1.38 USMs in
+     metropolitan Asunción.
+                                                   -2-
+
+
+
+
+       earning less than two USMs;7 (ii) 21% of households have overcrowding problems,
+       and 59% of this group are households with a high economic dependence index;8
+       and (iii) low-income households have limited access to finance, especially if their
+       income is from informal employment. Financial institutions, credit unions, and
+       nongovernmental organizations support the poorest groups through medium-term
+       microloans, but their coverage is very limited.9
+1.4    Urbanization and high informality in settlements. From 1950 to 2012,
+       Paraguay’s urban population grew from 35% to 59%. Metropolitan Asunción was
+       one of the main destinations in the country for rural migrants. The absence of
+       legislation on territorial and land use planning, coupled with institutional
+       weaknesses in urban planning among the municipal governments in the
+       metropolitan region, has led to unchecked growth and the rise of informal
+       settlements of poor households on the urban fringe and in hazard-prone areas.
+       There is no detailed information available to quantify the magnitude of informal
+       settlements or the degree of informality of tenure in Paraguay’s cities. The
+       information that is available indicates that 20% of the population lives in informal
+       settlements,10 of which there are 300 in Paraguay.11 The National Department of
+       Housing and Habitat (SENAVITAT), the municipal government of the City of
+       Asunción, and other municipal governments in the metropolitan region have
+       identified the main problems facing settlements on the north and south banks of
+       the Paraguay River and on the urban fringe of metropolitan Asunción as lack of
+       water, sanitary sewer, and stormwater drainage services. The institutions agree
+       that the settlements located along the Paraguay River face greater challenges due
+       to their geographic size, irregular urban footprint, environmental risks, and social
+       vulnerabilities.
+1.5    La Chacarita Alta is a consolidated settlement on the north bank of the Paraguay
+       River that was established over six decades ago when squatters moved onto land
+       owned by the City of Asunción. According to the housing and population census
+       conducted in July 2014, La Chacarita Alta is home to 3,000 people living in
+       735 dwellings. Household income varies but averages US$607 (equivalent to
+       1.5 USMs). A high percentage of women identify themselves as the head of
+
+  DGEEC, Gender Series, 2011. Women heads of household are the most affected by poverty as they
+  lack a family network and do not have supplemental income from a partner.
+  In the absence of income data from the census, the National Department of Housing and Habitat
+  (SENAVITAT), in its Housing Deficit Study (2010), constructed an economic dependence index that is
+  defined as the ratio of those who earn an income to those who do not. Dependence is regarded as high
+  when a household has more than 2.5 dependents per income earner, or no income earner.
+  There is no available information on the volume of funding for housing improvement microloans. By way
+  of reference, as of October 2013, the country’s 24 type-A credit unions had placed 22% (US$30 million)
+  of their mortgage portfolios in two- to five-year microloans made at annual interest rates approaching
+  32%. A survey of the 12 most representative financial institutions (2010) calculated a microloan portfolio
+  totaling US$556 million and serving 309,351 clients who received an average loan of US$1,800, with
+  minimum and maximum nominal interest rates of 17% and 30%, respectively.
+  This is the figure cited by the United Nations Human Settlements Programme (UN-Habitat) in its State of
+  the World’s Cities 2012 report, but no source is provided.
+  In the publication Problemática Habitacional de Paraguay [Housing Problems in Paraguay] (2009), Ana
+  Raquel Flores López Moreira of the Organización Latinoamericana y del Caribe de Centros Históricos
+  [Latin American and Caribbean Organization of Historic Centers] mentions this figure but does not cite a
+  source.
+                                            -3-
+
+
+
+
+      household (52%). The neighborhood is strategically located on high ground on the
+      north bank of the river near the historic downtown area of Asunción. It is one of the
+      oldest and most densely populated informal settlements in the city. These are the
+      main reasons for its selection, since addressing its needs for basic services and its
+      environmental problems, urban decay, and informality will help improve quality of
+      life in the neighborhood and adjacent areas, in a dense and consolidated area of
+      the city that has a high historical and real estate value. The intervention will also
+      contribute to the revitalization of Asuncion’s historic center and riverside districts.
+1.6   There are certain problems in La Chacarita Alta that should be the starting point for
+      neighborhood improvement, the main ones being the absence of sanitary sewer
+      and stormwater drainage systems and the existence of gullies and streams that
+      pose a risk to the community. The census found that 37% of dwellings in
+      La Chacarita Alta are located in areas vulnerable to landslides. Gullies and
+      streams are used as open dumps for garbage, and 59% of households report
+      disposing of wastewater in them. The risks are even higher when considering the
+      soil contamination that results from the improper disposal of garbage, and in
+      general the health impacts associated with the accumulation of dozens of tons of
+      waste in a densely populated environment (4.4 people per household) just a short
+      distance from the city’s historic center. A full 98% of homes in La Chacarita Alta
+      have electricity and 46% have public water services, in both cases through a
+      combination of formal and informal connections. The settlement is not structurally
+      integrated with the city center, nor does it follow a regular grid pattern. Rather, it is
+      a warren of dead-end streets and alley and walkways laid out on hilly terrain. There
+      are few social amenities and no public spaces. Furthermore, there are security
+      problems associated with illegal activities.
+1.7   A high proportion of households in La Chacarita Alta are without employment or a
+      steady source of income. Indeed, just 37% of survey respondents between the
+      ages of 14 and 65 years report being employed. In addition, many households
+      earn income from the recycling of solid waste, an informal activity performed in the
+      home. Accordingly, in addition to actions to promote formalization and provide
+      basic urban infrastructure, households without a steady income source need
+      support and guidance to formalize their activities. Job creation in the neighborhood
+      is essential if these households are to rise out of poverty and informality. Income
+      generation in the settlement contributes directly to improved habitability conditions
+      and to the sustainability of the interventions (e.g. payment for public services). In
+      this regard, it is especially important to support households that will be resettled,
+      households that are headed by a woman, and households that engage in solid
+      waste recycling activities. Creating income-generating opportunities for households
+      in La Chacarita Alta is a viable option given the neighborhood’s location as a prime
+      spot for businesses providing food and other services.
+1.8   Institutional weakness of SENAVITAT. The National Department of Housing and
+      Habitat (SENAVITAT) is the lead agency for the housing sector12 and runs nine
+      housing programs. For some of these programs, it performs functions other than
+
+
+
+  SENAVITAT was created in 2010 by Law 3,909/10, replacing the Consejo Nacional de Vivienda
+  [National Housing Council] (CONAVI).
+                                                     -4-
+
+
+
+
+       those of a lead agency.13 The largest program is the National Low-income Housing
+       Fund (FONAVIS), which receives the most funding from the national budget
+       (US$52.5 million in 2013). The budget allocated to SENAVITAT grew from
+       US$28 million in 2009 to US$135 million in 2013. Budget execution has fluctuated
+       between 79% in 2010 and 49% in 2012. Although there is no consistent
+       information, it is estimated that SENAVITAT builds between 3,000 and 5,000
+       dwellings per year. Its payroll costs are high (approximately US$13 million per
+       year) with a staff of over 600, most without professional training.14 In addition to
+       these factors, the institution program administration is weak since it has no
+       integrated system for managing its housing projects or tools for monitoring and
+       evaluation. Since late 2014 SENAVITAT has begun to address the shortcomings
+       described through an integrated plan involving changes in the policy and program
+       approach, the addition of qualified professional staff, and close monitoring of
+       programs and projects. This plan is consistent with the program strategy.
+1.9    Program strategy. The strategy is to help ensure that Paraguay’s housing policy
+       incorporates programs that are better at addressing housing and basic service
+       deficits. At present, there is a strong emphasis in the country’s housing policy and
+       programs on the heavily subsidized construction of new housing with no focus on
+       low-income households and limited participation by the private sector. This policy
+       bias towards new and heavily subsidized construction does not have an impact in
+       terms of reducing deficits in housing and basic services. Public funds are not being
+       put to efficient use because the large subsidies benefit just a handful of
+       households, leaving the vast majority without any assistance. The number of units
+       built (between 3,000 and 5,000) is very small compared with the magnitude of the
+       deficits and the growth in households, which numbered 50,000 per year between
+       2002 and 2012 (EPH 2012). Experience has shown that even programs benefitting
+       households at the base of the pyramid, such as the Opportunities for the Majority
+       program described in paragraph 1.14, are unable to reach households with income
+       under 2 USM. To make a housing improvement microloan accessible to these
+       households, a subsidy is required to bridge the gap between their income and
+       ability to pay.
+1.10   The proposed program will support SENAVITAT in its efforts to target its programs
+       by introducing two new products: (i) housing improvement and expansion; and
+       (ii) comprehensive improvement of informal settlements. Both products are
+       consistent with the nature of the qualitative and basic services deficit and
+       strengthen the facilitative role of SENAVITAT, which will delegate execution of the
+       projects to local and private sector institutions while contributing financing and
+       nonfinancial services. Upon program completion, SENAVITAT is expected to
+       allocate resources from its current budget to scale up the products financed under
+       this loan.
+
+
+
+  As lead agency, it should not be directly involved in making housing loans, as it does under the
+  Affordable Housing, Mortgage Lending, and Credit Fund for Cooperatives programs, performing
+  functions for which it is unqualified. As of the end of the 2013, its portfolio consisted of 11,902 loans with
+  an outstanding balance of US$58.7 million, with 87.3% of the total in varying degrees of delinquency.
+  Of its 342 staff employees, 58% do not have a university degree. In the case of contractors, 70% have
+  not completed university.
+                                           -5-
+
+
+
+
+1.11   The Bank’s country and sector strategy. The program is aligned with the targets
+       set in the Report on the Ninth General Increase in the Resources of the Inter-
+       American Development Bank (document AB-2764), specifically poverty reduction
+       and equity enhancement, as well as support for small and vulnerable countries,
+       inasmuch as the various components will serve households in disadvantaged
+       urban areas with income of up to 2 USMs. It will also contribute to the following
+       Results Matrix outputs: (i) households with upgraded water supply and new or
+       upgraded sanitary connections; (ii) kilometers of electricity transmission and
+       distribution lines installed or upgraded; and (iii) number of households with new or
+       upgraded dwellings. The operation is also consistent with the regional target for the
+       proportion of the urban population living in dwellings with hard floors. The program
+       is consistent with the guidelines set out in the Urban Development and Housing
+       Sector Framework Document (document GN-2732-2), mainly those related to
+       access to public and private financing for housing services for the poorest groups,
+       and improvement of informal neighborhoods in areas with a large concentration of
+       poor households. The program is also aligned with the Sector Strategy on
+       Institutions for Growth and Social Welfare (document GN-2587-2), specifically with
+       the component for access to financial services for the majority. Furthermore, it will
+       contribute to the Bank’s country strategy with Paraguay for 2014-2018 (document
+       GN-2769) through interventions in three priority sectors—the financial sector, water
+       and sanitation, and public management.
+1.12   In the financial sector, the strategy calls for housing subsidies to supplement the
+       financing provided by financial institutions for low-income families. In water and
+       sanitation, the program will contribute to the goals of the strategy and will be
+       complemented by the Comprehensive Sanitation Program for the Bay and
+       Metropolitan Area of Asunción (loan 3393/OC-PR), which will finance construction
+       of the trunk and secondary sewers for the sanitary system in La Chacarita Alta.
+       Program activities to strengthen SENAVITAT will contribute to the objective of
+       strengthening public management. The program also supports gender
+       considerations, taking into account the diversity of family and household structures,
+       which means paying special attention to domestic partnerships, women heads of
+       household, households comprised of a single adult, and the presence of
+       secondary families headed by single mothers or fathers in extended households.
+1.13   Alignment with Bank policies. The program meets the financial sustainability
+       and economic evaluation conditions set out in the Bank’s Public Utilities Policy
+       (document GN-2716-6). The Sanitation Services Company of Paraguay (ESSAP),
+       which provides water and sewer services, will be able to generate enough revenue
+       to cover operation and maintenance costs and a portion of the investment costs.
+       The balance of the investment costs will be covered by State transfers that will be
+       transparently allocated and used to expand capacity to provide greater access and
+       improve the quality and management of existing services. The works to be
+       financed are socioeconomically viable (see the Analysis of Compliance with the
+       Public Utilities Policy). In addition, the operation is consistent with the following
+       social and environmental policies: (i) B.1, Access to Information Policy (OP-102);
+       (ii) Involuntary Resettlement Policy (OP-710); (iii) Disaster Risk Management
+       Policy (OP-704); (iv) Policy B.5 on environmental assessment requirements, which
+       includes the environmental and social management plan (ESMP); (v) Policy B.4 on
+                                                  -6-
+
+
+
+
+          vulnerability to natural disasters; and (vi) Policy B.11 on pollution prevention and
+          abatement.
+1.14      Lessons learned. The program will draw on the lessons learned from housing
+          improvement programs in Paraguay and Nicaragua. In particular, attention has
+          been paid to good practices from the Juntos por tu Hogar / Improved Housing
+          Program for Low-income Families in Paraguay (loan 2488/OC-PR) of the
+          Opportunities for the Majority Sector (OMJ), a successful initiative that helped low-
+          income families remedy qualitative housing deficits by arranging microloans from
+          the financial institution Banco Visión and construction-related technical assistance
+          from the nongovernmental organization Habitat for Humanity. Meanwhile, lessons
+          learned from the Housing and Comprehensive Habitat Improvement Program (loan
+          2565/BL-NI) include the following: (i) there was evidence of operational problems
+          in coordinating microloans from the private sector with State subsidies, because
+          administration of the subsidies was not delegated to a financial entity; and (ii) the
+          subsidy application and management processes were unsuited to the dynamics of
+          the private sector, which resulted in a slow and tedious process. Both lessons were
+          considered in the design of Component I of the proposed program, which calls for
+          decentralizing administration of the funds through Agencia Financiera de
+          Desarrollo (AFD) and basing the subsidy application and approval process on the
+          practices of the financial institutions and credit unions.
+1.15      Lessons learned have been incorporated from Bank-financed operations for the
+          comprehensive improvement of informal settlements in the region.15 Special
+          consideration has been given to good practices for engaging the community and
+          the importance of supporting physical works with assistance for production-
+          oriented and violence prevention activities. Based on these lessons, the Medellín
+          Urban Development Company (EDU)16 will transfer its working methodology to
+          Habitat for Humanity, which will carry out the social work in La Chacarita Alta to
+          ensure that the intervention proceeds in close collaboration and consultation with
+          the community, fostering participation, buy-in, and productive business
+          development. These activities are expected to be financed under technical
+          cooperation operation PR-M1032 for the comprehensive transformation of
+          La Chacarita Alta, which is being processed by the Multilateral Investment Fund
+          (MIF) parallel to this operation and is slated for approval in the second half of 2015.
+          Likewise, the lessons learned and experience gained from loan 2565/BL-NI will be
+          transferred to SENAVITAT through the development of an automated information,
+          monitoring, and evaluation system that will substantially shorten processing times
+          for housing projects and make the allocation of subsidies more transparent.
+B.        Objectives, components, and cost
+1.16      Objectives. The objective is to improve housing conditions for the low-income
+          population in metropolitan Asunción through: (i) housing subsidies17 to improve and
+
+     Document GN-2732-2. The lessons are based on an in-depth analysis of 16 projects, including a
+     document review and structured interviews with the team leaders of those projects, some executing
+     agencies, and specialists in the Bank’s Fiscal and Municipal Management Division.
+     EDU is regarded as a leader of one of the world’s best practices in the area of comprehensive
+     transformation of informal neighborhoods and their integration into the formal city.
+17
+     For purposes of the National Public Investment System (SNIP), the term “subsidy” means “government
+     contribution.”
+                                                      -7-
+
+
+
+
+          expand dwellings; (ii) comprehensive neighborhood improvement of La Chacarita
+          Alta;18 and (iii) improvement of the management, monitoring, and evaluation of
+          SENAVITAT housing programs.
+1.17      Component I. Housing improvements and expansion (US$14 million) (for
+          SNIP purposes: Housing improvements and expansion in the Metropolitan Area of
+          Asunción). This component will benefit more than 4,600 households with direct
+          housing subsidies. The beneficiary selection criteria include: (i) households with
+          income of up to two USMs;19 (ii) households located in metropolitan Asunción;
+          (iii) favorable rating for a microloan from a financial institution or credit union;
+          (iv) onsite verification that the dwelling has qualitative deficits; (v) demonstration
+          that the household has savings or is able to make an in-kind contribution;
+          (vi) onsite verification that the dwelling is not in a hazard area; and
+          (vii) confirmation that the household has a valid document showing title to the
+          property. This requirement is described in paragraph 6.1.1 of the program
+          Operating Regulations. The amount of the subsidy has been set to ensure that in
+          combination with microloans and savings, sufficient funding will be available to
+          cover the cost of typical home improvement projects: repairs to flooring, walls, and
+          roofs, additional bathroom and bedroom, bathroom and septic tank, etc.
+1.18      The savings contribution will correspond to the income level and possibilities of
+          the households. Microloan amounts will be based on household ability to pay and
+          will be made by financial institutions regulated by the Superintendency of Banks
+          and by type-A credit unions regulated by the Instituto Nacional de
+          Cooperativismo [National Institute of Credit Unions] (INCOOP). Beneficiary
+          households will also receive construction-related technical assistance services.20
+          The cost of that assistance will be covered with a percentage from the subsidy,
+          microloan, and savings package. Construction-related technical assistance will
+          initially be provided by an established firm with experience in Paraguay, which
+          will train other private institutions to step into that role in the future. AFD will be
+          hired as the subsidy administrator21 for a fee equivalent to 1.5% of the total
+
+
+18
+     Comprehensive improvement includes: safe drinking water, electricity and public lighting, sanitary
+     sewers, stormwater drainage, risk mitigation works on streams, road works, street furniture and social
+     amenities, housing for resettled families, investments to improve solid waste management, regularization
+     of property ownership, health and environmental education, productive activities, and additional works to
+     ensure connectivity with adjacent neighborhoods.
+     The program will also target women heads of household, with 50% of subsidies going to this group. In so
+     doing, the program seeks to serve the most vulnerable population.
+20
+     The entities that provide construction-related technical assistance will deliver personal, individualized
+     services to each family that receives a subsidy. This assistance will primarily take the form of a
+     diagnostic assessment on the condition of the home, determination in collaboration with the family of the
+     activities to be financed to improve and/or expand the home, the design of construction plans and
+     technical specifications, the hiring of a contractor for the project, administration of the contract, and
+     project supervision to ensure that designs and technical specifications have been met. Legal services
+     will also be provided to help secure property titles, as will financial education services.
+     AFD has experience with this type of administration inasmuch as it executes two housing programs run
+     by financial institutions and credit unions and financed by the Bank through a conditional credit line for
+     investment projects (CCLIP). For the contract with AFD, the Policies for the Selection and Contracting of
+     Consultants Financed by the Inter-American Development Bank (document GN-2350-9) will apply, in
+     particular subparagraph (d), which states that the procedure is applicable “when only one firm is qualified
+     or has experience of exceptional worth for the assignment.”
+                                                   -8-
+
+
+
+
+       subsidy amount.22 The activities eligible for financing are described in paragraph
+       5.1.1 of the draft Operating Regulations for the program.
+1.19   Component II. Comprehensive neighborhood improvement of La Chacarita
+       Alta (US$14 million) (for SNIP purposes: Improvement of habitability conditions in
+       Asunción’s La Chacarita Alta neighborhood). This component will directly benefit
+       735 households. The following works and activities will be financed: (i) low-cost
+       communal and individual residential connections to public utilities;23 (ii) stormwater
+       drainage systems; (iii) risk mitigation works on gullies and streams; (iv) new and
+       improved roads; (v) construction of urban infrastructure (parks and other
+       infrastructure); (vi) construction of social infrastructure (education, health, and
+       daycare centers); (vii) relocation within the same neighborhood of homes in hazard
+       areas; (viii) regularization and issuance of property titles; the regularization
+       activities are described in Chapter 15 of the draft Operating Regulations for the
+       program; (ix) training activities for the creation of jobs and productive activities;24
+       (x) construction of a solid waste management facility; (xi) additional works to
+       facilitate urban integration with adjacent neighborhoods; (xii) formulation of a
+       comprehensive urban plan; (xiii) detailed designs for works; and (xiv) supervision
+       of works. Social outreach in the community will be conducted with technical
+       advisory support from an entity specializing in social work (EETS) in the context of
+       urban development. The objectives of this work will be to: (i) keep the community
+       informed about the scope and progress of works and activities; (ii) consult and
+       prioritize with the community the types of investments that will be made;
+       (iii) provide support to the families that will be resettled; (iv) provide training
+       opportunities to promote productive and income-generating activities for the
+       households;25 and (v) carry out activities to, for example, offer health and
+       environmental education and improve informal solid waste management. An
+       analysis of the ability to pay of the population of La Chacarita Alta was conducted
+       during program preparation. The finding was that, for 82% of households in the
+       neighborhood, expenditure on water and water and sanitation represented less
+       than 3% and 5%, respectively. For the 18% of households with the lowest income
+       levels (US$97), expenditure on water and water and sanitation represented 6.4%
+       and 9.6%, respectively (see the Analysis of Ability of Pay). The activities eligible for
+
+  The reason for having a financial entity handle administration of the funds has to do with the need to give
+  the financial institutions and credit unions every confidence that subsidies will be disbursed quickly, an
+  assurance that could not be made if the function were assigned to SENAVITAT.
+  This component will be executed in close coordination with the Comprehensive Sanitation Program for
+  the Bay and Metropolitan Area of Asunción (loan 3393/OC-PR). The loan for that program will finance
+  the main sewer lines for the bay area where La Chacarita Alta is situated. This component will finance
+  the communal and individual residential connections in the neighborhood as well as their connection to
+  those main sewer lines.
+  Support will be provided on a priority basis to households at risk of sinking into poverty following
+  resettlement, households whose businesses are temporarily affected by improvement works, and
+  households that rely on informal solid waste recycling activities to get by.
+  For these activities, the program will draw on good practices in the country. In the case of businesses,
+  the experience of the San Gerónimo neighborhood is relevant. Initiatives to formalize solid waste
+  recycling activities will look at the lessons that the Catholic Church has learned from supporting the
+  establishment of a recycling facility on the south bank of the Paraguay River, which is providing stable
+  employment for some households and increasing the income of many others that work in recycling. The
+  specialized social work entity (EETS) will draw on contacts already made with microfinance institutions to
+  help families in this area obtain microloans for productive activities.
+                                                   -9-
+
+
+
+
+          financing and the estimated cost of the comprehensive improvement investments
+          are itemized in Chapter 16 of the draft Operating Regulations for the program.
+1.20      Component III. Management improvement at SENAVITAT (US$815,000).26 This
+          component will finance consulting services to complete the development of an
+          integrated system for managing housing programs, including the registration of
+          applicants, and to purchase servers to host the system. The plan is to use
+          resources from the technical cooperation operation to strengthen project
+          management and evaluation at SENAVITAT (PR-T1169), which is still in
+          preparation with an expected approval date of September 2015, to finance the
+          conceptual designs and launch development of the system.
+1.21      Administration       and      evaluations/audits     (US$1.185 million).     Program
+          administration resources (US$890,000) will be used to finance the salaries of the
+          personnel hired for the program execution unit to perform coordination,
+          supervision, and evaluation of the activities planned under the three components.
+          Evaluation resources (US$295,000) will finance: (i) the annual technical verification
+          and financial audits; (ii) the midterm and final evaluations of the program, the latter
+          to include an ex post cost-benefit analysis of the investments made in La Chacarita
+          Alta; and (iii) evaluations of environmental management and the resettlement of
+          households relocated in La Chacarita Alta.
+1.22      Program cost. The cost of the program will be US$30 million, to be financed with
+          Ordinary Capital resources. Table 1 presents a breakdown of the costs by
+          component.
+                                      Table 1. Program costs (US$)
+                                           Categories                                         Total
+          Component I. Housing improvements and expansion                                   14,000,000
+          Component II. Comprehensive neighborhood improvement of La Chacarita Alta         14,000,000
+          Component III. Management improvement at SENAVITAT                                   815,000
+          Program administration                                                               890,000
+          Evaluations and audits                                                               295,000
+          TOTAL                                                                             30,000,000
+
+
+C.        Key results indicators
+1.23      The outcome indicators include: (i) the percentage of dwellings with qualitative
+          deficits in metropolitan Asunción; (ii) property value per square meter in
+          La Chacarita Alta; and (iii) the reduction in the number of months needed for
+          processing of housing projects. The output indicators include the number of
+          beneficiaries of improved housing solutions. See the Results Matrix (Annex II).
+1.24      Economic analysis. An ex ante economic analysis was conducted for the
+          program, including a cost-efficiency analysis of the housing improvement and
+          expansion component and a cost-benefit analysis of the component for the
+          comprehensive neighborhood improvement of La Chacarita Alta. The findings
+          indicate that program investments are viable from a socioeconomic standpoint.
+
+26
+     For SNIP purposes, this component is part of the project, “Housing improvements and expansion in the
+     Metropolitan Area of Asunción.”
+                                          - 10 -
+
+
+
+
+      The neighborhood improvement component has an economic net present value
+      (NPV) of over US$1.7 million and an economic internal rate of return (EIRR) of
+      26.2%). Component I has a cost-benefit ratio of greater than 1, with an intervention
+      cost for housing improvement and expansion activities that is less than the implicit
+      cost of the improvements. The sensitivity analysis included the variable of the
+      incremental benefit of housing, an increase in investment and operating and
+      maintenance costs, and modifications in the total number of dwellings benefited by
+      the program impact. The economic viability (EIRR of 12%) of the neighborhood
+      improvement component allows for an increase of up to 16% in the investment and
+      operating and maintenance costs and a reduction of up to 14% in the economic
+      benefit per dwelling.
+
+                    II. FINANCING STRUCTURE AND MAIN RISKS
+
+A.    Financing instruments
+2.1   The borrower will be the Republic of Paraguay, and the executing agency will be
+      the National Department of Housing and Habitat (SENAVITAT). The financing
+      instrument will be a sovereign guaranteed investment loan, under the terms of the
+      Flexible Financing Facility, with a six-year disbursement period. The disbursement
+      schedule is given in Table 2.
+
+                      Table 2. Disbursement schedule (US$ millions)
+        Financing         Year 1     Year 2   Year 3   Year 4     Year 5   Year 6   Total
+        Total IDB           1.1       3.2      6.4       7.5        7.0     4.8      30
+
+
+B.    Environmental and social safeguard risks
+2.2   Based on a review of the project profile, the program was classified as a category
+      “B” operation, which necessitated an environmental and social assessment,
+      including the preparation of an environmental and social management plan
+      (ESMP) with environmental and social procedures for works and the local
+      resettlement of affected households. The results are summarized in the
+      environmental and social management report (ESMR) (see paragraph 2.6). The
+      environmental and social assessment was conducted in September 2014 and will
+      be available to the public following negotiation of the loan.
+2.3   During program execution, the environmental and social impacts are associated
+      with the works planned in Components I and II, which by their nature do not
+      produce significant environmental impacts but rather impacts that are more
+      temporary, local, and low in magnitude. The direct environmental impacts
+      anticipated under the program are those typical of neighborhood improvement
+      activities, such as generation of debris, dust, and noise, and safety concerns
+      related to the movement of heavy machinery. With effective implementation of the
+      mitigation measures set out in the environmental management plans, these
+      impacts will not be significant. No adverse direct impacts on protected areas are
+      anticipated, inasmuch as the program does not call for actions in protected areas,
+      nor are any such areas within the program’s area of indirect impact, so no indirect
+      impacts have been identified. The ESMP, which is attached to the Operating
+                                           - 11 -
+
+
+
+
+      Regulations as an annex, includes the environmental and social mitigation
+      measures and plans.
+2.4   The investments planned under Components I and II will have a strongly positive
+      environmental impact by helping to improve housing conditions and access to
+      basic and social services that are presently nonexistent or insufficient, directly
+      improving the quality of life of the population. In Component I, participating
+      households will identify and prioritize improvement and expansion projects with the
+      support of the institutions providing construction-related technical assistance.
+      During construction, households will be jointly responsible for taking care of
+      materials and supervision. If they so decide, they may contribute their labor. In
+      Component II, approximately 140 households are expected to be resettled, the
+      majority of which now live in risk zones and are vulnerable to landslides.
+      Resettlement will have a very positive impact on these households and on the
+      neighborhood in general.
+2.5   Environmental and social risks include: (i) resistance among the community of
+      La Chacarita Alta to execution of the works due to lack of information on their
+      scope; and (ii) a decline into poverty for some families during the resettlement
+      process. These risks will be mitigated through implementation of an information
+      plan designed to empower the population; support for families in the form of
+      income-generating activities; transfer of responsibility for the maintenance of works
+      to the Sanitation Services Company of Paraguay (ESSAP) and the National
+      Electricity Administration (ANDE) and to the Asunción municipal government; and
+      educational activities to encourage the local community to care for and preserve
+      the works. For the resettlement of households, the guidelines of Bank Operational
+      Policy OP-710 on Involuntary Resettlement will be followed. The resettlement plan
+      will be delivered to the Bank for approval prior to any resettlement activities.
+      Considerations related to environmental and social management have been
+      incorporated into the ESMR and the ESMP, which includes the resettlement
+      framework plan.
+C.    Fiduciary risks
+2.6   The institutional assessment for fiduciary management of the program was based
+      on: (i) the fiduciary context of the country; (ii) the findings of the fiduciary risk
+      assessment and the project risk management workshop; (iii) an analysis of
+      SENAVITAT using the Institutional Capacity Assessment System (ICAS)
+      methodology; and (iv) working meetings with the project team. With these inputs,
+      Annex III containing the fiduciary agreements and requirements for execution of
+      the loan was prepared. Based on the assessment, it was determined that there is a
+      fiduciary risk stemming from the fact that SENAVITAT does not have the technical
+      capacity, proactive initiative, or facilitative attitude needed to manage the program.
+      To mitigate these risks, an administrative and financial subunit and an contracting
+      operations subunit will be created within the program execution unit to work
+      exclusively on processing payments and contracts generated by the program.
+D.    Other risks
+2.7   Other risks include: (i) insufficient coordination among the institutions participating
+      in the program; (ii) inadequate maintenance of the works; (iii) lack of credibility
+      among people in the neighborhood with respect to the planned improvements due
+                                            - 12 -
+
+
+
+
+      to prior commitments that went unfulfilled; (iv) granting of subsidies by the financial
+      institutions for households that do not meet the requirements established in the
+      Operating Regulations; and (v) nonapproval of the MIF technical cooperation
+      operation to finance social outreach. The mitigation measures include the
+      following: (i) establish subexecution agreements and arrangements with the public
+      and private institutions participating in the program; (ii) transfer responsibility for
+      maintaining works to the ESSAP, ANDE, and the Asunción municipal government,
+      and arrange educational activities to encourage the local community to care for
+      and preserve the works; (iii) implement an information plan to publicize the types of
+      works and activities planned and clarify the proactive role for the community;
+      (iv) provide training for families with income-generating activities; (v) monitor
+      SENAVITAT through audits to ensure application of the Operating Regulations;
+      (vi) promote engagement between the project team for this program with the MIF
+      team; and (vii) potentially provide financing for social outreach activities using
+      funds from Component I.
+
+                    III. IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.    Summary of implementation arrangements
+3.1   As noted, the borrower will be the Republic of Paraguay, and the executing agency
+      will be the National Department of Housing and Habitat (SENAVITAT). A program
+      execution unit (PEU) will be created, reporting to the highest authority at
+      SENAVITAT. The PEU will handle general coordination and monitoring and
+      evaluation of the program components, as well as monitoring of the planning
+      instruments: the multiyear execution plan, the annual work plan, and the
+      procurement plan. It will also be responsible for procurements and financial
+      management under Components II and III, as well as for ensuring compliance with
+      the Operating Regulations. The no objection by SENAVITAT and the Bank to
+      the program Operating Regulations will be a special contractual condition
+      precedent to the first disbursement of the loan proceeds.
+3.2   Execution of Component I. In their role as subexecuting agencies, the
+      participating financial institutions and credit unions will be responsible for
+      identifying and evaluating the members and customers that qualify for the credit +
+      savings + subsidy + construction-related technical assistance (CASA) product. The
+      financial institutions and credit unions will be selected in accordance with the
+      criteria established in the program Operating Regulations. They will also contract
+      for the construction-related technical assistance services, for the purpose of
+      identifying onsite the works that will be undertaken to address qualitative deficits
+      and comply with environmental and legal criteria. In the case of a favorable
+      evaluation, the financial institutions and credit unions will request disbursement of
+      the subsidy by Agencia Financiera de Desarrollo (AFD). Upon release of the
+      subsidy, the financial institutions and credit unions will transfer the funds to the
+      entity providing the construction-related technical assistance, which will be
+      responsible for contracting and supervision of the works. SENAVITAT will have the
+      following responsibilities: (i) ensure that AFD disburses the funds in a timely
+      manner; (ii) verify that the participating financial institutions and credit unions meet
+      the eligibility criteria for delivery of the subsidy; and (iii) conduct supervision of the
+      works and the construction-related technical assistance on a random basis and as
+                                                  - 13 -
+
+
+
+
+       it deems appropriate.27 Compliance with eligibility criteria will be verified on an
+       ex post basis through a technical verification audit financed with the loan proceeds.
+       The duties and responsibilities of the participating institutions are described in
+       detail in the draft Operating Regulations. Special contractual conditions precedent
+       to the execution of Component I will be: (i) signed subexecution agreements with
+       the participating financial institutions and credit unions; and (ii) a signed service
+       contract with AFD for administration of the subsidy funds.
+3.3    Execution of Component II. SENAVITAT will be responsible for setting up two
+       levels of institutional coordination. A core level will consist of SENAVITAT, the
+       Asunción municipal government, and the specialized social work entity (EETS). A
+       second level will additionally consist of ESSAP, ANDE, and other public and
+       private institutions that provide services and support to the community of
+       La Chacarita Alta. SENAVITAT will also have the following responsibilities:
+       (i) commission preparation of the comprehensive urban plan and detailed technical
+       designs for each work, and conduct bidding for execution of the works;
+       (ii) supervise execution of the works; (iii) guarantee compliance with environmental
+       and resettlement policies; (iv) supervise the social outreach work with the
+       community; and (v) coordinate the execution of works with other initiatives for the
+       urban renewal of the historic center. The Asunción municipal government will have
+       the following responsibilities: (i) approve the comprehensive urban plan and
+       detailed technical designs (with the exception of water, sanitation, and
+       electricity/lighting work, which will be approved by ESSAP and ANDE,
+       respectively); (ii) perform legal regularization and property registration activities;
+       and (iii) assist with the supervision of works. The EETS will initiate social outreach
+       work with the community in advance of the design of the comprehensive urban
+       plan and continue it for the duration of the works and activities execution period
+       and up to six months after completion. A special contractual condition precedent to
+       the execution of Component II will be signed collaboration agreements between
+       SENAVITAT, the Asunción municipal government, the EETS, and ANDE.
+3.4    Execution of Component III. The PEU will be responsible for hiring a consulting
+       firm to develop the integrated housing project management system, including the
+       registration of applicants and purchase of the necessary computer hardware to
+       host the integrated system.
+3.5    Procurement and audit. The policies that will apply to this loan are: (i) the Policies
+       for the Procurement of Goods and Works Financed by the IDB (document
+       GN-2349-9) and the Policies for the Selection and Contracting of Consultants
+       Financed by the IDB (document GN-2350-9). In addition, the electronic reverse
+       auction and competitive bidding subsystems of the National Public Contracting
+       System (Law 2051/03) will be used. The use of other country systems approved
+
+  The items eligible for financing under this component will be: (i) improvement of housing: for structurally
+  sound units that meet minimum habitability conditions but are in need of improvements to roofs, walls,
+  floors, separation of rooms, bathrooms, water and/or sewer work, or electrical work; (ii) expansion of
+  housing: for structurally sound units that meet minimum habitability conditions but due to overcrowding
+  are in need of expansion in the form of new or larger rooms, kitchens, bathrooms and/or water and/or
+  sewer work or electrical work; (iii) regularization of property ownership: families that need resources to
+  regularize their property, including specialized services for activities such as registering property and
+  obtaining title; and (iv) technical assistance: contracting construction-related technical assistance
+  services, which includes technical, legal, and financial services.
+                                                  - 14 -
+
+
+
+
+          subsequent to approval of the program will be applicable automatically, and so
+          indicated in the procurement plan. Contracts for consulting services will be
+          procured using the standard request for proposals issued by or agreed upon with
+          the Bank. The sector specialist will be responsible for reviewing the terms of
+          reference for consulting services. All procurements and/or contracting processes
+          governed by Bank policies will be subject to ex ante review by the Bank, taking into
+          account the government’s position on the matter. The Bank will require the
+          borrower and/or executing agency to prepare and deliver audited financial reports,
+          one to be delivered annually within 120 days after the end of the fiscal year, and
+          one to be delivered on 30 August of each year. Single-source selection of Agencia
+          Financiera de Desarrollo (AFD) as the agency to transfer the subsidies to the
+          financial institutions and credit unions is envisaged, in accordance with
+          paragraph 3.10(d) of document GN-2350-9. AFD is a Paraguayan government
+          agency that operates in the financial market as a second-tier entity and is
+          executing several Bank operations.28 For these reasons, AFD is deemed to have
+          experience of exceptional value for carrying out these services.
+B.        Summary of arrangements for monitoring results
+3.6       Monitoring activities include: (i) program monitoring using the Results Matrix, the
+          multiyear execution plan, the annual work plan, and the procurement plan; (ii) the
+          preparation of six-monthly and annual progress reports; and (iii) technical
+          verification and financial management audits. Evaluation activities include: (i) a
+          midterm evaluation and a final evaluation; and (ii) an ex ante cost-benefit analysis
+          that will compare the costs and benefits generated by the works in La Chacarita
+          Alta (see monitoring and evaluation plan).
+
+
+
+
+     These projects are the second operation under the CCLIP to provide financing to AFD (2150/BL-PR) and
+     the third operation under the CCLIP to provide financing to AFD (2369/BL-PR).
+                                                                                                                                                                                                                          PR-L1082 -Annex I
+                                                                                                                                                                                                                                Page 1 of 1
+
+
+
+
+                                                                                        Development Effectiveness Matrix
+
+                                                                                                      Summary
+I. Strategic Alignment
+1. IDB Strategic Development Objectives                                                                                                                   Aligned
+                                                                                                      -Lending to small and vulnerable countries
+   Lending Program                                                                                    -Lending for poverty reduction and equity enhancement
+
+
+                                                                                                      -Paved road coverage (Km/Km2)
+   Regional Development Goals                                                                         -Proportion of urban population living in dwellings with hard floor
+
+
+                                                                                                      -Households with new or upgraded water supply
+                                                                                                      -Households with new or upgraded sanitary connections
+   Bank Output Contribution (as defined in Results Framework of IDB-9)                                -Km of electricity transmission and distribution lines installed or upgraded
+                                                                                                      -Number of households with new or upgraded dwellings
+
+
+2. Country Strategy Development Objectives                                                                                                                Aligned
+
+                                                                                                                                      - Increase the coverage of water and sewage (including wastewater
+                                                                                                                                     treatment) services in the AMA.
+   Country Strategy Results Matrix                                                                              GN- 2769              - Foster greater financial inclusion.
+                                                                                                                                      - Improve the effectiveness, transparency, and integrity of public
+                                                                                                                                     entities.
+
+
+
+   Country Program Results Matrix                                                                               GN-2805              The intervention is included in the 2015 Operational Program.
+
+
+
+Relevance of this project to country development challenges (If not aligned to country
+strategy or country program)
+
+II. Development Outcomes - Evaluability                                                                        Evaluable                             Weight                              Maximum Score
+                                                                                                                  8.1                                                                         10
+3. Evidence-based Assessment & Solution                                                                           7.6                                33.33%                                   10
+   3.1 Program Diagnosis                                                                                          2.4
+   3.2 Proposed Interventions or Solutions                                                                        2.4
+   3.3 Results Matrix Quality                                                                                     2.8
+4. Ex ante Economic Analysis                                                                                     10.0                                33.33%                                      10
+  4.1 The program has an ERR/NPV, a Cost-Effectiveness Analysis or a General
+                                                                                                                   4.0
+Economic Analysis
+     4.2 Identified and Quantified Benefits                                                                        1.5
+     4.3 Identified and Quantified Costs                                                                           1.5
+     4.4 Reasonable Assumptions                                                                                    1.5
+     4.5 Sensitivity Analysis                                                                                      1.5
+5. Monitoring and Evaluation                                                                                       6.8                               33.33%                                      10
+     5.1 Monitoring Mechanisms                                                                                     2.5
+     5.2 Evaluation Plan                                                                                           4.3
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                                          Low
+                               Identified risks have been rated for magnitude and likelihood                                                                Yes
+                                    Mitigation measures have been identified for major risks                                                                Yes
+                      Mitigation measures have indicators for tracking their implementation                                                                 Yes
+Environmental & social risk classification                                                                                                                   B
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+                                                                                                                                     Financial Management: Budget, Treasury, Accounting and Reporting,
+                                                                                                                                     External control, Internal Audit.
+                                                                      Fiduciary (VPC/FMP Criteria)                 Yes
+                                                                                                                                     Procurement: Information System, Shopping Method, Contracting
+                                                                                                                                     individual consultant, National Public Bidding.
+
+
+
+                                                                                                                                     Strategic Planning National System, Monitoring and Evaluation National
+                                                                                      Non-Fiduciary                Yes
+                                                                                                                                     System.
+
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+
+                                                                                    Gender Equality
+
+
+                                                                                              Labor
+
+
+                                                                                       Environment
+
+
+
+                                                                                                                                     Technical assistance activities included: (i) A workshop for the
+                                                                                                                                     counterpart undertaken to disseminate good practices from housing and
+                                                                                                                                     slum upgrading programs, as well as to share experiences and lessons
+Additional (to project preparation) technical assistance was provided to the public sector                                           learned from programs in other countries; and (ii) participation by a
+                                                                                                                   Yes
+entity prior to approval to increase the likelihood of success of the project                                                        team of the Urban Development Enterprise in Medellin in a meeting held
+                                                                                                                                     in Asuncion with the national and local authorities regarding
+                                                                                                                                     methodologies to promote community participation in the slum
+                                                                                                                                     upgrading process.
+
+
+
+The ex-post impact evaluation of the project will produce evidence to close knowledge
+gaps in the sector that were identified in the project document and/or in the evaluation
+plan
+
+
+The objective of the project is to improve the housing conditions of low income households in Asuncion. To obtain this objective the project will: provide subsidies to low income families to improve their dwellings;
+and upgrade the neighborhood of La Chacarita Alta by providing and upgrading basic services, drainage, roads and public spaces, among others.
+
+The document presents the problems to be addressed through the project as well as the factors that cause them. It also identifies the project’s beneficiaries. The magnitudes of the problems faced by the
+neighborhood of La Characita Alta are presented. However, the magnitudes of the supply of subsidies directed to families with less than 2 minimum salaries for housing improvements and the qualitative
+housing deficit for these families is not specified due to lack of data. The proposed interventions are linked to the problems identified in the diagnosis.
+
+The results matrix has vertical logic. All the outcome indicators are SMART, have baselines, targets and sources of information. All output indicators are SMART , have baselines and sources of information. One
+of the indicators does not have a target.
+
+The project was analyzed using a cost-benefit analysis. The economic benefits were quantified using the increase in property values due to the improvements financed by the project. The costs reflect real
+resource costs to the economy. The assumptions used were presented and a sensitivity analysis was performed.
+
+The project has a monitoring and evaluation plan which follows the DEM guidelines. The operation will be evaluated using a reflexive methodology and an ex post cost-benefit analysis.
+                                                                                                                                                                    Annex II
+                                                                                                                                                                  Page 1 of 5
+
+
+
+                                                                            RESULTS MATRIX
+
+                           The objective is to improve housing conditions for the low-income population in metropolitan Asunción through: (i) housing subsidies
+      Objective:           to improve and expand dwellings; (ii) comprehensive neighborhood improvement of La Chacarita Alta; and (iii) strengthening of the
+                           National Department of Housing and Habitat (SENAVITAT) to improve the management and evaluation of housing programs.
+                                                                                OUTCOMES
+
+                                      Unit of         Baseline  Final target          Source / Means of
+         Indicators                                                                                                                Observations
+                                     measure           (2015) Value       Year            verification
+Expected outcomes of Component I. Improve the dwellings of low-income families living in metropolitan Asunción
+                                                     1
+Percentage of dwellings with  % dwellings       43.2           42.1       2021    Midterm evaluation and      During the startup workshop, the percentage of
+qualitative deficits in      with qualitative                                     final evaluation of program dwellings with qualitative deficits in metropolitan
+metropolitan Asunción           deficits /                                        (information to be taken    Asunción will be updated, using information
+                             housing stock                                        from the 2014 census and transmitted by the Bureau of Statistics, Surveys, and
+                                                                                  household surveys).         Censuses (DGEEC), which will be published in the
+                                                                                                              second half of 2015.
+Percentage of subsidies for  % households /        0           100        2021    Midterm evaluation and      A total of 4,600 subsidies are available. This indicator
+housing improvements and     total available                                      final evaluation of program will help measure the targeting of the program.
+expansion made to households    subsidies                                         (information to be taken
+with income levels up to two                                                      from the 2014 census and
+minimum wage units (USMs).                                                        household surveys).
+
+Percentage of households          % households /          0           100        2021      Idem                         A total of 4,600 subsidies are available. This indicator
+receiving program subsidies       total available                                                                       will help measure the contribution to improvements in
+that improved and expanded           subsidies                                                                          the quality of existing housing.
+their dwellings
+Percentage of dwellings             % woman-              0            50        2021      Idem                         There are 2,300 subsidies available for
+improved and/or expanded with         headed                                                                            woman-headed households with income of up to
+program subsidies, belonging      households of                                                                         2 USMs. This indicator will help measure the
+to woman-headed households        up to 2 USMs /                                                                        program’s contribution to gender equity.
+with income of up to 2 USMs       total improved
+                                     dwellings
+
+
+
+
+          1
+              According to data from the 2002 census, the qualitative deficit affects 31,213 dwellings in the Department of Asunción, or 27.1% of the housing stock,
+              and 145,528 dwellings in Central Department, or 49.5% of the housing stock. Accordingly, for the metropolitan area of Asunción, the deficit totals
+              176,741 units, or 43.2% of the housing stock.
+ Annex II
+ Page 2 of 5
+
+
+
+                                       Unit of         Baseline  Final target       Source / Means of
+         Indicators                                                                                                            Observations
+                                      measure           (2015) Value       Year         verification
+Expected outcomes of Component II. Raise private property values and improve housing conditions for the population in La Chacarita Alta
+Property values in La Chacarita Average value     US$87       US$127       2021 Household survey and        The baseline and target values for the indicator were
+Alta                             per square                                     final program evaluation    established based on the results of a property value
+                                    meter                                                                   survey conducted during program preparation by
+                                                                                                            appraisal experts.
+Percentage of households with           % of               0           100        2021     Idem               According to preliminary findings of the 2014 census,
+24-hour water service                households                                                               46% of the population is connected to utilities
+                                                                                                              provided by ESSAP, although 24-hour service is not
+                                                                                                              guaranteed. The indicator will be updated with the
+                                                                                                              baseline data to be prepared by Habitat for Humanity
+                                                                                                              as part of its initial social outreach work with the
+                                                                                                              community.
+Percentage of households with        % of           0          100       2021     Idem                        According to preliminary findings of the 2014 census,
+indoor connections to the        households                                                                   3% of the population is connected to the sanitary
+sewer system via lines in good                                                                                sewer system, although the legality and condition of
+               2
+working order                                                                                                 the connections are unknown. The indicator will be
+                                                                                                              updated with the baseline data to be prepared by
+                                                                                                              Habitat for Humanity.
+Percentage of households with   % of dwellings      0          100       2021     Idem                        According to preliminary findings of the 2014 census,
+indoor connections to the                                                                                     98% of dwellings have electricity connections, both
+                            3
+reinforced electricity grid                                                                                   formal and informal. The indicator will be updated
+                                                                                                              with the baseline data to be prepared by Habitat for
+                                                                                                              Humanity.
+Expected outcomes of Component III. Make the delivery of housing subsidies for housing projects by SENAVITAT more efficient and transparent
+Reduction in processing times    Number of          48          24       2018                                 Using program preparation resources, activities have
+                                                                                  Integrated and automated
+for subsidies from the National    months                                                                     been initiated to streamline and standardize
+                                                                                  management system.
+Low-income Housing Fund                                                                                       processes, requirements, and regulations for
+(FONAVIS) and housing                                                             Reports by external         SENAVITAT housing programs, which will be
+construction under other                                                          consultants and technical   systematized in the new integrated and automated
+SENAVITAT programs.                                                               verification audit reports. project management system.
+Percentage of housing projects                       0         100       2018     Idem                        Idem
+                                % of projects
+in which SENAVITAT operating
+regulations are applied
+
+
+
+
+         2
+               A system in good working order is defined as a system with no overflows or residual water losses in the streets, leaks into the ground, or discharges
+               into bodies of water.
+         3
+               A reinforced system is defined as upgraded medium- and low-voltage power lines.
+                                                                                                                                                     Annex II
+                                                                                                                                                   Page 3 of 5
+
+
+
+                                                                      OUTPUTS
+                                  Baseline                                                 Final target
+                           Unit of                   Intermediate measurements                              Source / Means of
+      Indicators                    2015                                                      2021                                         Observations
+                          measure                                                                              verification
+                                    Value   2016     2017   2018    2019    2020    2021      Value
+Component I. Housing improvements and expansion
+Subsidies to expand    Number of      0      100     400     800    1,200   1,200   900       4,600       Annual and six-monthly    Subsidies will be approved
+and improve housing     subsidies                                                                         program monitoring        for households that meet the
+                                                                                                          reports, prepared by      requirements established in
+                                                                                                          the PEU, and technical    the program Operating
+                                                                                                          verification audit        Regulations.
+                                                                                                          reports.
+Workshops on do-it-     Number of     0      10     20      30       40      40      10        150        Report by entities        Equitable participation by
+yourself construction   workshops                                                                         providing construction-   men and women heads of
+and legal guidance                                                                                        related technical         household in the workshops
+offered by the entities                                                                                   assistance and midterm    will be verified.
+providing construction-                                                                                   and final reports.
+related technical
+assistance
+Component II. Comprehensive neighborhood improvement of La Chacarita Alta
+Meters of 50-150 mm     Number of     0                            7,600                      7,600       Final works report and    The target value comes from
+water lines installed    meters                                                                           annual and six-monthly    an estimate made by ESSAP
+                                                                                                          program monitoring        during program preparation.
+                                                                                                          reports, prepared by
+                                                                                                          the PEU, and technical
+                                                                                                          verification audit
+                                                                                                          reports.
+Residential connections    Number of    0                           735                        735        Idem                      The baseline will be
+to the water system       connections                                                                                               prepared by Habitat for
+installed                                                                                                                           Humanity at program start.
+Meters of sewer lines     Number of     0                           8,700                     8,700       Idem                      The target value comes from
+installed                  meters                                                                                                   an estimate made by ESSAP
+                                                                                                                                    during program preparation.
+Residential connections    Number of    0                           735                        735        Idem                      The baseline will be
+to the sewer system       connections                                                                                               prepared by Habitat for
+installed                                                                                                                           Humanity at program start.
+Residential connections    Number of    0                           735                        735        Idem                      Idem
+to the electricity grid   connections
+Meters of transmission     Number of    0                           9,000                     9,000       Idem                      Idem
+lines improved.             meters
+  Annex II
+  Page 4 of 5
+
+
+
+                                            Baseline                                              Final target
+                               Unit of                       Intermediate measurements                            Source / Means of
+       Indicators                            2015                                                    2021                                    Observations
+                              measure                                                                                verification
+                                             Value   2016   2017   2018   2019    2020   2021        Value
+Public lighting structures    Number of        0                          352                         352        Idem                 The target value comes from
+erected                       structures                                                                                              an estimate made by ANDE
+                                                                                                                                      during program preparation.
+Alleys and walkways           Number of        0                          5,000          20,000     25,000       Idem                 The target value comes from
+expanded and paved             square                                                                                                 a consulting estimate made
+                               meters                                                                                                 during program preparation.
+Channel works                 Number of        0                           200            800        1,000       Idem                 Idem
+completed on the three          linear
+streams running through       meters of
+the neighborhood:              channel
+México, Antequera, and
+Tacuary
+Works for urban and           Number of        0                            2              2           4         Idem                 Works may include parks,
+social amenities                works                                                                                                 schools, daycare centers,
+built/improved                                                                                                                        etc.
+Dwellings built to resettle   Number of        0                                   70     70          140        Idem                 The target value comes from
+families living in hazard     dwellings                                                                                               a consulting estimate made
+areas                                                                                                                                 during program preparation.
+Solid waste management        Number of        0                            1                          1         Idem                 The need for the facility was
+facility built                 facilities                                                                                             identified during a consulting
+                                                                                                                                      engagement conducted
+                                                                                                                                      during program preparation.
+Property titles entered in    Number of        0                           200    200     335         735        Idem                 The baseline value will be
+the property register:         property                                                                                               calculated by Habitat for
+• In the names of both           titles                                                                                               Humanity as part of its initial
+   partners in the case of                                                                                                            social outreach work with the
+   married couples;                                                                                                                   community. That same value
+• In the names of both                                                                                                                will be disaggregated prior to
+   partners in the case of                                                                                                            program start for the three
+   couples cohabitating                                                                                                               groups of beneficiaries. This
+   for more than 5 years;                                                                                                             indicator reflects the
+• In the name of woman                                                                                                                incorporation of the gender
+   heads of household.                                                                                                                policy into the program
+                                                                                                                                      indicators.
+Educational workshops         Number of        0             20     40     40      40     20          160        Idem                 The baseline value will be
+on environmental and          workshops                                                                                               determined when the
+sanitation topics held for                                                                                                            comprehensive urban plan is
+the community                                                                                                                         designed.
+                                                                                                                                                Annex II
+                                                                                                                                              Page 5 of 5
+
+
+                                      Baseline                                            Final target
+                         Unit of                       Intermediate measurements                          Source / Means of
+       Indicators                      2015                                                  2021                                    Observations
+                        measure                                                                              verification
+                                       Value   2016   2017   2018   2019    2020   2021      Value
+Activities to help      Number of        0                    10     10      10     10        40         Idem                 The households to receive
+households develop       activities                                                                                           this support will be identified
+productive strategies                                                                                                         by Habitat for Humanity as
+                                                                                                                              part of its initial social
+                                                                                                                              outreach work with the
+                                                                                                                              community.
+Additional works            Number of 0                                                      TBD         Idem                 The baseline and target
+completed, such as: road      works                                                                                           values for this indicator will
+and other connections that                                                                                                    be determined when the
+facilitate La Chacarita                                                                                                       comprehensive urban plan is
+Alta’s integration with the                                                                                                   designed.
+rest of the city
+Component III. Management improvement at SENAVITAT
+Computerized system         Number of 0                1                                       1         Idem                 This will be considered
+installed for information    systems                                                                                          completed when monitoring
+and monitoring of                                                                                                             is automated for the full cycle
+subsidies and projects                                                                                                        of housing program
+                                                                                                                              management.
+                                                                                     Annex III
+                                                                                   Page 1 of 8
+
+
+
+
+                      FIDUCIARY AGREEMENTS AND REQUIREMENTS
+
+
+Country:                     Paraguay
+Project number:              PR-L1082
+Name:                        Improvement of Housing and Habitat
+Executing agency:            Secretaría Nacional de la Vivienda y el Hábitat [National
+                             Department of Housing and Habitat] (SENAVITAT)
+Prepared by:                 Alberto de Egea (FMP/CPR) and Mariano Perales (FMP/CPR)
+
+
+
+                                 I.   EXECUTIVE SUMMARY
+
+1.1     The institutional assessment for fiduciary management of the project was based
+        on: (i) the fiduciary context of the country; (ii) the findings of the fiduciary risk
+        assessment and the project risk management workshop; (iii) an analysis of the
+        National Department of Housing and Habitat (SENAVITAT) using the Institutional
+        Capacity Assessment System (ICAS) methodology; and (iv) working meetings
+        with the project team. The fiduciary agreements for procurement and financial
+        management applicable to program execution have been prepared as a result of
+        this assessment.
+
+                       II.   FIDUCIARY CONTEXT OF THE COUNTRY
+
+2.1     In general, the country financial management systems have a medium level of
+        development. They need to be supplemented for execution of Bank-financed
+        programs in the areas of external control and specific financial reports, by
+        auxiliary accounting systems and the intervention of the Office of the Comptroller
+        General of the Republic (CGR) for project audits, or the contracting of private
+        audit firms considered eligible by the Bank. Financial control tools, such as the
+        Integrated Financial Administration System (SIAF), the Integrated Accounting
+        System (SICO), and other subsystems enable executing agencies to transfer
+        payments through the Central Bank to suppliers of goods and services.
+        Integrating these systems will make it possible in the near future to produce
+        audited financial statements for a program or project through the SIAF. In the
+        meantime, parallel systems are used.
+2.2     In terms of country public procurement systems, in addition to the Public
+        Contracting Information System already in full use for Bank operations, there are
+        country subsystems for electronic reverse auction and competitive bidding for the
+        amounts and categories established in the agreement on the use of country
+        systems signed by the country and the Bank on 17 June 2014.
+Annex III
+Page 2 of 8
+
+
+                 III. FIDUCIARY CONTEXT OF THE EXECUTING AGENCY
+
+3.1     The executing agency for the program will be SENAVITAT, acting through a
+        program execution unit (PEU), to be created and financed with program
+        resources. SENAVITAT is a central government agency in Paraguay that reports
+        to the Office of the President of the Republic. It employs approximately 677
+        people, 52% of whom are permanent staff and 48% of whom are contractors.
+        SENAVITAT, as currently configured, was established on 7 June 2010. Its
+        organizational structure and functions are governed by Law 3909/2010.
+3.2     The institutional assessment returned a score of 50.44%, which is equivalent to
+        an initial level of institutional capacity development and a substantial associated
+        risk level. This indicates that priority measures should be taken prior to program
+        startup or early in the execution phase. The ICAS report gives a detailed account
+        of the institutional weaknesses and possible mitigation measures to be
+        negotiated with SENAVITAT.
+3.3     Based on the ICAS findings, the plan for the execution mechanism is to use the
+        structure of a PEU created and financed with program resources. However, this
+        unit will require core staff in technical and fiduciary areas, since the time it takes
+        within the current structure of SENAVITAT to select and contract for works,
+        goods, and consulting services is regarded as a crosscutting factor with a high
+        likelihood of generating risks with a substantial adverse impact on meeting the
+        program objectives within the originally projected scopes, time frames, and costs
+        (quality). This problem will be mitigated in part as described in paragraph 4.7 and
+        also through other mitigation measures indicated in the ICAS report.
+
+              IV. FIDUCIARY RISK EVALUATION AND MITIGATION MEASURES
+
+A.      Financial management
+4.1     In the area of institutional capacity for control, the ICAS returned a score of
+        40.52%, the lowest in the matrix, which involves the internal control system and
+        the external control system.
+4.2     In terms of the program Risk Matrix, a risk of possible delays in financial
+        processes has been identified, primarily due to the fact that: (i) the execution of
+        Component I is tied to a market demand factor; and (ii) Component II depends on
+        a factor tied to negotiations with a complex social sector. For these risks, the
+        following mitigation measures have been identified:
+4.3     For Component I, a management agreement will be entered into between
+        SENAVITAT and the Asociación Financiera de Desarrollo (AFD), to include
+        Operating Regulations that will facilitate effective processes between the Bank,
+        AFD, and the credit unions and financial institutions, with their beneficiaries. The
+        agreement will also contain a supervision and control modality.
+4.4     For Components II and III, a manual of procedures for supervision and control of
+        advances and other payment modalities will be established, as well as for future
+        reporting of such transactions.
+                                                                                    Annex III
+                                                                                  Page 3 of 8
+
+
+B.    Procurement management
+4.5   For the Goods and Services Administration System, the ICAS returned a score of
+      68.97%, equivalent to a medium level of development and a medium level of risk.
+      In addition, the program Risk Matrix identifies potential delays in procurement
+      processes as a medium risk. The mitigation measures are specified in the ICAS
+      report and partially described in paragraph 4.7.
+4.6   The state of affairs mentioned in paragraph 3.3 constitutes a problem that
+      requires mitigation. The proposal is to equip, in due time and manner, the PEU to
+      be created with the right human resources for executing the program and
+      achieving the proposed objectives.
+4.7   The executing agency has agreed to create an operational contracting subunit
+      and an administrative and financial subunit within the PEU to work directly on
+      processing contracts and payments generated by the operation. The divisions
+      will report to the highest authority of the PEU. SENAVITAT, using own resources,
+      will seek to expedite activities to establish and staff the PEU in the first quarter of
+      2015. Staff will be hired competitively for the unit and will initially be funded from
+      the local contribution. They may be hired directly with program financing once
+      declared eligible by the Bank.
+
+      V.   CONSIDERATIONS FOR THE SPECIAL PROVISIONS OF THE CONTRACT
+
+5.1   To streamline negotiation of the contract by the project team and, principally, the
+      Legal Department, the agreements and requirements to be considered in the
+      Special Provisions are included below.
+5.2   Program implementation will require, as a special contractual condition precedent
+      to the disbursement of the loan proceeds, the no objection by SENAVITAT and
+      the Bank to the Operating Regulations, which will include the fiduciary manual for
+      the loan. Special contractual conditions precedent to the execution of Component
+      I will be: (i) signed subexecution agreements with the participating financial
+      institutions and credit unions; and (ii) a signed service contract with AFD for
+      administration of the subsidies. Special contractual conditions precedent to the
+      execution of Component II will be: signed collaboration agreements between
+      SENAVITAT, the municipal government of the City of Asunción, the specialized
+      social work entity (EETS), the Sanitation Services Company of Paraguay
+      (ESSAP), and the National Electricity Administration (ANDE).
+
+VI. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR PROCUREMENT EXECUTION
+
+6.1   The policies that will apply to this loan are the Policies for the Procurement of
+      Goods and Works Financed by the IDB (document GN-2349-9) and the Policies
+      for the Selection and Contracting of Consultants Financed by the IDB
+      (document GN-2350-9). In addition, the Bank’s Board of Executive Directors has
+      approved (document GN-2538-11) the use of the electronic reverse auction and
+      competitive bidding subsystems of the National Public Contracting System
+      (Law 2051/03). The use of other country systems approved subsequent to
+      approval of the program will be applicable automatically and so indicated in the
+      procurement plan.
+Annex III
+Page 4 of 8
+
+
+A. Procurement execution
+6.2      Procurement of works, goods, and nonconsulting services. Contracts for
+         works, goods, and nonconsulting services1 subject to international competitive
+         bidding (ICB) will be procured using the Bank’s standard bidding documents.
+         Bidding processes subject to national competitive bidding (NCB) will be
+         conducted using national bidding documents agreed upon with the Bank. The
+         project’s sector specialist will be responsible for reviewing the technical
+         specifications for procurement during preparation of the selection processes.
+         Single-source selection of AFD for administration of the subsidies to be
+         transferred to the financial institutions and credit unions is planned, in
+         accordance with paragraph 3.10(d) of document GN-2350-9.2 AFD is a
+         Paraguayan government agency that operates in the financial market as a
+         second-tier entity and is executing several Bank operations.3 For these reasons,
+         AFD is deemed to have experience of exceptional value for carrying out these
+         services.
+6.3      Selection and contracting of consultants. Contracts for consulting services
+         generated under the project will be procured using the standard request for
+         proposals issued by or agreed upon with the Bank. The project’s sector specialist
+         will be responsible for reviewing the terms of reference for consulting services.
+         Initially, there are no plans for direct contracting of consulting firms.
+6.4      Selection of individual consultants. In accordance with the procurement
+         policies set out in document GN-2350-9. There are no plans for direct contracting
+         of individual consultants.
+6.5      Use of country systems. In accordance with document GN-2538 of October
+         2013, the use of the electronic reverse auction and competitive bidding
+         subsystems of the Public Sector Contracting System (SCSP) in Bank-financed
+         operations will apply to:
+        a.    All contracts for goods and nonconsulting services eligible for use of the
+              electronic reverse auction under the SCSP, for amounts below the threshold
+              set by the Bank for use of the shopping method for off-the-shelf goods (for
+              reference, US$250,000).
+        b.    All works contracts for amounts below the threshold set by the Bank for use of
+              the shopping method for complex works (for reference, US$250,000) and
+              contracts for goods and nonconsulting services up to the threshold set by the
+              Bank for use of the shopping method for complex goods and services (for
+              reference, US$50,000).
+        c.    Contracts for amounts equal to or above the aforementioned thresholds will be
+              governed by Bank policies (document GN-2349-9).
+6.6      Section 1 of the Bank’s policies (document GN-2349-9) will remain applicable to
+         all executed contracts, regardless of the amount or procurement method. Any
+
+1
+    See document GN-2349-9, paragraph 1.1: Nonconsulting services are treated as goods.
+2
+    See document GN-2349-9, paragraph 3.6: Direct contracting must be duly justified. See document
+    GN-2350-9, paragraph 3.9 et seq.: Single-source selection must be duly justified.
+3
+    These projects are the second operation under the CCLIP to provide financing to AFD (2150/BL-PR) and
+    the third operation under the CCLIP to provide financing to AFD (2369/BL-PR).
+                                                                                                     Annex III
+                                                                                                   Page 5 of 8
+
+
+         system or subsystem subsequently approved will be applicable to the operation.
+         The procurement plan for the operation and updates thereto will indicate which
+         contracts will be executed using the approved country systems.4
+6.7      Recurrent expenditures. To ensure that the necessary conditions are in place
+         for the PEU to perform its functions, loan proceeds will be used to finance
+         expenditures related to leasing of office space, the purchase of an automobile for
+         coordination and supervision activities, public utilities and communications,
+         translations, bank fees, office supplies, advertising or announcements,
+         photocopies, mail, etc. However, these overhead costs do not include wages and
+         salaries for government officials.5
+6.8      Advance procurement/Retroactive financing. Not planned under this operation.
+
+           Thresholds: International competitive bidding and international short list (US$)
+                          ICB                        ICB                    International short list for
+          Method
+                         Works        Goods and nonconsulting services         consulting services
+       Threshold          3,000,000                      250,000                            200,000
+
+
+6.9      Domestic preference. Not planned for this operation.
+
+                                             Main procurements
+                                                      Selection      Estimated date of     Estimated amount
+                          Activity                            6
+                                                       method          call/invitation          US$000
+       Goods
+       Procurement of computer equipment, servers,
+                                                            ICB            Q4 2016                       298
+       and tablets
+       Works
+       Works to be executed in La Chacarita Alta            ICB            Q1 2017                    13,270
+       Nonconsulting services
+               7
+       Firms
+       For software development for the information
+                                                          QCBS             Q3 2016                       502
+       and monitoring system
+       For detailed designs of works to be executed in
+                                                          QCBS             Q3 2016                       350
+       La Chacarita Alta
+       For inspection of works to be executed in
+                                                          QCBS             Q1 2017                       230
+       La Chacarita Alta
+       For services to transfer subsidies to financial
+                                                           SSS             Q2 2016                       210
+       institutions and credit unions and AFD
+       Individuals
+       PEU staff                                           3CV             Q3 2016                       890
+
+
+4
+    In the event that the Bank validates another system or subsystem, it will be applicable to the operation in
+    accordance with the provisions of the loan contract.
+5
+    On an exceptional basis, financing is provided to cover incremental staffing costs incurred by the
+    executing agency that are specifically related to program execution (see document GN -2331-5,
+    Annex I, 1.7(C)(c)(1.22)).
+6
+    In the case of a procurement carried out using the country system, it should be so indicated in the
+    “Selection method” column.
+7
+    In the case of consulting services, the short list should comprise firms of diverse nationalities. See
+    paragraph 2.6 of document GN-2350-9.
+Annex III
+Page 6 of 8
+
+
+6.10      Procurement supervision. All procurement and/or contracting processes
+          governed by the policies set out in documents GN-2349-9 and GN-2350-9 will be
+          subject to ex ante review by the Bank, taking into account the government’s
+          position on the matter. Supervision of procurements and/or contracting
+          processes governed by the electronic reverse auction and competitive bidding
+          subsystems of Paraguay’s Public Procurement System (document GN-2538-11)
+          will be performed using the country system.8
+6.11      Special provisions. No special provisions are anticipated other than those
+          indicated in paragraph 5.1.
+6.12      Records and files. Program reports will be prepared and filed using the formats
+          and procedures that have been agreed upon and will be described in the
+          Fiduciary Manual of Functions and Procedures.
+
+    VII. FIDUCIARY AGREEMENTS AND REQUIREMENTS FOR FINANCIAL MANAGEMENT
+
+7.1       Programming and budget. SENAVITAT will centralize the management of
+          program execution through the PEU, which will have a general coordinator and
+          administrative and operations staff, as well as technical support from the other
+          divisions and units at SENAVITAT. For administration and budgeting activities, it
+          will have the support of the Administration and Finances Division.
+7.2       Accounting and information systems. The accrual principle of accounting is
+          used, but transactions for projects partly financed by the Bank will be recorded
+          on a cash basis. The SIAF is the main tool used for budget and accounting
+          transactions and is connected to the SICO as an accounting subsystem. The
+          executing agency should also have an accounting system set up to record
+          program transactions, which will allow it to prepare reports that are accessible to
+          the Bank and other financing sources. Monthly bank reconciliations between the
+          two systems will be performed.
+7.3       Disbursements and cash flow. The system used to process disbursement
+          requests will be e-Disbursements, the Bank’s online system that makes it
+          possible to electronically prepare and send disbursement requests to the Bank.
+          The system offers a faster and more effective channel of communication than the
+          manual option. For the life of the project, the applicable financial procedures will
+          be those set out in the Guidelines for the Financial Management of Bank-
+          financed Projects and its supplements.
+         a.   For Component I. Disbursements will be made under the reimbursement or
+              direct payment modality, as requested by the executing agency. For reporting
+              to the financial institutions and credit unions on these reimbursement or direct
+              payment transactions, the requirements will be established in the Operating
+              Regulations that are approved as well as in the service contract with AFD.
+              The regulations established on this matter with the financial institutions and
+              the credit unions will establish, at a minimum, the reporting periods, reports to
+              deliver, and controls on subsidies.
+
+
+8
+     In accordance with the scope of use of the system, supervision may be supplemented by project audits,
+     in which case that fact should be mentioned in this annex.
+                                                                                   Annex III
+                                                                                 Page 7 of 8
+
+
+      b.   For the other components. Disbursements will be made through direct
+           payments, reimbursements, and/or advances of funds.
+7.4   In the case of advances of funds, the amount to be disbursed will be
+      corroborated with the submission of a detailed monthly financial plan covering a
+      period of six months or a longer period not to exceed twelve months, in order to
+      determine the program’s actual needs as reflected in the multiyear execution
+      plan, the annual work plan, and the procurement plan. The second and
+      subsequent disbursements of advances of funds will be subject to justification of
+      80% of the total cumulative balance pending justification from the previous
+      advances. This percentage may be changed on a one-time basis or permanently,
+      subject to Bank approval, should the financial plan and management documents
+      set a lower percentage, which in no case should be reduced to less than 50%.
+7.5   The exchange rate agreed upon with the executing agency for accounting
+      purposes under Component I will be specified in the management agreement
+      with the financial institutions. The exchange rate for Component II will be the rate
+      in effect on the date of conversion or the date of payment, as published by the
+      Central Bank of Paraguay.
+7.6   Internal control and internal audit. In the area of internal control, Paraguay’s
+      Standard Model of Internal Control will be implemented. As an improvement plan,
+      all manuals on functions should be implemented, updated, and disseminated
+      throughout the life of the project, and procedural manuals should be available in
+      the area of administration and finances. The internal audit team should include all
+      execution activities related to the program in its annual work plan.
+7.7   External control and reports. Program financial statements will be prepared
+      annually at the close of each fiscal year and delivered within 120 days after the
+      end of that period. The Bank may also request midterm reports. The annual
+      financial audits and assurances will be prepared by independent auditing firms
+      considered eligible by the Bank and whose scope of work will be subject to terms
+      of reference approved by the Bank. At the borrower’s request, the annual
+      program audits may be conducted by the CGR in accordance with procedures
+      agreed upon with the Bank. The external audit reports will be subject to
+      publication (Access to Information Policy).
+7.8   Financial supervision plan. Financial supervision will be provided in four ways:
+      (i) control of the disbursement reports and review visits; (ii) onsite supervision
+      visits scheduled by the Bank at SENAVITAT, AFD, the credit unions, and the
+      financial institutions; (iii) the financial information from the financial statements
+      and execution reports; and (iv) an official who will be responsible for monitoring
+      program execution.
+7.9   Execution mechanism. Component I will be executed by AFD and the credit
+      unions and financial institutions, with supervision and monitoring by SENAVITAT
+      as the program executing agency. Execution of the other components will be
+      handled by the PEU, which will have the following responsibilities: (i) coordinate
+      all activities related to the program; (ii) prepare physical and financial status
+      reports; (iii) submit requests for no objection and disbursement of loan proceeds,
+      and keep accounting records for use as the primary source of information for
+      preparing those requests and any financial reporting; (iv) establish and maintain
+      a control system that guarantees proper use and safeguarding of resources, and
+Annex III
+Page 8 of 8
+
+
+        maintain supporting documentation for transactions; and (v) prepare and update
+        the initial project report, the annual work plans, the six-monthly monitoring
+        reports, the evaluation reports, and the project completion report, in preparation
+        for their delivery to the Bank. The PEU will be responsible for timely compliance
+        with the clauses and agreements set out in the loan contract and performance of
+        program-related activities.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-___/15
+
+
+
+                    Paraguay. Loan ____/OC-PR to the Republic of Paraguay
+                              Improvement of Housing and Habitat
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be necessary
+with the Republic of Paraguay, as Borrower, for the purpose of granting it a financing to cooperate in
+the execution of a program for Improvement of Housing and Habitat. Such financing will be for an
+amount of up to US$30,000,000 from the Ordinary Capital resources of the Bank, and will be subject
+to the Financial Terms and Conditions and the Special Contractual Conditions of the Project
+Summary of the Loan Proposal.
+
+
+
+                               (Adopted on ___ __________ 2015)
+
+
+
+LEG/SGO/CSC/IDBDOCS: 39641374
+Pipeline No. PR-L1082
+

@@ -1,0 +1,2364 @@
+                                                                                          PUBLIC
+                                                                        SIMULTANEOUS DISCLOSURE
+
+
+
+                   DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                                             SURINAME
+
+
+
+
+                     STRENGTHENING SPATIAL PLANNING AND
+                    ENVIRONMENTAL MANAGEMENT IN SURINAME
+                                             (SU-L1067)
+
+
+
+                                           LOAN PROPOSAL
+
+
+
+
+This document was prepared by the project team consisting of: Tatiana Kopelman (CSD/HUD),
+Team Leader; Anaitee Mills (CSD/CCS); Santiago Bucaram Villacis (CSD/RND), Alternate Team
+Leaders. Francine Vaurof, and Raul Delgado (CSD/CCS); Raijant Gangadin (CCB/CSU); Carlos
+Salazar; Washington Fajardo; Silvia Perez; Dianela Avila; Sofia del Castillo; Gabriel de Barros;
+Manuela Palacios; and Roberto Madera (CSD/HUD); Sara Vila Saintetienne (LEG/SGO); Cleide
+Berlanda Custodio de Silva, Veerle Vivienne Combee (VPC/FMP); Luis Quintero (SPD/SDV)
+Adriana Zambrano (VPS/ESG); Yves Lesenfants, and Adam Mehl (CSD/ACU); Suzanne Duryea
+(SCL/GDI); and Jason Malcolm Wilks (IFD/ICS).
+
+In accordance with the Access to Information Policy, this document is being released to the public and
+distributed to the Bank’s Board of Executive Directors simultaneously. This document has not been approved
+by the Board. Should the Board approve the document with amendments, a revised version will be made
+available to the public, thus superseding and replacing the original version.
+                                                       CONTENTS
+
+
+
+PROJECT SUMMARY .......................................................................................................... I
+
+
+I.     PROJECT DESCRIPTION AND RESULTS MONITORING .................................................. 2
+
+        A.      Background, problem addressed, and justification ........................................ 2
+        B.      Objective, components, and cost ................................................................ 15
+        C.      Key Results Indicators ................................................................................ 19
+
+II.    FINANCING STRUCTURE AND MAIN RISKS ................................................................ 20
+
+        A.      Financing instruments ................................................................................. 20
+        B.      Environmental and social safeguard risks ................................................... 22
+        C.      Fiduciary risk .............................................................................................. 23
+        D.      Other risks and key issues .......................................................................... 23
+
+III.   IMPLEMENTATION AND MANAGEMENT PLAN ............................................................ 24
+
+        A.      Summary of implementation arrangements................................................. 24
+        B.      Summary of arrangements for monitoring results........................................ 26
+                                               - ii -
+
+
+
+                                          ANNEXES
+Annex I     Summary Development Effectiveness Matrix (DEM)
+
+Annex II    Results Matrix
+
+Annex III   Fiduciary Arrangements
+
+
+                             REQUIRED ELECTRONIC LINKS (REL)
+
+REL#1       Pluriannual Execution Plan (PEP) / Annual Operational Plan (AOP)
+
+REL#2       Monitoring and Evaluation Arrangements
+
+REL#3       Environmental and Social Review Summary (ESRS)
+
+REL#4       Procurement Plan
+
+
+                             OPTIONAL ELECTRONIC LINKS (OEL)
+OEL#1       Analysis of Project Cost and Economic Viability
+
+OEL#2       Project Operations Manual (POM)
+
+OEL#3       Sustainability and Climate Change
+
+OEL#4       Institutional Reengineering Proposal for NMA and MinROM
+
+OEL#5       Strategy to support data management for Suriname
+
+OEL#6       Prefeasibility Building Proposal
+
+OEL#7       Vertical Logic
+
+OEL#8       Legal Landscape Assessment
+
+OEL#9       Innovation Analysis
+
+OEL#10      Execution Arrangement
+
+OEL#11      Bibliography
+
+OEL#12      Synergies and Contributions Across the IDB Group
+
+OEL#13      Gender and Diversity Analysis
+
+OEL#14      Safeguard Policy Filter and Safeguard Screening Form
+                                       - iii -
+
+
+
+                                  ABBREVIATIONS
+
+AFS     Audited Financial Statements
+
+CBA     Cost-Benefit Analysis
+
+CC      Climate Change
+
+DRCCR   Disaster and Climate Change Risk Classification
+
+EA      Executing Agency
+
+ED      Environment Directorate
+
+EDGE    Excellence in Design for Greater Efficiencies
+
+EIS     Environmental Information System
+
+EFA     Environmental Framework Act
+
+EOU     External Operation Unit
+
+ESG     Environmental and Social Governance
+
+ESIA    Environmental and Social Impact Assessments
+
+ESMF    Environmental and Social Management Framework
+
+ESMR    Environmental and Social Management Report
+
+ESMS    Environmental and Social Management System
+
+ESS     Environmental and Social Strategy
+
+ESRR    Environmental and Social Risk Rating
+
+GDP     Gross Domestic Product
+
+GDV     Green Development Vision
+
+GHG     Greenhouse Gas
+
+GIH     Geospatial Intelligence HUB
+
+HFLD    High Forest cover, Low Density
+
+ICAP    Institutional Capacity Assessment
+
+IDB     Inter-American Development Bank
+
+IIC     Inter-American Investment Corporation
+
+IMF     International Monetary Fund
+
+LUC     Land Use Change
+
+MDB     Multilateral Development Banks
+
+MEP     Monitoring and Evaluation Plan
+                                        - iv -
+
+
+
+                                  ABBREVIATIONS
+
+MinROM   Ministry of Spatial Planning and Environment
+
+MOP      Multi-Annual Development Plan 2022-2026
+
+MRV      Monitoring, Reporting and Verification
+
+NAP      National Adaptation Plan
+
+NDC      Nationally Determined Contributions
+
+NIMOS    National Institute for Environment and Development
+
+NMA      National Environment Authority
+
+NPV      Net Present Value
+
+NSDP     National Spatial Development Plan
+
+OC       Ordinary Capital
+
+OPC      Operations Policy Committee
+
+PA       Paris Agreement
+
+PCR      Project Closing Report
+
+PIU      Program Implementation Unit
+
+POD      Proposal for Operation Development
+
+PS       Permanent Secretary
+
+PSC      Project Steering Committee
+
+SPA      Spatial Planning Act
+
+SPD      Spatial Planning Directorate
+
+SEP      Stakeholder Engagement Plan
+
+SESA     Strategic Environmental and Social Assessment
+
+SMIN     Suriname Environmental Information Network
+
+TORS     Terms of Reference
+
+UNCBD    United Nations Convention on Biological Diversity
+UNFCCC   United Nations Framework Convention on Climate Change
+                                              PROJECT SUMMARY
+                                                   SURINAME
+                   STRENGTHENING SPATIAL PLANNING AND ENVIRONMENTAL MANAGEMENT IN SURINAME
+                                                  (SU-L1067)
+                                        Financial Terms and Conditions
+ Borrower                                                              Flexible Financing Facility(a)
+                                                        Amortization Period:               22.5 years
+ Republic of Suriname
+                                                        Disbursement Period:               7 years
+ Executing Agency                                       Grace Period:                      8 years (b)
+                                                        Interest rate:                     SOFR Based
+ Ministry of Spatial Planning and Environment
+                                                        Credit Fee:                        (c)
+
+          Source             Amount (US$)        %      Inspection and supervision fee:    (c)
+
+                                                        Weighted Average Life (WAL):       15.25 years
+  IDB (Ordinary Capital):      30,000,000       100
+                                                                                           Dollars of the United
+                                                        Currency of Approval:
+ Total:                        30,000,000       100                                        States of America
+                                                       Project at a Glance
+Project Objective/Description: The objective of the program is to improve Suriname's institutional capacity to
+manage land use. The specific objectives are to: (i) strengthen Suriname’s spatial planning and environmental
+frameworks, regulations, and instruments; (ii) increase the availability and use of data for spatial planning, climate
+change, and environmental management; and (iii) strengthen MinROM and NMA’s operational conditions (¶1.43).
+
+Special Contractual Clauses prior to the first disbursement are: The Borrower, through the Executing Agency
+(EA), shall provide evidence, to the satisfaction of the Bank of (i) the establishment of the transitional PIU within
+MinROM and the selection of its program coordinator (ii) the approval and entry into effect of the Project Operations
+Manual (POM) (OEL#2), in the terms previously agreed to with the Bank; and (iii) the approval by the Council of
+Ministers of the Green Development Vision (GDV) Statement (¶3.5). See additional environmental and social
+conditions described in Annex B of the ESRS.
+Special Contractual Clauses of Execution: Prior to the bidding for the construction of the two bioclimatic
+buildings included in Component 1.c, the Borrower, through the Executing Agency, shall have presented evidence
+that all designs for such buildings meet the EDGE standards (¶3.7). See additional environmental and social
+conditions described in Annex B of the ESRS.
+
+Exceptions to Bank Policies: None
+                                                      Strategic Alignment
+ Objectives(d):                                   O1 ☐                              O2 ☒                           O3 ☐
+                                                      OF2-G ☒
+ Operational Focus Areas(e):            OF1 ☒                         OF3 ☒        OF4 ☐       OF5 ☐       OF6 ☒         OF7 ☐
+                                                      OF2-D ☒
+(a)   Under the Flexible Financing Facility (document FN-655-1), the borrower has the option to request modifications to the
+      amortization schedule, as well as currency, interest rate, commodity, and catastrophe protection conversions. In considering
+      such requests, the Bank will take into account operational and risk management considerations.
+(b)   Under the flexible repayment options of the Flexible Financing Facility (FFF), changes in the grace period are possible as
+      long the Original Weighted Average Life (WAL) and the last payment date, as documented in the loan agreement, are not
+      exceeded.
+(c)   The credit fee and inspection and supervision fee will be established periodically by the Board of Executive Directors during
+      its review of the Bank’s lending charges, in accordance with the relevant policies.
+(d)   O1 (Reduce poverty and inequality); O2 (Address climate change); and O3 (Bolster sustainable regional growth).
+(e)   OF1 (Biodiversity, natural capital and climate action); OF2-G (Gender equality); OF2-D (Inclusion of diverse population
+      groups); OF3 (Institutional capacity, rule of law, and citizen security); OF4 (Social protection and human capital
+      development); OF5 (Productive development and innovation through the private sector); OF6 (Sustainable, resilient, and
+      inclusive infrastructure); and OF7 (Regional integration).
+                                                       -2-
+
+
+
+
+                    I.        PROJECT DESCRIPTION AND RESULTS MONITORING
+
+A.        Background, problem addressed, and justification
+
+1.1       Suriname, a small nation boasting significant natural resources and an
+          upper -middle-income status, houses approximately 618,040 residents. It is part of
+          the Guiana Shield, which encompasses one-third of the Amazon and is one of the
+          last remnants of intact primary forest. Suriname stands as the most forested
+          country in the world, with 93% of its land area covered by forest. With a
+          deforestation rate of 0.2 percent, the country is considered one of the top three
+          “High Forest, Low Deforestation” (HFLD) countries, 1 playing a critical part in global
+          Climate Change (CC) mitigation and adaptation. It also hosts a diversity of marine,
+          coastal, freshwater, savannah, and tropical forest ecosystems, playing a crucial
+          role in supporting its development and enhancing the well-being of its population.
+
+1.2       Currently, Suriname is emerging from a severe macroeconomic crisis. The country
+          had not fully recovered from the 2015 commodity price shock when the COVID-19
+          pandemic hit. The crisis prompted the development of a recovery plan to stabilize
+          the economy, protect people with low incomes, restore debt sustainability, rebuild
+          international reserves, and create a strong foundation for inclusive growth. The
+          IDB has provided budgetary support for US$350 million, while the International
+          Monetary Fund (IMF) disbursed US$323 million up to the fifth review of the
+          extended arrangement under the Extended Funding Facility. Even though public
+          debt is still high, fiscal consolidation is gaining traction, reserves keep increasing,
+          exchange rates have stabilized, and consumer price inflation is decelerating.
+
+1.3       Crucial to the nation's economic landscape are its ample natural resources. The
+          extractive industry generates approximately 86% of foreign exchange earnings
+          and 25% of government revenues. [2] Additionally, recent offshore exploration has
+          proven the existence of abundant oil and gas resources, representing a new
+          promising source of public revenue. 2 Suriname has outstanding agricultural
+          potential 3 that has not exploited to its fullest. [3] Although natural areas and
+          resources play a crucial role in Suriname's economic development, unbalanced
+          Land Use Change (LUC) undermines its resilience against the growing challenges
+          of CC, threatening livelihoods, driving resource scarcity, slowing down
+          conservation, and, in turn, impacting the sustainable environmental management
+          of the territory and its communities.
+
+1.4       In Suriname, LUC is driven by multiple factors, including economic growth
+          pressures [7], demographic demands, and urban sprawl. The country’s limited
+          institutional capacity to regulate, monitor, and control land use through spatial
+
+
+1     The term HFLD refers to countries that have a forest cover greater than 50% and an average annual
+      deforestation rate lower than the global average during the 10-year reference period.
+2     According to the IMF (2024), oil production in Suriname is assumed to begin by end-2028, peaking at
+      79 million barrels in 2030 and 2031 before declining gradually. With a total investment of US$9 billion and
+      pre-investment flows starting at end-2024, growth would begin to pick up as early as 2025.
+3     In 2019, the agriculture sector represented 5.8% of Suriname’s GDP [3].
+                                                         -3-
+
+
+
+          planning (SP) and environmental management (EM) contributes to unbalanced
+          LUC. 4,5
+
+1.5       The country’s population increased significantly, from 183,681 inhabitants in 1950
+          [8] to 618,040 in 2022,[9] intensifying urban and socioeconomic demands. Given
+          the lack of spatial development regulations, the urban footprint spread, following
+          an expansive, fragmented, and unplanned model of territorial occupation. This is
+          evident in Greater Paramaribo, where the urban footprint grew from 118 km2 in
+          1975 to 289 km2 in 2020 (Figure 1). This growth occurred in an unstructured way
+          with low densities, a discontinuous urban fabric, and a suburban character, 6 that
+          resulted in the absorption of rural and natural areas. While the urban surface
+          increased by 13% of its total area, the forest lost 11.4% of coverage. [10] Currently,
+          urbanization is considered one of the main LUC drivers in the country. 7 [11]
+
+                            Figure 1: Greater Paramaribo’s Urban Growth 1975-2020
+
+
+
+
+            Source: URSA based on GHSL (Global Human Settlement Layer)
+
+
+4     The lack of planning policies creates an environment where there is no coercion against discontinuities in the
+      urban fabric. [32]
+5     LUC represents one of the main drivers of environmental change. Ineffective land management has led
+      to extensive land degradation, diminished agricultural productivity, and poses a significant risk to rural
+      livelihoods in numerous developing nations. [33]
+6     The allotments structure in Greater Paramaribo is built up by many smaller and rather independent allotments
+      shaped by detached and low-rise buildings. In the city, 62.1% of all houses is low rise with one or two building
+      layers. [32]
+7     Sprawl has been related to job suburbanization increased commuting journeys, car dependency, congestion
+      and a failure to provide efficient public transportation. Sprawl is also intrinsically linked to habitat
+      fragmentation, loss of biodiversity, an increased effect of the urban heat island effect. [32]
+                                                       -4-
+
+
+
+1.6       Additional drivers of LUC are the escalating and unsustainable practices of gold
+          mining that occur mainly in the Brokopondo District [11] and the reliance of
+          subsistence farmers on shifting cultivation methods. [13] This, coupled with limited
+          governmental control 8, results in land degradation, forest cover and protected
+          areas reduction, and heightened erosion, 9 leading to increased GHG emissions.
+          Approximately 15.47% of Suriname’s is subject to land degradation [16]. Mining
+          activities have resulted in 100 km² of degraded land awaiting rehabilitation [16] and
+          accounted for 68.9% of all loss of forest cover from 2000-2017. [17] Additionally,
+          in 2023, deforestation caused by shifting agriculture represented 93% of all
+          deforestation emissions.[17] Furthermore, deforestation-induced soil erosion and
+          mining-related pollution contribute to waterway sedimentation and marine
+          contamination, adversely affecting critical biodiversity habitats. [15] Mining and
+          forestry operations further exacerbate the issue by causing landscape
+          fragmentation and simplification, resulting in reduced structural integrity of
+          ecosystems, compromising their function and provision of services. At the national
+          level, the repercussions include adverse health effects on well-being, decreased
+          income due to soil productivity losses, and arable land depletion. [15]
+
+1.7       Suriname's ecosystems are crucial for climate change adaptation and
+          mitigation. The country is carbon -negative, thanks to its forests and mangroves
+          that store 13.1 Gt CO2e. However, Suriname's ecosystems are threatened by
+          urbanization and productive activities including mining and agriculture. [1] The
+          growing trends in these sectors, if not managed sustainably, could severely
+          undermine Suriname's carbon sink capacity, exacerbating the impacts of CC and
+          threatening community’s livelihoods.
+1.8       Suriname's latest climate projections [18], estimate increases in daily temperature
+          from 32°C to 37°C (SSP2-4.5) or 39°C (SSP5-8.5) over the entire country for all
+          periods, together with a sea level rise of 1 meter by 2100, and more intense
+          precipitation events. These changes will increase hazards, posing serious
+          pressure on infrastructure and urban development, further challenging the
+          effective management of natural assets, and contributing to ecosystem
+          degradation and loss of livelihoods. The Suriname Multiannual Development Plan
+          2022-2026 (MOP) estimates that a 1-meter sea-level rise would have significant
+          economic and social impacts. It would affect more than 6.4% of the country’s Gross
+          Domestic Product, 7% of its population, and 5.6% of agricultural land. Suriname is
+          already grappling with extensive coastal erosion and damage caused by heavy
+          rainfall, flooding, high temperatures, and strong winds. [1] Studies found that
+          mangrove stabilization loss at Wegnaar Zee resort in Wanica, led to flooding and
+          erosion, resulting in 27 meters of land lost in one year. [19] With over 90% of its
+          population and much of its infrastructure and human activity located along the low-
+          lying coastal strip, many sectors are at risk of suffering losses and damages
+          caused by gradual CC and extreme weather. [19] These effects would result in
+          added pressure on coastal defenses, land drainage and irrigation systems,
+          housing, and overall infrastructure. [20]
+
+
+
+
+8     In 2009, only 115 of the tens of thousands of small-scale miners within Suriname operated legally. [14]
+9     These activities release substantial amounts of mercury and sediments into both terrestrial and aquatic
+      ecosystems. [15]
+                                                     -5-
+
+
+
+1.9       Suriname’s institutional response to LUC and CC. Since 2019, the Government
+          of Suriname has made significant commitments to face the challenges of LUC and
+          CC. Through its National Determined Contribution 2020–2030 (NDC) and the
+          National Adaptation Plan 2019-2029 (NAP), it has committed globally to
+          maintaining 93% of forest cover and to conducting comprehensive climate
+          adaptation planning and regulation. Likewise, Suriname has ratified its
+          commitment to the United Nations Convention on Biological Diversity (UNCBD)
+          and to the conservation and wise use of wetlands and their resources through the
+          RAMSAR convention.
+
+1.10      However, the country recognizes the need to address the challenges that hinder
+          optimal land use management from achieving these commitments. [21] This
+          includes: (i) strengthening institutions to spearhead activities aligned to these
+          commitments; (ii) formulating and improving legislation; (iii) introducing land use
+          and spatial planning strategies with CC considerations; (iv) developing and
+          improving data collection and sharing; and (v) increasing capacity for enforcement.
+
+1.11      In response to the call for more attention to spatial planning and coordinated
+          environmental policy, in 2020 the country established the Ministry of Spatial
+          Planning and Environment (MinROM), which is tasked with the formulation and
+          implementation of the country's environmental and spatial planning policy and
+          institutional coordination. Under the MinROM, the Environment Directorate (ED)
+          holds a general mandate for addressing CC adaptation and mitigation, ensuring
+          that all multilateral environmental and CC agreements are integrated into national
+          policies and legislation. Furthermore, the Spatial Planning Directorate (SPD),
+          oversees the development of sound policy, planning, and legislation for spatial
+          planning.
+
+1.12      Simultaneously, to promote an integrative approach to economic, social, and
+          environmental sustainability, in 2020, the Government of Suriname enacted the
+          Environmental Framework Act (EFA) to regulate pollution, waste management,
+          and environmental impact. This act established the National Environment Authority
+          (NMA) 10, an autonomous body, responsible for the assessment, monitoring and
+          enforcement of the environmental policy implementation. Until then, environmental
+          and sustainable management had been undertaken by the National Institute for
+          Environment and Development (NIMOS), including the implementation of the
+          institute’s Environmental Impact Assessment guidelines. Thus, NIMOS was
+          identified to transition into the NMA by expanding its current mandate from
+          environmental policy implementation to environmental compliance and control,
+          accompanied by the pending enactment of operational bylaws of the EFA. 11 The
+          transition process began in late 2023. 12
+
+
+
+10    The NMA holds technical and regulatory enforcement autonomy. It is represented in the state council and
+      parliament by the MinROM for policy matters.
+11    The EFA subsidiary regulations include noise, water and air contaminants and hazardous substance
+      regulation, Environmental and Social Impact Assessments (ESIA) regulation, environmental enforcement,
+      and environmental fund. A detailed description, status, timeline and explanation are included in OEL#8.
+12    NMA transition is a four phased proposal. As of June 2024, phases 1 and 2 are under way.
+                                                        -6-
+
+
+
+1.13     Further to these efforts, the Government of Suriname is developing a Green
+         Development Vision (GDV) to define green economic values, promote sustainable
+         economic growth, and set guidelines for land conservation, aiming to harness
+         natural assets and enhance institutional capacities for a balanced and sustainable
+         future. 13
+
+1.14     Problem. Despite its efforts, Suriname has difficulty in managing its land use in a
+         sustainable manner given its insufficient capacity. Suriname lacks three of the five
+         critical areas identified by best practices for effective land governance14: (i) A
+         legal, institutional, and policy framework that acknowledges existing rights,
+         enforces them at a low cost, and empowers users to exercise these rights
+         according to their aspirations while benefiting society. (ii) Land use planning and
+         taxation systems designed to prevent negative externalities and promote effective
+         decentralization. (iii) The public provision of land information that is widely
+         accessible, comprehensive, reliable, current, and cost-effective over the long term.
+         This situation is associated with the following determinants:
+
+1.15     Weak land use frameworks, regulation arrangements, and management
+         instruments. 15 Land use and spatial planning in Suriname is characterized by the
+         lack of an overarching guiding strategy, insufficient regulation, inexistent planning
+         instruments and the absence of monitoring mechanisms. Currently, none of the
+         country’s ten districts have a structural or zoning plan. This has resulted in
+         uncontrolled land parceling, overlapping mining and forestry concessions, and
+         double issuance of land domain. The current legal framework for planning lies in
+         two outdated and limited acts, 16 which have focused on the Ministry of Public
+         Works (MOPW) managing infrastructure for urban and residential areas [7], and
+         do not account for MinROM’s mandate for environmental and land regulation and
+         management. Moreover, the land management legislative instruments are
+         fragmented in various documents regulating land and natural resource issuance,
+         use, and protection. [7] Currently, the Government of Suriname is in the approval
+         process of the Spatial Planning Act (SPA), which provides for an integrated
+         participatory approach to spatial planning, incorporating CC considerations and
+         socio-economic factors to regulate the country’s spatial development for the
+         upcoming 50 years. However, it requires subsidiary regulations 17, instruments 18,
+
+
+
+13   Currently the GDV is undergoing a thorough stakeholder engagement process in which the IDB has actively
+     participated. A first proposal for a GDV statement will be presented by the end of 2024.
+14   The others are: (i) Clearly defined state land identification and management that cost-effectively provides
+     public goods; (ii) Accessible mechanisms for authoritatively resolving disputes and managing
+     conflicts.[36]
+15   Institutional arrangements refer to the delegation, distribution, or sharing of power related to growth
+     management decision-making and implementation authority. [37]
+16   The Planning Act 1973, the Urban Development Act, developed in 1972, and the Building Act 1952 provides
+     stipulations for building permits in residential areas of Suriname.
+17   The legal frameworks will be based on the SPA. These include structural plan regulations zoning regulation
+     and codes, fee regulations for the services provided by the Ministry, subdivision regulations, among others.
+18   Astructural plan indicates, the spatial planning of a district, part of a district or a region. It is aligned and
+     responsive to the provisions established in the National Spatial Development Plan (NSDP). Zoning plans are
+     more detailed than structural plans and provide rules regarding the zoning, development and use of the land
+     included in the plan.
+                                                       -7-
+
+
+
+         procedures, and strengthened institutional bodies to effectively enact and
+         implement the regulation. [7]
+
+1.16     Suriname’s 2020 enactment of the EFA and the establishment of the NMA, has
+         represented an important advancement in protecting, promoting, and managing its
+         environment. However, the statutes set out under the EFA require the
+         development of procedural and regulatory bylaws to facilitate its operability, and
+         expand its technical capacity for monitoring. Furthermore, within MinROM, the ED
+         is critical in developing environmental policy and overseeing CC -related projects.
+         However, it is challenged by weak institutional coordination, limited capacity to
+         undertake policy work, and ownership for strategic decision-making at national and
+         local levels.
+
+1.17     Insufficient available and reliable data to manage Land Use and LUC.
+         Reliable, recent and official readily available data is generally scarce among
+         Amazonian countries, particularly that related to land use, spatial planning, and
+         environmental themes. 19 This scarcity hinders policy processes and the ability to
+         make evidence-based decisions. In Suriname, there is a need for more knowledge
+         to support environmental, spatial planning, and CC actions, however the limited
+         reliable data and information sharing arrangements represent a significant
+         challenge. [21][34] A 2022 survey found that 45% of citizen respondents could not
+         access government data. [38] Suriname scored 57/100 in terms of environmental
+         data coverage and openness. [39] Insufficient territorial, socioeconomic, and
+         environmental data hinder the possibility of: (i) monitoring, licensing, and
+         inspecting the environment and territory; and (ii) environmental and territorial
+         planning [22] ultimately limiting the decision-making capacity.
+
+1.18     In this sense, Suriname currently has data gaps on climate and meteorology,
+         elevation, geomorphology, hydrography and hydrology, rural environmental
+         registry, territorial protected areas, zoning, tourism, and roads. 20 [22] (OEL#5)
+         Under the EFA, the NMA is tasked with the collection and exchange of information
+         on the natural and human living environment. To meet this task, it needs
+         specialized equipment, including fit for purpose systems to keep track of
+         procedural 21 and environmental data 22, and training to identify, collect, generate,
+         and house new data.
+
+1.19     Furthermore, Suriname is challenged by non-existent data-sharing mechanisms 23
+         and a lack of clarity regarding spatial planning, CC, and environmental information
+         institutional ownership. Existing regulations do not specify responsibilities in data
+
+
+19   This includes but not limited to land, sea, forest, hydrology, climate, demographic statistics, and geography.
+20   Currently data is available on vegetation, fauna and flora, sanitation, environmental risks, political
+     subdivisions, demography, and energy.
+21   The system should allow NMA to keep track of the monitoring program or schedule, frequency; roles and
+     responsibilities; compliance/non-compliance; etc.
+22   The system should allow NMA to access crucial information from the EIA necessary for environmental
+     monitoring and informed decision-making: baseline data (quantitative and qualitative); geographical data;
+     significant environmental impacts; mitigation measures; monitoring variables and/or performance indicators;
+     monitoring results.
+23   Mining, wildlife, and nature conservation information is scattered in research documents, reports, and external
+     parties’ websites. [22]
+                                                     -8-
+
+
+
+         ownership, sharing, and maintenance, resulting in uncoordinated data
+         management and limited inter-agency collaboration. [22] The existing databases
+         are managed by each institution with different technical parameters and levels of
+         digitalization. Of a total of thirty organizations currently owning some form of data,
+         only 30% of them share the data. [22] Likewise, data collection on carbon
+         emissions encountered numerous obstacles leading to difficulty in preparing
+         national GHG inventories and planning for adaptation finance and climate action
+         country-wide. [12] To date, Suriname has only prepared three of the seven national
+         GHG inventories. [12]
+
+1.20     In 2016 the Suriname Environmental Information Network (SMIN) 24 was created
+         to act as a network to collaboratively produce official and formal environmental
+         data and information for the purpose of national policy and planning, and to
+         develop, and publish consistent reporting processes (NAP, 2019). To date, the
+         SMIN is not operational due to a lack of a legal mandate [22] and financial
+         resources to support its objectives.
+
+1.21     In practice, these gaps and vagueness can lead to duplicates, overlaps,
+         contradictions between some data groups, unnecessary waste of human and
+         financial resources, and uncertainty in data validation, ultimately damaging the
+         information’s credibility and its decisions. This hinders the country's capacity to
+         monitor, report, and verify national climate, spatial development and environmental
+         actions.
+
+1.22     New government agencies in land use, spatial planning, CC, and
+         environmental management have limited institutional capacity, qualified
+         human capital, adequate facilities, and insufficient coordination
+         mechanisms. Both NMA and MinROM have insufficient technical expertise and
+         inadequate operational management systems. NMA faces difficulties in hiring
+         personnel due to challenges in finding qualified professionals. Currently, with
+         40 vacant positions, only 50% of their total positions are filled. 25 It also lacks
+         regular staff training programs, digital solutions to monitor and manage projects,
+         and procedures for technical quality management of works/goods, financial
+         accounting, and procurement. Likewise, with its upending expansion of
+         responsibilities, 26 the NMA is set to hire an additional 40 staff members by the end
+         of 2024. 27 For this, it requires robust onboarding processes, strong capacity
+         building and training platforms, and planning and control systems to support the
+         human resource management of the growing team.
+
+1.23     MinROM also needs more qualified staff given the higher-than-average
+         (20% vs. 10%) vacancy rate for the technical, procurement, accounting and
+         finance, and project management departments. [44] MinROM staff comprises 69
+
+24   The SMIN is comprised of NMA (previously NIMOS), MGLIS, ABS, PlanBuro, SBB. SMIN is chaired and
+     housed under the NMA.
+25   Data from December 2023.
+26   The NMA was launched on July 22nd, the government completed dialogues with worker unions, approvals
+     of modifications to the EFA, management regulations and salary scales were revised and a financial officer
+     hired.
+27   A first batch of new hires have been completed, and the existing NIMOS staff will have transitioned to NMA
+     staff by July 22nd, with a total number of employees of 42.
+                                           -9-
+
+
+
+       persons and needs to grow the team by at least 30% in the upcoming year to fulfill
+       its mandate. The MinROM is consistently undertaking hiring processes to complete
+       its staffing. Currently, the position of Permanent Secretary of Spatial Planning is
+       vacant, and the area holds only six staff members, which substantially challenges
+       its capacity to develop implement and enforce the required policies, provide
+       advisory services, and coordinate with other agencies. To mitigate these
+       shortcomings, MinROM has hired temporary consultants to support key activities
+       and reviewed existing public servants to incorporate to its workforce. Likewise, it
+       is working with local and international educational institutions to identify
+       opportunities for students to join the ministry and to establish continuing education
+       and training opportunities. However, the Ministry and local academic institutions
+       require financial and technical support to carry out these endeavors.
+
+1.24   MinROM and NMA do not have their own institutional facilities. The spaces
+       currently rented out by both entities prove inefficient. The physical space is
+       insufficient to accommodate and expand their teams. Moreover, these spaces are
+       not accessible to people with physical disabilities, creating barriers in their
+       participation and use of services. The lack of eco-efficient technologies to improve
+       energy and water use coupled with the rental fees, represent a recurring financial
+       burden. MinROM currently pays USD$4,000 in monthly rental fees and an
+       additional USD$20,000 is budgeted for repairs, payment of parking facilities, and
+       utilities. NMA pays USD$9,000 in rental fees for its current office facilities. They
+       also have insufficient office furniture, storage, computer hardware/software,
+       monitoring equipment, vehicles, internet, telecommunications, and security
+       services. Finally, both institutions lag in terms of the provision of online services
+       and public access to information. Suriname scored 108/193 in the UN ranking for
+       e-government. [40] This is coupled with a weakened communication strategy,
+       which limits the reach and impact of both agencies’ actions.
+
+1.25   Gender. Worldwide, women are unequally impacted by land use, spatial planning,
+       and environmental decisions. However, their interests and needs are often
+       excluded from community spatial planning processes and women are
+       under-represented in related professions like architecture and engineering. [41] In
+       Suriname, they represent 51.5% of the population, and despite the relative
+       increase of women in management positions and the highest enrolment in tertiary
+       education, they are still marginally involved in national decision-making. [25] For
+       instance, in 2022 Suriname’s gender gap in political leadership is 23%, and in
+       economic participation is 74%. Only 29.4% of ministerial level positions are held
+       by women and men hold 2.4 times as many seats in the national parliament as
+       women. [52] Likewise, across economic opportunities, education, health, and
+       political leadership, the gender gap index is near 74%, six points above the global
+       average and one point above the LAC average. [24] Through its Gender Vision
+       Policy Document 2021 – 2035, the country has committed to promoting women’s
+       participation and inclusion. However, lack of gender awareness is one of the major
+       obstacles in the process of eliminating discriminatory practices. [43] A study
+       conducted specifically for MinROM and NMA, identified that these entities have no
+       provision yet for equal opportunities, equity and antidiscrimination of women staff
+       [44] (See OEL#13).
+
+1.26   Diversity. Suriname is home to several indigenous people (IP) and Maroons
+       (afro-descendants), which represent around 22% of the total population. [25] They
+                                           - 10 -
+
+
+
+       are mainly concentrated in the interior of the country, where extreme droughts and
+       floods have been recorded in the past. Their dependency on natural resources to
+       cover their basic needs, make them particularly vulnerable to CC and disaster
+       events. These communities also lag “behind in infrastructure, and basic services
+       such as drinking water and sanitation”. [25] Considering this reality is essential for
+       the country’s economy and people. However, IP and afro-descendants are often
+       excluded from participating in planning processes that have a significant impact of
+       them [41].
+
+1.27   People with disabilities (PwD) represent 15.9% of the country’s population.
+       However, the legal framework in Suriname has not established spatial planning
+       frameworks adapted to the needs of these groups,or building codes requiring
+       accessibility features. While data for Suriname is not available, regional reports
+       have noted their limited participation in decision making processes [42] and the
+       low level of accessibility of public facilities in LAC for PwD. [42] Moreover, PwD in
+       the country are less likely to be employed than people without disabilities (39.9%
+       versus 53.2%). In 2012, only 9 of the 17 ministries had PwD working in
+       Government offices, and only 2 were involved in the spatial planning sector. PwD
+       interviewed considered that some of the reasons are security concerns of the hiring
+       entity, and unwillingness of colleagues to assist them in the workplace. [45]
+       Globally, PwD also face discriminatory barriers when accessing public information
+       and services, for instance, they face numerous challenges when accessing digital
+       platforms as these are often not designed with accessibility in mind.
+
+1.28   Program Strategy. As the first lending operation which aims at strengthening
+       Suriname’s institutional capacity to manage land use, the program represents a
+       pivotal step in mainstreaming CC readiness and environmental management into
+       the country’s spatial planning and socioeconomic development. Furthermore, the
+       investments made through this operation prove timely and critical in supporting
+       Suriname’s environmental ambitious and the achievement of its 2030 international
+       commitment. The program will address the problem’s determinants in three key
+       areas: spatial planning, environmental management, and CC response. This
+       involves developing robust frameworks, regulations, and instruments to achieve
+       sustainable land use practices and low-carbon development. The project will focus
+       on designing and implementing a comprehensive Spatial Planning Strategy
+       centered on environmental priorities and climate resilience. Both spatial and land-
+       use planning are integral facets in crafting sustainable, well-coordinated, and
+       inclusive strategies and plans, fostering the development of more resilient and
+       livable communities. [27]
+
+1.29   The project will address existing data gaps by providing an integrated
+       Environmental Information System (EIS), including a Geospatial Intelligence HUB
+       (GIH) and Monitoring Reporting and Verification (MRV) system for enhanced
+       climate decision-making. An EIS will facilitate the utilization and distribution of
+       environmental data to assess climate and environmental impacts, monitor GHG
+       emissions and other pollutants, gauge the economic effects of environmental
+       changes, and formulate policies to enhance the environmental performance of
+       businesses, sectors, and administrative units. Given the escalating negative
+       effects of CC, a robust monitoring system is imperative to shape Suriname's ability
+       to achieve their development objectives. [28] Developing an MRV system is crucial
+       for discerning emission patterns, pinpointing areas for GHG reduction endeavors,
+                                                 - 11 -
+
+
+
+         monitoring support for mitigation efforts, gauging the efficacy of planned actions,
+         self-assessing the impact of received assistance, and tracking progress in
+         emission reduction. [29]
+
+1.30     To ensure institutional readiness, the project will establish capacity building
+         programs and operational strengthening measures for MinROM and NMA. Finally,
+         to improve overall environmental governance, the project will develop zoning, land
+         use, and environmental permitting digital platforms aligned with international
+         standards and meet the needs of both public officials and Surinamese citizens.
+         This will empower Suriname to regulate the impact of human activities on natural
+         resources, safeguard public welfare, and promote sustainable prosperity. [30] The
+         vertical logic of this program is included in OEL#7.
+
+1.31     Bank experience in the sector, the country, and lessons learned. The Bank
+         has a long history of promoting sustainable land use through sound spatial
+         planning, environmental management, and CC mainstreaming, which are
+         anchored in strong national and subnational institutional capacities. The operation
+         lends from experiences like the “National Land Use Policy” program
+         (ATN/OC-15982-PN) that accompanied the formulation of Panama’s National
+         Land Use Policy and Plan, as well as the design of institutional training programs
+         for their implementation. Likewise, the program "Support to the Implementation of
+         Land-Use       Planning”     in    Dominican     Republic     (ATN/AC-19697-DR;
+         ATN/OC-19696-DR) supported the development of instruments for municipal land
+         use planning with CC considerations. Moreover, from “Mexico’s Urban and Land
+         Information System” (ATN/JF-16577-ME) that assisted the country in the
+         development of the national urban and land information system. This program also
+         incorporates experiences from the “Support for the Conservation and Management
+         of Cultural and Natural Heritage” (4450/OC-PN) and “Agricultural Competitiveness
+         Program” (4097/OC) on the use of external management agencies to create
+         capacity, safeguard technical quality and ensure successful program
+         implementation
+
+1.32     In Suriname, the Bank has provided support to promote sustainable and resilient
+         spatial planning and environmental management, in line with the country strategies
+         (¶1.39). Through the technical cooperation “Environmental Management”
+         (ATN/SF-5941-SU), the establishment of the initial environmental policy was
+         supported, setting the groundwork for NIMOS, recently created at the time. With
+         the growing vulnerability to CC, the Bank provided Suriname with the technical
+         cooperation “Mainstreaming CC in Sustainable Decision-Making Tools”
+         (ATN/OC-17395-SU) that supported the inclusion of CC in Surinam’s National
+         Development Plan and the strengthening of NIMOS. These technical cooperations
+         provided the initial efforts in establishing Suriname's current landscape for spatial
+         planning, environmental management and CC adaptation and mitigation serving
+         as the groundwork for the implementation of this operation. The Bank has fostered
+         a participatory approach for the development of a Spatial Planning Vision for
+         Suriname and the drafting of Suriname’s SPA. Additionally, through funding from
+         the Amazonian Unit, this Program benefits from the Bank's experience with 28
+
+28   The Amazon Coordination Unit is developing Amazonia360, a digital platform which integrates and
+     harmonizes data on the Amazon region from various sources using geographic information systems in a
+     user-friendly approach.
+                                                       - 12 -
+
+
+
+       Platform, by providing technical assistance for the design of the GIH. Likewise, it
+       has provided assessments on the country’s ability to manage its land use and the
+       required actions to strengthen its spatial planning and environmental
+       management, to be funded by the operation.
+
+1.33   Lessons learned from these experiences were identified and incorporated in the
+       Program as follows:
+
+
+                                               Table 1. Lessons Learned
+
+                            Lessons Learned                                     Reflected in Project Design
+
+        1.   CC considerations into land use and spatial              The program will finance disaster risk and CC
+             planning. The importance of incorporating CC             assessments as part of the development of
+             considerations, using CC risk assessments into           land use and spatial planning instruments.
+             planning instruments and decision-making tools
+
+        2.   Reliable data and integrated information                 The program will support the GIH creation
+             systems. The availability of reliable and accurate       which provides the institutional architecture and
+             data and the integration of land information systems     technologies for data collection, organization
+             safeguarded by comprehensive institutional and           and sharing. The program includes creating
+             normative frameworks, is critical for effective land     geographic information systems to support
+             use management                                           decision-making and promote transparency.
+
+        3.   Institutionalizing Data Sharing. Streamlining data
+             collection, sharing, analysis, and reporting can be
+             significantly enhanced by institutionalizing data
+             sharing through existing informal and formal
+             interinstitutional structures
+
+        4.   Context-Appropriate MRV Systems. MRV systems             The Program will finance the creation of an
+             best inform decision-making processes. To ensure         MRV system to monitor environmental
+             their long-lasting use, they should be appropriate to    management and promote context-appropriate
+             the local context, responsive to internal constraints,   decisions. This will be further supported by
+             tailored to the country’s needs, and anchored in a       building the necessary technological
+             solid knowledge base for further environmental and       infrastructure for efficient and agile interactions.
+             climate monitoring.
+
+        5.   Donor coordination. Establishing government led          The program will support the setup of a Donor
+             coordination mechanisms is important to articulate       Coordination Unit within MinROM. This unit will
+             complementary efforts from various organizations         articulate all initiatives and funds that support
+             and donors, preventing overlap and ensuring              the implementation of the land use, spatial
+             cohesive action.                                         planning and environmental management
+                                                                      policies, strategies, plans and projects.
+
+        6.   Training for installing institutional capacities.        The program strongly emphasizes capacity
+             Need to strengthen newly created public agencies         building and operational strengthening based
+             for efficient operation by designing and implementing    on a thorough understanding of current
+             change management strategies, accompanied by             processes and operational management to
+             training opportunities and capacity-building tools.      identify areas of opportunity and improvement.
+                                                                      The loan is anchored in developing technical
+                                                                      capacities by creating training materials for
+                                                                      long-lasting knowledge transfer.
+
+        7.   Support the project implementation process with          The program execution mechanism will
+             technical expertise and program management               incorporate contracting an External Operation
+             experience                                               Unit (EOU) to support MinROM in program
+                                                                      implementation and creating technical and
+                                                                      project management capacity in both entities.
+                                                    - 13 -
+
+
+
+1.34     Technical aspects. The TC “Spatial Planning Assessment and Development
+         Support for Suriname” (ATN/AC-19447-SU) provided the relevant technical
+         analyses to prepare the environmental and infrastructure requirements for the new
+         buildings for MinROM and NMA (OEL#6), a change management strategy
+         (OEL#4), a geospatial data management and governance strategy (OEL#5), a
+         rapid diagnosis of the legal spatial planning and environmental landscape (OEL#8)
+         and the development of a comprehensive technical readiness assessment to
+         identify potential implementation scenarios, and define a roadmap 29 to meet the
+         outcomes of the program.
+
+1.35     Climate Change Financing. The project is consistent with the Bank’s CC Sector
+         Framework Document (GN-2835-8). It is estimated that the project has 38.19%
+         climate finance mitigation and adaptation according to the MDB Joint Climate
+         Finance methodology, through spatial planning related to climate change and
+         environmental management, support in CC regulatory systems and data
+         collection, and the construction of bioclimatic buildings that will meet green
+         certification standards. According to the IDB Group's Green Finance Methodology
+         (GN-3101), the operation also contributes to the environmental sustainability
+         objectives of “Strengthening environmental governance systems” and “Pollution
+         prevention and control”, therefore the operation has a total of 73.98% green and
+         climate finance.
+
+1.36     Paris Alignment. This operation has been analyzed using the Joint MDB
+         Assessment Framework for Paris Alignment and the IDB Group PAIA
+         (GN-3142-1); it has been determined: (i) aligned to the adaptation goal of the Paris
+         Agreement PA); and (ii) aligned to the mitigation goal of the PA based on a specific
+         assessment. Alignment was based on the consideration of the following elements:
+         as per the POM, the acquisition of data center equipment will consider energy
+         efficiency criteria equivalent to Energy Star. The operation is deemed coherent
+         with the NDC and no risks of carbon lock-in or stranded assets have been
+         identified.
+
+1.37     The country’s strategy in the sector. The program will contribute to helping
+         Suriname to achieve some of the MOP goals:
+
+         a.     Promoting a livable environment, nature, and safety.
+
+         b.     Mainstreaming the country’s environmental vision into land use and spatial
+                planning and environmental management frameworks, regulation and
+                instruments leveraging evidence-based decisions supported by databases
+                with spatial and environmental information.
+
+         c.     Contributing to an efficient and effective government, by strengthening
+                MinROM and NMA. [31]
+
+
+
+
+29   Scenarios included ideal, optimized and limited progress. The roadmap was developed under the optimized
+     progress scenario which has a pragmatic and gradual approach considering current laws and regulations with
+     contextual limitations and budget constraints.
+                                                     - 14 -
+
+
+
+1.38     Moreover, this operation will support the country in its progress towards achieving
+         the NDC under three priority emitting sectors (i.e., forests, agriculture, and
+         transport) through increased MRV capacities. A new spatial planning framework,
+         including a NSPD and subnational structural plans, will support the country in
+         maintaining forest coverage at an optimal level from an economic point of view. It
+         will also contribute to progress the management of emissions in transport and
+         urban infrastructure by providing the necessary regulation to limit urban sprawl.
+
+1.39     Bank strategy in the country. The operation contributes to the Country Strategy
+         with Suriname 2021˗2025 (GN-3065) objective improve digital government by the
+         implementation of digital platforms for permit processing and increased access to
+         geospatial information. Likewise, it contributes to the goals of enhancing CC
+         resilience and institutional capacity by increasing capacities and enforcing
+         frameworks for the country’s sustainability and resilience. It seeks to foster
+         scalability and synergies throughout the IDB Group. It will strengthen the country’s
+         territorial development and growth frameworks that guide both public and private
+         sector investments towards a sustainable, resilient, and equitable vision,
+         consistent with international commitments. Particularly, the program will contribute
+         to current and future operations of the IDB Group, by promoting sustainable use,
+         ecosystem conservation in the bioeconomy, infrastructure resilience and inclusive
+         socio-economic development through the integration of local communities and
+         traditional knowledge, and ensuring the effective implementation and success of
+         projects that contribute directly to report and measure GHG emissions reduced by
+         mitigation and adaptation activities, namely through the projects “Financing
+         Program for Productive and Sustainable Development in Suriname“ (5860/OC-SU;
+         5861/GN-SU) and “Bio-economy Empowerment in Suriname Indigenous
+         Communities through Access to Water, Energy and Telecommunications
+         (Bio-SWEET)“ (SU-L1076). Likewise it will support scalable and synergistic IDB
+         Invest and IDB Lab projects with private companies 30 by guiding future
+         contributions towards a unified green growth vision (OEL#12). It will also provide
+         critical additionality to the implementation of the REDD+ Strategy and the National
+         Biodiversity Strategy to sustainable manage forests ecosystems, and biodiversity
+         in collaboration with other donors, such as World Bank, UN-REDD Program,
+         UNDP, Conservation International, WWF, and the Guyana Shield Facility. The new
+         spatial planning legislation should provide for an improved coordination,
+         consultation and participation mechanism with non-state actors. The operation
+         contributes significantly to Suriname's REDD+ strategy, specifically to its strategic
+         lines of maintaining HFLD status, and contribute to land use planning, by
+         supporting accelerated and regulated spatial planning, monitor conservation
+         efforts, inform decision-making and strengthen regulatory and supervisory
+         institutions. Finally, the REDD+ implementation falls under the responsibility of the
+         NMA, which will bridge the forestry's MRV system to the national system, ensuring
+         Suriname's forestry monitoring capacity is constantly improved and in line with the
+         overall GHG, land use, land-use change and forestry, and climate mitigation and
+         adaptation reporting requirements under the UNFCCC.
+
+
+
+
+30   In 2023, IDB Invest partnered with Aannemings-Maatschappij Baitali (“Baitali”), to increase connectivity and
+     integration in the northwest of Suriname. [35]
+                                             - 15 -
+
+
+
+1.40   Strategic alignment. The Program is consistent with the IDB Group Institutional
+       Strategy “Transforming for Scale and Impact” (CA-631). It is aligned with: address
+       CC by providing Suriname with the necessary capacities to mitigate GHG
+       emissions, adapt to CC impacts, adopt spatial planning strategies geared toward
+       sustainable patterns of territorial development, and minimize the adverse effects
+       of LUC. It is also aligned with the operational focus areas of: (i) biodiversity, natural
+       capital, and climate action; (ii) Gender equality and inclusion of diverse population
+       groups (iii) institutional capacity and the rule of law; and (vi) sustainable, resilient,
+       and inclusive infrastructure.
+1.41   Moreover, the Program is consistent with the Sector Framework Document of
+       Climate Change (GN-2835-8) in contributing to action line 1: adapt and build
+       climate resilience, by strengthening local capacities in understanding the
+       implications of CC and considering these in decision-making about territorial
+       development, as well as the Sector Framework Document of Housing and Urban
+       Development (GN-2732-11) in the line of action 2: Reducing Pollution and
+       Increasing Climate Mitigation and Resiliency Levels and 4: Promoting Good Urban
+       Governance. By increasing the Government of Suriname’s capacity to draft and
+       implement environmental and spatial policy, the operation is aligned with the
+       “Amazonia Forever” program through its transversal area of developing
+       institutional capacities and promoting the rule of law.
+
+1.42   It aligns with the ONE Caribbean strategic framework by contributing to "Increased
+       climate-responsive social inclusion" by supporting projects promoting social
+       inclusion and equality with a climate adaptation perspective, such as developing
+       spatial planning frameworks considering environmental and CC factors. It also
+       aligns with the expected result of "Improved infrastructure resilience in the region"
+       as it aims to develop a platform and a digital permitting system for zoning and
+       spatial development, which will strengthen the digital infrastructure for spatial
+       planning and increase the availability of data for climate-resilient decision making.
+       It aligns closely with the IDB Group Natural Capital and Biodiversity Mainstreaming
+       Action Plan 2024-2025 (NCBMAP), serving as a strategic implementation vehicle
+       for the National Biodiversity Strategy and Action Plan (NBSAP) in Suriname.
+       Through the strengthening of institutional frameworks, data management systems
+       and enhancing the operational and technical capacity of key institutions like
+       MinROM and NMA, increasing the quality of biodiversity-related interventions and
+       improving resource mobilization it contributes to Components 2 (operations and
+       accountability), 3 (Knowledge products and capacity building) and 4 (Resources
+       mobilization and nature financing).
+
+B.     Objective, components, and cost
+
+1.43   The program's objective is to improve Suriname's institutional capacity to manage
+       land use. The specific objectives are to: (i) strengthen Suriname’s spatial planning
+       and environmental frameworks, regulations, and instruments; (ii) increase the
+       availability and use of data for spatial planning, climate change, and environmental
+       management; and (iii) strengthen MinROM and NMA’s operational conditions.
+       These objectives will be achieved through the components described below.
+                                                         - 16 -
+
+
+
+1.44      Component 1. Strengthening MinROM’s Capacity for Spatial Planning,
+          Climate Change and Environmental Management (US$16,950,000). This
+          component seeks to enhance MinROM’s spatial planning, CC, environmental
+          management, and operational capacities. 31 To this end, it will support the Ministry
+          in outlining the priorities to achieve and monitor the country’s environmental vision.
+          The component will support the design and enforcement of spatial planning
+          frameworks that will guide land use and territorial development, with environmental
+          and CC considerations, at the national and sub-national levels. It will also support
+          training activities and the physical space MinROM requires to comply with its
+          functions. The activities financed under this component are grouped into three
+          categories:
+
+          a.     Instruments for CC and Environmental Management. It includes: (i) the
+                 creation of a GDV framework and implementation action plan, integrating
+                 aspects of CC, biodiversity, and environmental protection; (ii) support for the
+                 definition of the GDV framework’s political, economic, and social aspects
+                 through modeling of the government-defined valued for sustainable and low
+                 carbon development; and (iii) the development of an inclusive, participatory
+                 stakeholder engagement strategy.
+
+          b.     Land Use and Spatial Planning Frameworks and Instruments. It
+                 includes: (i) the design of Suriname’s Spatial Planning Strategy in line with
+                 the national environmental priorities; 32 (ii) the drafting of Structural
+                 Development Plans and Zoning Plans 33 that will guide the implementation of
+                 the spatial planning strategy at the subnational level; (iii) the design and
+                 implementation of the Zoning and Land Use Platform 34 to promote
+                 transparency on applicable regulations and proposals and increase
+                 availability of data for decision-making, public awareness, and enforcement;
+                 and (iv) the design and implementation of a Zoning and Spatial Development
+                 Permits and Licensing System, which are accessible for the visually
+                 impaired. 35 The platform and licensing system will foster PwD access to data
+                 and tools to participate in planning processes with informed decisions. 36
+
+
+
+
+31   Territorial development includes land mass as well as adjacent waters and airspace.
+32   This includes, among others: the creation of the NSDP, the drafting of amendments to ensure that the
+     institutional arrangements are set in place for the required laws and bylaws, as well as the development of
+     public awareness campaigns on spatial planning, the regulations to come into play and its enforcement.
+     These frameworks and instruments will seek female, IP, afro-descendants and PwD representation, through
+     stakeholder participation and inclusive guidelines.
+33   According to Government priorities and the regulations included in the SPA, the operation will finance the
+     development of ten zoning plans.
+34   The loan will support the creation of the Zoning and Land Use Platform, as a public platform to research
+     zoning and land use regulations, development proposals and city planning initiatives.
+35   This includes the procedural and institutional set up as well as a digital solution for efficient operation.
+36   The platform and licensing system will be developed following a user-center design that considers the specific
+     needs of women and PwD. They will include impairment adaptation and disaggregated data on gender and
+     diversity of people requiring permits. Their development will also include awareness, outreach, and
+     communication campaigns to educate the public on their functionalities and benefits.
+                                                      - 17 -
+
+
+
+         c.     Institutional and Operational Strengthening. It includes: (i) the
+                strengthening of MinROM through the design of a change management plan
+                and development of critical managerial systems like document, facility,
+                material resource, and personnel management systems; (ii) the design and
+                implementation of a strategic operation plan which leverages digitalization
+                and promotes progress monitoring and impact evaluation systems for the
+                set-up of a Donor Coordination Unit 37 with the purpose of leveraging and
+                articulating donors’ contributions for Suriname’s sustainable development;
+                (iii) the development of a training plan for MinROM staff. It encompasses the
+                design and implementation of training materials and programs on spatial
+                planning and environmental management, project and organizational
+                management, and soft skills. Regarding gender and diversity, training will be
+                developed in non-discriminatory practices in the workplace and towards
+                public services to promote women and PwD inclusion; (iv) the creation and
+                implementation of partnerships with academic institutions for the
+                development of advanced education curricula associated to spatial planning,
+                environmental management, and CC; and (v) the design and construction of
+                two bioclimatic buildings to house MinROM and NMA, 38 complying with
+                EDGE standards, including gender sensitive elements in the design, as well
+                as incorporating design and wayfinding elements for ensuring access of
+                PwD.
+
+1.45     Component 2 Strengthening NMA’s Capacity for Environmental
+         Management and Climate Transparency (US$10,050,000). This component will
+         contribute to strengthening environmental frameworks, regulations, and
+         instruments, increasing the availability of CC and environmental data, and building
+         NMA’s operational capacities. This will be achieved through the following activities
+         grouped into four categories:
+
+         a.     Environmental Information System. It will finance: (i) the implementation
+                of GIH which will serve as a systematized, centralized, and up-to-date
+                repository for all spatial data that is needed in the country. It shall encompass
+                robust functionalities, including advanced reporting capabilities, mapping,
+                and viewing tools for comprehensive spatial analysis, and the ability to
+                efficiently extract and download relevant data, this includes: (a) the creation
+                of institutional arrangements to provide legal soundness to the GIH, (b) the
+                setup of the GIH governance system, including the creation of the steering
+                committee, the strengthening of the relevant departments within SMIN to
+                support the GIH, (c) the drafting and establishment of data sharing
+                arrangements, including definition of data standards and protocols, (d) the
+                purchasing of energy-efficient hardware and software, (e) the development
+                and implementation of a data collection plan, including identification of new
+                data sources 39 and digitalization of existing physical assets, (f) purchasing of
+                data sets, and (g) development of sector specific applications within the GIH
+
+37   All systems developed for the set-up of the Donor Coordination Unit will be linked to the Ministry of Finance
+     and Planning.
+38   The buildings will be developed on a lot owned by MINROM and designated for this use.
+39   Including remote sensing and earth observation, and a geospatial data management system to collect and
+     monitor data on land, water, biodiversity, urban footprint, and vulnerability, as well as sampling and
+     measurement equipment, and specialized lab appliances and supplies.
+                                                        - 18 -
+
+
+
+                 (OEL#5); and (ii) the design and implementation of the EIS which will provide
+                 public geospatial and statistical data to users on environmental indicators,
+                 and will encourage women to access information for decision making. 40
+
+         b.      The Environmental Enforcement System will finance the optimization of
+                 the ESIA and environmental permitting process currently carried out
+                 manually by NMA through a digital permit and licensing system by
+                 establishing standards, protocols, and procedures for authorizing,
+                 monitoring, and enforcing ESIA, environmental permits, and policing. It
+                 includes the drafting of the environmental standards, 41 the establishment of
+                 permitting procedures, the development and implementation of monitoring
+                 protocols including the purchasing of energy-efficient equipment, 42 designing
+                 and implementing an awareness, outreach, and communication plan and the
+                 deployment of the environmental enforcement strategy. 43
+
+         c.      Implementation Mechanisms for Climate Transparency. It will finance:
+                 the development and implementation of a national MRV system from priority
+                 economic sectors; 44 to ensure accurate measurement of GHG emissions
+                 with accompanying cross sectoral 45 technical training including the
+                 establishment of a National Carbon Emission Monitoring Unit.
+
+         d.      NMA Institutional Capacity. It will finance (i) supporting NMA’s
+                 organizational structure and processes reengineering, including the
+                 development and implementation of a change management plan, which
+                 accompanies the final phases of the NMA transition; (ii) the design and
+                 setting up of critical managerial systems like the financial, document and
+                 personnel management systems; (iii) the design and implementation of a
+                 training plan with NMA public officials, including the development of training
+                 materials and the implementation of training programs on CC and
+                 environmental management, project management, financial, human
+                 resources and organizational management and soft skills. Regarding gender
+                 and diversity, training will be developed in non-discriminatory practices in the
+                 workplace and towards public services to promote women and PwD
+                 inclusion; and (iv) the creation of partnerships with academic institutions for
+
+
+40   This EIS will be developed following a user-center design that considers the specific needs of women and
+     diverse groups. Its development will also include awareness, outreach, and communication campaigns to
+     educate the public on their functionalities and benefits.
+41   Includes air, water, and soil pollution minimum standards.
+42   It refers to purchasing monitoring equipment such as passive air quality monitoring and portable air quality
+     stations, satellite communication systems, and vehicles to carry out monitoring activities. The equipment will
+     adhere to energy efficiency criteria, where possible, including but not limited to Energy Star certified products
+     and/or other energy-efficiency specifications.
+43   As a part of the EFA, the program will strengthen the NMAs capacities to enforce environmental policy through
+     (i) drafting the necessary regulations for the set-up of an environmental enforcers program; (ii) the design of
+     the enforcement strategy; (iii) hiring and training of the environmental enforcers; and (iv) purchasing of
+     reporting equipment, including vehicles and satellite communication for remote locations.
+44   A 2019 technology needs assessment determined priority sectors and identified and prioritized pertinent
+     technologies with a 15-months estimated implementation time.
+45   The loan will support GHG emission reporting capacity building in the agriculture, forestry, energy, and
+     transportation industries across private, public, and non-governmental sectors.
+                                                     - 19 -
+
+
+
+                the development of advanced education                          curricula    associated       to
+                environmental management and CC.
+
+1.46     Project Management, Monitoring, Evaluation, and Audits (US$3,000,000). It
+         will finance: (i) the hiring of a transitional Program Implementation Unit (PIU)
+         (¶3.1); (ii) the hiring of the EOU (¶3.2); (iii) program monitoring and evaluation
+         activities, including a mid-term and a final evaluation; (iv) external annual financial
+         auditing; and (v) implementation of ESG instruments including stakeholder
+         engagement activities.
+
+C.       Key Results Indicators
+
+1.47     Expected Results and potential beneficiaries. The project’s long-term impact is
+         to contribute to avoiding GHG emissions by reducing the expected deforestation
+         rate. However, the objective is to improve Suriname's institutional capacity to
+         manage land use, particularly in relation to forest cover protection. This will be
+         obtained through the program’s main results which substantially increase the
+         probability of success by providing the necessary infrastructure, data, and
+         institutional capacity for effective forest management and protection. The adoption
+         of spatial planning strategies by MinROM, including the National Spatial Planning
+         Strategy, subnational zoning plans and the Zoning and Land Use public platform
+         provides the necessary framework to guide sustainable development while
+         preserving critical forest areas. The increase in climate, environment and land-use
+         data availability and use 46 enables real-time monitoring and data-driven
+         decision-making regarding LUC and potential threats to forest cover. This
+         capability is crucial for avoiding CO2 emissions and preserving CO2 reservoirs.
+         The improvement in environmental regulation compliance and the agencies’
+         operational capacities ensures the presence of skilled personnel and robust
+         systems for implementing and enforcing land use regulations and forest protection
+         measures. This is essential for the long-term sustainability of forest management
+         efforts. The program expects to directly benefit the 140 employees of MinROM and
+         NMA, who will acquire the necessary instruments to fulfill their functions. Moreover,
+         Suriname’s 618, 040 citizens will indirectly benefit from a more sustainable use of
+         natural resources through the regulation of pollutants and hazardous activities, and
+         increased awareness of land use, environmental issues, and climate action.
+
+1.48     Socio-Economic Feasibility. An economic cost-benefit analysis (CBA) (OEL#1)
+         was carried out for the program. The CBA forecasts the deforestation conditions
+         in the absence and existence of the project, and its associated change in CO2
+         emissions. Emissions are valued using the social cost of carbon. The difference
+         between the value of the emissions in the two states is considered as the benefits
+         of the project. Thus, the quantified benefits come from reducing deforestation,
+         leading to carbon sequestration and environmental preservation. The estimated
+         Internal Rate of Return from the main exercise is 74%, with a Net Present Value
+         (NPV) of US$405,700,944 and a benefit-cost ratio of 6.78. This exercise assumes
+         a price US$85 per carbon/ton and a 10% reduced deforestation rate relative to the
+
+
+46   This includes structured datasets that detail the kinds of activities occurring locations, with associated
+     geospatial references. It should include metadata that describes the land use nomenclatures and hierarchies
+     used, and information on protected areas and forested areas. and a well-maintained archive of previous
+     existing land uses.
+                                                    - 20 -
+
+
+
+          situation without project. Sensitivity analyses were carried out for key variables
+          that could affect the profitability of the project, including the percentage of
+          deforestation reduction, carbon prices, timing of benefits, and O&M costs. The
+          project exhibits a positive net return across most scenarios, with positive NPVs if
+          the carbon price exceeds US$57.6 per ton, demonstrating the results’ robustness.
+1.49      Institutional Feasibility. The institutional viability of the program is considered
+          high, given that the proposed activities will support the Government of Suriname
+          in meeting its international commitments, 47 the national goals established in the
+          MOP, and MinROM and NMA mandates. In addition, the activities will include
+          technical, operational, and organizational training to promote effective and
+          sustainable implementation of the program. Furthermore, an Institutional Capacity
+          Assessment (ICAP) was carried out to identify needs and opportunities to
+          strengthen capacities for this program's execution. The assessment identified
+          general strengths related to technical quality management, health, safety,
+          environment, and social safeguards. However, it highlighted the need to
+          strengthen specific knowledge and program implementation capabilities under IDB
+          policies, particularly in project planning, financial and procurement management,
+          reporting, project governance, and risk management. The recommendations from
+          ICAP are incorporated into the program’s execution scheme (¶3.1) (OEL#10).
+
+                         II.       FINANCING STRUCTURE AND MAIN RISKS
+
+A.        Financing instruments
+
+2.1       Program Structuring. The Bank will support the Government of Suriname’s
+          institutional capacity to manage land use, spatial planning, environmental and
+          climate issues through a Specific Investment Loan (SIL), due to the need for a
+          cohesive sectoral approach to land and environmental management, achieved
+          through the activities of this operation. The timeframe was established considering
+          the international commitments supported by the loan are set for 2030, allowing for
+          the monitoring of these commitments.
+
+2.2       Program Cost. The amount of this loan is US$30,000,000, which will be 100%
+          financed with Ordinary Capital (OC) resources from the Bank. There is no local
+          contribution or co-financing.
+
+
+
+
+47    The NDC commitments were done under the previous government. Despite a change in political parties, the
+      current Government of Suriname is working towards meeting these commitments.
+                                                                - 21 -
+
+
+
+                                           Table 2. Summary of Program Costs (in US$)
+
+            Components                                                                 IDB                  Total                  %
+
+            Component I. Strengthening MinROM’s capacity for Spatial                      16,950,000          16,950,000           56.5
+            Planning, Climate Change, and Environmental Management
+
+            1.1      Instruments for CC and Environmental Management                           750,000              750,000         2.5
+
+            1.2      Land Use and Spatial Planning Frameworks and                            8,650,000         8,650,000           29.0
+                     Instruments
+
+            1.3      Institutional and Operational Strengthening                             7,550,000         7,550,000           25.0
+
+            Component 2. Strengthening NMA’s capacity for                                 10,050,000          10,050,000           33.5
+            environmental management and climate transparency
+
+            2.1      Environmental Information System                                        4,555,000         4,555,000           15.0
+
+            2.2      Environmental Enforcement System                                        2,575,000         2,575,000            8.6
+
+            2.3      Implementation Mechanisms for Climate Transparency                      1,670,000         1,670,000            5.5
+
+            2.4      NMA Institutional Capacity                                              1,250,000         1,250,000            4.2
+
+            Project Management, Monitoring, Evaluation, and Audits                           3,000,000         3,000,000           10.0
+
+            Total                                                                         30,000,000          30,000,000            100
+
+
+
+2.3       Disbursement schedule. The disbursement period will be seven years 48 in
+          accordance with the Pluriannual Execution Plan (REL#1).
+
+
+                                              Table 3. Disbursement Schedule (US$)
+
+                Category      Year 1        Year 2        Year 3         Year 4     Year 5       Year 6        Year 7           Total
+
+            Component I                0     35,000      2,180,000   3,475,000     6,540,000    4,520,000      200,000        16,950,000
+
+                                                                                                                              10,050,000
+            Component II               0             0    175,000    2,465,000     2,060,000    3,195,000     2,155,000
+
+            Other costs                0     61,517       643,663        550,709    573,638      566,859       603,613         3,000,000
+
+            Total                      0     96,517      2,998,663   6,490,709     9,173,638    8,281,859     2,958,613       30,000,000
+
+            %                      0%        0.32%           10%            22%        31%          28%              10%          100%
+
+
+
+
+48    The 7-year execution period is critical for the program's success and long-term impact calibrated to
+      Suriname's unique context. It allows for comprehensive regulatory framework development and genuine
+      capacity building, processes that cannot be rushed without compromising quality and sustainability. It provides
+      necessary flexibility to navigate political and economic volatilities while enabling a phased incremental
+      approach that aligns with Suriname's 2030 climate commitments.
+                                            - 22 -
+
+
+
+B.    Environmental and social safeguard risks
+
+2.4   According to the Bank’s Environmental and Social Policy Framework (ESPF), this
+      operation is classified as Category “B” since its activities are likely to cause mostly
+      local and short-term negative environmental and social impacts and for which
+      effective mitigation measures are readily available. The main environmental and
+      social impacts are associated with the construction of two ministerial buildings and
+      are expected to occur mostly during the construction phase. These are:
+      (i) induction of erosive processes; (ii) alteration of soil characteristics; (iii) increase
+      in particulate matter and noise levels; (iv) solid waste; (v) discomfort due to the cut
+      of services and access; and (vi) nuisances to the community and impeded access
+      to residences and businesses. Physical works will be carried out in a peri-urban
+      developed location and are not expected to have adverse impacts on Indigenous
+      Peoples, vulnerable groups, critical/natural habitats, ecosystem services or
+      cultural sites within the project area. The Project will not require land acquisition.
+      However, it will cause the physical displacement of one family (4 adults). No
+      economic displacement has been identified.
+
+2.5   The Environmental and Social Risk Rating (ESRR) has been classified as
+      "Substantial" mainly due to risks related to occupational health and safety (mainly
+      linked to asbestos), water contamination by hydrocarbons and other hazardous
+      waste, risks of traffic accidents and those related to the physical displacement of
+      one family. Also, because of the limited capacity of MinROM, as it has no
+      experience with the Bank’s ESPF.
+
+2.6   The Disaster and Climate Change Risk Classification (DCCRC) is “High”. The area
+      of influence of the Program is exposed to moderate fluvial flooding, high drought,
+      and sea level rise, with influence by CC hazards. The criticality and vulnerability of
+      the proposed infrastructure are considered High (building construction), With the
+      construction of the buildings, no increase in the current conditions of natural
+      hazards in the environment or vulnerability of the surrounding communities or the
+      environment is expected. The Program will develop a Disaster Risk Assessment
+      and a Disaster Risk Management and Emergency Response Plan (DRMP),
+      considering present and future CC risks.
+2.7   An Environmental and Social Management System (ESMS) has been done for this
+      operation. For the policy subcomponent, a Strategic Environmental and Social
+      Assessment (SESA) has been prepared to evaluate the potential risks and impacts
+      of implementing the proposed changes, including a Strategic Environmental and
+      Social Management Plan (SESMP) with guidelines to mitigate these risks and
+      impacts at the time of policymaking (execution). An ESA/ESMP for the works on a
+      building has been prepared. Both, the SESMP and the ESMP, include their
+      corresponding Stakeholder Engagement Plan (SEP). Regarding the policy
+      component, there will be a firm hired for the development of the regulatory
+      framework, and the SESA/SESMP will be included in bidding documents to ensure
+      its requirements/plans are considered by this firm. The consultations were
+      successfully carried out by the MinROM on July 3rd and 4th 2024 in compliance
+      with the SEP. The main comments to the ESIA/ESMP related to construction
+      materials and traffic problems, and comments to the SESA/SESMP related to the
+      obsolete pesticide law and the Indigenous Peoples and tribal communities rights.
+                                                         - 23 -
+
+
+
+          The final versions of the ESA/ESMP, including its corresponding SEP and the
+          Resettlement Action Plan (RAP), the SESA/SESMP with its associated SEP, the
+          ESMS, and the Consultation Reports, were disclosed on the Bank's website on
+          August 26, 2024.
+
+C.        Fiduciary risk
+
+2.8       The main fiduciary risks identified with the ICAP include: (i) MinROM’s lack of
+          experience with IDB policies and its limited capacity to implement a project of this
+          size, complexity and scope can create implementation delays. To mitigate this risk,
+          the program will contract an EOU to provide technical, administrative, financial and
+          procurement support and guidance to the project (paragraph 3.1); and (ii) Given
+          the multidisciplinary and highly specialized nature of the program, the program
+          requires the participation of various departments within the MinROM and NMA,
+          other public sector entities 49 and interested parties. Potential conflict among
+          departments and limited coordinating capacities can disrupt program
+          implementation and hinder achieving the program’s objective. To mitigate this risk,
+          the program will rely on: (i) for coordination and internal conflict management
+          within MinROM and NMA, the program will establish a Project Steering Committee
+          (PSC) (¶3.3); and (ii) the EOU will support the program in the necessary logistical
+          and administrative activities to ensure a seamless coordination among additional
+          agents. Additionally, to mitigate integrity risks the program will finance activities to
+          support the Executing Agency’s adoption of best practices to manage conflict of
+          interests, perform due diligence and to manage assets
+
+D.        Other risks and key issues
+
+2.9       Other risks identified as high are: (i) the 2025 presidential elections can lead to
+          reprioritization affecting the program's successful implementation; and (ii) deeply
+          ingrained existing organizational culture 50 within MinROM and NMA, posing
+          challenges to the new approaches promoted by the program, resulting in low
+          participation, partial or ineffective implementation of activities. To mitigate these
+          risks, the program will: (i) conduct awareness campaigns emphasizing alignment
+          with Suriname's 2030 climate goals; (ii) rely on the EOU and establish a robust
+          PSC to ensure continuity and high-level support across political transitions; and
+          (iii) implement a flexible, phased approach within the seven-year timeline, allowing
+          for adjustments while maintaining core objectives. Additionally, the program will
+          identify change champions, customize trainings, and leverage the GDV framework
+          to create a long-term, apolitical foundation for the program's objectives.
+
+
+
+
+49    Other public entities include: National Planning Office, Ministry of Land Policy and Forestry, Ministry of Natural
+      Resources, Ministry of Health, MOPW, Ministry of Agriculture, Fisheries and Husbandry, Ministry of Regional
+      Development, Ministry of Foreign Affairs,
+50    Organizational culture is a set of shared company beliefs, values, and expectations that define the workplace
+      environment and employee experience.
+                                                                     - 24 -
+
+
+
+2.10   Sustainability: To ensure technical sustainability, the loan will finance the creation
+       of training materials, which will provide opportunities for capacity building beyond
+       implementation. The building design adhering to EDGE standards enables for low-
+       cost maintenance. The loan’s financial sustainability considers the government’s
+       commitment to allocate budget lines for additional personnel required and for the
+       maintenance of the loan’s investments. NMA is envisioned to be financially self-
+       sufficient, through the collection of processing fees, permits, and sanctions. The
+       government is currently developing green financing opportunities to support the
+       activities and mandates required for these entities.
+
+                       III.            IMPLEMENTATION AND MANAGEMENT PLAN
+
+A.     Summary of implementation arrangements
+
+3.1    Execution Arrangements (OEL#10). The Borrower of the Program is the
+       Republic of Suriname through the Ministry of Finance and Planning (MOFP). As
+       the sector head, the MinROM will be the governmental entity responsible for
+       implementing and executing the project. The EA will establish a transitional PIU,
+       which will be conformed of short-term consultants to ensure the contracting of the
+       EOU. The task description, role, and responsibilities of the transitional PIU are
+       included in the POM.
+
+3.2    The program will include the hiring of a firm to provide technical assistance to serve
+       as an EOU. This EOU will support the EA in the program planning, management
+       and monitoring, preparation and supervision of technical documents, among
+       others as defined (OEL#10).The EOU will follow the structure in Figure 2.
+
+3.3    Finally, to provide strategic and policy guidance to aid the decision-making process
+       and coordination between the MinROM and NMA, and direct and guide the
+       technical aspects of the program, a PSC will be set up (OEL#10). The task
+       description, role, and responsibilities of the PSC will be included in the POM.
+
+                                           Figure 2. Program Execution Mechanism
+
+
+
+
+                                          EA                                Minister
+                                                                                                      Project Steering
+                                                                             ROM
+                                                                                                      Committee
+                                                                                                      (PSC)
+                                                                                                      ROM + NMA
+                                                                          PS of General
+                                                                          Management
+                                                                          and Financial
+                                                                             Affairs
+
+
+
+
+                                       External Operation Unit              Project
+                                                                            Manager
+
+
+
+
+                                                                  Program           Social       Digital                         Spatial
+          M and E         Financial        Procurement                                                          Environmental
+                                                                 Coordination      Safeguard     System                         Planning
+          Specialist      Specialist        Specialist                                                            Specialist
+                                                                   Liaison         Specialist   Specialist                      Specialist
+
+
+
+
+        Source: IDB
+                                                      - 25 -
+
+
+
+3.4       Maintenance of works. The borrower and the EA will ensure that the works and
+          equipment financed under the program shall be adequately maintained to
+          generally accepted technical standards with the support of the MOPW responsible
+          for government property maintenance and upkeep.
+
+3.5       Special Contractual Clauses prior to the first disbursement are: The
+          Borrower, through the Executing Agency (EA), shall provide evidence, to the
+          satisfaction of the Bank of (i) the establishment of the transitional PIU within
+          MinROM and the selection of its program coordinator (ii) the approval and
+          entry into effect of the Project Operations Manual (OEL#2), in the terms
+          previously agreed to with the Bank; and (iii) the approval by the Council of
+          Ministers of the Green Development Vision (GDV) Statement. See additional
+          environmental and social conditions described in Annex B of the ESRS.
+
+3.6       The first condition aims to ensure the timely and swift procurement process of the
+          EOU, as critical milestone for program execution; condition two is included to
+          support the internal organization of the EA thus safeguarding the program’s
+          successful implementation and condition three is required given the relevance of
+          this document in meeting sector goals.
+
+3.7       Special Contractual Clauses of Execution: Prior to the bidding for the
+          construction of the two bioclimatic buildings included in Component 1.c, the
+          Borrower, through the Executing Agency, shall have presented evidence that all
+          designs for such buildings meet the EDGE standards.
+
+3.8       Financial agreements and requirements. The program will follow the provision
+          included in the Financial Management Guidelines for IDB-financed projects
+          (OP-273-12).
+
+3.9       Procurement. The EA will procure goods, works, services, and consulting
+          services as established in the Policies for the procurement of goods and works
+          financed by the Inter-American Development Bank (GN-2349-15), the Policies for
+          the selection and contracting of the consultants funded by the Inter-American
+          Development Bank (GN-2350-15), and other internal Bank procedures. All the
+          program acquisitions will follow the determinations of the Procurement Plan,
+          including appropriate methods, supervision, and monitoring modality.
+
+3.10      Disbursement period and modality. The disbursement period will be seven
+          years. Disbursements will be made according to the program liquidity needs in the
+          form of advances, based on a cash flow of the duly acquired commitments for the
+          following six months and after having justified at least 80% of what was previously
+          advanced.
+
+3.11      Audited financial statements. The EA with the support of the EOU, will be
+          responsible for submitting the following documents to the Bank: (i) Annual Audited
+          Financial Statements (AFS) of the Program and internal controls report to be
+          submitted within 120 days after the close of each fiscal year; 51 and (ii) final AFS,
+          to be submitted within 120 days after the final disbursement date of the Program.
+          The audits will be performed by an independent external audit firm acceptable to
+
+51    The fiscal year will be from January 1 to December 31.
+                                            - 26 -
+
+
+
+       the Bank, complying with the Bank’s guidelines (OP-273-12). The firm will be hired
+       by the EA using program administration resources.
+
+B.     Summary of arrangements for monitoring results
+
+3.12   Monitoring. Program monitoring consists of verification of the agreed policy
+       measures of the Monitoring and Evaluation Plan (MEP) (REL#2). The EA and the
+       Bank will meet regularly to monitor the operation’s results and anticipate and
+       resolve technical difficulties related to the operation’s execution. The EA will submit
+       to the Bank all information required for measuring fulfillment of program targets
+       and will provide timely information on progress toward those targets.
+
+3.13   Evaluation. The evaluation strategy will consist of: (i) an evaluation that allows
+       verifying the achievement of the proposed objectives; (ii) an ex-post economic
+       analysis; and (iii) at closing, an analysis in accordance with the IDB guidelines of
+       the Project Completion Report (PCR). Part (I) will be based on: (i) a “before and
+       after” analysis of the outcome and impact indicators included in the Results Matrix;
+       (ii) an effectiveness evaluation that will review the intervention’s theory of change;
+       and (iii) a qualitative evaluation that provides complementary information on how
+       the achieved results can be attributed to the program. The evaluation’s main
+       questions will address whether the actions implemented helped achieve the
+       program objectives. The ex-post evaluation, the economic analysis, and the PCR
+       will be conducted at the end of execution.
+                                                                                                                                                                                Annex I - SU-L1067
+                                                                                                                                                                                        Page 1 of 1
+
+
+
+
+                                                                         Development Effectiveness Matrix
+
+                                                                                   Summary             SU-L1067
+I. Corporate and Country Priorities
+Section 1. IDB Group Institutional Strategy Alignment
+
+
+
+                                                                                                -Biodiversity, natural capital, and climate action
+                                                                                                -Gender equality and inclusion of diverse population groups
+ Operational Focus Areas                                                                        -Institutional capacity, rule of law, citizen security
+                                                                                                -Sustainable, resilient, and inclusive infrastructure
+
+
+
+
+ [Space-Holder: Impact framework indicators]
+
+
+2. Country Development Objectives
+
+
+
+   Country Strategy Results Matrix                                                                      GN-3065          1.2 Improve digital government
+
+
+
+
+                                                                                                                         The intervention is included in the 2024 Operational
+   Country Program Results Matrix                                                                       GN-3207
+                                                                                                                         Program.
+
+
+
+   Relevance of this project to country development challenges (If not aligned to country
+   strategy or country program)
+
+
+II. Development Outcomes - Evaluability                                                                                            Evaluable
+3. Evidence-based Assessment & Solution                                                                                                  7.6
+     3.1 Program Diagnosis                                                                                                               2.5
+     3.2 Proposed Interventions or Solutions                                                                                             1.6
+     3.3 Results Matrix Quality                                                                                                          3.5
+4. Ex ante Economic Analysis                                                                                                            10.0
+     4.1 Program has an ERR/NPV, or key outcomes identified for CEA                                                                      1.5
+     4.2 Identified and Quantified Benefits and Costs                                                                                    3.0
+     4.3 Reasonable Assumptions                                                                                                          2.5
+     4.4 Sensitivity Analysis                                                                                                            2.0
+     4.5 Consistency with results matrix                                                                                                 1.0
+5. Monitoring and Evaluation                                                                                                             9.5
+     5.1 Monitoring Mechanisms                                                                                                           4.0
+     5.2 Evaluation Plan                                                                                                                 5.5
+III. Risks & Mitigation Monitoring Matrix
+Overall risks rate = magnitude of risks*likelihood                                                                                  Medium High
+Environmental & social risk classification                                                                                               B
+IV. IDB´s Role - Additionality
+The project relies on the use of country systems
+
+
+
+
+                                                                 Fiduciary (VPC/FMP Criteria)
+
+
+
+
+                                                                               Non-Fiduciary
+
+
+The IDB’s involvement promotes additional improvements of the intended beneficiaries
+and/or public sector entity in the following dimensions:
+
+
+
+Additional (to project preparation) technical assistance was provided to the public sector
+                                                                                                          Yes              ATN/AC-19447-SU,ATN/OC-19009-SU,ATN/OC-20167-SU
+entity prior to approval to increase the likelihood of success of the project
+
+
+
+
+The program's general objective is to improve Suriname's institutional capacity to manage land use. The specific objectives are to: (i) strengthen Suriname’s spatial planning and
+environmental frameworks, regulations, and instruments; (ii) increase the availability and use of data for spatial planning, climate change, and environmental management; and
+(iii) strengthen MinROM and NMA’s operational conditions.
+
+The project presents a complete diagnosis. The indicators associated with the specific objectives included in the Result Matrix are SMART and have means of verification. Some
+indicators do not have an established baseline and/or target; the Monitoring and Evaluation Plan indicates that they will be determined before starting program execution.
+
+A cost-benefit analysis (CBA) was conducted to assess the economic feasibility analysis of the proposed intervention considering a 20-year period and a 3% discount rate. The
+CBA forecasts the deforestation conditions in the absence of the project, and its associated change in CO2 emissions. Estimated benefits results from reducing deforestation,
+leading to carbon sequestration and environmental preservation. The estimated net present value is US$ 405,7 million and the internal rate of return is 74%, assuming a price
+US$85 per carbon/ton. The exercise concludes that the project is economically feasible and includes sensitivity analyses that yield positive returns if the carbon price exceeds
+US$57.6 per ton.
+
+The project includes a monitoring and evaluation plan in line with the Bank's standards. The effectiveness of the proposed intervention will be measured using a before and after
+methodology. In addition, an updated ex-post cost-benefit analysis will be carried out, using the same methodology of the ex-ante analysis.
+                                                                                                                                                 Annex II – SU-L1067
+                                                                                                                                                          Page 1 of 8
+
+                                                                      Results Matrix
+
+Project Objective    The program objective is to improve Suriname's institutional capacity to manage land use. The specific objectives for this operation are to:
+                     (i) strengthen Suriname's spatial planning and environmental frameworks, regulations, and instruments; (ii) increase the availability and use of
+                     data for spatial planning, climate change and environmental management; and (iii) strengthen MinROM and NMA's operational conditions. The
+                     achievement of these objectives will contribute to the general objective of Improving Suriname's institutional capacity to manage land use.
+
+
+
+
+                                                          General Development Objective
+
+General development objective: Improve Suriname's institutional capacity to manage land use
+
+                        Unit of               Baseline             Baseline       Expected year for                       Means of
+    Indicators                                                                                             Target                                Comments
+                      measurement              value                 year           achievement                          verification
+
+Indicator 1. GHG        tons CO2e                 0                  2024                2044             7,965,686    Land use report    See REL#2
+emissions avoided                                                                                                      based on
+from reduced                                                                                                           Satellite images
+deforestation                                                                                                          and GHG
+                                                                                                                       emissions
+                                                                                                                       calculator
+                                                                                                                                         Annex II – SU-L1067
+                                                                                                                                                  Page 2 of 8
+
+
+
+                                                          Specific Development Objectives
+
+Specific development objective 1: Strengthen Suriname's spatial planning and environmental frameworks, regulations and instruments
+
+    Indicators         Unit of         Baseline   Baseline   Year   Year   Year   Year   Year   Year   Year   End of      Means of          Comments
+                     measurement        value       year      1      2      3      4      5      6     7      Project    verification
+
+                                                                                                 -       1
+1.1. Spatial         # of systems         0        2023       -      -      -      -      -                     1       Council of       See REL#2
+planning system                                                                                                         Ministers
+approved by the                                                                                                         Approval order
+Council of
+Ministers
+
+1.2. Percentage of      km2 of           0%        2024       -      -      -      -      -      -     100%   100%      Zoning plans     See REL#2
+national territory   territory with                                                                                     signed by
+with a zoning plan   zoning plan /                                                                                      MinROM
+approved by          total territory                                                                                    Ministers
+MinROM Minister
+
+1.3. Annual           # of permits        0        2023       -      -      -      -      -      -      21      21      Environmental    See REL#2
+environmental                                                                                                           permits
+permits                                                                                                                 applications
+applications
+received
+                                                                                                                                                      Annex II – SU-L1067
+                                                                                                                                                               Page 3 of 8
+
+
+ Specific development objective 2: Increase the availability and use of data for spatial planning, climate change and environmental management
+
+         Indicators      Unit of          Baseline    Baseline    Year    Year    Year    Year    Year    Year    Year    End of       Means of          Comments
+                       measurement         value        year       1       2       3       4       5       6       7      Project     verification
+
+ 2.1. Annual              # of data           0         2023        -       -       -       -       -       -     TBD 1    TBD      Server           See REL#2
+ environmental           downloads                                                                                                  Downloads
+ information                                                                                                                        tracker
+ platform data
+ downloads
+
+ 2.2. Annual land       # of web visits       0         2023        -       -       -       -       -       -     TBD 2    TBD      Server IP        See REL#2
+ use and zoning                                                                                                                     tracker
+ information
+ platform visits
+
+
+ 2.2.1. Annual land     # of web visits       0         2023        -       -       -       -       -       -     TBD 3    TBD      Server IP        See REL#2
+    use and zoning      which use the                                                                                               tracker
+    information           impairment
+    platform visits      adaptations /
+    using               # of web visits
+    impairment
+    adaptations
+
+ 2.3. Sectors            # of sectors         0         2023        -       -       -       -       -       -      4        4       Annual GHG       See REL#2
+ reporting tier 2                                                                                                                   Report
+ data in the MRV
+ System
+
+
+
+
+1 The baseline and target data will be included in the Results Matrix prior to the Program’s kick-off workshop.
+2 Ibid
+3 Ibid
+                                                                                                                                          Annex II – SU-L1067
+                                                                                                                                                   Page 4 of 8
+
+
+Specific development objective 3: Strengthen MinROM and NMA’s operational conditions
+
+    Indicators        Unit of          Baseline   Baseline   Year   Year   Year   Year   Year   Year   Year   End of       Means of          Comments
+                    measurement         value       year      1      2      3      4      5      6      7     Project     verification
+
+3.1. MinROM         personnel that        0        2024       -      -      -      -      -      -     70%     70%       Trainings       To approve
+personnel that        attended at                                                                                       attendance       personnel must
+approved training    least 80% of                                                                                       records and      attend at least 80%
+in organizational     the classes                                                                                       assignment       of the classes and
+capacity and        and submitted                                                                                       completion       submit all required
+management            all required                                                                                      reports          assignments. See
+                    assignments /                                                                                                        REL#2
+                       personnel
+                    participating in
+                        training
+
+3.2. MinROM         personnel that        0        2024       -      -      -      -      -      -     70%     70%      Trainings        See REL#2
+personnel that        attended at                                                                                       attendance
+approved training    least 80% of                                                                                       records and
+in non-               the classes                                                                                       photographic
+discriminatory      and submitted                                                                                       evidence
+practices with        all required
+respect to gender   assignments /
+and PwD in the         personnel
+workplace and       participating in
+towards public          training.
+services
+
+3.3. NMA            personnel that        0        2024       -      -      -      -      -      -     70%     70%      Trainings        To approve
+personnel that        attended at                                                                                       attendance       personnel must
+approved training    least 80% of                                                                                       records and      attend at least 80%
+in organizational     the classes                                                                                       assignment       of the classes and
+capacity and        and submitted                                                                                       completion       submit all required
+management            all required                                                                                      reports          assignments. See
+                    assignments /                                                                                                        REL#2
+                       personnel
+                    participating in
+                        training
+                                                                                                                                            Annex II – SU-L1067
+                                                                                                                                                     Page 5 of 8
+
+
+         Indicators     Unit of          Baseline   Baseline   Year   Year   Year   Year   Year   Year   Year    End of       Means of         Comments
+                      measurement         value       year      1      2      3      4      5      6      7      Project     verification
+
+ 3.4. NMA             personnel that        0        2024       -      -      -      -      -      -     70%      70%      Trainings        See REL#2
+ personnel that         attended at                                                                                        attendance
+ approved training     least 80% of                                                                                        records and
+ in non-                the classes                                                                                        photographic
+ discriminatory       and submitted                                                                                        evidence
+ practices with         all required
+ respect to gender    assignments /
+ and PwD in the          personnel
+ workplace and        participating in
+ towards public           training
+ services
+
+ 3.5. Average time         Days            TBD       2024       -      -      -      -      -      -     TBD 4    TBD      Correspondence   See REL#2
+ for Ministry                                                                                                              system report
+ response in
+ dispatching
+ correspondence
+
+ 3.6 Number of        # of processes        0        2024       -      -      -      -      -      -     TBD 5    TBD      Management       See REL#2
+ processes                                                                                                                 system
+ digitalized
+
+
+
+
+4 Ibid
+5 Ibid
+                                                                                                                                             Annex II – SU-L1067
+                                                                                                                                                      Page 6 of 8
+
+
+
+                                                                              Outputs
+
+Component 1: Strengthening MinROM’s capacity for spatial planning, climate change and environmental management.
+
+    Indicators            Unit of         Baseline   Baseline   Year   Year   Year   Year   Year   Year   Year   End of      Means of           Comments
+                        measurement        value       year      1      2      3      4      5      6      7     Project    verification
+
+                                                                                                    0      0
+1.1. Green                # of plans         0        2024       0      0      1      0      0                     1       Document of      See REL#2
+Development                                                                                                                Green
+Vision Framework                                                                                                           Development
+Implementation                                                                                                             Vision
+action plan                                                                                                                Framework
+formulated                                                                                                                 action plan
+
+
+
+1.2. Spatial            # of strategies      0        2024       0      0      0      0      0      1      0       1       Document of      See REL#2
+planning strategies                                                                                                        Spatial
+designed                                                                                                                   planning
+                                                                                                                           strategy
+
+   Milestone:               Set of           0        2024       0      0      1      0      0      0      0       1       Document with    See REL#2
+   Creation of a set      guidelines                                                                                       the guidelines
+   of guidelines for
+   the inclusion of
+   women, IP, afro-
+   descendants
+   and PwD in
+   spatial planning
+   strategies
+
+   Milestone:             # of plans         0        2024       0      0      0      0      1      0      0       1       Document of      See REL#2
+   National Spatial                                                                                                        Spatial Plan
+   Development
+   Plan formulated
+
+1.3. Zoning plans         # of plans         0        2024       0      0      0      0      4      4      2       10      Zoning plans     See REL#2
+for prioritized areas
+formulated
+                                                                                                                                            Annex II – SU-L1067
+                                                                                                                                                     Page 7 of 8
+
+
+    Indicators           Unit of        Baseline   Baseline   Year   Year   Year   Year   Year   Year   Year   End of       Means of           Comments
+                       measurement       value       year      1      2      3      4      5      6      7     Project     verification
+
+1.4. Zoning and        # of platforms      0        2024       0      0      0      0      0      1      0       1       Online Platform   See REL#2
+Land Use public
+platform launched
+
+1.5. Single window      # windows          0        2024       0      0      0      0      0      1      0       1       GLicensing        See REL#2
+for Permitting and                                                                                                       system
+Licensing system                                                                                                         operating in
+for Zoning and                                                                                                           government
+Development set                                                                                                          website
+up
+
+1.6. Donor               # of units        0        2024       0      0      0      0      0      0      1       1       Task              See REL#2
+Coordination Unit                                                                                                        description of
+implemented                                                                                                              the unit, staff
+                                                                                                                         for the unit
+                                                                                                                         Already in
+                                                                                                                         organigram
+
+1.7. Bioclimatic and   # of buildings      0        2024       0      0      0      0      0      2      0       2       Certificate of    See REL#2
+accessible                                                                                                               building
+buildings                                                                                                                completion and
+constructed                                                                                                              photographic
+                                                                                                                         evidence of
+                                                                                                                         accessibility
+                                                                                                                         features for
+                                                                                                                         PwD (width of
+                                                                                                                         entryway
+                                                                                                                         >=90cm, tactile
+                                                                                                                         strip
+
+1.8. Operational        # of training      0        2024       0      0      2      1      2      0      0       5       Attendance        See REL#2
+Training Program         programs                                                                                        records
+for MinROMs
+institutional
+capacity
+implemented
+                                                                                                                                           Annex II – SU-L1067
+                                                                                                                                                    Page 8 of 8
+
+
+Component 2: Strengthening NMA’s capacity for environmental management and climate transparency
+
+    Indicators          Unit of          Baseline   Baseline   Year   Year   Year   Year   Year   Year   Year   End of      Means of          Comments
+                      measurement         value       year      1      2      3      4      5      6      7     Project    verification
+
+2.1. Environmental     # of systems         0        2024       0      0      0      0      0      1      0       1       Operating        See REL#2
+Information System                                                                                                        Website
+published
+
+2.2. Permit and        # of systems         0        2024       0      0      0      0      0      1      0       1       Licensing        See REL#2
+licensing system                                                                                                          system
+for the EAI and                                                                                                           operating in
+Environmental                                                                                                             government
+Permits                                                                                                                   website
+implemented
+
+   Milestone:         # of regulations      0        2024       0      0      0      1      0      0      0       1       Document with    See REL#2
+   Pollution                                                                                                              pollution
+   standards                                                                                                              standards
+   established                                                                                                            Approved by
+                                                                                                                          NMA director
+
+2.3. Monitoring        # of systems         0        2024       0      0      0      0      0      0      1       1       MRV              See REL#2
+Reporting and
+Verification System
+set up
+
+   Milestone:              # of             0        2024       0      0      2      2      0      0      0       4       Inter-agencies   See REL#2
+   Inter-agency        mechanisms                                                                                         MOUs
+   data sharing            and
+   mechanisms         arrangements
+   and
+   arrangements
+   developed
+
+2.4. Operational       # of trainings       0        2024       0      0      1      1      1      1      1       5       Attendance       See REL#2
+Training Program                                                                                                          records
+for NMA'S
+institutional
+capacity
+implemented
+                                                                                          Annex III - SU-L1067
+                                                                                                   Page: 1 of 6
+
+
+
+     Country: Suriname           Division: HUD             Operation No.: SU-L1067             Year: 2024
+
+
+                          Fiduciary Agreements and Requirements
+
+Executing Agency (EA): Ministry of Spatial Planning and Environment
+Operation Name: Strengthening Spatial Planning and Environmental Management in Suriname
+
+
+
+I.      Fiduciary Context of Executing Agency
+1.      Use of country system in the operation (Any system or subsystem that is subsequently
+        approved may be applicable to the operation, in accordance with the terms of the Bank's
+        validation).
+
+
+      Budget                     Reports                 Information System           National Competitive
+                                                                                   Bidding (NCB)
+
+
+      Treasury                   Internal audit          Shopping                     Others
+
+
+      Accounting                 External Control        Individual Consultants       Others
+
+
+
+2.      Fiduciary execution mechanism
+
+        Particularities of the             This loan will be executed by the Ministry of Spatial Planning
+        fiduciary execution                and Environment.
+
+
+3.      Fiduciary capacity
+
+ Fiduciary         The result of the ICAP assessment indicates that ROM has a relatively weak
+ Capacity of       capacity to undertake the implementation of the SU-L1067. However, taking into
+ the EA            account ROM’s willingness to develop its project execution approach and key
+                   strengths exhibited in areas such as project management, procurement
+                   management systems and procedures, human resource capabilities and
+                   availability, fiduciary management systems, technical quality management, health,
+                   safety, environment and social policies, procedures and safeguards, in addition to
+                   experience with International Development Partners such as the UNEP and World
+                   Bank, implementation capacity can be strengthened. This can be achieved by
+                   embracing the recommendations presented in the subsequent section.
+                                                                                Annex III - SU-L1067
+                                                                                         Page: 2 of 6
+
+
+
+4.   Fiduciary risks and risk response
+   Risk                                               Risk
+                             Risk                                        Risk response
+ Taxonomy                                             level
+
+ Internal    If ROM’s implementation capacity        High      This risk can be mitigated through
+ processes   remains limited for a project of this             the incorporation of a external
+             size, scope and complexity, then                  operating unit (EOU) within the
+             implementation delays across the                  executing arrangement of the
+             project can materialized, and the                 project. The EOU will be dedicated
+             achievement of the project’s                      to support ROM’s project
+             objectives can be negatively                      implementation while transferring
+             affected.                                         knowledge and building its
+                                                               implementation capacity.
+
+ Internal    If there are substantial internal       High      This risk can be mitigated through
+ processes   management conflicts among                        the integration of the various
+             departments within ROM, then                      departments during project
+             disruption in project implementation              planning workshops, missions and
+             can occur which can ultimately                    portfolio review.
+             affect the long-term objectives of
+             the project
+
+ Internal    If there is a lack of project           High      This risk can be mitigated using a
+ processes   coordination between ROM and                      PSC with direct oversight by the
+             NMA, then the rate of project                     Minister of ROM, since ROM is the
+             implementation can be reduced,                    EA. Additionally, an inter-agency
+             thus causing overall delays in the                working agreement should be
+             achievement of project activities                 developed, executed and
+             and results.                                      monitored for its effectiveness.
+
+ Good and    If ROM’s procurement                    Medium-   This can be mitigated through
+ Services    management systems, norms and           High      capacity development initiatives
+             procedures are inadequate for                     such as Bank-related training in
+             project execution, then errors,                   fiduciary management with project
+             omissions and delays in the                       staff.
+             procurement management
+             processes can occur, thus
+             impeding project implementation
+             and the completion of project
+             activities.
+
+
+5.   Policies and guides applicable to operation: Procurement and contracting will follow the
+     policies for the procurement of goods and works financed by the Bank (GN-2349-15), and the
+     policies for the selection and contracting of consultants financed by the Bank (GN-2350-15), as
+     well as the fiduciary arrangements included in this document, effective January 2020.
+6.   Exceptions to policies and rules: Not applicable
+                                                                                           Annex III - SU-L1067
+                                                                                                    Page: 3 of 6
+
+
+
+II.    Aspects to be considered in the Special Conditions of the Loan
+       Agreement
+
+ Pre-first disbursement conditions:
+ The Borrower, through the EA, shall provide evidence, to the satisfaction of the Bank of (i) the establishment
+ of the transitional PIU within MinROM and the selection of its program coordinator (ii) the approval and entry
+ into effect of the POM (OEL#2), in the terms previously agreed to with the Bank; and (iii) the approval by the
+ Council of Ministers of the Green Development Vision (GDV) Statement. See additional environmental and
+ social conditions described in Annex B of the ESRS.
+
+
+
+ Exchange Rate: For purposes of Article 4.10 of the General Conditions, the Parties agree that the
+ applicable exchange rate shall be that indicated in paragraph (b)(i) of said Article. For purposes of
+ determining the equivalency of expenditures incurred in Local Currency chargeable to the
+ Additional Resources or of the reimbursement of expenditures chargeable to the Loan, the agreed
+ exchange rate shall be the exchange rate on the effective date on/in which the Borrower, the
+ Executing Agency, or any other person or legal entity in whom the power to incur expenditures has
+ been vested makes the related payments to the contractor, supplier, or beneficiary.
+
+ Type of Audit: Financial, Accounting and Institutional Inspection visits or meetings will be
+ performed to: (i) Review of the Reconciliation and supporting documentation for disbursements;
+ (ii) Compliance with financial and procurement procedures; (iii) Review of compliance with the
+ lending criteria; and (iv) Follow up on audit findings and recommendations. The Review of
+ Disbursements will be ex post.
+
+
+
+III.   Agreements and Requirements for Procurement Execution
+
+       Bidding              For procurement of Works, Goods and Services Different of Consulting
+       Documents            executed in accordance with the Procurement Policies (document
+                            GN-2349-15), subject to ICB, the Bank's Standard Bidding Documents
+                            (SBDs) or those agreed between EA and the Bank will be used for the
+                            particular procurement. Likewise, the selection and contracting of
+                            Consulting Services will be carried out in accordance with the Policies for
+                            the Selection and Contracting of Consultants (document GN-2350-15) and
+                            the Standard Request for Proposals (SRP) issued by the Bank or agreed
+                            between the EA and the Bank will be used for the selection.
+
+       Procurement          The method of supervision shall be Ex Ante.
+       supervision
+
+       Records and          The EA will have the responsibility for maintaining the files and records of
+       Archives             the project. All records and files will be maintained according to standards
+                            acceptable to the Bank (best practices) and kept for a minimum of seven
+                            (7) years after the end of the project’s execution period.
+                                                                                 Annex III - SU-L1067
+                                                                                          Page: 4 of 6
+
+
+
+Main Acquisitions
+Description of the             Selection       New              Estimated Date        Estimated
+procurement                    Method          Procedures/Tools                       Amount
+                                                                                      000’US$
+
+Goods
+
+Procurement of software                                          03/01/2028           950
+and hardware for: (i) the      International
+Zoning and Land Use            Competitive
+public platform; and (ii)      Bidding
+Single window for              (ICB)
+Permitting and Licensing
+system for Zoning and
+Development.
+
+Works
+
+Construction of a                                               03/01/2027            5,000
+bioclimatic and accessible     International
+building for the ministerial   Competitive
+headquarters.                  Bidding
+                               (ICB)
+
+Non-consulting services
+Procurement of Strategic       International                    10/01/2025            350
+Institutional Strengthening    Competitive
+and Management                 Bidding
+Strategy Design and            (ICB)
+Implemented
+
+Procurement of                 International                    01/01/2027            420
+Operational Training           Competitive
+                               Bidding
+                               (ICB)
+
+Consulting Firms
+Consultancy for the
+                                Quality- and                     04/13/2026           3,045
+development of: (i) the
+                               Cost-Based
+Environmental
+                               Selection
+Information System; and
+                               (QCBS)
+(ii) the Permit and
+licensing system for the
+EAI and Environmental
+Permits.
+
+Consultancy for the            Quality- and                     10/01/2025            6,300
+design of Suriname's           Cost-Based
+spatial planning strategy      Selection
+and the development of         (QCBS)
+regional structural plan,
+                                                                                     Annex III - SU-L1067
+                                                                                              Page: 5 of 6
+
+
+
+ Description of the            Selection       New              Estimated Date             Estimated
+ procurement                   Method          Procedures/Tools                            Amount
+                                                                                           000’US$
+
+ zoning plans, and building
+ codes for each of the
+ districts.
+
+ Individuals
+
+ Enforcers for the Permit       Selection of                         05/04/2026            1,300
+ and licensing system for      individual
+ the EAI and                   consultant
+ Environmental Permits         (by open
+ implemented.                  invitation)
+
+
+Access Procurement Plan here.
+
+IV.   Agreements and Requirements for Financial Management
+
+      Programming and       The EA will prepare and implement an operational plan, which will include
+      Budget                the budget plan, procurement plan and financial plan, consistent with a 12
+                            –month financial plan that will be required. The Borrower has committed
+                            to allocate, for each fiscal year of program execution, adequate fiscal
+                            space to guarantee the unrestricted execution of the program.
+
+      Treasury and          The disbursement mechanism shall be Manual and will follow the
+      Disbursement          methods stated in the OP-273-12 and the Disbursement Handbook. The
+      Management            currency to manage the operation is the USD. The operation will generally
+                            work with a financial period of 6 months due to the planning cycle for the
+                            project. The Preferential Disbursement Method will be advance of funds,
+                            but other types of disbursements will be available.
+                            The operation is expected to justify 80% of accumulated balances
+                            pending of justification before requesting another advance of funds.
+
+      Accounting,           Specific accounting norms: IFRS (International Financing
+      information           Reporting Standards).
+      systems and
+                            Accounting reports: The EA will utilize the off the shelf accounting and
+      reporting
+                            financial management software QuickBooks currently used for the
+                            accounting and financial reporting of many programs in the country.
+                             Financial Statements of the program will be prepared based on IDB rules
+                            given that the PFM reform is still in process. The financial specialist
+                            should maintain under his/her responsibility auxiliary records and systems
+                            (e.g. QuickBooks or similar).
+
+      External control:     The Borrower and the EA, as agreed with the Bank, will hire the services
+      external financial    of an audit firm through a bidding process. The audit’s scope and related
+      audit and project     considerations will be governed by the Financial Management Guidelines
+      reports               (document OP273-12) and the Guide for Financial Reports
+                            and Management of External Audit. The annual financial audits/
+                                                                              Annex III - SU-L1067
+                                                                                       Page: 6 of 6
+
+
+
+                    assurance reports should be submitted within 120 days of the end of a
+                    fiscal year and within 120 days after the date of last disbursement.
+
+Project Financial   Financial, Accounting and Institutional Inspection visits or meetings will be
+Supervision         performed to: (i) Review of the Reconciliation and
+                    supporting documentation for disbursements; (ii) Compliance with
+                    financial and procurement procedures; (iii) Review of compliance with the
+                    lending criteria; and (iv) Follow up on audit findings and
+                    recommendations. The Review of Disbursements will be ex post.
+               DOCUMENT OF THE INTER-AMERICAN DEVELOPMENT BANK
+
+
+
+
+                              PROPOSED RESOLUTION DE-__/24
+
+
+
+                   Suriname. Loan ____/OC-SU to the Republic of Suriname
+                      Strengthening Spatial Planning and Environmental
+                                  Management in Suriname
+
+
+
+       The Board of Executive Directors
+
+RESOLVES:
+
+        That the President of the Bank, or such representative as he shall designate, is authorized,
+in the name and on behalf of the Bank, to enter into such contract or contracts as may be
+necessary with the Republic of Suriname, as borrower, for the purpose of granting it a financing
+aimed at cooperating in the execution of the project “Strengthening Spatial Planning and
+Environmental Management in Suriname”. Such financing will be for the amount of up to
+US$30,000,000, from the resources of the Bank’s Ordinary Capital, and will be subject to the
+Financial Terms and Conditions and the Special Contractual Conditions of the Project Summary
+of the Loan Proposal.
+
+
+
+                             (Adopted on ___ ____________ 2024)
+
+
+
+LEG/SGO/CCB/EZSHARE-171363792-5446
+SU-L1067
+

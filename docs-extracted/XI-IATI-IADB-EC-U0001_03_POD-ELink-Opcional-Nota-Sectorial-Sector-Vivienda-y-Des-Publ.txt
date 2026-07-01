@@ -1,0 +1,1378 @@
+    Nota sectorial sobre el Sector de
+Vivienda y Desarrollo Urbano en Ecuador
+
+                       BID – Ecuador
+
+
+
+
+                         Consultor:
+              Julio Miguel Silva Salamanca
+              Jsilva@economiaurbana.com
+
+
+                       Bogotá, Colombia
+                       Diciembre de 2017
+
+
+
+
+        Borrador para discusión – esta versión 22/12/2017
+Contenido
+
+
+Tablas ............................................................................................................................................ 3
+1        Presentación .......................................................................................................................... 4
+2        Contexto macroeconómico y sector de la construcción........................................................ 6
+3        Características demográficas y socioeconómicas de los hogares ecuatorianos .................. 11
+4        Estructura de la tenencia de la vivienda y condiciones habitacionales de la población ..... 16
+5        Gasto de los hogares en vivienda, estructura de la oferta y balance de mercado .............. 20
+    A.       Gasto de los hogares en vivienda .................................................................................................. 20
+    B.       Estructura de la oferta ................................................................................................................... 24
+    C.       Balance de mercado ...................................................................................................................... 27
+6        Subsidios e instrumentos de financiación de vivienda ........................................................ 30
+    A.       Subsidios........................................................................................................................................ 30
+    B.       Financiación de Vivienda ............................................................................................................... 31
+7        Lineamientos y recomendaciones para la formulación de una política de vivienda integral
+         37
+    A.       Bases para la reingeniería al sistema de subsidios del Ecuador .................................................... 38
+    B.       Elementos básicos para el fomento a la oferta ............................................................................. 40
+8        Bibliografía ........................................................................................................................... 41
+
+
+
+
+Ilustraciones
+Ilustración 1. PIB Ecuador 2008-2016 (Millones de USD de 2016)
+Ilustración 2. PIB per cápita 2008-2016 ........................................................................................ 6
+Ilustración 3. Variación anual del PIB del sector construcción, 2008-2016 .................................. 7
+Ilustración 4. Participación del sector de la construcción en el PIB, 2007 - 2016......................... 8
+Ilustración 5. PIB del sector de la construcción y trabajadores en el sector, 2007 – 2016........... 8
+Ilustración 6. Distribución de la población ocupada, 2016 ........................................................... 9
+Ilustración 7. Tasa de desempleo e iniciaciones de vivienda en Colombia, 2010 ....................... 10
+Ilustración 8. Población Ecuador y tasa de crecimiento poblacional, 2011 - 2020..................... 11
+Ilustración 9. Población y crecimiento poblacional (urbano - rural), 2011 – 2020 ..................... 12
+Ilustración 10. Distribución de la población (urbano - rural) por provincia, 2017 ...................... 12
+Ilustración 11. Tamaño promedio de los hogares, 2001 - 2014.................................................. 13
+Ilustración 12. Formación de hogares, 2011 – 2017 ................................................................... 13
+Ilustración 13. Índice de GINI, 2015 ............................................................................................ 13
+Ilustración 14. Ingreso promedio del hogar y hogares por niveles de ingreso, 2014 ................. 14
+
+
+
+                                                                                                                                                               2
+Ilustración 15. Ingreso promedio de los hogares urbanos, 2014
+Ilustración 16. Ingreso prom. de los hogares rurales, 2014 ........................................................ 15
+Ilustración 17. Tenencia de vivienda en Ecuador, 2014 .............................................................. 16
+Ilustración 18. Déficit habitacional a nivel urbano, rural y por nivel de ingreso, 2009 .............. 18
+Ilustración 19. Acceso a red pública de agua según provincias, 2014 ........................................ 19
+Ilustración 20. Acceso a red pública de recolección de basuras según provincias, 2014 ........... 19
+Ilustración 21. Gasto de vivienda en alquiler y propia con crédito según ingresos, hogares
+urbanos, 2014 ............................................................................................................................. 23
+Ilustración 22. Gasto de vivienda en alquiler como porcentaje del PIB, 2015............................ 23
+Ilustración 23. Viviendas totales adicionales y oferta de vivienda formal, 2001 - 2010............. 24
+Ilustración 24. Proxi Oferta – Permisos de construcción de vivienda, 2006 – 2016 ................... 25
+Ilustración 27. Proxi Oferta – Viviendas proyectadas, 2006 – 2016 ........................................... 25
+Ilustración 28. Viviendas proyectadas (t) VS. Permisos const. (t-1), 2010-2016
+Ilustración 29. Viviendas proyectadas por cada 1.000 habitantes ............................................. 26
+Ilustración 30. Viviendas nuevas proyectadas por cada 1.000 habitantes, 2014 - 2016. ........... 27
+Ilustración 31. Relación entre viviendas nuevas proyectadas y población, 2014 - 2016. ........... 27
+Ilustración 32. Formación anual de hogares y oferta formal de vivienda, 2010 - 2016. ............ 28
+Ilustración 33. Demanda y oferta de vivienda por niveles de ingreso, 2016 .............................. 29
+Ilustración 34. Presupuesto vivienda como porcentaje del PIB, 2013 - 2016............................. 30
+Ilustración 35. Gasto en vivienda con respecto al PIB – países seleccionados ........................... 31
+Ilustración 36. Créditos hipotecarios BIESS e instituciones privadas, 2011-2016 ...................... 32
+Ilustración 37. Total créditos hipotecarios, 2011-2016
+Ilustración 38. Créditos por cada 1.000 habitantes .................................................................... 32
+Ilustración 39. Valor créditos hipotecarios, 2011-2016
+Ilustración 40. Valor promedio créditos desembolsados ........................................................... 33
+Ilustración 41. Cartera hipotecaria ASOBANCA como porcentaje del PIB, 2008-2016 ............... 34
+Ilustración 42. Cartera hipotecaria ASOBANCA sobre cartera total, 2008-2016 ........................ 34
+Ilustración 43. Tasa de interés sector inmobiliario, 2016-2017 .................................................. 35
+Ilustración 44. Financiación de vivienda de los hogares ecuatorianos, 2014 ............................. 36
+Ilustración 45. Síntesis del sector vivienda en Ecuador, 2010-2016 ........................................... 37
+Ilustración 46. Propuesta de estructura de la política de vivienda integral ............................... 38
+
+
+
+
+Tablas
+Tabla 1. Gasto en pago de arrendamiento según ingresos, 2014 ............................................... 20
+Tabla 2. Gasto en pago de amortización según ingresos, 2014 .................................................. 20
+Tabla 3. Gasto en pago de amortización según ingresos hogares urbanos, 2014 ...................... 21
+Tabla 4. Gasto en pago de amortización según ingresos hogares rurales, 2014 ........................ 21
+Tabla 5. Gasto en pago de arrendamiento según ingresos hogares urbanos, 2014 ................... 22
+Tabla 6. Gasto en pago de arrendamiento según ingresos hogares rurales, 2014 ..................... 22
+Tabla 7. Estructura de la oferta de vivienda por rangos de precios, 2016.................................. 29
+Tabla 8. Presupuesto y número de soluciones del Gobierno Nacional....................................... 30
+Tabla 9. Distribución de la inversión en vivienda en función del ingreso de los hogares........... 38
+
+
+
+
+                                                                                                                                            3
+1     Presentación
+
+
+1.1   Una evaluación del estado actual del sector vivienda en el Ecuador, permite inferir que
+      existe un desequilibrio importante entre la demanda demográfica (sin incluir la demanda
+      por reposición) y la oferta formal de vivienda, lo que supone que el mercado se ajuste con
+      la conformación de asentamientos informales o con mayores niveles de cohabitación;
+      situación que seguramente está aumentando los niveles de déficit de vivienda en el país.
+      El desequilibrio no sólo se presenta en términos de cantidades, sino también en términos
+      de precios, para lo cual se requiere la definición de instrumentos que permitan
+      incrementar la escala de producción de unidades habitacionales, en especial de vivienda
+      económica, que a su vez pueda ser adquirida por la mayor parte de los hogares
+      ecuatorianos.
+
+1.2   Bajo este contexto, con el objetivo de aportar insumos para el diálogo sectorial con las
+      nuevas autoridades del Gobierno de Ecuador y generar recomendaciones de política
+      pública en el marco del Plan de Gobierno 2017-2021, el Banco Interamericano de
+      Desarrollo (BID) ha solicitado la elaboración de la presente Nota Sectorial. En este
+      documento, se recoge el diagnóstico de los elementos de oferta y demanda más
+      significativos del sector, las experiencias recogidas a partir de las intervenciones del Banco
+      y el Gobierno Nacional en años recientes y los factores que podrían mejorar la producción
+      y el acceso a vivienda formal por parte de los ecuatorianos.
+
+1.3   El documento se ha estructurado en ocho secciones, de las cuales la primera es esta
+      introducción. La segunda sección presenta un análisis de la coyuntura macroeconómica
+      del país, en relación con el papel que ha jugado el sector de la construcción en el
+      comportamiento de la economía en los últimos años. En el tercer y cuarto capítulo, se
+      realiza una caracterización de la estructura y composición de los hogares ecuatorianos
+      según su distribución urbano – rural y en el territorio, para luego hacer una descripción de
+      las condiciones de habitabilidad de los mismos en el capítulo quinto. En el sexto capítulo
+      se hace una síntesis de la estructura de la demanda y de la oferta de vivienda en el país, y
+      en el séptimo, se analizan los mecanismos de financiación de vivienda con los que
+      cuentan los hogares. Finalmente, en el último capítulo se presentan lineamientos y
+      recomendaciones para la formulación de una política de vivienda integral.
+
+1.4   En síntesis, y como resultado del diagnóstico elaborado, la presente Nota Sectorial sugiere
+      la formulación de una política integral de vivienda que contemple elementos de demanda
+      y oferta por separado. En el primer caso, se propone una reingeniería del sistema de
+      subsidios, definiendo instrumentos diferenciados para cada segmento de la población, de
+      forma que se facilite la compra de vivienda, en algunos casos sin necesidad de ahorro
+      previo, el acceso al crédito hipotecario y se promueva el mercado de arrendamiento.
+      Igualmente, se propone la separación y diferenciación de las estrategias urbana y rural, y
+      el incremento en los montos del valor de los subsidios y de la inversión destinada al sector
+      vivienda.
+
+1.5   Por el lado de la oferta, se sugiere la implementación de instrumentos para la gestión
+      directa de suelo urbanizable por parte del Gobierno Nacional, el fomento a la producción
+
+                                                                                                  4
+industrializada de vivienda social, la articulación del sector con la inversión en programas
+de agua potable y en saneamiento básico, la implementación de la figura de los curadores
+urbanos para mejorar los trámites sectoriales, y, por último, el establecimiento de
+incentivos al uso de la fiducia mercantil y la inversión institucional en el alquiler de
+vivienda.
+
+
+
+
+                                                                                          5
+2      Contexto macroeconómico y sector de la construcción
+
+
+2.1      Al igual que el resto de los países productores de materias primas en América Latina, Ecuador
+         experimentó una desaceleración de su economía entre 2014 y 2016, explicada
+         fundamentalmente por la caída del precio del petróleo. De acuerdo con cifras del Banco
+         Central del Ecuador, en 2015 el país registró un crecimiento de 0,1% en su economía, seguido
+         de un descenso cercano a 1,6% en 2016, caída interanual que no se presentaba desde la crisis
+         bancaria de 1999. La estrechez fiscal generada por la caída de los ingresos petroleros ha
+         significado en los últimos años un reto mayúsculo para el gobierno ecuatoriano y la
+         consecución de los objetivos definidos en el anterior plan de desarrollo, y representan un
+         reto significativo para el gobierno recientemente posesionado.
+
+2.2      En lo referente al comportamiento de la política fiscal, el más reciente informe
+         macroeconómico de la CEPAL para el país, resalta la contracción de 2,7% del gasto público no
+         financiero en términos nominales en 2016, en respuesta a la caída del precio del crudo
+         ecuatoriano, que pasó en promedio de USD $ 42,2 por barril en 2015 a USD $ 35,2 por barril
+         en 2016. Pese a la contracción del gasto, la caída más que proporcional en los ingresos
+         generó un déficit primario equivalente al 5,7% del PIB (CEPAL, 2017).
+
+2.3      De acuerdo con datos del Banco Mundial, la contracción de la economía ecuatoriana entre
+         2015 y 2016 tuvo un efecto negativo en la convergencia del ingreso promedio por habitante
+         del país con respecto al conjunto de América Latina, como se presenta en la Ilustración 2. Sin
+         embargo, las perspectivas a futuro, no son negativas. La CEPAL prevé un crecimiento de 0,7%
+         en la economía para 2017, asimismo, se espera que la inflación acumulada se mantenga baja
+         y cercana al 1%.
+
+
+Ilustración 1. PIB Ecuador 2008-2016 (Millones de USD de 2007)            Ilustración 2. PIB per cápita 2008-2016
+
+
+
+
+Fuente: Banco Central del Ecuador (BCE) y Banco Mundial. Cálculos Economía Urbana Ltda.
+
+
+
+2.4      El comportamiento del PIB del sector de la construcción ha presentado un comportamiento
+         similar al del PIB total, aunque con ciclos más pronunciados tanto en periodos de auge como
+         en periodos recesivos. En ese sentido, el mayor auge en la economía ecuatoriana en los
+
+
+                                                                                                                6
+      últimos años coincide con el año de mejor comportamiento del sector de la construcción.
+      Asimismo, la desaceleración de la construcción entre 2014 y 2016 tuvo un efecto negativo en
+      la economía del país, del cual se ha venido recuperando en lo corrido de 2017.
+
+2.5   Durante el período 2008 a 2016 el PIB del sector de la construcción presentó un crecimiento
+      promedio de 5,7%, casi dos veces el crecimiento de la economía. De esta forma, la
+      participación del PIB de la construcción en el PIB total se incrementó considerablemente en
+      este período. El mayor auge del sector coincidió, a su vez, con el mayor auge observado en el
+      segmento de vivienda, aspecto que se estudiará en detalle en la sección quinta del presente
+      documento.
+
+
+          Ilustración 3. Variación anual del PIB del sector construcción, 2008-2016
+
+
+
+
+      Fuente: Banco Central del Ecuador (BCE). Cálculos Economía Urbana Ltda.
+
+
+
+2.6   El sector de la construcción ha venido ganando protagonismo en la economía del país en la
+      última década y, como se presentó previamente, su crecimiento fue más que proporcional
+      que el observado en el PIB total. En efecto, entre 2007 y 2014, la participación del PIB del
+      sector sobre el total de la economía aumentó 1,9 puntos porcentuales, al pasar de 7,9% en
+      2007 a 9,8% en 2014. Esta participación, sin embargo, ha decrecido desde entonces, hasta
+      llegar a 9,4% en 2016 (Ilustración 4).
+
+
+
+
+                                                                                              7
+          Ilustración 4. Participación del sector de la construcción en el PIB, 2007 - 2016
+
+
+
+
+          Fuente: Banco Central del Ecuador (BCE). Cálculos Economía Urbana Ltda.
+
+
+
+2.7       Además, para el mismo período, se observa una relación positiva entre comportamiento del
+          sector de la construcción y el empleo total de la economía y el empleo sectorial. El potencial
+          de la construcción y particularmente de la construcción de edificaciones, como sector
+          intensivo en mano de obra no calificada, permite ver una oportunidad en su estímulo para la
+          recuperación económica del país. El crecimiento del sector de la construcción permitió
+          generar más de 132 mil empleos en los últimos 10 años, pasando de 397 mil ocupados en
+          2007 a casi 530 mil en 2016. De esta forma, el empleo sectorial creció en mayor proporción
+          que el empleo total de la economía.
+
+
+      Ilustración 5. PIB del sector de la construcción y trabajadores en el sector, 2007 – 2016
+
+
+
+
+          Fuente: Banco Central del Ecuador (BCE) e INEC. Cálculos Economía Urbana Ltda.
+
+
+
+
+                                                                                                   8
+2.8   En efecto, mientras la población ocupada total pasó de 6.0 millones de trabajadores en 2007
+      a 7.5 millones en 2016, representando un crecimiento total de 24%, los empleados del sector
+      de la construcción, se incrementaron en un 33,4%. Por otra parte, debe considerarse que una
+      proporción importante de los ocupados están vinculados laboralmente al mercado informal
+      (44%). La condición laboral de esta población es un factor que afecta las condiciones de
+      acceso a mecanismos formales de financiación de vivienda, lo que puede redundar en una
+      doble informalidad en ambos mercados (laboral e inmobiliario).
+
+
+                   Ilustración 6. Distribución de la población ocupada, 2016
+
+
+
+
+      Fuente: INEC Cálculos Economía Urbana Ltda.
+
+
+
+2.9   La tasa de desempleo en Ecuador, al cierre de 2016 llegó a 5,2%, lo cual representó un
+      incremento anual de 0,4 puntos porcentuales frente a la cifra presentada en 2015 (4,8%).
+      Este dato podría ser de 1,7% adicional, en caso de que se perdieran los empleos adicionales
+      generados por el sector de la construcción durante su auge reciente. En otros países de la
+      región se ha observado una relación inversa entre la tasa de desempleo y las iniciaciones de
+      vivienda. Estimaciones realizadas por el Viceministerio de Vivienda de Colombia, dan cuenta
+      de una elasticidad de -0.49 entre la tasa de desempleo y las iniciaciones de vivienda. Esto
+      implica que, para el caso colombiano, un incremento de 10% en las iniciaciones de vivienda
+      se asocia a una disminución de 5% en la tasa de desempleo general de la economía (ver
+      Ilustración 7).
+
+
+
+
+                                                                                             9
+Ilustración 7. Tasa de desempleo e iniciaciones de vivienda en Colombia, 2010
+
+
+
+
+         Fuente: DANE. Cálculos Viceministerio de Vivienda.
+
+
+
+
+                                                                                10
+3     Características demográficas y socioeconómicas de los
+      hogares ecuatorianos
+
+3.1    De acuerdo con el más reciente Censo de población y vivienda, en 2010 Ecuador tenía 14,5
+       millones de personas en 3,8 millones de hogares. Con respecto a la información procesada
+       del censo de 2001, se observa en el país una tasa de crecimiento intercensal en el número
+       total de habitantes de 1,95% anual, mientras que, en promedio, el país pasó de 4.2 a 3.8
+       personas por hogar durante el mismo periodo. Entre 2001 y 2010, el número de hogares en
+       el país creció en 32.3%, lo que arrojó una formación anual de hogares algo superior a las 100
+       mil unidades.
+
+3.2    Según las proyecciones del Instituto Nacional de Estadística y Censos del Ecuador (INEC) se
+       prevé que la población crezca entre el 2014 y 2030 a una tasa anual promedio de 1,5%,
+       alcanzando 17,5 millones en 2020 (Ilustración 8). Adicionalmente, el crecimiento
+       demográfico en zonas urbanas se estima en 1,75% anual entre 2011 y 2020, 0,55 puntos
+       porcentuales por encima del crecimiento proyectado en zonas rurales (1,20%), como se
+       observa en las ilustraciones 6 y 7.
+
+
+
+      Ilustración 8. Población Ecuador y tasa de crecimiento poblacional, 2011 - 2020
+
+
+
+
+       Fuente: INEC. Cálculos Economía Urbana Ltda.
+
+
+
+
+                                                                                              11
+           Ilustración 9. Población y crecimiento poblacional (urbano - rural), 2011 – 2020
+
+
+
+
+Fuente: INEC. Cálculos Economía Urbana Ltda.
+
+3.3        Una revisión de la distribución urbano-rural a nivel provincial indica que la mayor
+           concentración de población urbana se encuentra en las provincias de Guayas (85%), El Oro
+           (78%) y Santo Domingo de los Tsachilas (75%), y que solo 8 provincias, de 24, concentra el
+           66% de la población total y el 75% de la población urbana.
+
+
+           Ilustración 10. Distribución de la población (urbano - rural) por provincia, 2017
+
+                                                                                              8 provincias son
+                                                                                              mayoritariamente
+                                                                                              urbanas. Ellas
+                                                                                              concentran el 66% de
+                                                                                              la población total y el
+                                                                                              75% de la población
+                                                                                              urbana.
+
+
+
+
+      Fuente: Proyecciones poblacionales 2010 y 2020 - INEC. Cálculos Economía Urbana Ltda.
+
+
+
+3.4        De acuerdo con la última información disponible, correspondiente a los Censos de 2001 y
+           2010, el tamaño de los hogares en Ecuador ha presentado una tendencia decreciente. En
+           promedio un hogar en Ecuador en 2001 estaba conformado por 4,2 personas, mientras que
+           en 2010, el tamaño promedio se estimó en 3,8 personas, lo que representó una tasa de
+           crecimiento de -1,1% anual (Ilustración 11).
+
+
+
+
+                                                                                                            12
+                 Ilustración 11. Tamaño promedio de los hogares, 2001 - 2014
+
+
+
+
+      Fuente: Censos 2001 - 2010 y ECV 2014, INEC. Cálculos Economía Urbana Ltda.
+
+3.5   Tomando como referencia las proyecciones poblacionales estimadas por el INEC y el tamaño
+      promedio de los hogares de acuerdo con el Censo de Población y Vivienda de 2010 y la
+      Encuesta de Condiciones de Vida (ECV) de 2014, se estima que entre 2011 y 2017 se crearon
+      anualmente 108.000 hogares, a una tasa de 2,6% (1.7 veces el crecimiento poblacional). La
+      cantidad de personas por hogar pasó de 4,2 personas en 2001 a 3,68 en 2014. Se estima que
+      entre 2017 y 2020 se conformarán al año entre 115.000 y 119.000 hogares (70% urbanos).
+
+                               Ilustración 12. Formación de hogares, 2011 – 2017
+
+
+
+
+         Fuente: Censos 2001 - 2010 y ECV 2014, INEC. Cálculos Economía Urbana Ltda.
+
+
+
+3.6   De acuerdo con la CEPAL, la desigualdad en la distribución de ingresos es menor en Ecuador
+      (GINI de 0,45) frente al promedio de América Latina (GINI de 0,49) y en comparación con
+      otros países de la región con los que tiene características similares en términos
+      sociodemográficos (Ilustración 13)
+
+
+                                                                                          13
+                                     Ilustración 13. Índice de GINI, 2015
+
+
+
+
+           Fuente: CEPAL
+
+3.7        Bajo este contexto, al estimar el ingreso de los hogares ecuatorianos, a partir de información
+           procesada de la ECV con base en los flujos de efectivo o en especie percibidos con
+           regularidad por los hogares, se encontró que el 28% de los hogares ecuatorianos tiene
+           ingresos inferiores o iguales a un Salario Básico Unificado (SBU), el 52,4% están entre 1 y 6
+           SBU y el 19,2% restante percibe más de 6 SBU. El ingreso promedio de los hogares del rango
+           superior (ingresos superiores a 8 SBU) es aproximadamente 23 veces el promedio de los
+           hogares más pobres1.
+
+
+          Ilustración 14. Ingreso promedio del hogar y hogares por niveles de ingreso, 2014
+
+
+
+
+              Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+
+      1
+       Se tomó como referencia para la realización de la estimación presentada en la ilustración 13 el SBU de
+      2014, equivalente a USD $ 340.
+
+                                                                                                           14
+3.8      Los hogares ecuatorianos que habitan en áreas urbanas, en promedio, tienen un ingreso
+         superior a los hogares rurales 57% más alto. En términos de la distribución de la población
+         según su nivel de ingresos, el 41% de los hogares rurales se encontró en el rango de 0 a 1 SBU
+         y sólo el 5% devenga más de 8 SBU al mes, mientras que, en el caso de los hogares urbanos,
+         este porcentaje asciende al 13%.
+
+
+Ilustración 15. Ingreso promedio de los hogares urbanos, 2014 Ilustración 16. Ingreso prom. de los hogares rurales, 2014
+
+
+
+
+         Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+3.9      Es de destacar que el 40% de los hogares urbanos se concentran en niveles de ingreso
+         menores a 2 SBU, y en el caso de los hogares rurales, el 41% de la población percibe ingresos
+         mensuales inferiores a 1 SBU y que el 25,5% de estos se encuentran en un rango de ingresos
+         entre 0 y 0,5 SBU, con un ingreso mensual promedio de $ 75 dólares al mes, circunstancia
+         que a priori dificulta la asequibilidad de vivienda formal, o el mejoramiento de las
+         condiciones habitacionales por parte de estos hogares.
+
+
+
+
+                                                                                                                   15
+4      Estructura de la tenencia de la vivienda y condiciones
+       habitacionales de la población
+
+
+4.1      De acuerdo con información procesada de la Encuesta de Condiciones de Vida de 2014, el
+         68,9% de los hogares en Ecuador habita en áreas urbanas, mientras que el 31,1% lo hace en
+         zonas rurales. En lo referente a la forma de tenencia de vivienda, los hogares rurales son en
+         su mayoría propietarios (74,4%), cifra que contrasta con el 58,3% de hogares propietarios de
+         vivienda en áreas urbanas. En relación a la tenencia de vivienda en alquiler, la diferencia en
+         términos porcentuales entre el campo y la ciudad es aún más amplia; mientras el 5,1% de los
+         hogares rurales vive en arrendamiento, el porcentaje aumenta 20 puntos porcentuales en
+         áreas urbanas.
+
+                        Ilustración 17. Tenencia de vivienda en Ecuador, 2014
+
+
+
+
+Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+4.2      Con la dinámica sociodemográfica presentada en el capítulo anterior, se hace evidente la
+         búsqueda de nuevas formas de tenencia de los hogares que llegan a las ciudades grandes e
+         intermedias del país. Al comparar los resultados de la ECV 2014 con los del Censo de
+         Población y Vivienda de 2010, se estima un aumento de 3 puntos porcentuales en el total de
+         hogares con vivienda propia y totalmente pagada, al pasar del 57,4% al 60%.
+
+4.3      Adicionalmente, al tomar en consideración la distribución de ingresos en la población
+         ecuatoriana, es probable que la alta tasa de hogares propietarios de vivienda traiga consigo
+         deficiencias en la calidad de las viviendas, de igual manera, la distribución de la tenencia
+         sugiere que hay espacio para el crecimiento y la promoción de vivienda en alquiler en los
+         próximos años.
+
+4.4      La dinámica poblacional sugiere además que para 2020 el 64% de la población ecuatoriana
+         habitará en zonas urbanas, la presión demográfica ejercida sobre las ciudades grandes e
+
+                                                                                                 16
+      intermedias representa un reto en términos de política pública en desarrollo urbano,
+      particularmente en el sector de vivienda. La acelerada urbanización puede ser un factor que
+      afecte de manera directa la calidad de las viviendas y de las ciudades, y la seguridad de la
+      tenencia de vivienda por parte de los hogares. De acuerdo con cifras oficiales del Ministerio
+      de Desarrollo Urbano y Vivienda - MIDUVI (2015), en el año 2010 había en Ecuador 2’861.550
+      hogares viviendo en asentamientos informales, de los cuales cerca de 2 millones se
+      encontraban en zonas urbanas amenazadas.
+
+4.5   Como se resalta en el informe, el alto costo del suelo urbanizable y los costos de transacción
+      asociados a los procesos de legalización son factores a priorizar para mitigar el fenómeno.
+      Los asentamientos informales traen consigo problemas relacionados con la seguridad en la
+      tenencia de la tierra, el aislamiento de comunidades vulnerables al acceso a bienes y
+      servicios públicos, condiciones precarias de salud, sanitarias, seguridad y degradación
+      medioambiental.
+
+4.6   En lo referente al déficit de vivienda, el estudio sobre los mercados de vivienda en América
+      Latina “Un Espacio para el Desarrollo: los mercados de vivienda en América Latina y el
+      Caribe”, elaborado por el Banco Interamericano de Desarrollo (BID), muestra que el déficit
+      habitacional en la región ascendió al 37% de los hogares en 2009. De este porcentaje, el 6%
+      de los hogares se ven afectados por déficit cuantitativo.
+
+4.7   En el caso del Ecuador, el informe señala que el déficit habitacional afectó a la mitad de los
+      hogares del país (41% en áreas urbanas y 66% en áreas rurales). Al analizar en detalle el tipo
+      de déficit en áreas urbanas, se muestra que el 10% (244.251 hogares en 2010) se ven
+      afectados por el déficit cuantitativo mientras que el 31% (757.178 hogares en 2010) sufre
+      condiciones de déficit cualitativo. Adicionalmente, el documento resalta que en la medida en
+      que el ingreso de los hogares aumenta, las condiciones de déficit disminuyen, de forma tal
+      que, en el quintil de ingresos más pobres, 6 de cada 10 hogares conviven con alguna
+      condición de déficit de vivienda, mientras que en el quintil más rico de la población esta
+      relación disminuye a menos de 2 de cada 10 hogares (Bouillon, 2012).
+
+4.8   El MIDUVI (2015) ha identificado los cantones de la costa pacífica, especialmente Santa Elena
+      y la provincia de Manabí como las zonas del país que más concentran hogares con
+      condiciones de déficit cuantitativo, con el 29,5% y el 21,7% respectivamente.
+
+
+
+
+                                                                                              17
+       Ilustración 18. Déficit habitacional a nivel urbano, rural y por nivel de ingreso, 2009
+
+
+
+
+         Fuente: (Bouillon, 2012). Un Espacio para el Desarrollo: los mercados de vivienda en América Latina y el Caribe.
+
+
+
+4.9      En lo referente al acceso a servicios públicos, al analizar la información de la Encuesta de
+         Condiciones de Vida de 2014, se encuentra que el 78% de los hogares tiene acceso a la red
+         pública de acueducto, (92,5% en áreas urbanas y 46% en zonas rurales). Por otra parte, el
+         83% de los hogares tiene acceso al servicio municipal de eliminación de basura, sin embargo,
+         se hace evidente como en el caso anterior la brecha entre quienes habitan en áreas urbanas,
+         dónde este porcentaje asciende al 98,4% y quieres viven en zonas rurales, dónde sólo la
+         mitad de los hogares cuentan con el servicio.
+
+4.10     En cuanto a la distribución geográfica del acceso a la red pública de agua, las provincias del
+         nororiente del país son las que presentan más déficit, en Sucumbíos, en la frontera con
+         Colombia sólo el 44% de los hogares cuentan con el servicio. Por otro lado, la provincia con
+         menor penetración del servicio de recolección de basuras es Chimborazo, en el centro del
+         país, dónde el porcentaje de hogares que cuentan con servicios municipales de recolección
+         de basura es del 46%. La distribución geográfica del acceso a las redes de acueducto y los
+         servicios de recolección de basuras es presentada en las ilustraciones 19 y 20.
+
+
+
+
+                                                                                                                     18
+          Ilustración 19. Acceso a red pública de agua según provincias, 2014
+
+
+
+
+   Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+Ilustración 20. Acceso a red pública de recolección de basuras según provincias, 2014
+
+
+
+
+   Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+
+                                                                                   19
+5        Gasto de los hogares en vivienda, estructura de la oferta y
+         balance de mercado
+
+A.         Gasto de los hogares en vivienda
+
+5.1        Una vez analizado el comportamiento de la demanda demográfica del país, en esta sección
+           del documento se presenta una aproximación al gasto en vivienda que hacen los hogares
+           ecuatorianos que pagan cuota de amortización o arrendamiento. De esta forma, se ha
+           calculado para cada tipo, la proporción del gasto en vivienda como proporción de los
+           ingresos, con base en la ECV 2014. En primer lugar, se encuentra que el ingreso promedio de
+           los hogares arrendatarios (USD $ 1.339) es inferior al de los hogares propietario que aún
+           están pagando su vivienda (USD $ 2.197), asimismo, el valor promedio de las cuotas de
+           amortización pagadas por los hogares ecuatorianos (USD $ 299) es alrededor de 1,9 veces el
+           valor pagado promedio por concepto de canon de arrendamiento (USD $ 121) (Ver Tabla 1 y
+           Tabla 2).
+
+
+                      Tabla 1. Gasto en pago de arrendamiento según ingresos, 2014
+
+                                                 Canon de                    Cantidad de                 Gasto total en
+        Salario Básico Unificado   Ingreso                      % Ingreso                  % Hogares
+                                              arrendamiento                    Hogares                 alquiler (dólares)
+              0 - 0.5 SBU               117              51         43,5%         35.778          4%         21.769.407
+              0.5 - 1 SBU               273              78         28,6%         84.790         10%         79.563.605
+               1 - 2 SBU                496             100         20,1%        158.018         19%        189.073.500
+               2 - 4 SBU              1.048             118         11,3%        226.193         27%        320.658.014
+               4 - 6 SBU              1.693             137           8,1%       157.988         19%        259.673.052
+               6 - 8 SBU              2.363             153           6,5%        80.698         10%        148.107.326
+                > 8 SBU               3.550             178           5,0%        87.806         11%        187.088.399
+                 Total                1.339             121        9%            831.273     100%         1.205.933.257
+
+     Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+                       Tabla 2. Gasto en pago de amortización según ingresos, 2014
+                                                                                                        Gasto total en
+                                                Tasa de                      Cantidad de
+        Salario Básico Unificado   Ingreso                      % Ingreso                  % Hogares    amortización
+                                              amortización                     Hogares
+                                                                                                          (dólares)
+              0 - 0.5 SBU               104              32         30,6%          3.729          3%          1.427.787
+              0.5 - 1 SBU               271              92         34,1%          6.656          5%          7.369.405
+               1 - 2 SBU                503             150         29,9%         15.697         11%         28.306.125
+               2 - 4 SBU              1.017             257         25,3%         24.844         17%         76.741.462
+               4 - 6 SBU              1.707             286         16,8%         18.986         13%         65.181.092
+               6 - 8 SBU              2.401             320         13,3%         27.324         19%        104.771.931
+                > 8 SBU               3.789             408         10,8%         50.411         34%        246.775.376
+                 Total                2.197             299       14%            147.647     100%           530.573.201
+
+      Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+
+5.2        En términos generales, aquellos hogares que pagan por su vivienda, en arrendamiento o en
+           cuota de amortización, tienen, en promedio, un nivel de ingresos más alto que aquellos que
+
+                                                                                                                      20
+           no lo hacen. Los hogares propietarios de vivienda totalmente pagada que se encuentran en
+           el segmento más pobre de la población, pueden verse a su vez afectados por condiciones de
+           déficit cualitativo, como se ha analizado previamente en otros apartes de este documento.
+
+5.3        En particular, los hogares urbanos cuentan con mejores condiciones de acceso a vivienda,
+           tanto en el mercado de alquiler como para adquisición. En ambos casos, el pago mensual por
+           concepto de cuotas de amortización supera el 30% del ingreso total de los hogares más
+           pobres (aquellos con ingresos mensuales inferiores a 1 SBU) y en el caso de los hogares cuyos
+           ingresos oscilan entre 1 y 2 SBU al mes, la diferencia en el porcentaje del ingreso asignado a
+           cuotas de amortización es cerca de 3% menor en los hogares urbanos. Igualmente, se debe
+           tener en cuenta que el 16% de los hogares que acceden a la financiación de vivienda,
+           perciben ingresos inferiores a 2 SBU.
+
+
+           Tabla 3. Gasto en pago de amortización según ingresos hogares urbanos, 2014
+
+                                                                                                      Gasto total en
+                                               Tasa de                      Cantidad de
+  Salario Básico Unificado       Ingreso                        % Ingreso                 % Hogares   amortización
+                                             amortización                     Hogares
+                                                                                                        (dólares)       Hasta 2 SBU
+           0 - 0.5 SBU                 98                33         33,9%         3.196          3%         1.273.530   tiene el 16%
+                                                                                                                        los hogares
+           0.5 - 1 SBU                281                93         33,1%         4.506          4%         5.039.837   financiación
+            1 - 2 SBU                 511               149         29,1%        11.533          9%        20.583.398   vivienda
+            2 - 4 SBU               1.025               266         25,9%        18.166         15%        57.979.366
+            4 - 6 SBU               1.698               294         17,3%        15.312         12%        54.074.018
+            6 - 8 SBU               2.407               318         13,2%        25.472         20%        97.286.166
+             > 8 SBU                3.800               415         10,9%        46.273         37%       230.173.495
+              Total                 2.324               312       13%           124.458     100%          466.409.804
+      Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+5.4        En las ciudades ecuatorianas, aquellos hogares que pagan canon de arrendamiento dedican,
+           en promedio, una menor proporción de sus ingresos para el efecto, con respecto a aquellos
+           que pagan cuota de amortización para el pago de su vivienda. La distribución del crédito
+           hipotecario favorece significativamente a los hogares de ingresos altos.
+
+
+
+            Tabla 4. Gasto en pago de amortización según ingresos hogares rurales, 2014
+                                                                                                      Gasto total en
+                                               Tasa de                      Cantidad de
+  Salario Básico Unificado       Ingreso                        % Ingreso                 % Hogares   amortización
+                                             amortización                     Hogares
+                                                                                                        (dólares)
+           0 - 0.5 SBU                144               24          16,7%           533          2%           153.641
+           0.5 - 1 SBU                249               90          36,2%         2.160          9%         2.340.005
+            1 - 2 SBU                 480              155          32,2%         4.179         18%         7.751.930
+            2 - 4 SBU                 996              234          23,5%         6.702         29%        18.821.947
+            4 - 6 SBU               1.744              252          14,4%         3.681         16%        11.115.024
+            6 - 8 SBU               2.318              337          14,5%         1.830          8%         7.406.443
+             > 8 SBU                3.660              333           9,1%         4.104         18%        16.405.899
+              Total                 1.508              230        15%            23.189     100%           63.994.889
+
+  Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+                                                                                                               21
+5.5        En lo referente al mercado de arrendamiento, hay mayor penetración de la tenencia de
+           vivienda en alquiler en áreas urbanas que en zonas rurales. En este caso, el monto del canon
+           de arrendamiento promedio pagado por cada segmento de ingreso es mayor en las ciudades,
+           siendo en promedio casi el doble que en el campo. De otro lado, se encuentra que los
+           hogares con menos de 2 SBU y que viven en alquiler, representan el 33% del total.
+
+
+          Tabla 5. Gasto en pago de arrendamiento según ingresos hogares urbanos, 2014
+                                                                                                        Gasto total en
+        Salario Básico                         Canon de                     Cantidad de
+                              Ingreso                           % Ingreso                   % Hogares       alquiler
+          Unificado                         arrendamiento                     Hogares
+                                                                                                           (dólares)
+                                                                                                                          Hasta 2 SBU
+         0 - 0.5 SBU                120                 54          45,1%         28.557           4%        18.559.101   está el 33%
+         0.5 - 1 SBU                274                 81          29,6%         76.656          10%        74.590.000   los hogares
+          1 - 2 SBU                 499                104          20,9%        142.011          19%      138.183.603    arrendatari
+          2 - 4 SBU               1.048                122          11,6%        209.392          27%      262.403.747
+          4 - 6 SBU               1.696                141           8,3%        148.334          19%      216.554.763
+          6 - 8 SBU               2.363                156           6,6%         76.392          10%      129.078.358
+           > 8 SBU                3.558                185           5,2%         81.166          11%      152.152.935
+            Total                 1.358                126         9%            762.507      100%       1.150.709.836
+
+       Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+           Tabla 6. Gasto en pago de arrendamiento según ingresos hogares rurales, 2014
+                                                                                                       Gasto total en
+                                                   Canon de                    Cantidad de
+  Salario Básico Unificado        Ingreso                          % Ingreso               % Hogares      alquiler
+                                                arrendamiento                    Hogares
+                                                                                                         (dólares)
+            0 - 0.5 SBU                   103                37        35,8%     7.330,92          11%      3.246.567
+            0.5 - 1 SBU                   269                50        18,7%     8.163,36          12%      4.932.283
+             1 - 2 SBU                    472                57        12,1%    16.083,17          23%    10.992.943
+             2 - 4 SBU                  1.051                73         6,9%    16.752,44          24%    14.667.487
+             4 - 6 SBU                  1.637                76         4,6%     9.566,37          14%      8.714.053
+             6 - 8 SBU                  2.375                93         3,9%     4.245,44           6%      4.714.853
+              > 8 SBU                   3.453                86         2,5%     6.624,29          10%      6.810.443
+               Total                    1.116                66       6%           68.766      100%       54.078.627
+
+      Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+5.6        De la información procesada, se observa que la demanda por vivienda es inelástica con
+           respecto al ingreso. Los hogares más pobres destinan más del 30% de su ingreso en gasto en
+           vivienda. El esfuerzo que realizan los hogares arrendatarios y propietarios que pagan su
+           vivienda supera el máximo recomendado de 30% en el rango más pobre, cuyos ingresos no
+           superan 0,5 SBU al mes, y llega al límite en el caso de aquellos que reciben entre 0,5 y 1 SBU.
+
+
+
+
+                                                                                                                 22
+  Ilustración 21. Gasto de vivienda en alquiler y propia con crédito según ingresos, hogares
+                                            urbanos, 2014
+
+
+
+
+       Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+5.7    En general, en Ecuador, el valor del mercado de arrendamiento urbano, se estimó en 2014 en
+       USD $ 1’151 millones. Se calcula que, sumando el valor del mercado de arrendamiento rural,
+       el valor total del mercado de arrendamiento representó el 1,18% del PIB en 2014, cifra que
+       contrasta con el valor de dicho mercado en países como Colombia, donde el valor del
+       mercado se acerca al 3% del PIB. En relación con otros países de la región y del mundo
+       desarrollado, el mercado de arrendamiento en Ecuador tiene potencial de crecimiento.
+
+         Ilustración 22. Gasto de vivienda en alquiler como porcentaje del PIB, 2015
+
+
+
+
+          Fuente: Encuestas de hogares. Cálculos Economía Urbana Ltda.
+
+
+                                                                                           23
+B.        Estructura de la oferta
+
+5.8       De acuerdo con información del último Censo, en Ecuador se contabilizaron un total de
+          4.649.330 viviendas en 2010, de las cuales 3.748.919 (80,6%) estaban ocupadas. De estas
+          últimas, 2.391.499 (63,8%) estaban ubicadas en zonas urbanas, mientras que 1.357.420
+          (36,2%) eran viviendas rurales. El total de viviendas en el país creció a una tasa anual de 3,3%
+          durante el periodo (en 2001 se contabilizaron 3.451.025), crecimiento levemente superior al
+          observado en el número de hogares durante el mismo periodo.
+
+5.9       Para tener una aproximación al mercado informal de viviendas en el país, se comparó la
+          información intercensal de oferta de vivienda con la que se obtiene de la Encuesta Anual de
+          Edificaciones. De acuerdo con la información de los censos de población y vivienda, en
+          Ecuador se construyeron 1.198.305 viviendas entre el 2001 y 2010. En contraste, con la
+          información procesada de la Encuesta Anual de Edificaciones sobre la construcción de
+          viviendas nuevas, se estima que la oferta de vivienda formal durante el mismo periodo
+          ascendió a 415.196 unidades, con lo que se infiere que la oferta formal de vivienda entre
+          2001 y 2010 en Ecuador fue tan sólo del 35%, y que el excedente corresponde al mercado
+          informal.
+
+
+
+       Ilustración 23. Viviendas totales adicionales y oferta de vivienda formal, 2001 - 2010.
+
+
+
+
+             Fuente: Censo y Encuesta Anual de Edificaciones (2001 – 2010) - INEC. Cálculos Economía Urbana Ltda.
+
+
+
+5.10      La dinámica de la oferta de vivienda ha presentado una tendencia decreciente desde 2011,
+          cuando el número de permisos para viviendas nuevas construidas llegó a 38.517 unidades,
+          frente a los 25.701 permisos para viviendas nuevas registrados en 2016; comportamiento
+          que coincide con los periodos de auge y recesión del sector presentados en la segunda
+          sección de este documento. El aumento de 9,6% en el número de permisos de construcción
+          para vivienda entre 2010 y 2011, coincide con el crecimiento del PIB sectorial de 17,6% el
+          mismo año. De igual forma, en 2014, con la contracción del sector, se presentó el número
+          más bajo de permisos otorgados para la construcción de vivienda.
+
+
+
+                                                                                                                    24
+       Ilustración 24. Proxi Oferta – Permisos de construcción de vivienda, 2006 – 2016
+
+
+
+
+       Fuente: Encuesta Anual de Edificaciones. Cálculos Economía Urbana Ltda.
+
+5.11   La encuesta permite además tener una aproximación a las viviendas que se proyecta
+       construir en el país cada año. Tomando como referencia este indicador, se encuentra una
+       producción anual promedio entre 2006 y 2016 de 66.485 viviendas (promedio superior al
+       observado en el período 2001-2005, de 30 mil unidades), siendo el año de mejor
+       comportamiento el 2012 (106.226 viviendas nuevas según la estimación del INEC). Entre
+       2014 y 2016 la producción anual de vivienda ha caído frente al máximo observado, como
+       respuesta a la desaceleración económica del sector, que como veremos en la siguiente
+       sección, puede estar asociada a una disminución de los recursos de vivienda del Gobierno
+       Nacional y a una contracción del crédito hipotecario.
+
+
+               Ilustración 25. Proxi Oferta – Viviendas proyectadas, 2006 – 2016
+
+
+
+
+       Fuente: Encuesta Anual de Edificaciones. Cálculos Economía Urbana Ltda.
+
+
+
+                                                                                          25
+5.12     De otra parte, con el fin de evaluar el tipo de vivienda ofrecida en el mercado, se construyó la
+         relación entre las viviendas proyectadas para cada año y los permisos aprobados durante el
+         año inmediatamente anterior a dicha proyección. Así, se encontró que en 2010 se
+         construyeron 2 viviendas nuevas por cada permiso de construcción, mientras que en 2015, se
+         ofertaron 3 viviendas por permiso, lo que permite inferir que cada vez se construye con
+         mayor densidad o una mayor cantidad de viviendas multifamiliares (Ilustración 26).
+
+5.13     Un análisis adicional, se relaciona con las viviendas proyectadas por cada 1.000 habitantes
+         (Ilustración 29). Al tomar como base esta variable, se encuentra una disminución sustancial
+         en los últimos años al pasar de una tasa de construcción de vivienda de 6,8 viviendas por
+         cada 1000 habitantes en 2012 a una tasa de 3,55 en 2016. Este indicador solo alcanzó un
+         nivel óptimo entre 2012 y 2013, puesto que se considera que éste debe oscilar entre 5 y 8
+         viviendas por cada 1.000 habitantes.
+
+
+   Ilustración 26. Viviendas* (t) VS. Permisos const. (t-1), 2010-2016   Ilustración 27. Viviendas* por cada 1.000 habitantes
+
+
+
+
+* Viviendas proyectadas
+Fuente: INEC. Encuesta Anual de Edificaciones. Cálculos Economía Urbana Ltda.
+
+
+5.14     Al ampliar el análisis a nivel provincial, se encuentra una dinámica en la construcción superior
+         al promedio nacional con respecto al número de habitantes en provincias como Tungurahua,
+         Imbabura y Guayas, dinámica que contrasta con la de la provincia de Pichincha, que pese a
+         albergar cerca del 18% de la población, representó tan solo el 12,5% de las viviendas
+         proyectadas.
+
+
+
+
+                                                                                                                      26
+     Ilustración 28. Viviendas nuevas proyectadas por cada 1.000 habitantes, 2014 - 2016.
+
+
+
+
+Fuente: Encuesta Anual de Edificaciones. Cálculos Economía Urbana Ltda.
+
+     Ilustración 29. Relación entre viviendas nuevas proyectadas y población, 2014 - 2016.
+
+
+
+
+                      Fuente: Encuesta Anual de Edificaciones 2016. Cálculos Economía Urbana Ltda.
+
+
+
+C.       Balance de mercado
+
+5.15     El desbalance de mercado en términos de cantidades de vivienda que sugiere la información
+         procesada y que se presenta en la ilustración 30, se debe estar ajustando en el mercado
+         informal de vivienda. La informalidad en la construcción de vivienda puede además tener
+         incidencia sobre la calidad de las mismas, lo que podría implicar déficit cualitativo asociado a
+         la seguridad en la tenencia, la idoneidad de los materiales utilizados en la construcción y la
+
+                                                                                                     27
+         conexión a redes de servicios públicos, especialmente cuando se trata de zonas urbanas
+         marginales o rurales dispersas, problemática que incide directamente sobre el segmento más
+         pobre de la población. Un efecto adicional del desbalance del mercado es el aumento de la
+         cohabitación, lo que a su vez implica un aumento del déficit cuantitativo.
+
+
+       Ilustración 30. Formación anual de hogares y oferta formal de vivienda, 2010 - 2016.
+
+
+
+
+                    Fuente: INEC. Cálculos Economía Urbana Ltda.
+
+
+
+5.16     Al estudiar el desbalance del mercado por rangos de ingreso de los hogares, se encuentra
+         que, en los rangos de ingresos inferiores a 4 SBU, el 62% de la demanda tiene posibilidad de
+         acceder al 31% de la oferta de vivienda que recibió financiación de vivienda, mientras que el
+         38% de la demanda que contempla la fracción de hogares con ingresos más altos accede al
+         69% de la oferta de vivienda, sugiriendo un déficit en términos de precios e ingresos de las
+         unidades habitacionales financiadas en el mercado.
+
+
+
+
+                                                                                                28
+          Ilustración 31. Demanda y oferta de vivienda por niveles de ingreso, 2016
+
+
+
+
+       Fuente: INEC. Cálculos Economía Urbana Ltda.
+
+
+
+5.17   Al analizar la oferta total de vivienda de 2016, por rangos de precios, se observa que el
+       desajuste de mercado es menor que en el caso de la vivienda que obtiene financiación. El
+       53% de la oferta en 2016 se ubicó en el rango de precios de viviendas de carácter social
+       (hasta USD $ 40.000) y un 21% adicional completa el rango de viviendas de interés público
+       (hasta USD $ 70.000). Sin embargo, de la información procesada se infiere que cerca del 76%
+       de la oferta está en un rango de precios al cual no puede acceder cerca del 40% de los
+       hogares de Ecuador (ver tabla 7).
+
+
+           Tabla 7. Estructura de la oferta de vivienda por rangos de precios, 2016
+
+              Rango de precios                                  Número de                %
+                               Valor promedio
+                    USD                                          viviendas           viviendas
+                 < $ 20.000      $                12.780                 13.858            24%
+             $ 20.000 - $ 40.000 $                30.777                 17.309            29%
+             $ 40.000 - $ 70.000 $                52.910                 12.518            21%
+                 > $ 70.000      $               110.308                 14.990            26%
+             Total               $                51.567                 58.675           100%
+          Fuente: Encuesta Anual de Edificaciones 2016. Cálculos Economía Urbana Ltda.
+
+
+
+
+                                                                                                 29
+6     Subsidios e instrumentos de financiación de vivienda
+
+
+A. Subsidios
+
+
+6.1     Entre el 2013 y el 2016 el Gobierno Nacional destinó USD $ 513 millones para el sector
+        vivienda, financiando un total de 77 mil unidades habitacionales. En estas viviendas se
+        incluyen 34 mil unidades financiadas para los damnificados del terremoto de abril de 2016
+        (USD $ 221 millones) y cerca de mil beneficiarios del programa de titulación, lo que nos
+        arroja un subtotal de 42 mil unidades asociadas a los programas tradicionales de vivienda,
+        para un promedio anual de tan sólo 10,605 viviendas financiadas por parte del Gobierno
+        Nacional en este periodo.
+
+6.2     Como se observa en la tabla 8, el gasto en vivienda ha presentado en los últimos años una
+        alta varianza, de forma tal que con respecto al PIB su participación ha oscilado entre el 0.04%
+        en 2015 al 0.24% en 2016, para un promedio en el período de estudio de 0.13%.
+
+
+                  Tabla 8. Presupuesto y número de soluciones del Gobierno Nacional
+
+Concepto                              2013        2014       2015        2016 Total 2013 - 2016
+Presupuesto vivienda          137.698.429 103.670.528 39.610.782 232.331.556      513.311.296
+Número de soluciones               19.433      16.382      6.771      35.064            77.650
+Valor promedio solución             7.086       6.328      5.850       6.626             6.611
+Fuente: MIDUVI.
+
+           Ilustración 32. Presupuesto vivienda como porcentaje del PIB, 2013 - 2016
+
+
+
+
+            Fuente: MIDUVI.
+
+
+
+
+                                                                                                 30
+6.3   Al comparar estos datos con otros países de la región, se observa que el Gobierno de Ecuador
+      tiene espacio importante para incrementar su presupuesto en vivienda, pues su gasto dista
+      bastante del observado en Chile y Colombia, y es ligeramente inferior al gasto que realiza un
+      país como Honduras el cual está procurando incrementar sus niveles de gasto en el sector.
+      De igualar el máximo asignado en un país como Colombia, el presupuesto de Ecuador en
+      vivienda podría ascender a USD $ 450 millones anuales.
+
+
+       Ilustración 33. Gasto en vivienda con respecto al PIB – países seleccionados
+
+
+
+
+         Fuente: Ministerios de cada país (circa 2015). Cálculos Economía Urbana Ltda.
+
+
+
+
+B. Financiación de Vivienda
+
+
+6.4   En términos de financiación de vivienda se observa un sector que ha sido dominado desde el
+      2010 por el sector público desplazando de la actividad al sector privado, quienes se han
+      concentrado en financiar viviendas para hogares de ingresos medios y altos. En efecto, la
+      principal entidad promotora de crédito para vivienda en Ecuador es el Banco del Instituto
+      Ecuatoriano de Seguridad Social (BIESS), entidad estatal que inició operaciones en 2010.
+      Según los reportes de la entidad, mientras desde el inicio de operaciones y hasta el 2014 se
+      presentó un crecimiento constante en su nivel de desembolsos, entre el 2015 y 2016 se
+      presentó una caída considerable llegando a 17 mil operaciones de créditos, lo que representó
+      una disminución de 28,2% con respecto al máximo observado en 2014 (ver ilustración 34).
+
+
+
+
+                                                                                             31
+       Ilustración 34. Créditos hipotecarios BIESS e instituciones privadas, 2011-2016
+
+
+
+
+          Fuente: Reporte Estadístico Banco del IESS (circa 2016) y ASOBANCA. Cálculos Economía Urbana Ltda.
+
+
+
+6.5    En cuanto a las instituciones privadas agremiadas en ASOBANCA, se observa que han perdido
+       participación desde el 2011. En efecto, los desembolsos de crédito hipotecario pasaron de
+       representar el 46% de las operaciones totales en 2011, a representar tan sólo el 32% de los
+       créditos en 2016, desembolsando tan sólo 8.201 créditos hipotecarios dirigidos
+       fundamentalmente a hogares de ingresos altos (ver ilustración 34). En resumen, el total de
+       créditos hipotecarios otorgados ha presentado una variación anual de -6.2%, en el período
+       de análisis, alcanzando un mínimo en 2016. Esta tendencia se refleja en que los créditos por
+       cada 1.000 habitantes, pasaron de 2.31 créditos en 2011 a 1.55 en 2016.
+
+  Ilustración 35. Total créditos hipotecarios, 2011-2016       Ilustración 36. Créditos por cada 1.000 habitantes
+
+
+
+
+       Fuente: Reporte Estadístico Banco del IESS (circa 2016) y ASOBANCA. Cálculos Economía Urbana Ltda.
+
+
+
+
+                                                                                                               32
+6.6    Con relación al valor de las operaciones de crédito de vivienda, al cierre de 2016 el monto
+       total de los créditos hipotecarios desembolsados ascendió a USD $ 1.363 millones,
+       presentando una reducción de USD $ 175,7 millones con respecto a lo desembolsado en
+       2015. Si bien el número de operaciones ha disminuido en los últimos 6 años, el valor total de
+       las mismas aumentó levemente en dicho período, llevando a que el valor promedio del
+       crédito hipotecario se haya multiplicado por 1,6 en el período de análisis. Lo anterior supone
+       que cada vez el sector financiero financia menos vivienda social o de bajo precio,
+       concentrándose en la atención a las familias de ingresos altos, fenómeno que se presenta en
+       mayor medida en el crédito privado, que se multiplicó por 2,1, mientras el crédito público lo
+       hizo en 1,4.
+
+      Ilustración 37. Valor créditos hipotecarios, 2011-2016   Ilustración 38. Valor promedio créditos desembolsados
+
+
+
+
+       Fuente: Reporte Estadístico Banco del IESS (circa 2016) y ASOBANCA. Cálculos Economía Urbana Ltda.
+
+
+
+6.7    De otra parte, el porcentaje de la cartera hipotecaria con respecto al PIB, como indicador de
+       profundización financiera ha presentado una tendencia creciente. En 2016, la cartera en
+       vivienda, de acuerdo con cifras de los bancos afiliados a ASOBANCA, tuvo el mismo peso
+       sobre el PIB que registró en 2008. Durante el periodo, este indicador registró su nivel más
+       bajo en 2013, año en que sólo alcanzó el 1,8%. Desde entonces, se ha presentado una
+       tendencia creciente, con un aumento de 0,6 puntos porcentuales durante los últimos cuatro
+       años.
+
+
+
+
+                                                                                                             33
+      Ilustración 39. Cartera hipotecaria ASOBANCA como porcentaje del PIB, 2008-2016
+
+
+
+
+                   Fuente: ASOBANCA. Cálculos Economía Urbana Ltda.
+
+
+
+6.8     En relación a la cartera bruta total, la cartera hipotecaria presentó una tendencia decreciente
+        entre 2008 y 2014, mostrando una recuperación en los últimos años. Entre 2014 y 2016 el
+        peso de la cartera de vivienda sobre la cartera total aumentó cerca de dos puntos
+        porcentuales. Cabe anotar que si bien en 2016 (10%) no se alcanza aún el porcentaje
+        registrado en 2008 (13,8%), el monto total de la cartera, tanto bruta como de vivienda ha
+        venido creciendo en el tiempo, como señal de la mayor penetración del mercado financiero
+        en los hogares ecuatorianos.
+
+
+        Ilustración 40. Cartera hipotecaria ASOBANCA sobre cartera total, 2008-2016
+
+
+
+
+                   Fuente: ASOBANCA. Cálculos Economía Urbana Ltda.
+
+
+
+6.9     Finalmente, la tasa de interés para crédito inmobiliario a diciembre de 2017 según el Banco
+        Central del Ecuador (Tasa efectiva referencial) fue de 10,52% anual, y la tasa de interés de
+        referencia para Vivienda de Interés Público, de 4,98%. Por su parte, el BIESS tiene una tasa
+        preferencial del 6% para primera vivienda exclusiva para Viviendas de Interés Público. En los
+        últimos años, la tasa de interés de crédito hipotecario se ha mantenido relativamente estable
+        y ligeramente inferior al máximo permitido por la normatividad del sector.
+
+                                                                                                 34
+6.10   En términos generales se observa que entre 2016 y 2017 la tasa de interés del sector vivienda
+       ha presentado una tendencia decreciente, aunque sin variaciones pronunciadas. La tasa de
+       interés promedio para el sector en 2016 fue de 10,87%, mientras que en 2017 fue de 10,63%,
+       equivalente a una reducción promedio entre los dos años de 0,23 puntos porcentuales. Dicho
+       comportamiento ha significado unas mejores condiciones económicas del mercado de
+       vivienda en el país, pero no suficientes para atender al 40% de los hogares que tienes
+       ingresos inferiores a 2 SBU.
+
+
+
+                  Ilustración 41. Tasa de interés sector inmobiliario, 2016-2017
+
+
+
+
+       Fuente: Banco Central del Ecuador. Cálculos Economía Urbana Ltda.
+
+
+
+6.11   Finalmente, al indagar por los mecanismos de financiación que utilizan los hogares para el
+       mejoramiento o la adquisición de vivienda, utilizado datos de la ECV 2013 – 2014, se hace
+       evidente la preferencia por el ahorro o mecanismos de financiación no convencionales. Sólo
+       el 4,6% del total manifestó utilizar recursos provenientes de instituciones públicas y el 10,3%,
+       recursos de instituciones privadas, mientras que el 77,5% manifestó utilizar recursos propios.
+
+
+
+
+                                                                                                 35
+  Ilustración 42. Financiación de vivienda de los hogares ecuatorianos, 2014
+
+
+
+
+Fuente: ECV 2013 – 2014. Cálculos Economía Urbana Ltda.
+
+
+
+
+                                                                               36
+7     Lineamientos y recomendaciones para la formulación de una
+      política de vivienda integral
+
+
+7.1    El diagnóstico elaborado sobre el sector vivienda en el Ecuador, encuentra un desbalance
+       significativo en el mercado habitacional del país, que se caracteriza por una creciente
+       formación de hogares, alrededor de 105.000 hogares año entre 2010 y 2016, no satisfecha
+       por el sector constructor de vivienda, el cual, en promedio, habilitó entre 60 mil a 76 mil
+       unidades año para el mismo período. Así mismo, los bajos niveles de oferta también
+       presentan un enorme desbalance con respecto a las viviendas adquiridas con crédito
+       hipotecario o con subsidios del Gobierno, situación de la que se infiera una enorme dificultad
+       de las familias ecuatorianas para adquirir una vivienda formal (ver ilustración 43).
+
+
+              Ilustración 43. Síntesis del sector vivienda en Ecuador, 2010-2016
+
+
+
+
+       Fuente: INEC – BIESS – ASOBANCA
+
+
+
+7.2    Este desequilibrio del mercado, que seguramente se está ajustando con la conformación de
+       asentamientos informales, refleja la necesidad de formular una nueva política de vivienda
+       integral, con elementos de oferta y demanda, que permita incrementar la escala de
+       producción de vivienda del país con la implementación de programas de financiación de
+       vivienda que se ajusten a las características de cada segmento de la población (ver ilustración
+       44).
+
+7.3    La nueva política de vivienda, además de adelantar una reingeniería al sistema de subsidios
+       del país en función de los niveles de ingreso de los hogares y de acuerdo con su ubicación
+       rural o urbana, debe estimular la producción de vivienda, con énfasis en las provincias con
+       menor tasa de producción de unidades, a través de una gestión directa del Gobierno
+       Nacional con otros niveles de Gobierno para generar el suelo urbanizable que permita
+       cumplir con las ambiciosas metas que se ha propuesto el programa “Casa para Todos”.
+
+
+
+
+                                                                                                37
+            Ilustración 44. Propuesta de estructura de la política de vivienda integral
+
+
+
+
+A. Bases para la reingeniería al sistema de subsidios del Ecuador
+
+
+7.4      El programa de subsidios de vivienda de Ecuador podría ser reformulado definiendo una
+         distribución de recursos en función de segmentos diferenciados de la población. En concepto
+         de esta consultoría deberían ser subsidiables los hogares no propietarios de vivienda (de
+         vivienda formal), que no hayan sido beneficiarios en el pasado de ayudas de vivienda del
+         Gobierno Nacional y que tengan ingresos inferiores a 6 SBU. De tal forma, se podrían
+         conformar 4 segmentos de hogares sobre los cuales deberíamos ofrecer un programa
+         específico de subsidios combinando subsidios de cuota inicial con subsidios de tasa de
+         interés, tal y como se presenta en la tabla 9.
+
+
+      Tabla 9. Distribución de la inversión en vivienda en función del ingreso de los hogares
+
+
+
+
+                                                                                              38
+7.5     En general, como el crédito hipotecario no es una fuente de financiación de vivienda
+        importante para la población con bajos ingresos, en parte por la concentración del 69% de la
+        oferta de crédito a los hogares de ingresos más altos (más de 4 SBU), se considera que existe
+        una oportunidad de incrementar la inversión del sector a través de instrumentos financieros
+        no tradicionales. En otras palabras, el programa de subsidios puede facilitar el acceso al
+        mercado de financiación de vivienda por medio de subvenciones a las cuotas iniciales para la
+        adquisición de vivienda y a las tasas de interés aplicables al crédito hipotecario, operaciones
+        de leasing habitacional y en contratos de arrendamiento con opción de compra (ACOC).
+
+7.6     En los dos últimos mecanismos, que estarían dirigidos a los hogares de más bajos ingresos se
+        propone el pago de un aporte mensual por parte de los hogares, que sustituye el pago de un
+        canon de arrendamiento tradicional o de una cuota de amortización, de forma tal, que en un
+        plazo de 10 a 15 años podrían realizar la opción de compra y reclamar la propiedad de la
+        vivienda.
+
+7.7     Bajo este contexto, se sugiere una primera aproximación a la siguiente estructura del sistema
+        de subsidios:
+
+7.7.1   Primer segmento - hogares con ingreso hasta 1 SBU: este segmento debe concentrar la
+        mayor parte de la demanda o de los hogares beneficiarios (30%). Siguiendo los
+        planteamientos iniciales del programa “Casa para Todos”, para este segmento de la
+        población podría formularse un contrato ACOC con amortización de capital o de leasing
+        habitacional, por un monto aproximado de US$ 5.000, programando unos pagos mensuales
+        entre USD$ 40 y USD$ 60 procurando que dicho pago no supere el 30% de su nivel de
+        ingreso. El programa necesitaría de un subsidio de cuota inicial estimado entre US$ 10 mil y
+        US$ 15 mil, lo que supondría un aumento considerable en el valor de subsidios que hoy se
+        asignan en el país.
+
+7.7.2   Segundo segmento - hogares con ingresos entre 1 y 2 SBU: este grupo poblacional
+        representa el 23% de la demanda. Se plantea subsidiar tanto la tasa de interés, entre 2.5 y
+        4.5 puntos, como la cuota inicial, con un valor de subsidio entre US$ 3.000 y US$5.000. El
+        crédito oscilaría entre US$15 mil y US$ 17 mil. Los hogares, por su parte, podrían aportar US$
+        150 mensuales sin que dicho pago supere el 30% de su nivel de ingreso.
+
+7.7.3   Tercer segmento – hogares con ingresos entre 3 y 4 SBU: el tercer segmento representa el
+        27% de la demanda y a pesar de que se aplicaría la misma estrategia que para el anterior
+        grupo, el subsidio de cuota inicial podría ser inferior en un rango de US$ 2.000 a US$ 3.000. El
+        valor del crédito se ubicaría alrededor de los US$ 30 y el aporte del hogar podría duplicarse
+        con relación al segmento anterior, siendo este de US$ 300 mensuales.
+
+7.7.4   Cuarto segmento – hogares con ingresos entre 4 y 6 SBU: el último grupo explica el 20% de
+        la demanda. Particularmente, no recibiría subsidio a la cuota inicial del crédito, el cual se
+        ubicaría en el mismo rango del anterior segmento; únicamente se subsidiará la tasa de
+        interés. El pago mensual de estos hogares podría estar alrededor de los US$ 500.
+
+
+
+
+                                                                                                  39
+B.      Elementos básicos para el fomento a la oferta
+
+7.8     En cuanto a la oferta, es decir el fomento a la construcción masiva de la vivienda formal y en
+        especial de vivienda económica, se proponen los siguientes lineamientos básicos:
+
+7.8.1   Gestión directa del suelo urbanizable y Economía de Escala. Se requiere de un trabajo
+        conjunto entre el Gobierno Nacional y las entidades territoriales, de forma tal que los dos
+        niveles de gobierno tengan responsabilidad directa en la gestión y financiación de suelo
+        urbanizado, en zonas de expansión y/o de renovación urbana, como parte de una política
+        pública especial de gestión del territorio y construcción de ciudad, que tenga el propósito de
+        soslayar obstáculos jurídicos-administrativos y financieros que con frecuencia limitan el
+        avance de los proyectos habitacionales.
+
+7.8.2   La gestión directa de suelo por parte del Gobierno Nacional debe derivar en la formulación
+        de proyectos de gran escala (mayores a 5 mil unidades de vivienda, en ciudades como Quito
+        y Guayaquil), multiestratos, multiusos y articulados con la ciudad ya construida, en los cuales
+        sea posible implementar tecnologías que permitan la construcción industrializada de vivienda
+        y que vayan dirigidos tanto a la venta como a la promoción de la vivienda en arrendamiento.
+        Por lo general estos macroproyectos requieren de la definición de un marco jurídico especial
+        de alcance regional y nacional, que facilite la toma de decisiones y la ejecución de procesos
+        en términos administrativos, financieros, de planeación y de desarrollo del territorio, por
+        parte del MIDUVI y de otras entidades del orden nacional que tienen competencias
+        complementarias a los desarrollos inmobiliarios (sector educación, transporte, salud, policía,
+        etc.).
+
+7.8.3   Articulación con recursos del sector de agua potable y saneamiento básico. Una de las
+        principales limitantes para el desarrollo de proyectos de gran escala es la provisión adecuada
+        de agua potable y de infraestructura de saneamiento básico. Por esta razón, esta consultoría
+        sugiere la articulación directa de los recursos de inversión en Agua Potable y Saneamiento
+        Básico a proyectos de vivienda ya formulados en el marco del programa “Casa para Todos”.
+
+7.8.4   Implementación de las Curadurías Urbanas. Con el objetivo de optimizar el desarrollo
+        urbanístico y la agilización del proceso de expedición de licencias urbanísticas, se propone la
+        implementación de la figura del curador urbano, bajo la supervisión del MIDUVI. En el caso
+        colombiano, el curador urbano es un agente particular que tiene una función pública
+        derivada del estudio, trámite y expedición de licencias urbanísticas, a solicitud de los
+        particulares interesados en el desarrollo de proyectos de construcción. La aprobación de las
+        licencias está ligada al cumplimiento de la “Normas de Arquitectura y Urbanismo” las cuales
+        normalmente son elaboradas por las autoridades municipales. Para el propósito, se requiere
+        el desarrollo de un marco regulatorio que defina las características y funciones de las
+        curadurías y del papel del MIDUVI como regular de la función.
+
+
+
+
+                                                                                                 40
+8      Bibliografía
+    Bouillon, C. P. (2012). Un espacio para el desarrollo: Los mercados de vivienda en América
+            Latina y el Caribe. Washington D.C.: BID.
+
+    CEPAL. (2017). Informe Ecuador. Estudios Económicos de América Latina y el Caribe.
+
+    MIDUVI. (2015). Informe Nacional del Ecuador: Tercera conferencia de las Naciones Unidas
+          sobre la Vivienda y el Desarrollo Urbano Sostenible Habitat III. Quito.
+
+
+
+
+                                                                                                 41
+
