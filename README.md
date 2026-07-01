@@ -24,6 +24,23 @@ environmental hazard in an ESRS without attaching any testing or
 removal commitment. Zero IDB or ADB projects in the scanned corpus
 mention lead paint in any language searched.
 
+**Whether that gap matters depends on domestic regulation.** A bank
+project's silence on lead paint is a bigger gap in a country with no
+legal limit on lead in paint at all than in one where a national law
+already restricts it. Joining WHO's "Legally-binding controls on lead
+paint" indicator (see "Lead-paint law status by country" below) to the
+project universe: **16 of the 67 projects ($1.17B), in seven countries
+confirmed to have no legal limit on lead paint (Belize, Bhutan, El
+Salvador, Maldives, Mongolia, Myanmar, Suriname), have zero lead-paint
+mention from the bank either** — no domestic backstop and no project-
+level safeguard. Another 9 projects ($1.72B) are in countries with no
+WHO data or are World Bank multi-country regional operations with no
+single country to look up. The remaining 42 projects ($6.19B) are in
+21 countries that do have a legal limit — including Armenia, home to
+the one project with any testing-adjacent commitment, so occupants
+there have (at least nominally) two layers of protection rather than
+zero.
+
 ## Why paint needs a different methodology than water
 
 The water-testing audits look for lead in **numeric lab-result
@@ -91,6 +108,34 @@ publishes to IATI using the standard OECD scheme):
   (tagged with a `Non_Sovereign` column) for anyone who wants to
   reproduce the unfiltered number.
 
+## Lead-paint law status by country
+
+`fetch_lead_paint_law_status.py` pulls WHO's Global Health Observatory
+indicator `LEADCONTROL` ("Legally-binding controls on lead paint",
+government submissions as of 31 March 2023) and joins it onto each
+project's country. `enrich_audit.py` writes the result as a
+`lead_paint_law_status` column (`Yes` / `No` / `No data`) in
+`portfolio_audit_with_region.csv`.
+
+**This indicator tracks legal existence, not enforcement quality.**
+WHO's data collection asks whether a country has passed a binding
+limit — it does not assess whether that limit is enforced, whether
+small-batch or informal manufacturers comply, or whether imported
+paint is tested at the border. IPEN's independent paint-testing
+surveys have repeatedly found lead paint on store shelves in countries
+that already have a law on the books. Read `Yes` as "a law exists,"
+not "consumers are protected in practice" — a genuine limitation of
+using this as the only regulatory-backstop signal, not just a
+disclaimer to skip past.
+
+`No data` covers two different situations that shouldn't be conflated:
+countries WHO's survey has no record for (Indonesia, Uzbekistan), and
+World Bank multi-country regional operations ("Eastern and Southern
+Africa", "Western and Central Africa") where there's no single country
+to look up in the first place. `enrich_audit.py`'s console output
+keeps `No`, `No data`, and `Yes` as three separate buckets for exactly
+this reason.
+
 ## Quick start
 
 ```bash
@@ -137,13 +182,15 @@ make chart && make verify
 │   ├── extract_text.py                 pdftotext wrapper (shared logic across all sibling pipelines)
 │   ├── search_pdfs_for_lead_paint.py   Multilingual keyword search + context classification
 │   ├── summarize_portfolio.py          Per-project verdict
-│   ├── enrich_audit.py                 Add world-region metadata (local lookup)
+│   ├── fetch_lead_paint_law_status.py  WHO lead-paint-law status by country
+│   ├── enrich_audit.py                 Add world-region + lead-paint-law-status metadata
 │   ├── plot_by_region.py               Render the by-region, by-institution chart
 │   └── verify_pipeline.py              Sanity-check headline numbers
 │
 └── outputs/
     ├── universe/                Project lists (WB, IDB, ADB, and merged)
     ├── search/                  Lead-paint keyword search results + classifications
+    ├── reference/               WHO lead-paint-law status by country
     └── audit/                   Per-project verdicts + region/institution chart
 ```
 
@@ -156,7 +203,7 @@ make chart && make verify
 | 3. extract-text | `extract_text.py` | Run `pdftotext -layout` on every PDF. |
 | 4. search | `search_pdfs_for_lead_paint.py` | Multilingual (EN/ES/PT/FR) keyword search for lead-paint mentions, each classified by commitment level from surrounding context. |
 | 5. audit | `summarize_portfolio.py` | Join into a per-project verdict. |
-| 6. enrich | `enrich_audit.py` | Add world-region metadata (local country lookup, no API). |
+| 6. enrich | `fetch_lead_paint_law_status.py`, `enrich_audit.py` | Add world-region metadata (local lookup) and WHO lead-paint-law status by country (one-time API pull, cached to `outputs/reference/`). |
 | 7. chart | `plot_by_region.py` | Stacked horizontal bar chart of $ commitments by region and institution, CGD brand colours. |
 
 ## Known limitations
@@ -230,13 +277,17 @@ make chart && make verify
   `https://webimages.iadb.org/iati/iadb-<Country>.xml`
 - **ADB project + document metadata:** ADB IATI activity files,
   `https://www.adb.org/iati/iati-activities-<cc>.xml`
+- **Lead-paint law status by country:** WHO Global Health Observatory,
+  indicator `LEADCONTROL`, <https://ghoapi.azureedge.net/api/LEADCONTROL>
+  (government submissions as of 31 March 2023)
 
 ## Status
 
 Full pipeline run complete across all three institutions. 67 projects
 ($9.08B, 32 countries): 14 World Bank, 26 IDB, 27 ADB (sovereign-only).
 652 documents text-extracted; multilingual search run across the full
-corpus; `make verify` passes. See the headline finding above.
+corpus; lead-paint-law status joined for all 30 single-country
+projects; `make verify` passes. See the headline finding above.
 
 ## Citation
 

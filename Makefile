@@ -29,6 +29,7 @@ IADB_DOCUMENTS  := $(OUT)/universe/iadb_housing_documents.csv
 ADB_UNIVERSE    := $(OUT)/universe/adb_housing_projects.csv
 ADB_DOCUMENTS   := $(OUT)/universe/adb_housing_documents.csv
 COMBINED        := $(OUT)/universe/combined_housing_projects.csv
+LAW_STATUS      := $(OUT)/reference/who_lead_paint_law_status.csv
 SEARCH          := $(OUT)/search/lead_paint_search.csv
 AUDIT           := $(OUT)/audit/portfolio_audit.csv
 AUDIT_REG       := $(OUT)/audit/portfolio_audit_with_region.csv
@@ -81,8 +82,11 @@ audit: $(AUDIT)
 $(AUDIT): $(COMBINED) $(SEARCH)
 	$(PY) $(SCRIPTS)/summarize_portfolio.py
 
+$(LAW_STATUS): $(COMBINED)
+	$(PY) $(SCRIPTS)/fetch_lead_paint_law_status.py
+
 enrich: $(AUDIT_REG)
-$(AUDIT_REG): $(AUDIT)
+$(AUDIT_REG): $(AUDIT) $(LAW_STATUS)
 	$(PY) $(SCRIPTS)/enrich_audit.py
 
 chart: $(CHART)
@@ -104,5 +108,6 @@ distclean: clean
 	rm -rf $(DOCS)
 	rm -f $(OUT)/search/lead_paint_search*.{csv,txt,log}
 	rm -f $(OUT)/universe/*.csv
+	rm -f $(OUT)/reference/*.csv
 	rm -rf .iati_cache .iati_cache_adb
 	@echo "Removed downloaded PDFs and all intermediates."
