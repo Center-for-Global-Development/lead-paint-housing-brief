@@ -3,15 +3,11 @@
 Code, data, and analysis behind a Center for Global Development piece
 auditing whether World Bank, Inter-American Development Bank (IDB),
 and Asian Development Bank (ADB) housing/urban-renovation projects
-commit to testing for, removing, or excluding lead-based paint.
-Companion to the drinking-water lead-testing audits —
-[lead-testing-world-bank-brief](https://github.com/Center-for-Global-Development/lead-testing-world-bank-brief)
-and [lead-testing-iadb-brief](https://github.com/Center-for-Global-Development/lead-testing-iadb-brief)
-— but **integrates all three institutions into one combined analysis**,
-since housing portfolios (unlike water-supply ones) are directly
-comparable across banks without a region-specific mandate difference.
-(African Development Bank was evaluated and excluded — see "Known
-limitations".)
+commit to testing for, removing, or excluding lead-based paint. All
+three institutions are integrated into one combined analysis, since
+housing portfolios are directly comparable across banks without a
+region-specific mandate difference. (African Development Bank was
+evaluated and excluded — see "Known limitations".)
 
 **Headline finding:** across 67 active housing/urban-renewal projects
 at the three institutions ($9.08 billion in commitments, 32 countries),
@@ -41,16 +37,14 @@ the one project with any testing-adjacent commitment, so occupants
 there have (at least nominally) two layers of protection rather than
 zero.
 
-## Why paint needs a different methodology than water
+## Methodology: classifying lead-paint commitments
 
-The water-testing audits look for lead in **numeric lab-result
-tables** (mg/L values in a water-quality parameter table). Lead paint
-doesn't show up that way — it shows up as **policy language** in
-Environmental and Social Impact Assessments (ESIAs), Environmental and
-Social Review Summaries (ESRSs), and technical specifications. So
-instead of a parameter-table extractor, this pipeline classifies each
-lead-paint mention by the commitment level implied by its surrounding
-context:
+Lead paint shows up in project documents as **policy language** —
+in Environmental and Social Impact Assessments (ESIAs), Environmental
+and Social Review Summaries (ESRSs), and technical specifications —
+rather than as numeric lab-result values. So this pipeline classifies
+each lead-paint mention by the commitment level implied by its
+surrounding context:
 
 | Verdict | Meaning |
 |---|---|
@@ -70,17 +64,17 @@ pipeline currently classifies "screened out and excluded" language as
 but it's a different (arguably stronger, since it avoids exposure
 rather than managing it) mechanism than lab-testing individual
 surfaces. Read the underlying passage before citing any
-`testing-commitment` verdict — same spot-check discipline as the water
-audits' `confirmed` verdict.
+`testing-commitment` verdict.
 
 ## Sector codes
 
 **World Bank** (own 2/3-letter scheme, verified against the API's
 sector-name facet — not guessed):
 - `YYH` = Housing Construction (modern taxonomy) — **default**
-- `YH` = Housing Construction (legacy taxonomy, much larger population,
-  same WWC-vs-WC pattern as the water pipeline). `--include-legacy`
-  widens to this.
+- `YH` = Housing Construction (legacy taxonomy — the WB ran two
+  parallel sector-code schemes for years, and `YH` covers a much
+  larger, older population of projects than `YYH` alone).
+  `--include-legacy` widens to this.
 
 **IDB** (OECD DAC 5-digit codes, verified against the IATI Sector
 codelist):
@@ -177,7 +171,7 @@ make chart && make verify
 │   ├── fetch_adb_housing_projects.py   ADB housing universe (IATI files, sovereign-only)
 │   ├── merge_universe.py               Combine all three into one schema
 │   ├── download_wb_documents.py        WB Documents (WDS) API downloader
-│   ├── download_iadb_documents.py      IDB document downloader (curl-based; see IDB water repo for why)
+│   ├── download_iadb_documents.py      IDB document downloader (curl-based — adb.org/iadb.org block Python's requests library)
 │   ├── download_adb_documents.py       ADB document downloader (curl-based, with 429 backoff)
 │   ├── extract_text.py                 pdftotext wrapper (shared logic across all sibling pipelines)
 │   ├── search_pdfs_for_lead_paint.py   Multilingual keyword search + context classification
@@ -250,10 +244,10 @@ make chart && make verify
    read `outputs/search/lead_paint_search.txt` for the P508310 (Armenia)
    and P178986 (Africa regional) passages before citing either.
 5. **"Screened and excluded" vs. "tested and remediated" are conflated**
-   under `testing-commitment` — see the note in "Why paint needs a
-   different methodology than water" above. The one `testing-commitment`
-   finding in this run (Armenia) is actually a screen-and-exclude
-   mechanism, not lab testing of individual surfaces.
+   under `testing-commitment` — see "Methodology: classifying
+   lead-paint commitments" above. The one `testing-commitment` finding
+   in this run (Armenia) is actually a screen-and-exclude mechanism,
+   not lab testing of individual surfaces.
 6. **Sector-code scope choices.** All three institutions' defaults
    exclude broader urban-development codes that often include housing
    rehabilitation as a component. `--include-legacy` (WB),
