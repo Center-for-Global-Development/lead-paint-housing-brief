@@ -208,6 +208,8 @@ bar. This is the more precise of the two: a map's colour is easy to
 misjudge at a glance and can't label exact figures inline the way a sorted
 bar chart can.
 
+![Horizontal bar chart of every country with an active World Bank, IDB, or ADB housing project, sorted by lead-paint risk tier (no legal limit / legal limit not met / legal limit untested / no data) then by commitment dollars, with project count and market-survey evidence labelled on each bar.](outputs/audit/lead_paint_risk_bars.png)
+
 The finding both figures make visible: a country can have a legal limit
 *and* independently confirmed non-compliance (gold) — that's a stronger,
 more specific finding than "no law" (red), and both figures keep them
