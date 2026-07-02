@@ -130,6 +130,56 @@ to look up in the first place. `enrich_audit.py`'s console output
 keeps `No`, `No data`, and `Yes` as three separate buckets for exactly
 this reason.
 
+## Paint market-testing data (does the law hold up in practice?)
+
+The law-status join above answers "does a legal limit exist." A
+second, harder question is whether that limit is actually met on
+store shelves. `outputs/reference/paint_market_surveys.csv` is a
+hand-curated (not scripted/automated) table of independent paint
+market surveys — mostly from IPEN's national lead-paint testing
+program and LEEP's ongoing market monitoring — for the subset of our
+project countries where a real study exists. Every row cites its
+primary source; several figures that first appeared in
+compiled/summary sources turned out not to match the primary study
+when checked; the CSV's `Notes` column flags every case where a
+figure is derived (e.g. computed as a complement of a stated
+compliance rate) rather than directly quoted from the source, and
+every case with an unusually small sample size.
+
+Two results worth naming directly:
+
+- **Pakistan** has a 100 ppm legal limit (per the WHO indicator
+  above) and LEEP's own market monitoring shows oil-based lead paint's
+  market share fell from ~88% (2021) to ~41% (2024) — real progress,
+  but 41% of the market still exceeds the legal limit three years
+  after the law existed, in a country whose WB housing projects don't
+  themselves test for lead paint.
+- **Mexico**, similarly regulated on paper, had 55% of 118 sampled
+  paints exceed 90 ppm in a 2018 study limited to two cities
+  (Guadalajara, Puebla) — the country's WB housing project doesn't
+  mention lead paint either.
+
+This is the sharpest illustration of the caveat above: **a `Yes` in
+the law-status column does not mean the market is actually compliant,
+and where we can check, it usually isn't close.**
+
+No market-testing study was found for any of the seven countries with
+no legal limit at all (Belize, Bhutan, El Salvador, Maldives,
+Mongolia, Myanmar, Suriname) — market surveys cluster in larger,
+more-studied economies, so the countries with the weakest regulatory
+backstop are also the ones with the least independent scrutiny of
+what's actually for sale. That absence is itself worth naming in the
+write-up, not treated as a data gap to quietly work around.
+
+This table is not wired into the automated pipeline (unlike the WHO
+law-status join) because paint market surveys are heterogeneous
+one-off studies with varying sample sizes, thresholds, and years —
+curating and verifying each figure against its primary source is
+editorial work, not something a repeatable script should do
+unsupervised. Treat it as a citation-ready reference for the write-up,
+and re-verify any figure before publishing it — see the Notes column
+for where that matters most.
+
 ## Quick start
 
 ```bash
@@ -184,7 +234,7 @@ make chart && make verify
 └── outputs/
     ├── universe/                Project lists (WB, IDB, ADB, and merged)
     ├── search/                  Lead-paint keyword search results + classifications
-    ├── reference/               WHO lead-paint-law status by country
+    ├── reference/               WHO lead-paint-law status + hand-curated paint market-survey data
     └── audit/                   Per-project verdicts + region/institution chart
 ```
 
