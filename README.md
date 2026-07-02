@@ -180,6 +180,28 @@ unsupervised. Treat it as a citation-ready reference for the write-up,
 and re-verify any figure before publishing it — see the Notes column
 for where that matters most.
 
+## Risk map
+
+`plot_lead_paint_risk_map.py` renders a world map (`outputs/audit/lead_paint_risk_map.png`,
+plus an interactive `.html` version with per-country hover detail) showing every
+country with an active WB/IDB/ADB housing project, coloured by a four-tier risk
+scale built from the two reference tables above:
+
+| Tier | Colour | Meaning |
+|---|---|---|
+| No legal limit | red | Confirmed no domestic law restricting lead in paint |
+| Legal limit not met | gold | A law exists, but a market survey in our reference table found lead paint for sale above it |
+| Legal limit, untested | blue | A law exists; no market survey in our reference table to check it |
+| No data | grey | No WHO law-status record, or a WB multi-country regional operation with no single country to plot |
+
+The two-institution overlap this map makes visible: a country can have a legal
+limit *and* independently confirmed non-compliance (gold) — that's a stronger,
+more specific finding than "no law" (red), and the map keeps them visually
+distinct rather than collapsing "some risk" into one bucket. World Bank
+multi-country regional operations ("Eastern and Southern Africa", "Western and
+Central Africa") have no single country to plot and are excluded from the map
+(they're still counted in the audit totals elsewhere).
+
 ## Quick start
 
 ```bash
@@ -229,13 +251,14 @@ make chart && make verify
 │   ├── fetch_lead_paint_law_status.py  WHO lead-paint-law status by country
 │   ├── enrich_audit.py                 Add world-region + lead-paint-law-status metadata
 │   ├── plot_by_region.py               Render the by-region, by-institution chart
+│   ├── plot_lead_paint_risk_map.py     Render the world risk map (law status + market surveys)
 │   └── verify_pipeline.py              Sanity-check headline numbers
 │
 └── outputs/
     ├── universe/                Project lists (WB, IDB, ADB, and merged)
     ├── search/                  Lead-paint keyword search results + classifications
     ├── reference/               WHO lead-paint-law status + hand-curated paint market-survey data
-    └── audit/                   Per-project verdicts + region/institution chart
+    └── audit/                   Per-project verdicts + region/institution chart + risk map
 ```
 
 ## How the pipeline works
@@ -249,6 +272,7 @@ make chart && make verify
 | 5. audit | `summarize_portfolio.py` | Join into a per-project verdict. |
 | 6. enrich | `fetch_lead_paint_law_status.py`, `enrich_audit.py` | Add world-region metadata (local lookup) and WHO lead-paint-law status by country (one-time API pull, cached to `outputs/reference/`). |
 | 7. chart | `plot_by_region.py` | Stacked horizontal bar chart of $ commitments by region and institution, CGD brand colours. |
+| 8. risk-map | `plot_lead_paint_risk_map.py` | World choropleth of project countries by lead-paint risk tier (law status + market-survey evidence). |
 
 ## Known limitations
 

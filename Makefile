@@ -34,9 +34,11 @@ SEARCH          := $(OUT)/search/lead_paint_search.csv
 AUDIT           := $(OUT)/audit/portfolio_audit.csv
 AUDIT_REG       := $(OUT)/audit/portfolio_audit_with_region.csv
 CHART           := $(OUT)/audit/projects_by_region.png
+RISK_MAP        := $(OUT)/audit/lead_paint_risk_map.png
+MARKET_SURVEYS  := $(OUT)/reference/paint_market_surveys.csv
 MANIFEST        := $(DOCS)/_manifest.csv
 
-.PHONY: help all clean distclean audit chart verify \
+.PHONY: help all clean distclean audit chart risk-map verify \
         universe download extract-text search enrich
 
 help:
@@ -48,6 +50,7 @@ help:
 	@echo "  audit      Build portfolio_audit.csv (fast)"
 	@echo "  enrich     Add world-region metadata to the audit"
 	@echo "  chart      Render the by-region chart"
+	@echo "  risk-map   Render the lead-paint risk world map (law status + market surveys)"
 	@echo "  verify     Sanity-check the audit outputs against expected ranges"
 	@echo "  all        Full rebuild (downloads + reprocesses)"
 	@echo "  clean      Remove generated outputs (keeps downloaded PDFs)"
@@ -93,21 +96,33 @@ chart: $(CHART)
 $(CHART): $(AUDIT_REG)
 	$(PY) $(SCRIPTS)/plot_by_region.py
 
+# paint_market_surveys.csv is hand-curated (not fetched by a script -- see
+# README "Paint market-testing data"), so it's a plain prerequisite, not
+# a target with a recipe.
+risk-map: $(RISK_MAP)
+$(RISK_MAP): $(COMBINED) $(LAW_STATUS) $(MARKET_SURVEYS)
+	$(PY) $(SCRIPTS)/plot_lead_paint_risk_map.py
+
 verify: $(AUDIT_REG)
 	$(PY) $(SCRIPTS)/verify_pipeline.py
 
-all: chart verify
+all: chart risk-map verify
 	@echo "Full pipeline complete."
 
 clean:
 	rm -f $(OUT)/audit/portfolio_audit*.{csv,md}
 	rm -f $(OUT)/audit/projects_by_region.{png,svg}
+	rm -f $(OUT)/audit/lead_paint_risk_map.{png,html}
 	@echo "Removed generated outputs in outputs/audit."
 
+# NOTE: paint_market_surveys.csv is hand-curated (not fetched by any
+# script) and deliberately NOT removed here -- it would be permanently
+# lost, not just regenerated on the next `make`. Only remove the
+# script-generated who_lead_paint_law_status.csv.
 distclean: clean
 	rm -rf $(DOCS)
 	rm -f $(OUT)/search/lead_paint_search*.{csv,txt,log}
 	rm -f $(OUT)/universe/*.csv
-	rm -f $(OUT)/reference/*.csv
+	rm -f $(OUT)/reference/who_lead_paint_law_status.csv
 	rm -rf .iati_cache .iati_cache_adb
 	@echo "Removed downloaded PDFs and all intermediates."
