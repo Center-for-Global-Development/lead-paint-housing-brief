@@ -45,6 +45,11 @@ TIER_COLORS = {
 }
 TIER_PRIORITY = {"No legal limit": 3, "Legal limit not met": 2, "Legal limit, untested": 1, "No data": 0}
 
+# Short institution codes for the per-bar labels -- ADB/IDB/WB rather
+# than bare first-letter initials (A/I/W), so the label is legible
+# without having to infer what each letter stands for.
+INSTITUTION_ABBR = {"World Bank": "WB", "IDB": "IDB", "ADB": "ADB"}
+
 TEAL_BLACK = "#1A272A"
 TEAL = "#0B4C5B"
 
@@ -110,7 +115,7 @@ def main() -> int:
             "law_status": status or "No data",
             "n": p["n"],
             "commitment_b": p["commitment_usd"] / 1e9,
-            "institutions": "+".join(sorted(inst[0] for inst in p["institutions"])),
+            "institutions": "+".join(sorted(INSTITUTION_ABBR.get(inst, inst) for inst in p["institutions"])),
             "market_pct": market.get(country),
         })
 
