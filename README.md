@@ -180,12 +180,10 @@ unsupervised. Treat it as a citation-ready reference for the write-up,
 and re-verify any figure before publishing it — see the Notes column
 for where that matters most.
 
-## Risk map
+## Risk map and bar chart
 
-`plot_lead_paint_risk_map.py` renders a world map (`outputs/audit/lead_paint_risk_map.png`,
-plus an interactive `.html` version with per-country hover detail) showing every
-country with an active WB/IDB/ADB housing project, coloured by a four-tier risk
-scale built from the two reference tables above:
+Two figures, same underlying four-tier risk classification, built from the
+two reference tables above:
 
 | Tier | Colour | Meaning |
 |---|---|---|
@@ -194,13 +192,26 @@ scale built from the two reference tables above:
 | Legal limit, untested | blue | A law exists; no market survey in our reference table to check it |
 | No data | grey | No WHO law-status record, or a WB multi-country regional operation with no single country to plot |
 
-The two-institution overlap this map makes visible: a country can have a legal
-limit *and* independently confirmed non-compliance (gold) — that's a stronger,
-more specific finding than "no law" (red), and the map keeps them visually
-distinct rather than collapsing "some risk" into one bucket. World Bank
-multi-country regional operations ("Eastern and Southern Africa", "Western and
-Central Africa") have no single country to plot and are excluded from the map
-(they're still counted in the audit totals elsewhere).
+**`plot_lead_paint_risk_map.py`** renders a world choropleth
+(`outputs/audit/lead_paint_risk_map.png`, plus an interactive `.html` with
+per-country hover detail). Good for an at-a-glance geographic read. World
+Bank multi-country regional operations ("Eastern and Southern Africa",
+"Western and Central Africa") have no single country to plot and are
+excluded from the map (they're still counted in the audit totals elsewhere).
+
+**`plot_lead_paint_risk_bars.py`** renders a horizontal bar chart
+(`outputs/audit/lead_paint_risk_bars.png`) — every country (including the two
+regional aggregates the map can't show) on one comparable $-commitment axis,
+sorted worst-tier-first, with the project count, contributing institutions,
+and market-survey percentage (where we have one) labelled directly on each
+bar. This is the more precise of the two: a map's colour is easy to
+misjudge at a glance and can't label exact figures inline the way a sorted
+bar chart can.
+
+The finding both figures make visible: a country can have a legal limit
+*and* independently confirmed non-compliance (gold) — that's a stronger,
+more specific finding than "no law" (red), and both figures keep them
+visually distinct rather than collapsing "some risk" into one bucket.
 
 ## Quick start
 
@@ -251,7 +262,8 @@ make chart && make verify
 │   ├── fetch_lead_paint_law_status.py  WHO lead-paint-law status by country
 │   ├── enrich_audit.py                 Add world-region + lead-paint-law-status metadata
 │   ├── plot_by_region.py               Render the by-region, by-institution chart
-│   ├── plot_lead_paint_risk_map.py     Render the world risk map (law status + market surveys)
+│   ├── plot_lead_paint_risk_map.py     Render the world risk choropleth
+│   ├── plot_lead_paint_risk_bars.py    Render the sorted risk bar chart
 │   └── verify_pipeline.py              Sanity-check headline numbers
 │
 └── outputs/
@@ -273,6 +285,7 @@ make chart && make verify
 | 6. enrich | `fetch_lead_paint_law_status.py`, `enrich_audit.py` | Add world-region metadata (local lookup) and WHO lead-paint-law status by country (one-time API pull, cached to `outputs/reference/`). |
 | 7. chart | `plot_by_region.py` | Stacked horizontal bar chart of $ commitments by region and institution, CGD brand colours. |
 | 8. risk-map | `plot_lead_paint_risk_map.py` | World choropleth of project countries by lead-paint risk tier (law status + market-survey evidence). |
+| 9. risk-bars | `plot_lead_paint_risk_bars.py` | Sorted bar-chart alternative to the map, with exact project counts and market-survey percentages labelled per country. |
 
 ## Known limitations
 

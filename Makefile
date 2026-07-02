@@ -35,10 +35,11 @@ AUDIT           := $(OUT)/audit/portfolio_audit.csv
 AUDIT_REG       := $(OUT)/audit/portfolio_audit_with_region.csv
 CHART           := $(OUT)/audit/projects_by_region.png
 RISK_MAP        := $(OUT)/audit/lead_paint_risk_map.png
+RISK_BARS       := $(OUT)/audit/lead_paint_risk_bars.png
 MARKET_SURVEYS  := $(OUT)/reference/paint_market_surveys.csv
 MANIFEST        := $(DOCS)/_manifest.csv
 
-.PHONY: help all clean distclean audit chart risk-map verify \
+.PHONY: help all clean distclean audit chart risk-map risk-bars verify \
         universe download extract-text search enrich
 
 help:
@@ -51,6 +52,7 @@ help:
 	@echo "  enrich     Add world-region metadata to the audit"
 	@echo "  chart      Render the by-region chart"
 	@echo "  risk-map   Render the lead-paint risk world map (law status + market surveys)"
+	@echo "  risk-bars  Render the lead-paint risk bar chart (same data, sorted table-like view)"
 	@echo "  verify     Sanity-check the audit outputs against expected ranges"
 	@echo "  all        Full rebuild (downloads + reprocesses)"
 	@echo "  clean      Remove generated outputs (keeps downloaded PDFs)"
@@ -103,16 +105,21 @@ risk-map: $(RISK_MAP)
 $(RISK_MAP): $(COMBINED) $(LAW_STATUS) $(MARKET_SURVEYS)
 	$(PY) $(SCRIPTS)/plot_lead_paint_risk_map.py
 
+risk-bars: $(RISK_BARS)
+$(RISK_BARS): $(COMBINED) $(LAW_STATUS) $(MARKET_SURVEYS)
+	$(PY) $(SCRIPTS)/plot_lead_paint_risk_bars.py
+
 verify: $(AUDIT_REG)
 	$(PY) $(SCRIPTS)/verify_pipeline.py
 
-all: chart risk-map verify
+all: chart risk-map risk-bars verify
 	@echo "Full pipeline complete."
 
 clean:
 	rm -f $(OUT)/audit/portfolio_audit*.{csv,md}
 	rm -f $(OUT)/audit/projects_by_region.{png,svg}
 	rm -f $(OUT)/audit/lead_paint_risk_map.{png,html}
+	rm -f $(OUT)/audit/lead_paint_risk_bars.{png,svg}
 	@echo "Removed generated outputs in outputs/audit."
 
 # NOTE: paint_market_surveys.csv is hand-curated (not fetched by any
